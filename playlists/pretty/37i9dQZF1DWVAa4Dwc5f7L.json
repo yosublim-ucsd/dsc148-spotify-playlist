@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 381836,
+  "num_followers": 381867,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTBmMTA4NzQ1NTRhOWZjOTVjOTRkNWQwNTgyMGY1MGRiZjdlNDFk",
+  "snapshot_id": "MCxkN2I3ZWQ5OTZjYzkyYTNmYmRmMmM0YTVhMTQ2NGI5NGE5OWY1ODBl",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Qu\u00e9date Conmigo (Remix)",
         "url": "https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 213976,
       "name": "Qu\u00e9date Conmigo - Remix",
       "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
       },
@@ -1227,6 +1243,22 @@
       "duration_ms": 163349,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "LIMI-T Para Siempre",
+        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "Quiero Quemar La Pista",
+      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1251,22 +1283,6 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "LIMI-T Para Siempre",
-        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
-      },
-      "artists": [
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "Quiero Quemar La Pista",
-      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 211098,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Confundido",
-        "url": "https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        }
-      ],
-      "duration_ms": 193522,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Ganas (Versi\u00f3n Merengue)",
         "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
       },
@@ -1459,6 +1475,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Gozando",
         "url": "https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC"
       },
@@ -1475,38 +1507,6 @@
       "duration_ms": 216833,
       "name": "Gozando",
       "url": "https://open.spotify.com/track/0o6MsPQs0f2xjkMnahNvby"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Vivo De Tus Recuerdos",
-        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Arrieta",
-          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
-        }
-      ],
-      "duration_ms": 198964,
-      "name": "Vivo De Tus Recuerdos",
-      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Merengue De hoy",
         "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Vivo De Tus Recuerdos",
+        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+        }
+      ],
+      "duration_ms": 198964,
+      "name": "Vivo De Tus Recuerdos",
+      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
     },
     {
       "added_at": "2024-02-09 05:00:00",

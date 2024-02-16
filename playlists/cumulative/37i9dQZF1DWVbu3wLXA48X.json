@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Faye Webster",
+  "description": "Current indie tunes from Asia and around the world. Cover: Vampire Weekend",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 168937,
       "name": "Anything",
       "url": "https://open.spotify.com/track/7l8nx52ZgtS0uSYYNMhanA"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208750,
       "name": "Apart, so",
       "url": "https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE"
@@ -3399,6 +3399,28 @@
     },
     {
       "album": {
+        "name": "Butterfly Net (feat. Weyes Blood)",
+        "url": "https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333166,
+      "name": "Butterfly Net (feat. Weyes Blood)",
+      "url": "https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW"
+    },
+    {
+      "album": {
         "name": "Cadillac",
         "url": "https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm"
       },
@@ -3428,7 +3450,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 229667,
       "name": "Caesar on a TV Screen",
       "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"
@@ -3446,7 +3468,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 252878,
       "name": "Cairngorms",
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
@@ -3746,6 +3768,24 @@
       "duration_ms": 234285,
       "name": "Capa City",
       "url": "https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r"
+    },
+    {
+      "album": {
+        "name": "Capricorn / Gen-X Cops",
+        "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249560,
+      "name": "Capricorn",
+      "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
     },
     {
       "album": {
@@ -4216,7 +4256,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 220813,
       "name": "Close Quarters",
       "url": "https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd"
@@ -4380,6 +4420,24 @@
       "duration_ms": 158600,
       "name": "coming of age",
       "url": "https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi"
+    },
+    {
+      "album": {
+        "name": "Common Blue",
+        "url": "https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231023,
+      "name": "Common Blue",
+      "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
     },
     {
       "album": {
@@ -5370,7 +5428,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 151960,
       "name": "Different Directions",
       "url": "https://open.spotify.com/track/59YYx42Tyvuq5REmjJTWyh"
@@ -6074,7 +6132,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 204777,
       "name": "Edith",
       "url": "https://open.spotify.com/track/0RLOqj3jq878w5UMg7tjp6"
@@ -6096,6 +6154,24 @@
       "duration_ms": 135593,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt"
     },
     {
       "album": {
@@ -6731,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202033,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D"
+    },
+    {
+      "album": {
         "name": "F.O.O.F.",
         "url": "https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z"
       },
@@ -6962,7 +7056,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211768,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho"
@@ -7226,6 +7320,24 @@
       "duration_ms": 217650,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/7oxBqKaMhXexOEpSYjlgoE"
+    },
+    {
+      "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183970,
+      "name": "Fell First, Fell Hard",
+      "url": "https://open.spotify.com/track/4uBqMCNpMiSYxfQxYPmdbB"
     },
     {
       "album": {
@@ -9226,7 +9338,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 322453,
       "name": "Heaven - feat. Damon Albarn",
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
@@ -9262,7 +9374,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
@@ -10190,7 +10302,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 209621,
       "name": "I Feel Something Like That",
       "url": "https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ"
@@ -10968,7 +11080,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 191000,
       "name": "Intruder",
       "url": "https://open.spotify.com/track/2D20Br4n9YAucPqOZp027g"
@@ -11676,7 +11788,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 173956,
       "name": "LAUREN",
       "url": "https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU"
@@ -11792,7 +11904,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163228,
       "name": "Lego Ring",
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
@@ -13581,6 +13693,24 @@
     },
     {
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -13964,7 +14094,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 175410,
       "name": "My Lady of Mercy",
       "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
@@ -14236,7 +14366,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 196077,
       "name": "Name",
       "url": "https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj"
@@ -15804,7 +15934,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
@@ -15992,7 +16122,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146904,
       "name": "Over You",
       "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
@@ -16252,7 +16382,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 177617,
       "name": "Pay the Toll",
       "url": "https://open.spotify.com/track/4NrSr7PgOTkmERYRUpbI1g"
@@ -16270,7 +16400,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 278400,
       "name": "Peace Sign",
       "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
@@ -16744,6 +16874,24 @@
       "duration_ms": 185093,
       "name": "Poodles Dancing",
       "url": "https://open.spotify.com/track/2Zi7DNAS7cUZ50ybfLjdf1"
+    },
+    {
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "POP POP POP",
+      "url": "https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a"
     },
     {
       "album": {
@@ -17736,7 +17884,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 272800,
       "name": "Ruined",
       "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
@@ -18508,7 +18656,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 209554,
       "name": "Semi Automatic Butane",
       "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
@@ -20043,6 +20191,24 @@
     },
     {
       "album": {
+        "name": "Desire, I Want To Turn Into You: Everasking Edition",
+        "url": "https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233416,
+      "name": "Spring Is Coming With A Strawberry In The Mouth",
+      "url": "https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF"
+    },
+    {
+      "album": {
         "name": "Spunky!",
         "url": "https://open.spotify.com/album/50fMxlCKUEz8M4aRo0IHe7"
       },
@@ -20918,7 +21084,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 179091,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
@@ -21682,7 +21848,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
@@ -23083,6 +23249,28 @@
     },
     {
       "album": {
+        "name": "u.",
+        "url": "https://open.spotify.com/album/6QhYWeJu70SNRcKnVCGcPQ"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        },
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159702,
+      "name": "u.",
+      "url": "https://open.spotify.com/track/31YKmnHqN03fMd8XhEy6Et"
+    },
+    {
+      "album": {
         "name": "Uncolor",
         "url": "https://open.spotify.com/album/1fvAfZazn45UvimgK7WAmj"
       },
@@ -23734,7 +23922,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206546,
       "name": "Water Underground",
       "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
@@ -24904,7 +25092,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
@@ -25020,6 +25208,24 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "album": {
+        "name": "Your Apartment",
+        "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198707,
+      "name": "Your Apartment",
+      "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
     },
     {
       "album": {

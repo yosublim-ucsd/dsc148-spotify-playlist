@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Icona Pop
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 104,845 likes - 142 songs - 7 hr 14 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 104,841 likes - 142 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 141 | [UNAVAILABLE \(feat\. Musa Keys\) \- Major Lazer Remix](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [UNAVAILABLE \(feat\. Musa Keys\) \[Major Lazer Remix\]](https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs) | 3:52 |
 | 142 | [Beautiful Together \- Genix Remix](https://open.spotify.com/track/14tdsaZLtW9WqHJJFO3ZWn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w) | [Beautiful Together \(Genix Remix\)](https://open.spotify.com/album/2JMQN2Xopd7ORafrvqhgPP) | 4:00 |
 
-Snapshot ID: `NDA3OCw2ZGU4MzU5ZmUxMTczMjNlM2JjNjcxNzFkMTk4ZTU4ZDgwYzhhYTNh`
+Snapshot ID: `NDA4MCw3ZGMzNjRhNjc4ZmExMTBjNjlkMzE5YWMxZjZkYzgxMjhkNWYxM2I3`

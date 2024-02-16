@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,507 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,510 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 21 | [Pipistrela](https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 1:53 |
 | 22 | [Por una Cabeza](https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Adriana Varela y Piano](https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv) | 3:13 |
 | 23 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
-| 24 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
-| 25 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
+| 24 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
+| 25 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
 | 26 | [Naranjo en Flor \(feat\. Mercedes Sosa\)](https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:45 |
 | 27 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 28 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 40 | [La canción de Buenos Aires](https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey) | [Azucena Maizani](https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n), [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Orestes Cufaro](https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm) | [Vintage Argentine Tangos \(1928 \- 1954\), Vol\. 2](https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz) | 2:45 |
 | 41 | [La Mariposa](https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Lejos](https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc) | 4:05 |
 | 42 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
-| 43 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
+| 43 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 44 | [El Corazón al Sur](https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:03 |
-| 45 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
+| 45 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
 | 46 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 47 | [Rosas de Otoño](https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Ofrenda Gaucha: Valsecito Amigo](https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk) | 2:45 |
 | 48 | [La Piel de la Ciudad](https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:13 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
 | 55 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 
-Snapshot ID: `MCwwOGY4Njk5ODg1OTZmYTIxNGY3YTg4ZWNmZjQ2ZmQ0MzFiODc0MWEx`
+Snapshot ID: `MCxmZTVkZmIxZjE2MzJmYjIyN2FjMGIzODUxNDAxZTVhZTNjNDAyZjEy`

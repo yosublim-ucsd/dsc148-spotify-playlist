@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Mik L
+> Les hits zouk du moment\. Photo : Aya Nakamura
 
-92 songs - 4 hr 56 min
+93 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 | 2023-09-28 | 2024-01-26 |
 | [DOUX](https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn) | [LOANA](https://open.spotify.com/artist/7v79OklJLpETja35YteNgT) | [DOUX](https://open.spotify.com/album/27haWl4XrngKEoMiDP8yAY) | 3:31 | 2024-02-08 |  |
 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 | 2023-10-26 | 2023-12-01 |
-| [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 | 2023-10-26 |  |
+| [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 | 2023-10-26 | 2024-02-16 |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2023-09-28 |  |
 | [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 | 2023-12-14 |  |
 | [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 | 2023-12-15 |
@@ -69,6 +69,7 @@
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 |  |
 | [Oublie Dehors](https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Oublie Dehors](https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg) | 2:46 | 2023-09-28 | 2024-01-05 |
 | [Oulala](https://open.spotify.com/track/2d5gOkKwpkBfHW0zpSle82) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [oulala](https://open.spotify.com/album/4w91x3KGmOBtKGo4tq0Bwn) | 2:35 | 2023-09-28 | 2023-10-20 |
+| [OXYGEN](https://open.spotify.com/track/4ZZZqHNebHX4LxhF2kvMPZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [OXYGEN](https://open.spotify.com/album/5a844k8EwfScZh7aLUGEPv) | 3:35 | 2024-02-15 |  |
 | [Pa Nowmal](https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Pa Nowmal](https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ) | 3:47 | 2024-02-08 |  |
 | [Piment](https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Piment](https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E) | 2:29 | 2023-10-19 | 2023-11-17 |
 | [Pleine Lune](https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Pleine Lune](https://open.spotify.com/album/30hnVckTGUxSXAxujoickw) | 2:30 | 2023-09-28 | 2023-11-24 |

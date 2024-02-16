@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-204 songs - 10 hr 0 min
+205 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [We Were So Close \- From "Frozen"/Score](https://open.spotify.com/track/6hpnkeYsRsHNyVVv3JnCX1) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:53 | 2022-05-23 |  |
 | [What Else Can I Do?](https://open.spotify.com/track/2ecEcNTfy1kYSOfc2ZwQlU) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Magical](https://open.spotify.com/album/4xnI8sxQwIRvsfAHXIvEIH) | 2:55 | 2022-04-15 |  |
 | [What Else Can I Do?](https://open.spotify.com/track/5RE32waR7pe72PoTbQO6VS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Magical](https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh) | 3:04 | 2022-04-15 |  |
+| [What's My Name](https://open.spotify.com/track/08AB4WKDvxksMBTGy4EIaM) | [Natalie Nayar](https://open.spotify.com/artist/60rWs2TV4qieYDnQwV2Imu), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi: Descendants](https://open.spotify.com/album/4EsXYSOiDfehcKIyPX7DQC) | 2:16 | 2024-02-14 |  |
 | [What's This?](https://open.spotify.com/track/3Ow2UnS46nGFXyl4UkYebK) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 5:34 | 2022-04-15 |  |
 | [When She Loved Me \- John Connearn Version](https://open.spotify.com/track/7i1ElAFtdc1ZQ35caqmjMy) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: The John Connearn Sessions](https://open.spotify.com/album/0s1MA78U1pEG2Bxcyg4n6u) | 3:19 | 2022-04-15 |  |
 | [When Will My Life Begin?](https://open.spotify.com/track/0iH7gzZzfhKOOFJYRN4oAB) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Self\-Care Day](https://open.spotify.com/album/2AWQhbb4GAH5zPhITUPPvJ) | 2:26 | 2022-04-15 |  |

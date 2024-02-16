@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 147537,
+  "num_followers": 147607,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjJiZmJkODI5YTEzM2NlNzNhNjdiMWM3MzkyOWU0Njk3NDFlOThj",
+  "snapshot_id": "MCw4NjZlMTg3ZjM5ODJmZTQwMjRjN2M4NjYwNzFkNTAwYjU3NzY4MWM5",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Hoja en Blanco",
-        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "K.O.B. Live",
         "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 234240,
       "name": "Mi Corazoncito",
       "url": "https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Hoja en Blanco",
+        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -703,22 +687,6 @@
       "duration_ms": 267000,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -739,22 +707,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Canci\u00f3n Bonita",
-        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 169559,
-      "name": "Canci\u00f3n Bonita",
-      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -771,6 +735,42 @@
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Canci\u00f3n Bonita",
+        "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 169559,
+      "name": "Canci\u00f3n Bonita",
+      "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+        "name": "Amor Andino",
+        "url": "https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+      "duration_ms": 213906,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Amor Andino",
-        "url": "https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8"
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 213906,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww"
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     },
     {
       "added_at": "2024-02-09 05:00:00",

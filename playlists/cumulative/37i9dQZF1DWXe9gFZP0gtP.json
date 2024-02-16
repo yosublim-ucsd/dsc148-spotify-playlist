@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Eclipsar",
+        "url": "https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l"
+      },
+      "artists": [
+        {
+          "name": "Adrian Stenhammar",
+          "url": "https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Eclipsar",
+      "url": "https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT"
+    },
+    {
+      "album": {
         "name": "Een mooie droom",
         "url": "https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw"
       },
@@ -1990,6 +2008,24 @@
       "duration_ms": 191609,
       "name": "Exoplaneta",
       "url": "https://open.spotify.com/track/4luQBiFE4vKIyJoXGBOQm8"
+    },
+    {
+      "album": {
+        "name": "Extensively",
+        "url": "https://open.spotify.com/album/4yRZiTgskgwTeQNRUozKBd"
+      },
+      "artists": [
+        {
+          "name": "Noah Florence",
+          "url": "https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172529,
+      "name": "Extensively",
+      "url": "https://open.spotify.com/track/4Qha9RxNLLahCEDGJ6SVDn"
     },
     {
       "album": {
@@ -4765,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/0R6seJn1CnZmDlDpd3RzLg"
+      },
+      "artists": [
+        {
+          "name": "Zims Ele",
+          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Quiet Stars",
+      "url": "https://open.spotify.com/track/7KdBDKcvAKp8DcV4jMbk62"
+    },
+    {
+      "album": {
         "name": "Quiet Times",
         "url": "https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5"
       },
@@ -6778,6 +6832,24 @@
       "duration_ms": 194655,
       "name": "You've Sent Me Peace",
       "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/4NvYqHaSJ0b2Ue2o9ecgd3"
+      },
+      "artists": [
+        {
+          "name": "Vellore",
+          "url": "https://open.spotify.com/artist/7IYQPynt9mzd6LR9XFW9zR"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/1JObSSGWbmXLnqsyGAMwTW"
     },
     {
       "album": {

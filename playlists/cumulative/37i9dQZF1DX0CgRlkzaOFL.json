@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 205426,
       "name": "Angel's Egg: Prelude",
       "url": "https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z"
@@ -920,6 +920,28 @@
       "duration_ms": 165899,
       "name": "piece by ten",
       "url": "https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6"
+    },
+    {
+      "album": {
+        "name": "Yoshihiro Kanno: Light, Water, Rainbow...",
+        "url": "https://open.spotify.com/album/4eF5SAGEWD9UGxOBJZAmio"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Kanno",
+          "url": "https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m"
+        },
+        {
+          "name": "Noriko Ogawa",
+          "url": "https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Prelude (From \"Angel's Egg\")",
+      "url": "https://open.spotify.com/track/4DV8T3Ec2VtvsHpkYJ61Um"
     },
     {
       "album": {

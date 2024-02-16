@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,269 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,355 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 27 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
 | 28 | [Tamo Junto](https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tamo Junto](https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6) | 3:15 |
 | 29 | [Nossa Gente \- Ao Vivo](https://open.spotify.com/track/5QGURHzwT0j0Fmom11dPhk) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Nic Medeiros](https://open.spotify.com/artist/7z4f7gF5I8R1ZQVPao5Tts), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx) | [Nossa Gente \(Ao Vivo Em Balneário Camboriú, Santa Catarina / 2020\)](https://open.spotify.com/album/0AhbaBsyYzznGVHfC3Bm7Y) | 4:09 |
-| 30 | [O Que Eu Preciso É de Jesus \(Live Session\)](https://open.spotify.com/track/4gfNeWiST9t0KjyiR5Ix2r) | [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn) | [O Que Eu Preciso É de Jesus \(Live Session\)](https://open.spotify.com/album/10In8vB7Xzk4xHmfdDt5Dq) | 3:19 |
-| 31 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 |
+| 30 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 |
+| 31 | [O Que Eu Preciso É de Jesus \(Live Session\)](https://open.spotify.com/track/4gfNeWiST9t0KjyiR5Ix2r) | [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn) | [O Que Eu Preciso É de Jesus \(Live Session\)](https://open.spotify.com/album/10In8vB7Xzk4xHmfdDt5Dq) | 3:19 |
 | 32 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 33 | [Eu Não Desisto](https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3) | 5:49 |
 | 34 | [Caixa D'água](https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Templo Soul](https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxhZjg0YWUyNDU1ZjE3YWMzNDllN2IxNmRmMDE0YmY0OWMxM2U4NjNk`
+Snapshot ID: `MCxkMjYyN2EwNWRmNmU5MzE1MjM0NmQ2NmQ5YzRhZDIyMWQ4MTk2NzAy`

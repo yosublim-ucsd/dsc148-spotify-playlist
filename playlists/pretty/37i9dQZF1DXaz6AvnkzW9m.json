@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 miguel cornejo, Calle 24 en portada.",
-  "num_followers": 121373,
+  "num_followers": 121500,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQ4NzcyMGUxOGEzZDM3YzM3YzBkZTJjNzU3MzQ5ZmIyMmQ4MWJh",
+  "snapshot_id": "MCw2ZDhkOGZkNDJhZTVmODhjYzUxODI0ZTBmOGFjZWQyZDU3NDU1NDFk",
   "tracks": [
     {
       "added_at": "2024-02-02 17:12:32",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2024-02-02 17:12:32",
       "album": {
-        "name": "Le Gusta",
-        "url": "https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf"
+        "name": "El After",
+        "url": "https://open.spotify.com/album/7jxa0KY12QrVsMcmLt4YB7"
       },
       "artists": [
         {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+          "name": "Ricky Barajas",
+          "url": "https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 155374,
-      "name": "Le Gusta",
-      "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
+      "duration_ms": 131172,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb"
     },
     {
       "added_at": "2024-02-02 17:12:32",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2024-02-02 17:12:32",
       "album": {
-        "name": "El After",
-        "url": "https://open.spotify.com/album/7jxa0KY12QrVsMcmLt4YB7"
+        "name": "Le Gusta",
+        "url": "https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf"
       },
       "artists": [
         {
-          "name": "Ricky Barajas",
-          "url": "https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
         }
       ],
-      "duration_ms": 131172,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb"
+      "duration_ms": 155374,
+      "name": "Le Gusta",
+      "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
     },
     {
       "added_at": "2024-02-02 17:12:32",

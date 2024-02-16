@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Livinho com LUDMILLA e DJ Matt D, Luisa Sonza com MC Kevin o Chris  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,789 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910,110 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Vai Ter Bololô](https://open.spotify.com/track/2bjNckt0HqkftQGUvpG24n) | [Wawa](https://open.spotify.com/artist/1QfU5JG3tOzCW1OGxs6yUa), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA) | [Vai Ter Bololô](https://open.spotify.com/album/0FVS4GR7P3R9nhXnjJ5Ity) | 2:07 |
 | 50 | [Vem Pro Bloco](https://open.spotify.com/track/6436aUR61iBCNcXcSpMrgI) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [DJ Dodô](https://open.spotify.com/artist/1AwayCNfbReYqh7wm3gqDo) | [Vem Pro Bloco](https://open.spotify.com/album/3l16FLEuDFNV8BYumID7KQ) | 2:19 |
 
-Snapshot ID: `MCw4NDg4NTNhMjE2ZjgxYTE1ZmUyYmI3MjQxMjQzOTQ0ZTNjMmYwMTZi`
+Snapshot ID: `MCw4MzZiYWY5MjE3NDcyMjZjYjgzNmI3Yzc3NTZhZmQxZTRhNTg4ZTdk`

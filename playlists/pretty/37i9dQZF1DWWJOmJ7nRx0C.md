@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > rock at its loudest \- turn it up ⬆️ Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,275 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,280 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 75 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 |
 | 76 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 
-Snapshot ID: `MCwzZjZhMTY2NmI4NDRhYTFlNmNhODJkNDI1YTBmNzEzYTlkZWMzNWZi`
+Snapshot ID: `MCw2MTEyYzU0Mzc1ZjBhNzNhZjZlNjcyMmYzNmY1N2VmYmZjNTI5MjQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > EKKSTACY along with today's Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,667,138 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,667,283 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 51 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
 | 52 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 
-Snapshot ID: `MCwyZjA0OTA1MzRkYzAxOTZjZjIzMzM1ZDRhMmE1NjljNjIyZDE1YmMy`
+Snapshot ID: `MCwwYTUzNTIwZWQ4YWE4ZTY0MWI4MDZjZjBhMTEyNDNiMjNmNWQ5MDU4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Mimi Barks",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. PVRIS",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+    },
+    {
+      "album": {
         "name": "hawthorne81 / atoms",
         "url": "https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV"
       },
@@ -997,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+    },
+    {
+      "album": {
         "name": "Be With Me",
         "url": "https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa"
       },
@@ -1124,7 +1160,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192000,
       "name": "BIRTH OF VENUS",
       "url": "https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl"
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206495,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/4Ft8VwrsSfGV2bXmWf51Kf"
@@ -1782,6 +1818,32 @@
       "duration_ms": 178195,
       "name": "BULLET MAN",
       "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
+    },
+    {
+      "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175959,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
     },
     {
       "album": {
@@ -2766,7 +2828,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 186987,
       "name": "cyber meat",
       "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
@@ -5496,7 +5558,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 218181,
       "name": "HAUNT ME",
       "url": "https://open.spotify.com/track/0zCi2lF3bGHIIj4SECIOG9"
@@ -5536,6 +5598,24 @@
       "duration_ms": 220000,
       "name": "Haunted Be Thy",
       "url": "https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF"
+    },
+    {
+      "album": {
+        "name": "have your say",
+        "url": "https://open.spotify.com/album/55Eilh0NmQzUhd1bkjmjcv"
+      },
+      "artists": [
+        {
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220301,
+      "name": "have your say",
+      "url": "https://open.spotify.com/track/37iNNxpERmGMu9wFHNZ4Gy"
     },
     {
       "album": {
@@ -7486,7 +7566,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 97674,
       "name": "LEAVE WIV ME (FEAT. ZAND + REM\u00c9E)",
       "url": "https://open.spotify.com/track/70rzwfKW74Dv6hzAXoTTaK"
@@ -10626,6 +10706,28 @@
       "duration_ms": 140563,
       "name": "Rich Bitch Juice - Laura Les Remix",
       "url": "https://open.spotify.com/track/0hfjiQ13PQ4TcHOXyi1NWx"
+    },
+    {
+      "album": {
+        "name": "Riot Room",
+        "url": "https://open.spotify.com/album/7bjsqLStdEex5tESKxUlEA"
+      },
+      "artists": [
+        {
+          "name": "Hyper",
+          "url": "https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Riot Room",
+      "url": "https://open.spotify.com/track/7nsxiBMHJl35rMcajgkV7E"
     },
     {
       "album": {

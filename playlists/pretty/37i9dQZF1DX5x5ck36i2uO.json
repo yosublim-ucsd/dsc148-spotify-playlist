@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 2315,
+  "num_followers": 2325,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDE5ZTdmM2QxZjMwNzM1ODA0NTFiMDRmYWIyYzQ5MmMwZTQ0NDE1",
+  "snapshot_id": "MCw0NmIxNWM3MzFhODRhZDc2MTU0M2Y5YzA1YmJjYTZkYjgxYjg2Yzg2",
   "tracks": [
     {
       "added_at": "2023-11-08 07:39:22",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
+        "name": "THE SOLOEST",
+        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "duration_ms": 179925,
+      "name": "Fake Flower (feat. Nucksal)",
+      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -523,22 +543,18 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "THE SOLOEST",
-        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
       "artists": [
         {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 179925,
-      "name": "Fake Flower (feat. Nucksal)",
-      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+      "duration_ms": 230173,
+      "name": "Roommate",
+      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Roommate",
-      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -595,26 +595,6 @@
       "duration_ms": 233458,
       "name": "Journey",
       "url": "https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Jung Yup",
-          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -643,6 +623,26 @@
       "duration_ms": 240520,
       "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
       "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Jung Yup",
+          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
     },
     {
       "added_at": "2023-11-08 07:39:22",

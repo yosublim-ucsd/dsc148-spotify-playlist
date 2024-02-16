@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 121846,
+  "num_followers": 121895,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWI0NTIyN2JmNjhiMTM0OTBlM2FjZTEwN2NhN2QwNjZjZGQ1ZTVm",
+  "snapshot_id": "MCxhMmYyMjA4MGNjYjU0OGMyZTViNTA5MjU2MWE5Yjc4ZDUxNDdjNjU2",
   "tracks": [
     {
       "added_at": "2024-02-01 13:43:37",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "In My Element",
-        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 523613,
-      "name": "Maiden Voyage / Everything In Its Right Place",
-      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
+        "name": "In My Element",
+        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 523613,
+      "name": "Maiden Voyage / Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
         "name": "Follow the White Rabbit",
         "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -1159,6 +1159,30 @@
       "duration_ms": 157200,
       "name": "Can't Buy Me Love",
       "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
+        "name": "Give Us These Days",
+        "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
+      },
+      "artists": [
+        {
+          "name": "Lynne Arriale Trio",
+          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
+        },
+        {
+          "name": "Jasper Somsen",
+          "url": "https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY"
+        },
+        {
+          "name": "Jasper Van Hulten",
+          "url": "https://open.spotify.com/artist/4fd2c95arvB2uh6V4PFydQ"
+        }
+      ],
+      "duration_ms": 361813,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1231,30 +1255,6 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Give Us These Days",
-        "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
-      },
-      "artists": [
-        {
-          "name": "Lynne Arriale Trio",
-          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
-        },
-        {
-          "name": "Jasper Somsen",
-          "url": "https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY"
-        },
-        {
-          "name": "Jasper Van Hulten",
-          "url": "https://open.spotify.com/artist/4fd2c95arvB2uh6V4PFydQ"
-        }
-      ],
-      "duration_ms": 361813,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1291,30 +1291,6 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 549600,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1367,18 +1343,26 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
       "artists": [
         {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
         }
       ],
-      "duration_ms": 219625,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
+      "duration_ms": 549600,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1399,6 +1383,22 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "duration_ms": 233625,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
         "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
         "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 210593,
       "name": "When Most I Wink - Sonnet 43",
       "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
-        }
-      ],
-      "duration_ms": 233625,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1711,26 +1711,18 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Speak Low II",
-        "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
       },
       "artists": [
         {
-          "name": "Lucia Cadotsch",
-          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
         }
       ],
-      "duration_ms": 318086,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1759,18 +1751,26 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+        "name": "Speak Low II",
+        "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
       },
       "artists": [
         {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+          "name": "Lucia Cadotsch",
+          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+      "duration_ms": 318086,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Groove Connection",
-        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
-      },
-      "artists": [
-        {
-          "name": "Jakob Manz",
-          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
         "name": "Technically Acceptable",
         "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 230389,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
     },
     {
       "added_at": "2024-02-01 13:43:37",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
+        "name": "Late Night Herbie Hancock",
+        "url": "https://open.spotify.com/album/6gnhEM1JLltKA6ophLSrDF"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/6O0FfT5Bug1jwow4fjgm4B"
+    },
+    {
+      "added_at": "2024-02-01 13:43:37",
+      "album": {
         "name": "Rock Swings",
         "url": "https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl"
       },
@@ -2207,22 +2223,6 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Late Night Herbie Hancock",
-        "url": "https://open.spotify.com/album/6gnhEM1JLltKA6ophLSrDF"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/6O0FfT5Bug1jwow4fjgm4B"
-    },
-    {
-      "added_at": "2024-02-01 13:43:37",
-      "album": {
         "name": "Lieb Plays the Beatles",
         "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
       },
@@ -2255,18 +2255,18 @@
     {
       "added_at": "2024-02-01 13:43:37",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH"
+        "name": "Change of Plans",
+        "url": "https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Will Bonness",
+          "url": "https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo"
         }
       ],
-      "duration_ms": 225335,
-      "name": "Exile",
-      "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
+      "duration_ms": 282737,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B"
     }
   ],
   "unique_name": "Jazz Covers",

@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-682 songs - 1 day 15 hr 22 min
+683 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Rave To The Grave](https://open.spotify.com/track/7uh0BfYbLFLc32RSyE3eEz) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Rave To The Grave \(feat\. Sabacca\)](https://open.spotify.com/album/228rg4PX0wSypnYnz5Q6p8) | 2:39 | 2023-05-11 |  |
 | [Rave'n'Rage \- DD Edit](https://open.spotify.com/track/6nGi1eEN6pdHNUw00ZQqUY) | [Section 1](https://open.spotify.com/artist/1eUs3gA8ifp4ovLgmDloXQ) | [Rave'n'Rage](https://open.spotify.com/album/4WSIxCkjP07bNdD4UZFlDo) | 4:19 | 2021-12-16 | 2022-07-22 |
 | [Raw Resurgence \- Official Supremacy 2023 Anthem](https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Raw Resurgence \(Official Supremacy 2023 Anthem\)](https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN) | 5:20 | 2023-12-01 |  |
-| [Reach For The Sky](https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Reach For The Sky](https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU) | 2:47 | 2022-07-22 |  |
+| [Reach For The Sky](https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Reach For The Sky](https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU) | 2:47 | 2022-07-22 | 2024-02-16 |
 | [Reach For The Sky](https://open.spotify.com/track/48WMx4OjrRl5GnzlBTCD4C) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [Reach For The Sky](https://open.spotify.com/album/2ueVwToJCCNtaPUHOyEsE3) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [Reactivate](https://open.spotify.com/track/4EnSchPRIh9xWOb2SIrRQU) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Reactivate](https://open.spotify.com/album/5wrPSKbqGIXpi3ede6H9ye) | 3:03 | 2022-12-27 | 2023-01-03 |
 | [Ready to Rave \(Bass Modulators Remix\)](https://open.spotify.com/track/7xfQpFEwYH6ENl4fuMQqMJ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Ready to Rave \(Bass Modulators Remix\)](https://open.spotify.com/album/49pYmbBEyo37z9h2cExc1u) | 3:21 | 2021-12-16 | 2022-07-29 |
@@ -561,6 +561,7 @@
 | [Sun Comes Up](https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Sun Comes Up](https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9) | 3:32 | 2023-06-01 |  |
 | [Sunlight](https://open.spotify.com/track/4OSJ9LrhlX3V2n3sYf4Vbk) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Sunlight](https://open.spotify.com/album/0RkrvVUlFLSADQTTH3K0Kw) | 3:34 | 2022-12-27 | 2023-01-03 |
 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 | 2022-05-23 |  |
+| [Supernova](https://open.spotify.com/track/2C9y2VMcVTxCRtxT3Afwqu) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Supernova](https://open.spotify.com/album/0Whzpt8bj4PPDr5n5gk4ip) | 3:02 | 2024-02-14 |  |
 | [Supernova](https://open.spotify.com/track/2sOsqYmkFRoxLaqbqGyjLG) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Supernova](https://open.spotify.com/album/1pYliVACUpCmp42wjiq3gm) | 3:02 | 2021-12-16 | 2022-07-29 |
 | [Supernova](https://open.spotify.com/track/34Bw1YNUaB58jL6dgRB3ST) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Supernova](https://open.spotify.com/album/4uU3ipmcw8g1xUNrYwVpRY) | 3:02 | 2022-07-22 | 2024-02-10 |
 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 | 2021-12-16 |  |

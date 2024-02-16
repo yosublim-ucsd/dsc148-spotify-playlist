@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-237 songs - 13 hr 38 min
+238 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2022-04-08 | 2023-07-01 |
 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 | 2022-04-08 | 2022-11-19 |
 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 | 2022-08-26 | 2023-05-20 |
-| [Easily](https://open.spotify.com/track/5JqEXcyNdBfhFiQAiEzqKz) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [Easily](https://open.spotify.com/album/0i5INz3vtaN57kNLYj4gg2) | 3:21 | 2023-02-24 |  |
+| [Easily](https://open.spotify.com/track/5JqEXcyNdBfhFiQAiEzqKz) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [Easily](https://open.spotify.com/album/0i5INz3vtaN57kNLYj4gg2) | 3:21 | 2023-02-24 | 2024-02-16 |
 | [Easy To Learn](https://open.spotify.com/track/09IkwbEsp24Wb3YEUB2GJl) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [Easy To Learn](https://open.spotify.com/album/6r0cyoVgZWJzTPLVS2bR0V) | 3:58 | 2023-05-19 |  |
 | [Emily](https://open.spotify.com/track/11URTkaQsMiX3EM0X6G05s) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1wd2T40dHkTMouyq9SddCd) | 3:54 | 2022-07-01 | 2022-11-18 |
 | [Emily](https://open.spotify.com/track/2BlOhlnL1ckQVDp61Oo4Ho) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1TmAoz87UCoGVvrYtAkoJF) | 3:54 | 2022-04-08 | 2022-07-29 |
@@ -233,6 +233,7 @@
 | [Untitled](https://open.spotify.com/track/15emae2T8lWbQClJ5m29Nm) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 3:33 | 2024-01-26 |  |
 | [Venus](https://open.spotify.com/track/1Q58zWJH3V8v9dVWRO4K8d) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Alone With My Own Thoughts EP](https://open.spotify.com/album/4EsukUGx6EJ9wXgNVdU3DK) | 3:39 | 2023-10-06 | 2024-02-05 |
 | [Venus](https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Venus](https://open.spotify.com/album/3B9v1QLSiQIDxV9vcb7L1R) | 3:39 | 2023-06-30 | 2023-11-17 |
+| [Wandering Souls](https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Wandering Souls](https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2) | 3:35 | 2024-02-06 |  |
 | [Way Again](https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Each Memory and Every Fall](https://open.spotify.com/album/2YOx7Bj4WBtWPMw8JwGm4s) | 4:48 | 2022-04-08 | 2023-10-07 |
 | [What Is Loving Anymore](https://open.spotify.com/track/7EDn43QGnpy5wTMeHUWnRu) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs) | [What Is Loving Anymore](https://open.spotify.com/album/1Kgwc9tNKoFL8UkXE2ZEKV) | 2:59 | 2022-04-08 | 2022-07-02 |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2022-04-08 | 2022-07-29 |

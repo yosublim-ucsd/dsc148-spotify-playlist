@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,697 likes - 130 songs - 7 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,695 likes - 130 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 72 | [Sleigh Ride](https://open.spotify.com/track/5ymVfeMK8cDew5vzntTuc7) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Merry Christmas](https://open.spotify.com/album/7zCvEkPCZcGWa1RHWjo2e0) | 2:08 |
 | 73 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/3zZqro4MGeFOR40HxFEPlv) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy) | 4:14 |
 | 74 | [Here We Come a\-Caroling / We Wish You a Merry Christmas](https://open.spotify.com/track/1Kcy7qSbf6un30zIkxGVew) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 1:38 |
-| 75 | [O Christmas Tree](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Swingin' Christmas Featuring The Count Basie Big Band](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 |
+| 75 | [O Christmas Tree \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [A Swingin' Christmas \(feat\. Count Basie Big Band\)](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 |
 | 76 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 |
 | 77 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/1dtIaSlyrLI04sqYa8nLyN) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 3:06 |
 | 78 | [This Christmas](https://open.spotify.com/track/32h59T8q2SonUPJ006lyXt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:01 |

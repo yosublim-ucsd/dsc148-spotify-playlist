@@ -4,7 +4,7 @@
 
 > 
 
-236 songs - 16 hr 7 min
+238 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Dimcola Reprise](https://open.spotify.com/track/0LZ644PkmA75gs9Hj4Re63) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Dimcola Reprise](https://open.spotify.com/album/17FjdgDKMBf8pdOlAsop07) | 2:30 | 2023-04-12 | 2023-05-05 |
 | [Dimensional Collapse](https://open.spotify.com/track/66xZGaUTemdYDePZaUWrRM) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 3:40 | 2023-05-19 | 2023-08-18 |
 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 | 2023-07-07 |  |
-| [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 | 2023-08-31 |  |
+| [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 | 2023-08-31 | 2024-02-16 |
 | [DJ Friendly \- Chloé Robinson + DJ ADHD Remix](https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [DJ Friendly \(Chloé Robinson + DJ ADHD Remix\)](https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW) | 5:11 | 2023-12-19 |  |
 | [Don’t Lose Time](https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Don’t Lose Time](https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq) | 6:13 | 2023-01-20 | 2023-02-15 |
 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 | 2022-10-12 | 2023-04-27 |
@@ -138,6 +138,7 @@
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 | 2023-03-09 |
 | [Lucky You](https://open.spotify.com/track/0E10pZR7dp8QkUjXT57qru) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Lucky You](https://open.spotify.com/album/73kzrMZuaXfa9AT7UviQLZ) | 4:36 | 2022-06-09 | 2022-07-14 |
+| [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 | 2024-02-15 |  |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-05-31 | 2022-08-26 |
 | [Make You Scream \- Dixon & Trikk “Tri/xon” Rework](https://open.spotify.com/track/2WJQSM4Uoo2FoD3S54b24z) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Make You Scream \(Dixon & Trikk “Tri/xon” Rework\)](https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7) | 5:52 | 2023-08-17 | 2023-08-23 |
 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 | 2023-07-13 | 2023-12-20 |
@@ -202,6 +203,7 @@
 | [Summer Is Calling \- LF SYSTEM Remix](https://open.spotify.com/track/2fzSI3xVHCdqGB8zAMqgJT) | [the group](https://open.spotify.com/artist/7foqf4xJtGBBy9w5CNsbqD), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Summer Is Calling \(Post Lockdown Mixes\)](https://open.spotify.com/album/257wR5KR0y7bsbyybSvDPx) | 2:41 | 2022-07-20 | 2022-10-14 |
 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 | 2023-08-18 |
 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:42 | 2023-02-22 | 2023-08-30 |
+| [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-02-15 |  |
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-15 | 2023-08-18 |
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2022-12-08 | 2023-01-10 |
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-08 | 2022-08-11 |
@@ -242,7 +244,7 @@
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2021-09-10 | 2022-06-22 |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-08 | 2022-07-23 |
 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 | 2023-05-31 |  |
-| [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 |  |
+| [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 | 2024-02-16 |
 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 | 2022-10-22 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

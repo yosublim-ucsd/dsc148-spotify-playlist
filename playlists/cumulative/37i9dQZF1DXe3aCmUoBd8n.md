@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Assala.
 
-145 songs - 8 hr 29 min
+146 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Waldane](https://open.spotify.com/track/0s6FNOFMwaEL1tQSOwSMUz) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Waldane](https://open.spotify.com/album/74V5jyIbatLqRzkWHMNzCk) | 4:18 | 2023-05-05 | 2023-06-14 |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2022-05-04 | 2022-07-17 |
 | [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 | 2023-10-03 |  |
+| [Ya Wafiya](https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ya Wafiya](https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD) | 5:41 | 2024-02-15 |  |
 | [Yama](https://open.spotify.com/track/13mfkUDpSJlQp3ZPPdRXrX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Yama](https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra) | 3:05 | 2023-07-27 |  |
 | [Yeslamli Li Bighar](https://open.spotify.com/track/5toZZOQ35XeknrIrn2KcmM) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Yeslamli Li Bighar](https://open.spotify.com/album/1NaMPHJ5yC9DJujOEobE8S) | 3:28 | 2023-06-28 |  |
 | [Yok Yok](https://open.spotify.com/track/4QAQaLz8vRw9iiIccOLS74) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Yok Yok](https://open.spotify.com/album/2TVZiTO0PB7Ut6hwCeK0jx) | 2:48 | 2022-10-09 | 2023-01-06 |

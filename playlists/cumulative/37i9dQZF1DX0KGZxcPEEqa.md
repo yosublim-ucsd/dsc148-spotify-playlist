@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-752 songs - 1 day 20 hr 58 min
+754 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Black Heart](https://open.spotify.com/track/2WfVeDOEB7PDDNqFn1VCYe) | [Stooshe](https://open.spotify.com/artist/6RDAHUqUqJab8TZmyRHFss) | [Black Heart](https://open.spotify.com/album/564u6AnOEJB7vLAZUhd1w6) | 3:27 | 2022-05-11 |  |
 | [Black Heart](https://open.spotify.com/track/65zHbOqYlbJqbmHmCe5SXd) | [Stooshe](https://open.spotify.com/artist/6RDAHUqUqJab8TZmyRHFss) | [London With The Lights On](https://open.spotify.com/album/4ixIeLdjKVnbEJa164XHgs) | 3:27 | 2021-08-10 | 2022-07-29 |
 | [Blame It on Me](https://open.spotify.com/track/2Zgnaip1c876zmBhz9HifI) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia) | 3:15 | 2021-08-10 | 2022-05-12 |
-| [Bloodsport '15](https://open.spotify.com/track/7EHv6Eb7nQOXhO0BW5gytT) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [Bloodsport '15](https://open.spotify.com/album/5AFd8rNXb2jRmoIEgIQCEG) | 4:19 | 2021-08-10 |  |
+| [Bloodsport '15](https://open.spotify.com/track/7EHv6Eb7nQOXhO0BW5gytT) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [Bloodsport '15](https://open.spotify.com/album/5AFd8rNXb2jRmoIEgIQCEG) | 4:19 | 2021-08-10 | 2024-02-16 |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2021-08-10 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-29 |  |
 | [BO$$](https://open.spotify.com/track/1COvXs6jaykXC73h9OSBVM) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 2:51 | 2021-08-10 |  |
@@ -326,6 +326,7 @@
 | [I Miss You](https://open.spotify.com/track/6QSJvH2m7QLAiFIywwzCVi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 5:48 | 2023-12-27 |  |
 | [I Said Hi](https://open.spotify.com/track/2MuOQdl7uyEteKYCQtG4XE) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [I Said Hi](https://open.spotify.com/album/6XzwQObXzn3JgzuOcIAgUQ) | 2:48 | 2021-08-10 |  |
 | [I Think I'm In Love](https://open.spotify.com/track/3U1TuSqHIubBA10cVP7Sk6) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [My Garden](https://open.spotify.com/album/7IQvaeTZKibqE8OkOwicM0) | 3:22 | 2021-08-10 |  |
+| [I Will Never Let You Down](https://open.spotify.com/track/03rhu2vIylSFLUagt7wi5D) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/7iiXSRiQJch2XontyEzOcG) | 3:23 | 2022-11-29 |  |
 | [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 | 2021-08-10 | 2024-02-14 |
 | [I'm Into You](https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 3:20 | 2021-08-10 |  |
 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 | 2021-08-10 |  |
@@ -531,6 +532,7 @@
 | [Please Don't Let Me Go](https://open.spotify.com/track/4t4Uc6yNnnzBhatmarfV4Y) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 3:24 | 2021-08-10 |  |
 | [Plot Twist](https://open.spotify.com/track/6LM8MeuL0otvdufEVtaxCP) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Plot Twist](https://open.spotify.com/album/5BPGgAOGNXjXskU4DVbjl4) | 3:25 | 2021-08-10 | 2022-07-29 |
 | [Plot Twist](https://open.spotify.com/track/7yNSKfs3tjnh44of1FIF5k) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Don't Kill My Vibe \- EP](https://open.spotify.com/album/0oNBsmqlY0PBPGhJiRwUQY) | 3:25 | 2022-05-11 |  |
+| [Poison](https://open.spotify.com/track/0a9prteLVxECPDuLR9y3cy) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison](https://open.spotify.com/album/3TAFRSorFqoO2jUSg6Pv4H) | 3:22 | 2022-11-29 |  |
 | [Poison](https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison](https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8) | 3:22 | 2021-08-10 | 2024-02-04 |
 | [Poison](https://open.spotify.com/track/3HiUuA5N4rYVmNZGuEs5kt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Cold Weather Hits](https://open.spotify.com/album/0pW4L832yj5kECOCvvMGvy) | 3:23 | 2022-11-29 | 2024-02-15 |
 | [Powerful](https://open.spotify.com/track/0qRuwUb6jIbu5USpesDPAq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/6A2XRCoUdJLI8PdAoq1tWc) | 3:26 | 2022-05-11 | 2022-11-13 |
@@ -724,7 +726,7 @@
 | [What Do I Know?](https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:57 | 2021-08-10 |  |
 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 | 2021-08-10 |  |
 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/3gP7XgnHQjvGDLnDm7dcY1) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Listen Again](https://open.spotify.com/album/1wVr1C3NaDGx5LB6mVwifr) | 3:27 | 2022-05-11 | 2022-11-13 |
-| [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 | 2022-05-11 |  |
+| [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 | 2022-05-11 | 2024-02-16 |
 | [What I did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/7vc0PDVfZeJQwzzQS8qPRR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen](https://open.spotify.com/album/6pvdwUlSb6QQH72PZLFRZH) | 3:27 | 2021-08-10 | 2022-07-29 |
 | [What If I Never Get Over You](https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:26 | 2021-08-10 |  |
 | [What the Hell](https://open.spotify.com/track/5zTzDqrEmseqL2G8ElgBu7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby](https://open.spotify.com/album/3SUtKkjatUCubbgOC8OP4o) | 3:40 | 2021-08-10 | 2022-05-12 |

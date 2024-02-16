@@ -4721,6 +4721,28 @@
     },
     {
       "album": {
+        "name": "Elevate (feat. RANI)",
+        "url": "https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132467,
+      "name": "Elevate (feat. RANI)",
+      "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
+    },
+    {
+      "album": {
         "name": "Emily (Jonasu Remix)",
         "url": "https://open.spotify.com/album/3Y7VMNL762DwOkOyG0hDrW"
       },
@@ -11948,7 +11970,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 151384,
       "name": "Public Demand",
       "url": "https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,730 likes - 125 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,773 likes - 125 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,12 +126,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 116 | [Compárame](https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:23 |
 | 117 | [Nadie Se Salva De La Rumba](https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tremendo Trio](https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq) | 5:47 |
 | 118 | [Caramelo](https://open.spotify.com/track/7FzYZso8aRnoE9gKDbauJA) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Bailando Salsa](https://open.spotify.com/album/7A9rMQU9AmTm9zST0SzHED) | 3:35 |
-| 119 | [Te Va A Doler](https://open.spotify.com/track/60bDnvkRDXvwJuy08YiagT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:52 |
-| 120 | [Te Amo Te Extraño](https://open.spotify.com/track/7zf1C9xuKpqCvf4jaY5zsE) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Su Historia Musical](https://open.spotify.com/album/5qrAkH6l0zQsGfFcUWbqwR) | 5:34 |
+| 119 | [Te Amo Te Extraño](https://open.spotify.com/track/7zf1C9xuKpqCvf4jaY5zsE) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Su Historia Musical](https://open.spotify.com/album/5qrAkH6l0zQsGfFcUWbqwR) | 5:34 |
+| 120 | [Te Va A Doler](https://open.spotify.com/track/60bDnvkRDXvwJuy08YiagT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:52 |
 | 121 | [Deseándote](https://open.spotify.com/track/7nkQJR8LZ49ykOzlUoh57d) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mix Salsa](https://open.spotify.com/album/7DmpLSzBnceiuP3bRLvQV3) | 4:41 |
 | 122 | [Mia](https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:43 |
 | 123 | [Mi Amante Niña, Mi Compañera](https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:22 |
 | 124 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 |
 | 125 | [Cuenta Conmigo](https://open.spotify.com/track/7o47d8KqRqxbL7NloJvjwd) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:50 |
 
-Snapshot ID: `MCxjYzVmZWY3ZTdlMDAzNWNlMzk2MmQ1MWQzNzIxOGY0NWViN2Q4NWVh`
+Snapshot ID: `MCxjY2M4YjJlMWE1ZDc1MmM1MWRjNDBiMGU4NDFkMWNmYzE5ZDc1MTQy`

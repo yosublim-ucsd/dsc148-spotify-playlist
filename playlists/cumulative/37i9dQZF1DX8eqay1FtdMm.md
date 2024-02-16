@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Seo Ja Yeong\(서자영\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-481 songs - 1 day 7 hr 16 min
+482 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-20 | 2023-06-01 |
 | [Come back](https://open.spotify.com/track/3zerSNZzG5MqbyQK6mYH1d) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [Come back](https://open.spotify.com/album/12D3oDk7gbnBLhjXhzNkQl) | 4:11 | 2022-12-14 | 2023-01-03 |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2024-01-07 |
+| [cry a lot](https://open.spotify.com/track/2hZ2RcltIgme5PO8eJ6pWj) | [Ha Jun Seok](https://open.spotify.com/artist/12RmWQ26FATAkL0Dzua0QB) | [cry a lot](https://open.spotify.com/album/4R1uG9fvia8PYjndO4BNH7) | 3:23 | 2024-02-15 |  |
 | [Day by Day](https://open.spotify.com/track/4nndQ97Nm2HZAIVvrMSjpu) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 4:17 | 2023-12-01 | 2023-12-14 |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2021-12-20 |  |
 | [Dear](https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.5 \[Dear\]](https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l) | 3:41 | 2024-01-17 |  |
@@ -117,7 +118,7 @@
 | [Everyday waiting you](https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Everyday waiting you](https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb) | 4:01 | 2023-01-25 | 2023-04-14 |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 |  |
 | [Fade away](https://open.spotify.com/track/3a0OpXCAQlT7EkhSyVcniQ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [First Letter](https://open.spotify.com/album/6KDXZk6JcmTkDtuW49ScTo) | 4:17 | 2022-02-25 | 2022-07-13 |
-| [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2023-12-01 |  |
+| [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2023-12-01 | 2024-02-16 |
 | [Falling](https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Knock](https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9) | 3:41 | 2023-12-01 | 2023-12-14 |
 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 | 2023-03-27 | 2023-06-16 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-07 | 2022-07-23 |

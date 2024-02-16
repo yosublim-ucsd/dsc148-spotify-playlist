@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bensoul",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Ethan",
   "name": "NairoBae",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 217523,
       "name": "Enough",
       "url": "https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 252500,
       "name": "Home",
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 224000,
       "name": "My Love Awaits",
       "url": "https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27"
@@ -2445,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "The Footprint",
+        "url": "https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
+    },
+    {
+      "album": {
         "name": "dawa",
         "url": "https://open.spotify.com/album/567zkX4DjYyss366DTflSG"
       },
@@ -2669,6 +2687,28 @@
     },
     {
       "album": {
+        "name": "the one",
+        "url": "https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE"
+      },
+      "artists": [
+        {
+          "name": "NGE-THE-PRODUCER",
+          "url": "https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS"
+        },
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB"
+    },
+    {
+      "album": {
         "name": "Three Little Birds",
         "url": "https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh"
       },
@@ -2794,6 +2834,24 @@
       "duration_ms": 204282,
       "name": "Uko Poa - Full Version",
       "url": "https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3"
+    },
+    {
+      "album": {
+        "name": "Under Cover Lover",
+        "url": "https://open.spotify.com/album/2RDau5A3LLdLD0QkoUHHfH"
+      },
+      "artists": [
+        {
+          "name": "N'Jiru",
+          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229380,
+      "name": "Under Cover Lover",
+      "url": "https://open.spotify.com/track/1XLd6OwzEwbnGJQAUdZDZW"
     },
     {
       "album": {

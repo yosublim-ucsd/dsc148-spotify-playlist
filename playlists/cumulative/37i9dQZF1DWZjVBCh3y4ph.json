@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Mik L",
+  "description": "Les hits zouk du moment. Photo : Aya Nakamura",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 236674,
       "name": "Faut doser",
       "url": "https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm"
@@ -1272,6 +1272,24 @@
       "duration_ms": 155121,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/2d5gOkKwpkBfHW0zpSle82"
+    },
+    {
+      "album": {
+        "name": "OXYGEN",
+        "url": "https://open.spotify.com/album/5a844k8EwfScZh7aLUGEPv"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "OXYGEN",
+      "url": "https://open.spotify.com/track/4ZZZqHNebHX4LxhF2kvMPZ"
     },
     {
       "album": {

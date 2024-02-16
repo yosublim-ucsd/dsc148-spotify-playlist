@@ -1,12 +1,12 @@
 {
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 226641,
+  "num_followers": 226705,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmEzZjczNTRhNjMwNGNjZTk4ZTc4NjRlNzA5ZmIzNjBkMGI4MmFj",
+  "snapshot_id": "MCxiYmRiODg2YTA3NDEwMTU2ODk5YTlhMWZjYmE2MWE4ODA5YTc1OGZm",
   "tracks": [
     {
       "added_at": "2024-02-09 17:46:12",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2024-02-09 17:46:12",
       "album": {
+        "name": "TI RICK",
+        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 145153,
+      "name": "Disse Que \u00e9 F\u00e3 de Rap",
+      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
+    },
+    {
+      "added_at": "2024-02-09 17:46:12",
+      "album": {
         "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
       },
@@ -1343,50 +1367,6 @@
       "duration_ms": 204058,
       "name": "Polo Norte - Ao Vivo",
       "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
-    },
-    {
-      "added_at": "2024-02-09 17:46:12",
-      "album": {
-        "name": "Mega da Gang 06",
-        "url": "https://open.spotify.com/album/08Hzh10xxUrZG1qWVZmub3"
-      },
-      "artists": [
-        {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Vitin LC",
-          "url": "https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR"
-        },
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        },
-        {
-          "name": "Mc Vaguin",
-          "url": "https://open.spotify.com/artist/0Ao6gimo1AyJkxj9zRIEC5"
-        },
-        {
-          "name": "Dj Bk Original",
-          "url": "https://open.spotify.com/artist/3RzRDkNYMnLhkQLBm5tXb3"
-        },
-        {
-          "name": "DJ 2w",
-          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
-        }
-      ],
-      "duration_ms": 313845,
-      "name": "Mega da Gang 06",
-      "url": "https://open.spotify.com/track/5NF0cMnsvWWg3uhF80Aqio"
     }
   ],
   "unique_name": "AMPLIFIKA",

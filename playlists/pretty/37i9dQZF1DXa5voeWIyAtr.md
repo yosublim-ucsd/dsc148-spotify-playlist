@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > una selección curada por Beli para todos los que aman tóxicamente ☠️
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,075 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,789 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 29 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
 | 30 | [Cuerno](https://open.spotify.com/track/3asNGvJH8VPTe8Dldgrzwl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:00 |
 
-Snapshot ID: `MCw4ODE5MGFiZjgwYWJiMzdiNTdjODQ0ZDkyNGFmNDg3NmNjMjkwY2E1`
+Snapshot ID: `MCwzMWViY2MyNzU1NjJkNzkxNWE0MDdhMzlmZDExYzk1ODJiYTRlNzVm`

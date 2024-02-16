@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Luke Combs",
-  "num_followers": 456201,
+  "num_followers": 456205,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGFmNDk3YmU5ZTAzNzRkOWVjNWFhZGY4YTliMzQ4Y2UxODBhYThh",
+  "snapshot_id": "MCw0NmJkMDY2MWFhNjE0MzI5ZGQ5MWE4OTE4NzgyNjljODZkOWI1NDBm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Summer Don't Go",
+        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 168524,
+      "name": "Summer Don't Go",
+      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Without You (feat. Elle King)",
         "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 181978,
       "name": "Without You (feat. Elle King)",
       "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Summer Don't Go",
-        "url": "https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 168524,
-      "name": "Summer Don't Go",
-      "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "TWENTY SOMETHING",
-        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 189253,
-      "name": "amen",
-      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "If You Show Me Yours",
         "url": "https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 226666,
       "name": "If You Show Me Yours",
       "url": "https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6sCZp1vcFZ7thbtRFd2jgK"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Some Horses",
-      "url": "https://open.spotify.com/track/11lEoJlWD0d8dkH4YpkzFF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Do This Life",
         "url": "https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 182706,
       "name": "Do This Life",
       "url": "https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6sCZp1vcFZ7thbtRFd2jgK"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Some Horses",
+      "url": "https://open.spotify.com/track/11lEoJlWD0d8dkH4YpkzFF"
     },
     {
       "added_at": "2024-02-09 05:00:00",

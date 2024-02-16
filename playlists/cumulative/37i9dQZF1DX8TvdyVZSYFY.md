@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-466 songs - 1 day 3 hr 38 min
+467 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2021-03-09 |  |
 | [By Your Side \- Abbey Road Live Version](https://open.spotify.com/track/16eWR8rIz9BNAcMC64Yuc5) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [By Your Side \(Abbey Road Live Version\)](https://open.spotify.com/album/3mH8f6BWGWZOVzteyY1A7q) | 3:13 | 2021-03-09 |  |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2021-03-09 |  |
-| [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 | 2021-03-09 |  |
+| [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 | 2021-03-09 | 2024-02-16 |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2021-03-09 |  |
 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 | 2021-03-09 |  |
 | [Can't Stop The Feeling](https://open.spotify.com/track/64mIsDq15574VzIws46Axl) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Can't Stop The Feeling](https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2) | 4:23 | 2021-03-09 |  |
@@ -167,6 +167,7 @@
 | [I Like Me Better](https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [I Like Me Better](https://open.spotify.com/album/1fa2cKnrZIaxnYvoOxoaSk) | 3:21 | 2022-01-10 |  |
 | [I Miss You \(feat\. Julia Michaels\) \- Acoustic](https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\) \[Acoustic\]](https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU) | 3:36 | 2021-03-09 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-03-09 |  |
+| [I Wanna Dance With Somebody \(Acoustic\)](https://open.spotify.com/track/6fQt7ygk8EZ0AastFZRsHK) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [he said\. she said.](https://open.spotify.com/album/10MsYPUp8JqOD0jj8Y3RCf) | 3:31 | 2023-10-23 |  |
 | [I Wanna Dance with Somebody \- Acoustic](https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [I Wanna Dance with Somebody \(Acoustic\)](https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3) | 3:31 | 2021-03-09 | 2024-02-14 |
 | [I Want To Break Free](https://open.spotify.com/track/3KvnxRon368VL2s47Gxcf4) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [I Want To Break Free](https://open.spotify.com/album/4AqwbWCobF6oTgpE5nfebD) | 2:33 | 2021-03-09 |  |
 | [I Wish You Were Here \- Acoustic](https://open.spotify.com/track/7euc7dFM1czdBzqfqgDUHR) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Wish You Were Here \(Acoustic\)](https://open.spotify.com/album/73NEA3N9onO77kK6ijm7aY) | 2:06 | 2021-03-09 |  |

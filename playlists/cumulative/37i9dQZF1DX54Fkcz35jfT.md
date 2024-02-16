@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: coldrain
 
-256 songs - 14 hr 44 min
+258 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 | 2023-07-20 |  |
 | [DYSTOPIA](https://open.spotify.com/track/4Qg1BZPTvFLegnFPdURGBf) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [DYSTOPIA](https://open.spotify.com/album/1Nqm7ntku7DKw37MVkqMGP) | 4:13 | 2023-10-19 | 2023-11-22 |
 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 | 2023-07-20 |  |
-| [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 | 2023-11-21 |  |
+| [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 | 2023-11-21 | 2024-02-16 |
 | [Everything is all lies](https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX) | 3:45 | 2023-10-19 | 2023-10-21 |
 | [Everything is all lies](https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937) | 3:45 | 2023-10-19 | 2023-11-08 |
 | [Face My Fate](https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [Face My Fate](https://open.spotify.com/album/40YpB1ShKLeVkWnvvUiyWC) | 3:30 | 2023-12-19 | 2024-01-17 |
@@ -137,6 +137,7 @@
 | [ONESTAR](https://open.spotify.com/track/0pIOcDlY4pFwNarTwkyRDY) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [ONESTAR](https://open.spotify.com/album/3TB3SFdG5dWlW481iYLAbo) | 4:06 | 2023-08-08 | 2023-09-20 |
 | [Orange Night](https://open.spotify.com/track/6KZPFuYlff4NA8Q9nIgWUv) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Orange Night](https://open.spotify.com/album/2O2s9JdtTXJtXGKShSQtel) | 3:34 | 2023-10-10 | 2023-10-25 |
 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 | 2024-01-18 |  |
+| [P.N.E](https://open.spotify.com/track/7ukIMxpXfaRLQjIBWYLbbO) | [Gretchen Grundler](https://open.spotify.com/artist/5b0uSpkn6LIdu7qJlGJTU8) | [P.N.E](https://open.spotify.com/album/3UodGauPJnmZVkVdKn0f3W) | 2:57 | 2024-02-15 |  |
 | [PANDORA](https://open.spotify.com/track/0t5oZjUlb7aWEA5Hq0NAHT) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [PANDORA](https://open.spotify.com/album/5TGGYuJI3ajYoww04In6m6) | 3:56 | 2023-07-20 | 2023-11-22 |
 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 | 2023-07-20 |  |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-07-20 |  |
@@ -218,6 +219,7 @@
 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 | 2023-07-25 |  |
 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 | 2023-07-20 |  |
 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 | 2023-07-20 |  |
+| [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-15 |  |
 | [あつまれ！パーティーピーポー](https://open.spotify.com/track/1dIvfhOBd3UpHfuaQnFlhr) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:14 | 2023-11-14 | 2023-11-22 |
 | [かわE](https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:24 | 2023-11-14 | 2023-12-22 |
 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 | 2024-01-31 |  |
@@ -242,7 +244,7 @@
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-14 |  |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2023-07-20 |  |
 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 | 2023-11-16 |  |
-| [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 |  |
+| [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 | 2024-02-16 |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 |  |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 | 2023-10-26 |
 | [幸福な子供たち](https://open.spotify.com/track/6rr3ygGHMu7dV3vlCM1s9S) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [ザ・ベルセデス・メンツの幸福な子供たち](https://open.spotify.com/album/3PK43p0A0QZoch1Z5Fa50O) | 3:42 | 2023-11-21 | 2023-11-23 |

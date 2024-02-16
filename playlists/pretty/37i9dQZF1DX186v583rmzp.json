@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8370025,
+  "num_followers": 8371681,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJmOWY3OWM1ZWVmM2ViNmJjOTgzNGU3NGZhN2I3YWFiYTUzOTM0",
+  "snapshot_id": "MCxiOWYxMzg2Njg4NmQyMDI5MDIwMGM5ZWRlZjYwMjExYzA0N2ZiYjRl",
   "tracks": [
     {
       "added_at": "2024-01-26 08:36:28",
@@ -919,22 +919,18 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Nigga Please",
-        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
       "artists": [
         {
           "name": "Ol' Dirty Bastard",
           "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Got Your Money (feat. Kelis)",
-      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -991,70 +987,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "Creepin on Ah Come Up",
-        "url": "https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Thuggish Ruggish Bone",
-      "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -1079,6 +1011,74 @@
       "duration_ms": 259306,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Creepin on Ah Come Up",
+        "url": "https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Thuggish Ruggish Bone",
+      "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Nigga Please",
+        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Got Your Money (feat. Kelis)",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Who Shot Ya? - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "It's On (Dr. Dre) 187um Killa",
         "url": "https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 332626,
       "name": "Real Muthaphuckkin G's",
       "url": "https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Who Shot Ya? - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "The Low End Theory",
-        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Check the Rhime",
-      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
+      "duration_ms": 291053,
+      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+      "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+        "name": "The Low End Theory",
+        "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 291053,
-      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
-      "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
+      "duration_ms": 216693,
+      "name": "Check the Rhime",
+      "url": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
+        "name": "Liquid Swords",
+        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Shadowboxin'",
+      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
         "name": "The Love Movement",
         "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 271066,
       "name": "O.P.P",
       "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "Liquid Swords",
-        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
-      },
-      "artists": [
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Shadowboxin'",
-      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Conspiracy (PA)",
-        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
-      },
-      "artists": [
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274937,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Mecca And The Soul Brother",
         "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Conspiracy (PA)",
+        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
+      },
+      "artists": [
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274937,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
       "added_at": "2024-01-26 08:36:28",

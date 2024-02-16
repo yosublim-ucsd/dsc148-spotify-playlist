@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Kid Kapichi",
+  "description": "The UK's biggest rock playlist. Cover: IDLES",
   "name": "The Rock List",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 165282,
       "name": "21ST CENTURY BITCH",
       "url": "https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN"
+    },
+    {
+      "album": {
+        "name": "2nd prettiest girl (in the world)",
+        "url": "https://open.spotify.com/album/42ET981Qri753Oh1TbE1Yl"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168016,
+      "name": "2nd prettiest girl (in the world)",
+      "url": "https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z"
     },
     {
       "album": {
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Girl",
+        "url": "https://open.spotify.com/album/3F8u0bz8k1cxPpOttU3yDH"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/1Inle1Zm97MzQXParrb0aP"
+    },
+    {
+      "album": {
         "name": "Beautiful People (Stay High)",
         "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
       },
@@ -842,7 +878,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165093,
       "name": "Believe Me (Even If I'm Lying)",
       "url": "https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs"
@@ -1281,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Brown Paper Bag",
+        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "album": {
         "name": "Brussels",
         "url": "https://open.spotify.com/album/4gMYIMai7wMGqjJ7wyJa7G"
       },
@@ -1314,6 +1368,32 @@
       "duration_ms": 226013,
       "name": "Burn The Way",
       "url": "https://open.spotify.com/track/0TTby1f21gEo00neP83WEy"
+    },
+    {
+      "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175959,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
     },
     {
       "album": {
@@ -1537,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "album": {
         "name": "CREEP HEAT",
         "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
       },
@@ -1690,6 +1788,24 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+    },
+    {
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
     },
     {
       "album": {
@@ -2656,7 +2772,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
@@ -4072,10 +4188,32 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 280982,
       "name": "Kills Me To Be Kind",
       "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
+    },
+    {
+      "album": {
+        "name": "kinda smacks",
+        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136601,
+      "name": "kinda smacks",
+      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
     },
     {
       "album": {
@@ -4112,6 +4250,24 @@
       "duration_ms": 264120,
       "name": "King Size Slim",
       "url": "https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H"
+    },
+    {
+      "album": {
+        "name": "The Mess We Seem To Make (Deluxe)",
+        "url": "https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214935,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY"
     },
     {
       "album": {
@@ -4502,7 +4658,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 167861,
       "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
       "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
@@ -5320,7 +5476,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP"
@@ -5464,7 +5620,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 249600,
       "name": "Over The Threshold",
       "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
@@ -5687,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "POP POP POP",
+      "url": "https://open.spotify.com/track/228SlXXnL6q20pOGSW4tFl"
+    },
+    {
+      "album": {
         "name": "PREDATOR",
         "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
       },
@@ -5720,7 +5894,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195688,
       "name": "pretty good for a bad day",
       "url": "https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw"
@@ -5990,7 +6164,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 170700,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/78a7f77nDd9GlqBsImCGJT"
@@ -6592,7 +6766,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 178546,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
@@ -7789,6 +7963,24 @@
     },
     {
       "album": {
+        "name": "WARZ0NE",
+        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158175,
+      "name": "WARZ0NE",
+      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3bVrHlVSUVUss3doxEXu6j"
       },
@@ -8096,7 +8288,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 176557,
       "name": "WOT?",
       "url": "https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn"

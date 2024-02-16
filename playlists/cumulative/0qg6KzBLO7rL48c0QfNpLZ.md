@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-183 songs - 8 hr 28 min
+184 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 | 2023-12-21 |  |
 | [Just Let Go](https://open.spotify.com/track/1KBsbmPy8GLz90TTvTaoSU) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Just Let Go](https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq) | 2:17 | 2022-08-11 |  |
 | [Just You and I](https://open.spotify.com/track/03x2rVJRFUrvwlfxoHd9Mo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 2:54 | 2023-12-21 |  |
+| [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2024-02-15 |  |
 | [Keep Me Up](https://open.spotify.com/track/2EN0Gazd2X4jHlkGrOJ2zS) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Keep Me Up](https://open.spotify.com/album/754BtgB6lpeyMOtJtAHdMQ) | 2:13 | 2024-01-10 |  |
 | [Kids](https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Kids](https://open.spotify.com/album/2rdlrgBymYzVl2ChjoIi1x) | 2:07 | 2024-01-14 |  |
 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 | 2023-12-21 |  |

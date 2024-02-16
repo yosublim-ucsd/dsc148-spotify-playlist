@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 12990,
+  "num_followers": 13037,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTJiNjI1ZDE3MGEwODYyYzBhZTNjNTdhY2FjZWE0YjRhYTY0NWJj",
+  "snapshot_id": "MCwzNDMxZDgyZmIwNGFhMzc0NjA2YWEzYTZlNjFiNGVkZTg3N2JlMjUy",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -787,62 +787,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
-        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 320902,
-      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
-      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 187428,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -863,22 +807,58 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
+        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         },
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+      "duration_ms": 320902,
+      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
+      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -907,6 +887,26 @@
       "duration_ms": 235559,
       "name": "Yesu (Jesus)",
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": "2023-12-15 00:01:00",

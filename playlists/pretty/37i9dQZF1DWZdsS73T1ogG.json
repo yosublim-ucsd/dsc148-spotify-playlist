@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alejo\n",
-  "num_followers": 508548,
+  "num_followers": 508570,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2QwMjA3Nzg2MzFmOThmNWQzNGY4OTYwNDJiZWU1YTA1MmNiMWEw",
+  "snapshot_id": "MCxhYjY4NTY2YTdhMzMxNTJlMzUxZTEzYmI5OWM2NmQzMzNmNjM1OTZl",
   "tracks": [
     {
       "added_at": "2024-02-13 15:28:24",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/7zEk1zIy0rUTulaA5uAAu6"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "TEN",
-      "url": "https://open.spotify.com/track/4t5WkxLy4kh02Ycl5W6WOT"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7zEk1zIy0rUTulaA5uAAu6"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "TEN",
+      "url": "https://open.spotify.com/track/4t5WkxLy4kh02Ycl5W6WOT"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -651,6 +651,58 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
         "name": "RealG4Life Vol. 4",
         "url": "https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx"
       },
@@ -703,26 +755,6 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "MAMI CHAKALOSA",
-        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        }
-      ],
-      "duration_ms": 136843,
-      "name": "MAMI CHAKALOSA",
-      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
       },
@@ -759,38 +791,6 @@
       "duration_ms": 195066,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
-        "name": "LOS MARCIANOS Vol.1: Dei V Version",
-        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Gaby Music",
-          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
+        "name": "UNA NOTi",
+        "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "UNA NOTi",
+      "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
         "name": "Maria (Remix)",
         "url": "https://open.spotify.com/album/2fucowTAaCNo2uMALeEO83"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "UNA NOTi",
-        "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/1I8gUYpocfQL7AOiSz1wLB"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 200000,
-      "name": "UNA NOTi",
-      "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
+      "duration_ms": 179345,
+      "name": "Historia",
+      "url": "https://open.spotify.com/track/7zHZTHScVaGQ7ETXBiuHRH"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -967,22 +983,6 @@
       "duration_ms": 180360,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
-        "name": "Historia",
-        "url": "https://open.spotify.com/album/1I8gUYpocfQL7AOiSz1wLB"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 179345,
-      "name": "Historia",
-      "url": "https://open.spotify.com/track/7zHZTHScVaGQ7ETXBiuHRH"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1107,6 +1107,30 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
+        "name": "Fraternidad",
+        "url": "https://open.spotify.com/album/0tlbycjkUk81yRtsc0tYwi"
+      },
+      "artists": [
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Fraternidad",
+      "url": "https://open.spotify.com/track/1csXmch0iAC6INGXOrblsy"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
         "name": "Inestable",
         "url": "https://open.spotify.com/album/7aKtEaIfO6g28YtGkKRqX1"
       },
@@ -1143,58 +1167,6 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "Fraternidad",
-        "url": "https://open.spotify.com/album/0tlbycjkUk81yRtsc0tYwi"
-      },
-      "artists": [
-        {
-          "name": "Pablito Pesadilla",
-          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Fraternidad",
-      "url": "https://open.spotify.com/track/1csXmch0iAC6INGXOrblsy"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
-        "name": "Hola (feat. BEATS PER MINUTES)",
-        "url": "https://open.spotify.com/album/2mi6GEyMMvm7vVonAhqXFl"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "BEATS PER MINUTES",
-          "url": "https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu"
-        }
-      ],
-      "duration_ms": 188649,
-      "name": "Hola (feat. BEATS PER MINUTES)",
-      "url": "https://open.spotify.com/track/0F5zxhhdUF6ODvY1ANZg5S"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
         "name": "Glopeta",
         "url": "https://open.spotify.com/album/44BfGk4hGwkmu7tpkmOxWl"
       },
@@ -1227,18 +1199,30 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "Hola (feat. BEATS PER MINUTES)",
+        "url": "https://open.spotify.com/album/2mi6GEyMMvm7vVonAhqXFl"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "BEATS PER MINUTES",
+          "url": "https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu"
         }
       ],
-      "duration_ms": 183157,
-      "name": "NOVATO",
-      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
+      "duration_ms": 188649,
+      "name": "Hola (feat. BEATS PER MINUTES)",
+      "url": "https://open.spotify.com/track/0F5zxhhdUF6ODvY1ANZg5S"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "Te Perdi\u00f3",
-        "url": "https://open.spotify.com/album/3pU19EqyURDFDKwX37XC6R"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Te Perdi\u00f3",
-      "url": "https://open.spotify.com/track/3kJcccOmysUkWWyOQvxKIw"
+      "duration_ms": 183157,
+      "name": "NOVATO",
+      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1315,6 +1299,38 @@
       "duration_ms": 215000,
       "name": "EL HUBIERA NO EXISTE",
       "url": "https://open.spotify.com/track/5xb2KC2nksF2fbcjscN3zH"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
+        "name": "Te Perdi\u00f3",
+        "url": "https://open.spotify.com/album/3pU19EqyURDFDKwX37XC6R"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Te Perdi\u00f3",
+      "url": "https://open.spotify.com/track/3kJcccOmysUkWWyOQvxKIw"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
+        "name": "Ke onda mami",
+        "url": "https://open.spotify.com/album/3JSPMTpwovsOLxE42j86fd"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Ke onda mami",
+      "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1367,22 +1383,6 @@
       "duration_ms": 175130,
       "name": "RT",
       "url": "https://open.spotify.com/track/4riHDP6yxNHSbnSfc2r5Jm"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
-        "name": "Ke onda mami",
-        "url": "https://open.spotify.com/album/3JSPMTpwovsOLxE42j86fd"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Ke onda mami",
-      "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1483,26 +1483,18 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "20/10",
-        "url": "https://open.spotify.com/album/5qfVpdXhEee0ncVp1t2XIs"
+        "name": "MILLAS",
+        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
       },
       "artists": [
         {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Gotay \"El Autentiko\"",
-          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 171428,
-      "name": "20/10",
-      "url": "https://open.spotify.com/track/1XSxeHtBudwImhLhmxUBoD"
+      "duration_ms": 120000,
+      "name": "PASEITO",
+      "url": "https://open.spotify.com/track/0fVq4JpeZEdU8ZSv27PZPd"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1523,22 +1515,6 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "MILLAS",
-        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "PASEITO",
-      "url": "https://open.spotify.com/track/0fVq4JpeZEdU8ZSv27PZPd"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
         "name": "Nos Entendemos",
         "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 176016,
       "name": "Nos Entendemos",
       "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
+        "name": "20/10",
+        "url": "https://open.spotify.com/album/5qfVpdXhEee0ncVp1t2XIs"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "20/10",
+      "url": "https://open.spotify.com/track/1XSxeHtBudwImhLhmxUBoD"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1851,26 +1851,18 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "No Te Vires",
-        "url": "https://open.spotify.com/album/4L2Uyj9MGhj4MLsN2xGjy0"
+        "name": "MULTIVERSO",
+        "url": "https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU"
       },
       "artists": [
         {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Tuny D",
-          "url": "https://open.spotify.com/artist/0L5AaZ94npT6FbdTGNGdFH"
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
         }
       ],
-      "duration_ms": 168219,
-      "name": "No Te Vires",
-      "url": "https://open.spotify.com/track/55isUVgoGajzCufq8FJp3v"
+      "duration_ms": 212480,
+      "name": "MULTIVERSO",
+      "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1891,6 +1883,30 @@
       "duration_ms": 173508,
       "name": "Bellakito",
       "url": "https://open.spotify.com/track/3puSZqdV314y5zy96ZhaCl"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
+        "name": "No Te Vires",
+        "url": "https://open.spotify.com/album/4L2Uyj9MGhj4MLsN2xGjy0"
+      },
+      "artists": [
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Tuny D",
+          "url": "https://open.spotify.com/artist/0L5AaZ94npT6FbdTGNGdFH"
+        }
+      ],
+      "duration_ms": 168219,
+      "name": "No Te Vires",
+      "url": "https://open.spotify.com/track/55isUVgoGajzCufq8FJp3v"
     },
     {
       "added_at": "2024-02-13 15:28:24",
@@ -1927,22 +1943,6 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
-        "name": "CAYEY",
-        "url": "https://open.spotify.com/album/2hymBJ9uTcfZO2IitN5CYp"
-      },
-      "artists": [
-        {
-          "name": "VYPERR",
-          "url": "https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt"
-        }
-      ],
-      "duration_ms": 133641,
-      "name": "CAYEY",
-      "url": "https://open.spotify.com/track/3y3CesszdBhWgwXad9v0oD"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
         "name": "Complicado",
         "url": "https://open.spotify.com/album/4MyHfAPhaeb4AwPU2XHvTU"
       },
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-02-13 15:28:24",
       "album": {
+        "name": "CAYEY",
+        "url": "https://open.spotify.com/album/2hymBJ9uTcfZO2IitN5CYp"
+      },
+      "artists": [
+        {
+          "name": "VYPERR",
+          "url": "https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt"
+        }
+      ],
+      "duration_ms": 133641,
+      "name": "CAYEY",
+      "url": "https://open.spotify.com/track/3y3CesszdBhWgwXad9v0oD"
+    },
+    {
+      "added_at": "2024-02-13 15:28:24",
+      "album": {
         "name": "BOCINITA",
         "url": "https://open.spotify.com/album/4GcoyeiB1N2qmnn25d5EO9"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 166153,
       "name": "BOCINITA",
       "url": "https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR"
-    },
-    {
-      "added_at": "2024-02-13 15:28:24",
-      "album": {
-        "name": "MULTIVERSO",
-        "url": "https://open.spotify.com/album/67uDPrMrDh2TQH2RrnOZHU"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "MULTIVERSO",
-      "url": "https://open.spotify.com/track/0Vv7iY1J0BF3xR0UnZy9WQ"
     }
   ],
   "unique_name": "el nuevo urbano",

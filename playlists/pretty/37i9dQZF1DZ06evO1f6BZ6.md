@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,690 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,892 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,21 +18,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 8 | [A Little Less Talk And A Lot More Action](https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 2:50 |
 | 9 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
 | 10 | [You Ain't Much Fun](https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 2:27 |
-| 11 | [Who's Your Daddy?](https://open.spotify.com/track/48OJNxzYVJNYzXDDY1xlnt) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:57 |
+| 11 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
 | 12 | [Wish I Didn't Know Now](https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:26 |
 | 13 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 |
-| 14 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
+| 14 | [Who's Your Daddy?](https://open.spotify.com/track/48OJNxzYVJNYzXDDY1xlnt) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:57 |
 | 15 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 |
-| 16 | [I'm Just Talkin' About Tonight](https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 2:46 |
-| 17 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
-| 18 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
+| 16 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
+| 17 | [I'm Just Talkin' About Tonight](https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 2:46 |
+| 18 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
 | 19 | [God Love Her](https://open.spotify.com/track/2VwBhM5L7wGE4lLavyJy0L) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [That Don't Make Me a Bad Guy](https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e) | 3:36 |
 | 20 | [Don't Let the Old Man In](https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Don't Let the Old Man In](https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa) | 2:52 |
 | 21 | [You Shouldn't Kiss Me Like This](https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:43 |
 | 22 | [Beers Ago](https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:26 |
 | 23 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 |
-| 24 | [Does That Blue Moon Ever Shine On You](https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Blue Moon](https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1) | 3:49 |
-| 25 | [My List](https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:20 |
+| 24 | [My List](https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:20 |
+| 25 | [Does That Blue Moon Ever Shine On You](https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Blue Moon](https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1) | 3:49 |
 | 26 | [Who's That Man](https://open.spotify.com/track/3KikW7dhYZkY1eGXkIKOmG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 4:55 |
 | 27 | [The Taliban Song \- Live](https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:58 |
 | 28 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 43 | [Getcha Some](https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:17 |
 | 44 | [Drinks After Work](https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Drinks After Work](https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH) | 3:32 |
 | 45 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
-| 46 | [Wacky Tobaccy](https://open.spotify.com/track/1oQTsgUOZ2pUf2UL8gPKxd) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [The Bus Songs](https://open.spotify.com/album/3aGsuhn4aMZ4M6PpvmVJvT) | 3:03 |
-| 47 | [She Never Cried in Front of Me](https://open.spotify.com/track/4CA1ZvDNhoaCJcozvGP8WH) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [That Don't Make Me a Bad Guy](https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e) | 3:59 |
+| 46 | [She Never Cried in Front of Me](https://open.spotify.com/track/4CA1ZvDNhoaCJcozvGP8WH) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [That Don't Make Me a Bad Guy](https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e) | 3:59 |
+| 47 | [Wacky Tobaccy](https://open.spotify.com/track/1oQTsgUOZ2pUf2UL8gPKxd) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [The Bus Songs](https://open.spotify.com/album/3aGsuhn4aMZ4M6PpvmVJvT) | 3:03 |
 | 48 | [Shut up and Hold On](https://open.spotify.com/track/4LbyaKFseyaiyCCvbF1j2z) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Drinks After Work](https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH) | 2:55 |
 | 49 | [Beautiful Stranger](https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 4:17 |
 | 50 | [A Little Too Late](https://open.spotify.com/track/5djhyxT7ZIzM1rP2XE2ygb) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 4:08 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBiOTUzMWM0YmUxNDIxODc2YTdmOTgwNDdkOWYzZWU4NQ==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBlN2YwNDRjZTY2OGFkOTA2ZThiMDYxZDYwYTE4MjhmZQ==`

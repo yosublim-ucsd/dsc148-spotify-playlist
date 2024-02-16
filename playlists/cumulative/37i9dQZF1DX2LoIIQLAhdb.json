@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -368,6 +368,24 @@
       "duration_ms": 172120,
       "name": "Beau parleur",
       "url": "https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN"
+    },
+    {
+      "album": {
+        "name": "Best life",
+        "url": "https://open.spotify.com/album/3hskdHK1LhYpUg21KuPRGn"
+      },
+      "artists": [
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164170,
+      "name": "Best life",
+      "url": "https://open.spotify.com/track/3pI61vYUF9X8sutyoPv8IB"
     },
     {
       "album": {
@@ -805,6 +823,28 @@
     },
     {
       "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "Comme avant",
+      "url": "https://open.spotify.com/track/47nJBT9KJwJjBbFR7un0e1"
+    },
+    {
+      "album": {
         "name": "Drama (Partie II)",
         "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
       },
@@ -820,7 +860,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 173333,
       "name": "Comme avant (feat. Low Jay)",
       "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
@@ -1390,7 +1430,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 201423,
       "name": "Ex",
       "url": "https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA"
@@ -2752,7 +2792,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146363,
       "name": "Mama",
       "url": "https://open.spotify.com/track/3mBj1U1FgqYSPFjiOw3MTO"
@@ -3266,7 +3306,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 105150,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/0xg5ABhF24UFZ20SUntmMu"
@@ -3360,6 +3400,28 @@
       "duration_ms": 134634,
       "name": "Parano",
       "url": "https://open.spotify.com/track/5Ts3gJAbMVewHiE5vrrPbb"
+    },
+    {
+      "album": {
+        "name": "Parce que c'est toi",
+        "url": "https://open.spotify.com/album/260GBALLqe0bGzq935yLTS"
+      },
+      "artists": [
+        {
+          "name": "Meiitod",
+          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
+        },
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "Parce que c'est toi",
+      "url": "https://open.spotify.com/track/1ruoMifwZ1IDfsPz4j99EN"
     },
     {
       "album": {
@@ -3772,7 +3834,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 136000,
       "name": "PSG OM (QUAND T\u2019ES IVRE)",
       "url": "https://open.spotify.com/track/1Xzoc0xyurzRuLzHODfDAC"
@@ -4165,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Sinc\u00e8re",
+        "url": "https://open.spotify.com/album/26pCaPdLzIo7Sa02oGA7tQ"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Sinc\u00e8re",
+      "url": "https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm"
+    },
+    {
+      "album": {
         "name": "Soeurci\u00e8re",
         "url": "https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b"
       },
@@ -4180,6 +4260,28 @@
       "duration_ms": 153240,
       "name": "Soeurci\u00e8re",
       "url": "https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7"
+    },
+    {
+      "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "SOLD OUT !",
+      "url": "https://open.spotify.com/track/5xxfiqrm3wj6h8GYS3Hwkb"
     },
     {
       "album": {

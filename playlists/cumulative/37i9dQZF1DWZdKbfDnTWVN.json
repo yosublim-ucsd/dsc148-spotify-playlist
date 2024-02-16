@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Boutross</a> and <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Jovie Jovv</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw\"> Vallerie Muthoni</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1100,6 +1100,28 @@
       "duration_ms": 148759,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/2qDbw8aI6X82m8o1B19w8D"
+    },
+    {
+      "album": {
+        "name": "Gabbana",
+        "url": "https://open.spotify.com/album/4AhJBCOl3KifNJKy5Vsvcf"
+      },
+      "artists": [
+        {
+          "name": "Kuky",
+          "url": "https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe"
+        },
+        {
+          "name": "Groovy Jo",
+          "url": "https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180804,
+      "name": "GABANNA",
+      "url": "https://open.spotify.com/track/1bsmgqxtkjJXYqKNxzbTe3"
     },
     {
       "album": {
@@ -2295,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "niko therapy",
+        "url": "https://open.spotify.com/album/3rx0B0rvmzAbXUpYFgV02J"
+      },
+      "artists": [
+        {
+          "name": "KABUGA",
+          "url": "https://open.spotify.com/artist/68d2olhtpyi3Lt3vKY6uWa"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218522,
+      "name": "niko therapy",
+      "url": "https://open.spotify.com/track/2457sLZDAIfnwMHjXHTjTe"
+    },
+    {
+      "album": {
         "name": "No Hook",
         "url": "https://open.spotify.com/album/48audShqxj5ypmHoLSuTmH"
       },
@@ -3030,7 +3070,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195208,
       "name": "Shiiiine",
       "url": "https://open.spotify.com/track/1H2cgCa1EIklAP04oYm7qW"
@@ -3276,6 +3316,44 @@
       "duration_ms": 110496,
       "name": "Sock",
       "url": "https://open.spotify.com/track/5EIUmd3oVvAYGbAwe16rFR"
+    },
+    {
+      "album": {
+        "name": "SON-RISE (Resurrection)",
+        "url": "https://open.spotify.com/album/744EKvPuKF7BibzXa8fTLx"
+      },
+      "artists": [
+        {
+          "name": "XLVI K",
+          "url": "https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT"
+        },
+        {
+          "name": "PrinceKrew Empire",
+          "url": "https://open.spotify.com/artist/3tWz6ertka18Khy25lwqji"
+        },
+        {
+          "name": "G5 Fotel",
+          "url": "https://open.spotify.com/artist/6ei5GqLozvRafvcPwumKB8"
+        },
+        {
+          "name": "Vic Gee",
+          "url": "https://open.spotify.com/artist/3ql9sYFE0KseWl7j9Lhfpf"
+        },
+        {
+          "name": "Dj Perouz",
+          "url": "https://open.spotify.com/artist/6oF6VmJpTTqQo8bosljRbZ"
+        },
+        {
+          "name": "Jpac",
+          "url": "https://open.spotify.com/artist/4IV4MTHMsJ3saVTO9FLjzo"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381727,
+      "name": "SON-RISE - Resurrection",
+      "url": "https://open.spotify.com/track/3BIjS35lXp5wajylMzYhdU"
     },
     {
       "album": {
@@ -3532,7 +3610,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163215,
       "name": "Swerved",
       "url": "https://open.spotify.com/track/0LrGxBqyXmN6PrvB0ZOm0W"
@@ -4020,7 +4098,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 142585,
       "name": "Wash It",
       "url": "https://open.spotify.com/track/02LtDIWAgaDZAQPrwtDCy8"

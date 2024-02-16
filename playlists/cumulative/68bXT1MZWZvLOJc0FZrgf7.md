@@ -2,7 +2,7 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Icona Pop
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
 551 songs - 1 day 4 hr 43 min
 

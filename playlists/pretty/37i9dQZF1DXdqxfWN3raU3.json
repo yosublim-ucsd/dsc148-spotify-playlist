@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 110601,
+  "num_followers": 110649,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U2NThlOWJlZTZmMTA2NjBjYzRiZjk3MWU0ZmVkMjhlZmU3MDM4",
+  "snapshot_id": "MCw5ZTA2NzYyY2FkMjYwY2RlNWE1YTRmNDQ2ODZkMmRjYjkzZWFkZTIw",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1323,6 +1343,38 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "CNTRTE",
+        "url": "https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "CNTRTE",
+      "url": "https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 214789,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1347,22 +1399,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "CNTRTE",
-        "url": "https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "CNTRTE",
-      "url": "https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
       },
@@ -1379,22 +1415,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 214789,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "antes que sea tarde",
         "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
@@ -1407,42 +1427,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 171312,
       "name": "Quiero Que Seas T\u00fa",
       "url": "https://open.spotify.com/track/6OtUxkUu0dBwinLHssKGQ7"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Numb The Pain",
-        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 206116,
-      "name": "Numb The Pain",
-      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Nico Valdi produciendo a Juli Martorell",
         "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 164854,
       "name": "Nico Valdi produciendo a Juli Martorell",
       "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Numb The Pain",
+        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 206116,
+      "name": "Numb The Pain",
+      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "A la Carta",
-        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "A la Carta",
-      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "No Fui Solo Yo",
         "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 122000,
       "name": "M\u00e1s Na",
       "url": "https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "A la Carta",
+        "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "A la Carta",
+      "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Drama Vol. 3",
         "url": "https://open.spotify.com/album/55Sb0QJuaByvQKUTzDWIdG"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 144904,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5NbsKVtCFu62h3e08FyWje"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "added_at": "2024-02-09 06:00:00",

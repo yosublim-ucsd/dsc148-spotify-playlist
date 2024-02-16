@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,573 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,606 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 6 | [Super Ocean Man](https://open.spotify.com/track/4MXhozRvLn7DKoXexaHUOC) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [t\-mix](https://open.spotify.com/album/4IHM3NRzz1b6g9qsO5M583) | 3:13 |
 | 7 | [Back and Forth](https://open.spotify.com/track/25eEcgHpDEJYLJeFpKyXt4) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Back and Forth](https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq) | 2:41 |
 | 8 | [Karenai](https://open.spotify.com/track/23k6zaZh0p1dq3y0Yib8Ey) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Karenai](https://open.spotify.com/album/6Bt8BdRX24Ge8biqElQJXK) | 2:21 |
-| 9 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
+| 9 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
 | 10 | [Eye Splice](https://open.spotify.com/track/5T9sIIIJjg0bUScrA4xWc5) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 2:21 |
 | 11 | [What's Poppin](https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 2:28 |
 | 12 | [WAVEBODY \(Remix\) feat\. OZworld, LEX & ¥ellow Bucks](https://open.spotify.com/track/5t9aACNhF1IWKID3rkWPQM) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [WAVY TAPE 2\(Deluxe\)](https://open.spotify.com/album/75kZW5cinyEdTy8rkkBO3w) | 3:43 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 62 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 |
 | 63 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 |
 
-Snapshot ID: `MCw2MDg1Y2Q0MmFjNTJmZTg0YzUyMzQ1MDA1YzAzZWM3NDliZjQ3MWVk`
+Snapshot ID: `MCxiNzQyZjllMDc2NGNmM2ZlYTAzY2ZkZDY4YTk2Yzk1ZTc0N2Q1NTNi`

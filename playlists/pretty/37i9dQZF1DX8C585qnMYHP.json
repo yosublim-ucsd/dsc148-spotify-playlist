@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
-  "num_followers": 152774,
+  "num_followers": 152796,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIwYWUxYjE4Y2NiODIxMmU0ZTQwODhiNDY4ODg1NWMyNjE2YTlj",
+  "snapshot_id": "MCw4YjJhMTIwOGFlMjgzNzZhN2ZmZWI3MmYyZDg3MzUxYTAwM2IzNjVj",
   "tracks": [
     {
       "added_at": "2024-01-24 03:58:32",
@@ -425,38 +425,6 @@
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "wondering dub",
-        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 127015,
-      "name": "wondering dub",
-      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Promises",
@@ -477,20 +445,36 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Demon Muppy",
-        "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
+        "name": "wondering dub",
+        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
       },
       "artists": [
         {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 123692,
-      "name": "YATKAMAN3000",
-      "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
+      "duration_ms": 127015,
+      "name": "wondering dub",
+      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -515,6 +499,22 @@
       "duration_ms": 286546,
       "name": "Blow Up Yr Life (U Need To)",
       "url": "https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Demon Muppy",
+        "url": "https://open.spotify.com/album/1fDOFgGZtEyXDIT3FMQtA4"
+      },
+      "artists": [
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "YATKAMAN3000",
+      "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
     },
     {
       "added_at": "2024-01-10 04:07:01",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Trances",
-        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
-      },
-      "artists": [
-        {
-          "name": "Julia Reidy",
-          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
-        }
-      ],
-      "duration_ms": 517998,
-      "name": "I",
-      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
-    },
-    {
       "added_at": "2023-08-02 14:55:57",
       "album": {
         "name": "Ulaan",
@@ -599,6 +583,22 @@
       "duration_ms": 210267,
       "name": "Ulaan",
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Trances",
+        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
+      },
+      "artists": [
+        {
+          "name": "Julia Reidy",
+          "url": "https://open.spotify.com/artist/1gf9bjTKL4LChr7JUuR1H7"
+        }
+      ],
+      "duration_ms": 517998,
+      "name": "I",
+      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Diaries Beneath Fragile Glass",
-        "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
-      },
-      "artists": [
-        {
-          "name": "Martyna Basta",
-          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Eating food and fighting Wizards",
@@ -647,6 +631,22 @@
       "duration_ms": 320640,
       "name": "Eating food and fighting Wizards",
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Diaries Beneath Fragile Glass",
+        "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
+      },
+      "artists": [
+        {
+          "name": "Martyna Basta",
+          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
-      "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Decode",
@@ -743,6 +727,22 @@
       "duration_ms": 256088,
       "name": "10easy",
       "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
+    },
+    {
+      "added_at": "2024-01-10 20:04:58",
+      "album": {
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Ground Groove",
@@ -911,6 +895,22 @@
       "duration_ms": 126030,
       "name": "Heart Shimmer",
       "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Notes on Listening",
-        "url": "https://open.spotify.com/album/31RUPJCnUvO3k9aY5ImKgn"
-      },
-      "artists": [
-        {
-          "name": "Suki Sou",
-          "url": "https://open.spotify.com/artist/76CkKrf6jBFHRDtRyJr8P3"
-        }
-      ],
-      "duration_ms": 265665,
-      "name": "Oscillating Swoosh",
-      "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Whisper, Vol. 4 Ultimate Edition",
@@ -1103,6 +1087,22 @@
       "duration_ms": 260571,
       "name": "West Peak",
       "url": "https://open.spotify.com/track/11woWQDGXwLOKQ4ofuPdqj"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Notes on Listening",
+        "url": "https://open.spotify.com/album/31RUPJCnUvO3k9aY5ImKgn"
+      },
+      "artists": [
+        {
+          "name": "Suki Sou",
+          "url": "https://open.spotify.com/artist/76CkKrf6jBFHRDtRyJr8P3"
+        }
+      ],
+      "duration_ms": 265665,
+      "name": "Oscillating Swoosh",
+      "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Mata Hari",
-        "url": "https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Huele a Fraude",
         "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 84180,
       "name": "Monument to Possibilities",
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Mata Hari",
+        "url": "https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1221,6 +1221,54 @@
       "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
+      },
+      "artists": [
+        {
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
+        }
+      ],
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Shoegaze 5G",
+        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+      },
+      "artists": [
+        {
+          "name": "alice does computer music",
+          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+        }
+      ],
+      "duration_ms": 210908,
+      "name": "The Sandcastle",
+      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Cicada Lullaby",
+        "url": "https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb"
+      },
+      "artists": [
+        {
+          "name": "Ans M",
+          "url": "https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF"
+        }
+      ],
+      "duration_ms": 219546,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
+    },
+    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "\u00c9coute Au Loin",
@@ -1247,38 +1295,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Cicada Lullaby",
-        "url": "https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb"
-      },
-      "artists": [
-        {
-          "name": "Ans M",
-          "url": "https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF"
-        }
-      ],
-      "duration_ms": 219546,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Systemic",
         "url": "https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 292573,
       "name": "Blood Quantum",
       "url": "https://open.spotify.com/track/63T2H0pQvsxyVD1ou9xJuz"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Shoegaze 5G",
-        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
-      },
-      "artists": [
-        {
-          "name": "alice does computer music",
-          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
-        }
-      ],
-      "duration_ms": 210908,
-      "name": "The Sandcastle",
-      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1437,38 +1437,6 @@
       "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Vision Leaks",
-        "url": "https://open.spotify.com/album/4q8D03iDVIB8xGpse4HiFj"
-      },
-      "artists": [
-        {
-          "name": "M4A4",
-          "url": "https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Kiss Your Skin",
-      "url": "https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Conversations in Ritual",
-        "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
-      },
-      "artists": [
-        {
-          "name": "Balladeste",
-          "url": "https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50"
-        }
-      ],
-      "duration_ms": 313986,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "The Shuttle Bus",
@@ -1487,18 +1455,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
-        "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
+        "name": "Conversations in Ritual",
+        "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
       },
       "artists": [
         {
-          "name": "Joseph Schiano di Lombo",
-          "url": "https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC"
+          "name": "Balladeste",
+          "url": "https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50"
         }
       ],
-      "duration_ms": 205655,
-      "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
-      "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
+      "duration_ms": 313986,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1515,6 +1483,38 @@
       "duration_ms": 124160,
       "name": "Choral Fragmentation *latenights*",
       "url": "https://open.spotify.com/track/4QoBFxEsDlkZSCtpG2b4Uq"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Vision Leaks",
+        "url": "https://open.spotify.com/album/4q8D03iDVIB8xGpse4HiFj"
+      },
+      "artists": [
+        {
+          "name": "M4A4",
+          "url": "https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Kiss Your Skin",
+      "url": "https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
+        "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
+      },
+      "artists": [
+        {
+          "name": "Joseph Schiano di Lombo",
+          "url": "https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC"
+        }
+      ],
+      "duration_ms": 205655,
+      "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
+      "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
       "added_at": "2024-01-10 04:24:05",

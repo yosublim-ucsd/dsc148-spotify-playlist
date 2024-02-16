@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Febinda Tito",
-  "num_followers": 19030,
+  "num_followers": 19042,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGY1ZDZjYjk0OTJmNzA1MTdiYjVjNGJmNGRkMmZkNDZlMjJlZDIz",
+  "snapshot_id": "MCw1MWRmZGUwMDUwOGFjYTI5MzkzNTEwYjM2YmVkZDU0YTdiYTE3ZjUx",
   "tracks": [
     {
       "added_at": "2024-02-09 07:14:36",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-02-09 07:14:36",
       "album": {
+        "name": "Senja Teduh Pelita",
+        "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 270640,
+      "name": "Senja Teduh Pelita",
+      "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
+    },
+    {
+      "added_at": "2024-02-09 07:14:36",
+      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2024-02-09 07:14:36",
-      "album": {
-        "name": "Senja Teduh Pelita",
-        "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 270640,
-      "name": "Senja Teduh Pelita",
-      "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
     },
     {
       "added_at": "2024-02-09 07:14:36",
@@ -779,58 +779,6 @@
     {
       "added_at": "2024-02-09 07:14:36",
       "album": {
-        "name": "Haunting",
-        "url": "https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA"
-      },
-      "artists": [
-        {
-          "name": "Shanna Shannon",
-          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
-        },
-        {
-          "name": "Stevan Pasaribu",
-          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
-        }
-      ],
-      "duration_ms": 189158,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ"
-    },
-    {
-      "added_at": "2024-02-09 07:14:36",
-      "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
-    },
-    {
-      "added_at": "2024-02-09 07:14:36",
-      "album": {
-        "name": "Live to Love",
-        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Untukmu Aku Bertahan",
-      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
-    },
-    {
-      "added_at": "2024-02-09 07:14:36",
-      "album": {
         "name": "CHRONOSPHERE",
         "url": "https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45"
       },
@@ -851,6 +799,58 @@
       "duration_ms": 247205,
       "name": "GADISKU",
       "url": "https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12"
+    },
+    {
+      "added_at": "2024-02-09 07:14:36",
+      "album": {
+        "name": "Haunting",
+        "url": "https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA"
+      },
+      "artists": [
+        {
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+        },
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "duration_ms": 189158,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ"
+    },
+    {
+      "added_at": "2024-02-09 07:14:36",
+      "album": {
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Untukmu Aku Bertahan",
+      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
+    },
+    {
+      "added_at": "2024-02-09 07:14:36",
+      "album": {
+        "name": "Sinar Pelangi",
+        "url": "https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb"
+      },
+      "artists": [
+        {
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+        }
+      ],
+      "duration_ms": 231769,
+      "name": "Sinar Pelangi",
+      "url": "https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp"
     }
   ],
   "unique_name": "OTW ",

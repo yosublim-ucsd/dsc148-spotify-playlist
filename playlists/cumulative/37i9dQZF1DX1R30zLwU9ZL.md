@@ -4,7 +4,7 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-70 songs - 3 hr 38 min
+71 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Poster](https://open.spotify.com/track/1N8sDFkpas0YDywhU0K2kk) | [Rex Evans](https://open.spotify.com/artist/115Ctw4tsvnirZ05hsUvGF) | [Poster](https://open.spotify.com/album/7lokweUsf621cgidIO8p5L) | 2:06 | 2023-02-27 |  |
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2023-02-27 |  |
 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2023-02-27 |  |
-| [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/track/5kmrgsolftnZzuLHnUsC3M) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/album/7zWsjjc1JsY5SGYBC8nXzT) | 2:49 | 2023-02-27 |  |
+| [Puedes Decir De Mi](https://open.spotify.com/track/2GiIG3pYsmHEXzy2LEomEp) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 2:49 | 2023-02-27 |  |
+| [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/track/5kmrgsolftnZzuLHnUsC3M) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/album/7zWsjjc1JsY5SGYBC8nXzT) | 2:49 | 2023-02-27 | 2024-02-16 |
 | [Que Te Gusta](https://open.spotify.com/track/1orObF60oJZnbfWwo9zcRL) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:30 | 2023-02-27 |  |
 | [Runnin'](https://open.spotify.com/track/4SCUOXpQtRkgmEI2TI0OD4) | [Jeremy Jones](https://open.spotify.com/artist/3c1evcKK85xRDBYwkKoFP6) | [Late Bloomer](https://open.spotify.com/album/0vyiH08Ik9hIp3mBZLbGPW) | 4:05 | 2023-02-27 |  |
 | [Savage \(bitmastr remix\)](https://open.spotify.com/track/2aUsjBN2uYzNTV254mzbBG) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [bitmastr](https://open.spotify.com/artist/7DQ0BvZqagLaurOTVsbhcD) | [Savage \(bitmastr remix\)](https://open.spotify.com/album/6TsESfGJI1a7BXW3aD1Dgp) | 2:55 | 2023-02-27 |  |

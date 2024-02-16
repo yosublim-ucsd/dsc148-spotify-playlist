@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:0liXA3xwx6pncxYQA30ahT\">Limoblaze</a>",
-  "num_followers": 78841,
+  "num_followers": 78916,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWU2ZDFhNjA5YmNjNWVlNTdhODNiYTA5ZDM5NmEwZTVkYjZhZWNl",
+  "snapshot_id": "MCw5ZjNjYTUyZTQxNDI5ODc0YTFiNmNlNDAxMmQ5M2ZiZjc2ZTVkMzNl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:46:04",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6"
+      },
+      "artists": [
+        {
+          "name": "Moses Onofeghara",
+          "url": "https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT"
+        },
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Falala",
         "url": "https://open.spotify.com/album/0LvzPRBuV6iLGBBuSLtP8u"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 188628,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6"
-      },
-      "artists": [
-        {
-          "name": "Moses Onofeghara",
-          "url": "https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT"
-        },
-        {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi"
-      },
-      "artists": [
-        {
-          "name": "Password",
-          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "Authentic",
         "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
       },
@@ -1123,22 +1107,18 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Amplify",
-        "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi"
       },
       "artists": [
         {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+          "name": "Password",
+          "url": "https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI"
         }
       ],
-      "duration_ms": 191808,
-      "name": "Amplify",
-      "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
+      "duration_ms": 165000,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1183,6 +1163,26 @@
       "duration_ms": 144169,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Amplify",
+        "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "miles away",
         "url": "https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 160714,
       "name": "miles away",
       "url": "https://open.spotify.com/track/6dzITKGh7Rf1J2njERXcmw"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
       },
       "artists": [
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
         },
         {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
         }
       ],
-      "duration_ms": 216111,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "What I Want II",
+        "url": "https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG"
+      },
+      "artists": [
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "What I Want II",
+      "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Salama",
         "url": "https://open.spotify.com/album/2mHBDqJk4iieUSIFLXTE9E"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 187768,
       "name": "Salama",
       "url": "https://open.spotify.com/track/3Ue9FEj4cAJjv2Gq7hOZ0g"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "What I Want II",
-        "url": "https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG"
-      },
-      "artists": [
-        {
-          "name": "Elikem Kofi",
-          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "What I Want II",
-      "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Agba",
-        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        },
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "Agba",
-      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 223524,
       "name": "NOW",
       "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Agba",
+        "url": "https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "Agba",
+      "url": "https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1975,18 +1975,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "This Year Affirmation",
-        "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
       },
       "artists": [
         {
-          "name": "Enakeno",
-          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
         }
       ],
-      "duration_ms": 120000,
-      "name": "This Year Affirmation",
-      "url": "https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa"
+      "duration_ms": 117955,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -2011,22 +2015,18 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
+        "name": "This Year Affirmation",
+        "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
       },
       "artists": [
         {
-          "name": "Kushim",
-          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
         }
       ],
-      "duration_ms": 117955,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
+      "duration_ms": 120000,
+      "name": "This Year Affirmation",
+      "url": "https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa"
     },
     {
       "added_at": "2024-02-02 05:46:04",

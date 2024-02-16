@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "ODQ3LDI3MGY2MzQ0MjliMjZhNzAwMjFmYTMzNjFjZjJiMGIwY2RkMmQ3M2I=",
+  "snapshot_id": "ODQ4LDA2ZGQ5ZGE3MjgwMmRhNDdiYTA5ZDNjNGZjZmY3YjYzYjFiOTljYjg=",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -12531,6 +12531,22 @@
       "duration_ms": 325872,
       "name": "Ansumana",
       "url": "https://open.spotify.com/track/7HYUvtCD0BklQbtf6hoRjk"
+    },
+    {
+      "added_at": "2024-02-15 23:29:18",
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
     }
   ],
   "unique_name": "Worldly",

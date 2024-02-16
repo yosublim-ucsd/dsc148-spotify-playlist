@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 155497,
+  "2024-02-16": 155582,
   "date_first_scraped": "2023-02-14",
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
@@ -1258,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Koi suru wakusei \"Anata\"",
+        "url": "https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208309,
+      "name": "Koi suru wakusei \"Anata\"",
+      "url": "https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u"
+    },
+    {
+      "album": {
         "name": "KOINODHISUMAXTUCHIN",
         "url": "https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU"
       },
@@ -1695,10 +1713,28 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 266139,
       "name": "Present",
       "url": "https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe"
+    },
+    {
+      "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/35iKr3pjxUGUtEC1FUkiL6"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266139,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ"
     },
     {
       "album": {
@@ -2203,6 +2239,28 @@
       "duration_ms": 251050,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/7luM6QZ54WNPm3bZ6fzBkE"
+    },
+    {
+      "album": {
+        "name": "Veranda feat. Kanano Senritsu",
+        "url": "https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        },
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Veranda feat. Kanano Senritsu",
+      "url": "https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3"
     },
     {
       "album": {
@@ -3243,7 +3301,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208800,
       "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
       "url": "https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG"
@@ -3981,7 +4039,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208309,
       "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"

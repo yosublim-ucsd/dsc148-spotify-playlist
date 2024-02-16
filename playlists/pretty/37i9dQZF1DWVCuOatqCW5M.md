@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Goldie Sohel & Asees Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,631 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,673 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Dastoor](https://open.spotify.com/track/4INechXMli8qPmDg1hItRD) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dastoor](https://open.spotify.com/album/0MGXB7AjKEuaqZy2rObHle) | 3:16 |
 | 50 | [Ek Mulaqaat](https://open.spotify.com/track/6oEfERRKaPlIHpK8rFODjo) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Ek Mulaqaat](https://open.spotify.com/album/6NNvNQZoXHkqHYuD4xERjD) | 5:28 |
 
-Snapshot ID: `MCwwZWI2YjQ2MmU0ZjE0ZThjMGQxODhmYzkzOGZmOWRiNjA3NThjZDRm`
+Snapshot ID: `MCwzNmU5YTdkYTQ1N2VlMzhjY2E1ZjA3YmVkOWRlYzIwYWQ3ZjlkOTAx`

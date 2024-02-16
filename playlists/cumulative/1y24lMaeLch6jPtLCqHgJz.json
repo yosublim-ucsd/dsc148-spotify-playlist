@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142352,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1"
+    },
+    {
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE"
       },
@@ -4054,6 +4072,32 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/3Eg9YMYHbSQXNqN6tyQamS"
+      },
+      "artists": [
+        {
+          "name": "Going Deeper",
+          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Yasmin Jane",
+          "url": "https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223669,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6ZWmIaUhfHx6FQljCbgDeI"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb"
       },
       "artists": [
@@ -4282,6 +4326,28 @@
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2"
+      },
+      "artists": [
+        {
+          "name": "Linka",
+          "url": "https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc"
+        },
+        {
+          "name": "Gregor Potter",
+          "url": "https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200281,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk"
     },
     {
       "album": {
@@ -5572,6 +5638,28 @@
       "duration_ms": 193874,
       "name": "The Way Out",
       "url": "https://open.spotify.com/track/1c9UrEdPVH8EGQeWJVI5Or"
+    },
+    {
+      "album": {
+        "name": "The Way You Are",
+        "url": "https://open.spotify.com/album/6Vt2ghK7mU05r2HukOP8HE"
+      },
+      "artists": [
+        {
+          "name": "Fablers",
+          "url": "https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX"
+        },
+        {
+          "name": "B\u00d4N",
+          "url": "https://open.spotify.com/artist/4IJUhBXXz5jLD7LkPCmHaK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "The Way You Are",
+      "url": "https://open.spotify.com/track/12LCVUj2fcM15u5nVfh7ml"
     },
     {
       "album": {

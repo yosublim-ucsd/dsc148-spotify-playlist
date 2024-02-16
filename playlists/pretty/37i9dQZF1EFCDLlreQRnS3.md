@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 43 | [Nowhere](https://open.spotify.com/track/3fDPr16Vfg42BPuxjI1xY4) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:04 |
 | 44 | [Old Stones](https://open.spotify.com/track/0DGiMbEuDh8EsSTMr7VWUa) | [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Old Stones](https://open.spotify.com/album/30tEteM0v75u91EYSe7Oza) | 3:09 |
 | 45 | [Show You](https://open.spotify.com/track/2pi50lnTL4suF9KMOQRgcp) | [Kasper G](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Show You](https://open.spotify.com/album/5ho9hNw0hocm8XGvLt4F85) | 3:26 |
-| 46 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
-| 47 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
+| 46 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
+| 47 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
 | 48 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 |
 | 49 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 |
 | 50 | [Dizzy](https://open.spotify.com/track/64LUjD3YocS7RTVKH9cryO) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Dizzy](https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F) | 2:28 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 91 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 92 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `Mjg0NjYwNDAsMDAwMDAwMDA1OTY1OWUwYjFmN2U0NTU1OWUyODVkMjBhNjc5MWVjMg==`
+Snapshot ID: `Mjg0Njc0ODAsMDAwMDAwMDAzZDA2N2M5MGJlY2JmMTgwMDkwY2Q0MTA0Y2RjMDkyYw==`

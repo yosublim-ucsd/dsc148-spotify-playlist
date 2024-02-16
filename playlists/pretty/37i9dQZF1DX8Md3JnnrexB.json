@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 208604,
+  "num_followers": 208620,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM4MWQ5ZWZjNmJhMWY2NGZkNTVkOTdkMzViOGQzMDcxY2ZjZjhm",
+  "snapshot_id": "MCxlZDhkNjY1NWI2NmI4NWI0OGQyMjM0MWEwNWQyYTk0NTM4NzUxNmFm",
   "tracks": [
     {
       "added_at": "2024-02-09 10:38:24",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2024-02-09 10:38:24",
-      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2024-02-09 10:38:24",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 341733,
-      "name": "Breezin'",
-      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
-    },
-    {
-      "added_at": "2024-02-09 10:38:24",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2024-02-09 10:38:24",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
+    },
+    {
+      "added_at": "2024-02-09 10:38:24",
+      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 200640,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -479,22 +495,6 @@
       "duration_ms": 226493,
       "name": "Too Hot - Single Version",
       "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
-    },
-    {
-      "added_at": "2024-02-09 10:38:24",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2024-02-09 10:38:24",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2024-02-09 10:38:24",
-      "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
-    },
-    {
-      "added_at": "2024-02-09 10:38:24",
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": "2024-02-09 10:38:24",
+      "album": {
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 468653,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
-    },
-    {
-      "added_at": "2024-02-09 10:38:24",
-      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
+    },
+    {
+      "added_at": "2024-02-09 10:38:24",
+      "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
       "artists": [
         {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
+      "duration_ms": 363333,
+      "name": "Do It To Me",
+      "url": "https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy"
     },
     {
       "added_at": "2024-02-09 10:38:24",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-02-09 10:38:24",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
         }
       ],
-      "duration_ms": 363333,
-      "name": "Do It To Me",
-      "url": "https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy"
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2024-02-09 10:38:24",

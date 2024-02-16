@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,168 likes - 86 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,190 likes - 86 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 70 | [Goldberg Variations, BWV 988: Variation 1 \(Arr\. for Harp\)](https://open.spotify.com/track/36EnMgx9PmtnzUtmKwI63h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations: Variation 1 \(Arranged for Harp\)](https://open.spotify.com/album/5a12E7Hn3S4QlR4egf9cHA) | 1:56 |
 | 71 | [Africa: Land of Romance](https://open.spotify.com/track/2YCoiO4O1nN7e01t56FlAp) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Fort Smith Symphony](https://open.spotify.com/artist/2RF1pwxVSPHMVoOpSiscAE), [John Jeter](https://open.spotify.com/artist/3R8JNp3hUoSjDI0OMGt6VN) | [Still: Afro\-American Symphony](https://open.spotify.com/album/6WeAFg5AUjMi1NkuvCi0Ey) | 6:59 |
 | 72 | [much loved](https://open.spotify.com/track/6DV5mwk2kZw6GiDR2XUsjP) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 4:22 |
-| 73 | [Piano Concerto in G Major, M\. 83: II\. Adagio assai](https://open.spotify.com/track/4ju98rvX917EwXLKLnRbQ2) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz), [Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7) | [Ravel: Piano Concertos; Valses nobles et sentimentales](https://open.spotify.com/album/0uMPPy2lbRhzn0PPonpyaT) | 9:23 |
+| 73 | [Piano Concerto in G Major, M\. 83: II\. Adagio assai](https://open.spotify.com/track/4ju98rvX917EwXLKLnRbQ2) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7) | [Ravel: Piano Concertos; Valses nobles et sentimentales](https://open.spotify.com/album/0uMPPy2lbRhzn0PPonpyaT) | 9:23 |
 | 74 | [Ave Maria, S\. 558 \(after Schubert, D\. 839\)](https://open.spotify.com/track/6mfmrVSe5Cm7cvsNwW6uJk) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Liszt: Ave Maria, S\. 558 \(after Schubert, D\. 839\)](https://open.spotify.com/album/6czvXIzY7s7XwttsVTwCnQ) | 5:28 |
 | 75 | [Sunset Bird](https://open.spotify.com/track/1jcQ040aWKeiUGJ2IcnFtV) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Sunset Bird](https://open.spotify.com/album/2c9fSY8vvHKDCBKgNUJ70H) | 3:11 |
 | 76 | [Flow State Vestida 4](https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [Flow State Vestida 4](https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE) | 3:49 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 85 | [Piano Concerto No\. 21 in C Major, K\. 467: II\. Andante](https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [London Mozart Players](https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Mozart: Piano Concertos, Vol\. 6](https://open.spotify.com/album/4hDQVX7aQ4SIIyCm06fmyP) | 7:13 |
 | 86 | [Moonbeams](https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k) | [Leo Livens](https://open.spotify.com/artist/2c7nAl1XnLeEhocqm107SJ), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:59 |
 
-Snapshot ID: `MCwzMjIwMjQ4MTY3NjIxMTBjYjMzYjViNjlhZWNkZjFiMGQ1NWI0MDEx`
+Snapshot ID: `MCxlMWJjNmNhMzBiZGNkYzgzYjk1N2U2M2ZkNTBjM2Q4NWU2YTM2YWFk`

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40117,
+  "num_followers": 40114,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTU1ODdiOGNhZWU3NTBkMmExYTVjNWQ3MTVmYWExMjJiMDBmMjQ0",
+  "snapshot_id": "MCwyOWIwMmZmZGU1NDEzZTRhMmIyOGViYzQ4ZTkzMzk1Y2YzYWJhYWRh",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Canciones de tapa blanca y negra",
+        "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        }
+      ],
+      "duration_ms": 116924,
+      "name": "Canci\u00f3n Cauce",
+      "url": "https://open.spotify.com/track/5BDAyGoE29547It73XxbqQ"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "RAWR",
         "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Canciones de tapa blanca y negra",
-        "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        }
-      ],
-      "duration_ms": 116924,
-      "name": "Canci\u00f3n Cauce",
-      "url": "https://open.spotify.com/track/5BDAyGoE29547It73XxbqQ"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Suerte",
         "url": "https://open.spotify.com/album/392hK64cm39C8CDetPM6HC"
       },
@@ -723,18 +707,34 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
       "artists": [
         {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
         }
       ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Blanco",
-        "url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "Fuera o M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198620,
       "name": "Flower Power",
       "url": "https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Blanco",
+        "url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 193680,
+      "name": "Fuera o M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "360 al Mundo",
+      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Nasty Girl (feat. Ingratax)",
         "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
         }
       ],
-      "duration_ms": 179250,
-      "name": "360 al Mundo",
-      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+      "duration_ms": 191278,
+      "name": "Rothmans",
+      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1083,22 +1099,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Rothmans",
-      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Lo Que Dicen De Mi",
-        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "Lo Que Dicen De Mi",
-      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Llorando en la Fiesta",
         "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 217761,
       "name": "No Me Gustan los Grises",
       "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Lo Que Dicen De Mi",
+        "url": "https://open.spotify.com/album/5jt8WaEAUQAt2X8LmOZMF6"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "Lo Que Dicen De Mi",
+      "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Lo M\u00e1s Cercano a Caer",
         "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 146668,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 186245,
-      "name": "BSOS",
-      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Piedra del \u00c1guila",
         "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 194470,
       "name": "Piedra del \u00c1guila",
       "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "BSOS",
+      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Cardo o Ceniza",
+        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Cardo o Ceniza",
-        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
     },
     {
       "added_at": "2024-01-10 17:36:14",

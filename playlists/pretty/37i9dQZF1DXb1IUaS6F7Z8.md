@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,184 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,310 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 20 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
 | 21 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 22 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
-| 23 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
+| 23 | [Join the Riot](https://open.spotify.com/track/4Vv0cjSnoGMnBUgbJOm1qM) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/0kS0A4VWsiDeTyj8vXwMzu) | 3:09 |
 | 24 | [Johnny, I Hardly Knew Ya](https://open.spotify.com/track/2JKG5gyxMeZaBazd8S6FGt) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:54 |
 | 25 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 |
-| 26 | [Join the Riot](https://open.spotify.com/track/4Vv0cjSnoGMnBUgbJOm1qM) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/0kS0A4VWsiDeTyj8vXwMzu) | 3:09 |
+| 26 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
 | 27 | [Whiskey and Gin](https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk) | [The Killigans](https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB) | [Honor](https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ) | 2:46 |
 | 28 | [The Rocky Road To Dublin](https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 2:40 |
 | 29 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 33 | [What's Left of the Flag](https://open.spotify.com/track/5dDDlK2uYeRo0DmvJGfIDW) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:38 |
 | 34 | [The Warrior's Code](https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:31 |
 | 35 | [One Fine Day](https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Heyday \(Deluxe Edition\)](https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL) | 3:35 |
-| 36 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
-| 37 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
+| 36 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
+| 37 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
 | 38 | [Paint the Town Red](https://open.spotify.com/track/7tPW4cLySo5f6WCVUxYvC4) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Rise Again](https://open.spotify.com/album/03Anfa0odGVDlS8ol83RO9) | 3:24 |
 | 39 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
-| 40 | [Cider Holiday](https://open.spotify.com/track/0cYC4yBogMCYktHDiHN9y5) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Cider Holiday](https://open.spotify.com/album/3UKDUinlsVMdCAabG9s8fY) | 4:25 |
-| 41 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
+| 40 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
+| 41 | [Cider Holiday](https://open.spotify.com/track/0cYC4yBogMCYktHDiHN9y5) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Cider Holiday](https://open.spotify.com/album/3UKDUinlsVMdCAabG9s8fY) | 4:25 |
 | 42 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
 | 43 | [Sainted Millions](https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 3:35 |
 | 44 | [Fool \(Fight of Our Lives\)](https://open.spotify.com/track/0FaTgXZvAq3vqRGWir79ew) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [The Underdogs](https://open.spotify.com/album/4037g1dZC3to82wXOwQYAg) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
 | 50 | [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 |
 
-Snapshot ID: `MCxiZTI5YjhmZTNkMjE3OThjMDgwMjM2YWMzY2YwZTc0YjVjMTE3ZmMz`
+Snapshot ID: `MCxmODMwNzkwZmNhZjcwNmI5MWEwN2NkNzU3YzUwY2ZiNTdjYjU4ZTY1`

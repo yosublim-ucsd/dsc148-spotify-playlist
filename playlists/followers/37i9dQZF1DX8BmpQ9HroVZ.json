@@ -1,7 +1,7 @@
 {
-  "2024-02-15": 102256,
+  "2024-02-16": 102325,
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover - Shubh",
+  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover - AUR",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
+    },
+    {
+      "album": {
         "name": "Alag Aasmaan",
         "url": "https://open.spotify.com/album/3ggRRHH3VsmspGHzOl4v42"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 254142,
       "name": "Apa Fer Milaange",
       "url": "https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
@@ -1598,6 +1616,32 @@
     },
     {
       "album": {
+        "name": "Drippy",
+        "url": "https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        },
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Drippy",
+      "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
+    },
+    {
+      "album": {
         "name": "Duur",
         "url": "https://open.spotify.com/album/7GEhbVGW9GziGstoE415v4"
       },
@@ -1631,7 +1675,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 200658,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj"
@@ -2953,10 +2997,32 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 199998,
       "name": "Koi Si",
       "url": "https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX"
+    },
+    {
+      "album": {
+        "name": "Koi Si",
+        "url": "https://open.spotify.com/album/6ygmcKWcYou8isVIdje83u"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Nirmaan",
+          "url": "https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Koi Si",
+      "url": "https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6"
     },
     {
       "album": {
@@ -3435,7 +3501,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 181250,
       "name": "Mahiye Jinna Sohna",
       "url": "https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR"
@@ -3483,7 +3549,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 161041,
       "name": "Malang Sajna",
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
@@ -3557,6 +3623,28 @@
       "duration_ms": 163404,
       "name": "Mansoob",
       "url": "https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb"
+    },
+    {
+      "album": {
+        "name": "Marham (Pehle Bhi Main) [From \"ANIMAL\"]",
+        "url": "https://open.spotify.com/album/4pfx72zSpnKIr6ADPN3htn"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113264,
+      "name": "Marham (Pehle Bhi Main) [From \"ANIMAL\"]",
+      "url": "https://open.spotify.com/track/1fGXJZny7HUQnLKwttxmYw"
     },
     {
       "album": {
@@ -4092,6 +4180,32 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
         "name": "Pain Killers",
         "url": "https://open.spotify.com/album/3UdTK1KsU5CWp0aqzl1JqZ"
       },
@@ -4466,6 +4580,24 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK"
       },
@@ -4663,7 +4795,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 115636,
       "name": "Sanak",
       "url": "https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP"
@@ -5445,7 +5577,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"
@@ -5923,6 +6055,32 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
+        "name": "Ve Haaniyaan",
+        "url": "https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5"
+      },
+      "artists": [
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ve Haaniyaan",
+      "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"
     },
     {
       "album": {

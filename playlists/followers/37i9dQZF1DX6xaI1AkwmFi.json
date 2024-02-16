@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 23190,
+  "2024-02-16": 23199,
   "date_first_scraped": "2023-11-24",
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
   "name": "\u30b9\u30c8\u30ed\u30dc",
@@ -1028,8 +1028,44 @@
     },
     {
       "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "Prepare Yourself!",
+      "url": "https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz"
+    },
+    {
+      "album": {
         "name": "Present",
         "url": "https://open.spotify.com/album/57B7wdk6YuFHxDZyBERvTK"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-15",
+      "duration_ms": 266139,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe"
+    },
+    {
+      "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/35iKr3pjxUGUtEC1FUkiL6"
       },
       "artists": [
         {
@@ -1042,7 +1078,7 @@
       "date_removed": null,
       "duration_ms": 266139,
       "name": "Present",
-      "url": "https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe"
+      "url": "https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ"
     },
     {
       "album": {
@@ -1487,6 +1523,28 @@
       "duration_ms": 215221,
       "name": "Unlucky!!",
       "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
+    },
+    {
+      "album": {
+        "name": "Veranda feat. Kanano Senritsu",
+        "url": "https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        },
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Veranda feat. Kanano Senritsu",
+      "url": "https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3"
     },
     {
       "album": {
@@ -2007,7 +2065,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208800,
       "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
       "url": "https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG"
@@ -2595,7 +2653,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P"

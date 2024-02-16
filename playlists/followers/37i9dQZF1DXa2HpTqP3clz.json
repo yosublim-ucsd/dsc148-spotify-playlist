@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 131642,
+  "2024-02-16": 131647,
   "date_first_scraped": "2021-12-21",
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
   "name": "Grass Roots",
@@ -5239,6 +5239,24 @@
     {
       "album": {
         "name": "Lonesome State Of Mind",
+        "url": "https://open.spotify.com/album/5ViDsd2jp8zv9Uc6CXaGNa"
+      },
+      "artists": [
+        {
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143929,
+      "name": "Lonesome State Of Mind",
+      "url": "https://open.spotify.com/track/3U9PicOTAIX48LW6QQDTBY"
+    },
+    {
+      "album": {
+        "name": "Lonesome State Of Mind",
         "url": "https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo"
       },
       "artists": [
@@ -5249,7 +5267,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 143929,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/6Ve06auIooixlCcp145XKp"

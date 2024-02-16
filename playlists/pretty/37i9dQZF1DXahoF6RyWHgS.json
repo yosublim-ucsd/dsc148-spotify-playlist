@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 42367,
+  "num_followers": 42373,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzViYjdhMDgzMDhkMTIxYzkzNGEyYmRjOTA3YzRmN2RiY2RkZDY2",
+  "snapshot_id": "MCw3ZmJhZWIwZDZhZGM4ZTUxMjk2MjhjMDkwOWIwOGE2Yjc5NTFmZmNi",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Afro",
@@ -563,6 +547,22 @@
       "duration_ms": 261426,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Cuatro Tigres",
+        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "La Danza de los Simpsons",
+      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Guantanamera - The Essential Album",
-        "url": "https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Chicharrones",
-      "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "No Tiene Fin",
@@ -923,6 +907,22 @@
       "duration_ms": 167453,
       "name": "Se\u00f1or Presidente",
       "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Guantanamera - The Essential Album",
+        "url": "https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Chicharrones",
+      "url": "https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 163420,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Xe\u0308e\u0308w (Volumen 1)",
         "url": "https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 338306,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Elotitos Tiernos",
-        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
-      },
-      "artists": [
-        {
-          "name": "Liliana Felipe",
-          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
-        }
-      ],
-      "duration_ms": 392400,
-      "name": "A Su Merced",
-      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -1103,6 +1087,22 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Elotitos Tiernos",
+        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
+      },
+      "artists": [
+        {
+          "name": "Liliana Felipe",
+          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
+        }
+      ],
+      "duration_ms": 392400,
+      "name": "A Su Merced",
+      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "Arroz Con Frijoles",
-      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Live At The First Annual San Francisco Son Jarocho Festival",
@@ -1167,6 +1151,22 @@
       "duration_ms": 545467,
       "name": "Luna Negra - Live",
       "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Arroz Con Frijoles",
+      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
-        "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "Hot Tamales (Los Tamalitos De Olga)",
-      "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Presentando a \u00d1ico Saquito",
@@ -1231,6 +1215,22 @@
       "duration_ms": 158453,
       "name": "Maria Cristina",
       "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
+        "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 153613,
+      "name": "Hot Tamales (Los Tamalitos De Olga)",
+      "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Concierto en Vivo (Vienna, Austria)",
-        "url": "https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll"
-      },
-      "artists": [
-        {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "El P\u00e1jaro C\u00fa - Live",
-      "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Trio Nuevomexicano",
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
-        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
+        "name": "Concierto en Vivo (Vienna, Austria)",
+        "url": "https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
         }
       ],
-      "duration_ms": 186107,
-      "name": "Jacarandosa - Remastered",
-      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
+      "duration_ms": 305906,
+      "name": "El P\u00e1jaro C\u00fa - Live",
+      "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1503,6 +1487,22 @@
       "duration_ms": 235934,
       "name": "Paletero",
       "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
+        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Jacarandosa - Remastered",
+      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
     },
     {
       "added_at": "2022-01-11 03:10:29",

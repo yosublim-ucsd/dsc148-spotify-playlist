@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,480 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,498 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 15 | [Living Hope](https://open.spotify.com/track/6CW9qtzZpHZ3o39BYlpU0x) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Living Hope](https://open.spotify.com/album/2rKiADhVznDGC1oRjeczDr) | 6:46 |
 | 16 | [Tend](https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Simple](https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q) | 4:53 |
 | 17 | [Dancing on the Waves](https://open.spotify.com/track/2soQW3y7DwZIPH4fS5av1W) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 6:16 |
-| 18 | [Egypt \- Live](https://open.spotify.com/track/72SrSfTI6p9HCBuVKmCNu9) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 6:23 |
-| 19 | [Ever Be \- Live](https://open.spotify.com/track/7gbdU7Cuj07lHi0qW0vZcG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 5:22 |
+| 18 | [Ever Be \- Live](https://open.spotify.com/track/7gbdU7Cuj07lHi0qW0vZcG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 5:22 |
+| 19 | [Egypt \- Live](https://open.spotify.com/track/72SrSfTI6p9HCBuVKmCNu9) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 6:23 |
 | 20 | [You're Gonna Be Ok](https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 4:21 |
 | 21 | [The Blessing](https://open.spotify.com/track/5cebPQVq4mdFykugzU2LfU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 6:54 |
-| 22 | [Lion and the Lamb](https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 4:40 |
-| 23 | [Tremble](https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 3:21 |
+| 22 | [Tremble](https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 3:21 |
+| 23 | [Lion and the Lamb](https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 4:40 |
 | 24 | [You Make Me Brave \- Live](https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:06 |
 | 25 | [Reckless Love](https://open.spotify.com/track/2uKwH2Wc0vtVXrRieOMxlu) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:41 |
 | 26 | [We Praise You \- Live](https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 6:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
 | 50 | [Cómo No Voy A Creer](https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o) | 10:33 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAzNmVhNmFjOGNkMWUzOTBhMmRlYjkwODkxMmFkMDQ3NQ==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBkNDAyZThmMzdlYWQ1MmM0YjA2NzIzODcwOGU4YjdmZA==`

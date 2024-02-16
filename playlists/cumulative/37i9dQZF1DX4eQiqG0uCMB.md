@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-269 songs - 13 hr 43 min
+270 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [John Dumelo](https://open.spotify.com/track/7Bp8cqxHDVRLwJXFbXxt9B) | [Gho5t](https://open.spotify.com/artist/5fX5WCIuZTlEidRRmj5gug) | [John Dumelo](https://open.spotify.com/album/5QezEPPOMEx2hZjOqco9AP) | 2:16 | 2022-07-07 | 2022-07-22 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 |  |
 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 | 2022-06-09 |  |
-| [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-06-09 |  |
+| [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-06-09 | 2024-02-16 |
 | [Lagbaja](https://open.spotify.com/track/4FW8rTluyTmcf3uYAm8qrC) | [Dimi Keye](https://open.spotify.com/artist/4efVJ70KH16hdCL57EL7UN) | [Lagbaja](https://open.spotify.com/album/1iTFgbalclhMSBNDS3lbdq) | 2:40 | 2023-07-21 | 2023-09-10 |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 | 2023-01-28 |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 | 2023-10-31 |
@@ -242,6 +242,7 @@
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 | 2023-05-12 |
 | [There, There, Woman](https://open.spotify.com/track/7huX4BF0SJRvf8mJmUyzFW) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [The World Is Spinning And Everyone's Dizzy](https://open.spotify.com/album/6t4K55o91hQHeihNNNJHFl) | 2:52 | 2023-06-09 | 2023-06-23 |
 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 | 2022-06-09 |  |
+| [Thoughts](https://open.spotify.com/track/5ITebkKgXkVWeGMzx9wiCs) | [Garey Godson](https://open.spotify.com/artist/1aUSlNPvVz5IYg9sSsEDPK), [Bruder](https://open.spotify.com/artist/6yFOu87T55YZcwqRH4MQSV), [Gustav Anders](https://open.spotify.com/artist/2XxerMANX0agr5C83zwgfy) | [Thoughts](https://open.spotify.com/album/7mRqHWPSn8WwhKSJmEAL7G) | 3:24 | 2024-02-16 |  |
 | [Thug Love](https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 2:14 | 2022-12-02 | 2023-02-17 |
 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-10 | 2023-02-24 |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-13 | 2024-02-03 |

@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 94067,
+  "num_followers": 94085,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGRiZjRjNDUyOTA3ZmI2OGM2Y2I5NjAyN2Q5NmMwZTIwZDBmMjM5",
+  "snapshot_id": "MCw4YTNjN2M4YjQ0ZGZiZjE2MTA4NTgwOWI3MTFhZDg2YjhhZjMzZjE0",
   "tracks": [
     {
       "added_at": "2024-02-12 08:41:32",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u611b\u7684\u9996\u5e2d",
-        "url": "https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8"
-      },
-      "artists": [
-        {
-          "name": "TANK \u5442\u5efa\u5fe0",
-          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "\u611b\u7684\u9996\u5e2d",
-      "url": "https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
         "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 208733,
       "name": "\u725b\u5976\u9eb5\u5305 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
+        "name": "\u611b\u7684\u9996\u5e2d",
+        "url": "https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "\u611b\u7684\u9996\u5e2d",
+      "url": "https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
+        "name": "\u5fc3\u5f15\u529b",
+        "url": "https://open.spotify.com/album/5oy4TAALay9YdGkPP292sS"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u4fca\u51f1",
+          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 257785,
+      "name": "\u5fc3\u5f15\u529b",
+      "url": "https://open.spotify.com/track/57izWRQXkuKYpQ4RHNYi24"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u5fc3\u52a8\u51b3\u5b9a",
-        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
-      },
-      "artists": [
-        {
-          "name": "\u53f6\u743c\u7433",
-          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
-        },
-        {
-          "name": "\u9ec3\u79ae\u683c",
-          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
-        }
-      ],
-      "duration_ms": 203331,
-      "name": "\u5fc3\u52a8\u51b3\u5b9a",
-      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
         "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6"
       },
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2024-02-12 08:41:32",
       "album": {
-        "name": "\u5fc3\u5f15\u529b",
-        "url": "https://open.spotify.com/album/5oy4TAALay9YdGkPP292sS"
+        "name": "\u5fc3\u52a8\u51b3\u5b9a",
+        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
       },
       "artists": [
         {
-          "name": "\u738b\u4fca\u51f1",
-          "url": "https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5"
+          "name": "\u53f6\u743c\u7433",
+          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
         },
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "\u9ec3\u79ae\u683c",
+          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
         }
       ],
-      "duration_ms": 257785,
-      "name": "\u5fc3\u5f15\u529b",
-      "url": "https://open.spotify.com/track/57izWRQXkuKYpQ4RHNYi24"
+      "duration_ms": 203331,
+      "name": "\u5fc3\u52a8\u51b3\u5b9a",
+      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -1047,26 +1047,6 @@
       "duration_ms": 241213,
       "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
       "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
-    },
-    {
-      "added_at": "2024-02-12 08:41:32",
-      "album": {
-        "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
-        "url": "https://open.spotify.com/album/4Zvf8FWGGJdlu58nMkYIML"
-      },
-      "artists": [
-        {
-          "name": "Ruth Kueo",
-          "url": "https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb"
-        },
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 146860,
-      "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
-      "url": "https://open.spotify.com/track/3p7UhRYIamaKwf92u5k78s"
     },
     {
       "added_at": "2024-02-12 08:41:32",
@@ -1099,6 +1079,26 @@
       "duration_ms": 213333,
       "name": "\u8ffd\u5149\u8005",
       "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
+    },
+    {
+      "added_at": "2024-02-12 08:41:32",
+      "album": {
+        "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
+        "url": "https://open.spotify.com/album/4Zvf8FWGGJdlu58nMkYIML"
+      },
+      "artists": [
+        {
+          "name": "Ruth Kueo",
+          "url": "https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb"
+        },
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        }
+      ],
+      "duration_ms": 146860,
+      "name": "\u4e0d\u5b8c\u7f8e\u7684\u6211",
+      "url": "https://open.spotify.com/track/3p7UhRYIamaKwf92u5k78s"
     },
     {
       "added_at": "2024-02-12 08:41:32",

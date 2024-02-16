@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,395 likes - 87 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,408 likes - 87 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 86 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 |
 | 87 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 |
 
-Snapshot ID: `MCxiN2E4NDhhNDg1NjVkZjE5YTBjNTAwYTI1NGEyZTUxM2VlYWQxNzZl`
+Snapshot ID: `MCxkMjc5ZjZjM2QwMWMxNTQzMjRkNWQzNmZhOWYxZjU1ODVlZjY3Zjkz`

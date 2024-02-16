@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,703 likes - 47 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,711 likes - 47 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 29 | [Call Me In The Morning](https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:59 |
 | 30 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
 | 31 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
-| 32 | [New Music Friday](https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:15 |
+| 32 | [Juice 2 Me](https://open.spotify.com/track/0CyVjQtb75XP8yH0MDQZKb) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:14 |
 | 33 | [You Got Me](https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:21 |
 | 34 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
 | 35 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 46 | [Capital M\-E](https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 2:48 |
 | 47 | [Everything Must Go](https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 4:44 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAyZmEyOTQ1ZDQwMTI5NzEyNzIzYTdjYjA4OGVkYzg5Zg==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBkM2Q4NGRjZGRjNzQ3NWFlMDg4NTU4MzU2ODhiOGQzNw==`

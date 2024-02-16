@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Loredana Bert\u00e8",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: COMRAD, WISM",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 234772,
       "name": "Che vita di merda",
       "url": "https://open.spotify.com/track/7fkCv0btMuGfpTXZU26ouu"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 129035,
       "name": "DAI DAI",
       "url": "https://open.spotify.com/track/5wl32oZR5ay86QFidiluzL"
@@ -3675,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Serpenti in testa",
+        "url": "https://open.spotify.com/album/72gpgZQmLVKBI99uFukMSO"
+      },
+      "artists": [
+        {
+          "name": "Halley DNA",
+          "url": "https://open.spotify.com/artist/2CPQt0ENyPUY5IKnmF4LDE"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168946,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/6bOlLe6NO07yr6wZrLj0WJ"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/4qq6sl99NWDbnySzlnUGiT"
       },
@@ -3730,6 +3748,24 @@
       "duration_ms": 168000,
       "name": "E tu sei la volpe",
       "url": "https://open.spotify.com/track/4A3F2MYd1lh8h0WGJz5Jik"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm"
+      },
+      "artists": [
+        {
+          "name": "Tiger! Shit! Tiger! Tiger!",
+          "url": "https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP"
     },
     {
       "album": {
@@ -3882,6 +3918,24 @@
       "duration_ms": 194874,
       "name": "Equinox Fall",
       "url": "https://open.spotify.com/track/7idhTgLH1JA6n5rVwSCt9P"
+    },
+    {
+      "album": {
+        "name": "Erbivoro",
+        "url": "https://open.spotify.com/album/1DYdtxzzQlyXgnvgqS2nNK"
+      },
+      "artists": [
+        {
+          "name": "Damon Arabsolgar",
+          "url": "https://open.spotify.com/artist/7LHVkW9uuKShSSme5V7Cal"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385724,
+      "name": "Erbivoro",
+      "url": "https://open.spotify.com/track/1O9IaKFHjIJBo7LMmMPZmU"
     },
     {
       "album": {
@@ -5222,7 +5276,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208528,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5iD1GzHpAZkdtVCdyv0dXC"
@@ -5774,6 +5828,24 @@
       "duration_ms": 211904,
       "name": "il mondo va veloce",
       "url": "https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU"
+    },
+    {
+      "album": {
+        "name": "Il nastro di M\u00f6bius",
+        "url": "https://open.spotify.com/album/28OaeyhBANsm7Ynvn67bti"
+      },
+      "artists": [
+        {
+          "name": "Votto",
+          "url": "https://open.spotify.com/artist/1NPd03l2532gBF9AIVly3k"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Il nastro di M\u00f6bius",
+      "url": "https://open.spotify.com/track/2F5QIJHE3NyopZgiGLDUP1"
     },
     {
       "album": {
@@ -6396,6 +6468,24 @@
       "duration_ms": 221284,
       "name": "L'ansia del casello",
       "url": "https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy"
+    },
+    {
+      "album": {
+        "name": "L'ultima volta",
+        "url": "https://open.spotify.com/album/3YUkThQhJo5CEp8dupCPue"
+      },
+      "artists": [
+        {
+          "name": "Dacota",
+          "url": "https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196280,
+      "name": "L'ultima volta",
+      "url": "https://open.spotify.com/track/4ZSKBH9LwSnWJqJea9rXJq"
     },
     {
       "album": {
@@ -7544,7 +7634,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165842,
       "name": "Merighi",
       "url": "https://open.spotify.com/track/3Wj3jsgEoSFZ36XutM5fDi"
@@ -7566,6 +7656,24 @@
       "duration_ms": 144000,
       "name": "Metaverso",
       "url": "https://open.spotify.com/track/3cdxIBtLMgq01XrPBxWHjS"
+    },
+    {
+      "album": {
+        "name": "Meteorite",
+        "url": "https://open.spotify.com/album/348OlaHzQYwg5MFmVSq5lH"
+      },
+      "artists": [
+        {
+          "name": "Voina",
+          "url": "https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/7kSfhUgQA737ErOYmI5RmL"
     },
     {
       "album": {
@@ -8096,6 +8204,24 @@
       "duration_ms": 247064,
       "name": "New Try",
       "url": "https://open.spotify.com/track/0IA7sXdG0wauaCV8Ckz1Hw"
+    },
+    {
+      "album": {
+        "name": "no joke",
+        "url": "https://open.spotify.com/album/6Xh7hory69fuNd3yAdJEn0"
+      },
+      "artists": [
+        {
+          "name": "Sleap-e",
+          "url": "https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "no joke",
+      "url": "https://open.spotify.com/track/7I7Gio8PT7A0ZPA3ukK7b0"
     },
     {
       "album": {
@@ -10983,6 +11109,24 @@
     },
     {
       "album": {
+        "name": "Sides",
+        "url": "https://open.spotify.com/album/2a8G9pLND6ILoopArfwy3k"
+      },
+      "artists": [
+        {
+          "name": "Danxgerous",
+          "url": "https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186823,
+      "name": "Sides",
+      "url": "https://open.spotify.com/track/2ne1ojKyDKMMvD4VSDYvzf"
+    },
+    {
+      "album": {
         "name": "Signorina Mani Avanti",
         "url": "https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl"
       },
@@ -11474,7 +11618,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 184813,
       "name": "Stefano",
       "url": "https://open.spotify.com/track/4x2ujpyYo1aKwZY2VdY3i2"
@@ -11952,6 +12096,24 @@
       "duration_ms": 224253,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/72dU19llHChNhc7VcxpId3"
+    },
+    {
+      "album": {
+        "name": "Disturbo della Quiete Privata",
+        "url": "https://open.spotify.com/album/6dIWBWSn87BsyPbZFpaPvF"
+      },
+      "artists": [
+        {
+          "name": "le vite degli altri",
+          "url": "https://open.spotify.com/artist/5MXyajGaB4FejUzTBE8Oyi"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171438,
+      "name": "Temporale",
+      "url": "https://open.spotify.com/track/6KiYWgzJ5HvJjbqYVtCX0T"
     },
     {
       "album": {
@@ -13138,7 +13300,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 162501,
       "name": "VALE TUTTO",
       "url": "https://open.spotify.com/track/4FR5o8NhDGa2qauVKYsfgU"
@@ -13210,7 +13372,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206363,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/6DrPJAXD7puVADAGSpjX4x"

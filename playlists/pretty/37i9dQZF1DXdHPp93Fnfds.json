@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 144064,
+  "num_followers": 144060,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWU2YTczZjhkYWY2N2VlNDVhZTY1ODE0NTc0MTVjYTZkZmRiMDFh",
+  "snapshot_id": "MCw3YjQ5MmNmNzc1OWExMzdmZWE3MDk3NjhmZTkwYWRjY2EzYzMwMDE2",
   "tracks": [
     {
       "added_at": "2024-01-18 22:10:20",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 191278,
+      "name": "Rothmans",
+      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Rothmans",
-      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Male",
-        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "El d\u00eda libre de Polux",
         "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
       },
@@ -1027,22 +1011,18 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "te vas a lamentar :'(",
-        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
+        "name": "Male",
+        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
         }
       ],
-      "duration_ms": 189600,
-      "name": "te vas a lamentar :'(",
-      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
+      "duration_ms": 182903,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1063,22 +1043,22 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "El Im\u00e1n (Remix)",
-        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+        "name": "te vas a lamentar :'(",
+        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         },
         {
-          "name": "Santiago Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         }
       ],
-      "duration_ms": 228000,
-      "name": "El Im\u00e1n - Remix",
-      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
+      "duration_ms": 189600,
+      "name": "te vas a lamentar :'(",
+      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
+        "name": "El Im\u00e1n (Remix)",
+        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "El Im\u00e1n - Remix",
+      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
         "name": "AZ\u00daCAR",
         "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 205398,
       "name": "AZ\u00daCAR",
       "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 103656,
-      "name": "DNI",
-      "url": "https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 103656,
+      "name": "DNI",
+      "url": "https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Suspiros",
-      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "La Santa Patrona de los Corazones Negros",
         "url": "https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 213675,
       "name": "Harakiri",
       "url": "https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+        "name": "Trafun",
+        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Daniela Millaleo",
+          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
         }
       ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+      "duration_ms": 239960,
+      "name": "Me Fu\u00ed a Caminar",
+      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
     }
   ],
   "unique_name": "Mujeres del Indie",

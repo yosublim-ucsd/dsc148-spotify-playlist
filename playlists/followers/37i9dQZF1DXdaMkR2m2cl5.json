@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 73587,
+  "2024-02-16": 73595,
   "date_first_scraped": "2021-12-28",
   "description": "Soft, smoky undertones of singer-songwriter sounds give way to lingering notes of rich, earthy chamber folk. Cover: Glen Hansard.",
   "name": "Folk Feast",
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 192733,
       "name": "Hold Me Like A Fire",
       "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
@@ -4339,6 +4339,24 @@
       "duration_ms": 157068,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/5awVHbrgmCrvvK3xOAFI4N"
+    },
+    {
+      "album": {
+        "name": "Early In The Morning (Bonus Version)",
+        "url": "https://open.spotify.com/album/1hqx7QxediDedheKHu9aVB"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293792,
+      "name": "We Don't Eat",
+      "url": "https://open.spotify.com/track/4UDgV4eVcO7R9yaLthdgDP"
     },
     {
       "album": {

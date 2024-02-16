@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165746,
       "name": "200 KM/H",
       "url": "https://open.spotify.com/track/7DfBKw4PYAar1FXOFLqMFE"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 184394,
       "name": "Automatique",
       "url": "https://open.spotify.com/track/3lT2yaxSLBWDbjcFDMLaUn"
@@ -277,6 +277,32 @@
     },
     {
       "album": {
+        "name": "En temps r\u00e9el",
+        "url": "https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "C'est carr\u00e9 le S",
+      "url": "https://open.spotify.com/track/2UHSXPY5jSCpp3nzWHtaQv"
+    },
+    {
+      "album": {
         "name": "Ar\u00e8s",
         "url": "https://open.spotify.com/album/7lN0D0jbfIEyvkk9cw0wKL"
       },
@@ -314,7 +340,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195459,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv"
@@ -504,7 +530,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 138960,
       "name": "GUETTE",
       "url": "https://open.spotify.com/track/1Z0wEQ1f57DkljzYwInEqr"
@@ -620,7 +646,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 164133,
       "name": "Jota",
       "url": "https://open.spotify.com/track/6Fnriu0MGPeYMZ6l8GkWZm"
@@ -638,7 +664,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 175613,
       "name": "La cl\u00e9",
       "url": "https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M"
@@ -718,10 +744,32 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 200106,
       "name": "La street",
       "url": "https://open.spotify.com/track/2PBKX84nhZNZ4E3fcdRHUX"
+    },
+    {
+      "album": {
+        "name": "Chef D'orchestre",
+        "url": "https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171754,
+      "name": "Localis\u00e9",
+      "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
     },
     {
       "album": {
@@ -762,6 +810,28 @@
       "duration_ms": 159133,
       "name": "Millions d'euros",
       "url": "https://open.spotify.com/track/6OYRUnXFnD7nbtLQvRidh7"
+    },
+    {
+      "album": {
+        "name": "Mon BB",
+        "url": "https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "Mon BB",
+      "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
     },
     {
       "album": {
@@ -885,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Parabellum",
+        "url": "https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154110,
+      "name": "Parabellum",
+      "url": "https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu"
+    },
+    {
+      "album": {
         "name": "Avec le temps",
         "url": "https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8"
       },
@@ -987,6 +1075,28 @@
     },
     {
       "album": {
+        "name": "Drapeau Blanc",
+        "url": "https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu"
+      },
+      "artists": [
+        {
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "RS5",
+      "url": "https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9mices",
         "url": "https://open.spotify.com/album/6Puycd9ohkbDcL70BIlnqZ"
       },
@@ -1006,6 +1116,28 @@
       "duration_ms": 217333,
       "name": "Sale mood",
       "url": "https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo"
+    },
+    {
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
     },
     {
       "album": {
@@ -1196,6 +1328,24 @@
       "duration_ms": 241160,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
+    },
+    {
+      "album": {
+        "name": "VNTR",
+        "url": "https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218344,
+      "name": "VNTR",
+      "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX32nf7PAbnUl"

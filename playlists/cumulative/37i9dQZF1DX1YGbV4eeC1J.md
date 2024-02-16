@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Haitham Kim
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Phina
 
-134 songs - 7 hr 39 min
+136 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-11 |  |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Butterfly \(feat\. Phina\)](https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Butterfly \(feat\. Phina\)](https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu) | 3:00 | 2024-01-18 |  |
-| [Calm Down](https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Calm Down](https://open.spotify.com/album/6LrYNVo234UYbCjg99juWU) | 3:08 | 2023-11-30 |  |
+| [Calm Down](https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Calm Down](https://open.spotify.com/album/6LrYNVo234UYbCjg99juWU) | 3:08 | 2023-11-30 | 2024-02-16 |
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 | 2022-11-08 |
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-05 |
@@ -42,7 +42,7 @@
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 |  |
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 |  |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-05-26 | 2024-02-02 |
-| [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 | 2023-08-31 |  |
+| [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 | 2023-08-31 | 2024-02-16 |
 | [I Need You](https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Need You](https://open.spotify.com/album/3uRFdty1rcadmo53p0ydVZ) | 3:06 | 2022-08-04 | 2023-03-11 |
 | [I Wish](https://open.spotify.com/track/5SRVeuiI9GkdtDmpi43APu) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [I Wish](https://open.spotify.com/album/0SuFal0Q6lCaiN2StecdhB) | 3:02 | 2023-10-06 | 2024-01-19 |
 | [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 | 2022-06-23 | 2023-07-21 |
@@ -140,7 +140,9 @@
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-09-07 |  |
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 |  |
 | [Wapambe](https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Wapambe](https://open.spotify.com/album/1Gj7pdyvDIyM2GYzbN4fJ5) | 3:14 | 2024-02-09 |  |
+| [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 |  |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-05-26 |  |
 | [Wimbo Wetu](https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Wimbo Wetu](https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr) | 4:26 | 2023-07-06 | 2024-01-26 |
+| [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 |  |
 
 \*This playlist was first scraped on 2022-09-22. Prior content cannot be recovered.

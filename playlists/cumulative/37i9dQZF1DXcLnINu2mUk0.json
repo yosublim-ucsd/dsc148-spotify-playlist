@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay e Julinho Ksd.",
-  "name": "Seda",
+  "description": "Ivandro escolhe as m\u00fasicas, ele decide!",
+  "name": "Seda: Ivandro Takeover",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 257500,
       "name": ".Sais e Minerais",
       "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 212093,
       "name": "00 Fala Bonito",
       "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
+    },
+    {
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -118,7 +136,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
@@ -198,6 +216,24 @@
       "duration_ms": 188000,
       "name": "5MINUTES",
       "url": "https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg"
+    },
+    {
+      "album": {
+        "name": "7 Chaves",
+        "url": "https://open.spotify.com/album/4Mq2bAi8rJsMgEq4ihm0GQ"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199837,
+      "name": "7 Chaves",
+      "url": "https://open.spotify.com/track/3X7mmyo1ALA9twhf5xIbyR"
     },
     {
       "album": {
@@ -416,7 +452,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 184057,
       "name": "Agora Naw",
       "url": "https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN"
@@ -1504,10 +1540,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 180837,
       "name": "C'La Perfecion",
       "url": "https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO"
+    },
+    {
+      "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "album": {
@@ -1627,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "Finda",
+        "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Bandeira",
+          "url": "https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ"
+        },
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202624,
+      "name": "Carro (feat. Dillaz)",
+      "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
+    },
+    {
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -1642,7 +1718,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
@@ -1992,7 +2068,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
@@ -2326,7 +2402,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185567,
       "name": "Corre",
       "url": "https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y"
@@ -2755,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242970,
+      "name": "DIRE\u00c7\u00c3O PARIS",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "album": {
         "name": "DISPARA",
         "url": "https://open.spotify.com/album/5cvlEKE5tzK35WoF6DIqba"
       },
@@ -2868,7 +2962,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185684,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
@@ -4195,6 +4289,28 @@
     },
     {
       "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182387,
+      "name": "Give God Praises",
+      "url": "https://open.spotify.com/track/4amIx2cjGkQBmQjSFViTgD"
+    },
+    {
+      "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
       },
@@ -4533,6 +4649,32 @@
     },
     {
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202280,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
+    },
+    {
+      "album": {
         "name": "IBC",
         "url": "https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP"
       },
@@ -4552,6 +4694,24 @@
       "duration_ms": 246575,
       "name": "IBC",
       "url": "https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS"
+    },
+    {
+      "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "If U Love Me",
+      "url": "https://open.spotify.com/track/47D98I1Fp6Ncpt06bEjMyh"
     },
     {
       "album": {
@@ -4936,7 +5096,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206315,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
@@ -5096,7 +5256,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 152470,
       "name": "Linda",
       "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
@@ -5154,6 +5314,24 @@
       "duration_ms": 225982,
       "name": "Longe",
       "url": "https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB"
+    },
+    {
+      "album": {
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "album": {
@@ -5399,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162736,
+      "name": "Ma Boo",
+      "url": "https://open.spotify.com/track/1sazGKK94pXnyd4iNaigcj"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/1sOcSfwkwJjWF2Bu3gL8eO"
       },
@@ -5592,7 +5788,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 166875,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN"
@@ -6058,7 +6254,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192500,
       "name": "M\u00f3nica",
       "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
@@ -6228,6 +6424,24 @@
       "duration_ms": 114935,
       "name": "Nazar\u00e9",
       "url": "https://open.spotify.com/track/1egCduaKZy7kiJiAtozeGz"
+    },
+    {
+      "album": {
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
+      },
+      "artists": [
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203437,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
     },
     {
       "album": {
@@ -6706,7 +6920,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 288200,
       "name": "N\u00e3o Me Enganas (feat. Ivandro & Nayr Faquira)",
       "url": "https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv"
@@ -7200,7 +7414,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211200,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/0HMIctywEolk71isSynd0u"
@@ -7280,7 +7494,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 212093,
       "name": "Placas",
       "url": "https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K"
@@ -7346,6 +7560,24 @@
       "duration_ms": 184302,
       "name": "Ponto Fraco",
       "url": "https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx"
+    },
+    {
+      "album": {
+        "name": "Pontos Finais",
+        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194039,
+      "name": "Pontos Finais",
+      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
     },
     {
       "album": {
@@ -7776,7 +8008,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 217959,
       "name": "Replay",
       "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
@@ -8222,7 +8454,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 189578,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0"
@@ -9199,6 +9431,24 @@
     },
     {
       "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272637,
+      "name": "TA TUDO BEM",
+      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
+    },
+    {
+      "album": {
         "name": "Take Time",
         "url": "https://open.spotify.com/album/0ySENuBqd94PEnQB24HM8L"
       },
@@ -9595,6 +9845,24 @@
     },
     {
       "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226005,
+      "name": "Trovador",
+      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
@@ -9860,7 +10128,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 144900,
       "name": "T\u00e3o Perto",
       "url": "https://open.spotify.com/track/0aBb0ba87IscklgtAkk6wO"
@@ -9900,6 +10168,24 @@
       "duration_ms": 182756,
       "name": "Ultima Vez",
       "url": "https://open.spotify.com/track/75ensuXF7woa77truWNxpn"
+    },
+    {
+      "album": {
+        "name": "Afro Fado",
+        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222427,
+      "name": "Ultimamente",
+      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
     },
     {
       "album": {
@@ -10250,7 +10536,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 241565,
       "name": "VOLTA",
       "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
@@ -10508,7 +10794,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"

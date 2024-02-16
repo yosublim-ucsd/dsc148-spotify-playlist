@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTI3MTQyZTI2M2E1NzdhN2YyMTgzZmNjYjBhMDc5Yjg5OGM3Yjcy",
+  "snapshot_id": "MCxmMjg5MTk4NTE5ZjZmMWNhYzZjZGNmNzNlMDdmMTMwN2I3NWRlNTNj",
   "tracks": [
     {
       "added_at": "2024-02-09 10:28:19",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-02-09 10:28:19",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
-    },
-    {
-      "added_at": "2024-02-09 10:28:19",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 214073,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
+    },
+    {
+      "added_at": "2024-02-09 10:28:19",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2024-02-09 10:28:19",

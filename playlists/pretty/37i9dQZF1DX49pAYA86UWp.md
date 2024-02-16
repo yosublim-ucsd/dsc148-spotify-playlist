@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 
 > Trap de la isla, con Yeruza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,208 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,226 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 49 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 |
 | 50 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 
-Snapshot ID: `MCwxOWJlMTZkMjk2ODkwZTI1YzNjNDlkN2E4OTkzMDk1NjZhNThjYTcy`
+Snapshot ID: `MCwzZTZmMGQyYzFkZWQxNGNkNzBjYzkwOTFhMDY4ODYyNmY5NjdlMjA0`

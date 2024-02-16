@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Neck Deep",
-  "num_followers": 565961,
+  "num_followers": 566024,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQzNjg2N2VhMzA3OTY4NzdkNmQ3Zjg2YmNiNGU5YjA0MDQ4ZTY1",
+  "snapshot_id": "MCwyNGYwNjlkN2Q1ZmRkZjA0OTQwZTdmNTQ0ZjE3ODNhZDRiMjlhOWM2",
   "tracks": [
     {
       "added_at": "2024-02-05 23:41:17",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "Take Me With You",
-        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Take Me With You",
-      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 171729,
       "name": "2005",
       "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175172,
       "name": "Cursive",
       "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
+        "name": "AUTUMNAL",
+        "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
         "name": "Past // Present // Future (Deluxe)",
         "url": "https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
-        "name": "AUTUMNAL",
-        "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Autumnal",
-      "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 175932,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 175932,
-      "name": "Get Over It",
-      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
     },
     {
       "added_at": "2024-01-12 01:19:26",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-01-12 01:19:26",
       "album": {
-        "name": "Love Bumps (feat. Pouya)",
-        "url": "https://open.spotify.com/album/10MpTsKSnmXOtQhRRGEyTN"
-      },
-      "artists": [
-        {
-          "name": "Fat Nick",
-          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
-        },
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "Love Bumps (feat. Pouya)",
-      "url": "https://open.spotify.com/track/3n0JNGdzWj8fPlSV19mFN1"
-    },
-    {
-      "added_at": "2024-01-12 01:19:26",
-      "album": {
         "name": "flare guns in the living room",
         "url": "https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 180970,
       "name": "theme song",
       "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
+    },
+    {
+      "added_at": "2024-01-12 01:19:26",
+      "album": {
+        "name": "Love Bumps (feat. Pouya)",
+        "url": "https://open.spotify.com/album/10MpTsKSnmXOtQhRRGEyTN"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "Love Bumps (feat. Pouya)",
+      "url": "https://open.spotify.com/track/3n0JNGdzWj8fPlSV19mFN1"
     },
     {
       "added_at": "2024-01-12 01:19:26",

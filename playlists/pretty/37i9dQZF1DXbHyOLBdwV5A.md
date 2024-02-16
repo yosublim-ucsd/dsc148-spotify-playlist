@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,548 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,588 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 47 | [Tempo Novo](https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Cristo Alegria](https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J) | [Tempo Novo](https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ) | 3:37 |
 | 48 | [Tropa de Jesus \(2024\)](https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh) | [BIG FOOT PRODUTORA](https://open.spotify.com/artist/6IlrVPaoBFaS2Mh7taMjTt), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [DJ Pezão](https://open.spotify.com/artist/2NKWxU3WeE5hQdL5ukUGhU) | [Tropa de Jesus \(2024\)](https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL) | 1:46 |
 | 49 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
-| 50 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
-| 51 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
-| 52 | [Não Me Deixarás](https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Caio Cesar](https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4) | [Não Me Deixarás](https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73) | 3:04 |
+| 50 | [Não Me Deixarás](https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Caio Cesar](https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4) | [Não Me Deixarás](https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73) | 3:04 |
+| 51 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
+| 52 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
 | 53 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 54 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
 | 55 | [Se Tu Creres \- Remix](https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Se Tu Creres \(Remix\)](https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Helena Albernaz](https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7) | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ) | 2:46 |
 | 75 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 
-Snapshot ID: `MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2`
+Snapshot ID: `MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5`

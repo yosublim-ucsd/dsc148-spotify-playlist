@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,688 likes - 300 songs - 10 hr 45 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,695 likes - 300 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 218 | [Leofi](https://open.spotify.com/track/6w2pejsyoF1drSQvakCtLv) | [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [New Beginnings EP](https://open.spotify.com/album/0No7HujtkfaGk1Ps7mAxFv) | 1:26 |
 | 219 | [Blue Gem Bathbomb](https://open.spotify.com/track/64fQhrYkeWwW18iNVIcH59) | [Goldenninjah](https://open.spotify.com/artist/7h8yHAeuxxeKQjRXc7XiBu), [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [Blue Gem Bathbomb](https://open.spotify.com/album/3wqc7QVYf2dfxyjSN183ht) | 2:10 |
 | 220 | [Snowman](https://open.spotify.com/track/77f5d6taFXsWbJbEE1gDnz) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Snowman](https://open.spotify.com/album/6YeQIZq5mbHCU7JL8cYGCD) | 1:49 |
-| 221 | [Stargazing](https://open.spotify.com/track/350adcytLi971QYQqA7VfR) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Stargazing](https://open.spotify.com/album/0QqdiEHioaLThLSgimAgfs) | 2:15 |
+| 221 | [Stargazing](https://open.spotify.com/track/350adcytLi971QYQqA7VfR) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [Stargazing](https://open.spotify.com/album/0QqdiEHioaLThLSgimAgfs) | 2:15 |
 | 222 | [Late Nights](https://open.spotify.com/track/6pabJItbuDl9lsR7UcZhML) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Late Nights](https://open.spotify.com/album/5vGR7q5m0kk089Db1ysI0u) | 0:48 |
 | 223 | [Daiquiri](https://open.spotify.com/track/1UwfphJWxriHFSwBMjwqGb) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Lofi Chill Jazz](https://open.spotify.com/album/5nyTI3rYroJC7QLVrDdRKM) | 1:53 |
 | 224 | [Windowsill](https://open.spotify.com/track/2cjhaeGyzUqYNOTalpsptn) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Windowsill](https://open.spotify.com/album/7zAxTPH038NK2m43YAVnsG) | 2:37 |

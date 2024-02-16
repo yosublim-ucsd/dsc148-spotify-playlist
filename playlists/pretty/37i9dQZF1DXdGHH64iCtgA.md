@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,229 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,261 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 64 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
 | 65 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
 | 66 | [No Hay Mañana \- Club Mix](https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr) | [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19), [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x) | [No Hay Mañana](https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9) | 7:03 |
-| 67 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 |
-| 68 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
+| 67 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
+| 68 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 |
 | 69 | [Composure](https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Composure](https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj) | 2:29 |
 | 70 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
 | 71 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 84 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
 | 85 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
 | 86 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
-| 87 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
-| 88 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
+| 87 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
+| 88 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
 | 89 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
 | 90 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
 | 91 | [Animosity \- SOPHIE Remix](https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC) | [Abyss X](https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Animosity \(SOPHIE Remix\)](https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh) | 8:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 100 | [Back Seat \- Tseba Remix](https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Back Seat \(Tseba Remix\)](https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW) | 4:00 |
 
-Snapshot ID: `MCwwMGQ4MGQzZjUzOGY2ZGNlNmE3YjJiOTkwNTY0NjNkNDU5MDRkYmU2`
+Snapshot ID: `MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi`

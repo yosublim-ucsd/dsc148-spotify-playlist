@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Love Remain
+> Discover your new favourite artists from UK&IE\. Cover: Shaé Universe
 
-247 songs - 13 hr 25 min
+248 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Leave](https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh) | 3:22 | 2024-01-19 | 2024-01-20 |
 | [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 | 2022-10-06 |  |
 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 | 2022-04-28 |  |
+| [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 | 2024-02-16 |  |
 | [lost in her phone](https://open.spotify.com/track/2SsMgATz0w6t594iTbxhS8) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [u the real star here](https://open.spotify.com/album/0luZl88eJJKPPGq4W4ITUf) | 2:54 | 2022-11-18 |  |
 | [Lost in Therapy](https://open.spotify.com/track/0mbANhAzETyMsFjUhUOmlo) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/5HR3Q9Vg5xvAiRnpgWWgPG) | 3:39 | 2022-02-18 | 2022-10-15 |
 | [Lost in Therapy](https://open.spotify.com/track/3WZFJI7o916wwssS5f2Lsu) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Glowchild](https://open.spotify.com/album/6dIdv6wH7700qQ2D9jnPxp) | 3:39 | 2022-10-13 |  |

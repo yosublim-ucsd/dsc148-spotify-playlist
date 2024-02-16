@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 10254,
+  "num_followers": 10267,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmFkNjM5YzE0M2RkMDFiMjhkMTk2MDNlMDlkNDQwMGM5MjI2NDVi",
+  "snapshot_id": "MCxkNzEyNTRjNzQ1YzMyMjAxZjQ4ZjdhMzI2YjQwMDk1MDhhYTFmMWI0",
   "tracks": [
     {
       "added_at": "2024-02-12 21:18:08",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 220830,
+      "name": "Gordo",
+      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 201263,
       "name": "Bossa No S\u00e9 (feat. Jean Carter)",
       "url": "https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 220830,
-      "name": "Gordo",
-      "url": "https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 247455,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
         "name": "dEsANiMaO :(",
         "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 187317,
       "name": "dEsANiMaO :(",
       "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 247455,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
+        "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 206475,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
         "name": "Todo Regresa",
         "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
-        "name": "Nave Especial",
-        "url": "https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL"
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 206475,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0"
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -603,22 +619,6 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
+        "name": "qu\u00e9 tal te va??",
+        "url": "https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "qu\u00e9 tal te va??",
+      "url": "https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -911,38 +927,6 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
-        "name": "qu\u00e9 tal te va??",
-        "url": "https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU"
-      },
-      "artists": [
-        {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "qu\u00e9 tal te va??",
-      "url": "https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
         "name": "Si Te Soy Sincera",
         "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
       },
@@ -955,6 +939,42 @@
       "duration_ms": 159835,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
+        "name": "de mi cabeza no te vas",
+        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "de mi cabeza no te vas",
+      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -979,18 +999,18 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
-        "name": "de mi cabeza no te vas",
-        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+        "name": "SOMOS JAVYPABLO",
+        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         }
       ],
-      "duration_ms": 151011,
-      "name": "de mi cabeza no te vas",
-      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+      "duration_ms": 225000,
+      "name": "Rayito de Luz",
+      "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -1007,6 +1027,22 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2024-02-12 21:18:08",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
     },
     {
       "added_at": "2024-02-12 21:18:08",
@@ -1059,54 +1095,18 @@
     {
       "added_at": "2024-02-12 21:18:08",
       "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "SOMOS JAVYPABLO",
-        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Rayito de Luz",
-      "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
-    },
-    {
-      "added_at": "2024-02-12 21:18:08",
-      "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+      "duration_ms": 215800,
+      "name": "Mayo",
+      "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
     }
   ],
   "unique_name": "mi vida es una peli",

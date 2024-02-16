@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Wejdene",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : IPNDEGO",
   "name": "le miel",
   "tracks": [
     {
@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Chanel Pt. 2",
+        "url": "https://open.spotify.com/album/1l9kSwS7e5t2sDAIEWs64l"
+      },
+      "artists": [
+        {
+          "name": "TMI",
+          "url": "https://open.spotify.com/artist/3hu0IhZbt6Re7ckM2LKglZ"
+        },
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Chanel Pt. 2",
+      "url": "https://open.spotify.com/track/7egZBEbXibU03rGh3zpqoq"
+    },
+    {
+      "album": {
         "name": "Des perles et des cendres",
         "url": "https://open.spotify.com/album/43qUSB8OWn8A3R9IbCYSyb"
       },
@@ -280,7 +302,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171325,
       "name": "Ch\u00e9ri",
       "url": "https://open.spotify.com/track/22f7A8gSa2P5TK8lWlNU0Q"
@@ -418,7 +440,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 264232,
       "name": "Coup de fil",
       "url": "https://open.spotify.com/track/2xrPOmiTWiuiLMRMj5li5A"
@@ -440,7 +462,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 199713,
       "name": "Coup de foudre",
       "url": "https://open.spotify.com/track/7Mzh1T5Y1DidCEVY7a8MNH"
@@ -524,7 +546,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 182786,
       "name": "Donne-moi tout",
       "url": "https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc"
@@ -730,6 +752,24 @@
       "duration_ms": 153488,
       "name": "HOLD-UP",
       "url": "https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH"
+    },
+    {
+      "album": {
+        "name": "Chick & Dips",
+        "url": "https://open.spotify.com/album/7wr1oxPx5FU5c7ll4Ca6FO"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192996,
+      "name": "Honey Glazed",
+      "url": "https://open.spotify.com/track/2BQ9kr7iW8M3GY5GKn19jv"
     },
     {
       "album": {
@@ -1148,10 +1188,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 167786,
       "name": "Mortel",
       "url": "https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz"
+    },
+    {
+      "album": {
+        "name": "Ginger Season 2",
+        "url": "https://open.spotify.com/album/45zM9grYw3huSLPlgXpjwU"
+      },
+      "artists": [
+        {
+          "name": "Mocaris",
+          "url": "https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164985,
+      "name": "M\u00eame si",
+      "url": "https://open.spotify.com/track/2qKaQs2leFuprBfviIewts"
     },
     {
       "album": {
@@ -1296,6 +1354,24 @@
       "duration_ms": 153846,
       "name": "Pansement",
       "url": "https://open.spotify.com/track/1eNFHLLofgZl9Lb3JA7jik"
+    },
+    {
+      "album": {
+        "name": "Pense \u00e0 moi",
+        "url": "https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE"
+      },
+      "artists": [
+        {
+          "name": "Awa Lemen",
+          "url": "https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Pense \u00e0 moi",
+      "url": "https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h"
     },
     {
       "album": {
@@ -1614,7 +1690,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 226569,
       "name": "Si J't'oubliais",
       "url": "https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC"
@@ -1896,6 +1972,46 @@
       "duration_ms": 161426,
       "name": "Une erreur",
       "url": "https://open.spotify.com/track/7rT5EgRLRIAMf867fTHnTc"
+    },
+    {
+      "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202813,
+      "name": "Une semaine pour oublier...",
+      "url": "https://open.spotify.com/track/1x6x2YSqFPqQtTkHFBnfdJ"
+    },
+    {
+      "album": {
+        "name": "Venin",
+        "url": "https://open.spotify.com/album/7yTzCNaW0vZZj0IA6umIZR"
+      },
+      "artists": [
+        {
+          "name": "\u00c4zy",
+          "url": "https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Venin",
+      "url": "https://open.spotify.com/track/4ByBthTRGalb1uTx7YEgVM"
     },
     {
       "album": {

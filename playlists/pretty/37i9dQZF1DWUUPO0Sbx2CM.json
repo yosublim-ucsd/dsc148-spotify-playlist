@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 192471,
+  "num_followers": 192578,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY5OTE0ZDBlODNhY2RmY2U1Nzg1NDM0ODc2Njc3NDIyOWQ5Y2M0",
+  "snapshot_id": "MCxiOTEzMDIwZDA5ZjllZDllODdjMGU3NzBjYzMyNzBiYzk4ZjZiNGY3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "AQU\u00cd ESTOY",
-        "url": "https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 155021,
-      "name": "AQU\u00cd ESTOY",
-      "url": "https://open.spotify.com/track/02nEIwx2VWEK89j7XZvDUn"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "AQU\u00cd ESTOY",
+        "url": "https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 155021,
+      "name": "AQU\u00cd ESTOY",
+      "url": "https://open.spotify.com/track/02nEIwx2VWEK89j7XZvDUn"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Where To Find Me",
-        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 138846,
-      "name": "Where To Find Me",
-      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Lost On Me",
         "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Where To Find Me",
+        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 138846,
+      "name": "Where To Find Me",
+      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "This Is Freedom (Ain't No Rock) [Live]",
-        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 344125,
-      "name": "This Is Freedom (Ain't No Rock) - Live",
-      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Unashamed",
         "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 178928,
       "name": "Unashamed",
       "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "This Is Freedom (Ain't No Rock) [Live]",
+        "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 344125,
+      "name": "This Is Freedom (Ain't No Rock) - Live",
+      "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Nothing But The Truth",
-      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
       "artists": [
         {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+      "duration_ms": 204613,
+      "name": "Nothing But The Truth",
+      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
       "artists": [
         {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
         }
       ],
-      "duration_ms": 213281,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2023-02-07 17:43:21",

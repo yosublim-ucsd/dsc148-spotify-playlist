@@ -1,28 +1,32 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4207,
+  "num_followers": 4206,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTU0Miw2NTQ4ZmUzNDE2YTBhNGM2ZjhjZmY2ZmRhNjAwZjQ0Y2Q0NDRlMmQz",
+  "snapshot_id": "MTU1NixjMTdjMmY2Nzk0ZGFmMTAwNzA4NGJiOTU1OWQyNjA3OGNmYTIzMTEz",
   "tracks": [
     {
-      "added_at": "2024-02-12 15:09:26",
+      "added_at": "2024-02-15 23:08:40",
       "album": {
-        "name": "I Don't Wanna Rush",
-        "url": "https://open.spotify.com/album/2z5b9JPx8u2UMzJXXV131T"
+        "name": "The Music",
+        "url": "https://open.spotify.com/album/6LdlSCPDnCqJrWNqsMVLhM"
       },
       "artists": [
         {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+          "name": "Valy Mo",
+          "url": "https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH"
+        },
+        {
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
         }
       ],
-      "duration_ms": 184370,
-      "name": "I Don't Wanna Rush",
-      "url": "https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G"
+      "duration_ms": 157150,
+      "name": "The Music",
+      "url": "https://open.spotify.com/track/65JCNU7q3n5JrNHySefc3P"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -45,22 +49,6 @@
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
-      "added_at": "2024-02-13 18:57:51",
-      "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/0eIjrRPxXHrZzhQFNxVlOb"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 205045,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
-    },
-    {
       "added_at": "2024-02-12 15:09:26",
       "album": {
         "name": "Kill The Lights",
@@ -79,6 +67,38 @@
       "duration_ms": 200451,
       "name": "Kill The Lights",
       "url": "https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK"
+    },
+    {
+      "added_at": "2024-02-13 18:57:51",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/0eIjrRPxXHrZzhQFNxVlOb"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 205045,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
+    },
+    {
+      "added_at": "2024-02-12 15:09:26",
+      "album": {
+        "name": "I Don't Wanna Rush",
+        "url": "https://open.spotify.com/album/2z5b9JPx8u2UMzJXXV131T"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 184370,
+      "name": "I Don't Wanna Rush",
+      "url": "https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G"
     },
     {
       "added_at": "2024-02-13 18:57:16",
@@ -355,18 +375,18 @@
     {
       "added_at": "2024-02-12 15:09:26",
       "album": {
-        "name": "Mahoya",
-        "url": "https://open.spotify.com/album/5fauaPMXWXz6hqucQRqc5x"
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
       },
       "artists": [
         {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 170078,
-      "name": "Mahoya",
-      "url": "https://open.spotify.com/track/2vpNq1g5gmMdyFRR3NKX1G"
+      "duration_ms": 184836,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -423,70 +443,6 @@
       "duration_ms": 190650,
       "name": "Closer",
       "url": "https://open.spotify.com/track/58CTyLzYaWEQXnBbJeALxM"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "This Is Your Brain",
-        "url": "https://open.spotify.com/album/1MaGW0nRejiDgFJbmMtaJO"
-      },
-      "artists": [
-        {
-          "name": "Viv Castle",
-          "url": "https://open.spotify.com/artist/36dY5pyTYB2hHWaY74Jiaa"
-        }
-      ],
-      "duration_ms": 179287,
-      "name": "This Is Your Brain",
-      "url": "https://open.spotify.com/track/323YswWCcHWPEqQ8B5fw8l"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "Change Your Mind (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/5qthXGfK0aszoaa3c3wOt7"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Millean.",
-          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 125982,
-      "name": "Change Your Mind (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/4zzk9QpZXsGby0TLrFGe0V"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/2Qpv0vlQbBZYxWwcHQx9SB"
-      },
-      "artists": [
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "Helvig",
-          "url": "https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS"
-        },
-        {
-          "name": "Sydney Jo Jackson",
-          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -571,18 +527,18 @@
     {
       "added_at": "2024-02-12 15:09:26",
       "album": {
-        "name": "Drop It",
-        "url": "https://open.spotify.com/album/0cBrb3fBPk1SVRLz6Y3Zom"
+        "name": "Gibberish",
+        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
       },
       "artists": [
         {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
         }
       ],
-      "duration_ms": 153515,
-      "name": "Drop It",
-      "url": "https://open.spotify.com/track/74rowk6lkrVhf006AwHhih"
+      "duration_ms": 153321,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -607,6 +563,22 @@
     {
       "added_at": "2024-02-12 15:09:26",
       "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/6O1WaSTWxI6AdLmQ84BSpG"
+      },
+      "artists": [
+        {
+          "name": "MAZAN",
+          "url": "https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
+    },
+    {
+      "added_at": "2024-02-12 15:09:26",
+      "album": {
         "name": "Sometimes I Get",
         "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
       },
@@ -619,22 +591,6 @@
       "duration_ms": 191445,
       "name": "Sometimes I Get",
       "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "Gibberish",
-        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "Gibberish",
-      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -667,38 +623,6 @@
       "duration_ms": 175969,
       "name": "Bassline Rumble",
       "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "Memento Mori",
-        "url": "https://open.spotify.com/album/6O1WaSTWxI6AdLmQ84BSpG"
-      },
-      "artists": [
-        {
-          "name": "MAZAN",
-          "url": "https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Memento Mori",
-      "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
-    },
-    {
-      "added_at": "2024-02-12 15:09:26",
-      "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -775,18 +699,26 @@
     {
       "added_at": "2024-02-12 15:09:26",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
+        "name": "Make Amends (feat. Kyan Palmer)",
+        "url": "https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4"
       },
       "artists": [
         {
           "name": "Curbi",
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Kyan Palmer",
+          "url": "https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp"
         }
       ],
-      "duration_ms": 184836,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
+      "duration_ms": 160430,
+      "name": "Make Amends (feat. Kyan Palmer)",
+      "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
     },
     {
       "added_at": "2024-02-12 15:09:26",
@@ -811,26 +743,18 @@
     {
       "added_at": "2024-02-12 15:09:26",
       "album": {
-        "name": "Make Amends (feat. Kyan Palmer)",
-        "url": "https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4"
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
       },
       "artists": [
         {
           "name": "Curbi",
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Kyan Palmer",
-          "url": "https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp"
         }
       ],
-      "duration_ms": 160430,
-      "name": "Make Amends (feat. Kyan Palmer)",
-      "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
+      "duration_ms": 163369,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

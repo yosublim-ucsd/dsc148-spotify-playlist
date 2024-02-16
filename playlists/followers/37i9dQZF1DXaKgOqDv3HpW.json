@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 707081,
+  "2024-02-16": 707063,
   "date_first_scraped": "2022-03-02",
   "description": "Respira, inspira... Uma sele\u00e7\u00e3o musical ideal para voc\u00ea relaxar.",
   "name": "Medita\u00e7\u00e3o e Relaxamento",
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Appena",
+        "url": "https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay"
+      },
+      "artists": [
+        {
+          "name": "Victor Mancuso",
+          "url": "https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Appena",
+      "url": "https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx"
+    },
+    {
+      "album": {
         "name": "Eternalis",
         "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
       },
@@ -633,6 +651,24 @@
       "duration_ms": 197252,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU"
+    },
+    {
+      "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/2wtdveGHtM82JRmWxzIfsG"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150113,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/3LuRATATl6IEUsDUHxgLYW"
     },
     {
       "album": {
@@ -2296,6 +2332,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Reflections",
+        "url": "https://open.spotify.com/album/3XywnX7rmAZz0uW8kqQ2D0"
+      },
+      "artists": [
+        {
+          "name": "Slumberland Dreams",
+          "url": "https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Moonlit Reflections",
+      "url": "https://open.spotify.com/track/4evWXG9sdhBuCjXdNiY3tw"
+    },
+    {
+      "album": {
         "name": "Morning Reflection",
         "url": "https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc"
       },
@@ -3862,6 +3916,24 @@
     },
     {
       "album": {
+        "name": "Velvet Rapsody",
+        "url": "https://open.spotify.com/album/3QEq7rcaIFVAvRhukeQLKO"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Velvet Rapsody",
+      "url": "https://open.spotify.com/track/56SRF43k9hKZAMADNTSmIX"
+    },
+    {
+      "album": {
         "name": "Verlangen",
         "url": "https://open.spotify.com/album/0rJlx5Lk9FZni8yreWrEFP"
       },
@@ -3949,6 +4021,24 @@
       "duration_ms": 168053,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2"
+    },
+    {
+      "album": {
+        "name": "Vrang\u00f8",
+        "url": "https://open.spotify.com/album/2N55QpvsyobZS4YEqwypcs"
+      },
+      "artists": [
+        {
+          "name": "Ganlas",
+          "url": "https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Vrang\u00f8",
+      "url": "https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18"
     },
     {
       "album": {

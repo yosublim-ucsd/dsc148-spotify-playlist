@@ -1,12 +1,12 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 83734,
+  "num_followers": 83745,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2I5NTc3OGU3MzFhZmVlYjg1Y2IzMDgzNWE2ZmU5NzE2NWM3MTEz",
+  "snapshot_id": "MCxiM2M4ZmZhY2JiM2Q5ODlmODViZThiODUwOWQ2OGViMjI2MWNiYjY0",
   "tracks": [
     {
       "added_at": "2020-03-13 18:13:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215906,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
     },
     {
       "added_at": "2020-03-13 18:13:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "Quiz\u00e1s, Porque",
+      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
+    },
+    {
+      "added_at": "2020-03-13 18:13:53",
+      "album": {
         "name": "Sandro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
-    },
-    {
-      "added_at": "2020-03-13 18:13:53",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2020-03-13 18:13:53",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
+        "name": "Confesiones De Invierno",
+        "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
         }
       ],
-      "duration_ms": 208866,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+      "duration_ms": 191226,
+      "name": "Rasgu\u00f1a las Piedras",
+      "url": "https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78"
     },
     {
       "added_at": "2020-03-13 18:13:53",

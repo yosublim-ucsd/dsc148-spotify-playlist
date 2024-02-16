@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Camilo & Evaluna
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,814 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,864 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 |
 | 100 | [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 2:41 |
 
-Snapshot ID: `MCxlYjg3NGNhZjM3OTI1YWYzYTdiMGE5ZDVjZWNmZjU1ODYxNzA1M2Qy`
+Snapshot ID: `MCwyMGI1MTU4ZGNhOTA1Mzg1ZTkxZmFlM2I2Y2E4MGViNWNhOWZkMThh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: サバシスター\(saba sister\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,258 likes - 69 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,462 likes - 69 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 68 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
 | 69 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
 
-Snapshot ID: `MCxlMjZmNjM3MWRlOTNiODY1Yjk1YmRmMDBiNGY1MjVmMjNhYWExNGNh`
+Snapshot ID: `MCw1MmRlMjQ2NDAzOWY2MzA1MGY2NDE0NjZkM2JhYWEyMWZmNzcxZmE5`

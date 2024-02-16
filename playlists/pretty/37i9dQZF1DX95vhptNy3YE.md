@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,641 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,705 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 46 | [Camuflado De BAPE \- Feat\. Rare Kidd](https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW), [Rare Kidd](https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:58 |
 | 47 | [Coração Quebrado](https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP) | [Coração Quebrado](https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL) | 3:13 |
 | 48 | [Alma](https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Alma](https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9) | 3:36 |
-| 49 | [Polo Norte \- Ao Vivo](https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Energia Benzadeus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1) | 3:24 |
-| 50 | [Mega da Gang 06](https://open.spotify.com/track/5NF0cMnsvWWg3uhF80Aqio) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Vitin LC](https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vaguin](https://open.spotify.com/artist/0Ao6gimo1AyJkxj9zRIEC5), [Dj Bk Original](https://open.spotify.com/artist/3RzRDkNYMnLhkQLBm5tXb3), [DJ 2w](https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq) | [Mega da Gang 06](https://open.spotify.com/album/08Hzh10xxUrZG1qWVZmub3) | 5:13 |
+| 49 | [Disse Que é Fã de Rap](https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [TI RICK](https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl) | 2:25 |
+| 50 | [Polo Norte \- Ao Vivo](https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Energia Benzadeus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1) | 3:24 |
 
-Snapshot ID: `MCxiMmEzZjczNTRhNjMwNGNjZTk4ZTc4NjRlNzA5ZmIzNjBkMGI4MmFj`
+Snapshot ID: `MCxiYmRiODg2YTA3NDEwMTU2ODk5YTlhMWZjYmE2MWE4ODA5YTc1OGZm`

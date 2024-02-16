@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,005 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,007 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 18 | [Pastime Paradise \- Recorded at Electric Lady Studios](https://open.spotify.com/track/0NzYhe56fXGO9XCk1R7oz7) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Live At Electric Lady](https://open.spotify.com/album/6QTzCV8ST4VAMxFFv5NyMn) | 4:35 |
 | 19 | [Living For The City](https://open.spotify.com/track/7jXioMosXXfNvRn8IWwWnA) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 5:46 |
 | 20 | [Isn't She Lovely](https://open.spotify.com/track/4bKXnz3kB9zMjeCKpIUz2V) | [Pinky Dread](https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ) | [From a Reggae Point of View](https://open.spotify.com/album/12wOS02zmIrvmWDXOo7X3N) | 2:19 |
-| 21 | [I Was Made to Love Her](https://open.spotify.com/track/2UP48WBw40vfggp53fWQ1Y) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:41 |
+| 21 | [I Was Made To Love Her](https://open.spotify.com/track/3tp2vsiN4599IEQqoi9rgy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Soul On A Mission](https://open.spotify.com/album/1N66oKqT9D350GFwDfKfqE) | 2:41 |
 | 22 | [I Just Called to Say I Love You \- Recorded at RCA Studio A, Nashville](https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 4:07 |
 | 23 | [Love's In Need Of Love Today](https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Sonna](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Love's In Need Of Love Today](https://open.spotify.com/album/067timXrQdiROAy7dHLpIP) | 4:12 |
 | 24 | [Living For The City](https://open.spotify.com/track/1h5J5e36zMAdxtkYgYK1NC) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Soul Speak](https://open.spotify.com/album/303s5fPq9OuEkNG1E1ue11) | 4:59 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 37 | [Visions](https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Conception \- An Interpretation Of Stevie Wonder's Songs](https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q) | 5:34 |
 | 38 | [I Love Every Little Thing About You](https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:56 |
 
-Snapshot ID: `MCxkYzI5YzcyODQ3ZDM0OGVhMWVlNTdiZmVhYWMxZTllZThkZjE1MTgz`
+Snapshot ID: `MCw3NDY3OWNmMDBjNGVhZTdjN2I2NDFlNmFjYmQzNmRhYTZkZDZhY2Qz`

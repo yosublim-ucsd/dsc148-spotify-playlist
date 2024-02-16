@@ -4,7 +4,7 @@
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 45 min
+79 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Desperte Sin Ti \- Remix](https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Desperte Sin Ti \(Remix\)](https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v) | 5:19 | 2023-11-10 |  |
 | [Discoteca](https://open.spotify.com/track/2ZWBNTg6Mn6NQkkq4gVec1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 4:09 | 2023-04-06 |  |
 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 | 2023-04-06 | 2023-05-13 |
+| [El Amor de tu Vida \(feat\. Lenny Tavárez & Best\) \- Remix](https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [El Amor de tu Vida \(feat\. Lenny Tavárez & Best\) \[Remix\]](https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT) | 4:30 | 2024-02-15 |  |
 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 | 2023-04-06 |  |
 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 | 2023-04-06 |  |
 | [Explícale \(feat\. Bad Bunny\)](https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:43 | 2023-04-06 | 2023-08-20 |

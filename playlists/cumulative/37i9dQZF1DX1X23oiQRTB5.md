@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Jul au top de la première playlist de rap français !
+> Werenoi au top de la première playlist de rap français !
 
-233 songs - 12 hr 1 min
+234 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 | 2023-11-30 |  |
 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-01-20 | 2023-06-02 |
 | [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 | 2023-01-19 | 2023-01-21 |
-| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-28 |  |
+| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-28 | 2024-02-16 |
 | [Magot](https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Magot](https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82) | 3:16 | 2023-10-19 | 2023-10-27 |
 | [Mahmouma](https://open.spotify.com/track/6JFTOgZAgYwTxYDg9T6VDe) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/41HNUXTQtfRTKZdcxD3qH6) | 2:22 | 2023-10-12 |  |
 | [Malpolis](https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Malpolis](https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh) | 3:20 | 2022-09-29 | 2023-02-24 |
@@ -190,6 +190,7 @@
 | [Pistol & Zamal](https://open.spotify.com/track/62N0lcbpZiLKaly4o0DffQ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Pistol & Zamal](https://open.spotify.com/album/5qzjroW1hyHrxILtShmQwR) | 2:25 | 2023-04-06 | 2023-05-26 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 | 2023-10-12 | 2023-11-03 |
+| [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-02-15 |  |
 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 | 2023-12-21 |  |
 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-27 | 2023-12-01 |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-10-13 | 2023-05-26 |

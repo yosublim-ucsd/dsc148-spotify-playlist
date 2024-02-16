@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 160368,
+  "num_followers": 160401,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODg1ZGNjZGM1NWFlNTc3MWFjZjU1Mjc3YmViN2RkYmYwYmE5Njhh",
+  "snapshot_id": "MCw0OGZjZjYxNzE3ZjRiMjYwYzUzOTVhMzMxNmJjYWQ4MjM4NDc5N2Fm",
   "tracks": [
     {
       "added_at": "2024-01-18 23:01:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
+        "name": "Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -995,22 +1011,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Tramposa y Mentirosa",
-      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+      "duration_ms": 185438,
+      "name": "Llamame M\u00e1s Temprano",
+      "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
       "artists": [
         {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 185438,
-      "name": "Llamame M\u00e1s Temprano",
-      "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
+      "duration_ms": 212533,
+      "name": "Tramposa y Mentirosa",
+      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1363,6 +1363,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
         "name": "Los Reyes De Los Sonidos",
         "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 216613,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
         "name": "Hasta El Cielo Lloro",
         "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 327000,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
+    },
+    {
+      "added_at": "2024-01-18 23:01:40",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2024-01-18 23:01:40",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2024-01-18 23:01:40",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2024-01-18 23:01:40",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 220226,
-      "name": "Si Te Marchas, No Hay Manera",
-      "url": "https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8"
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     }
   ],
   "unique_name": "Cocina con Cumbia",

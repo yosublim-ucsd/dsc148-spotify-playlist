@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 197985,
+  "2024-02-16": 198175,
   "date_first_scraped": "2023-06-15",
   "description": "and so the lion fell in love with the lamb. ",
   "name": "twilight vibes",
@@ -554,6 +554,24 @@
     },
     {
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
+    },
+    {
+      "album": {
         "name": "Them Vs. You Vs. Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
       },
@@ -739,7 +757,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"

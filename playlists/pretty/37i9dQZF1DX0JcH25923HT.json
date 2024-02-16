@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 425839,
+  "num_followers": 425964,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI1NTZhZjJmYjAwOTA4MmZhZjU5MGIyMzI0YTczZmUyOGExYWE0",
+  "snapshot_id": "MCwzNmU0YmJhODVmOTg5M2NjNTY5ODlmMDFhMTk2NWY4YjE4YzljYTM1",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1271,46 +1271,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Hijo de la Noche",
-        "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Hijo de la Noche",
-      "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Si Tu Lo Dejas",
         "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
       },
@@ -1339,6 +1299,46 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Hijo de la Noche",
+        "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Hijo de la Noche",
+      "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 154991,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1579,26 +1579,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
         }
       ],
-      "duration_ms": 184405,
-      "name": "Hennessy",
-      "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1619,18 +1611,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
+      "duration_ms": 184405,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Flexin'",
         "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 179383,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1919,42 +1935,6 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 276768,
-      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1999,30 +1979,6 @@
       "duration_ms": 220080,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Calle Amor",
-        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
-      },
-      "artists": [
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        },
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
-        }
-      ],
-      "duration_ms": 218895,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2079,6 +2035,50 @@
       "duration_ms": 451343,
       "name": "La Ocasi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Calle Amor",
+        "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+        }
+      ],
+      "duration_ms": 218895,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7aq4mn7HqjIWeEn3YReKWV"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 276768,
+      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2159,54 +2159,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Keoland",
-        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -2247,6 +2199,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Si Me Muero (feat. Farruko, Lary Over, Nengo Flow & Darell)",
         "url": "https://open.spotify.com/album/6pL4zBmPeNUAyCxCJnVR42"
       },
@@ -2275,6 +2243,38 @@
       "duration_ms": 293767,
       "name": "Si Me Muero",
       "url": "https://open.spotify.com/track/6iPwLPlliVlCtrhghwZ6es"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Keoland",
+        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "N\u00e3o Me Sinto Mal Mais",
-        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 265355,
-      "name": "N\u00e3o Me Sinto Mal Mais",
-      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Trend",
         "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 233813,
       "name": "A fuego",
       "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "N\u00e3o Me Sinto Mal Mais",
+        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 265355,
+      "name": "N\u00e3o Me Sinto Mal Mais",
+      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
     },
     {
       "added_at": "2022-06-08 18:27:09",

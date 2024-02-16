@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:1xy9x7h2jKEg8iG22Sml32">Tye Tribbett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,277 likes - 95 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,341 likes - 95 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 34 | [In My Name \- Radio Edit](https://open.spotify.com/track/7eIdt5l9ouZwCuox8ZOufQ) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [In My Name \(Radio Edit\)](https://open.spotify.com/album/6gSXd6z6q6LkSMJV9Y4mGz) | 3:41 |
 | 35 | [We Will Sing](https://open.spotify.com/track/1wKpacWkDUIYs3V65A10tQ) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [We Will Sing](https://open.spotify.com/album/2IyqhFOj5Fxhlzb12zXYsD) | 4:51 |
 | 36 | [To Worship You](https://open.spotify.com/track/7lYb03C6Fvli51HYEGGHFJ) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [To Worship You](https://open.spotify.com/album/0o6AotJQgkgCk1QDS7pKpX) | 4:12 |
-| 37 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 |
+| 37 | [Forever It Is Done](https://open.spotify.com/track/3TyRJ4x7El0PujsfO5yzHg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/0c3D3i10HWtE7ue0emwOA7) | 5:15 |
 | 38 | [This Joy \- Live](https://open.spotify.com/track/09kMxmxcVpZwM75dYqr0Pk) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl), [Joshua Miller](https://open.spotify.com/artist/74nSu95etGTImEcrNPkMQK) | [This Joy \(Live\)](https://open.spotify.com/album/3DAQM6V6AUUaqstNA38KNp) | 5:11 |
 | 39 | [New Day \(Wake Up Remix\)](https://open.spotify.com/track/1voPJEVRAlEOipF4ucvgFH) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day \(Wake Up Remix\)](https://open.spotify.com/album/441VZMZvvrwgv6LOXNhvEl) | 3:01 |
 | 40 | [Not Hopeless](https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 4:17 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 94 | [Planted](https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b), [Ethan Kent](https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3) | [Planted](https://open.spotify.com/album/0iPVkBWSUkUvRs3GMAK5Pm) | 4:02 |
 | 95 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 
-Snapshot ID: `MCxkZmQ3MzE1ZjgzYzRkNDYwMDUxMDNmMDc1YzQxODU3YjBhNTBjN2U0`
+Snapshot ID: `MCwwNzFjYjViNGI4NDE0NDVlMDcwOGI4NTQ1NDQwZjEzZmFlYWFhODky`

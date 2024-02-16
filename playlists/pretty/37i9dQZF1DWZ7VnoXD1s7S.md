@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,382 likes - 84 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,856 likes - 84 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 7 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 |
 | 8 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 |
 | 9 | [i don't belong](https://open.spotify.com/track/1R04fecdMdVyKvWSp74Cmg) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i don't belong](https://open.spotify.com/album/7lvV5iLnLLCnARytWUhcCb) | 1:55 |
-| 10 | [alive](https://open.spotify.com/track/2XqX1e0lH7O83AaDzbsD8s) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [alive](https://open.spotify.com/album/6EebIEnkHOZkgvyaRhQQaK) | 1:48 |
+| 10 | [alive](https://open.spotify.com/track/2XqX1e0lH7O83AaDzbsD8s) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [sign crushes motorist](https://open.spotify.com/artist/0AJ4eOii91B4qT9ogfAVCb) | [alive](https://open.spotify.com/album/6EebIEnkHOZkgvyaRhQQaK) | 1:48 |
 | 11 | [erased](https://open.spotify.com/track/6G9BrX4DAlIcVj61VSJgFS) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Lifeglow](https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d) | 2:05 |
 | 12 | [the past, the present](https://open.spotify.com/track/5cuXTY79l2LkWuQdcEXlMk) | [helix fracture](https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM), [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [the past, the present](https://open.spotify.com/album/1mpc6cT1VJofiGcUgsd44T) | 1:53 |
 | 13 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 83 | [Submersible](https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3) | 3:50 |
 | 84 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 
-Snapshot ID: `MCxhY2Y0ZDAxYzllZTdjOGYxMDRmZTlhOTQ2MWRmZTUxMDJmNzA5MDJk`
+Snapshot ID: `MCxlMGIxYmU0ZGFlNjUwYzc0YTI2NTc5ZWNmZDNjZDMwYzRlMmI0ZGY2`

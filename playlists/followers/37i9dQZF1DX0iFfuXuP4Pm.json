@@ -1,7 +1,7 @@
 {
-  "2024-02-15": 1937262,
+  "2024-02-16": 1938761,
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Kristina Dawn, Hev Abi",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Hev Abi",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -209,7 +209,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234500,
       "name": "Bawat Taon",
       "url": "https://open.spotify.com/track/6kYyxKJDpeGFwQTIdhIlpp"
@@ -267,10 +267,32 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 196981,
       "name": "DELULU",
       "url": "https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv"
+    },
+    {
+      "album": {
+        "name": "don't matter",
+        "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "don't matter",
+      "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
     },
     {
       "album": {
@@ -503,10 +525,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 186076,
       "name": "Isang Tingin Mo Lang",
       "url": "https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx"
+    },
+    {
+      "album": {
+        "name": "Isaoras",
+        "url": "https://open.spotify.com/album/6xHImhEYUjp8j5Sqry69jK"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255625,
+      "name": "Isaoras",
+      "url": "https://open.spotify.com/track/3Y7z75svn2ooKMf5TobAta"
     },
     {
       "album": {
@@ -604,6 +644,28 @@
     },
     {
       "album": {
+        "name": "Lahat Ng Bukas",
+        "url": "https://open.spotify.com/album/7flIBguWZI3J5lURZT6Sbk"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        },
+        {
+          "name": "Keanna Mag",
+          "url": "https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Lahat Ng Bukas",
+      "url": "https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7"
+    },
+    {
+      "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
       },
@@ -659,6 +721,32 @@
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
+    },
+    {
+      "album": {
+        "name": "Marikit Sa Dilim",
+        "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
+      },
+      "artists": [
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        },
+        {
+          "name": "Kyleswish",
+          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+        },
+        {
+          "name": "Jawz",
+          "url": "https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232320,
+      "name": "Marikit Sa Dilim",
+      "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
     },
     {
       "album": {
@@ -858,6 +946,24 @@
     },
     {
       "album": {
+        "name": "Patintero",
+        "url": "https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Patintero",
+      "url": "https://open.spotify.com/track/3nupCyAjgcopsWicJpGk6D"
+    },
+    {
+      "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
       },
@@ -891,6 +997,24 @@
       "duration_ms": 269250,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
+    },
+    {
+      "album": {
+        "name": "pwede ba kitang ligawan?",
+        "url": "https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135860,
+      "name": "pwede ba kitang ligawan?",
+      "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
     },
     {
       "album": {
@@ -1025,7 +1149,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 277634,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/1z9SylDvpsFYhgTOzq4jnf"
@@ -1159,7 +1283,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 303786,
       "name": "You'll Be Safe Here",
       "url": "https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1"

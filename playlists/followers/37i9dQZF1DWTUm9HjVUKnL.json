@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 218764,
+  "2024-02-16": 218816,
   "date_first_scraped": "2022-01-25",
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
   "name": "Spotify Singles: Complete Collection",
@@ -1606,7 +1606,7 @@
     },
     {
       "album": {
-        "name": "Be Quiet and Drive (Far Away) [Spotify Singles]",
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
       "artists": [
@@ -1619,7 +1619,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away)",
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
@@ -10992,6 +10992,28 @@
     },
     {
       "album": {
+        "name": "Let Me Feel Your Charm - Spotify Singles",
+        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162029,
+      "name": "Let Me Feel Your Charm - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
@@ -19917,6 +19939,24 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
       "album": {

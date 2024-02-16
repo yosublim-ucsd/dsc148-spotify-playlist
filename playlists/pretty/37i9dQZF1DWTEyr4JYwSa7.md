@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,378 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,371 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 94 | [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 |
 | 95 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
 | 96 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
-| 97 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
-| 98 | [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
+| 97 | [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
+| 98 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
 | 99 | [Mon Beau Sapin](https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf) | [Marie Michèle Desrosiers](https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS) | [Marie\-Michèle Desrosiers Chante Les Classiques De Noël](https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV) | 3:09 |
 | 100 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 
-Snapshot ID: `MCw0ZDNkNWE1OGE2MjViZmUyMmVjYzU5NjZiZDA0YTMwZGNlNmVkNDM3`
+Snapshot ID: `MCw0YzE1YzFmZDE1ZDdlN2IyNTQxNDkyMWNkMjcyNzFmOTM3OTFmMzc4`

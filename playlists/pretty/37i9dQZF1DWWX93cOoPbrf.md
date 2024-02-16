@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Los Chavalitos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,726 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,955 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Escolta Personal \- En Vivo](https://open.spotify.com/track/5fVoYliFnvTx9KsB9oYOeP) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [ConBebio Culto \(En Vivo\)](https://open.spotify.com/album/674TPmkSQt1a1ZfbsmJv8d) | 3:07 |
 | 75 | [El Guero Reyna](https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Al Gusto de Uno](https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg) | 2:54 |
 
-Snapshot ID: `MCw2YzhkYThiMzdiYmIwY2IzNWEzZWM0NzdjNTBkMzFjN2U2YWU0YjRh`
+Snapshot ID: `MCwyODU4MmQ4YWMxMGM0ZjM4ZWU5OGYzMTNmYTc0ZmRlYzExNDRjY2Q5`

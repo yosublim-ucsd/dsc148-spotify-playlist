@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26106,
+  "num_followers": 26105,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGVlY2JmZmNjOWQ1YWM5YzE1M2Y2Mzg0MzY5YWZjMjJjYzNlNzg0",
+  "snapshot_id": "MCxjNWM2OGYxMmE5MTg3NzAyZTM5OWMzMjhmMDE0Y2IyODEyNzRjM2Qw",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -1091,6 +1111,22 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "No Judgement",
+      "url": "https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1135,42 +1171,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "No Judgement",
-      "url": "https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u"
       },
@@ -1203,6 +1203,30 @@
       "duration_ms": 182920,
       "name": "No One Compares To You",
       "url": "https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1319,8 +1343,8 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Forever Yours (Avicii Tribute)",
-        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
       "artists": [
         {
@@ -1328,17 +1352,17 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Forever Yours - Avicii Tribute",
-      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1387,26 +1411,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Late Night Feelings (feat. Lykke Li)",
-        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 251028,
-      "name": "Late Night Feelings (feat. Lykke Li)",
-      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Let You Love Me",
         "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
       },
@@ -1419,22 +1423,6 @@
       "duration_ms": 190000,
       "name": "Let You Love Me",
       "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1455,22 +1443,38 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 139809,
-      "name": "Lonely (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Late Night Feelings (feat. Lykke Li)",
+        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 251028,
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1495,46 +1499,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
       "artists": [
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+      "duration_ms": 139809,
+      "name": "Lonely (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1563,6 +1543,26 @@
       "duration_ms": 169303,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "After The Landslide",
+        "url": "https://open.spotify.com/album/3KYIEsx3p2h8mtxWBXdVEG"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 179895,
+      "name": "We Can Do Better",
+      "url": "https://open.spotify.com/track/1swaftqa6ahRIFf9E48FlN"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "West Coast (feat. Quinn XCII)",
         "url": "https://open.spotify.com/album/437ICQjjhBRkK47bG686f9"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 150819,
       "name": "West Coast (feat. Quinn XCII)",
       "url": "https://open.spotify.com/track/4VZlXx05loUmppWMqHFzt1"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "After The Landslide",
-        "url": "https://open.spotify.com/album/3KYIEsx3p2h8mtxWBXdVEG"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 179895,
-      "name": "We Can Do Better",
-      "url": "https://open.spotify.com/track/1swaftqa6ahRIFf9E48FlN"
     },
     {
       "added_at": "2023-03-10 17:59:10",

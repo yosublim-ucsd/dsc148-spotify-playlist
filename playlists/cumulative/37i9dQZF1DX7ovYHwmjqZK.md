@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-135 songs - 8 hr 5 min
+136 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 | 2023-03-17 |  |
 | [Compro o Vento](https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq) | [Eliza Meireles](https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV) | [O Samba, a Roseira e o Vento](https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg) | 2:53 | 2021-11-26 |  |
 | [Cris](https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU) | [Hamleto Stamato](https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI) | [Autoral](https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s) | 4:00 | 2021-11-26 |  |
-| [Depressa a Vida Passa](https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo) | [Renato Braz](https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5) | [Depressa a Vida Passa](https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH) | 4:53 | 2021-11-26 |  |
+| [Depressa a Vida Passa](https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo) | [Renato Braz](https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5) | [Depressa a Vida Passa](https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH) | 4:53 | 2021-11-26 | 2024-02-16 |
 | [Doralice](https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:47 | 2021-11-26 |  |
 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 | 2021-11-26 |  |
 | [Encanto](https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb) | [Isaac Magalhães](https://open.spotify.com/artist/0YfCfLGoNdmBaFdxLarzL2) | [Encanto](https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX) | 3:29 | 2021-11-26 |  |
@@ -64,6 +64,7 @@
 | [Ingênuo](https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ) | 4:25 | 2021-11-26 |  |
 | [Ingênuo](https://open.spotify.com/track/6WYUy3Pv1X47qy39ee9cGR) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Happy Madness](https://open.spotify.com/album/6gNaI6mkSJtD1QXDGkAcgO) | 4:25 | 2021-11-26 | 2022-07-29 |
 | [Isn't She Lovely](https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Bossa Nova Covers](https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX) | 2:45 | 2021-11-26 |  |
+| [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 |  |
 | [Lamento](https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:46 | 2021-11-26 |  |
 | [Libertação](https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY) | [Vidal Assis](https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L) | [Libertação](https://open.spotify.com/album/6menATFqidzRjusVl0INqK) | 2:56 | 2021-11-26 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2021-11-26 |  |

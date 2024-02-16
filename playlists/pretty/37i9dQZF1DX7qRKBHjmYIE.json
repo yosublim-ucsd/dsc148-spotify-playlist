@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Santi Muk.",
-  "num_followers": 751915,
+  "num_followers": 751907,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDM3OWE3ODk0MDAzZjljOGU2MGZlYThhMmFhMDA4MTllZjIzZjk1",
+  "snapshot_id": "MCxkMjRhYWFiNGJjYzE5M2I2ZWU2NjU2Y2JmMTBmNzBjNTIyOGJlYjgx",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "\u00c1nimo",
+        "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "\u00c1nimo",
+      "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Gualero REFF12.31",
         "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 201626,
       "name": "Gualero REFF12.31",
       "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 197799,
-      "name": "911",
-      "url": "https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "\u00c1nimo",
-        "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 157880,
-      "name": "\u00c1nimo",
-      "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
+      "duration_ms": 197799,
+      "name": "911",
+      "url": "https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Dosis",
-        "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 175282,
-      "name": "La Dosis",
-      "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Papel de Burbujas",
         "url": "https://open.spotify.com/album/24Xhdsa3kUc1BRa2iA9rO5"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 191615,
       "name": "Muy lejos (feat. Ivana, Hard GZ)",
       "url": "https://open.spotify.com/track/3T8nI2IJ3rbvDBunS7Br5h"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "La Dosis",
+        "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 175282,
+      "name": "La Dosis",
+      "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Los Domingos La Paso Solita",
+        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "Los Domingos La Paso Solita",
+      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 130602,
       "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Los Domingos La Paso Solita",
-        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "Los Domingos La Paso Solita",
-      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Lindo Lindo",
         "url": "https://open.spotify.com/album/2SDuXDfdmj1HNuiovoCOdZ"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "oggy",
         "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "BF",
-        "url": "https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "BF",
-      "url": "https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "low key",
         "url": "https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254369,
       "name": "low key",
       "url": "https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "BF",
+        "url": "https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "BF",
+      "url": "https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 167997,
+      "name": "imagining things",
+      "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 160824,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 167997,
-      "name": "imagining things",
-      "url": "https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "El Abismo",
+        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
+      },
+      "artists": [
+        {
+          "name": "Molinette Cinema",
+          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Estrellas en la Oscuridad",
+      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Young In California",
         "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
       },
@@ -1291,26 +1307,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Monumento",
-        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Monumento",
-      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "GRANDE",
         "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
       },
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "El Abismo",
-        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
+        "name": "Monumento",
+        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
       },
       "artists": [
         {
-          "name": "Molinette Cinema",
-          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Estrellas en la Oscuridad",
-      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
+      "duration_ms": 162120,
+      "name": "Monumento",
+      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
     }
   ],
   "unique_name": "Mixto",

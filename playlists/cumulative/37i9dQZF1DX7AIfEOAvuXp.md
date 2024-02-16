@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-199 songs - 10 hr 4 min
+200 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [TIME + ENERGY](https://open.spotify.com/track/4SbosulGVDqJDmKd8BIsMJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BABY BLUE](https://open.spotify.com/album/50ushkrGR4nNTCRNzxs8kb) | 2:58 | 2020-12-07 |  |
 | [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-12-07 |  |
 | [TWFNO](https://open.spotify.com/track/6p6C87dlcPoqZ8Wb3jiHhd) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [TWFNO](https://open.spotify.com/album/3LKJwcrdoXXWCQsZRR5vUC) | 2:48 | 2020-12-07 |  |
-| [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2020-12-07 |  |
+| [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2Ewaozo7Oe2XAI3sDlBvDk) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/5cEVsl5FHxCB6mpyVKpoNP) | 4:16 | 2020-12-07 |  |
+| [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2020-12-07 | 2024-02-16 |
 | [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 | 2020-12-07 |  |
 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 | 2020-12-07 | 2022-07-29 |
 | [VOCES](https://open.spotify.com/track/3EycM23n47OTpgrvxfvLwR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SUMMER COLLECTION](https://open.spotify.com/album/20F4iuvxtJk9qItlADN6y3) | 3:22 | 2020-12-07 | 2022-11-13 |

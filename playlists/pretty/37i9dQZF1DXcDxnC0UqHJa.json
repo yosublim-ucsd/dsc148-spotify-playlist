@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 465278,
+  "num_followers": 465302,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzgxZGI3YjNmNTFjZmVjMjllZWM5NTgxZmEyODMzNzRhNDZkZWQ3",
+  "snapshot_id": "MCwzOTgwY2QzZWUzZjkwOGVhMWUwMjBiOTFiNjVjNmVkMThmYjhhMDIz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Don't Dream It's Over / Everything Is Free",
         "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Caves",
         "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
       },
@@ -955,26 +955,6 @@
       "duration_ms": 179234,
       "name": "Caves",
       "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Shine a Light: Field Recordings from the Great American Railroad",
-        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Gentle on My Mind",
-      "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -995,6 +975,26 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Shine a Light: Field Recordings from the Great American Railroad",
+        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
+      },
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Gentle on My Mind",
+      "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
         }
       ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
       "artists": [
         {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 288764,
       "name": "Don\u2019t It Feel Good",
       "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Free Fallin'",
         "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 184693,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 278611,
+      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Saint Cloud +3",
         "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 190110,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1639,42 +1639,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 208532,
-      "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9"
       },
@@ -1703,6 +1667,38 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1751,22 +1747,6 @@
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1847,8 +1827,8 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+        "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
       },
       "artists": [
         {
@@ -1856,13 +1836,13 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         },
         {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
+      "duration_ms": 208532,
+      "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1963,22 +1943,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Crooked Tree (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 212251,
-      "name": "Dire Wolf - Bonus Track",
-      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1995,6 +1971,22 @@
       "duration_ms": 137314,
       "name": "Revival",
       "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
     }
   ],
   "unique_name": "Folksy Covers",

@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-424 songs - 1 day 5 hr 52 min
+425 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-20 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 | 2022-12-07 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-06-28 |
+| [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 |  |
 | [Swim](https://open.spotify.com/track/3ta1doBxwfJPEQguJYzl6x) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:16 | 2023-08-08 | 2023-12-16 |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-10-20 |  |
 | [Tameiki no Yukue](https://open.spotify.com/track/1MEikw4Wldu4j4EmLV21Bq) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:28 | 2023-01-31 |  |
@@ -427,7 +428,7 @@
 | [金柑](https://open.spotify.com/track/3hCF2YuOSO3QffMNXRRaFQ) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [金柑](https://open.spotify.com/album/5UwH0a9bjXQJbg06RQoI3k) | 6:50 | 2023-10-24 | 2023-12-15 |
 | [銀ちゃん](https://open.spotify.com/track/29mDhjw6oBooOY6h5sXLpX) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [銀ちゃん/Sea song\-324P REMIX\-](https://open.spotify.com/album/4AyAtrelhhuZ9IK5AItB9n) | 4:21 | 2023-01-17 | 2023-02-01 |
 | [陽の光](https://open.spotify.com/track/5sPGdKrfakWBcXjozOzkPA) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [陽の光](https://open.spotify.com/album/11BZlhrKnhq0DbScjXtorx) | 3:13 | 2023-10-10 | 2023-11-16 |
-| [雪解](https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9) | [湊大瀬](https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [雪解](https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5) | 4:10 | 2023-12-12 |  |
+| [雪解](https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9) | [湊大瀬](https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [雪解](https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5) | 4:10 | 2023-12-12 | 2024-02-16 |
 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 | 2022-10-20 |  |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [風に揺れる](https://open.spotify.com/track/5BEtKrIULMAlg4dVcJQyzw) | [Waff](https://open.spotify.com/artist/6s2gIwS2zID7kICIZVh1hj) | [風に揺れる](https://open.spotify.com/album/3Af7NGZBcGJ3z1tuEqHW5o) | 3:36 | 2024-02-06 |  |

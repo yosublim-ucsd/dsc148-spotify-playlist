@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Katelyn Tarver
 
-656 songs - 1 day 12 hr 11 min
+657 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,11 +521,12 @@
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-01-06 |
 | [Skinny Dipping \- Acoustic](https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping \(Acoustic\)](https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK) | 3:12 | 2021-12-17 | 2022-01-22 |
 | [Slide Away](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Slide Away](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) | 3:53 | 2022-01-07 | 2022-04-21 |
-| [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-12 |  |
+| [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-01-12 | 2024-02-16 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0UyljEbX9dqI1K0sqdv6B6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SLOW DANCING IN THE DARK](https://open.spotify.com/album/2XlHWtxKbJyl0Fiw3e7Vvl) | 3:29 | 2022-01-07 | 2022-06-19 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-07-22 | 2023-04-01 |
 | [Smoke Alarm](https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Us](https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY) | 3:07 | 2022-07-08 | 2022-07-16 |
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-02-14 |
+| [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-01-12 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 |  |
 | [Someone Better](https://open.spotify.com/track/6g7vmvWmMqAJCdIU38J4pC) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Someone Better](https://open.spotify.com/album/4YZhf1VSWJ52JtT4vwhrNI) | 2:49 | 2023-03-24 | 2023-04-15 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-12-17 |  |

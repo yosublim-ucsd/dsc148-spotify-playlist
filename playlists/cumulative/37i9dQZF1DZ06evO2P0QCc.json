@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,277 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,276 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 7 | [All Of The Lights \(Interlude\)](https://open.spotify.com/track/4D6TpthzUVNTjWQqfBW5Kb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 1:02 |
 | 8 | [Fertilizer](https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 0:39 |
 | 9 | [Bluff](https://open.spotify.com/track/3hHOTDFrciIXTZ9SttBHNy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 1:12 |
-| 10 | [Yo Yeah](https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 1:10 |
+| 10 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
 | 11 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 |
-| 12 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
+| 12 | [Yo Yeah](https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 1:10 |
 | 13 | [End](https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:14 |
 | 14 | [I Wanna Be Where You Are](https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 1:16 |
 | 15 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 50 | [Puff's Intro](https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 1:40 |
 | 51 | [I've Changed \(feat\. Lil' Mo\) \- Interlude](https://open.spotify.com/track/6BqzBaFjRWUbZx59inQaY8) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 1:05 |
 | 52 | [Interlude \(553\-Nasty\)](https://open.spotify.com/track/3ogLRGMQpt0VcsOrgItCSb) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 1:47 |
-| 53 | [Makin' Love \- Interlude](https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Full Circle](https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN) | 1:57 |
-| 54 | [Makings Of You \- Interlude](https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 2:30 |
+| 53 | [Makings Of You \- Interlude](https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 2:30 |
+| 54 | [Makin' Love \- Interlude](https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Full Circle](https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN) | 1:57 |
 | 55 | [I Surrender \- Interlude](https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:14 |
 | 56 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
-| 57 | [Don't Go Away \(Interlude\)](https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Soul Of A Woman](https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u) | 1:16 |
-| 58 | [Interlude 2 \(Can't Stop\)](https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Usher](https://open.spotify.com/album/0euolARSHQGtySLAWUvilr) | 2:42 |
+| 57 | [Interlude 2 \(Can't Stop\)](https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Usher](https://open.spotify.com/album/0euolARSHQGtySLAWUvilr) | 2:42 |
+| 58 | [Don't Go Away \(Interlude\)](https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Soul Of A Woman](https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u) | 1:16 |
 | 59 | [Room 454: De Vante's " Inhermission"](https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 2:10 |
 | 60 | [Nothing \(Interlude\)](https://open.spotify.com/track/0B6HLF4uh7dDwbWzqR57tP) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 1:31 |
 | 61 | [Why \(Interlude\)](https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:43 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [20 \- Pt\. 2 / Interlude](https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [20 Y.O.](https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA) | 0:27 |
 | 76 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
 
-Snapshot ID: `MCwwYmU3ZDRiNjk0YTJmODYzNmJkNzFjYmI0MmFmNTUxYzBjYWNiNDgz`
+Snapshot ID: `MCxlMGEzM2JhZGVkNjJkN2NiMDY4YWU0MjZmNDY0ZTRhMmMzYzMyNzg3`

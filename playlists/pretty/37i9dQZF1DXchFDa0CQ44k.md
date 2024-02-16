@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,929 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,947 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 29 | [E7na Bleil Lyerheb Gomra Mix](https://open.spotify.com/track/2PwHprShITN9kAmuDG9Jco) | [Sara Najem](https://open.spotify.com/artist/2uwfRi0iENQZ0ewGhcRK51) | [E7na Bleil Lyerheb Gomra Mix](https://open.spotify.com/album/4G6g8g8vdXgbC0tLRj7nU4) | 3:25 |
 | 30 | [Rodi Sha'ratek \(Feat\. Al\-Aksi\)](https://open.spotify.com/track/2LNL0NfXIOmjoLFDt2to5O) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Turathy \(Inward Expansion\)](https://open.spotify.com/album/3oGTIxUWhQDdop9nv8bylr) | 4:52 |
 | 31 | [Al Natour](https://open.spotify.com/track/2wk8TBtIUTJihiyFWgktyF) | [Ali El Deek](https://open.spotify.com/artist/33qFtGCQ4HLTagGMaAOn5N), [Dominique Hourani](https://open.spotify.com/artist/0P3K3MbSflUxiPFmhxj2HD) | [Al Natour](https://open.spotify.com/album/1iiWjl0lWxVl9oJquZBzMU) | 4:18 |
-| 32 | [Sawt Rbaba](https://open.spotify.com/track/099SGdbqStuQ6xRE4pOe4J) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 5:17 |
-| 33 | [Lali](https://open.spotify.com/track/0alhXNBNCYNdg0OubYAmoa) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Lali](https://open.spotify.com/album/0IHkv5n08mbKFFSApH528R) | 3:32 |
+| 32 | [Lali](https://open.spotify.com/track/0alhXNBNCYNdg0OubYAmoa) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Lali](https://open.spotify.com/album/0IHkv5n08mbKFFSApH528R) | 3:32 |
+| 33 | [Sawt Rbaba](https://open.spotify.com/track/099SGdbqStuQ6xRE4pOe4J) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 5:17 |
 | 34 | [شِمالي](https://open.spotify.com/track/196CcGNeJ0poBVJlIvnPUr) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [الاغاني اللي عملتا الك](https://open.spotify.com/album/3fwpj2fEjO7ZR9CWrOWtPQ) | 3:31 |
 | 35 | [Habat el Tout](https://open.spotify.com/track/4xq2EfT9fmC4NNMpqKs5fS) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Layali Beirut, Vol\. One](https://open.spotify.com/album/66GKsmNEe9QnzqblW0CTnH) | 5:10 |
 | 36 | [Jafra](https://open.spotify.com/track/4hBjR0Tcigz3jxQ4zW3nNg) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 2:09 |
 | 37 | [Europe the Lebanese](https://open.spotify.com/track/19TGI3O2MlMpWUbCdGRUhn) | [Dj Zeki](https://open.spotify.com/artist/5LSY8D8Jd054ANMXJF8512) | [Europe the Lebanese](https://open.spotify.com/album/5mssR5BJmee2fi9BMn57j2) | 4:17 |
-| 38 | [Sabrak Aalaya](https://open.spotify.com/track/2ATBgD8HftsDNKzDZf56WI) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 4:00 |
-| 39 | [قولوا](https://open.spotify.com/track/2mIeLxiwLLw5E4QlnR8m2x) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ملحم زين ٢٠١٩](https://open.spotify.com/album/0cUhs9XCRSl3ZYaD7l94G9) | 3:39 |
-| 40 | [Ya Galbi Ya Al Taabane](https://open.spotify.com/track/69bqT05u2fzS27Vfdhe9JV) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Ya Galbi Ya Al Taabane](https://open.spotify.com/album/6Pt8jc4iadFjkuI3TZsD2N) | 3:38 |
-| 41 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
+| 38 | [قولوا](https://open.spotify.com/track/2mIeLxiwLLw5E4QlnR8m2x) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ملحم زين ٢٠١٩](https://open.spotify.com/album/0cUhs9XCRSl3ZYaD7l94G9) | 3:39 |
+| 39 | [Ya Galbi Ya Al Taabane](https://open.spotify.com/track/69bqT05u2fzS27Vfdhe9JV) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Ya Galbi Ya Al Taabane](https://open.spotify.com/album/6Pt8jc4iadFjkuI3TZsD2N) | 3:38 |
+| 40 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
+| 41 | [Sabrak Aalaya](https://open.spotify.com/track/2ATBgD8HftsDNKzDZf56WI) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 4:00 |
 | 42 | [Zareef Al Tool](https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 8:12 |
 | 43 | [Ya Wallo](https://open.spotify.com/track/3nDciOoTFeDd1wWfSh1hx0) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Wallo](https://open.spotify.com/album/0zgYVQ0iSDSCrknQn65skX) | 2:51 |
 | 44 | [يامهرة](https://open.spotify.com/track/38CVcpWpiCftQQXaoW2h77) | [Hani Mitwasi](https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK) | [يامهرة](https://open.spotify.com/album/337XZCYPpBVgNF53Efmr5J) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 59 | [Ya Qasi](https://open.spotify.com/track/1wqkh4IqBHf9xBtlvtQfqw) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Ya Qasi](https://open.spotify.com/album/4RFu9gMMbiSQmW9yGLjesO) | 3:28 |
 | 60 | [Dammi Falastini](https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 4:00 |
 
-Snapshot ID: `MCxiYjhkY2QxYzMwNTlkZDcxN2U0MGE3NjAyODYxNzA5MWVjYzQ3Zjlm`
+Snapshot ID: `MCwzNjc2YTFiM2E0ZDgyZWQ5OTgyMTg0Y2YyMjkwZTA4ZTBjNWE4YmJh`

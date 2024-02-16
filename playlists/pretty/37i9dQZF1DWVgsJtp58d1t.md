@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:1YRqgFNXqRyMDRr8ClS1NL">Kaliii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,835 likes - 119 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,169 likes - 119 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 48 | [Plate](https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Plate](https://open.spotify.com/album/7e2yh6X5IjQCTsIbgIq05r) | 3:23 |
 | 49 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
 | 50 | [Real Life](https://open.spotify.com/track/4IObJ5q90JgXxGiD63aXwL) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Konekt](https://open.spotify.com/album/2NovF7U9Fnbd9CbUgwfXlp) | 2:52 |
-| 51 | [Jowo](https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL) | 2:43 |
+| 51 | [Jowo](https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT) | 2:43 |
 | 52 | [Parampe](https://open.spotify.com/track/2sEjy0PPVcPDjcKMoWkwIi) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D \(Deluxe\)](https://open.spotify.com/album/3s6o61yAXYCPm71kgiL2Jy) | 2:39 |
 | 53 | [Sunshine Shine](https://open.spotify.com/track/2467Nxi5K1DUUj7eRg1i64) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Sunshine Shine](https://open.spotify.com/album/7u7pAvJ12lZqTHFhyOaKml) | 3:01 |
 | 54 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 118 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 | 119 | [Funk 55](https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Funk 55](https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb) | 6:13 |
 
-Snapshot ID: `MCw3OWI0ZDM3MDA2ZmMyNGZjYjIzMTk3MmQzZWU3YTU5NWE4MWY1ZjFh`
+Snapshot ID: `MCwyNDZjYTg1ZDFjOWMwM2I0N2M4NTA4Yjg1MDU0NTdmNDhhNGUwNTZj`

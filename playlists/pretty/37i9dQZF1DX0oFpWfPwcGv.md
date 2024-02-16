@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,529 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,541 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 42 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
 | 43 | [Turn the Beat Around \- 7" Single Edit](https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Never Gonna Let You Go \(Expanded Edition\)](https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC) | 3:24 |
 | 44 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
-| 45 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
-| 46 | [Let No Man Put Asunder \(Shep Pettibone 12" Mix\)](https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 8:01 |
-| 47 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
+| 45 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
+| 46 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
+| 47 | [Let No Man Put Asunder \(Shep Pettibone 12" Mix\)](https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 8:01 |
 | 48 | [MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise](https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 17:47 |
 | 49 | [Ain't No Mountain High Enough](https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB) | 7:59 |
 | 50 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 75 | [Moment of My Life \(12'' Version\)](https://open.spotify.com/track/3K70DJ1PgpZYDGE67CZBAX) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/4RPGPhmqCeFZZbFvZRg0Sh) | 6:32 |
 
-Snapshot ID: `MCw3YWUyY2NhMzg3Y2Y3ZGMwYTM2ZmFkYWI5NjkyNzY2MjM4YzEzNzUw`
+Snapshot ID: `MCxjMzQ5MzZjNWNhMjNmZTY0NzYwMTRjYzUwOWEwOWE5MWYxYTRmMTNh`

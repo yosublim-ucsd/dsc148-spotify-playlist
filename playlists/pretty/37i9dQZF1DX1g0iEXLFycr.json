@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1084391,
+  "num_followers": 1084389,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTFhNTQwMTZlMmIyNzE1MDAyZDBkM2JjODZkYWY1YTNmYWZjM2Zi",
+  "snapshot_id": "MCw0MGZmNWFkYjJiNjE3MmI5YzJmOTQ3ZmMwYTg5ZjZlNDllNjI2MGNj",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -339,22 +339,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Toast (Remix)",
         "url": "https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 390861,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Diamonds (Deluxe)",
         "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 212440,
       "name": "Are You Ready For Love? - Remastered",
       "url": "https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1187,6 +1171,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Stereo Typical",
-        "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
-      },
-      "artists": [
-        {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "When I Was A Youngster",
-      "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Sunmachine (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 235430,
       "name": "Sunchyme (Radio Edit) [Instrumental] - 2023 Remaster",
       "url": "https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Stereo Typical",
+        "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
+      },
+      "artists": [
+        {
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "When I Was A Youngster",
+      "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/7iiXSRiQJch2XontyEzOcG"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/03rhu2vIylSFLUagt7wi5D"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 254786,
       "name": "Bright Idea",
       "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "I Will Never Let You Down",
-        "url": "https://open.spotify.com/album/7iiXSRiQJch2XontyEzOcG"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "I Will Never Let You Down",
-      "url": "https://open.spotify.com/track/03rhu2vIylSFLUagt7wi5D"
     }
   ],
   "unique_name": "Feel Good Friday",

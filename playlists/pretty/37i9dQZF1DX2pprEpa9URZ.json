@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 752830,
+  "num_followers": 752965,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTFiMDM2NzYxZTdmNDU2YjhlMzg3NWJhMzVlMjNhYjEyNmM2NmQ1",
+  "snapshot_id": "MCw4ZjkxZDc3ZmY4MjU5OTBhMjE5MjAxYzliZmEwMDI1Yzg1YTZlNGFl",
   "tracks": [
     {
       "added_at": "2023-11-14 12:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "The Deep South",
         "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 383775,
       "name": "Pastorcita",
       "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Eternal Road",
-        "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
-      },
-      "artists": [
-        {
-          "name": "Rapossa",
-          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Eternal Road - Edit",
-      "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Eternal Road",
+        "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
+      },
+      "artists": [
+        {
+          "name": "Rapossa",
+          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Eternal Road - Edit",
+      "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 371106,
       "name": "Mesta",
       "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
+      },
+      "artists": [
+        {
+          "name": "Theo Gramal",
+          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "Pastel",
+      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
-      },
-      "artists": [
-        {
-          "name": "Theo Gramal",
-          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "Pastel",
-      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 293000,
       "name": "Boho",
       "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Solstice Vibes III",
         "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
-        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
-      },
-      "artists": [
-        {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "Sariel Orenda",
-          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Dilmano Dilbero - Sariel Orenda Remix",
-      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
+        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
+      },
+      "artists": [
+        {
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "Sariel Orenda",
+          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Dilmano Dilbero - Sariel Orenda Remix",
+      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 383861,
       "name": "Running After Dark",
       "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -1107,6 +1091,38 @@
       "duration_ms": 342853,
       "name": "Karanfilce Devojce - PACHIRA Remix",
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Doors To Shambhala",
+        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
+      },
+      "artists": [
+        {
+          "name": "You Man",
+          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Ummo",
+      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 187118,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Doors To Shambhala",
-        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
-      },
-      "artists": [
-        {
-          "name": "You Man",
-          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Ummo",
-      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
     },
     {
       "added_at": "2023-11-14 12:00:00",

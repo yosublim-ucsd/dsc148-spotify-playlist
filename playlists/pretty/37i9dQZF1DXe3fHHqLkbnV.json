@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 339272,
+  "num_followers": 339451,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDRkNGZkZTIwZmYyYWYwYjhiMThkYWQ2NmQ1YWRjMTFiNWYxNWMz",
+  "snapshot_id": "MCw5OGM4M2FkNmQ0NWM2MWY3NDdlOTZiZTdiZWNhNTAxNGIwMWY1YjUy",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "America's Least Wanted",
-        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
-      },
-      "artists": [
-        {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Cats In The Cradle",
-      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 257093,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "America's Least Wanted",
+        "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Cats In The Cradle",
+      "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
     },
     {
       "added_at": "2023-01-18 22:23:18",

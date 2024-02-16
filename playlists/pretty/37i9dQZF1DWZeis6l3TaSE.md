@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 
 > Seize the day...Maybe? Listen to the music from and inspired by Everything Now, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,706 likes - 83 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,717 likes - 83 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 | 20 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 21 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
 | 22 | [Islands In the Stream](https://open.spotify.com/track/6dnco8haegnJYtylV26cBq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Greatest Hits](https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs) | 4:11 |
-| 23 | [L'amore dice Ciao \(Main Titles\) \- Remastered](https://open.spotify.com/track/03KBBkHF2vaeRol4Qt3ccX) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [La Matriarca \- The Libertine \(Colonna sonora originale\)](https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ) | 3:12 |
+| 23 | [L'amore dice Ciao \(Main Titles\) \- Remastered](https://open.spotify.com/track/03KBBkHF2vaeRol4Qt3ccX) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [La Matriarca \- The Libertine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ) | 3:12 |
 | 24 | [Get Ready](https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:44 |
 | 25 | [Prim & Propa](https://open.spotify.com/track/73782aOQUGbQfZrg6P1wIq) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Prim & Propa](https://open.spotify.com/album/6SkM7R8HS1aGgTqm2QLViD) | 3:30 |
 | 26 | [Still Here](https://open.spotify.com/track/5i9RMw9uBXCKrYKHhLJfmK) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 4:24 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 | 82 | [This Is Living](https://open.spotify.com/track/2TlK5vVReniSfMUFwIIqyA) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 1:52 |
 | 83 | [Best Day Of My Life](https://open.spotify.com/track/74oekHCIp8VXbp8Xmnef92) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 2:33 |
 
-Snapshot ID: `MCxmMzlkNmFjYWIzNTQ4MDY5ZjMwM2ZhNDM0Y2YyNzZiZWJkZTY0MDFl`
+Snapshot ID: `MCwwYjU0NTFhNzNiNjRhMzRiZmEwYzFiZmQzMTAxN2Y4ZGY4MmVkMWUy`

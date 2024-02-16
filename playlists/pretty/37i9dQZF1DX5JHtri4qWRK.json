@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 8263,
+  "num_followers": 8264,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGMyYWQ0OTAwNWQ2NjJmODRiMmYzNjE5YjJmMzg2N2I5YmZjNjJl",
+  "snapshot_id": "MCw4YjY2ODNmNGVhOWI3ZmNlNGMwNjBhZmU0YzFmMzYyOGIxYzZlYzZi",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -151,18 +151,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -183,6 +183,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 288333,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -247,6 +247,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -295,6 +295,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 221720,
       "name": "Too Little Too Late",
       "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 448573,
-      "name": "What Goes Around.../...Comes Around (Interlude)",
-      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+      "duration_ms": 448573,
+      "name": "What Goes Around.../...Comes Around (Interlude)",
+      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -659,6 +659,38 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
       },
@@ -683,38 +715,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Hoodstar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4km17Fy3fRGG4PEHQ4Fcta"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "How You Gonna Act Like That",
+      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "How You Gonna Act Like That",
-      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 274226,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3w8Mw9GHYepoTWOSdiyosj"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "From The Bottom Up",
         "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Pray You Catch Me",
+      "url": "https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -939,22 +955,6 @@
       "duration_ms": 266306,
       "name": "Bust Your Windows",
       "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Pray You Catch Me",
-      "url": "https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1011,6 +1011,22 @@
       "duration_ms": 327693,
       "name": "I Should Have Cheated",
       "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 317160,
       "name": "We Gonna Take U Back (Lude) / Don't Leave Me",
       "url": "https://open.spotify.com/track/13oGc1Mi9niBlo5eTmgGMa"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "It's Over Now",
-      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Fear Of Flying",
         "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 162973,
       "name": "Make Me Cry",
       "url": "https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "3LW",
-        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
+        "name": "More",
+        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
       },
       "artists": [
         {
-          "name": "3LW",
-          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 263440,
-      "name": "No More (Baby I'ma Do Right)",
-      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
+      "duration_ms": 242466,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
+        "name": "3LW",
+        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
       },
       "artists": [
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "3LW",
+          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
+      "duration_ms": 263440,
+      "name": "No More (Baby I'ma Do Right)",
+      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Morning After",
-        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
       },
       "artists": [
         {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Think About Me",
-      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+      "duration_ms": 273438,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
     }
   ],
   "unique_name": "Heartbreak Hotel",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,438 likes - 301 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 301 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 102 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
 | 103 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
 | 104 | [Deeper](https://open.spotify.com/track/5XCJndUuktaxfVruAek3mT) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Deeper](https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC) | 4:08 |
-| 105 | [Scent of you](https://open.spotify.com/track/1KnKp1eEdotLWF7OzKVIgo) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:59 |
-| 106 | [You Love Who You Love](https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:05 |
+| 105 | [You Love Who You Love](https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:05 |
+| 106 | [Scent of you](https://open.spotify.com/track/1KnKp1eEdotLWF7OzKVIgo) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:59 |
 | 107 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 108 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 |
 | 109 | [More Than A Miracle](https://open.spotify.com/track/21AbakVGnrNSdineegyZnB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:05 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 300 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 | 301 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Mjg0NjYwNTAsMDAwMDAwMDA5NTk0OTY3ZGI5N2E2ZmJmZmQyMDIzZjU0NDc2NWM5Ng==`
+Snapshot ID: `Mjg0Njc0OTAsMDAwMDAwMDBjNDQ1NjcwNzFkMDc4YTg3ZWQxZTA4NWIzNDUwY2M5YQ==`

@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-163 songs - 10 hr 53 min
+164 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 | 2023-02-10 |  |
 | [C'est si bon](https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:03 | 2022-06-28 |  |
 | [C'est si bon](https://open.spotify.com/track/3YrbJ9Y7SU0AIYFjYnXzIp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:07 | 2022-05-25 | 2022-07-29 |
-| [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 | 2021-12-16 |  |
+| [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 | 2021-12-16 | 2024-02-16 |
 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 | 2021-12-16 |  |
 | [Central Park Swing](https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 3:25 | 2023-04-14 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 | 2021-12-16 |  |
@@ -133,6 +133,7 @@
 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 2:46 | 2021-12-16 | 2022-04-21 |
 | [Soul Dancing](https://open.spotify.com/track/4StXVZBqMAaJokejo0698n) | [Joey DeFrancesco](https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR) | [More Music](https://open.spotify.com/album/291DRYQKtqeZGHfSPabB01) | 6:36 | 2022-02-24 | 2022-10-05 |
 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 | 2021-12-16 |  |
+| [Stop This World](https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Stop This World](https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf) | 3:49 | 2024-02-07 |  |
 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 | 2021-12-16 |  |
 | [Sun King](https://open.spotify.com/track/4ZXvJhmrtoAr9rS8Hf7881) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Gratitude](https://open.spotify.com/album/7AGJLSwvXeyYSKGA6b9eCj) | 7:00 | 2021-12-16 | 2022-10-26 |
 | [Sun of June](https://open.spotify.com/track/4rIDC72fAd26dB4U9pCAGa) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 3:45 | 2022-06-28 | 2023-02-02 |

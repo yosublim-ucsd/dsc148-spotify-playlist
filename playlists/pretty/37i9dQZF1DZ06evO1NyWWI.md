@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,862 likes - 49 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,023 likes - 49 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 31 | [No Quarter \- Remaster](https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 7:02 |
 | 32 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 |
 | 33 | [Thank You \- 1990 Remaster](https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:49 |
-| 34 | [The Girl I Love She Got Long Black Wavy Hair \- Live on Tasty Pop Sundae from BBC Sessions;Remaster](https://open.spotify.com/track/7ecVrUYlhj6OrKTAK0oDzo) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Complete BBC Sessions \(Remastered\)](https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI) | 3:03 |
-| 35 | [The Rover \- Remaster](https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 5:39 |
+| 34 | [The Rover \- Remaster](https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 5:39 |
+| 35 | [The Girl I Love She Got Long Black Wavy Hair \- Live on Tasty Pop Sundae from BBC Sessions;Remaster](https://open.spotify.com/track/7ecVrUYlhj6OrKTAK0oDzo) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Complete BBC Sessions \(Remastered\)](https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI) | 3:03 |
 | 36 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 |
-| 37 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 |
-| 38 | [I Can't Quit You Baby \- 1990 Remaster](https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 4:42 |
+| 37 | [I Can't Quit You Baby \- 1990 Remaster](https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 4:42 |
+| 38 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 |
 | 39 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 |
 | 40 | [Bron\-Yr\-Aur \- Remaster](https://open.spotify.com/track/5rgWj8h7lzbSmwpp0wFkXD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 2:06 |
 | 41 | [Out on the Tiles \- Remaster](https://open.spotify.com/track/6fxcpQMUoX0ofnbIHVnVWN) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 48 | [The Crunge \- Remaster](https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:17 |
 | 49 | [Hot Dog \- Remaster](https://open.spotify.com/track/5K2yYEoc9ljOlzoMnhQSgm) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 3:18 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAwMzk3YTkzYzZhYThjMGM4NDM1ODU4ZDRmODRiYmEzZQ==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBmZjcxNDg1M2RjMjg4ZDI5ZDg1NjBjNmNjYjM4MzUxZg==`

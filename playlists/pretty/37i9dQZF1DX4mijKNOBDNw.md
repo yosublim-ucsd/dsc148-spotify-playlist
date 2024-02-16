@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,992 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,998 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 34 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 35 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 |
 | 36 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
-| 37 | [Volando en la nube](https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la nube](https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9) | 3:11 |
-| 38 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
+| 37 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
+| 38 | [Volando en la nube](https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la nube](https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9) | 3:11 |
 | 39 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
-| 40 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
-| 41 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
+| 40 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
+| 41 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
 | 42 | [Hermanas](https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg), [Maria Rezende](https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k) | [Hermanas](https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa) | 4:06 |
 | 43 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 |
 | 44 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 61 | [Somos Hermanas](https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Somos Hermanas](https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR) | 4:25 |
 | 62 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
 | 63 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
-| 64 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
-| 65 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 |
+| 64 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 |
+| 65 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
 
-Snapshot ID: `MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2`
+Snapshot ID: `MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm`

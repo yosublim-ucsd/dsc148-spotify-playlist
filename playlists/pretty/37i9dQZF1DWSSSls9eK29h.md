@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,025 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,080 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
-| 2 | [Morning Dance](https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [Morning Dance](https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG) | 3:56 |
-| 3 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 |
+| 2 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 |
+| 3 | [Morning Dance](https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [Morning Dance](https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG) | 3:56 |
 | 4 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 |
 | 5 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 |
 | 6 | [Together Again](https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Dance](https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb) | 4:15 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 23 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
 | 24 | [Warm Weather \- 12" Version](https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Pieces Of A Dream](https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC) | 4:06 |
 | 25 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
-| 26 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
-| 27 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
+| 26 | [Sunset Bay](https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Steppin' Out](https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi) | 4:57 |
+| 27 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
 | 28 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
 | 29 | [Do You Feel What I'm Feeling?](https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [Truth](https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT) | 5:14 |
 | 30 | [Smooth](https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For The Love Of You](https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7) | 4:35 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 46 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
 | 47 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
 | 48 | [For The Love Of You](https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For The Love Of You](https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7) | 5:01 |
-| 49 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
-| 50 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
+| 49 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
+| 50 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
 | 51 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
-| 52 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
-| 53 | [Breakfast with Tiffany](https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Decisions](https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX) | 4:40 |
-| 54 | [Glass Dolphins](https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe) | [John Klemmer](https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK) | [Touch](https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ) | 3:27 |
-| 55 | [Greener Grass](https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Voices In The Rain](https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM) | 5:20 |
+| 52 | [Breakfast with Tiffany](https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Decisions](https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX) | 4:40 |
+| 53 | [Glass Dolphins](https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe) | [John Klemmer](https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK) | [Touch](https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ) | 3:27 |
+| 54 | [Greener Grass](https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Voices In The Rain](https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM) | 5:20 |
+| 55 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 56 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
 | 57 | [I Want You For Myself](https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Personal](https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4) | 5:29 |
 | 58 | [There's Only You](https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Undercover](https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp) | 5:09 |
 | 59 | [Treasure Hunt](https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [The Getaway](https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU) | 5:08 |
 | 60 | [Personal Touch](https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:55 |
 
-Snapshot ID: `MCwyMTBhMWNjZmM4ZTlmMWNjMzY3ZTQ5Yjc0NDBlNzczODkxZjUwNTdk`
+Snapshot ID: `MCxlMmNiYjMwNTJiZTMyZTcwYmNlZjUzYWQwZjc2ZGYwZWIyZWM3M2M3`

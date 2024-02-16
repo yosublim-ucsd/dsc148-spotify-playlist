@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 34593,
+  "num_followers": 34604,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTY3OGIyZmNmYTBkMjllZGUyNTFjYzRlNDU0YmI5Y2U3NGVmODcx",
+  "snapshot_id": "MCwzY2Y0ZTNmNzYyZTdhNjQyYjkyMDEwYjY0MzJkODMxMmM3MGE0MWM2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -487,66 +487,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
-        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Evelyne Razimowsky",
-          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
-        },
-        {
-          "name": "Michel Piquemal",
-          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
-        },
-        {
-          "name": "Jean-Claude Pennetier",
-          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
-        },
-        {
-          "name": "Ensemble Vocal Michel Piquemal",
-          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Duetto buffo di due gatti",
-      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
-        "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Prague Philharmonia",
-          "url": "https://open.spotify.com/artist/39FuQKH2MKSPyAsRqdHj0N"
-        },
-        {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
-        },
-        {
-          "name": "Ludmila Peterkov\u00e1",
-          "url": "https://open.spotify.com/artist/16q3r2R7huL7liVkEzI3EU"
-        }
-      ],
-      "duration_ms": 499626,
-      "name": "Variazzioni di clarinetto in C Major",
-      "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: L'Italiana in Algeri",
         "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
       },
@@ -599,6 +539,66 @@
       "duration_ms": 241946,
       "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act II Scene 4: Aria: Ho un gran peso sulla testa (Taddeo, Chorus)",
       "url": "https://open.spotify.com/track/63R1BY3EjDAuSUIHzSvYVj"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Philharmonia",
+          "url": "https://open.spotify.com/artist/39FuQKH2MKSPyAsRqdHj0N"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        },
+        {
+          "name": "Ludmila Peterkov\u00e1",
+          "url": "https://open.spotify.com/artist/16q3r2R7huL7liVkEzI3EU"
+        }
+      ],
+      "duration_ms": 499626,
+      "name": "Variazzioni di clarinetto in C Major",
+      "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
+        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Evelyne Razimowsky",
+          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
+        },
+        {
+          "name": "Michel Piquemal",
+          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
+        },
+        {
+          "name": "Jean-Claude Pennetier",
+          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
+        },
+        {
+          "name": "Ensemble Vocal Michel Piquemal",
+          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Duetto buffo di due gatti",
+      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -903,30 +903,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 217626,
       "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
       "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: String Sonatas, etc.",
         "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 467600,
       "name": "Stabat Mater: Sancta mater, istud agas",
       "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1472,6 +1472,30 @@
           "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
         }
       ],
+      "duration_ms": 227813,
+      "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
+      "url": "https://open.spotify.com/track/7iZLJBIdSEj4cCNkIkYDoY"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
       "duration_ms": 146800,
       "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
       "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
@@ -1495,30 +1519,6 @@
       "duration_ms": 356653,
       "name": "Stabat Mater: III. Quis est homo (Duet)",
       "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Piano Music, Vol. 10",
-        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Giuseppina Bridelli",
-          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
-      "url": "https://open.spotify.com/track/7iZLJBIdSEj4cCNkIkYDoY"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1559,30 +1559,6 @@
       "duration_ms": 272173,
       "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
       "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Complete Overtures, Vol. 4",
-        "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Prague Sinfonia",
-          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
-        },
-        {
-          "name": "Christian Benda",
-          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
-        }
-      ],
-      "duration_ms": 367306,
-      "name": "Armida, Act I: Sinfonia",
-      "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1643,6 +1619,30 @@
       "duration_ms": 330320,
       "name": "Semiramide: Act II Scene 11: Al mio pregar t'arrendi - L'usato ardir (Semiramide, Arsace, Assur, Oroe)",
       "url": "https://open.spotify.com/track/070oTf9WJv9hvk9OOYtXs5"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 4",
+        "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "duration_ms": 367306,
+      "name": "Armida, Act I: Sinfonia",
+      "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 283493,
       "name": "Stabat Mater: Fac, ut portem Christi mortem",
       "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
-      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
     },
     {
       "added_at": "2022-06-28 08:38:32",

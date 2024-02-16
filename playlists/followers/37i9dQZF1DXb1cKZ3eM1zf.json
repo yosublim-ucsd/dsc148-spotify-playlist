@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 49799,
+  "2024-02-16": 49803,
   "date_first_scraped": "2023-02-25",
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2024",
   "name": "Pinkpop Best of - 2024",
@@ -3969,7 +3969,7 @@
       ],
       "date_added": "2019-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
@@ -7185,18 +7185,6 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
         }
       ],
       "date_added": "2019-03-11",
@@ -9755,7 +9743,7 @@
       ],
       "date_added": "2019-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 187533,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"

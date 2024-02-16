@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,026 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,036 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Yava Janumada Gelathi \(from "Kaatera"\)](https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW) | [Hemanth Kumar](https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Yava Janumada Gelathi \(from "Kaatera"\)](https://open.spotify.com/album/5vzLCnSQxi25b62VEiktbY) | 3:53 |
 | 75 | [Aakaasha Gadiya \(From "Salaar Cease Fire \- Kannada"\)](https://open.spotify.com/track/3xiIegrnJHAfte9IzO8hfc) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD), [Vijayalaxmi Mettinahole](https://open.spotify.com/artist/0Y21TyAFkjyalKuDvyvT75) | [Aakaasha Gadiya \(From "Salaar Cease Fire \- Kannada"\)](https://open.spotify.com/album/41t989WnmcAp7zZEVOFSlq) | 3:18 |
 
-Snapshot ID: `MCwyN2M5ZjAzMzgzMjRhZWQ5ZjI3OGM1ZTQ3MzYwNDg4MDk1ZjAxZGFm`
+Snapshot ID: `MCwxMjY1ZTNkNmU2NzI2OTYyYzAyNzhlNmQ5Njc1MzQ1YjY0MDQxZWQ5`

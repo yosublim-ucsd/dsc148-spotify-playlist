@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Bring On Up Our Love",
+        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Bring On Up Our Love",
+      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
+    },
+    {
+      "album": {
         "name": "Cherry Skies",
         "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },

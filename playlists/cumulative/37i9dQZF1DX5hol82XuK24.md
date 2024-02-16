@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-319 songs - 21 hr 1 min
+321 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Dog Rectum](https://open.spotify.com/track/4QtmD6iUt1rUjuFXJGhFtC) | [ScreamerClauz](https://open.spotify.com/artist/175gcancxo7YU4uQGxSfsx) | [Planetary Evacuation Recruitment Tape](https://open.spotify.com/album/4PV3OovytHfb0QdOK944k1) | 4:53 | 2022-10-23 | 2022-11-01 |
 | [Dolore di Orsini](https://open.spotify.com/track/5x39jx4cKD2NqiBIKr0TzI) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [All Thoughts Fly](https://open.spotify.com/album/4ZsKcq417wTfTHtYzP7Sbf) | 4:04 | 2022-10-23 | 2022-11-01 |
 | [DOORWAY](https://open.spotify.com/track/0GmGw3aqX1OLQdb88ECoe4) | [Black Dresses](https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96) | [WASTEISOLATION](https://open.spotify.com/album/2Kov3GLXwADxba0BIAYzGl) | 1:38 | 2022-10-23 | 2022-11-01 |
-| [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-07-05 |  |
+| [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-07-05 | 2024-02-16 |
 | [Duffy's](https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk) | 3:39 | 2023-03-22 |  |
 | [Duffy's](https://open.spotify.com/track/74kjh8PAcrv7ZVaueHpgTf) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/6sD0awzvOB5aKTliTTQogU) | 3:39 | 2023-03-22 | 2023-04-30 |
 | [Dusty](https://open.spotify.com/track/2NR6sk2q4WAzVMB3qaqpx3) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Rotten Bun for an Eggless Century](https://open.spotify.com/album/0tqVbc2hj5nC8JoYiqWQEz) | 1:57 | 2023-07-05 | 2023-10-30 |
@@ -103,6 +103,7 @@
 | [Frankie Teardrop \- 2019 \- Remaster](https://open.spotify.com/track/2vQRkj2kMwoHKLzxXNsj2h) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 10:26 | 2022-10-23 | 2022-11-01 |
 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 | 2021-11-01 |  |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2023-10-19 |  |
+| [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-02-15 |  |
 | [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 | 2023-10-30 | 2023-11-04 |
 | [Go Dig My Grave](https://open.spotify.com/track/5FBto2Mh2gVkGWV0mRh0hg) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Go Dig My Grave](https://open.spotify.com/album/0opq0M7iIK9YbyhPZefNYa) | 8:38 | 2023-03-22 | 2023-07-25 |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-05 | 2023-03-23 |
@@ -301,7 +302,7 @@
 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-10-30 | 2023-11-04 |
 | [Ulvinde](https://open.spotify.com/track/1OVCelrSJzzCRslwzJ1Gsd) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Mareridt \(Deluxe Version\)](https://open.spotify.com/album/3ewAlccDDYFoybQaMnkTvW) | 4:23 | 2022-10-23 | 2022-11-01 |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2021-11-01 |  |
-| [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-04-28 |  |
+| [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-04-28 | 2024-02-16 |
 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 | 2023-08-11 |  |
 | [Valley of the Dolls](https://open.spotify.com/track/6vso2EYZ4G8uVAKHvBQr9E) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 4:13 | 2023-10-30 | 2023-11-04 |
 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2023-10-30 | 2023-11-04 |
@@ -314,6 +315,7 @@
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-10-30 | 2023-11-04 |
 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 | 2021-11-01 |  |
 | [What Would I Do?](https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [What Would I Do?](https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV) | 3:54 | 2022-09-13 |  |
+| [When I say, we're alone.](https://open.spotify.com/track/72nCZUytj1FKy7Gf6G8SfK) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [When I say, we're alone.](https://open.spotify.com/album/0tlTmd4tEEhv4A2RCOZbem) | 4:33 | 2024-02-15 |  |
 | [WHEN I WAS OLDER \- Music Inspired By The Film ROMA](https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN I WAS OLDER \(Music Inspired By The Film ROMA\)](https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU) | 4:30 | 2023-10-30 | 2023-11-04 |
 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 | 2023-09-29 |  |
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-11-01 | 2022-10-16 |

@@ -1,33 +1,13 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3910,
+  "num_followers": 3912,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQwZWI5MGRiYjUzZjUyYzYyYWFmMjUwMmUyNDI2ZTVkOTNiMjY3",
+  "snapshot_id": "MCw2MDI4NjNlODk5NzUwZGNiZTM5OTVlNmY2NmM2ZjgwN2RjOGIzY2M1",
   "tracks": [
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Pliva",
-        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 244570,
-      "name": "Pliva",
-      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
-    },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
@@ -67,6 +47,26 @@
       "duration_ms": 171998,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Bad Bongo EP",
-        "url": "https://open.spotify.com/album/5M0NfNz9ywxmSNh7BCtCf4"
-      },
-      "artists": [
-        {
-          "name": "GREG (BR)",
-          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Bad Bongo",
-      "url": "https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N"
       },
@@ -163,6 +147,26 @@
       "duration_ms": 167619,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -223,22 +227,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+        "name": "Bad Bongo EP",
+        "url": "https://open.spotify.com/album/5M0NfNz9ywxmSNh7BCtCf4"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+      "duration_ms": 165000,
+      "name": "Bad Bongo",
+      "url": "https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -275,22 +275,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Hombres y Mujeres",
-        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 148644,
-      "name": "Hombres y Mujeres",
-      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1431,6 +1431,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Cuarto Oscuro / BAQ Spicy",
+        "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
+      },
+      "artists": [
+        {
+          "name": "Presi On",
+          "url": "https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp"
+        },
+        {
+          "name": "Renate",
+          "url": "https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        },
+        {
+          "name": "Pacho Carnaval",
+          "url": "https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
+      "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Everybody Salsa (Andruss Remix)",
         "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
       },
@@ -1511,34 +1539,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Cuarto Oscuro / BAQ Spicy",
-        "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
-      },
-      "artists": [
-        {
-          "name": "Presi On",
-          "url": "https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp"
-        },
-        {
-          "name": "Renate",
-          "url": "https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F"
-        },
-        {
-          "name": "Augusto Yepes",
-          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
-        },
-        {
-          "name": "Pacho Carnaval",
-          "url": "https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
-      "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Esta Pegao",
         "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Quema Quema",
-        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
-      },
-      "artists": [
-        {
-          "name": "Mister Pancho",
-          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
-        }
-      ],
-      "duration_ms": 126707,
-      "name": "Quema Quema",
-      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Gitrox",
         "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Quema Quema",
+        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
+      },
+      "artists": [
+        {
+          "name": "Mister Pancho",
+          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
+        }
+      ],
+      "duration_ms": 126707,
+      "name": "Quema Quema",
+      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Tr\u00e1gatelo",
         "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP"
-      },
-      "artists": [
-        {
-          "name": "Sparkee",
-          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
-        }
-      ],
-      "duration_ms": 157016,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 153750,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP"
+      },
+      "artists": [
+        {
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        }
+      ],
+      "duration_ms": 157016,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
-      },
-      "artists": [
-        {
-          "name": "BeMore",
-          "url": "https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Pista Es M\u00eda",
         "url": "https://open.spotify.com/album/5uuTO37yWyGsXYEF6ZvqHp"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
+      },
+      "artists": [
+        {
+          "name": "BeMore",
+          "url": "https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Envolvid\u00e3o",
+      "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Balafon",
         "url": "https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2"
       },
@@ -1875,6 +1875,22 @@
       "duration_ms": 173280,
       "name": "Balafon",
       "url": "https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Te Marchar",
+        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 180005,
+      "name": "Te Marchar",
+      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1895,22 +1911,6 @@
       "duration_ms": 160615,
       "name": "Baila Mi Gente",
       "url": "https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Te Marchar",
-        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 180005,
-      "name": "Te Marchar",
-      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
     }
   ],
   "unique_name": "Alma",

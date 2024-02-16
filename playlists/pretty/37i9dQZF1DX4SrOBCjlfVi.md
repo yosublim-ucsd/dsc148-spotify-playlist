@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Latto, NLE Choppa, Kid Cudi and more\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,679 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,821 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [BLACK OPS \(with Denzel Curry\)](https://open.spotify.com/track/1Cb2etQ6t2ATWoKuOpDWuF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BLACK OPS](https://open.spotify.com/album/14oDRWe0eLnUBKmekIAZkb) | 2:53 |
 | 4 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
 | 5 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 |
-| 6 | [Talking / Once Again](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [Talking / Once Again](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 |
+| 6 | [TALKING](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [TALKING](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 |
 | 7 | [DIRTY NACHOS](https://open.spotify.com/track/5CU0ZVQKGyOeOIbuXDo6gr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [DIRTY NACHOS](https://open.spotify.com/album/0kim8RqcfUvU9CodYZLp9d) | 1:59 |
 | 8 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 |
 | 9 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Where U At?](https://open.spotify.com/track/35nvXTmfwPp9ZiwTAzJ2aE) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Where U At?](https://open.spotify.com/album/7rxvWusLu1IGj4rjjJ7rqz) | 2:32 |
 | 50 | [Victim](https://open.spotify.com/track/7Ane84O2SMMQm4XEyurC3l) | [HiTek](https://open.spotify.com/artist/0M5DHvY0REak4QezudKswW), [sgpwes](https://open.spotify.com/artist/7gUzdJiUbJWKf81FsUWes3) | [Victim](https://open.spotify.com/album/2g7ylYZGFUTdefQXq9M15R) | 2:02 |
 
-Snapshot ID: `MCxkOGY4NTcxMGJmYWYzMzAzNTA0MDFhOTIzM2E1Y2RmNzE5ODUwNjI1`
+Snapshot ID: `MCwyYWExOTdiMjRiY2YxN2RmOTk3ZjBhNzg5NDljM2Y1MWU1MmYzZDlh`

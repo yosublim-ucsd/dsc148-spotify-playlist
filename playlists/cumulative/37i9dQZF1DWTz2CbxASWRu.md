@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-410 songs - 1 day 6 hr 15 min
+411 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [El Cuarto de Tula](https://open.spotify.com/track/5zin8iiYEO4UkSxuJl4wX5) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [El Cuarto de Tula](https://open.spotify.com/album/6DUStCCysG291DlT5mnaky) | 4:13 | 2023-07-10 |  |
 | [El Desierto](https://open.spotify.com/track/4aTaow76b7IgtlkhpVhCra) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 3:53 | 2023-07-10 |  |
 | [El Golpe de Mi Tambó](https://open.spotify.com/track/0EfyzpUqq2Y4G7PfVA8Vgz) | [Tonada](https://open.spotify.com/artist/0aYGi4HGjUp3ENSoRBpv47) | [Mi Tonada](https://open.spotify.com/album/1y0PMSgXo4l8O6V1zpKeKJ) | 3:59 | 2023-07-10 | 2024-02-10 |
+| [El Golpe de Mi Tambó](https://open.spotify.com/track/2dHO54dpIGk0cNKL7JKUp4) | [Tonada](https://open.spotify.com/artist/0aYGi4HGjUp3ENSoRBpv47) | [Mi Tonada](https://open.spotify.com/album/6qwynTjCTFlGLkvczNtlma) | 3:59 | 2024-01-19 |  |
 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 | 2023-07-10 |  |
 | [El Koun](https://open.spotify.com/track/3GoBo3IeBnqaRZWMieW5xo) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El Koun](https://open.spotify.com/album/47TSlsN85IYn25Armdr7iy) | 4:06 | 2023-07-10 |  |
 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 | 2023-07-10 |  |
@@ -264,7 +265,7 @@
 | [Moussolou](https://open.spotify.com/track/2jkZYhTXDk83BOaRTR8QxH) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/792ZgWQIn49vY1iv970M26) | 5:14 | 2023-07-10 | 2023-11-04 |
 | [Moussolou](https://open.spotify.com/track/5IQtSy70lutizrFGdOH9QJ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/1FXBNl5MIvP4wm7D3MgRDm) | 5:14 | 2023-07-10 |  |
 | [Mr Tembo](https://open.spotify.com/track/5oLOgSExVFBBzYTXVblcwu) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:43 | 2023-07-10 |  |
-| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 |  |
+| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 | 2024-02-16 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |
 | [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 |  |
 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 | 2023-07-10 |  |

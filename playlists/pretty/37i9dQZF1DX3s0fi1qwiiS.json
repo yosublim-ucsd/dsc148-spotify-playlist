@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3172,
+  "num_followers": 3177,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWM2NGQxZDI3ODAwNmNlMmZhOWE3NTUxZDMzYTFhMzlmMDA3Mzk2",
+  "snapshot_id": "MCw5MDAxNTEzZWM1NmIxMzU4YWU5NmQ2OWU4ZWRhMTYyMDJmNDQwZmEw",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -331,6 +331,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "duration_ms": 227100,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Sgudi Snyc",
         "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
-      },
-      "artists": [
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        }
-      ],
-      "duration_ms": 227100,
-      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "AKWAABA",
         "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 206829,
       "name": "AKWAABA",
       "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2023-12-08 08:55:17",

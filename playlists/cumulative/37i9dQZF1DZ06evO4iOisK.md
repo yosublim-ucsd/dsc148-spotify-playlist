@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 26 min
+72 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [BRING IT ON 〜Battle of Rap〜](https://open.spotify.com/track/5l507Aa1hpzuGbivmeLYYl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:15 | 2022-06-11 | 2022-10-13 |
 | [C!RCUS](https://open.spotify.com/track/0VddZ2uaNkB0hF3uP4F2K4) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:47 | 2022-08-26 | 2022-08-28 |
 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 | 2022-06-09 |  |
-| [Come on](https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:36 | 2022-06-09 |  |
+| [Come on](https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:36 | 2022-06-09 | 2024-02-16 |
 | [Don't Look Back](https://open.spotify.com/track/2EYq8MSKm0q2SoYksSyy2R) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:25 | 2022-08-29 | 2022-10-09 |
 | [EZ Going](https://open.spotify.com/track/5FD3lEtvlewgOsiz0yPVq0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:04 | 2022-10-06 | 2022-10-08 |
 | [Far away](https://open.spotify.com/track/0qqO2Z3PDWYXGtbXcnl76h) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 4:02 | 2022-06-12 | 2022-10-02 |
@@ -68,6 +68,7 @@
 | [あの頃、僕らは同じ未来を](https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 4:56 | 2022-06-09 |  |
 | [アイム・ア・ビリーバー](https://open.spotify.com/track/2gVEP5chQzs7pHEemZpMBO) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:37 | 2022-06-09 |  |
 | [イマジネーション](https://open.spotify.com/track/1xc9r9pgQ3CG7iViKPf0cQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 2:59 | 2022-06-09 |  |
+| [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-15 |  |
 | [サクラミツツキ](https://open.spotify.com/track/4Q8Xekfd9ihkVPCBxGK0ec) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:37 | 2022-06-09 |  |
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2022-06-09 |  |
 | [ジャパニケーション](https://open.spotify.com/track/4izm2Q9AE1hUWQ7RNjR88p) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 2:55 | 2022-06-09 |  |

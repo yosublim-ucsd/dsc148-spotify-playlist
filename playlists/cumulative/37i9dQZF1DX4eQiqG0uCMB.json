@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 230020,
       "name": "Know You",
       "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
@@ -4734,6 +4734,32 @@
       "duration_ms": 172000,
       "name": "These Days",
       "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
+    },
+    {
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/7mRqHWPSn8WwhKSJmEAL7G"
+      },
+      "artists": [
+        {
+          "name": "Garey Godson",
+          "url": "https://open.spotify.com/artist/1aUSlNPvVz5IYg9sSsEDPK"
+        },
+        {
+          "name": "Bruder",
+          "url": "https://open.spotify.com/artist/6yFOu87T55YZcwqRH4MQSV"
+        },
+        {
+          "name": "Gustav Anders",
+          "url": "https://open.spotify.com/artist/2XxerMANX0agr5C83zwgfy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204905,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/5ITebkKgXkVWeGMzx9wiCs"
     },
     {
       "album": {

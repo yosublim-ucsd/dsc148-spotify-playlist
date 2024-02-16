@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 3697080,
+  "2024-02-16": 3697442,
   "date_first_scraped": "2020-02-29",
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
   "name": "Chill Tracks",
@@ -2303,7 +2303,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 277523,
       "name": "Back to You (Amtrac Remix)",
       "url": "https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi"
@@ -14275,6 +14275,24 @@
       "duration_ms": 250916,
       "name": "It's All Over",
       "url": "https://open.spotify.com/track/1bqcDfcEHDQP7Q5AOUCnC5"
+    },
+    {
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "album": {

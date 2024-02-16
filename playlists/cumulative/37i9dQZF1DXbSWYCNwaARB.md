@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover:YOUNG POSSE\(영파씨\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover:Whee In \(휘인\)
 
-422 songs - 22 hr 25 min
+424 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-04 | 2024-01-26 |
 | [No More](https://open.spotify.com/track/1ypNdSl9XomFIt4dgor2QR) | [UNI.T](https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ) | [line](https://open.spotify.com/album/4BWULSJ2Sw9QM49M1Hb8UJ) | 3:26 | 2021-03-02 | 2022-05-30 |
-| [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-16 |  |
+| [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-16 | 2024-02-16 |
 | [NO ONE](https://open.spotify.com/track/0lhZsFfTpITnjK5q8lrDLR) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:14 | 2021-01-16 | 2022-04-13 |
 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 | 2022-07-18 | 2022-08-09 |
 | [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-11-16 | 2024-02-07 |
@@ -355,7 +355,7 @@
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-14 | 2023-06-23 |
 | [The Boots](https://open.spotify.com/track/73BjKZxwy47mJuTfIlcXfI) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 3:21 | 2021-03-07 | 2021-03-08 |
 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 | 2023-08-02 | 2023-08-19 |
-| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 |  |
+| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 | 2024-02-16 |
 | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [This love \(feat\. Paul Blanco\)](https://open.spotify.com/album/2XYKNORkUW6lPluYIZodpf) | 2:54 | 2023-07-19 | 2023-07-26 |
 | [Thumbs Up](https://open.spotify.com/track/1TDvkATTyjLCh8Teuqa7Dc) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/3PG4dq1ZweU7obfiKRQCtw) | 3:18 | 2021-02-26 | 2021-03-18 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-26 | 2022-11-21 |
@@ -370,6 +370,7 @@
 | [Truth or Dare](https://open.spotify.com/track/1KE1eG1NQ5uPRcvthP6eEZ) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [The Voice](https://open.spotify.com/album/2hRXn9IPc6ZdTRck0ODI0N) | 3:11 | 2023-10-25 | 2023-11-01 |
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2020-10-20 | 2021-03-17 |
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-01-15 | 2022-07-29 |
+| [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-15 |  |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 |  |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2021-02-28 | 2022-04-13 |
@@ -396,6 +397,7 @@
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2021-03-18 | 2022-04-23 |
 | [What You Waiting For](https://open.spotify.com/track/1Gw2MVjOeA29OIwt4k7PZ4) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/1JN6jZ6tFqVojR27UZc9QB) | 2:55 | 2020-10-13\* | 2022-07-25 |
 | [Whatta Man \(Good man\)](https://open.spotify.com/track/754PhkDUWZUkHbM7zfiLKm) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Whatta Man \(Good Man\)](https://open.spotify.com/album/7auH2HGIx0QeFEVoxCPmHm) | 3:13 | 2021-03-01 | 2022-04-17 |
+| [Wheee \(Prod\. Young K, Sanghyun Nah\)](https://open.spotify.com/track/6SN7iLZdFMGQvI1t7bQKlM) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Wheee \(Prod\. Young K, Sanghyun Nah\)](https://open.spotify.com/album/0ZALZSUmLfGRPriHLcL4PE) | 2:59 | 2024-02-15 |  |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2023-01-11 |
 | [Who Dat B](https://open.spotify.com/track/46V9JhCtDffP2AQB09zK5L) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Who Dat B](https://open.spotify.com/album/6Ns70xWE643K2d4uVASXYc) | 3:17 | 2021-02-26 | 2021-03-18 |
 | [Who Dis?](https://open.spotify.com/track/6loyhEAW2QFgQnvorXzsXn) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Who Dis?](https://open.spotify.com/album/38QTDwD7IM2EZuiUMII6uA) | 3:14 | 2020-10-13\* | 2021-03-15 |

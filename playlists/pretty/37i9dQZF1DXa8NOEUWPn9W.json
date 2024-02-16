@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Andruss.",
-  "num_followers": 1919096,
+  "num_followers": 1919268,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTMzYzZjZDc1YzNkMGE2OWRlMGJkOTA3ZGQ2MGRmNWM1MWY0ODIx",
+  "snapshot_id": "MCw3Y2M5YTk1ZWJiYzE0ZGNjOGIyMmEwNzgxMzM3Y2YyYjI4YzA3NDc5",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 178935,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
-      },
-      "artists": [
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 381322,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Express Yourself (Mochakk Remix)",
         "url": "https://open.spotify.com/album/370TQgbDVLx3vJSPvCNYaI"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 255000,
       "name": "Express Yourself - Mochakk Remix",
       "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Tudo Bem, Tudo Bom",
-        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "Tudo Bem, Tudo Bom - Radio Edit",
-      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 198508,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        }
-      ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "You Are In My System (Faster Horses Sport Mix)",
         "url": "https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2024-02-09 05:00:00",

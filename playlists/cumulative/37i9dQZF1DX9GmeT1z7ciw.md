@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-85 songs - 4 hr 51 min
+86 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-09-07 |  |
 | [Morgue](https://open.spotify.com/track/2tsDvDQaTkQAYsCHo4SGT9) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/3QzIwDA0KnU6o8QKdeJnyt) | 2:33 | 2023-11-14 |  |
 | [Morgue](https://open.spotify.com/track/47zqDEkR048yjkN3YJvlYg) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/127oCVYGHOgjQ5WvFnEWko) | 2:33 | 2023-09-07 | 2023-11-25 |
-| [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-09-07 |  |
+| [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-09-07 | 2024-02-16 |
 | [No Pain, No Gain is Shit](https://open.spotify.com/track/3sdnKfAlmXYopLqTtXgXB1) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 1:34 | 2023-09-29 | 2023-12-13 |
 | [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 | 2024-01-11 |  |
 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/4NS4QnTh3nRK7qhAXTfsmm) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:43 | 2023-09-07 |  |
@@ -82,6 +82,7 @@
 | [Vengeance](https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Vengeance](https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w) | 3:53 | 2024-01-09 | 2024-02-14 |
 | [Voyuer](https://open.spotify.com/track/714b2diY0lAC23l1UwucEg) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [Voyuer](https://open.spotify.com/album/68prMgrp45QL4qb8tlBQ24) | 3:49 | 2023-09-07 | 2023-10-04 |
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 | 2024-02-14 |
+| [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-15 |  |
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-09-07 |  |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-09-07 |  |
 | [さらば世界](https://open.spotify.com/track/4O2R1FWAdrF7HBrUBCiPsL) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/34HCqTjxeot4jQme5gTsJu) | 8:15 | 2023-09-07 | 2023-10-04 |

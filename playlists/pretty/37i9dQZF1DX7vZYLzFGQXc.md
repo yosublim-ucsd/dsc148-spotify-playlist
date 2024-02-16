@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Soombee\(숨비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,934 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,944 likes - 101 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 91 | [Bloom](https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 3:07 |
 | 92 | [wowowo](https://open.spotify.com/track/6B9aEDU07XxU20Ge7715TF) | [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn) | [Yours Truly](https://open.spotify.com/album/7rd5zxIdosnoSrVqFmIHZT) | 2:54 |
 | 93 | [Memories](https://open.spotify.com/track/2FPvh2bndxkHdGUSDs6R9O) | [Joyce Yoo](https://open.spotify.com/artist/4F0bWVpeEobe1Rtg9cIf5P) | [Memories](https://open.spotify.com/album/6d6PxXkvDTdJ38ZRHYp1E2) | 2:53 |
-| 94 | [Cinema](https://open.spotify.com/track/0MnDvGUmdlDHtfJw2Hd0fi) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [Casual](https://open.spotify.com/album/5vk9D2hPmmCiH2K6TbaOZY) | 2:47 |
+| 94 | [Cinema](https://open.spotify.com/track/05IVM6ru80nNZ49wBidG3t) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [Casual](https://open.spotify.com/album/7n9DmP9ERqg2PyCqLuPkwI) | 2:47 |
 | 95 | [Hate you \(feat\. Ellui\)](https://open.spotify.com/track/2LWupq4pun26BKGg2S8wfb) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Hate you \(feat\. Ellui\)](https://open.spotify.com/album/7BD9Jvp7TXN8RjYKhfA5XF) | 3:13 |
 | 96 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 |
 | 97 | [Love it](https://open.spotify.com/track/7b8lMGZsRXly5A5qtRtEBn) | [Jo Been](https://open.spotify.com/artist/2K3CBD9RAOU6IjgDff6Imo) | [Love it](https://open.spotify.com/album/7oTjGvByVMU3fawtWQRpTl) | 3:07 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 100 | [Someone Who Only Looks at Me](https://open.spotify.com/track/2Jgmlko3UxydEyRfXRhLmK) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo) | [Someone Who Only Looks at Me](https://open.spotify.com/album/1dYtVMk6Fewjcgqay1Tkht) | 3:42 |
 | 101 | [nowhere](https://open.spotify.com/track/0rInzo0AeGSKjLcP7RWvWp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [I Heal You, Another Healing](https://open.spotify.com/album/1k8cDbdQux8yOjQAiFu9f6) | 4:34 |
 
-Snapshot ID: `MCwyMTAxMjM2MDE3MmU1MjkwNTVjZjFlNGE3OWEyMzQxYmEzZjVmNWI4`
+Snapshot ID: `MCwxNTRmYzM4NTNkY2EwMmVmODBlMTQ4YzBhZTRkYTNlZjJjYzM1MGNl`

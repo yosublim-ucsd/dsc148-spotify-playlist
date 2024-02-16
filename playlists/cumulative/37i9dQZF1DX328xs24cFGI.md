@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-278 songs - 18 hr 14 min
+279 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-15 | 2023-09-29 |
 | [ただそれだけ](https://open.spotify.com/track/36SIW9lTd7Aa4oStAC9y1E) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [恋愛至上主義](https://open.spotify.com/album/3wd2Js2vgvDwTRgDVWtrgr) | 3:12 | 2023-06-13 | 2023-06-28 |
 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 | 2023-04-18 | 2023-06-14 |
+| [ただ君が](https://open.spotify.com/track/4RPxcpQzRhK0NokIKnlixQ) | [Sakurashimeji](https://open.spotify.com/artist/4GEJn9D9CbxI4UV8zQHxCY) | [ただ君が](https://open.spotify.com/album/3S6wJAP31kDRKgA2CIt6dc) | 4:17 | 2024-02-15 |  |
 | [どんどん君を好きになる](https://open.spotify.com/track/5HUFzcZkcj5S8sMaTERsFM) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [パレードが続くなら](https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ) | 4:56 | 2023-02-14 | 2023-02-22 |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2023-11-01 | 2024-01-24 |
 | [ぬくもり](https://open.spotify.com/track/1s410Rb0t77G2xPCZEXun9) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [ぬくもり](https://open.spotify.com/album/1HOl1I6rt1oNQS50tVzZfa) | 4:46 | 2023-05-23 | 2023-05-31 |
@@ -196,7 +197,7 @@
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-01-30 |  |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-09-02 |  |
 | [リッツパーティー](https://open.spotify.com/track/1FDrCBlNru2OrVXePw1BFQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 3:16 | 2023-03-16 | 2024-01-24 |
-| [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-02-09 |  |
+| [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-02-09 | 2024-02-16 |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 | 2024-01-11 |
 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2023-02-09 | 2023-05-11 |
 | [ロスタイム](https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ロスタイム](https://open.spotify.com/album/5AJDIhtmJB2KEXmggElgo2) | 3:58 | 2023-07-13 | 2023-08-09 |

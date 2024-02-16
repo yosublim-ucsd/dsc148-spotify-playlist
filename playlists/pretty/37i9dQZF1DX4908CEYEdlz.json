@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: The Killers",
-  "num_followers": 676731,
+  "num_followers": 676716,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmU1MzJmZTBlNzY5M2FiZGYzODc1YzAyYzI5MDNkNGNlYWJmYTcy",
+  "snapshot_id": "MCxmOTVlODE0YmQ3MzhhN2FlZGYwNWJlNDcxNDc2OGE4ZTI5MDllN2Vl",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "One Eyed Bastard",
-        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "One Eyed Bastard",
-      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 202862,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "My Condition",
-        "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 207670,
-      "name": "My Condition",
-      "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 221148,
       "name": "The Saints Of Violence And Innuendo",
       "url": "https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "My Condition",
+        "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 207670,
+      "name": "My Condition",
+      "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Worst Is On Its Way (Requiem Mass)",
-        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Worst Is On It's Way - Requiem Mass / Live",
-      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Daddy's Coming Home",
         "url": "https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Worst Is On Its Way (Requiem Mass)",
+        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Worst Is On It's Way - Requiem Mass / Live",
+      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
     },
     {
       "added_at": "2024-02-02 03:01:00",

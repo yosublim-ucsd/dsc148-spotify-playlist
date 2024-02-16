@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 415542,
+  "2024-02-16": 415534,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
   "name": "Texas Country Now",
@@ -1918,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes and Milk",
+        "url": "https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Feidler",
+          "url": "https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231029,
+      "name": "Cigarettes and Milk",
+      "url": "https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az"
+    },
+    {
+      "album": {
         "name": "Classic Again",
         "url": "https://open.spotify.com/album/3ZyAS99kwhBRExYV6GY4tN"
       },
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 277500,
       "name": "Dramamine Dreams",
       "url": "https://open.spotify.com/track/60SuPrdFMXcQW9w6vXvxS3"

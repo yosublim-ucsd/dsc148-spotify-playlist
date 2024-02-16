@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 27348,
+  "2024-02-16": 27356,
   "date_first_scraped": "2023-09-23",
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Jonas Benyoub",
   "name": "100 (2)",
@@ -211,7 +211,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
@@ -601,6 +601,28 @@
       "duration_ms": 139186,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/1lIAdiuji8iJXGHOdAGCj7"
+    },
+    {
+      "album": {
+        "name": "Distrikt 4",
+        "url": "https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "Adam Aden",
+          "url": "https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Distrikt 4",
+      "url": "https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV"
     },
     {
       "album": {

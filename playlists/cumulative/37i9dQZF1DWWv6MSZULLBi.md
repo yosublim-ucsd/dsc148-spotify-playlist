@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-710 songs - 1 day 19 hr 20 min
+711 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Cincinnati Heart](https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Cincinnati Heart](https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS) | 2:51 | 2024-02-02 |  |
 | [Circles](https://open.spotify.com/track/6XiJbAvbBrJtO5GBEOhiiy) | [Sandrine St\-Laurent](https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1) | [Circles](https://open.spotify.com/album/0KGo67duy49imsulmXi8MM) | 4:04 | 2022-11-11 | 2023-04-29 |
 | [Clayton](https://open.spotify.com/track/6bbz9WrejDWcAMSLFkKnFD) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Clayton](https://open.spotify.com/album/2jm0bAiRJgFRV8WPDsirpj) | 4:17 | 2022-06-10 | 2023-02-18 |
-| [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 |  |
+| [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 | 2024-02-16 |
+| [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-02-09 |  |
 | [Cocoon](https://open.spotify.com/track/02S4BqhislMrIaDBl8lsKP) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Cocoon](https://open.spotify.com/album/7MODNKHR8XR73kkh0BWITu) | 3:31 | 2023-07-21 | 2023-10-21 |
 | [collarbone](https://open.spotify.com/track/6QASovTU1wUcXQf5rHf9fU) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [collarbone](https://open.spotify.com/album/1bt86fE1GNk3sEKsY5ZHgP) | 3:23 | 2023-11-10 |  |
 | [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-10-27 | 2023-11-25 |

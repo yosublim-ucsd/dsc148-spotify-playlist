@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 107875,
+  "2024-02-16": 107873,
   "date_first_scraped": "2019-09-29",
   "description": "Obama&#x27;s favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
@@ -4687,7 +4687,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 171023,
       "name": "Basic",
       "url": "https://open.spotify.com/track/0gUhKOKqCQemjEhnXubHyL"
@@ -4759,7 +4759,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 164728,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/2DkO4dKnUYFekLTtZSngUU"
@@ -9800,6 +9800,24 @@
     },
     {
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235035,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "album": {
         "name": "Clubbin'",
         "url": "https://open.spotify.com/album/5A1DlN7SHxiJrGin4eEm2m"
       },
@@ -11225,7 +11243,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 169800,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/2MvMZKo9zA8E40Pzd3kYHw"
@@ -19339,7 +19357,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 159059,
       "name": "Girass\u00f3is",
       "url": "https://open.spotify.com/track/4G46Hv1JViv71MgM6RGpuR"
@@ -22561,6 +22579,32 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/0HZQJnhI6hVbhXOhTKmkI9"
+      },
+      "artists": [
+        {
+          "name": "Henry Aberson",
+          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
+        },
+        {
+          "name": "Nariah Taylor",
+          "url": "https://open.spotify.com/artist/6juqczQpC33D80JUhPlHg1"
+        },
+        {
+          "name": "Mat Maxwell",
+          "url": "https://open.spotify.com/artist/0XrDZpAUxnswRihjZd1uNy"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223869,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/0OMge2iLljuogYRKzbgB5Y"
     },
     {
       "album": {
@@ -29098,6 +29142,28 @@
     },
     {
       "album": {
+        "name": "LMAMW<3",
+        "url": "https://open.spotify.com/album/77b35L9SgNMVK8GfQPlzZ3"
+      },
+      "artists": [
+        {
+          "name": "KingAlexBeats",
+          "url": "https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw"
+        },
+        {
+          "name": "Meliya",
+          "url": "https://open.spotify.com/artist/5AftDm94ZPK8yoz4cnX4tq"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193144,
+      "name": "LMAMW<3",
+      "url": "https://open.spotify.com/track/5qXgnhqbs0jcteAy2pFwWH"
+    },
+    {
+      "album": {
         "name": "LNNS",
         "url": "https://open.spotify.com/album/3R8p50QtQb7AVFOvJka17s"
       },
@@ -29265,7 +29331,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 189458,
       "name": "Lonely Town (Piano Version)",
       "url": "https://open.spotify.com/track/17jWwHu2PlAR52RuipBVLr"
@@ -35756,6 +35822,24 @@
     },
     {
       "album": {
+        "name": "Nunca Una M\u00e1s",
+        "url": "https://open.spotify.com/album/0cRivzYXXWBuLFp5fxTklQ"
+      },
+      "artists": [
+        {
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Nunca Una M\u00e1s",
+      "url": "https://open.spotify.com/track/3DPDu25gdQBUBpoUa8Nbi6"
+    },
+    {
+      "album": {
         "name": "BOSSA 65: Celebrating Carlos Lyra and Roberto Menescal",
         "url": "https://open.spotify.com/album/1VYrbQ3H4A3SqfmDI1AxGx"
       },
@@ -36025,7 +36109,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 202202,
       "name": "Ojos Marrones - Cover",
       "url": "https://open.spotify.com/track/3rs2Drz2d3s328jwFGhZUW"
@@ -39536,6 +39620,24 @@
     },
     {
       "album": {
+        "name": "Quite Like You",
+        "url": "https://open.spotify.com/album/61Yock6lHmNMGyw7phJfat"
+      },
+      "artists": [
+        {
+          "name": "Cee Blu",
+          "url": "https://open.spotify.com/artist/6zLrjLq53IwQmvnGJTRUbB"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/1p325mdt23SuYtZFF8crKh"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Aqu\u00ed",
         "url": "https://open.spotify.com/album/2oPN5wHPASqjvkPMA9s7mW"
       },
@@ -41657,7 +41759,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 165184,
       "name": "Sali Bueno",
       "url": "https://open.spotify.com/track/0VzT6r2unzUhz2ZRajWxu7"
@@ -44726,6 +44828,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/7qzjzI5zflRLGeJ3jxx7q1"
+      },
+      "artists": [
+        {
+          "name": "Francesca van Keeken",
+          "url": "https://open.spotify.com/artist/6HPYNj6UAUYhaIm4b39Sjd"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215796,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4nsNlYkwyEvc1mm2McalIP"
+    },
+    {
+      "album": {
         "name": "Soul Hold",
         "url": "https://open.spotify.com/album/5Z6NiTreyn8AtHqXd4pAHX"
       },
@@ -45940,6 +46060,24 @@
     },
     {
       "album": {
+        "name": "Sucka 4 U",
+        "url": "https://open.spotify.com/album/11r4U0e6ER09oLIeW7F5cJ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Taylor",
+          "url": "https://open.spotify.com/artist/6aaFMlrrpvM8drt4IjyNph"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Sucka 4 U",
+      "url": "https://open.spotify.com/track/0UFDa4PDpdM69t1FDaAXSJ"
+    },
+    {
+      "album": {
         "name": "Sugar Daddy",
         "url": "https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ"
       },
@@ -46561,6 +46699,24 @@
       "duration_ms": 178560,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/3OPqM7GGmM8vDjcySRncV3"
+    },
+    {
+      "album": {
+        "name": "Sunkiss",
+        "url": "https://open.spotify.com/album/32UVhJ0ZJKaAGRJW3TgmFz"
+      },
+      "artists": [
+        {
+          "name": "No Snakes",
+          "url": "https://open.spotify.com/artist/6h6gIgW1eUcWYd04kBPAGp"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130289,
+      "name": "Sunkiss",
+      "url": "https://open.spotify.com/track/3Y2RQt5QG5UJU0zk7BTHPb"
     },
     {
       "album": {
@@ -49701,6 +49857,24 @@
       "duration_ms": 172000,
       "name": "TIBAA",
       "url": "https://open.spotify.com/track/1Cqpi7Rcf65jZlGNIizw2L"
+    },
+    {
+      "album": {
+        "name": "Tie Dye",
+        "url": "https://open.spotify.com/album/40E6nmBI9QotYRWQttJTbq"
+      },
+      "artists": [
+        {
+          "name": "BVDHI",
+          "url": "https://open.spotify.com/artist/4TNhxa3GHw0Fi0gBODRdES"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207644,
+      "name": "Tie Dye",
+      "url": "https://open.spotify.com/track/6ZxZOd4DlZe4QjKRomAyRa"
     },
     {
       "album": {
@@ -53657,7 +53831,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 156250,
       "name": "We Won't Forget",
       "url": "https://open.spotify.com/track/0GdQJXcJO0Akn5YBdqQYaD"

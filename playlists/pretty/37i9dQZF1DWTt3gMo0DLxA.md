@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Guntur Kaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,537 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,726 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 32 | [Pulsar Bike](https://open.spotify.com/track/48CzymfD7NHtc78cwVkbtD) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08qZ0FNkJSDN1Qd5w0pDxG) | 2:10 |
 | 33 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 34 | [Nenu Nuvvantu](https://open.spotify.com/track/4swLsRDd6VI5BB1dej03L3) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Nadeesh](https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE), [U.V.Jackey](https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn) | [Orange](https://open.spotify.com/album/6bCI1qj8z8YEE2WJkGMKnn) | 4:47 |
-| 35 | [Jinthaak Chithaka](https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/album/3SvbrLQNDgpWGWg1ldb3pJ) | 3:45 |
+| 35 | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/album/3SvbrLQNDgpWGWg1ldb3pJ) | 3:45 |
 | 36 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 |
 | 37 | [Apudo Ipudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
 | 38 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `MCxiM2E3NGU5NjNhZmNhZjA0NzhlNmU1ZWYzMjEyMTE2NjQyNmRhZmYx`
+Snapshot ID: `MCxkY2RlMmI3NzRkNDdmNjE5YmRkZWNlY2FiZGNlYjY4YmY4YTY0ODFi`

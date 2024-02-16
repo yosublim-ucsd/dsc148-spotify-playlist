@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,993 likes - 26 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,000 likes - 26 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 25 | [花が散る世界 \- Vocalized Version](https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 4:37 |
 | 26 | [風の行方 \- Vocalized Version](https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:11 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA4NDE0NjdhZjU0YTE5MDQ1OTgwYTRhN2MwNDU0NTk3MQ==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBkOTkzMjdjYzUzNTU1ZGI3NWJlYWMxMDIxNDM5ZmEzMQ==`

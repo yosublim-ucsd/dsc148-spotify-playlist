@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser autêntico vocês já sabem\. Foto: The Boy, LH CHUCRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,595 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,594 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 38 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 | 39 | [Aumentando os Lucros](https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:20 |
 | 40 | [Casaco Amiri](https://open.spotify.com/track/18q6sbTMSQGe4R7wn2mCKl) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Nova Tendência](https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS) | 2:22 |
-| 41 | [Nós É Rei Não Tem Jeito](https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Fontalis / Nós É Rei Não Tem Jeito](https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl) | 1:31 |
-| 42 | [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 |
+| 41 | [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 |
+| 42 | [Nós É Rei Não Tem Jeito](https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Fontalis / Nós É Rei Não Tem Jeito](https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl) | 1:31 |
 | 43 | [Ninfeta](https://open.spotify.com/track/4pKjfxqHzQSGnu8qdKBMQZ) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Atura ou Surta](https://open.spotify.com/album/54RH85tTcYsg1ao4HkDZKQ) | 2:09 |
 | 44 | [FILME MAFIOSO](https://open.spotify.com/track/3jDruglRjyE4P2aIZgtm8Y) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Cloudsnobeat](https://open.spotify.com/artist/4tSKK04OWnbdlhJday79wH) | [Bem\-vindo a Armadilha Brasileira](https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU) | 1:45 |
 | 45 | [4K4](https://open.spotify.com/track/6JdDmwEuwCU5Jlp23nJjJQ) | [4444K4444 ent](https://open.spotify.com/artist/4yKhbSfMp3G63fs4rvzjj2), [Mellog](https://open.spotify.com/artist/1UhTDFPOX9IA31NP5TCJxV), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [4K4](https://open.spotify.com/album/4lPYb7fPZqjRQdf0dXv2yo) | 1:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Centro de São Paulo](https://open.spotify.com/track/0yOc9p0JVvVX5zKBDPZAqm) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 4](https://open.spotify.com/album/3Lf4zUSuZ0ihmvpt72P8bx) | 2:53 |
 | 50 | [Fábrica de Jóia](https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 2:45 |
 
-Snapshot ID: `MCxmM2NkN2I0Y2Y1ODY3ZmQzNGFkZWUwMTljOTUzMWU4NzJlMmNlMmI3`
+Snapshot ID: `MCxjMjdjMjU3OGZkYmY0MDNiMzc1ZWIwYjFjMzg2NDM2ZDUwNzgyN2Ez`

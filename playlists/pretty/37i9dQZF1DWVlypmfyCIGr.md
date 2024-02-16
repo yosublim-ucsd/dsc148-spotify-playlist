@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: a子
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,266 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,273 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 |
 | 80 | [普通ってなんだよ](https://open.spotify.com/track/6rqDDrdLlqiwQb1CskT7Vx) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス13](https://open.spotify.com/album/5IpiTPcN9x0lGWZtuFNSTP) | 4:05 |
 
-Snapshot ID: `MCxjNDhiZjNhYzE0YTRkZThlZDVlM2RkZGMxZTI5OTQzYTBiNmQwOTdl`
+Snapshot ID: `MCxhMmIwOThhMjI5OGQ1NmQ5NTIzNzRhYTAwMzg1YjkzMjczMjkzOGZj`

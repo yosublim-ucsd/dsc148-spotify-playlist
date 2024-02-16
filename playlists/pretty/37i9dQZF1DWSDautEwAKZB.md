@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,093 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,095 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 31 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 32 | [O Mundo Dá Voltas \- Spotify Singles](https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas \(Spotify Singles\)](https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s) | 3:06 |
 | 33 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
-| 34 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
-| 35 | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD) | 3:14 |
-| 36 | [Imitadora \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:34 |
+| 34 | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD) | 3:14 |
+| 35 | [Imitadora \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:34 |
+| 36 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
 | 37 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 |
 | 38 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 |
 | 39 | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1) | 2:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 69 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 |
 | 70 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
 
-Snapshot ID: `MCwwNjkwZDNlNzM3Yzc0N2U2YjQzYzNkNTYxMGY1MjlkOTA4NjBiNGJi`
+Snapshot ID: `MCxjOWVlNTMxZGY5NWU4MzI2ZTg3OTM5NWU3NTRhNTZmYjZjOGZlOTBk`

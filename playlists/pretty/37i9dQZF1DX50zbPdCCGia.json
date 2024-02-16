@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 235620,
+  "num_followers": 235696,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWQ3YTExNzljOWQ4ZWI5ODMzZTZhYWEzNmI4MDBiMmVlMzcxZDEy",
+  "snapshot_id": "MCxjOTlhMDg0MDI1MTA0ZjQ3ZDI1Mzc4YTBiMzE1YTcyYTg3NDk1ZTVm",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
+      "duration_ms": 354240,
+      "name": "Silly Love Songs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Wings At The Speed Of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 354240,
-      "name": "Silly Love Songs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
     },
     {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
       "added_at": "2023-03-29 20:20:24",
       "album": {
         "name": "Endless Flight",
@@ -667,6 +651,22 @@
       "duration_ms": 219466,
       "name": "You Make Me Feel Like Dancing - Remastered",
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Year of the Cat",
-        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 400066,
-      "name": "Year of the Cat",
-      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "French Kiss",
         "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 178693,
       "name": "Sentimental Lady",
       "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Year of the Cat",
+        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 400066,
+      "name": "Year of the Cat",
+      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "What Were Once Vices Are Now Habits",
-        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Another Park, Another Sunday",
-      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 195160,
       "name": "Song Sung Blue - Single Version",
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Another Park, Another Sunday",
+      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
     },
     {
       "added_at": "2023-03-29 17:34:27",

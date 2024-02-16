@@ -4,13 +4,13 @@
 
 > Dale play, y que la cumbia no pare.
 
-151 songs - 9 hr 13 min
+152 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alcen las Manos](https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:14 | 2022-04-15 | 2022-07-28 |
 | [Alza las manos](https://open.spotify.com/track/5x5p0KnLpo4risHjqRjD1o) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:35 | 2022-04-15 | 2022-07-13 |
-| [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 | 2022-04-15 |  |
+| [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 | 2022-04-15 | 2024-02-16 |
 | [Amores Como el Nuestro](https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [corazon de papel](https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4) | 3:16 | 2022-04-15 | 2022-07-29 |
 | [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 | 2022-07-22 |  |
 | [Andrea](https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 4:09 | 2022-04-15 |  |
@@ -67,6 +67,7 @@
 | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/track/5Ed4IftU2YrSPCjIbUfwQg) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/album/3SPUu8pxUz5yZsXXi1WjKM) | 5:40 | 2023-06-16 |  |
 | [Llorarás Más De Diez Veces](https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aún Sigue La Lección](https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D) | 3:31 | 2022-04-15 | 2023-03-13 |
 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 | 2023-03-10 |  |
+| [Lo' Borrachos](https://open.spotify.com/track/6tmAF5lerIPsnbseSvG44j) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:14 | 2023-09-26 |  |
 | [Loco Perdido](https://open.spotify.com/track/5bb10YUAPAOlSWCEEQw5Lk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Loco Perdido](https://open.spotify.com/album/6AhzF12Pr3A6h39TPAB2j3) | 3:17 | 2022-04-15 | 2022-07-01 |
 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 | 2022-04-15 |  |
 | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI) | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U) | 3:18 | 2022-04-15 | 2022-07-08 |

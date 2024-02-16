@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-714 songs - 1 day 8 hr 8 min
+715 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [NOTE](https://open.spotify.com/track/25dGr8RF6IMLHkzgHgE3Xl) | [Isaz](https://open.spotify.com/artist/2QKgJH2C0AY4KGrmn7bczD) | [Number5](https://open.spotify.com/album/3YrXxyLoT9M9WUaqlebgpq) | 2:05 | 2022-03-31 | 2022-04-09 |
 | [NTME Route 3](https://open.spotify.com/track/1JNKSKnWatoAHXtKl6CjdJ) | [DJ MASTERKEY](https://open.spotify.com/artist/2dg4DEZAnPRb0F8By56AYZ), [ONODUB](https://open.spotify.com/artist/6kQH7BRX0SMB7OlSRr6IeA) | [SUMMER BREEZE](https://open.spotify.com/album/0BYO0GnScDav439GPw8GiP) | 2:54 | 2023-08-01 | 2023-10-26 |
 | [Nujabest](https://open.spotify.com/track/2h5AdIzimnGEaT8EToDcQb) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Nujabest](https://open.spotify.com/album/7M1n4PgrCJoFKhdMqT1Xj2) | 0:54 | 2022-03-24 | 2022-04-16 |
+| [oak](https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [oak](https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg) | 2:10 | 2024-02-15 |  |
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 | 2023-04-16 |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 |  |
@@ -630,7 +631,7 @@
 | [tears](https://open.spotify.com/track/4nencs47cFrR4MOTSx1OgK) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNAII](https://open.spotify.com/album/6rScN72pRIcQkYn9YJpHgF) | 2:24 | 2024-01-25 |  |
 | [temptation](https://open.spotify.com/track/4JPnlef6iWbmpmDoEXZcRe) | [4ten](https://open.spotify.com/artist/4eu1vzFHLQk5a5vV4omCe3) | [temptation](https://open.spotify.com/album/4dbGZLA8Q1WP4gkvqHB53N) | 3:38 | 2022-07-21 | 2023-03-04 |
 | [Tequila at midnight](https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Bar counter](https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB) | 1:52 | 2022-02-03 | 2022-09-19 |
-| [thank you](https://open.spotify.com/track/2HC8XxoSzx8u1fy0F2sRtZ) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/49mMypOEixRaJ26rZGbvnI) | 4:15 | 2024-02-06 |  |
+| [thank you](https://open.spotify.com/track/2HC8XxoSzx8u1fy0F2sRtZ) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/49mMypOEixRaJ26rZGbvnI) | 4:15 | 2024-02-06 | 2024-02-16 |
 | [Thankful](https://open.spotify.com/track/4EedntG2oTsHGjDNVldyqj) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn) | [Wake Up](https://open.spotify.com/album/5QIRw20KA0LEOTVBhUm5VE) | 2:00 | 2022-03-31 | 2022-04-16 |
 | [The Answer \(from\)](https://open.spotify.com/track/2lrMcnt8NOLKyVvYgJIpd3) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [The Answer](https://open.spotify.com/album/4akg02EFGvrpQePOCgo6iO) | 2:24 | 2021-12-23 | 2022-01-27 |
 | [The Black Cat](https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [The Black Cat](https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H) | 1:52 | 2021-12-23 |  |

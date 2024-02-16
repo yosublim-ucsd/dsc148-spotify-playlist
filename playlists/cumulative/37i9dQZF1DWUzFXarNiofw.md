@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Aqyila
 
-2,029 songs - 4 day 11 hr 58 min
+2,030 songs - 4 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,7 +1153,8 @@
 | [Mrs\. Postman](https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Mrs\. Postman](https://open.spotify.com/album/6ku3r5n7dUQAXadxQ9ggZe) | 4:08 | 2023-09-29 | 2023-11-11 |
 | [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 | 2023-01-20 | 2023-03-04 |
 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 | 2023-06-16 | 2023-08-19 |
-| [Music Taste](https://open.spotify.com/track/2BB8jYi1XBZm6i6fdPj7cl) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [ACT II](https://open.spotify.com/album/5440kRKuikdmJwOiH0KCPm) | 3:03 | 2024-02-09 |  |
+| [Music Taste](https://open.spotify.com/track/1X8IP5QvP7KDhi7qcBn3oj) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [ACT II](https://open.spotify.com/album/7dGOiilztnCxyDFDZ25oEn) | 3:03 | 2024-02-09 |  |
+| [Music Taste](https://open.spotify.com/track/2BB8jYi1XBZm6i6fdPj7cl) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [ACT II](https://open.spotify.com/album/5440kRKuikdmJwOiH0KCPm) | 3:03 | 2024-02-09 | 2024-02-16 |
 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 | 2023-08-04 | 2023-09-23 |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-17 | 2023-02-25 |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-23 | 2023-09-02 |

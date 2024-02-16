@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1161226,
+  "num_followers": 1161341,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZThiMWM5NTcyMzc1ZWM5ODBmNTlkYmYzNDU4ZTMwZjg0Mjc2OTY4",
+  "snapshot_id": "MCwwODQ4MWU1YmFkNTBlZTBiNTBlNDZjZjE0MzUxODIzZDc3MTEzZmVi",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -363,34 +347,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Theatre of Pain",
-        "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+      "duration_ms": 272133,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -411,6 +379,38 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Theatre of Pain",
+        "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Private Dancer (30th Anniversary Issue)",
         "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Frontiers (2023 Remaster)",
         "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 266946,
       "name": "Faithfully (2023 Remaster)",
       "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275395,
-      "name": "Here I Go Again - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Take My Breath Away",
         "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Third Stage",
-        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
         }
       ],
-      "duration_ms": 256200,
-      "name": "Amanda",
-      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
+      "duration_ms": 275395,
+      "name": "Here I Go Again - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 299653,
       "name": "Who's Crying Now (2022 Remaster)",
       "url": "https://open.spotify.com/track/4KWzsYmXYYbTjb4tYxulvd"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Third Stage",
+        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Steelheart",
-        "url": "https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ"
-      },
-      "artists": [
-        {
-          "name": "STEELHEART",
-          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
-        }
-      ],
-      "duration_ms": 392400,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/2Ap6ZjicxxcWvit5ZRYQxk"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 316466,
       "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
       "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Steelheart",
+        "url": "https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ"
+      },
+      "artists": [
+        {
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+        }
+      ],
+      "duration_ms": 392400,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/2Ap6ZjicxxcWvit5ZRYQxk"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 284496,
       "name": "Is This Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/1xqVri47rxr9oRpUgJa8rf"
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/1xqVri47rxr9oRpUgJa8rf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1115,6 +1115,22 @@
       "duration_ms": 268853,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2t8hAwOuHbNOl76LBWMU0R"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "Til Death Do Us Part",
-      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
       },
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+      "duration_ms": 295066,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Harem Scarem",
-        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
-      },
-      "artists": [
-        {
-          "name": "Harem Scarem",
-          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Mass Slaughter: The Best Of Slaughter",
         "url": "https://open.spotify.com/album/3eefJebHQxT81kCOMr41l4"
       },
@@ -1391,8 +1375,24 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+        "name": "Harem Scarem",
+        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
+      },
+      "artists": [
+        {
+          "name": "Harem Scarem",
+          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
       },
       "artists": [
         {
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 295066,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ"
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2024-02-02 05:00:00",

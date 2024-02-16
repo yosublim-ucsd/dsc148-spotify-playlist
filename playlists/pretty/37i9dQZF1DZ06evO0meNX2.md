@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,139 likes - 27 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 27 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 12 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
 | 13 | [Blindado El Carro](https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:09 |
 | 14 | [D.M.8.](https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [D.M.8.](https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ) | 4:31 |
-| 15 | [Relojito Adiamantado](https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh) | 2:57 |
-| 16 | [Flotando En El Aire](https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu) | 3:04 |
-| 17 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
+| 15 | [C.H.S.M](https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [C.H.S.M](https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg) | 2:18 |
+| 16 | [Relojito Adiamantado](https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh) | 2:57 |
+| 17 | [Flotando En El Aire](https://open.spotify.com/track/31ALhJGk2ocTcRypwmoHiK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Flotando En El Aire](https://open.spotify.com/album/2obg4V6U48NHQ8ytR6MrQu) | 3:04 |
 | 18 | [Los Hermanos](https://open.spotify.com/track/3ZAWnRZ9STLvBSBxoheC9H) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/0old6hxis8rO7QgKH7Rw5d) | 3:37 |
 | 19 | [Hablen](https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:43 |
 | 20 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 26 | [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 |
 | 27 | [Chavo Félix](https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:46 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA0MzMxM2Q2ZTkxODY2Y2E1ZTI2M2RlZGE4M2RlYjY4OA==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBkMGZkOTdiYjhhNjNkZGEwMmU3MTMyOTg3MGMxMDlkMA==`

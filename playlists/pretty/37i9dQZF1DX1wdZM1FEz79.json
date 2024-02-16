@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bOld Yearning(\uc61b\uadf8\ub9ac\uc6c0)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 284467,
+  "num_followers": 284515,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1YTNkNzQzYzM5NTExMGQ5ODY2YzYyY2VlN2E0OTRmODU0MzA0",
+  "snapshot_id": "MCxlODA0MjY4MDcyMjA0ODAzZWRmN2RkZjJlNDcwZGNmZGI0YTg5ZTEx",
   "tracks": [
     {
       "added_at": "2024-02-13 08:25:09",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
+    },
+    {
+      "added_at": "2024-02-13 08:25:09",
+      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 151733,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
-    },
-    {
-      "added_at": "2024-02-13 08:25:09",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
     },
     {
       "added_at": "2024-02-13 08:25:09",
@@ -155,22 +155,6 @@
       "duration_ms": 228173,
       "name": "Ordinary Confession",
       "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
-    },
-    {
-      "added_at": "2024-02-13 08:25:09",
-      "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
     },
     {
       "added_at": "2024-02-13 08:25:09",
@@ -227,6 +211,22 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "added_at": "2024-02-13 08:25:09",
+      "album": {
         "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
         "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
       },
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
-    },
-    {
-      "added_at": "2024-02-13 08:25:09",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 226083,
       "name": "Maze in the Mirror",
       "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
+    },
+    {
+      "added_at": "2024-02-13 08:25:09",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
     },
     {
       "added_at": "2024-02-13 08:25:09",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2024-02-13 08:25:09",
-      "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2024-02-13 08:25:09",
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Si Fueras M\u00eda",
-      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2024-02-13 08:25:09",
@@ -579,6 +563,22 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "added_at": "2024-02-13 08:25:09",
+      "album": {
         "name": "See you",
         "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+      "duration_ms": 237106,
+      "name": "Si Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
     },
     {
       "added_at": "2024-02-13 08:25:09",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-02-13 08:25:09",
       "album": {
+        "name": "I AM SAM",
+        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 258961,
+      "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
+    },
+    {
+      "added_at": "2024-02-13 08:25:09",
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 192293,
       "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
       "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
-    },
-    {
-      "added_at": "2024-02-13 08:25:09",
-      "album": {
-        "name": "I AM SAM",
-        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 258961,
-      "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

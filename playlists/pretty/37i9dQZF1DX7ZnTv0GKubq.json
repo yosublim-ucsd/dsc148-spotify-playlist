@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 361294,
+  "num_followers": 361370,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWY3OTdkZDM2NWZhMWRlYmM1N2M3NDFmNTBmZWI3NGIyZmVmOTg4",
+  "snapshot_id": "MCxmMWJmY2JkZmZmMjIyYjcxZGMwZjRhMjZkMjZmZWQwYTIzMGU2MTZh",
   "tracks": [
     {
       "added_at": "2023-11-24 11:28:11",
@@ -271,22 +271,18 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Hu Man",
         "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 203240,
       "name": "Hu Man",
       "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2023-11-24 11:28:11",

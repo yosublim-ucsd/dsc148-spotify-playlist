@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Immortal Technique
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,655 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,829 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 26 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
 | 27 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
 | 28 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
-| 29 | [Boom \- Explicit Album Version](https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT) | 3:53 |
-| 30 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
+| 29 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
+| 30 | [Boom \- Explicit Album Version](https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT) | 3:53 |
 | 31 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
 | 32 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 |
 | 33 | [B\-Boy Document '99](https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [Mad Skillz](https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Home Field Advantage](https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF) | 3:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 43 | [Much More \(feat\. Yummy\)](https://open.spotify.com/track/4bMbppqbPCaVWxr4NjTRyp) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Yummy](https://open.spotify.com/artist/3EPDUft8JXlRTIsrNqfFDS) | [The Grind Date](https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR) | 4:05 |
 | 44 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
 | 45 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
-| 46 | [Reality Check](https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU) | [Binary Star](https://open.spotify.com/artist/1bulNj9KHvx8haqJBFDSyz), [Senim](https://open.spotify.com/artist/0Df5gzL6quFRUanH7J8yNe), [Onemanarmy](https://open.spotify.com/artist/5hFUdo03JPEWYkusqTwjiX), [One Be Lo](https://open.spotify.com/artist/2wQR86xNE8mkPaffnClYAj) | [Masters of the Universe](https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK) | 4:01 |
-| 47 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
-| 48 | [Little Brother](https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 4:01 |
+| 46 | [Little Brother](https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 4:01 |
+| 47 | [Reality Check](https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU) | [Binary Star](https://open.spotify.com/artist/1bulNj9KHvx8haqJBFDSyz), [Senim](https://open.spotify.com/artist/0Df5gzL6quFRUanH7J8yNe), [Onemanarmy](https://open.spotify.com/artist/5hFUdo03JPEWYkusqTwjiX), [One Be Lo](https://open.spotify.com/artist/2wQR86xNE8mkPaffnClYAj) | [Masters of the Universe](https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK) | 4:01 |
+| 48 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 | 49 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 | 50 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
 
-Snapshot ID: `MCw2OTFmN2NmYmI0MWI0MWVkZGI2NTBjMGE3YjE1NjljMDJjNmY3ZTMy`
+Snapshot ID: `MCw4NTlhZGEyNmVkZjM4MjBjMThlYjRhOThmN2JjN2RlODcwNDc0Mjk4`

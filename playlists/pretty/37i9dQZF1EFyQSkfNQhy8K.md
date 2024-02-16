@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,690 likes - 139 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,691 likes - 139 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 18 | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC) | 4:16 |
 | 19 | [Dumebi](https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 2:59 |
 | 20 | [Maldita Foto](https://open.spotify.com/track/1v5vVHgk25NTXz97R7T7uJ) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 3:10 |
-| 21 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
-| 22 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
+| 21 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
+| 22 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
 | 23 | [Pa Ti](https://open.spotify.com/track/4AuVISGGuyTc1XstdrJ8Xu) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:50 |
 | 24 | [Piropo](https://open.spotify.com/track/3ltZpTagx93zE54eTG5NBh) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 3:40 |
 | 25 | [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 76 | [My Man](https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man](https://open.spotify.com/album/2ijwTbKXn46QZEfekW01fC) | 2:57 |
 | 77 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 |
 | 78 | [Bebé](https://open.spotify.com/track/1nJlNCRsYvmP8e91qQ2jop) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:55 |
-| 79 | [GUAPA](https://open.spotify.com/track/6ITr6ssOIerjd3azRaL7A8) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
-| 80 | [RDC](https://open.spotify.com/track/48FhKMV4r50qBfpbZugaPv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:32 |
+| 79 | [RDC](https://open.spotify.com/track/48FhKMV4r50qBfpbZugaPv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:32 |
+| 80 | [GUAPA](https://open.spotify.com/track/6ITr6ssOIerjd3azRaL7A8) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 81 | [Funk Total: Vai danada](https://open.spotify.com/track/2B0m7HYBaT5alq24RHSLhg) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Funk Total: Vai danada](https://open.spotify.com/album/0yLHbBPsTZQaibDA5DOkyC) | 2:44 |
 | 82 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
 | 83 | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/track/39ezu6wWxEDAdboRfcjxzO) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/album/2wGhjjn7Znpu8PZ22TojDk) | 3:14 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 138 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 139 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `Mjg0NjYwNjAsMDAwMDAwMDA1MWIyNTAzMjA2MTVhOGVjOWI3Y2VkMmMyNjcyNmI3ZQ==`
+Snapshot ID: `Mjg0Njc1MDAsMDAwMDAwMDAxNGQ2MjE0NGM0YmJjNGVmNTViZDVjNTU1Nzc2OTQ3MQ==`

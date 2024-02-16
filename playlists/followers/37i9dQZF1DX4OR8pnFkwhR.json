@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 67434,
+  "2024-02-16": 67437,
   "date_first_scraped": "2022-02-21",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: MFS",
   "name": "RADAR: Early Noise ",
@@ -1147,6 +1147,24 @@
       "duration_ms": 198233,
       "name": "Awesome Day",
       "url": "https://open.spotify.com/track/5XNEnGFGKjeWgaVRvP4wq8"
+    },
+    {
+      "album": {
+        "name": "Takaramono",
+        "url": "https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe"
+      },
+      "artists": [
+        {
+          "name": "UNFAIR RULE",
+          "url": "https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71853,
+      "name": "Baaka!",
+      "url": "https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N"
     },
     {
       "album": {
@@ -5726,6 +5744,24 @@
     },
     {
       "album": {
+        "name": "soumonka",
+        "url": "https://open.spotify.com/album/3Pouyk2DDjYXqJ2P4p6zRf"
+      },
+      "artists": [
+        {
+          "name": "Sokoninaru",
+          "url": "https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Hokoronde Hazereba",
+      "url": "https://open.spotify.com/track/1oBxcP18dseo8fUfC1Aya5"
+    },
+    {
+      "album": {
         "name": "HOLD ME",
         "url": "https://open.spotify.com/album/5AtZuvYmwLB1PRAMcg8g1X"
       },
@@ -6953,6 +6989,24 @@
       "duration_ms": 196007,
       "name": "koi",
       "url": "https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ"
+    },
+    {
+      "album": {
+        "name": "Koi suru wakusei \"Anata\"",
+        "url": "https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208309,
+      "name": "Koi suru wakusei \"Anata\"",
+      "url": "https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u"
     },
     {
       "album": {
@@ -10270,6 +10324,24 @@
     },
     {
       "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "Prepare Yourself!",
+      "url": "https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz"
+    },
+    {
+      "album": {
         "name": "Pretty in pink",
         "url": "https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH"
       },
@@ -11173,7 +11245,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 245769,
       "name": "Saiai No Yukue.",
       "url": "https://open.spotify.com/track/2hTcj0PSKDczMBV2DtwQhP"
@@ -12419,6 +12491,24 @@
       "duration_ms": 280500,
       "name": "Spirit & Gravity",
       "url": "https://open.spotify.com/track/1g2hPwrbL8y0iFKnUveXnC"
+    },
+    {
+      "album": {
+        "name": "HEROINE",
+        "url": "https://open.spotify.com/album/7yedhW1TyJzp5aRjNBP1qj"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "spotkaranigete",
+      "url": "https://open.spotify.com/track/6YhHCFF7wJvCT0V2PP1Kzn"
     },
     {
       "album": {
@@ -18349,7 +18439,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 189946,
       "name": "\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u306b\u3052\u3066",
       "url": "https://open.spotify.com/track/3P13EH5Nu3LEMfIOHLlW6z"
@@ -22091,7 +22181,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208309,
       "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
@@ -24757,7 +24847,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 185200,
       "name": "\u7dbb\u3093\u3067\u7206\u305c\u308c\u3070",
       "url": "https://open.spotify.com/track/7AR7JOUrnNIIUfGNP4zga1"
@@ -25147,7 +25237,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P"

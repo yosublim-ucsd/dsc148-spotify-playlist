@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: SPYAIR
 
-104 songs - 6 hr 34 min
+105 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,10 @@
 | [GRAYSCALE DOMINATOR](https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL) | 3:31 | 2023-10-05 | 2024-02-14 |
 | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 | 2023-10-03 | 2023-10-19 |
 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 | 2023-08-03 |  |
-| [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 | 2023-08-03 |  |
+| [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 | 2023-08-03 | 2024-02-16 |
 | [Hero's Come Back!!](https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:54 | 2023-08-29 | 2023-09-27 |
 | [Himitsu](https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Himitsu](https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a) | 3:27 | 2023-10-03 | 2023-11-02 |
+| [HOMIES](https://open.spotify.com/track/4C1eOihu4oJbDsJaLwSCV8) | [chirp×chirp](https://open.spotify.com/artist/6Uh9mQYEj5uW5RCVFmaskK) | [HOMIES](https://open.spotify.com/album/2alp1EFAby3nr1FanaNFaK) | 3:39 | 2024-02-15 |  |
 | [Hyper](https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4) | 4:17 | 2023-10-03 | 2023-10-05 |
 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 | 2023-10-03 | 2023-12-09 |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2023-08-03 |  |

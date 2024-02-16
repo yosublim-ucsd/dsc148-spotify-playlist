@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,688 likes - 100 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,720 likes - 100 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 77 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 |
 | 78 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 |
 | 79 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville \(Deluxe\)](https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe) | 8:29 |
-| 80 | [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 |
+| 80 | [Cry a Little \- Live](https://open.spotify.com/track/61iTGJ7XEsfUmWU0LVWUP5) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/2mkgrkkX7uzF9knmItpSvL) | 4:16 |
 | 81 | [Damn Right, I've Got The Blues \- Live at New Orleans Jazz & Heritage Festival, 2014](https://open.spotify.com/track/0Jt849xbK5RTJt8UORof5A) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Live at New Orleans Jazz & Heritage Festival, 2014](https://open.spotify.com/album/6DkHonUCVueVdmATd2NmGv) | 4:16 |
 | 82 | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X) | 6:13 |
 | 83 | [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `MCwzYjg1YzJkNGI3YmVmZDZjYTIzMmNlNTcxMGJlNmYyMmU3ZDMwN2Rm`
+Snapshot ID: `MCw1YTg0MzQ0ZTJlNzgwMDA4NTk4OTJkOTY4ZGRmZmUwY2VkZmYxYmRh`

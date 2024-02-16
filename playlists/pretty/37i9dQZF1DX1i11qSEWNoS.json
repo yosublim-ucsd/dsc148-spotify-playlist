@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 555325,
+  "num_followers": 555513,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTM4NzY4YTc0MzUyNDc3NGNhNmM5NDkzOWFkZTE0MzhmYzIwMmMx",
+  "snapshot_id": "MCw3ODZmMGU3ZWU2Y2QzYTViMGU1MjYxYjI1Nzg4MjRlODJlN2E0OGY2",
   "tracks": [
     {
       "added_at": "2024-02-09 15:10:06",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "3 Haseln\u00fcsse",
-        "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
-      },
-      "artists": [
-        {
-          "name": "Jaques Raup\u00e9",
-          "url": "https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T"
-        },
-        {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "3 Haseln\u00fcsse",
-      "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -523,6 +503,46 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
+        "name": "3 Haseln\u00fcsse",
+        "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
+      },
+      "artists": [
+        {
+          "name": "Jaques Raup\u00e9",
+          "url": "https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "duration_ms": 148797,
+      "name": "3 Haseln\u00fcsse",
+      "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
@@ -535,30 +555,6 @@
       "duration_ms": 150000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        },
-        {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -587,42 +583,26 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "Derni\u00e8re danse (Techno Mix)",
-        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
       },
       "artists": [
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        },
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Derni\u00e8re danse - Techno Mix",
-      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
-        "name": "Liebe Gr\u00fcsse",
-        "url": "https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
         {
           "name": "Ski Aggu",
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
         }
       ],
-      "duration_ms": 136988,
-      "name": "Liebe Gr\u00fcsse",
-      "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -651,6 +631,26 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
+        "name": "Liebe Gr\u00fcsse",
+        "url": "https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 136988,
+      "name": "Liebe Gr\u00fcsse",
+      "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 155070,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
         "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
         "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 125032,
       "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
       "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 155070,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
         "name": "ECHT (Techno Mix)",
         "url": "https://open.spotify.com/album/6EOe0HCjcuiOImjKJ7yAzR"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 124327,
       "name": "ECHT - Techno Mix",
       "url": "https://open.spotify.com/track/2Pyfpd75r3dC3nDgVA4fnX"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
         "name": "Alles ist relativ",
         "url": "https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
-        "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
-      },
-      "artists": [
-        {
-          "name": "SDP",
-          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
-        },
-        {
-          "name": "IIVEN",
-          "url": "https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq"
-        },
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
-      "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
+        "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
+        "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "IIVEN",
+          "url": "https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
+      "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "CHASE THE SUN",
-        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
-      },
-      "artists": [
-        {
-          "name": "TurboKevin",
-          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "CHASE THE SUN",
-      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
         "name": "ONLY 4 LIFE (Remix)",
         "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
+        "name": "CHASE THE SUN",
+        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
+      },
+      "artists": [
+        {
+          "name": "TurboKevin",
+          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
+        }
+      ],
+      "duration_ms": 211288,
+      "name": "CHASE THE SUN",
+      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "Turn All The Lights On",
-        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 137569,
-      "name": "Turn All The Lights On",
-      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
+        "name": "Turn All The Lights On",
+        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 137569,
+      "name": "Turn All The Lights On",
+      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
+        "name": "Feels Like (La La La)",
+        "url": "https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Julia Kleijn",
+          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Feels Like (La La La)",
+      "url": "https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP"
+    },
+    {
+      "added_at": "2024-02-09 15:10:06",
+      "album": {
         "name": "Next!",
         "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 153826,
       "name": "Girl You Know It's True - Remix",
       "url": "https://open.spotify.com/track/5EUgF7uFtHByMB95zgf1ek"
-    },
-    {
-      "added_at": "2024-02-09 15:10:06",
-      "album": {
-        "name": "Feels Like (La La La)",
-        "url": "https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn"
-      },
-      "artists": [
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "Julia Kleijn",
-          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Feels Like (La La La)",
-      "url": "https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP"
     },
     {
       "added_at": "2024-02-09 15:10:06",
@@ -1807,34 +1807,26 @@
     {
       "added_at": "2024-02-09 15:10:06",
       "album": {
-        "name": "TABU RMX",
-        "url": "https://open.spotify.com/album/1tZuWiSl8PJUq8DHZcVYn7"
+        "name": "TiK ToK",
+        "url": "https://open.spotify.com/album/6PD3DjdKC7ftjnFsj1IUlx"
       },
       "artists": [
         {
-          "name": "Yung Yury",
-          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         },
         {
-          "name": "Lena",
-          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
         },
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Damn Yury",
-          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+          "name": "MetaBoy",
+          "url": "https://open.spotify.com/artist/0vyHUIFawbTNM2a7W7JqZe"
         }
       ],
-      "duration_ms": 138181,
-      "name": "TABU RMX",
-      "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"
+      "duration_ms": 123680,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/4Fh76hS27ZgzK0or8eP2qQ"
     },
     {
       "added_at": "2024-02-09 15:10:06",

@@ -4,11 +4,11 @@
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
 
-138 songs - 9 hr 47 min
+139 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 |  |
+| [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 | 2021-10-15 | 2024-02-16 |
 | [1\-800\-GHOST\-DANCE](https://open.spotify.com/track/135UPaNucXPVEKvwdRczfM) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:44 | 2021-10-15 | 2022-05-21 |
 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 | 2021-10-15 | 2023-08-30 |
 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 | 2023-08-09 |  |
@@ -124,6 +124,7 @@
 | [That's Git](https://open.spotify.com/track/3XY1XnhE0QjPUZqpIb7GDn) | [Olde Pine](https://open.spotify.com/artist/1jvXgRFagbj6jaZQlzwokx) | [The EPs](https://open.spotify.com/album/6a6At1Djmp0LHbmFfaOUHI) | 5:04 | 2022-05-20 |  |
 | [That's Git](https://open.spotify.com/track/4iGnjVwzG8nkT8Gh8Elnwg) | [Olde Pine](https://open.spotify.com/artist/1jvXgRFagbj6jaZQlzwokx) | [Reservoir & the Steve French](https://open.spotify.com/album/2HkfdB4TxpAZTY4TNsrsLP) | 5:04 | 2021-10-15 | 2022-07-29 |
 | [The Barnacle Beach](https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [The Plural Of The Choir](https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8) | 2:45 | 2021-10-15 | 2024-01-12 |
+| [The Barnacle Beach](https://open.spotify.com/track/6XdQGjYnnVjcDmvVrY10Vg) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [Deep Elm Records Sampler 6 \- The New Crazy](https://open.spotify.com/album/6zwUfvVja6ujpQg9hkZkwM) | 2:49 | 2024-01-19 |  |
 | [The Detail](https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Spring Island](https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh) | 4:29 | 2023-08-09 |  |
 | [The Yabba](https://open.spotify.com/track/7eGKgpVkNraiJtJHL4CC1n) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [La Di Da Di](https://open.spotify.com/album/5EKVDFC9xHXLrT90ym194g) | 6:49 | 2021-10-15 | 2022-05-21 |
 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2021-10-15 | 2022-05-21 |

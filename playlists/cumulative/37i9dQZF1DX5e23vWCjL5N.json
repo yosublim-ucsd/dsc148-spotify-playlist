@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "La Pace \u00c8 La Risposta",
+        "url": "https://open.spotify.com/album/7K8vME5lUhdNi5rfuaHDjc"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205724,
+      "name": "La Pace \u00c8 La Risposta",
+      "url": "https://open.spotify.com/track/7nadpBZq56D2Kl4QRn1WMn"
+    },
+    {
+      "album": {
         "name": "Lacrima (feat. Vegas Jones)",
         "url": "https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0"
       },

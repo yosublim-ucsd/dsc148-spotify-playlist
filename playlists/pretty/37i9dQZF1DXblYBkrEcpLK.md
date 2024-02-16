@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,041 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,083 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 20 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 21 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 22 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 |
-| 23 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
+| 23 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 |
 | 24 | [クラクラ](https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:11 |
-| 25 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 |
+| 25 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
 | 26 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 |
 | 27 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 |
 | 28 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 33 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 |
 | 34 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 |
 | 35 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
-| 36 | [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 |
-| 37 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 |
+| 36 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 |
+| 37 | [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 |
 | 38 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
 | 39 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 |
 | 40 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI) | 3:31 |
 | 50 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 |
 
-Snapshot ID: `MCw5M2FhZWM0NmExOWU5MDVmMDY1ZjRlZTY0NDQwYzExNzkwYmRhZjg5`
+Snapshot ID: `MCwyY2U3MDQwN2ViOWNlMWU4M2JiZmFhMmRlYzZmNDkyMWI4YzdlNjJi`

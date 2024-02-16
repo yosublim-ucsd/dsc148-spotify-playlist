@@ -4,7 +4,7 @@
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-90 songs - 4 hr 53 min
+91 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Arab Trap: Made in Egypt](https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap: Made in Egypt](https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7) | 2:34 | 2021-11-09 |  |
 | [Arabian Drift](https://open.spotify.com/track/5qNdv1WPksgm2F87wzznPi) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:35 | 2021-11-09 |  |
 | [Ares](https://open.spotify.com/track/09Ltdtsh3FFIGAppCJj0HD) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/6ITmhXGA9NdbKI60F9N8Cx) | 3:09 | 2021-11-09 | 2024-01-24 |
+| [Ares](https://open.spotify.com/track/4Fa8BBKeIaTxA8R4jit9Br) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/2ysFk1FyyHVRDjFmN1Phu7) | 3:09 | 2023-02-17 |  |
 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 | 2021-11-09 |  |
 | [Dam](https://open.spotify.com/track/0ptmm2MFQXuGjWTix8yx9K) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Dam](https://open.spotify.com/album/5I15j6rtNdviAPqcTQ5SJn) | 2:14 | 2021-11-09 | 2022-07-29 |
 | [Dam](https://open.spotify.com/track/1App8pyno1hjzhyOelLCEH) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Dam](https://open.spotify.com/album/5O4dEF4J39Q8I9yyk6Aorn) | 2:14 | 2022-04-07 | 2022-07-31 |
@@ -38,7 +39,7 @@
 | [GHADAB](https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [GHADAB](https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG) | 2:31 | 2021-11-09 | 2022-12-03 |
 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 | 2021-11-09 |  |
 | [Hawa \(Arab Trap 8\)](https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q), [NGM](https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn) | [Hawa \(Arab Trap 8\)](https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH) | 2:44 | 2022-09-30 |  |
-| [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 | 2021-11-09 |  |
+| [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 | 2021-11-09 | 2024-02-16 |
 | [Illumine \- Original Mix](https://open.spotify.com/track/3HvRFELeWQ5ib6G5w9wvJi) | [Darko De Jan](https://open.spotify.com/artist/4JMknrStbwkcRZavaIEjrA) | [Illumine](https://open.spotify.com/album/2eLdRmXRzyfdL2oXIT0qNH) | 6:49 | 2021-11-09 | 2022-04-07 |
 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 | 2021-11-09 |  |
 | [Iridescent](https://open.spotify.com/track/3tSXfcyjjTBGNpioM2kROi) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Iridescent](https://open.spotify.com/album/6snWmNIcu63syKpKREGM2Q) | 2:56 | 2023-02-17 |  |

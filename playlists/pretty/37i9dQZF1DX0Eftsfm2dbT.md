@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  千葉雄喜
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,572 likes - 86 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,635 likes - 86 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Team Tomodachi](https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR) | [Team Tomodachi](https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj) | 2:32 |
 | 2 | [TOKYO DOME CYPHER](https://open.spotify.com/track/7x2zWQr89lUM17gvy3IxTH) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP](https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn) | 3:54 |
-| 3 | [Got It All](https://open.spotify.com/track/0QrK8fBYh1zsTnQspFx3ba) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 2:31 |
+| 3 | [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 |
 | 4 | [DOG YEAR \(feat\. Benjazzy\)](https://open.spotify.com/track/13loC6YVez2PIus6j0mWr6) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [BAD HOP \(BHG Edition\)](https://open.spotify.com/album/6UnXZYwHf7Yqiqv87k7o89) | 2:54 |
-| 5 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
+| 5 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
 | 6 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 |
 | 7 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 |
-| 8 | [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 |
-| 9 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
+| 8 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
+| 9 | [Got It All](https://open.spotify.com/track/0QrK8fBYh1zsTnQspFx3ba) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 2:31 |
 | 10 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 11 | [New](https://open.spotify.com/track/2GhyoDmyAJrrxAczVaBNYz) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/2uCilGcs4sSm99a3QUXNjO) | 2:13 |
 | 12 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 85 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 86 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCwyZmVlMTI2MGZmNTc4ZGM4YjVjYzE4MjcwZDQ1OTE3NmNiYjlmZjc3`
+Snapshot ID: `MCw3YjRkNjIwZTI0ZTc5ZjhjMzRjNjZjN2IxMTU0YWFlNTBjMGI2NjQw`

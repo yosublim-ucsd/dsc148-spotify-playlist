@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Mad Caddies
 
-589 songs - 1 day 10 hr 14 min
+590 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2021-12-06 | 2023-04-22 |
 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 | 2023-10-27 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/69Eq4fi8N7JvSazDTC7Us5) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Don't Stop Me Now](https://open.spotify.com/album/67fHb4XQlWTiH9WWjtmaC4) | 3:09 | 2024-02-02 |  |
-| [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 |  |
+| [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 | 2024-02-16 |
 | [Donde Quedó el Amor](https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Skaparate Fest, Vol\. 2](https://open.spotify.com/album/5ZoxGJIU4fn6F1gGlHZwOi) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 | 2021-12-06 | 2023-04-22 |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-06 | 2023-04-22 |
@@ -510,6 +510,7 @@
 | [The Circus](https://open.spotify.com/track/2NMHldyLs9eaL6sy0uHk9k) | [Moskovskaya](https://open.spotify.com/artist/3arKqOFnnYqHR7LZ6P2sEW) | [Ska, Ska, Skandal Nr.4](https://open.spotify.com/album/06xCwzzJkOQCGhd2DE8AbI) | 3:21 | 2021-12-06 | 2022-07-27 |
 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 | 2021-12-06 | 2023-10-20 |
 | [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 | 2023-10-13 |  |
+| [The Last Ninja](https://open.spotify.com/track/0pSwZXfhuvGHKsT8dpbT1J) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/2o4kWMnrJxC9lksNceAnfg) | 3:37 | 2024-02-12 |  |
 | [The One And Only](https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW) | [Makua Rothman](https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN) | [The One And Only](https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje) | 3:03 | 2023-09-22 | 2023-09-30 |
 | [The Rascal King](https://open.spotify.com/track/5Rz724YJlp4orgEvWIWfKg) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Best Of/20th Century](https://open.spotify.com/album/1D4YdkoQS2sJEcPRjLhgXx) | 2:45 | 2021-12-06 | 2023-06-03 |
 | [The Same Nothing](https://open.spotify.com/track/2sR0V682eV8P2ThQlwbIbV) | [Swigfoot](https://open.spotify.com/artist/4XNHevf00SS3kNzisQPyRc) | [The Same Nothing](https://open.spotify.com/album/1PYG0wb2lfZmrNvjswyNx0) | 4:52 | 2023-09-22 | 2023-09-30 |

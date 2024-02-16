@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 682710,
+  "num_followers": 682768,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTRiNTJjZDQyNmJlOGM3N2ZjZjhkZGUzYzExOGI1YWRhZTE2YzJk",
+  "snapshot_id": "MCxmZmNlMTE2ODY4YTcxODZkZTA5OGQ2ZTBiZjU5ZDEyNTM0NDMwZWMy",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 173174,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Every Breath You Take",
         "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 232128,
       "name": "Time After Time - Live At Abbey Road Studios",
       "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "The Essential The Chicks",
         "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 185755,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Helplessly Hoping",
-        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Helplessly Hoping",
+        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 159229,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 222426,
       "name": "Twelve-Thirty (Young Girls Are Coming To The Canyon) (feat. Susanna Hoffs, Chris Stills & Sheryl Crow)",
       "url": "https://open.spotify.com/track/19Hwwg9WvG4jQaMtpOUkRI"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     },
     {
       "added_at": "2024-01-09 15:49:37",

@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 5331499,
+  "2024-02-16": 5332405,
   "date_first_scraped": "2021-12-21",
   "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: DPR IAN",
   "name": "K-Pop ON! (\uc628)",
@@ -469,7 +469,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 160386,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj"
@@ -3720,6 +3720,24 @@
     },
     {
       "album": {
+        "name": "Killin' It",
+        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
       },
@@ -4250,6 +4268,24 @@
     },
     {
       "album": {
+        "name": "LTNS",
+        "url": "https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "LTNS",
+      "url": "https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga"
+    },
+    {
+      "album": {
         "name": "INCENSE",
         "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
       },
@@ -4703,7 +4739,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 161120,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"

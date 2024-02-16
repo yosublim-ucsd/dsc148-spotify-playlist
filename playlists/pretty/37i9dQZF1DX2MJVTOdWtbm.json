@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior Zamora",
-  "num_followers": 113338,
+  "num_followers": 113354,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQ2ZmYyZTNlNDdlZjI4MDQzYWJiOWZkYjE0MTI1YzRiOTcwNTE3",
+  "snapshot_id": "MCw0MDlmZjg2ZGZiNjdhZmUyZDA4NzJiNjZjNzQzMzdlZjU1Y2IwYTA4",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Los Domingos La Paso Solita",
+        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "Los Domingos La Paso Solita",
+      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Ser Feliz",
         "url": "https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS"
       },
@@ -1119,38 +1135,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Los Domingos La Paso Solita",
-        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "Los Domingos La Paso Solita",
-      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Truth Is (Spanish Version)",
-      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 206000,
       "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Truth Is (Spanish Version)",
+      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Esc\u00e1pate",
+        "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "duration_ms": 165881,
+      "name": "Esc\u00e1pate",
+      "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "1vezmas",
         "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Chulita",
-        "url": "https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Chulita",
-      "url": "https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 214080,
       "name": "De Ti",
       "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Chulita",
+        "url": "https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "duration_ms": 174339,
+      "name": "Chulita",
+      "url": "https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1367,6 +1383,26 @@
       "duration_ms": 170000,
       "name": "Camino a Neptuno",
       "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1423,26 +1459,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Isla Mater",
         "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Algod\u00f3n",
         "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 172186,
       "name": "Algod\u00f3n",
       "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 175594,
       "name": "La Lune XVIII",
       "url": "https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Esc\u00e1pate",
-        "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
-      },
-      "artists": [
-        {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
-        }
-      ],
-      "duration_ms": 165881,
-      "name": "Esc\u00e1pate",
-      "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "No Fui Solo Yo",
+        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 202942,
+      "name": "No Fui Solo Yo",
+      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 173400,
       "name": "A la Carta",
       "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "No Fui Solo Yo",
-        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "No Fui Solo Yo",
-      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
     },
     {
       "added_at": "2024-02-09 05:00:00",

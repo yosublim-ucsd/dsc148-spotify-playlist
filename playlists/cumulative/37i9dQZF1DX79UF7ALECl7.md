@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-149 songs - 10 hr 47 min
+150 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Blue Orchid](https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm) | [Mr\. Woodcole](https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg) | [Wax Casting](https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx) | 3:15 | 2022-09-15 |  |
 | [Blue Ridge \- Artphorm Remix](https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC) | [Luis León](https://open.spotify.com/artist/4Od4bfY2gFy7VrSlaLe9lo), [In2Deep](https://open.spotify.com/artist/6AqbaHLS9HRjM1cXsnZr5m), [Artphorm](https://open.spotify.com/artist/0qnsjwLSoQMjC3tZLLxgsO) | [Blue Ridge](https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG) | 6:50 | 2022-09-15 |  |
 | [Blues On](https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck) | [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd) | [Ruby Veil](https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN) | 8:05 | 2022-09-15 | 2022-11-08 |
+| [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-15 |  |
 | [Cherry Skies](https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Cherry Skies](https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe) | 3:30 | 2023-07-13 |  |
 | [Coffee and Feels](https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Reunion](https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK) | 4:07 | 2022-09-15 |  |
 | [Company](https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2) | 5:31 | 2022-09-15 | 2024-02-02 |

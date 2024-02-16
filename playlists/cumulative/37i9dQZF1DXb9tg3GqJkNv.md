@@ -4,7 +4,7 @@
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: NAV
 
-107 songs - 5 hr 24 min
+108 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,13 +106,14 @@
 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 | 2023-03-03 |  |
 | [Way Down](https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv) | 3:49 | 2023-11-08 |  |
 | [Way Down](https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN) | 3:49 | 2023-03-03 | 2023-11-06 |
-| [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 | 2023-03-03 |  |
+| [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 | 2023-03-03 | 2024-02-16 |
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-04-27 |  |
 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 | 2023-03-03 |  |
 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 | 2023-03-24 |  |
 | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/track/5RmUd1skWw9kMFlxPgfcYW) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J) | 2:40 | 2023-03-03 |  |
 | [Woah](https://open.spotify.com/track/7ovsrGkfcZhLuXPtN4Z2qC) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Woah](https://open.spotify.com/album/3Emj30Utjj4Y94qjvU21gt) | 2:55 | 2023-05-08 | 2023-06-03 |
 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 | 2023-03-03 |  |
+| [WYD](https://open.spotify.com/track/1G1BU1nUs5qui6Avug8kR2) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:21 | 2024-02-15 |  |
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2023-03-03 |  |
 | [• RIGHT NOW](https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:22 | 2023-03-03 |  |
 

@@ -4,7 +4,7 @@
 
 > New folk & americana driving the current, every week\. Cover: Kara Jackson
 
-132 songs - 7 hr 52 min
+133 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Troublemaker](https://open.spotify.com/track/3TyAGYeobwWPHwGrRTJAKl) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow \(Deluxe Edition\)](https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU) | 3:32 | 2021-10-22 |  |
 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 | 2021-10-22 |  |
 | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/track/62WtKWDn027EHTVVQuOgHg) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/album/6OWY4xTHqvmjJbTiHJ4wKa) | 5:36 | 2021-10-22 |  |
-| [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2024-02-01 |  |
+| [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2Ewaozo7Oe2XAI3sDlBvDk) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/5cEVsl5FHxCB6mpyVKpoNP) | 4:16 | 2024-02-01 |  |
+| [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2024-02-01 | 2024-02-16 |
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-10-22 |  |
 | [Vini Wè](https://open.spotify.com/track/3lgAxusxR6Splm5S4OlGxb) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Breaking The Thermometer](https://open.spotify.com/album/1tJzrnSLFYlqpVR1LjvfXz) | 4:34 | 2022-06-03 |  |
 | [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 | 2022-06-08 |  |

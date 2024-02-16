@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Alfie Sharp\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,827 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,826 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 89 | [Maybe](https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Maybe](https://open.spotify.com/album/1dbZb7zqwRo5DfwN4FMnM1) | 3:07 |
 | 90 | [Good Time](https://open.spotify.com/track/5QUqzbvlWAPp38wBNI0dHs) | [Lizzie Walmsley](https://open.spotify.com/artist/3zx7nkjZoKFEqqysNPNOI6) | [Good Time](https://open.spotify.com/album/27WedjZsuBLiXDCcI62o6t) | 3:22 |
 
-Snapshot ID: `MCwwNDFlZTMxNTc3ZTFkZWZkOThkMDExOWZhZGUyOTg2NDY2ZTRhNmM4`
+Snapshot ID: `MCw5YTYzOGM3NjlmNDRjYTBmZWNjYmQwZWQ3ZmNhNGU4ZmE3NTVmYzRj`

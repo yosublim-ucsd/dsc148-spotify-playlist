@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Zeina",
-  "num_followers": 9175,
+  "num_followers": 9180,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTJlMDEwOTNhNTVjNzg0ZjE2Y2E1NjRjYzViYzQwMDljN2Q3YzBi",
+  "snapshot_id": "MCwzYWFiZGM3NmE3MmViYThhNzdmZjQ0N2ZhYzRhNjI4OWU0ZDg4YzQ5",
   "tracks": [
     {
       "added_at": "2024-02-07 19:22:19",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "WFM",
-        "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+        "name": "WFM",
+        "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "SEPT 5TH",
-        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 200223,
-      "name": "Too Deep",
-      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
         "name": "Don't Throw Rocks At The Moon",
         "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 130369,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
+        "name": "SEPT 5TH",
+        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 200223,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 177827,
       "name": "Over Here (feat. Drake)",
       "url": "https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "Eternal Sunshine",
-        "url": "https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 241791,
-      "name": "Eternal Sunshine",
-      "url": "https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
         "name": "Morning After",
         "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 246240,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
+        "name": "Eternal Sunshine",
+        "url": "https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 241791,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC"
     },
     {
       "added_at": "2024-02-07 19:22:19",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-07 19:22:19",
       "album": {
-        "name": "Memory Springs",
-        "url": "https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 127059,
-      "name": "Potent",
-      "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
-    },
-    {
-      "added_at": "2024-02-07 19:22:19",
-      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 188960,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3"
+    },
+    {
+      "added_at": "2024-02-07 19:22:19",
+      "album": {
+        "name": "Memory Springs",
+        "url": "https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 127059,
+      "name": "Potent",
+      "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
     },
     {
       "added_at": "2024-02-07 19:22:19",

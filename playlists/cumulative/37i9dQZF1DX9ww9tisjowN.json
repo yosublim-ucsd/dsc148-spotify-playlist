@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: FZMZ feat. icy",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Serani Poji",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193510,
       "name": "Edison",
       "url": "https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE"
@@ -1074,6 +1074,28 @@
       "duration_ms": 158741,
       "name": "FLY GUY",
       "url": "https://open.spotify.com/track/2aYHMki1NRAxRjdarrgCBF"
+    },
+    {
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        },
+        {
+          "name": "t.komuro",
+          "url": "https://open.spotify.com/artist/2bE0EJMa2PapJUQZYlyE6P"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318320,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
     },
     {
       "album": {
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 228000,
       "name": "tsuijuku",
       "url": "https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa"
@@ -4384,6 +4406,24 @@
       "duration_ms": 212798,
       "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
       "url": "https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er"
+    },
+    {
+      "album": {
+        "name": "(\u831c)",
+        "url": "https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR"
+      },
+      "artists": [
+        {
+          "name": "the dadadadys",
+          "url": "https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263472,
+      "name": "\u3058\u3083\u3058\u3083\u99ac\u306b\u3055\u305b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K"
     },
     {
       "album": {
@@ -5786,7 +5826,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
@@ -5870,6 +5910,24 @@
       "duration_ms": 220120,
       "name": "\u5de3\u98df\u3044\u306e\u3066",
       "url": "https://open.spotify.com/track/3zIAqsIUasAahJ5Z56sbch"
+    },
+    {
+      "album": {
+        "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
+        "url": "https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
+      "url": "https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt"
     },
     {
       "album": {

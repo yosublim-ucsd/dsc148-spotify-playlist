@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists and labels\. Cover: Carver Grace\. Artwork by Paola Saliby
+> The best new pop music by independent artists and labels\. Cover: Carver Jones\. Artwork by Paola Saliby
 
 3,321 songs - 7 day 0 hr 54 min
 

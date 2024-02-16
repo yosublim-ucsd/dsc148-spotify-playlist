@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-180 songs - 14 hr 0 min
+183 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,8 @@
 | [Childhood](https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 6:41 | 2022-04-07 |  |
 | [Craftsman](https://open.spotify.com/track/0POkWuNjH2Z01YgewPxhsd) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq) | [Craftsman](https://open.spotify.com/album/1QTzNVk2AUJwUdiiHO81mg) | 6:12 | 2021-11-08 |  |
 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 | 2021-11-08 |  |
+| [Dawn](https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO) | [Henning Ullén](https://open.spotify.com/artist/5jGoaN0eufjXrK4RAikXfC), [Mauritz Agnas](https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P), [Nils Agnas](https://open.spotify.com/artist/5HbFG8La8D4a3AB2aj18s2) | [Play!](https://open.spotify.com/album/47Wpf2GK64iLCQkISlvK9B) | 4:11 | 2024-02-16 |  |
+| [Day Eleven](https://open.spotify.com/track/7ycDDuZBAicxWB8At1jZIo) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Day Eleven](https://open.spotify.com/album/2JmhyZcZkcAdmjoZqYcLbd) | 6:09 | 2024-02-16 |  |
 | [Doftvind](https://open.spotify.com/track/7B7SiB5GY2AnJ2PYApueWE) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd), [Emily Mcewan](https://open.spotify.com/artist/2CuBRngWC2XU39yW2X40zQ) | [Det Regnar I Min Stad](https://open.spotify.com/album/1v3Ogh2lD6Qhdx4ASZEP7B) | 3:12 | 2023-02-09 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2021-11-08 |  |
 | [Easy On Me](https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf) | [Changes](https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R), [Elin Bemark](https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI) | [Easy On Me](https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr) | 4:32 | 2022-03-31 |  |
@@ -143,6 +145,7 @@
 | [Singel](https://open.spotify.com/track/0z6ZJJu9yDl0sfPcTUWDvy) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Gammal Kärlek](https://open.spotify.com/album/6X8vM6cdvDAKDyRemTllQW) | 3:27 | 2022-06-22 |  |
 | [Singel](https://open.spotify.com/track/29PgnhJusz4Ou5zArjPghh) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Singel](https://open.spotify.com/album/61Gmop5nZOlXu37SlKixHw) | 3:27 | 2021-11-08 | 2022-07-29 |
 | [Sjön håller himlen](https://open.spotify.com/track/5NPNh5heNH26QPhsb5gdxd) | [Ingrid Malmén](https://open.spotify.com/artist/6uJfepnIWETHQxJ17m1RC6), [Alice Hernqvist](https://open.spotify.com/artist/1rESTuT9litogW6ubtyzHy), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y), [Thomas Backman](https://open.spotify.com/artist/5h61EPng9DRaWNdtcJ46pf) | [Tidvatten](https://open.spotify.com/album/4W7a2yYRkWtAmeph2GBsyF) | 4:11 | 2023-11-17 |  |
+| [Ska Vi Leva Loppan](https://open.spotify.com/track/23GDsuTJbJrBZzOjYRN8eW) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM) | [Ska vi leva loppan?](https://open.spotify.com/album/32WFUTl6NAUrH8aQ8Myevt) | 3:01 | 2024-02-16 |  |
 | [Skyll på mig](https://open.spotify.com/track/4l5ntF7CMqvsUgx3EXvtkR) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz) | [Skyll på mig](https://open.spotify.com/album/4dcTuLm9mLynDNpTnUzUtz) | 3:16 | 2021-11-08 |  |
 | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/track/3x8s8D4wGbF8aaU3qhQkiy) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712), [Christina von Bülow](https://open.spotify.com/artist/5VvYrVSilKVNlE4N6Fvsjd) | [Sliter En Gråtlåt Ur Mitt Hår](https://open.spotify.com/album/6m9VEymNTYIa22jhmMAv1m) | 4:40 | 2022-10-20 |  |
 | [Slowhand](https://open.spotify.com/track/57zedB9kexgdD6s1VQ43tj) | [Sonic Skin](https://open.spotify.com/artist/0sFc8MCEQN0TrP2P39yTQJ), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW) | [Slowhand](https://open.spotify.com/album/1gB1rxmnIKNTATJsN8do7y) | 6:02 | 2024-01-19 |  |
@@ -187,6 +190,6 @@
 | [Wish You Were Gay](https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Wish You Were Gay](https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb) | 3:07 | 2021-11-08 |  |
 | [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-20 | 2022-12-18 |
 | [Zeta](https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 3:19 | 2022-12-01 |  |
-| [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/track/2uZ7GgNqVTjIqKnrqjm9vh) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/album/6RivCAP4ZkDbbNY3wA7wU1) | 3:40 | 2021-11-08 |  |
+| [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/track/2uZ7GgNqVTjIqKnrqjm9vh) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Åh nej \(Visa mitt i natten\)](https://open.spotify.com/album/6RivCAP4ZkDbbNY3wA7wU1) | 3:40 | 2021-11-08 | 2024-02-16 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

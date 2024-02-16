@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-631 songs - 1 day 3 hr 8 min
+632 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-04-05 | 2023-07-25 |
 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 | 2021-12-07 |  |
 | [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2021-12-07 | 2022-09-15 |
-| [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-12-07 |  |
+| [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-12-07 | 2024-02-16 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-02-15 | 2024-01-05 |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-12-07 | 2023-07-25 |
 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 | 2023-09-05 |  |
@@ -608,6 +608,7 @@
 | [Waltz For Debby](https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Waltz For Debby](https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0) | 3:29 | 2022-09-14 | 2023-12-02 |
 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 | 2022-04-07 |  |
 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-17 |  |
+| [Wave](https://open.spotify.com/track/7kwkqLqXX5hL1BVWbXUVVt) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Wave](https://open.spotify.com/album/3ZaM2UApeMSw0eCXcQ2fOV) | 2:10 | 2024-02-05 |  |
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 | 2023-08-11 |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-12-07 | 2023-08-18 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 |  |

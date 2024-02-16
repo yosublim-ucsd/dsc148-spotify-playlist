@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-588 songs - 2 day 2 hr 13 min
+589 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Day Of Reckoning](https://open.spotify.com/track/60WxTHidnICRt1b4JdoWWC) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [Day Of Reckoning](https://open.spotify.com/album/5zWNR6TtpcdMCKzGmj8auM) | 7:33 | 2022-02-11 | 2022-07-26 |
 | [De Mysteriis Dom Sathanas](https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:21 | 2022-07-13 | 2023-03-01 |
 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 | 2021-12-17 | 2022-01-15 |
-| [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 | 2023-11-17 |  |
+| [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 | 2023-11-17 | 2024-02-16 |
 | [Dead To You](https://open.spotify.com/track/3FE9t4BzzOGYduUXVdfSxJ) | [Marthe](https://open.spotify.com/artist/6EssjchKEP6YbQS2vHBAcN) | [Further In Evil](https://open.spotify.com/album/2xwvEcOiW03Q0FcByEbBdg) | 6:09 | 2024-01-02 |  |
 | [Death Cult](https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [Death Cult](https://open.spotify.com/album/62D0IksCdSnviilNJpWtws) | 3:40 | 2024-01-11 |  |
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
@@ -420,6 +420,7 @@
 | [Ring](https://open.spotify.com/track/0llyhbLguHtMnlW9wliY6a) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Ring](https://open.spotify.com/album/20rMONOdvEXzXaFscOEtpz) | 4:40 | 2023-06-30 | 2023-07-04 |
 | [Ring of Gold](https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Nordland I](https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog) | 5:34 | 2022-07-13 | 2023-07-04 |
 | [Rise](https://open.spotify.com/track/65FGIRbPo764N0mSAyJF4F) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Goatlord \(Original\)](https://open.spotify.com/album/62vwGVGlQ68PK61VHamXmp) | 3:55 | 2023-02-23 | 2023-06-05 |
+| [Rivus altus](https://open.spotify.com/track/7JRnBf4WQqwLKjLupK7wdM) | [Kanseil](https://open.spotify.com/artist/5uFYutf9HxPXTLCxC6p832) | [Vaia](https://open.spotify.com/album/1YRKumGJVF6Nrj5fkshxj7) | 4:08 | 2024-02-06 |  |
 | [Root of All Evils](https://open.spotify.com/track/49qj1TgiRqmtLOrNsOWCix) | [Kekal](https://open.spotify.com/artist/1TfoHj4wkkwQIIkE48Rgy5) | [Deeper Underground \(2023 Updated Edition\)](https://open.spotify.com/album/2D7gLhMLd18o9og1oo8pWD) | 6:26 | 2023-06-16 | 2023-08-12 |
 | [Ruhelos](https://open.spotify.com/track/55oD5DLx3Mus347CqyBsJ1) | [Ellende](https://open.spotify.com/artist/1iLdVM2KFAHUbpaC5wpMbO) | [Ruhelos](https://open.spotify.com/album/1wJvcZgUQRKE3VzL15N7tH) | 7:20 | 2022-09-01 | 2022-11-03 |
 | [Ruun II \- The Epitaph](https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds](https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo) | 5:37 | 2021-12-17 | 2022-05-14 |

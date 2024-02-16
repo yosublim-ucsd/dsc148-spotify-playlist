@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 1128791,
+  "2024-02-16": 1128915,
   "date_first_scraped": "2019-05-26",
   "description": "It's just us\u2014and this awesome alt soundtrack.",
   "name": "You & Me",
@@ -1526,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
       },
@@ -1973,6 +1991,24 @@
       "duration_ms": 278693,
       "name": "I Love The Rain The Most",
       "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
+    },
+    {
+      "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305800,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg"
     },
     {
       "album": {
@@ -4005,7 +4041,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 277896,
       "name": "The Birthday Party",
       "url": "https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY"
@@ -4477,7 +4513,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 190640,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi"

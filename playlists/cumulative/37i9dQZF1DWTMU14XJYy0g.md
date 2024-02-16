@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Conociendo Rusia
 
-240 songs - 15 hr 1 min
+241 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-04-21 |  |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2023-07-29 |
 | [Alejado de la Red](https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 3:47 | 2022-06-24 | 2022-11-03 |
+| [Allí Donde Solíamos Gritar](https://open.spotify.com/track/6wBASLUGaAzhBh5q0iu6VR) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Allí Donde Solíamos Gritar](https://open.spotify.com/album/5FgUTMgWFhaxcL3MJUxwqx) | 3:39 | 2024-02-15 |  |
 | [Ama a Quien Llora por Ti](https://open.spotify.com/track/7dx5nsXhkbc53tUhszjTP3) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ama a Quien Llora por Ti](https://open.spotify.com/album/6ER89S7vm5NODaRvJ5dl0Z) | 4:09 | 2023-01-20 |  |
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 | 2023-03-11 |
 | [Arañas Bebé](https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f) | [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Arañas Bebé](https://open.spotify.com/album/295GI99A9OkBbikjcuNavc) | 3:50 | 2023-11-10 | 2024-02-10 |
@@ -76,7 +77,7 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-08-05 | 2022-11-12 |
 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 | 2022-06-24 | 2022-10-15 |
 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
-| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 |  |
+| [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 | 2024-02-16 |
 | [Ella Va](https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ella Va / La Cita](https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX) | 3:32 | 2023-04-28 | 2023-07-08 |
 | [En este barco](https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4) | [Arbolito](https://open.spotify.com/artist/7pa4Z64S1qU90QytnRJgoJ) | [En este barco](https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu) | 4:02 | 2023-06-02 | 2023-06-17 |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |

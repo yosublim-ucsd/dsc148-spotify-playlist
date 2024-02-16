@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,478 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,513 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 12 | [شيلوها شيلة](https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE) | [Miami Band](https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0) | [فرقة ميامي 97](https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ) | 5:00 |
 | 13 | [Al Yadi El Yadi](https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Rege'et Wahdi](https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx) | 3:13 |
 | 14 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
-| 15 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
-| 16 | [طبيب جراح](https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [طبيب جراح](https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA) | 6:21 |
+| 15 | [طبيب جراح](https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [طبيب جراح](https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA) | 6:21 |
+| 16 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
 | 17 | [Kolak Ala Badhak \- Remastered 2000](https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ba'Ad Al Hob](https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A) | 5:49 |
 | 18 | [Moush Hadaaf](https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:20 |
 | 19 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [Sahrany](https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 4:19 |
 | 40 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
 
-Snapshot ID: `MCxmMGY3NTYwYTJhZjkwNjdlM2Q1M2U0MGRkMTkzMzAwZDdlMDNjZWEz`
+Snapshot ID: `MCwwYjBlNjIwY2VjYzI3YTRjNzE1ZTJhMzQzYjQwMmY3MjYwZjQ1MjI2`

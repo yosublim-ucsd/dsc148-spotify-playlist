@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-298 songs - 19 hr 15 min
+299 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 | 2021-11-19 |  |
 | [Changing Lanes](https://open.spotify.com/track/75aqwHrxFwyhBDEKkLSq3S) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes](https://open.spotify.com/album/79kk1P3ZjLoVtsWveGxF5C) | 3:19 | 2021-11-19 | 2022-07-29 |
 | [Changing Lanes \(from "The Publicist"\)](https://open.spotify.com/track/59BleZfCXAjHvpbfFJYnYZ) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes \(from "The Publicist"\)](https://open.spotify.com/album/3vYXzcHYfiJDrgzg4TakHm) | 3:19 | 2022-07-14 | 2023-09-02 |
-| [Christmas Time Is Here](https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt) | [U3](https://open.spotify.com/artist/5ovgMXlBdlYdEZ2mQDqOU9), [Cynthia Lin](https://open.spotify.com/artist/4daaUucayZ59b8C4Hea47M), [Ukulenny](https://open.spotify.com/artist/5ZFFIbdDrRvXXgGeRnOANp), [Abe Lagrimas, Jr.](https://open.spotify.com/artist/2YrcT6uG6wP88zpSZd7gwt) | [Christmas Time Is Here](https://open.spotify.com/album/5Vcb7yL3C7yujqgA36S5Pr) | 3:29 | 2021-11-19 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt) | [U3](https://open.spotify.com/artist/5ovgMXlBdlYdEZ2mQDqOU9), [Cynthia Lin](https://open.spotify.com/artist/4daaUucayZ59b8C4Hea47M), [Ukulenny](https://open.spotify.com/artist/5ZFFIbdDrRvXXgGeRnOANp), [Abe Lagrimas, Jr.](https://open.spotify.com/artist/2YrcT6uG6wP88zpSZd7gwt) | [Christmas Time Is Here](https://open.spotify.com/album/5Vcb7yL3C7yujqgA36S5Pr) | 3:29 | 2021-11-19 | 2024-02-16 |
 | [Crazy He Calls Me](https://open.spotify.com/track/24x9urAiyzJ0ZpD5er4SWm) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Crazy He Calls Me](https://open.spotify.com/album/6SVe88s5f4nGY0mqlIuNv3) | 3:53 | 2023-05-05 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/6idyE2eteilAiBuojIIP7E) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Crazy He Calls Me](https://open.spotify.com/album/2W4jaTretidFanzr6LvpBW) | 3:53 | 2021-11-19 | 2022-05-25 |
 | [Cup of Tea](https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s) | [Francesca Castro](https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf) | [Day by Day](https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt) | 6:34 | 2021-11-19 |  |
@@ -110,6 +110,7 @@
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-10-13 | 2023-05-06 |
 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 | 2021-11-19 | 2024-01-26 |
 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 | 2021-11-19 |  |
+| [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 | 2024-02-09 |  |
 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 | 2022-10-13 | 2023-05-06 |
 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2021-11-19 | 2023-12-15 |
 | [Hey Laura](https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:19 | 2021-11-19 | 2023-12-15 |

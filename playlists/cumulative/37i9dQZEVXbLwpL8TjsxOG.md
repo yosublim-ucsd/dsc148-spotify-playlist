@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-792 songs - 1 day 22 hr 50 min
+794 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,11 +263,13 @@
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 | 2022-04-16 | 2022-05-28 |
 | [Loser](https://open.spotify.com/track/5MGYY2USzSzFFrJe2Nul7Q) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Loser](https://open.spotify.com/album/6hxA2XnQbjGb6dt4F28CPA) | 4:13 | 2021-08-29 | 2022-02-20 |
+| [Lost At First Sight](https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Lost At First Sight](https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5) | 4:04 | 2024-02-15 |  |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-21 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 | 2023-04-19 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-24 | 2023-08-26 |
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-01-25 | 2024-02-12 |
+| [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2024-02-15 |  |
 | [LOVERSE](https://open.spotify.com/track/1Bnmeza32UZ1frQTxGexnt) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [LOVERSE](https://open.spotify.com/album/1UWeqFUIIwYr17QIcO1gjB) | 4:25 | 2023-01-02 | 2023-04-23 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-01 | 2024-01-27 |
 | [LUNCH](https://open.spotify.com/track/23tnYfiqkTWhhb0q89SAqm) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LUNCH](https://open.spotify.com/album/5Ym5RtpuJff5IAw6iQy38k) | 2:55 | 2022-04-16 | 2022-10-20 |
@@ -352,7 +354,7 @@
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 | 2024-01-03 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-08-31 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-11-06 |
-| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 |  |
+| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2024-02-16 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-20 | 2021-05-08 |
 | [Ready For Love](https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:04 | 2022-09-17 | 2022-09-26 |
 | [REBOUND](https://open.spotify.com/track/2P8bKzgGEUhgdSeTObumUR) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D), [Alton Wong 王智德](https://open.spotify.com/artist/0cuaC9Yla3eTu2miefuLdc) | [REBOUND](https://open.spotify.com/album/3BWl8RiEO6qsdZeNuMxAZv) | 4:03 | 2022-03-05 | 2022-05-11 |
@@ -442,7 +444,7 @@
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-09 | 2022-04-24 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-12 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-04 | 2023-04-07 |
-| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2024-02-08 |
+| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 |  |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-15 | 2023-01-20 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 | 2023-12-25 | 2023-12-30 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2022-12-25 | 2022-12-28 |
@@ -637,7 +639,7 @@
 | [拼命無恙 in Bb major](https://open.spotify.com/track/24tzRRz8r26gOmQB8PEZwv) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 4:01 | 2021-03-27\* | 2022-08-25 |
 | [搞不懂](https://open.spotify.com/track/4GAyYOUggQb4gxp3PGKcHc) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂](https://open.spotify.com/album/6SspNBNITxDU3nB1izeQ24) | 3:06 | 2021-08-15 | 2022-04-09 |
 | [搞不懂 acoustic version](https://open.spotify.com/track/6I7fYI02GkZuWarRGL8MRH) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [搞不懂 acoustic version](https://open.spotify.com/album/0I7VX6tBGkz1knZZCSz62I) | 3:43 | 2021-10-08 | 2021-11-10 |
-| [擁抱後的歌](https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [擁抱後的歌](https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz) | 3:38 | 2023-07-25 |  |
+| [擁抱後的歌](https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [擁抱後的歌](https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz) | 3:38 | 2023-07-25 | 2024-02-16 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2023-05-07 | 2023-05-27 |
 | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/track/2Z0nzG4jTLJCTx69vvrLCb) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/album/63uXlV6CWOZGDhf7SRTMzA) | 4:23 | 2022-11-13 | 2022-12-08 |
 | [救命稻草](https://open.spotify.com/track/4WBNWQZR2TCDanKIg95gpT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [救命稻草](https://open.spotify.com/album/5OlvQy8lBirp1AiU1ce8u7) | 4:21 | 2023-11-10 |  |
@@ -699,7 +701,7 @@
 | [玻璃心](https://open.spotify.com/track/3HYsldPuR1FSOfxcKjwAvv) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [鬼才做音樂](https://open.spotify.com/album/5V1PJcyR7XiEHusoeCvpzS) | 3:58 | 2021-11-17 | 2021-12-04 |
 | [玻璃心](https://open.spotify.com/track/4SQxzEwMRZcLl4XSDoWCL5) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [玻璃心](https://open.spotify.com/album/2e5in6GxWwtHPwPi7lqf4N) | 3:58 | 2021-10-19 | 2021-11-17 |
 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 | 2021-08-29 | 2022-02-17 |
-| [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/track/0zEBpYDhSzcvAvypqOqm5G) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/album/1siFw7GYzPnHXcGCR0fi0O) | 3:04 | 2023-11-03 |  |
+| [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/track/0zEBpYDhSzcvAvypqOqm5G) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/album/1siFw7GYzPnHXcGCR0fi0O) | 3:04 | 2023-11-03 | 2024-02-16 |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-02-15 |  |
 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 | 2021-11-28 | 2023-01-04 |
 | [留下來的人](https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [留下來的人](https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP) | 4:04 | 2021-04-18 | 2021-11-28 |

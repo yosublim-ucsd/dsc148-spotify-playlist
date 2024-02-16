@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,930 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 25 | [CRANKI](https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [MIND UP!](https://open.spotify.com/album/2ErQkuMncjeG2DQ7mxoGih) | 1:50 |
 | 26 | [Dayang](https://open.spotify.com/track/5oJICQvO6ZkPPZPwsvPLBs) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:47 |
 | 27 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
-| 28 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 |
+| 28 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/6lb7AnsNhDAcQxGTllxOlg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 |
 | 29 | [+7\(952\)812](https://open.spotify.com/track/74JfQsOBIs7z4y6jDrbDmh) | [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq) | [LONG LIVE 812](https://open.spotify.com/album/7poRbXyDV1xiGudb1QtxOJ) | 1:47 |
 | 30 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 |
 | 31 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [зима](https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:28 |
 | 50 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 |
 
-Snapshot ID: `NzYxMjc1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYxMzYxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,327 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,384 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 36 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
 | 37 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
 | 38 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 |
-| 39 | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV) | 3:40 |
-| 40 | [Brothers Anthem](https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:53 |
+| 39 | [Brothers Anthem](https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/383e45grHa4YKHGRojMqYy) | 5:53 |
+| 40 | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV) | 3:40 |
 | 41 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 42 | [Sawan Mein Lag Gayi Aag](https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ginny Weds Sunny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC) | 3:46 |
 | 43 | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 | 50 | [Bhaag D.K\. Bose, Aandhi Aayi](https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Delhi Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi) | 4:01 |
 
-Snapshot ID: `MCwyN2RkYjU5YmMxNDFkY2U5ZTY4NzQzMmQ5MDg0OTI3OTVmMzg2YWNj`
+Snapshot ID: `MCw0MzE4ZWJhMDQ5NjRjNzUwOWRmZjgyNzM2NTYwNTIyODljODhkYWU3`

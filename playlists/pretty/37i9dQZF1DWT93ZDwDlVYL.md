@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT93ZDwDlVYL.md) - [plain]
 
 > Podcast che devi avere sul tuo RADAR: Questo Podcast NON ESISTE, Brivido Coatto, Power Pizza, CineFacts, POV il podcast
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,481 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxhNjZmNGY2M2ZkMjFlZjQ3ZDMyYWQyNzhlNDNiMTI0OWQyZDIxYWMy`
+Snapshot ID: `MCxhNTNhYjk5YjU5MzI1ZDk1Mjg5ZjM4NTI1Y2ZmMThkOGI3M2NjZjY3`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1598,
+  "num_followers": 1600,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWVmZGJmZDYzMzRkNDBlYjM5MjhjNDA1ZjJkZThiYjhmZDViYzU2",
+  "snapshot_id": "MCw5MTExODk5OGY4MmY4MmIwZmQwNDYzZjcxY2Y2ZTdhNmI5ZGMwZmI1",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -295,18 +295,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W"
+        "name": "Back In Blood (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
       },
       "artists": [
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 264818,
-      "name": "100 Shots",
-      "url": "https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE"
+      "duration_ms": 184489,
+      "name": "Back in Blood (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -331,22 +335,18 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Back In Blood (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W"
       },
       "artists": [
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         }
       ],
-      "duration_ms": 184489,
-      "name": "Back in Blood (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
+      "duration_ms": 264818,
+      "name": "100 Shots",
+      "url": "https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Detail",
+          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 184833,
       "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Detail",
-          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 337640,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -883,6 +863,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 337640,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "I Hate YoungBoy",
         "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
       },
@@ -919,26 +919,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 285026,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S"
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -959,22 +955,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+      "duration_ms": 285026,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

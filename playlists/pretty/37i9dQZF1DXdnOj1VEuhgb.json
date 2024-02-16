@@ -1,15 +1,15 @@
 {
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Lvbel C5",
-  "num_followers": 1330910,
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Kleo x Segah",
+  "num_followers": 1331157,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2JmYzhiNTM1ZmE5MmE1Y2ZmMmViYWM1M2FmZTZhNzQxNGQzOGIz",
+  "snapshot_id": "MCxjNTMyNWQxZDgzY2JmNTdhODkwYmYxZWMxY2Y0NjlkMGVjNDcxMjk5",
   "tracks": [
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "pVg",
         "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
@@ -25,7 +25,31 @@
       "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "Bul Kurtar",
+        "url": "https://open.spotify.com/album/2Y1CbaY7ptuXflDPy2H5vT"
+      },
+      "artists": [
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm"
+        },
+        {
+          "name": "Segah",
+          "url": "https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P"
+        },
+        {
+          "name": "Ayaz",
+          "url": "https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Bul Kurtar",
+      "url": "https://open.spotify.com/track/31dcmzxjz6jOuix6r4ITA1"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Kapak Olsun",
         "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
@@ -49,7 +73,7 @@
       "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
         "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
@@ -65,7 +89,27 @@
       "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "SU\u00c7",
+        "url": "https://open.spotify.com/album/4kPfEb1aBplSNm7lCvufkj"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "duration_ms": 178998,
+      "name": "SU\u00c7",
+      "url": "https://open.spotify.com/track/7eB0GHwce0u93PS6yvAatH"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Seni Yazd\u0131m",
         "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
@@ -85,7 +129,7 @@
       "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
         "url": "https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G"
@@ -101,10 +145,26 @@
       "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
+        "url": "https://open.spotify.com/album/75stAff8dVdEedkMHAsB74"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
+      "url": "https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Seductive",
-        "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
+        "url": "https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV"
       },
       "artists": [
         {
@@ -122,10 +182,30 @@
       ],
       "duration_ms": 191133,
       "name": "Risk (feat. UZI & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4UwT5GziuMCCtnMHxg0Hsf"
+      "url": "https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/1rqIkGM4QiDI1zSObR2vtr"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "duration_ms": 140437,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/59jL6CYHEMoP0OmjFctLDB"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "HAA\u203c\ufe0f",
         "url": "https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH"
@@ -141,7 +221,7 @@
       "url": "https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "DOYAMADIM",
         "url": "https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK"
@@ -161,27 +241,7 @@
       "url": "https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "Dengesiz",
-        "url": "https://open.spotify.com/album/75bpHoTE9T2DaLnmEhOsZl"
-      },
-      "artists": [
-        {
-          "name": "Haloday\u0131",
-          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
-        },
-        {
-          "name": "Rana T\u00fcrky\u0131lmaz",
-          "url": "https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h"
-        }
-      ],
-      "duration_ms": 134042,
-      "name": "Dengesiz",
-      "url": "https://open.spotify.com/track/7uPi0uEZI3VuSNMvoMPHDz"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "#PHONKFREESTYLE",
         "url": "https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc"
@@ -209,7 +269,27 @@
       "url": "https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "Dengesiz",
+        "url": "https://open.spotify.com/album/75bpHoTE9T2DaLnmEhOsZl"
+      },
+      "artists": [
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        },
+        {
+          "name": "Rana T\u00fcrky\u0131lmaz",
+          "url": "https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h"
+        }
+      ],
+      "duration_ms": 134042,
+      "name": "Dengesiz",
+      "url": "https://open.spotify.com/track/7uPi0uEZI3VuSNMvoMPHDz"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "JET BABA",
         "url": "https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm"
@@ -229,7 +309,7 @@
       "url": "https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Salla Salla",
         "url": "https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD"
@@ -245,7 +325,7 @@
       "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "MINI TERORISTA",
         "url": "https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG"
@@ -261,23 +341,7 @@
       "url": "https://open.spotify.com/track/6kvf06eThDCrvYknMY32To"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "SHOT",
-        "url": "https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 108551,
-      "name": "SHOT",
-      "url": "https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Bu Gece Karakolluk Olabilirim",
         "url": "https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po"
@@ -297,7 +361,23 @@
       "url": "https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "SHOT",
+        "url": "https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 108551,
+      "name": "SHOT",
+      "url": "https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "YOUNGSTA",
         "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
@@ -317,43 +397,7 @@
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "S\u0131ra D\u0131\u015f\u0131",
-        "url": "https://open.spotify.com/album/2upDWqVL7PHaS5edRBibIx"
-      },
-      "artists": [
-        {
-          "name": "Rota",
-          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "S\u0131ra D\u0131\u015f\u0131",
-      "url": "https://open.spotify.com/track/56k2LTM6BoRU2lSLOAQTBo"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "\u0130stanbul",
-        "url": "https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA"
-      },
-      "artists": [
-        {
-          "name": "Cash Flow",
-          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
-        },
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        }
-      ],
-      "duration_ms": 143004,
-      "name": "\u0130stanbul",
-      "url": "https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "A La Carte",
         "url": "https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD"
@@ -377,7 +421,27 @@
       "url": "https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
+      "album": {
+        "name": "\u0130stanbul",
+        "url": "https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "duration_ms": 143004,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL"
+    },
+    {
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "DUNYA",
         "url": "https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3"
@@ -393,7 +457,7 @@
       "url": "https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Margiela",
         "url": "https://open.spotify.com/album/4e2mD2qvVzVoA165EzPg5B"
@@ -409,27 +473,7 @@
       "url": "https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "\u0130STANBUL",
-        "url": "https://open.spotify.com/album/4NyR5G4ZqFgBn3Xst6NCV8"
-      },
-      "artists": [
-        {
-          "name": "Etki",
-          "url": "https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg"
-        },
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 184792,
-      "name": "\u0130STANBUL",
-      "url": "https://open.spotify.com/track/6GKAf3Sq0W8flUosmCirK7"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Ho\u015f\u00e7akal",
         "url": "https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps"
@@ -445,7 +489,7 @@
       "url": "https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Sokakta Stres",
         "url": "https://open.spotify.com/album/3EEIfRTJw16UWx03Xaix9W"
@@ -461,7 +505,7 @@
       "url": "https://open.spotify.com/track/5UNtKrrLFnvX1rCfdjaZGb"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "International",
         "url": "https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd"
@@ -481,7 +525,7 @@
       "url": "https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
@@ -497,7 +541,7 @@
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Kalbim Yan\u0131mda",
         "url": "https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o"
@@ -513,7 +557,7 @@
       "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "RXCKSTAR",
         "url": "https://open.spotify.com/album/1XexpWydcoRRNHMaygdPbY"
@@ -529,7 +573,7 @@
       "url": "https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "SIR",
         "url": "https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk"
@@ -553,7 +597,7 @@
       "url": "https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Patlat",
         "url": "https://open.spotify.com/album/0nNGqSZR6AA3KPUkngioIf"
@@ -569,7 +613,7 @@
       "url": "https://open.spotify.com/track/5qLnFAfF07nwUiARNSWZBJ"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "ECLIPSE (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e"
@@ -589,7 +633,7 @@
       "url": "https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "akl\u0131na ben gelicem",
         "url": "https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J"
@@ -605,7 +649,7 @@
       "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -621,23 +665,7 @@
       "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "Para Harams\u0131z",
-        "url": "https://open.spotify.com/album/3Oi6fbcYOQzF5XKO0ezSBX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Para Harams\u0131z",
-      "url": "https://open.spotify.com/track/63v8p19RUcTCspQag7vpKN"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Cesaret",
         "url": "https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT"
@@ -657,7 +685,7 @@
       "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Promilim Y\u00fcksek",
         "url": "https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC"
@@ -673,7 +701,7 @@
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "YAPTIRICAZ TIRNAKLARINI",
         "url": "https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk"
@@ -689,27 +717,7 @@
       "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
-      "album": {
-        "name": "Silah Gibi",
-        "url": "https://open.spotify.com/album/4ktOuEyfPqsFTxNupKdXoV"
-      },
-      "artists": [
-        {
-          "name": "Cash Flow",
-          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
-        },
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Fred \u00c7akmakta\u015f",
-      "url": "https://open.spotify.com/track/1x0lpjMOS245apC6cekxuy"
-    },
-    {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -725,7 +733,7 @@
       "url": "https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Telefon",
         "url": "https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz"
@@ -741,7 +749,7 @@
       "url": "https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
@@ -757,7 +765,7 @@
       "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
@@ -777,7 +785,7 @@
       "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "A\u011eZI BOZUK",
         "url": "https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN"
@@ -793,7 +801,7 @@
       "url": "https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"
@@ -817,7 +825,7 @@
       "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
@@ -833,7 +841,7 @@
       "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "AFFETMEM",
         "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
@@ -849,7 +857,7 @@
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
@@ -865,7 +873,7 @@
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "10MG",
         "url": "https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4"
@@ -881,7 +889,7 @@
       "url": "https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "\u0130mparator",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
@@ -901,7 +909,7 @@
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
     },
     {
-      "added_at": "2024-02-14 08:24:23",
+      "added_at": "2024-02-15 21:00:00",
       "album": {
         "name": "BAYBAY",
         "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"

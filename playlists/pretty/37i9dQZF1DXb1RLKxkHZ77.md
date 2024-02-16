@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Hael Husaini
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,349 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,446 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Mula](https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Mula](https://open.spotify.com/album/34oz7Evonovs53OIyZFvDQ) | 3:00 |
 | 50 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
 
-Snapshot ID: `MCxmMGRiNmEzZDQxZjNhOTJhODVhYjc2OGJmY2I2N2NjZWExYjliMWY1`
+Snapshot ID: `MCxhOWEwNTJkNDhkOGRmNWY4OWEyMWVjMzA0NTJlNDg5YmVjYjk3NWIz`

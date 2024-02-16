@@ -4,7 +4,7 @@
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-43 songs - 5 hr 10 min
+44 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Endless February, Pt\. 1](https://open.spotify.com/track/52HqnlUppYvrfPlDeXUF36) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:44 | 2023-05-02 | 2023-07-22 |
 | [Eyes Of The Endless](https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:39 | 2023-05-02 |  |
 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 | 2023-05-02 |  |
+| [Freedom Now](https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj), [Golshifteh Farahani](https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Freedom Now](https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO) | 3:44 | 2024-02-15 |  |
 | [Glass Face](https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Kai Eckhardt](https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 3:17 | 2023-08-19 |  |
 | [Haseen Thi](https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 12:08 | 2023-05-02 |  |
 | [I Wonder](https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 5:14 | 2023-05-19 | 2024-01-11 |

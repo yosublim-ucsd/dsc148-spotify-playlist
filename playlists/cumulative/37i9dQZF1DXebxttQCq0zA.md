@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-360 songs - 18 hr 25 min
+365 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Behind the Wall](https://open.spotify.com/track/4asYNMN8gnTvd24iUCbLvz) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian](https://open.spotify.com/album/2Dh5NJU1zhKK2hEUKpHWMU) | 3:28 | 2022-05-25 | 2022-09-28 |
 | [Believe](https://open.spotify.com/track/5v4H0KU4eFyE524xVMiRMp) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Believe](https://open.spotify.com/album/4zXjC7evrMGsDYZSzUFut8) | 3:10 | 2022-05-25 | 2022-09-28 |
 | [Blankly Slept](https://open.spotify.com/track/0Z1OskWKPEpLniJPWVQjfL) | [Sheep Hurdle](https://open.spotify.com/artist/2EvRgp09ci3GA7yI7XE6C2) | [Blankly Slept](https://open.spotify.com/album/6P47YyI7GnT4kFh1J2e4Ak) | 3:35 | 2022-05-25 |  |
+| [Blissful](https://open.spotify.com/track/3LuRATATl6IEUsDUHxgLYW) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Blissful](https://open.spotify.com/album/2wtdveGHtM82JRmWxzIfsG) | 2:30 | 2024-02-15 |  |
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-05-25 |  |
 | [Blue Pond](https://open.spotify.com/track/0jw7AP59DwEnHA70iVGY0l) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Blue Pond](https://open.spotify.com/album/7Ctkw5drrzHZsuap4cJwjb) | 2:20 | 2022-05-25 | 2023-08-12 |
 | [Blurred](https://open.spotify.com/track/2rj6EX8Ji51d2V6ozhsM52) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Soundscapes For Sleep And Peace](https://open.spotify.com/album/6h9uupM1zMMILaPQSZ3Ywj) | 2:49 | 2022-05-25 | 2022-07-09 |
@@ -66,6 +67,7 @@
 | [Calming Quality](https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Calming Quality](https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2) | 3:18 | 2023-03-09 |  |
 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 | 2022-05-25 |  |
 | [Chances](https://open.spotify.com/track/3iKdrtQ9e9cLgpWuYLLZCT) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Chances](https://open.spotify.com/album/5JQ2RAygSPnbU2ak4AUTP1) | 2:32 | 2023-10-13 |  |
+| [Choose Calm](https://open.spotify.com/track/0CXf8rXTyiq16NOhtTHGHU) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Choose Calm](https://open.spotify.com/album/1Mj5enOADFf6emKwexlQlK) | 2:24 | 2024-02-15 |  |
 | [Cianalas](https://open.spotify.com/track/4kLNF1BFyLnJ3sQjcS7Rqm) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Cianalas](https://open.spotify.com/album/0gArimZ25shLa9v1Y2CYVi) | 2:45 | 2022-05-25 |  |
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-05-25 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2022-05-25 | 2022-09-28 |
@@ -143,6 +145,7 @@
 | [Grateful Minds](https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 2:47 | 2022-05-25 | 2022-09-28 |
 | [Half Asleep](https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Half Asleep](https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe) | 2:28 | 2022-12-06 |  |
 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 | 2022-05-25 |  |
+| [Halo](https://open.spotify.com/track/1Xvu6NWS4brpXHsozhz5x2) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Halo](https://open.spotify.com/album/0OwzNUmiX4FCH2sLiPXmtD) | 3:22 | 2024-02-15 |  |
 | [Harvest](https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Harvest](https://open.spotify.com/album/25LBaQA9rUHkIDoVQK3wje) | 2:42 | 2022-05-25 |  |
 | [Harvest Moon](https://open.spotify.com/track/5IUNTgHveUPyWuCmGCWP27) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [In Spirit](https://open.spotify.com/album/45wyHZzbO4AzkfE4pqfow5) | 2:14 | 2022-05-25 | 2022-09-28 |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-05-25 |  |
@@ -337,6 +340,7 @@
 | [Through The Self](https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Through The Self](https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV) | 3:19 | 2022-11-22 |  |
 | [Timelapses](https://open.spotify.com/track/3M0p85lGZSAirN47876OKc) | [Evelyn Ferrera](https://open.spotify.com/artist/3lWlO9shOnzBgTxgHj3ani) | [Timelapses](https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW) | 2:35 | 2022-05-25 |  |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2022-05-25 |  |
+| [To Let Go](https://open.spotify.com/track/5jlmqNLDg7DHD3RBtX57JK) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [To Let Go](https://open.spotify.com/album/5tHIt7x4MIwv9xJ8a73gzG) | 3:05 | 2024-02-15 |  |
 | [Togetherness](https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3) | [Emeraldic](https://open.spotify.com/artist/03zWCCGrixU8hjtzgf8VRK) | [Togetherness](https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh) | 2:47 | 2022-05-25 |  |
 | [Tomorrow Will Save Us](https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 3:06 | 2022-05-25 | 2022-07-29 |
 | [Tomorrow Will Save Us](https://open.spotify.com/track/4QqwpUpSkt7WsljQxDAKda) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 3:06 | 2022-07-15 | 2022-09-28 |
@@ -349,6 +353,7 @@
 | [Unwind](https://open.spotify.com/track/3e1SIAaOU2ai7MGF77qxUi) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Unwind](https://open.spotify.com/album/7LX0QJNQOhEOEHGsHyUeie) | 2:15 | 2023-01-13 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-05-25 |  |
 | [Vast Surroundings](https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:13 | 2022-05-25 |  |
+| [Velvet Visions](https://open.spotify.com/track/4q38Ccg8YfyoaebTjI7f0j) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Velvet Visions](https://open.spotify.com/album/1ppK0OxmjMoZzxSG1hWv6Z) | 3:38 | 2024-02-15 |  |
 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-09-30 | 2023-01-10 |
 | [Visions of Sleep and Beyond](https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 3:01 | 2022-05-25 | 2022-09-28 |
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2022-05-25 | 2022-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,374 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,376 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 11 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
 | 12 | [ALONG THE WAY](https://open.spotify.com/track/1TJJlmu9T3MZfQaljHEwF1) | [Swayyvo](https://open.spotify.com/artist/2vd6N0yWTqEdvio3oCSfAt) | [Alone In Noise \(Deluxe\)](https://open.spotify.com/album/0wSA2j820E0eTwx301MQzI) | 3:29 |
 | 13 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
-| 14 | [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/track/5kmrgsolftnZzuLHnUsC3M) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/album/7zWsjjc1JsY5SGYBC8nXzT) | 2:49 |
+| 14 | [Puedes Decir De Mi](https://open.spotify.com/track/2GiIG3pYsmHEXzy2LEomEp) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Boleros Psicodélicos](https://open.spotify.com/album/4UPS9xWe3D9WkyR8rcZe8v) | 2:49 |
 | 15 | [Mood of Water](https://open.spotify.com/track/5l1wRVchvaJcp77JX2U0tn) | [Ṭaüs](https://open.spotify.com/artist/5pCOMrIUlMYu1VdIz9Pirl) | [Mood of Water](https://open.spotify.com/album/5FcpuE2CeCUTtaIbnxKmvf) | 3:25 |
 | 16 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
 | 17 | [Money Mouth](https://open.spotify.com/track/6L3kDfKAiQ2OVSo9qJCNou) | [Diamond Qing](https://open.spotify.com/artist/1pfbSeP4gfHhdWg5YZJcaz) | [Qing of Harlem](https://open.spotify.com/album/2109REvE184AYZZJPmLskm) | 1:52 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 65 | [You Do](https://open.spotify.com/track/5A6wPSr9yWhVs53a8Id6vL) | [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Rumble Pack](https://open.spotify.com/album/13TYR6W2v5bAxqY094wL07) | 2:28 |
 | 66 | [On My Block](https://open.spotify.com/track/5qPkEnq2wSbnLJTK31mZy4) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Fix](https://open.spotify.com/album/0Kahsu5SG9FX1mBhLuiA8L) | 3:34 |
 
-Snapshot ID: `MCwwOTJlY2FmZGU3N2JjYzUwZWYyNDIxZTc0MTczNzMzYjM3NWI0NGRi`
+Snapshot ID: `MCxiNDY1NWY2YjZiMjczZjNmZTIyMmY1ZGJjNzZhYTlhMTk2ZTRmOGZj`

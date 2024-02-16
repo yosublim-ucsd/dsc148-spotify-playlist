@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC ",
-  "num_followers": 128409,
+  "num_followers": 128406,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNhZWRmNzYzODUzNzNiODM1MTliM2IyOGE1ZGMyZTVkN2JlYjE5",
+  "snapshot_id": "MCw5MjAwMzVlOTY4MjY0NzI3MjFjNjg3ZjczNDIwZTQ5YjdiNzU5Zjg1",
   "tracks": [
     {
       "added_at": "2024-02-09 17:30:47",
@@ -939,6 +939,30 @@
     {
       "added_at": "2024-02-09 17:30:47",
       "album": {
+        "name": "\u00daltima Noite (Papatracks#11)",
+        "url": "https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "\u00daltima Noite (Papatracks#11)",
+      "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"
+    },
+    {
+      "added_at": "2024-02-09 17:30:47",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1003,30 +1027,6 @@
       "duration_ms": 340425,
       "name": "Floripa",
       "url": "https://open.spotify.com/track/38r9CzTvjFuEC4PrzRI78K"
-    },
-    {
-      "added_at": "2024-02-09 17:30:47",
-      "album": {
-        "name": "\u00daltima Noite (Papatracks#11)",
-        "url": "https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "\u00daltima Noite (Papatracks#11)",
-      "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"
     },
     {
       "added_at": "2024-02-09 17:30:47",

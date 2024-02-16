@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-524 songs - 1 day 7 hr 19 min
+525 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-07-22 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 | 2024-01-26 |  |
-| [Kentucky Morning](https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh) | [Old Cane Back Rocker](https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik) | 3:51 | 2023-08-11 |  |
+| [Kentucky Morning](https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh) | [Old Cane Back Rocker](https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik) | 3:51 | 2023-08-11 | 2024-02-16 |
 | [Kentucky Morning](https://open.spotify.com/track/6pvN9EWw7ADaf9i8fq0W8J) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh) | [Kentucky Morning](https://open.spotify.com/album/3o2DQV1b7sIxCQf3G0yf3c) | 3:51 | 2023-08-11 | 2023-08-17 |
 | [Keys](https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG) | [Clyde and the Milltailers](https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA) | [Gone](https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ) | 3:00 | 2022-06-17 | 2024-01-27 |
 | [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 | 2022-06-28 |
@@ -297,6 +297,7 @@
 | [Moonbeam](https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp) | [Waterhouse](https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S) | [Moonbeam](https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2) | 3:04 | 2021-12-17 | 2022-07-25 |
 | [More Than I Am](https://open.spotify.com/track/2Ayvf4LEGkXWSRk429AzuO) | [Mountain Heart](https://open.spotify.com/artist/0V6tfevNowzUPFTrEQTJE8) | [More Than I Am](https://open.spotify.com/album/1F5KFF0ydZKl2jHH3V07Nx) | 3:34 | 2021-12-17 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2021-12-17 |  |
+| [Morning Shift](https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Morning Shift](https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn) | 4:23 | 2024-02-09 |  |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2023-10-27 |  |
 | [Mountain Pass](https://open.spotify.com/track/211gDdOBKAqGbfMi0C0Vfc) | [Gabriel Wiseman](https://open.spotify.com/artist/7MTxvc84kUIqu8ddhPcMFW) | [Mountain Pass](https://open.spotify.com/album/2PUpurApzR0lkhFvv4RPdr) | 2:58 | 2021-12-31 | 2022-07-05 |
 | [Mountain Rosalie](https://open.spotify.com/track/1t3Ecv2C0bmTr29vhykXDQ) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Mountain Rosalie](https://open.spotify.com/album/3b0b40cTHQKgbOOqhLYwnZ) | 2:33 | 2022-10-14 | 2022-11-04 |

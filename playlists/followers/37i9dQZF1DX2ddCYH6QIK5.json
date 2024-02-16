@@ -1,7 +1,7 @@
 {
-  "2024-02-15": 28163,
+  "2024-02-16": 28174,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Katzi, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: jeanie, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 390500,
       "name": "Back to the Roots",
       "url": "https://open.spotify.com/track/54KvNhZTGFHT8tazI0TAdo"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 171286,
       "name": "Baddest Me",
       "url": "https://open.spotify.com/track/6nS8pvguEjOZAa0cqcPrHc"
@@ -2044,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "Bleib",
+        "url": "https://open.spotify.com/album/5jY8dVrhpp7lAxj7CzhsX1"
+      },
+      "artists": [
+        {
+          "name": "Zoe Trop",
+          "url": "https://open.spotify.com/artist/5QApJtzd0M0fIiGYX0znfN"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130104,
+      "name": "Bleib",
+      "url": "https://open.spotify.com/track/4rkVwAB0x56ggtGOedzAIE"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/4hkyiq4Dssk41PIVm2vNm8"
       },
@@ -2233,6 +2251,24 @@
       "duration_ms": 202000,
       "name": "Blumen auf meiner Haut",
       "url": "https://open.spotify.com/track/56TP62SmsPdbGDcRmkP1ze"
+    },
+    {
+      "album": {
+        "name": "Blumen aus Glas",
+        "url": "https://open.spotify.com/album/6w8sa70pj1BQCsEbFwWcdX"
+      },
+      "artists": [
+        {
+          "name": "Bley",
+          "url": "https://open.spotify.com/artist/0mqQIoe6iQzBPlzVtvJqXl"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Blumen aus Glas",
+      "url": "https://open.spotify.com/track/0yR0KtOEKhttTs8KFcgavc"
     },
     {
       "album": {
@@ -4150,6 +4186,24 @@
     },
     {
       "album": {
+        "name": "Die That Way",
+        "url": "https://open.spotify.com/album/5k4bDVMAgkjuZ3cKJ1L1al"
+      },
+      "artists": [
+        {
+          "name": "Bootsy",
+          "url": "https://open.spotify.com/artist/5qgIEpgDea1QlFu29VrTuI"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191907,
+      "name": "Die That Way",
+      "url": "https://open.spotify.com/track/0wD5SAqDf3pKNWfgIduarV"
+    },
+    {
+      "album": {
         "name": "Die Welt ist fertig",
         "url": "https://open.spotify.com/album/5nTHiVkexfddhYi4XGT5N1"
       },
@@ -4417,7 +4471,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 147750,
       "name": "Dr. Joe",
       "url": "https://open.spotify.com/track/2QdnAOchCQI99KCbmYFiJq"
@@ -4843,7 +4897,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 214786,
       "name": "ECHOES",
       "url": "https://open.spotify.com/track/7o0qMiguXqu5YlXvjpRopg"
@@ -5371,6 +5425,24 @@
       "duration_ms": 159428,
       "name": "Even Superman Cried",
       "url": "https://open.spotify.com/track/6On6icikXnQvWKqeRmY6zq"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2PPtJgAWi0uwXGBW5z31E5"
+      },
+      "artists": [
+        {
+          "name": "jeanie",
+          "url": "https://open.spotify.com/artist/07hMLICYoIKGhV4xeTBApP"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134470,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/7fNjY0oS8mKPtGQxevOBwz"
     },
     {
       "album": {
@@ -7617,7 +7689,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 169017,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS"
@@ -8169,7 +8241,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 128468,
       "name": "I Know (I Know)",
       "url": "https://open.spotify.com/track/1lbDymfwvHErDN9EXxWddu"
@@ -8685,7 +8757,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 143322,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/7neP1B0gGOBbdZn6FIOhzf"
@@ -9420,6 +9492,28 @@
     },
     {
       "album": {
+        "name": "K\u00fcnstliche Intelligenz",
+        "url": "https://open.spotify.com/album/1GhHWoaEBW1qlKuoMEkwzb"
+      },
+      "artists": [
+        {
+          "name": "H.i.T.",
+          "url": "https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76479,
+      "name": "K\u00fcnstliche Intelligenz",
+      "url": "https://open.spotify.com/track/31FVHxuw0Q34rcSVYROia6"
+    },
+    {
+      "album": {
         "name": "L.O.V.E EP",
         "url": "https://open.spotify.com/album/7KDBRLmNkSvRfGpO4wERsD"
       },
@@ -9492,6 +9586,24 @@
     },
     {
       "album": {
+        "name": "Lange her",
+        "url": "https://open.spotify.com/album/6xkzcojzbpqLmMIJI7CE54"
+      },
+      "artists": [
+        {
+          "name": "Skatch",
+          "url": "https://open.spotify.com/artist/3N1D35YkG9RefRmyD614CS"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Lange her",
+      "url": "https://open.spotify.com/track/3o1g9quk4CP1Zf36CsyjUk"
+    },
+    {
+      "album": {
         "name": "Lantern",
         "url": "https://open.spotify.com/album/3hq0lmCHxCKFqFaYItuWwz"
       },
@@ -9561,6 +9673,24 @@
       "duration_ms": 214000,
       "name": "Lately",
       "url": "https://open.spotify.com/track/3ReVWeeH0a44SLYlfrvJuB"
+    },
+    {
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/2dakEVmPv4LIeEiVVXkspV"
+      },
+      "artists": [
+        {
+          "name": "WAHNSCHAFFE",
+          "url": "https://open.spotify.com/artist/2NnBz1FZqbjNd17dBBMsdh"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246722,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/5LXHSMvqTonMnHI8r8rys6"
     },
     {
       "album": {
@@ -10109,7 +10239,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 136551,
       "name": "lost again",
       "url": "https://open.spotify.com/track/1O4kJmVmMLL7y3gBGqdHT6"
@@ -11189,6 +11319,24 @@
       "duration_ms": 202553,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/60T8WxijsBXKLrEv4xbXsS"
+    },
+    {
+      "album": {
+        "name": "Murderer in the Moonlight",
+        "url": "https://open.spotify.com/album/68PX6TsfxjHyEAf5pcJWmm"
+      },
+      "artists": [
+        {
+          "name": "MERIT",
+          "url": "https://open.spotify.com/artist/7tBhBEIKZznYE8CI618tNv"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197885,
+      "name": "Murderer in the Moonlight",
+      "url": "https://open.spotify.com/track/48p0uLjnXC25DW1ulg4eQ0"
     },
     {
       "album": {
@@ -12384,6 +12532,28 @@
     },
     {
       "album": {
+        "name": "Secret Blue Jeans Society",
+        "url": "https://open.spotify.com/album/0dibS5iN58ZLKDCzpx7U0B"
+      },
+      "artists": [
+        {
+          "name": "Jeansboy",
+          "url": "https://open.spotify.com/artist/2nYe3KXA5KldRLU6Zak0hw"
+        },
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157226,
+      "name": "Over And Over Again",
+      "url": "https://open.spotify.com/track/1r0KKV2i7fw7pkHNCMaews"
+    },
+    {
+      "album": {
         "name": "OVVERNIGHT",
         "url": "https://open.spotify.com/album/1nYuh5g2D61AC6wWbYXN0e"
       },
@@ -13293,7 +13463,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 470096,
       "name": "Ravers of the Universe",
       "url": "https://open.spotify.com/track/1q3ohBcWaW8WxUtgO42s1C"
@@ -14617,7 +14787,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 238506,
       "name": "Siren Call",
       "url": "https://open.spotify.com/track/31VKQN14i7fsa4DP5mOsIF"
@@ -14657,6 +14827,24 @@
       "duration_ms": 269538,
       "name": "Skarabeos - Radio-Edit",
       "url": "https://open.spotify.com/track/1RAtBuFaEAYINNexbKLbKh"
+    },
+    {
+      "album": {
+        "name": "sleep",
+        "url": "https://open.spotify.com/album/5vjW0YOkRA7LYsrAEMQkP4"
+      },
+      "artists": [
+        {
+          "name": "ischia",
+          "url": "https://open.spotify.com/artist/57JM5OOc58JAe5H2NuUhsX"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171222,
+      "name": "sleep",
+      "url": "https://open.spotify.com/track/0Zt1rFdighzqNQDgmN4srr"
     },
     {
       "album": {
@@ -16501,7 +16689,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 194106,
       "name": "Time for Us",
       "url": "https://open.spotify.com/track/03hTMTJujRmDTV7P1aSgGl"
@@ -17899,6 +18087,24 @@
       "duration_ms": 162000,
       "name": "Weit Weg",
       "url": "https://open.spotify.com/track/2le1MBo0VxHCa9kDM8fmrp"
+    },
+    {
+      "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a"
+      },
+      "artists": [
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,663 likes - 70 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,664 likes - 70 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 69 | [Like Steel](https://open.spotify.com/track/1LFUykhSDCqcmpDzs0WpvH) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/4aakvcLyo3hy75L2R2w5jp) | 5:07 |
 | 70 | [Rag](https://open.spotify.com/track/1U2g56MOsv3yZ6g70OhwGk) | [Veera Syrén](https://open.spotify.com/artist/6eBDvwzuPtOwgr6wXLahsI) | [Rag](https://open.spotify.com/album/7mgH9Xu4xGvMaizxeTUeSf) | 4:10 |
 
-Snapshot ID: `MCwyY2QzZGE0NjZlNjQ4OTcwZTg2NGQ0Y2YzMzgyZjlkOTNhNGVkMGU3`
+Snapshot ID: `MCw1ZDcyMzNhYzcwYTEzMDgzNmQxZmUyOWFjNzUzMDI3NjRmZjlkNzc0`

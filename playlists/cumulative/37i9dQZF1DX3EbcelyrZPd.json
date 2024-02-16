@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Lava Lava",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 187155,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh"
@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh"
+      },
+      "artists": [
+        {
+          "name": "Bonge La Nyau",
+          "url": "https://open.spotify.com/artist/4w19ryUFdkiLmZ26j5omEY"
+        },
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/0I5lFzbgE9kwcZUeXmUZPn"
+    },
+    {
+      "album": {
         "name": "Bobea",
         "url": "https://open.spotify.com/album/6K66HalLnaJpXDAIUeZH4W"
       },
@@ -830,7 +852,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 159940,
       "name": "Christmas",
       "url": "https://open.spotify.com/track/1Hu3uDMly67raPG5FyfmVq"
@@ -4276,7 +4298,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 234216,
       "name": "Nawaza",
       "url": "https://open.spotify.com/track/3yWfiWRv51tuYlAzh7KHSO"
@@ -6252,7 +6274,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 203937,
       "name": "Teamo",
       "url": "https://open.spotify.com/track/71KydYgv1zsyFfnk08FLhW"
@@ -6935,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "Wawili",
+        "url": "https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190689,
+      "name": "Wawili",
+      "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
+    },
+    {
+      "album": {
         "name": "Waya",
         "url": "https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC"
       },
@@ -7032,6 +7072,24 @@
       "duration_ms": 204415,
       "name": "Wenyewe",
       "url": "https://open.spotify.com/track/5dfPuFkAQinbzkzBGtOW57"
+    },
+    {
+      "album": {
+        "name": "Wewe",
+        "url": "https://open.spotify.com/album/3eEgq8X2S0cWoHUhKZPfQd"
+      },
+      "artists": [
+        {
+          "name": "D Love",
+          "url": "https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193894,
+      "name": "Wewe",
+      "url": "https://open.spotify.com/track/3KKWjl22OG6lEDQN2xDNn9"
     },
     {
       "album": {
@@ -7328,6 +7386,28 @@
       "duration_ms": 177600,
       "name": "Zanzibar (feat. Bruce Melodie)",
       "url": "https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy"
+    },
+    {
+      "album": {
+        "name": "Zawadi (feat. Dadiposlim)",
+        "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Dadiposlim",
+          "url": "https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Zawadi (feat. Dadiposlim)",
+      "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd"

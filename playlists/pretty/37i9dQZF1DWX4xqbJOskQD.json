@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmYxMDMxYmQyNjY3MWQ3ZDdjMDc5NzUzYmE0MmQyZjg1YmM5NzY1",
+  "snapshot_id": "MCxjMjk0NTNhZTE2ZTViNGQzYjM1MTlmYWMyMWI4OGU5YWJlYzIzZjY0",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -227,18 +227,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Voices In Modern",
-        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
+        "name": "The War Years (1941-1947)",
+        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
       "artists": [
         {
-          "name": "The Four Freshmen",
-          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
         }
       ],
-      "duration_ms": 178440,
-      "name": "It's A Blue World",
-      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
+      "duration_ms": 188293,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -259,22 +263,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The War Years (1941-1947)",
-        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
+        "name": "Voices In Modern",
+        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "The Four Freshmen",
+          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
         }
       ],
-      "duration_ms": 188293,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+      "duration_ms": 178440,
+      "name": "It's A Blue World",
+      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
-      },
-      "artists": [
-        {
-          "name": "The King Sisters",
-          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Early Autumn",
-      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -695,18 +679,34 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Singles Collection 1946-60",
-        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
       },
       "artists": [
         {
-          "name": "The Fontane Sisters",
-          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+          "name": "The King Sisters",
+          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Underneath The Linden Tree",
-      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
+      "duration_ms": 171960,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Kirby Stone Touch",
+        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
+      },
+      "artists": [
+        {
+          "name": "Kirby Stone Four",
+          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Kirby Stone Touch",
-        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
+        "name": "The Singles Collection 1946-60",
+        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
       },
       "artists": [
         {
-          "name": "Kirby Stone Four",
-          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
         }
       ],
-      "duration_ms": 129866,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
+      "duration_ms": 161906,
+      "name": "Underneath The Linden Tree",
+      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
     },
     {
       "added_at": "2020-08-17 22:49:59",

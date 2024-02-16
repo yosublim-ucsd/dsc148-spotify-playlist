@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14211,
+  "num_followers": 14209,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzg2YTk1OGYyMmZkMmM0ZGRlYWJiNzg5NGRjZjgzNGFkZjRmNmU0",
+  "snapshot_id": "MCw4YmY4YTFiOWM2OThlNjEwYWI0MDdjMmI1ZTRiNzJkNzBlNjA0MjFk",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "T.O.P - The 2nd Album",
         "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 281760,
       "name": "T.O.P. (Twinkling Of Paradise)",
       "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 231173,
-      "name": "How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
+      "duration_ms": 217533,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Digital Bounce",
-        "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Gugip: C.J.2002",
         "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
       },
@@ -1363,6 +1347,38 @@
       "duration_ms": 260480,
       "name": "Seulpun honjatmal",
       "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Story of someone I know",
+        "url": "https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Digital Bounce",
+        "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1395,26 +1411,6 @@
       "duration_ms": 204973,
       "name": "Snow Prince",
       "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Son Dam Bi Mini Album vol. 2",
-        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        },
-        {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Crazy (feat.Eric)",
-      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1455,34 +1451,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SE7EN New Mini Album",
-        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
+        "name": "Son Dam Bi Mini Album vol. 2",
+        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
       },
       "artists": [
         {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
-      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Story of someone I know",
-        "url": "https://open.spotify.com/album/6sfusYb200S4DfUMfaM3Sh"
-      },
-      "artists": [
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        },
         {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
         }
       ],
-      "duration_ms": 206624,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/6qnOvA4WbP3HdYd1DFRoCr"
+      "duration_ms": 241371,
+      "name": "Crazy (feat.Eric)",
+      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "SE7EN New Mini Album",
+        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
+      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D"
       },
@@ -1547,6 +1547,26 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
+      },
+      "artists": [
+        {
+          "name": "BYUL",
+          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
+        },
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "\uc548\ubd80",
+      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
-      },
-      "artists": [
-        {
-          "name": "BYUL",
-          "url": "https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp"
-        },
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "\uc548\ubd80",
-      "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c `\uc790\uc2e0\uc758 \ub300\ud45c\uace1`",
         "url": "https://open.spotify.com/album/0tdCd8Z8RkV03UcM6p7xQK"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "\uc678\uc6cc \ub450\uc138\uc694",
-      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Purple Drop",
         "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 218400,
       "name": "Hawaian Couple",
       "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "\uc678\uc6cc \ub450\uc138\uc694",
+      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

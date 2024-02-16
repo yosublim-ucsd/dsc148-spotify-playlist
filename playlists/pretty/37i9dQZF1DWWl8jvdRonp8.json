@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 195852,
+  "num_followers": 195960,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmYwNzIxZTNlNTIzZDU3ZTQwZDkzNmJiNzEyY2QxMDVkOGE1NmE0",
+  "snapshot_id": "MCxiZjFkNWQ2ZmFlYjc4MmI5NWUwYTFiZGJmMzI3ODMzNmNkMjJiMzU3",
   "tracks": [
     {
       "added_at": "2023-10-11 22:12:05",
@@ -91,8 +91,8 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -399,28 +399,28 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "M\u00e1s Capaces Que Nunca",
-        "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
+        "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
+        "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
       "artists": [
         {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         },
         {
-          "name": "Jos\u00e9 Manuel Zamacona",
-          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
+      "duration_ms": 227973,
+      "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
+      "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
     },
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -483,22 +483,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
-        "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
+        "name": "M\u00e1s Capaces Que Nunca",
+        "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
         },
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
         }
       ],
-      "duration_ms": 227973,
-      "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
-      "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
+      "duration_ms": 191360,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -591,8 +591,8 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -675,8 +675,8 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/2tYKnng75q7EsR08q557vM"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 230986,
       "name": "Encadenada a Mi",
       "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/2tYKnng75q7EsR08q557vM"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 280653,
+      "name": "Entre Tu Y Yo",
+      "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Homenaje A Mi Madre",
         "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
@@ -1631,6 +1647,22 @@
       "duration_ms": 300013,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1655,22 +1687,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Despu\u00e9s De Hoy",
         "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 189280,
       "name": "Mi Najayita",
       "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 280653,
-      "name": "Entre Tu Y Yo",
-      "url": "https://open.spotify.com/track/3HzJk6dBCLNvRt2O33JgOm"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 159300,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Prefiero Ir Sola",
-      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Presiento Que Voy A LLorar",
-      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
+      "duration_ms": 200546,
+      "name": "Prefiero Ir Sola",
+      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
       "artists": [
         {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 207293,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
+      "duration_ms": 193000,
+      "name": "Presiento Que Voy A LLorar",
+      "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 211586,
       "name": "Tu Ingratitud",
       "url": "https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
     },
     {
       "added_at": "2023-10-11 22:12:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,026 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,006 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 45 | [Monster](https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 4:09 |
 | 46 | [Calling All the Monsters](https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Disney Halloween](https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y) | 3:26 |
 | 47 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
-| 48 | [The Addams Family](https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Battlestar Galactica: The A to Z of Fantasy TV](https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ) | 2:22 |
-| 49 | [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 |
+| 48 | [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 |
+| 49 | [The Addams Family](https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Battlestar Galactica: The A to Z of Fantasy TV](https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ) | 2:22 |
 | 50 | [I Put A Spell On You](https://open.spotify.com/track/0F5qpNAXWKyvyrHbpn168z) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb) | 3:36 |
 | 51 | [Sorry Sack Of Bones](https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:48 |
 | 52 | [Ghosts \- Single Edit](https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Ghosts \(Remixes\)](https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Killing Game](https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Last Rights](https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq) | 3:48 |
 | 60 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 
-Snapshot ID: `MCxlOGFkYmEyMDBhZTQ4NzU3NDAwNDE2MWQ1MGZlZDc2ZmVlMDhiYmEx`
+Snapshot ID: `MCw1M2YwNzhmNDU2MTQ0NWQwNTUzZjQyYzU0ODhjNTJkNWU5NzMwYzQ2`

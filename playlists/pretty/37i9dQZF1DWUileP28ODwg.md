@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,133 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,304 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 76 | [Still Standing](https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Still Standing](https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn) | 3:24 |
 | 77 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
 | 78 | [Not So Sure](https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Where The Winter Was](https://open.spotify.com/album/5aHds2df6eKrOirRI9895D) | 3:30 |
-| 79 | [Lead of Love](https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [Caedmon's Call](https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A) | 4:01 |
-| 80 | [The Rock I'm On](https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH) | [Ross King](https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg) | [The Rock I'm On](https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ) | 3:28 |
+| 79 | [The Rock I'm On](https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH) | [Ross King](https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg) | [The Rock I'm On](https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ) | 3:28 |
+| 80 | [Lead of Love](https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [Caedmon's Call](https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A) | 4:01 |
 | 81 | [I Believe](https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6), [Wes King](https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep) | [I Believe](https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ) | 3:11 |
 | 82 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |
 | 83 | [Plans](https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Plans](https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp) | 4:57 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 93 | [Eye to Eye](https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow) | [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [Still](https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf) | 4:41 |
 | 94 | [In Christ Alone](https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [In Christ Alone](https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj) | 3:42 |
 | 95 | [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 |
-| 96 | [Grace after Grace Reimagined](https://open.spotify.com/track/2QBH21Ja2afe2iHxBqSNwg) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Kenny J West](https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb) | [Grace after Grace Reimagined](https://open.spotify.com/album/4E4BkTx5cbchemPgXFgc0i) | 3:05 |
-| 97 | [Mountain Top](https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl) | 3:54 |
+| 96 | [Mountain Top](https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl) | 3:54 |
+| 97 | [Grace after Grace Reimagined](https://open.spotify.com/track/2QBH21Ja2afe2iHxBqSNwg) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Kenny J West](https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb) | [Grace after Grace Reimagined](https://open.spotify.com/album/4E4BkTx5cbchemPgXFgc0i) | 3:05 |
 | 98 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 |
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCw2ZjMzNjcwOWFhODNkODgxOTczN2JmMGZmNzM1NjlkOWE3NTNmZDVl`
+Snapshot ID: `MCw2ZjlhY2VmZmNiOWVjNTkyZjIxMGU5Njk1NGEyOWMxMDc5ZGExMWJi`

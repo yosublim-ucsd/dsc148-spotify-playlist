@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from USHER, Kacey Musgraves, Noah Kahan, Little Simz, Forest Blakk and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,286 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,310 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 56 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 |
 | 57 | [Do It Again](https://open.spotify.com/track/3IglwgxQ04acpQabSK8kfk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Do It Again](https://open.spotify.com/album/4TE7hHhIEsa4pan0KtVj4Q) | 4:13 |
 | 58 | [Restore](https://open.spotify.com/track/2U7kChVvA58aY4yrLG0WI2) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Restore](https://open.spotify.com/album/1if5XbCgoNFkS5GoaVNsFz) | 2:30 |
-| 59 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 |
+| 59 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 |
 | 60 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 | 61 | [Wait For Me](https://open.spotify.com/track/34w4MTDsuPBTAT3T3wedUp) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik), [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [I Still Think About You](https://open.spotify.com/album/5OEBc4f8y1em64lH6PAV5y) | 2:24 |
 | 62 | [For Months Now](https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bike Dream](https://open.spotify.com/track/0pg1rByVA1R5YFMMwCglVZ) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Bike Dream](https://open.spotify.com/album/3iKPE0lxcCIBfNACrZy04L) | 3:13 |
 | 100 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 |
 
-Snapshot ID: `MCw0Y2VmZTljYzJkMTFjOGQ0MDhhM2Y1ZjMwMDc2N2ExMjY3OWIyMjUw`
+Snapshot ID: `MCw3YTBmNmNmMGE3MTgyN2I4ZDVmMmI3YzkzOWEyNDMxMmUyNTlhODM5`

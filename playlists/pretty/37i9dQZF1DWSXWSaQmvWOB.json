@@ -1,15 +1,15 @@
 {
-  "description": "Your daily dose of soul-infused music! Cover: Quantic",
-  "num_followers": 455694,
+  "description": "Your daily dose of soul-infused music! Cover: BJ The Chicago Kid",
+  "num_followers": 455697,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDdhNDE0YmUxZTdlNTczMTVjMTlhZWRkMGUyYWEwYTAwZDhmM2M3",
+  "snapshot_id": "MCxlYjg0ZWZkNDlkMjUzMTVhNjJmOWI4NmZlZmNlOTM0OWFkYTNiZDYx",
   "tracks": [
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Gravy",
         "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
@@ -29,55 +29,23 @@
       "url": "https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV"
+        "name": "STEP BY STEP",
+        "url": "https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal"
       },
       "artists": [
         {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Lifted Up",
-      "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
+      "duration_ms": 209248,
+      "name": "STEP BY STEP",
+      "url": "https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
-      "album": {
-        "name": "OLD SONGS, SAME LOVE",
-        "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "I'M A MAN - MIDNIGHT VERSION",
-      "url": "https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e"
-    },
-    {
-      "added_at": "2024-02-09 10:45:54",
-      "album": {
-        "name": "Keep It To Yourself",
-        "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
-      },
-      "artists": [
-        {
-          "name": "The Tibbs",
-          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "Give Me a Reason",
-      "url": "https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq"
-    },
-    {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "All for You",
         "url": "https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT"
@@ -97,7 +65,71 @@
       "url": "https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Man of the Hour",
+        "url": "https://open.spotify.com/album/4nFtDGFsOh49q9VXrdlwlx"
+      },
+      "artists": [
+        {
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Man of the Hour",
+      "url": "https://open.spotify.com/track/2Uz6eflEfqMJj2wuKKs8HM"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "OLD SONGS, SAME LOVE",
+        "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "I'M A MAN - MIDNIGHT VERSION",
+      "url": "https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Sweet Talking Honeys (feat. Max Tuohy)",
         "url": "https://open.spotify.com/album/1hso95vrFE15sn24uzWBum"
@@ -117,7 +149,23 @@
       "url": "https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Keep It To Yourself",
+        "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m"
@@ -133,7 +181,7 @@
       "url": "https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -149,23 +197,7 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
-      "album": {
-        "name": "MARY",
-        "url": "https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 206052,
-      "name": "MARY",
-      "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
-    },
-    {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Dancing While Falling",
         "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Brothers And Sisters",
         "url": "https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "The Lost Tape",
         "url": "https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/2YeRpzh6YWTeDpYGJgS0LM"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Love the Mystery",
         "url": "https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Serena (Feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Favorite Thing to Do",
         "url": "https://open.spotify.com/album/2jtnBkj4zEknJH95VeO7kM"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "What's the Move",
         "url": "https://open.spotify.com/album/431U10Fvg2NtgECribydtZ"
@@ -325,23 +357,7 @@
       "url": "https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
-      },
-      "artists": [
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
-        }
-      ],
-      "duration_ms": 259265,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
-    },
-    {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Everything\u2019s Beautiful",
         "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Can't Afford Therapy",
         "url": "https://open.spotify.com/album/3ZHMK3HK4L9j5pmYZ7eBHH"
@@ -373,23 +389,7 @@
       "url": "https://open.spotify.com/track/6Mek4TbQaDrS2jqe0KBhWy"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
-      "album": {
-        "name": "BLACCJACK THE MAC",
-        "url": "https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 137079,
-      "name": "BLACCJACK THE MAC",
-      "url": "https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk"
-    },
-    {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "THE BOOK OF CLARENCE (The Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4t3ZghXZc8mQgIpVHUPxW4"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/1C5qJQyeR3bNSbPRl9hOhZ"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Saturday Night (Need You Now)",
         "url": "https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Sleeper",
         "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "For All Time",
         "url": "https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Nakie Nakie",
         "url": "https://open.spotify.com/album/2hEEMvD5dELumMCQOfNdVg"
@@ -481,7 +481,23 @@
       "url": "https://open.spotify.com/track/18QfA6nedF15GCefoRmbcT"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "MARY",
+        "url": "https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 206052,
+      "name": "MARY",
+      "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Jay Bird",
         "url": "https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Back to your Place",
         "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Loves Me Not",
         "url": "https://open.spotify.com/album/44r88qiS1bWVpciRKe23mV"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/1lkpAjIs0tnD7vKIbJPycT"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Keep It To Yourself",
         "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/6ToyjrRZI3n7pgnhgr0gst"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/0M7oki70AV10Ztt3HyUd8Z"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Dancin Like a Fool",
         "url": "https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "So Glad I Found You",
         "url": "https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "More Than a Love Song",
         "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "ALL DA TIME",
         "url": "https://open.spotify.com/album/37v1eLlzy3tLnrkNFrIzPb"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/5sPvDvxuuOBxo0njp76d2s"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/2jBqINRBrOjPpLD2Mtw4XW"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Mrs. Postman",
         "url": "https://open.spotify.com/album/6ku3r5n7dUQAXadxQ9ggZe"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "These Songs Are For Anyone Sick Of Earth",
         "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Strawberry Skies",
         "url": "https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09"
@@ -813,31 +829,7 @@
       "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
-      "album": {
-        "name": "Neighbor",
-        "url": "https://open.spotify.com/album/7dnlDFwoW91q62L85zUcTO"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        },
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        },
-        {
-          "name": "Double Cream",
-          "url": "https://open.spotify.com/artist/7g1yQWpJVDXbZBxbMrzdDJ"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Neighbor",
-      "url": "https://open.spotify.com/track/1tnx2C8OgmFrenHvdVuaBL"
-    },
-    {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Better Be Home Soon",
         "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
@@ -857,7 +849,7 @@
       "url": "https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Burning Up",
         "url": "https://open.spotify.com/album/0apr7K3amwjcyrTeRA2fKV"
@@ -873,7 +865,7 @@
       "url": "https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ"
@@ -897,7 +889,7 @@
       "url": "https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10"
     },
     {
-      "added_at": "2024-02-09 10:45:54",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Run (feat. Andreya Triana)",
         "url": "https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0"

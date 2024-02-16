@@ -1,12 +1,12 @@
 {
   "description": "Una speciale selezione jazz natalizia! \ud83c\udf84 A cura di <a href=\"spotify:artist:2qW0CNnmvdEQwiabdareHi\">Paolo Fresu</a>! \ud83c\udf1f",
-  "num_followers": 28420,
+  "num_followers": 28419,
   "original_name": "Jazz Italia: Speciale Natale ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDY0MzQzYjUyMDI0MjdkMmNhNTJjODI0ZjVhZjJkZDcxODJlMWYx",
+  "snapshot_id": "MCxlMDcxY2U2ODBkYzcxOThhZTMyZjY1MzdmMDJlY2RkMzJmMDYyNmVh",
   "tracks": [
     {
       "added_at": "2023-12-05 15:15:57",
@@ -363,17 +363,21 @@
     {
       "added_at": "2023-12-05 15:15:57",
       "album": {
-        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
+        "name": "A Swingin' Christmas (feat. Count Basie Big Band)",
         "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
       },
       "artists": [
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie Big Band",
+          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
         }
       ],
       "duration_ms": 195106,
-      "name": "Silver Bells",
+      "name": "Silver Bells (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
     },
     {

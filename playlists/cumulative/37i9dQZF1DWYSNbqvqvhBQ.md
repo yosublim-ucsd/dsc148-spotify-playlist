@@ -4,7 +4,7 @@
 
 > Luister naar nieuwe songs en hits van dit moment! Cover: Stephen Sanchez
 
-359 songs - 20 hr 47 min
+361 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Love Song](https://open.spotify.com/track/5DJeMovbaAfGWcxkN2TVaM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 2:40 | 2023-11-13 | 2024-02-03 |
 | [Love Song](https://open.spotify.com/track/6AoAAW6AJBdZ9Ket9nUhSG) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1ej1wD4Xw3T47czXKeFixm) | 2:40 | 2023-08-03 | 2023-10-15 |
 | [Lovestruck](https://open.spotify.com/track/12N4DCVM7AXrIsI33Dafpw) | [Benedict October](https://open.spotify.com/artist/6QSKRQL7F1OQPpJf6JRazP) | [Lovestruck](https://open.spotify.com/album/6J3Vgkharzbmw0GMZ1qwfD) | 4:16 | 2023-12-08 | 2024-01-26 |
+| [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 | 2024-02-15 |  |
 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-02 | 2023-07-07 |
 | [Mansion on the Moon](https://open.spotify.com/track/3LNTiQaq5FRbXFQZfKTXK9) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Mansion on the Moon](https://open.spotify.com/album/2qHgrXAiDwa7pkjwXYNvHT) | 3:23 | 2023-04-28 | 2023-09-22 |
 | [Mathematics](https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:01 | 2023-09-21 | 2024-02-03 |
@@ -279,7 +280,7 @@
 | [Spoiler Alert](https://open.spotify.com/track/14p2o2hh7wJuSoosGZsljx) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [Spoiler Alert](https://open.spotify.com/album/1IAHly3YU8Z1i9BOQyJPyA) | 3:46 | 2023-03-02 | 2023-06-27 |
 | [Stay](https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Stay](https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg) | 3:05 | 2023-11-19 |  |
 | [Stay Or Go](https://open.spotify.com/track/0le00Jf2v8KZRTWzugLhtC) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:45 | 2023-11-23 |  |
-| [Stay Where You Are](https://open.spotify.com/track/45TjMpEZBcTD2rpMaJQ8TH) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Stay Where You Are](https://open.spotify.com/album/6yG312KBUfgVXYT3TUWg1H) | 3:25 | 2023-10-12 |  |
+| [Stay Where You Are](https://open.spotify.com/track/45TjMpEZBcTD2rpMaJQ8TH) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Stay Where You Are](https://open.spotify.com/album/6yG312KBUfgVXYT3TUWg1H) | 3:25 | 2023-10-12 | 2024-02-16 |
 | [Step By Step](https://open.spotify.com/track/4TDGFWcs0ueT9XC56OzHZg) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Step By Step](https://open.spotify.com/album/1LOaA9FH0Sr2DOtj1D68Ui) | 2:45 | 2023-05-25 | 2023-10-28 |
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2023-10-19 |  |
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-02-23 | 2023-05-19 |
@@ -329,7 +330,7 @@
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-10-05 |  |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-23 | 2023-07-21 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-20 | 2023-10-13 |
-| [Try To Love Again](https://open.spotify.com/track/6dPgYbtjAQumco8bMJBlXX) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Try To Love Again](https://open.spotify.com/album/5BdA4DGeDB7X3qVT6mDZAq) | 4:07 | 2023-10-12 |  |
+| [Try To Love Again](https://open.spotify.com/track/6dPgYbtjAQumco8bMJBlXX) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Try To Love Again](https://open.spotify.com/album/5BdA4DGeDB7X3qVT6mDZAq) | 4:07 | 2023-10-12 | 2024-02-16 |
 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 | 2024-02-05 |  |
 | [Tussendoor](https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Tussendoor](https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS) | 3:05 | 2023-09-21 |  |
 | [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-08 |  |
@@ -357,6 +358,7 @@
 | [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 | 2023-04-17 |
 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 | 2023-10-20 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-23 | 2023-06-30 |
+| [Will You Remember](https://open.spotify.com/track/730Yp6xDqRJ5Cjxwz3D76H) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F) | [Will You Remember](https://open.spotify.com/album/0moBXENvUaHNqnWBMMsqHf) | 3:40 | 2024-02-15 |  |
 | [Wiser](https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S) | [PYRO](https://open.spotify.com/artist/1lgKBSJSuiEvyoiDwpRBFb) | [Wiser](https://open.spotify.com/album/1a7cqum0P2qEedF3Z1kwkL) | 3:35 | 2023-02-23 | 2023-03-10 |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-20 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-18 | 2023-10-21 |

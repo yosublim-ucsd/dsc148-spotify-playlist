@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,381 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,375 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [Tengo Miedo](https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Tengo Miedo](https://open.spotify.com/album/63NmYmkeAvkVvSezKDKYxp) | 3:03 |
 | 49 | [Sabes Que Me Gusta](https://open.spotify.com/track/2GfyyTXZc8XPsO9Uc1wrbB) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Sabes Que Me Gusta](https://open.spotify.com/album/6vj1AXQZ6L2MQYJK3vENOr) | 2:42 |
 
-Snapshot ID: `MCxmODQ4ZGI0Nzg1NDZhYTFlMWQ3YTQ1ZGE2YjVhNTI4MzhkNzQ5M2Qz`
+Snapshot ID: `MCxhYTg0ZTBlOGJmMmViNTEyMjY4ZjU0M2Q0ZWU3Nzc0ZTA4MWQzNWMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,170 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,191 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 45 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 46 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 47 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
-| 48 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
+| 48 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 |
 | 49 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 |
 | 50 | [ゾーンに入ってます。](https://open.spotify.com/track/7Gyo1DkvQnidw0eChSbtLS) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ゾーンに入ってます。](https://open.spotify.com/album/65tRwgSrUjZ52S2gRlfJVe) | 2:32 |
 | 51 | [Koiwamoumoku](https://open.spotify.com/track/01cPDnLoiWyCl0Sj9G5xjd) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Koiwamoumoku](https://open.spotify.com/album/14Ef8OVGMVRFNsBdeCmRxi) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Loneliness](https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Loneliness](https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY) | 5:37 |
 | 100 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 |
 
-Snapshot ID: `MCwxZmFlMWFmZWY2NDUzYTJlY2MzMGExZjJlMGM2YzY1NGM5ZWMwNWE5`
+Snapshot ID: `MCw1MDE5NjI2MWIzYTA2NGMzNjViZmJiMDczNjQxMzYzMzU1MDNlYTRj`

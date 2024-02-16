@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-75 songs - 3 hr 58 min
+76 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Ecco la primavera](https://open.spotify.com/track/7zthdBWe8AUP730iCyOahN) | [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE), [Francesco Landini](https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 3:13 | 2022-01-25 |  |
 | [Ein Schottisch Tanz](https://open.spotify.com/track/2AZPcBbu7HTfffRG5xSQeR) | [William Brade](https://open.spotify.com/artist/72CceCzVMQDJriXo0JCn0h), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Musica Nova](https://open.spotify.com/album/6xBs7zg7UmEmjUm7H4LEKJ) | 2:56 | 2022-01-25 |  |
 | [England \(The Medieval Era\)](https://open.spotify.com/track/4Jt5UkcyYL261tokw058x0) | [Geoff Knorr](https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI) | [Sid Meier's Civilization VI \(Original Game Soundtrack\)](https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd) | 4:09 | 2022-07-04 |  |
-| [Fantasia](https://open.spotify.com/track/1wtICs9nvS3zl27bCgBaUP) | [Cuthbert Hely](https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn), [Jakob Lindberg](https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9) | [Jacobean Lute Music](https://open.spotify.com/album/6Is0LZIez8POle2AUYu2LH) | 4:03 | 2022-01-25 |  |
+| [Fantasia](https://open.spotify.com/track/1wtICs9nvS3zl27bCgBaUP) | [Cuthbert Hely](https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn), [Jakob Lindberg](https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9) | [Jacobean Lute Music](https://open.spotify.com/album/6Is0LZIez8POle2AUYu2LH) | 4:03 | 2022-01-25 | 2024-02-16 |
+| [Fantasia \(I\)](https://open.spotify.com/track/6Cneh90xYDJqfIFbnam4Bz) | [Cuthbert Hely](https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn), [Jakob Lindberg](https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9) | [Jacobean Lute Music](https://open.spotify.com/album/2sryDIvNuZ3AyeZ7pqJu2M) | 4:03 | 2023-04-21 |  |
 | [Fantasia \- Instrumental](https://open.spotify.com/track/3hYHCMkZG7ImrgChQi5PwU) | [Alonso Mudarra](https://open.spotify.com/artist/7vAEvCZlKOLpLqHzfAPdej), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [NPR Milestones of the Millennium: The Renaissance in Music](https://open.spotify.com/album/3Q8GxkzDXMIBtynAbYnqdO) | 1:34 | 2022-01-25 |  |
 | [Festival and Faire](https://open.spotify.com/track/1t15ZwSoumPAgRGZhrVH4h) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 1 \(Original Score Soundtrack\)](https://open.spotify.com/album/49qqOOK7Ah3FBeGwP3Lg7A) | 2:08 | 2022-01-25 | 2022-07-05 |
 | [Franchino Gaffurio: Virgo Dei](https://open.spotify.com/track/48mfwjuHKOvsiqPpibXxW1) | [Franchino Gaffurio](https://open.spotify.com/artist/2ZJvSHi1S50xnYzcH2jtOh), [Massimo Lonardi](https://open.spotify.com/artist/71CjcsnnbUxQG9N4BkOkg5) | [La musica a Milano al tempo di Leonardo da Vinci: La figurazione delle cose invisibili \(1452 \- 1519\)](https://open.spotify.com/album/2QAG7XWQJiRx7snMZZyS7H) | 2:37 | 2022-01-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 180622,
+  "num_followers": 180695,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz",
+  "snapshot_id": "MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 210013,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Turn Down for What",
         "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 213733,
       "name": "Turn Down for What",
       "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -955,8 +955,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
       "artists": [
         {
@@ -964,13 +964,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Who's That Chick? (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
       },
       "artists": [
         {
@@ -1140,13 +1140,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
+      "duration_ms": 201040,
+      "name": "Who's That Chick? (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
       "artists": [
         {
@@ -1468,13 +1468,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Memories (feat. Kid Cudi)",
-      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
+      "duration_ms": 208133,
+      "name": "Without You (feat. Usher)",
+      "url": "https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Reload (Vocal Version / Radio Edit)",
-        "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Tommy Trash",
-          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 221272,
-      "name": "Reload - Radio Edit",
-      "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Settle (The Remixes)",
         "url": "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
       },
@@ -1599,8 +1575,32 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+        "name": "Reload (Vocal Version / Radio Edit)",
+        "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 221272,
+      "name": "Reload - Radio Edit",
+      "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
       "artists": [
         {
@@ -1608,13 +1608,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Without You (feat. Usher)",
-      "url": "https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P"
+      "duration_ms": 210093,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1659,6 +1659,38 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "No Money",
+        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189126,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -1683,38 +1715,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "No Money",
-        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189126,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "I Wanna Know (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "I Wanna Know (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 268840,
       "name": "Desire - Gryffin Remix",
       "url": "https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "I Wanna Know (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "I Wanna Know (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD"
     },
     {
       "added_at": "2023-08-25 09:30:35",

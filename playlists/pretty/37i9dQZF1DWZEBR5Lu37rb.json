@@ -1,12 +1,12 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 48991,
+  "num_followers": 49144,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWVjNTUxODY3NmVlNGQ2MDdlZjk1OGM1ODExYjNjNTdiYjM5OWFi",
+  "snapshot_id": "MCwzYTEyMDAzMDZkM2Y2ZDY3NjAzMzk1NDAwNjhkOWYzYjA2YTg4NGU2",
   "tracks": [
     {
       "added_at": "2024-02-13 07:43:01",
@@ -735,6 +735,26 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "If Love Is A Crime",
+      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 444474,
       "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "If Love Is A Crime",
-      "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Live and Die in Afrika",
         "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 212009,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Live From Nkrumah Krom Vol II: Home Run",
-        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 213360,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "No Retreat. No Surrender.",
         "url": "https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa"
       },
@@ -1303,26 +1319,6 @@
       "duration_ms": 383906,
       "name": "Sobabili",
       "url": "https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1343,22 +1339,6 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1451,6 +1431,26 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "Barua ya Dunia",
         "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 254986,
       "name": "Kookoo",
       "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Phylosophy",
+        "url": "https://open.spotify.com/album/54RfaKVm0Va7MLswAxszpA"
+      },
+      "artists": [
+        {
+          "name": "PHY",
+          "url": "https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c"
+        }
+      ],
+      "duration_ms": 227225,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/0ueve4XwLCFcb9loSoUZZ5"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1483,22 +1499,6 @@
       "duration_ms": 220890,
       "name": "Me Ne Woa",
       "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Phylosophy",
-        "url": "https://open.spotify.com/album/54RfaKVm0Va7MLswAxszpA"
-      },
-      "artists": [
-        {
-          "name": "PHY",
-          "url": "https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c"
-        }
-      ],
-      "duration_ms": 227225,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/0ueve4XwLCFcb9loSoUZZ5"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Mababaza",
-        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
-      },
-      "artists": [
-        {
-          "name": "Joe Nina",
-          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Zodwa",
-      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Nkwagala",
         "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 190122,
       "name": "Nkwagala",
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Mababaza",
+        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
+      },
+      "artists": [
+        {
+          "name": "Joe Nina",
+          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Zodwa",
+      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "The Love Lab",
         "url": "https://open.spotify.com/album/7J33dDohkWGyzsOabqWgwX"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "We're Gonna Be Just Fine",
-        "url": "https://open.spotify.com/album/4n0an2l1BBvhFglpv1JTkM"
-      },
-      "artists": [
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "The Book of Kirya",
         "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 192706,
       "name": "The Blue Dress Song",
       "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "We're Gonna Be Just Fine",
+        "url": "https://open.spotify.com/album/4n0an2l1BBvhFglpv1JTkM"
+      },
+      "artists": [
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y"
     },
     {
       "added_at": "2024-02-13 07:43:01",

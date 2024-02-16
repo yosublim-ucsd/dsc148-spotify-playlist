@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,396 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,625 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 58 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
 | 59 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 |
 | 60 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
-| 61 | [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 |
-| 62 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
+| 61 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
+| 62 | [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 |
 | 63 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
 | 64 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
 | 65 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 |
 | 70 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 
-Snapshot ID: `MCwyYTNiZDcwMDdkMzkxMjIzYjE3ZjNkMTM4YzRlNWMzM2I0Zjg4OWYz`
+Snapshot ID: `MCxhNmJhM2E1ZWE1NWI3Y2VkYTRmMDBmYzhjMDdkOGMyNjhhOTMzY2Rk`

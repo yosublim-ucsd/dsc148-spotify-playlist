@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-499 songs - 1 day 1 hr 37 min
+500 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 | 2023-08-08 |  |
 | [feel](https://open.spotify.com/track/1YWRkdve95UlDNmUIj67Z4) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [feel](https://open.spotify.com/album/6lYnCqxUSRXwLHpfMNeTu1) | 3:01 | 2023-03-08 | 2023-08-10 |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 | 2023-04-28 |
-| [Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/5QI7p02EaQO90V2i9lVxMY) | 3:01 | 2023-08-08 |  |
+| [Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/5QI7p02EaQO90V2i9lVxMY) | 3:01 | 2023-08-08 | 2024-02-16 |
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |
@@ -440,6 +440,7 @@
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-06-28 | 2023-08-10 |
 | [Think About Me](https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha) | [Yancle](https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM) | [Think About Me](https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI) | 3:07 | 2023-07-19 | 2023-08-10 |
 | [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-02 | 2023-08-20 |
+| [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 | 2024-02-15 |  |
 | [Tidal Wave](https://open.spotify.com/track/0Y2ql9hjIhpYx2fuYMeeB3) | [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Tidal Wave](https://open.spotify.com/album/1VFSM94LH8MrNV9AYKjYzH) | 2:21 | 2023-12-13 |  |
 | [Time Of Our Lives](https://open.spotify.com/track/3CCgPjFKM32ixEM9Wpcv6z) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [Time Of Our Lives](https://open.spotify.com/album/3p6bZWLfpenoRaOufvcAWy) | 3:25 | 2023-12-13 |  |
 | [Time With You](https://open.spotify.com/track/7owjIHHAhLVgYUPfSQI0tI) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Time With You](https://open.spotify.com/album/6PRofmoxaY2ZMETIBxyRYf) | 2:36 | 2023-12-26 |  |

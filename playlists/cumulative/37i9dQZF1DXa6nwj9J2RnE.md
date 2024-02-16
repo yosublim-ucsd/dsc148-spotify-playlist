@@ -2,9 +2,9 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: Naaz
+> edgy muziek met een rand uit eigen land\. cover: Eefje de Visser
 
-118 songs - 6 hr 31 min
+120 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 | 2023-02-23 | 2023-12-09 |
 | [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 | 2023-05-10 |
 | [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 | 2023-05-12 |
+| [Heimwee](https://open.spotify.com/track/6DvGnoj1obKohgqvrdy53r) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/2bPEPy5vcX1GoBShp2xblg) | 3:34 | 2024-02-15 |  |
 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 |  |
 | [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 | 2023-07-27 |
 | [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 | 2023-06-23 |  |
@@ -55,6 +56,7 @@
 | [just killing \(time\)](https://open.spotify.com/track/0yiXlHnykTqp7srRhFPYQ3) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [just killing \(time\)](https://open.spotify.com/album/1dVLxrIx7iT4Vx1cLK9ZKA) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [Karma \(Symphony In G Minor\)](https://open.spotify.com/track/6ekDpGPpRzBk7HZhWpNrvW) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:45 | 2023-02-23 | 2023-09-01 |
 | [Kop In The Sand](https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Kop In The Sand](https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno) | 2:12 | 2023-09-22 |  |
+| [KROKODILLENTRANEN](https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [KROKODILLENTRANEN](https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh) | 2:48 | 2024-02-15 |  |
 | [Laatste Dans](https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Twintig \(Deluxe\)](https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci) | 3:01 | 2023-11-07 |  |
 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 | 2023-02-23 | 2023-08-18 |
 | [Liar](https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd) | 3:54 | 2023-06-23 | 2023-09-01 |
@@ -73,7 +75,7 @@
 | [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 | 2023-04-01 |
 | [Our Time Is Here](https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq) | [XILLAN](https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly) | [Crowning Gods](https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5) | 3:25 | 2023-02-23 | 2023-09-30 |
 | [OUT LOUD](https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [UTTERLY MISTAKEN](https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca) | 2:25 | 2023-10-12 |  |
-| [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 |  |
+| [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 | 2024-02-16 |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 |  |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 |  |
 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 | 2024-02-03 |
@@ -87,7 +89,7 @@
 | [Silent Treatment](https://open.spotify.com/track/3i3nMFxiEu4AfFMUOUv6dw) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/0rFtXWLjCfpC6teIiE1i6l) | 2:48 | 2023-09-29 |  |
 | [simpel leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 | 2023-02-23 |  |
 | [Simpele Ziel](https://open.spotify.com/track/3cYnOvrNiOWyK9Iyx6VtxT) | [Tyrone Marcio](https://open.spotify.com/artist/5LNaytroUJTMebyCMO39AI) | [Simpele Ziel](https://open.spotify.com/album/23qubUacCRribg37QwTt1W) | 3:10 | 2023-02-23 | 2023-04-01 |
-| [Sitting Here](https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk) | [Delic](https://open.spotify.com/artist/2vnJ6YXTxKiWKpARdtAD99), [Huda](https://open.spotify.com/artist/0YLcSj2Krk1kNAhvXq9VQ8) | [Lone Wolf](https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI) | 4:33 | 2023-02-23 |  |
+| [Sitting Here](https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk) | [Delic](https://open.spotify.com/artist/2vnJ6YXTxKiWKpARdtAD99), [Huda](https://open.spotify.com/artist/0YLcSj2Krk1kNAhvXq9VQ8) | [Lone Wolf](https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI) | 4:33 | 2023-02-23 | 2024-02-16 |
 | [Snow](https://open.spotify.com/track/1EBnTBd5Vyk9JjiABs4K9b) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [OBSIDIAN // SILK](https://open.spotify.com/album/6McpJlFhksAys07iNsfQjz) | 2:54 | 2023-02-23 | 2023-06-09 |
 | [So Good It Hurts](https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR) | 3:20 | 2023-02-23 |  |
 | [Something Somewhere](https://open.spotify.com/track/2iOtTIQJOuGzr9Go2rPDNp) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:34 | 2023-06-23 |  |

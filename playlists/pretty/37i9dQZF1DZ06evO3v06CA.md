@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,195 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,223 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Are You Sure Hank Done It This Way \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 2:32 |
 | 50 | [I Gotta Get Drunk \(with Willie Nelson\)](https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [My Very Special Guests](https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm) | 2:10 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBlNjUyN2NlOWY1Y2Q0MzI0ZjNkMzA2NTZmYWFhMGZmZg==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBkZjdiYWU3NGU5YmE2YjAzYWM1MGNmNzk5MTY4MzI5ZQ==`

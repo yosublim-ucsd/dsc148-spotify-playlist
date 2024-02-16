@@ -1,12 +1,12 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 228087,
+  "num_followers": 228154,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODQ4NzY3MTk3NjE1YTM1MGQ5NjRkOTZmN2QzMDBkMzYwOTkzM2Uw",
+  "snapshot_id": "MCwwZDVlMjliOWFmYWJhNTc1MmY2NTgxOGMwZDdjZjVmYTkxM2U4NzUy",
   "tracks": [
     {
       "added_at": "2022-03-07 23:02:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Grandes \u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
-      },
-      "artists": [
-        {
-          "name": "Iluminatik",
-          "url": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
-        }
-      ],
-      "duration_ms": 296100,
-      "name": "Dios, El Diablo Y Yo",
-      "url": "https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 211000,
       "name": "Aunque la Vida Duele",
       "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Grandes \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
+      },
+      "artists": [
+        {
+          "name": "Iluminatik",
+          "url": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+        }
+      ],
+      "duration_ms": 296100,
+      "name": "Dios, El Diablo Y Yo",
+      "url": "https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7"
     },
     {
       "added_at": "2022-03-07 23:02:38",

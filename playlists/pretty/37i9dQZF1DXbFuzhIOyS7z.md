@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,569 likes - 30 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,575 likes - 30 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [December](https://open.spotify.com/track/0927Arnytel8IEE9KDce5I) | [MOCKEN](https://open.spotify.com/artist/4QdaHJjcjTJcJWk68Bt2Pw) | [STAND BY ME](https://open.spotify.com/album/51oORXukFvQDlq0PYNWtAX) | 3:59 |
 | 30 | [過去たらし](https://open.spotify.com/track/6WEb2QTuXBzm6Qqe4m0dXG) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [過去たらし](https://open.spotify.com/album/2i1EDG534hI2XbyRaIW6Wy) | 3:40 |
 
-Snapshot ID: `MCw1MTk4MzJmNjg5MTA3NjVmZDIyMTAxZjg1YjEzYjJhM2E4MDc1MjMx`
+Snapshot ID: `MCxkZTY2ODQ0MmNkZWRlOWY3YWE4NjZjZDU1OWVhYmI3MWEyMmVjY2Y5`

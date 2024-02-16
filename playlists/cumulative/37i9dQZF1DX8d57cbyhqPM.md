@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Jungeli
 
-342 songs - 21 hr 11 min
+343 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 |  |
 | [Choco](https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Chocomix](https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh) | 2:56 | 2023-03-17 | 2023-04-29 |
 | [Christina](https://open.spotify.com/track/6DLE4EbQwkxkisd7OftpuG) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Christina](https://open.spotify.com/album/6rCymUM7vsU20Rwvar8dWO) | 2:42 | 2023-03-17 | 2023-09-09 |
-| [Chérie Coco](https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79) | [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Boule Mpanya](https://open.spotify.com/artist/711t2ihJatsAD1F9mBneMN), [Jillionaire](https://open.spotify.com/artist/6vW5qwWVSTErBV1HovumXm) | [Chérie Coco](https://open.spotify.com/album/1qZRCgaHD4JJ9NMiYp3EQ8) | 2:52 | 2023-11-10 |  |
+| [Chérie Coco](https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79) | [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Boule Mpanya](https://open.spotify.com/artist/711t2ihJatsAD1F9mBneMN), [Jillionaire](https://open.spotify.com/artist/6vW5qwWVSTErBV1HovumXm) | [Chérie Coco](https://open.spotify.com/album/1qZRCgaHD4JJ9NMiYp3EQ8) | 2:52 | 2023-11-10 | 2024-02-16 |
 | [Coeur](https://open.spotify.com/track/3utX56OQ1D5JtcZc2s3VGv) | [Ange Mbyal](https://open.spotify.com/artist/6z4tOCECU3Q9hducn5MzIg) | [Coeur](https://open.spotify.com/album/03EK6fSqFPAYOAjyHsKbcv) | 3:25 | 2023-02-03 | 2023-03-18 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 | 2023-09-30 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-06-29 |
@@ -78,6 +78,7 @@
 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 | 2023-09-15 | 2023-12-23 |
 | [Danse](https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Danse](https://open.spotify.com/album/1im21Oi225yO8IponkdVxi) | 2:48 | 2023-08-18 | 2023-10-21 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-30 | 2023-03-18 |
+| [Demain](https://open.spotify.com/track/6lMQd3dNLrCpY5a8yTLGbe) | [Teevii](https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp) | [Demain](https://open.spotify.com/album/6mMhB9sJE16rioPmpxRbud) | 3:09 | 2024-02-15 |  |
 | [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 | 2023-05-19 |  |
 | [Destiny](https://open.spotify.com/track/6GSExS8Qhs4M1sutLM4tAf) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Destiny](https://open.spotify.com/album/0L5PgMi5IUZ3UN0LE3ZfaN) | 2:23 | 2023-05-05 | 2023-06-10 |
 | [Determine](https://open.spotify.com/track/4UkJjtS8GCk1A0KDhV0K79) | [Rui Reis Maia](https://open.spotify.com/artist/2Wgx2i22tok6zOYMXfV5Ug), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [White Berry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o4UdtYpFLzBSGIuAPiBDU) | 1:32 | 2022-07-29 | 2023-03-18 |

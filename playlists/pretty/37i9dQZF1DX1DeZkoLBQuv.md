@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,244 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,242 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 10 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3X2oSv1BdYiIu7ri3z0eRM) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Alvo Mais Que a Neve](https://open.spotify.com/album/1lNIMwGKQvjDEiLZmrVU3b) | 5:30 |
 | 11 | [Jesus, o Bom Amigo \- Ao Vivo](https://open.spotify.com/track/6igxgvU8TBqZIV3gqyAHoD) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Hinos Inesquecíveis \(Ao Vivo\)](https://open.spotify.com/album/69dbeC4BPdjqifvLHTMkdA) | 3:21 |
 | 12 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
-| 13 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 |
-| 14 | [Porque Ele Vive](https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Porque Ele Vive \(Voz e Violão\)](https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI) | 3:55 |
+| 13 | [Porque Ele Vive](https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Porque Ele Vive \(Voz e Violão\)](https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI) | 3:55 |
+| 14 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 |
 | 15 | [Emanuel](https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Emanuel](https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi) | 4:39 |
 | 16 | [O Nome de Jesus \- Acústico Ao Vivo](https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:05 |
 | 17 | [Lindo És \(Beauty, Beauty\)](https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Lindo És \(Beauty, Beauty\)](https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX) | 4:58 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 30 | [Maria](https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:16 |
 | 31 | [Maravilhoso É / Rei dos Reis](https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Clássicos](https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7) | 3:40 |
 | 32 | [Medley de Natal: Num Berço de Palha / Noite de Paz](https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI) | [Prisma Brasil](https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW), [Coral Jovem do Unasp \- HT](https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj), [Coral Canto Livre](https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F) | [A Canção de Natal](https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O) | 5:45 |
-| 33 | [Natal de Amor](https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3) | [Pâmela Jardim](https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b), [Rhayle Campos](https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Natal de Amor](https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40) | 5:01 |
-| 34 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
+| 33 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
+| 34 | [Natal de Amor](https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3) | [Pâmela Jardim](https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b), [Rhayle Campos](https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Natal de Amor](https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40) | 5:01 |
 | 35 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
 | 36 | [Natal](https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:24 |
 | 37 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 46 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 | 47 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 |
 | 48 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
-| 49 | [No Humilde Presépio \(Away In a Manger\)](https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3) | [Trio Nascimento](https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
-| 50 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
+| 49 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
+| 50 | [No Humilde Presépio \(Away In a Manger\)](https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3) | [Trio Nascimento](https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 
-Snapshot ID: `MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw`
+Snapshot ID: `MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0`

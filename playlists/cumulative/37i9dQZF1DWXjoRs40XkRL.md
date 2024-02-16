@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-237 songs - 21 hr 12 min
+238 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Ghir Ghir Ke](https://open.spotify.com/track/1oJttLU7BjhXvk2AI9PB4R) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Ghir Ghir Ke \(Original\)](https://open.spotify.com/album/2QM9Js3Zh75HPgXETu9Cp3) | 4:07 | 2022-05-17 | 2022-07-29 |
 | [Ghir Ghir Ke](https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Ghir Ghir Ke](https://open.spotify.com/album/2R6i4AcVuKKaFr8iAecT4w) | 4:07 | 2022-07-12 | 2023-03-23 |
 | [Ghule](https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Ghule](https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA) | 5:36 | 2023-10-06 |  |
-| [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 | 2023-01-10 |  |
+| [Girte Hue Boondon](https://open.spotify.com/track/5Kkd9qTIu2RSY0hNQBjjiw) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Girte Hue Boondon](https://open.spotify.com/album/2qhgT8MbJkA3mSCHqYUI3o) | 3:53 | 2024-02-14 |  |
+| [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 | 2023-01-10 | 2024-02-16 |
 | [Hamsadhwani](https://open.spotify.com/track/2kp7AnVKbDVZyrcRHjWvLB) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 6:16 | 2022-05-17 | 2023-03-23 |
 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-05-17 | 2023-03-03 |
 | [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 | 2022-12-07 |  |

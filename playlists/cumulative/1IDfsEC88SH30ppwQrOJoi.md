@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-229 songs - 12 hr 14 min
+230 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Break Through](https://open.spotify.com/track/582SrUOUUD8cLT3H63dK0y) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Break Through](https://open.spotify.com/album/17l30Pmbml7kAyGRdXdF5Y) | 2:16 | 2023-08-17 |  |
 | [Breathe \(feat\. No/Me\)](https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Breathe \(feat\. No/Me\)](https://open.spotify.com/album/6S0nluEFylUKYsrd2tj0jL) | 4:19 | 2023-08-17 |  |
 | [Bring The Noise](https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Rave Rae](https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG) | [Bring The Noise / Stutter](https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy) | 3:04 | 2023-10-30 |  |
+| [Burning](https://open.spotify.com/track/1v5QAFDP7deRYWIwNMuw5l) | [Goldistic](https://open.spotify.com/artist/7001FsssrtApPHEqAMg22Y), [Zamu](https://open.spotify.com/artist/6Zvo1qESlk0v2vgUhGtBRf), [CyberFox](https://open.spotify.com/artist/0cjCwMkEJEyqdmYXTa6zBm) | [Burning](https://open.spotify.com/album/7knm6v9UY1EJ2s5xjSGk7e) | 2:33 | 2024-02-15 |  |
 | [Caffeine](https://open.spotify.com/track/6ESUMsfrRi3FboVTP6lvQn) | [Tigerlily](https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG), [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf) | [Caffeine](https://open.spotify.com/album/5eoNi0zv62JZqYjg2N5Kk2) | 2:49 | 2023-10-30 |  |
 | [Call Me](https://open.spotify.com/track/3RmKRZhEcm0hwNFx7VgxsC) | [Mikeable](https://open.spotify.com/artist/4mhilREx3JZgqbewI2csrP) | [Call Me](https://open.spotify.com/album/5z0nO2lw3FMGFU4ZlKKckX) | 2:43 | 2023-06-23 |  |
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2023-12-08 |  |

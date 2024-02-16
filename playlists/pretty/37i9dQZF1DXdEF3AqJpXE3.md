@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Ariana Grande
+> The best tracks from the world of music\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,833 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,837 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
-| 2 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
-| 3 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 |
-| 4 | [最對的錯](https://open.spotify.com/track/66eKr9Fr056udiV4TtTFVK) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [最對的錯](https://open.spotify.com/album/5ojlcwanBkYwWgagNEJlkB) | 3:52 |
-| 5 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
-| 6 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 2 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 3 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
+| 4 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
+| 5 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 |
+| 6 | [最對的錯](https://open.spotify.com/track/66eKr9Fr056udiV4TtTFVK) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [最對的錯](https://open.spotify.com/album/5ojlcwanBkYwWgagNEJlkB) | 3:52 |
 | 7 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 8 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
 | 9 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 54 | [龍龍的新年 Long Long New Year](https://open.spotify.com/track/5mqhmmcPlVCM46WtzeJOP8) | [Bingyen 郑斌彦](https://open.spotify.com/artist/5B3sXYh20CdngbsFfjezkb), [爱迪生](https://open.spotify.com/artist/5Lk5NRhttf21Zp9kYB5UnK), [刘伊幸](https://open.spotify.com/artist/0SaMi7TSuC9KNwQ3mOa1u2), [王希豪](https://open.spotify.com/artist/1G4x7TRhUlsFGYHliTKY5V), [小愛龍](https://open.spotify.com/artist/2R3jTH69e9VF7wQM8qKm0Z) | [龍龍的新年 Long Long New Year](https://open.spotify.com/album/7fmQw9GlZTWivhLyA1HkGz) | 3:18 |
 | 55 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
 
-Snapshot ID: `MCw4ZTNhZjAyYThhM2ZiYzI4ZjIxZmMzMWZkMTY1YWMxZGY1NGM2OTQ3`
+Snapshot ID: `MCxkNmZiZjUwZmFiMmU0OTMwZDFiMDkyY2Q3ZWEyOTUzNTBiYzJkNzZj`

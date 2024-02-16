@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 208243,
+  "num_followers": 208346,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk",
+  "snapshot_id": "MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Eyes Be Closed",
+      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 237945,
       "name": "Stay With Us",
       "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 287720,
-      "name": "Eyes Be Closed",
-      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Love In The Time Of Lexapro",
         "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 246129,
       "name": "Love In The Time Of Lexapro",
       "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2024-01-19 05:00:00",

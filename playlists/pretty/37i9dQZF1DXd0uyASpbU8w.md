@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,739 likes - 57 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,822 likes - 57 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 37 | [overdose](https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [overdose](https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn) | 3:23 |
 | 38 | [All My Friends](https://open.spotify.com/track/5cyeEMdqMmg0epS1laIYIE) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [All My Friends](https://open.spotify.com/album/4uUVVNUe5FSoNkF1cJF3br) | 2:24 |
 | 39 | [Trauma \(feat\. Lil Tjay\)](https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 3:17 |
-| 40 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 |
+| 40 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 |
 | 41 | [Buya](https://open.spotify.com/track/5Wai6QEkHKrCVNvF8zEiGw) | [Seekay](https://open.spotify.com/artist/3sznqsdJNWJ0pz21q6kTrQ), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Buya](https://open.spotify.com/album/0KWBXMg9C2q8nuME55Fn3I) | 4:30 |
 | 42 | [STEPE](https://open.spotify.com/track/2oz79OuC7HCrNTVpSsbHwK) | [AB Moch](https://open.spotify.com/artist/4TmMIr014UHoZSz3E4rX7x), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [Treviyon](https://open.spotify.com/artist/4NLTmwMi1nfnW9IW7o3cfe), [Maryson](https://open.spotify.com/artist/3yLSL5lsc7fGyImXdT51vE) | [STEPE](https://open.spotify.com/album/11Dq1QkfpfaXqRcAIK1CWA) | 3:11 |
 | 43 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 56 | [Awuyazi](https://open.spotify.com/track/4NIw1lTaZhx4JJckSBQtRn) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Awuyazi](https://open.spotify.com/album/4dbyrXuL6rXrFNrsnz3Fco) | 5:22 |
 | 57 | [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 |
 
-Snapshot ID: `MCw0YTI4ZDhlZTdkYWUyMjA0Y2MzY2NmYzU0MzZiNWY1YjRiZDYzNjhh`
+Snapshot ID: `MCwzOGE5OTA4ZWVkZjA3Y2EzMjNhOGIxN2E4OTliZGQyNGZjYmQyMDQ5`

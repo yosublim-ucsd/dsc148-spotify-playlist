@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 28250,
+  "num_followers": 28332,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTE5NjMwYTM4ZDBlMmI3NjIwZGEzOTgzNjNhNzI3ZDM2M2I3MmE4",
+  "snapshot_id": "MCw3ZDY4MmYyNGE3NjI2YmM2ZWRhYTEyNGVmMzAxYjJiMmJmMzFmMDll",
   "tracks": [
     {
       "added_at": "2024-02-01 09:52:32",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 383560,
-      "name": "Seven Steps to Heaven",
-      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
+      "duration_ms": 427266,
+      "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 427266,
-      "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
+      "duration_ms": 383560,
+      "name": "Seven Steps to Heaven",
+      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 435560,
       "name": "Nutville",
       "url": "https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
-        "name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
     },
     {
       "added_at": "2024-02-01 09:52:32",

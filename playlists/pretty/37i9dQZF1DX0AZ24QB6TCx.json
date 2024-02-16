@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 309792,
+  "num_followers": 309810,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQ1ZThhMTdlYWFmYWYwODYxMTZmNzFmMjk0MDFlMThlOTMwY2Ri",
+  "snapshot_id": "MCxkN2I1ZWJkNjUwZDk2MTliZGRjYjMwZTM4OGI2M2Q2ZTMwYjc5YjA2",
   "tracks": [
     {
       "added_at": "2023-11-14 11:30:00",
@@ -55,22 +55,6 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
-    },
-    {
-      "added_at": "2023-11-14 11:30:00",
-      "album": {
         "name": "Into The Night",
         "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 423006,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+    },
+    {
+      "added_at": "2023-11-14 11:30:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Graf Zahl",
-        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
       },
       "artists": [
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 332869,
-      "name": "Graf Zahl",
-      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+        "name": "Graf Zahl",
+        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+      "duration_ms": 332869,
+      "name": "Graf Zahl",
+      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -775,6 +775,30 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
+        "name": "on air (versions)",
+        "url": "https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6"
+      },
+      "artists": [
+        {
+          "name": "always centered at night",
+          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 556385,
+      "name": "on air (4am version)",
+      "url": "https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN"
+    },
+    {
+      "added_at": "2023-11-14 11:30:00",
+      "album": {
         "name": "Copal",
         "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
@@ -807,30 +831,6 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
-        "name": "on air (versions)",
-        "url": "https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6"
-      },
-      "artists": [
-        {
-          "name": "always centered at night",
-          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 556385,
-      "name": "on air (4am version)",
-      "url": "https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN"
-    },
-    {
-      "added_at": "2023-11-14 11:30:00",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 238095,
       "name": "Outside",
       "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
-    },
-    {
-      "added_at": "2023-11-14 11:30:00",
-      "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-11-14 11:30:00",
       "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2023-11-14 11:30:00",
+      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2023-11-14 11:30:00",
+      "album": {
+        "name": "A Mixtape by Anish Kumar",
+        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 252208,
+      "name": "Marabelle",
+      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
     },
     {
       "added_at": "2023-11-14 11:30:00",
@@ -927,22 +943,6 @@
       "duration_ms": 219295,
       "name": "3AMStillAlive Remix",
       "url": "https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p"
-    },
-    {
-      "added_at": "2023-11-14 11:30:00",
-      "album": {
-        "name": "A Mixtape by Anish Kumar",
-        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 252208,
-      "name": "Marabelle",
-      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
     },
     {
       "added_at": "2023-11-14 11:30:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 
 > Nada que un buen danzón no pueda curar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,286 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,283 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 35 | [Aires del Sur](https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 3:58 |
 | 36 | [Teléfono a Larga Distancia](https://open.spotify.com/track/1i3TNrkFQvNbLkIJaoPGr2) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Mis Danzones Favoritos](https://open.spotify.com/album/2z7IE1mfHDEqWcRTlTKgU8) | 3:09 |
 | 37 | [Tema De Lara](https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [15 Éxitos](https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa) | 2:10 |
-| 38 | [Amor Perdido](https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 4:35 |
+| 38 | [El Pichi](https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:48 |
 | 39 | [La Margarita](https://open.spotify.com/track/5KPmUdqg6aJIXsyPLOQ8Yh) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 2:59 |
 | 40 | [Cerezo Rosa](https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD) | [Int\. Pérez Prado](https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3) | [Salón México Danzón](https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU) | 2:38 |
 | 41 | [Mi Consuelo Es Amarte](https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc) | [Danzonera La Playa](https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2) | [55 Años En El Danzon](https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ) | 5:41 |
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 49 | [Salvaje](https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc) | [Danzonera Joven De Mexico De Chamaco Aguilar](https://open.spotify.com/artist/6Fi7yJcvGE7amhDjYSg0fs) | [Danzonera Joven de Mexico de Chamaco Aguilar, Vol\. 8](https://open.spotify.com/album/3CCGZUuLXFevDPis8kFCtO) | 4:19 |
 | 50 | [Linda Cubana](https://open.spotify.com/track/6w5CTA7ieQTNW4eEc2O1c6) | [NMR Digital](https://open.spotify.com/artist/442IRNWLgO6H9bvlsI3arN) | [Danzas del Mundo Danzón](https://open.spotify.com/album/6Q7HaW9yc2jPhHuos8h0NM) | 5:49 |
 | 51 | [El Bodeguero](https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [That Cuban Cha Cha](https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt) | 3:08 |
-| 52 | [De Canela y Huevo](https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l) | [Alejandro Aguilar Alcántara](https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:46 |
+| 52 | [Ofelia](https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2) | [Mario Álvarez](https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:31 |
 | 53 | [Bodas de Oro](https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 4:18 |
 | 54 | [Hay Que Echar Manteca](https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH) | [Danzonera La Playa](https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2) | [Dios Mio Amparame](https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A) | 6:19 |
-| 55 | [Ofelia](https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2) | [Mario Álvarez](https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:31 |
+| 55 | [De Canela y Huevo](https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l) | [Alejandro Aguilar Alcántara](https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:46 |
 | 56 | [Murmurando \(Whispering\)](https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 2:15 |
 | 57 | [El Fotografo de las Estrellas](https://open.spotify.com/track/03aE4kh3RkKnUd3XI6Q1uC) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 2:40 |
 | 58 | [Egipto Heróico](https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 4:20 |
 | 59 | [Maria](https://open.spotify.com/track/6ftTw3iQQs4aUYAADPhJjc) | [Orquesta de Mexico de Pedro Mendoza](https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp) | [Danzones Y Cha Cha Cha](https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d) | 3:24 |
-| 60 | [El Pichi](https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:48 |
+| 60 | [Amor Perdido](https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 4:35 |
 | 61 | [El Barbero de Sevilla](https://open.spotify.com/track/3fHna2OnxnhamZeobDbAED) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Clásicos en Danzón](https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9) | 3:14 |
 | 62 | [Blanca Estela](https://open.spotify.com/track/4a8VEqxbq7hm7bkdneKIGD) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Danzones a la Mexicana](https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW) | 2:55 |
 | 63 | [El Danubio Azul](https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Clásicos en Danzón](https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 74 | [Dos Pastillas de Tequila](https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:00 |
 | 75 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
 
-Snapshot ID: `MCw3M2ViMmZjYmVlNjgyMjRhYjFkNjlhOGQxYzliNDU4NTQzZDgzMmUx`
+Snapshot ID: `MCxkMmI5Y2ZiMjgwNzQ4NzUyZTMxOWU5YTVkN2YxOWY0ZWQ3YTgwYTkz`

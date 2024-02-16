@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-570 songs - 1 day 8 hr 25 min
+571 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Me da igual](https://open.spotify.com/track/49C9I2GoMwUrHtHDJQJdKr) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Me da igual](https://open.spotify.com/album/3LGQ7fg8WVtykIfFpD3RiA) | 3:21 | 2022-01-21 | 2022-07-22 |
 | [Me Eleva](https://open.spotify.com/track/2864zSXTUZO8fshzyBkT63) | [Manuela de las Casas](https://open.spotify.com/artist/4cWiT1v3NOdTagAExiLRAZ) | [Halare](https://open.spotify.com/album/2xdqR3r3zZuIlEc3fLOMtX) | 3:37 | 2022-01-21 | 2022-07-21 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-01-21 | 2022-07-28 |
+| [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 | 2024-01-18 |  |
 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 |  |
 | [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 | 2023-02-17 |  |
 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 | 2022-05-06 | 2022-05-09 |
@@ -399,7 +400,7 @@
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-02-11 | 2022-07-21 |
 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 | 2022-09-23 | 2023-08-19 |
-| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-09 |  |
+| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-09 | 2024-02-16 |
 | [Pequeño Baile](https://open.spotify.com/track/6YPFG35hSoFBk9t9uG3VLq) | [Gabigar](https://open.spotify.com/artist/7LM1I2nIhWByOdM5S5xoyX), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Pequeño Baile](https://open.spotify.com/album/3TYE1pgiexuhXfsI7hivTH) | 3:44 | 2022-03-04 | 2022-07-28 |
 | [Perdida](https://open.spotify.com/track/3AoXaKygnMBNrGdVDnMPyp) | [Deby Medrez Pier](https://open.spotify.com/artist/6lzh20S1n8rumjOkQtlj57) | [Perdida](https://open.spotify.com/album/3wpSgGOMJA80Z7VUeE1z1L) | 3:23 | 2022-01-14 | 2022-07-26 |
 | [Perdón](https://open.spotify.com/track/3575r4V4H0C2aILHFSMK6Q) | [Sofía Lombilla](https://open.spotify.com/artist/4SB2xVfkvR6IZqTPRoQnjV) | [Perdón](https://open.spotify.com/album/2VFqVFNa3vvu2wrj4yXI1X) | 3:19 | 2022-07-08 | 2022-07-14 |

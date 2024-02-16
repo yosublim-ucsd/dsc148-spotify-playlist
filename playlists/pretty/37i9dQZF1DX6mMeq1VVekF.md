@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,748 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,797 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 41 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 |
 | 42 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
 | 43 | [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 |
-| 44 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 |
-| 45 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
-| 46 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 |
+| 44 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
+| 45 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 |
+| 46 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 |
 | 47 | [SUMO](https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [SUMO](https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM) | 3:00 |
-| 48 | [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 |
-| 49 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
+| 48 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
+| 49 | [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 |
 | 50 | [Different](https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a) | [Different](https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2) | 2:33 |
 | 51 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 52 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 |
 | 60 | [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 |
 
-Snapshot ID: `MCwyYWNlMDViMmM3YzRhZjYzMTMzNjIyMTYyM2ZmZWE5MjcxNmMzYmQ5`
+Snapshot ID: `MCw2MDMwM2IxNWIwYTVjMjVkYTIxOGFiNzQ0ZjdjNThmODNlMDQwOGE4`

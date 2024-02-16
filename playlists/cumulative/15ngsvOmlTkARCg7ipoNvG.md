@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,676 songs - 1 day 11 hr 1 min
+1,678 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [Late Blue Nights](https://open.spotify.com/track/4D6xeeFXUzNEF0miqn5Aki) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Late Blue Nights](https://open.spotify.com/album/01u3JdYzKg4x6gKHKgGm3e) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Late Blue Nights \- Cello And Felt Piano Version](https://open.spotify.com/track/6AIfKdy1AAqmbTPHcnsO0E) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Late Blue Nights \(Cello And Felt Piano Version\)](https://open.spotify.com/album/3qMSEnPnTnFRbTBviWf49F) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Late Blue Nights \- Strings Version](https://open.spotify.com/track/0r07y8pX5Iz5SVDAuSeGi7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Late Blue Nights \(Strings Version\)](https://open.spotify.com/album/2KdSsr7iG5ymwHVRJVymMG) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Late Morning Lullaby \- Piano Version](https://open.spotify.com/track/4uHLSxHNbD9o1AhCFLB3H7) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Late Morning Lullaby](https://open.spotify.com/album/0VhbspWKNNpxkuOxIfZE6B) | 1:00 | 2024-02-15 |  |
 | [Late October](https://open.spotify.com/track/1tXezLbRnOjHgZYlWCbvM2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Late October](https://open.spotify.com/album/7jbDOXaJVwyNwJB4ujepoI) | 1:47 | 2022-01-12 | 2024-01-30 |
 | [Lavender's Blue \- Cello Version](https://open.spotify.com/track/5aC7S4ge9WIsHxMrWWyu7W) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Lavender's Blue \(Cello Version\)](https://open.spotify.com/album/5S6WoAT1UNNqdRzIjvDI0k) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Le 15 decembre](https://open.spotify.com/track/0s07udN18eR9KVc6fKZfcj) | [Brique a Braq](https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF) | [Le 15 decembre](https://open.spotify.com/album/0YtnnGSlmydJ5xj1XZ6sVz) | 2:38 | 2022-01-12 | 2022-10-21 |
@@ -1134,6 +1135,7 @@
 | [Prism](https://open.spotify.com/track/1rfTvj13sM8Q54Fc8UUMIG) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:07 | 2022-01-12 |  |
 | [Promises](https://open.spotify.com/track/1ItsVkTmdZxY4WW1HC2gl6) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Everglow](https://open.spotify.com/album/4B0IbcEFp7z00KAWzQp4NI) | 1:26 | 2022-01-12 |  |
 | [Promising](https://open.spotify.com/track/5dsQRCoGOMxTLHwCt07RZJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Promising](https://open.spotify.com/album/6gOjzARl5mnfrXYWA9fwAO) | 1:03 | 2022-07-18 | 2024-01-30 |
+| [Purity](https://open.spotify.com/track/0Mg5psielWs3CJmuBXvKRa) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Purity](https://open.spotify.com/album/2KY1imNdG5M95G8JybkoPR) | 1:00 | 2024-02-15 |  |
 | [Purple](https://open.spotify.com/track/5zVVt59zEdQNipOwOCq3WM) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Purple](https://open.spotify.com/album/5KRc7yBxh2jFG1TnbXUeh5) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Purple Mist Arr\. For Cello And Harp](https://open.spotify.com/track/7h8CWI91r9i5ifK4NJ5IeQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Purple Mist Arr\. For Cello And Harp](https://open.spotify.com/album/1c2HdpBRvAylpQisT15kJ6) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Purple Mist In The Field](https://open.spotify.com/track/373EK6D8ENjoLXT2M24Fau) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 1](https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1) | 1:02 | 2022-02-11 | 2024-01-30 |

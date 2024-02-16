@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 > The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,582,037 likes - 139 songs - 9 hr 10 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,581,939 likes - 140 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,6 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 137 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
 | 138 | [Take Da Charge](https://open.spotify.com/track/2XOKoaCWziW0W14DPeY7XS) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC) | 3:06 |
 | 139 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 140 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
 
-Snapshot ID: `MTgyMywwZWM4YjY5MWU4ZDFiOThkNTBmNGE5MWViZjZjMDk5MjkxMjA5NGZi`
+Snapshot ID: `MTgyNCw3YmU2NWRmMGQ5MGU1ODhmZGI2Mzg0Y2FmZDYwZTEyNDRlYjhlOWI4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. d4vd",
+  "description": "it's a generation \u26d3 ft. royal & the serpent // gayle ",
   "name": "The Locker",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 195782,
       "name": "2AM (And I Did It Again)",
       "url": "https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm"
+    },
+    {
+      "album": {
+        "name": "2nd prettiest girl (in the world)",
+        "url": "https://open.spotify.com/album/42ET981Qri753Oh1TbE1Yl"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168016,
+      "name": "2nd prettiest girl (in the world)",
+      "url": "https://open.spotify.com/track/353idKXfTcr8L4QosiGD8z"
     },
     {
       "album": {
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165393,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 203369,
       "name": "ballad of a homeschooled girl",
       "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 148892,
       "name": "BLACK HEARSE",
       "url": "https://open.spotify.com/track/2TcdALHDcTIeaKhqJDaej1"
@@ -6785,6 +6803,28 @@
     },
     {
       "album": {
+        "name": "kinda smacks",
+        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136601,
+      "name": "kinda smacks",
+      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+    },
+    {
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -7154,6 +7194,28 @@
       "duration_ms": 160804,
       "name": "looking at porn",
       "url": "https://open.spotify.com/track/2WLH4kW5gS9G5nPtoo8qGg"
+    },
+    {
+      "album": {
+        "name": "lose myself in you",
+        "url": "https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS"
+      },
+      "artists": [
+        {
+          "name": "Abby Roberts",
+          "url": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
+        },
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "lose myself in you",
+      "url": "https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl"
     },
     {
       "album": {
@@ -8938,6 +9000,24 @@
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+    },
+    {
+      "album": {
+        "name": "Petty Enemy",
+        "url": "https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199553,
+      "name": "Petty Enemy",
+      "url": "https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa"
     },
     {
       "album": {
@@ -12258,7 +12338,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"

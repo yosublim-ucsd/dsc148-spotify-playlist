@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 28466,
+  "2024-02-16": 28474,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ukraine.",
   "name": "Top 50 - Ukraine",
@@ -10877,7 +10877,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -16581,7 +16581,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 149832,
       "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
       "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
@@ -22695,7 +22695,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -27003,6 +27003,24 @@
       "duration_ms": 80008,
       "name": "\u044f \u043f\u043e\u043d\u044f\u043b - skit",
       "url": "https://open.spotify.com/track/46T22qAGkE8pDG8KBHsr29"
+    },
+    {
+      "album": {
+        "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137714,
+      "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
     },
     {
       "album": {

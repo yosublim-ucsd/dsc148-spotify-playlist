@@ -1,12 +1,12 @@
 {
   "description": "Un derroche de sensualidad. Prince Royce, Gabito Ballesteros en portada.",
-  "num_followers": 88144,
+  "num_followers": 88206,
   "original_name": "Bachata Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDg0ZTYxZWMyZDBkNzMwMjVjY2ZhMTY5MzA0ODgxNzQwZmZhOGIz",
+  "snapshot_id": "MCxkYzM4ZDgxMTg4NWVhN2FlOTBlNTkyOWFhN2FlZTM1ZDA5NTMyNGU4",
   "tracks": [
     {
       "added_at": "2024-02-13 19:00:15",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -167,22 +167,18 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
-        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
       "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
         {
           "name": "Romeo Santos",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 229333,
-      "name": "La Mejor Versi\u00f3n de Mi - Remix",
-      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
+      "duration_ms": 234828,
+      "name": "Imitadora",
+      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -207,18 +203,22 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
+        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
       },
       "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
         {
           "name": "Romeo Santos",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 234828,
-      "name": "Imitadora",
-      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
+      "duration_ms": 229333,
+      "name": "La Mejor Versi\u00f3n de Mi - Remix",
+      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 198332,
+      "name": "Sobredosis (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 180153,
       "name": "AMANTES",
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 198332,
-      "name": "Sobredosis (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Shorty, Shorty",
-      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 225000,
       "name": "Odio (feat. Drake)",
       "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Shorty, Shorty",
+      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -595,6 +595,26 @@
       "duration_ms": 205266,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Necio (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -675,26 +695,6 @@
       "duration_ms": 263693,
       "name": "Me Puedo Matar - Remastered",
       "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Necio (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Amor Total",
-        "url": "https://open.spotify.com/album/4rDdqIdgGzfD6KXc7VDDzU"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/3Ux53Gwh9txPtWaO7AXKZQ"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
         "name": "Mi Secreto",
         "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "Amor Total",
+        "url": "https://open.spotify.com/album/4rDdqIdgGzfD6KXc7VDDzU"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/3Ux53Gwh9txPtWaO7AXKZQ"
     },
     {
       "added_at": "2024-02-13 19:00:15",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1VhYslQCE4ke2Yui8fdetg"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/4CcfCDNRbtOHIcfVFALRKe"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
         "name": "Lost in the Music",
         "url": "https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 250000,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/6R8Wtmkt4gExspMQV3W9xw"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1VhYslQCE4ke2Yui8fdetg"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/4CcfCDNRbtOHIcfVFALRKe"
     },
     {
       "added_at": "2024-02-13 19:00:15",

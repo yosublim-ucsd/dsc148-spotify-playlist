@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 41 min
+64 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Basto](https://open.spotify.com/track/6DtgjNnFU73SoLXh5teMhn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:37 | 2023-08-08 | 2023-09-26 |
 | [Basto](https://open.spotify.com/track/2fDA3Ws2IgRRvJL3N3cg21) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:38 | 2023-12-13 |  |
 | [Cajita De Cartón \- bonus track](https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [XX Aniversario \(En Vivo\)](https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr) | 3:03 | 2023-08-08 |  |
+| [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 | 2024-02-15 |  |
 | [Como Te Atreves](https://open.spotify.com/track/1bg1HuabdLOEfGms2uVqfk) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:36 | 2023-08-08 |  |
 | [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 | 2023-08-08 |  |
 | [Contigo](https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:25 | 2023-08-08 |  |
@@ -28,7 +29,7 @@
 | [El Poder De Tus Manos](https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:02 | 2023-08-08 |  |
 | [Enséñame A Olvidarte](https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:22 | 2023-08-08 |  |
 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 | 2023-08-08 |  |
-| [Es Mejor Decir Adiós](https://open.spotify.com/track/1XYOzOTFwB2flq7yVBFPuf) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Romances](https://open.spotify.com/album/105sAuhvY2L17r5DvIaTtf) | 4:20 | 2023-08-08 |  |
+| [Es Mejor Decir Adiós](https://open.spotify.com/track/1XYOzOTFwB2flq7yVBFPuf) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Romances](https://open.spotify.com/album/105sAuhvY2L17r5DvIaTtf) | 4:20 | 2023-08-08 | 2024-02-16 |
 | [Es Tan Bello](https://open.spotify.com/track/2sWiWpbCgoTfN94y5Gwd3x) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:47 | 2023-08-08 |  |
 | [Eso Duele](https://open.spotify.com/track/1iC61Hz52gDokQ8e4UBkwM) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:16 | 2023-08-08 |  |
 | [Estás Que Te Pelas](https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:52 | 2023-08-08 |  |
@@ -38,7 +39,8 @@
 | [Llévame Contigo](https://open.spotify.com/track/4ZjSZV7N9WKFKgUcah2UQ5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 2:29 | 2023-08-08 |  |
 | [Llévame En Tu Viaje](https://open.spotify.com/track/3DeH1wTB0Oo1341VJRTAGR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:19 | 2023-08-08 |  |
 | [Me Dueles](https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:47 | 2023-09-21 | 2023-10-11 |
-| [Mi Castigo](https://open.spotify.com/track/1SlD0IINVTsQEctNYIEFhr) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 4:18 | 2024-02-12 |  |
+| [Mi Castigo](https://open.spotify.com/track/1SlD0IINVTsQEctNYIEFhr) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 4:18 | 2024-02-12 | 2024-02-16 |
+| [Modus Operandi](https://open.spotify.com/track/0QIziWZ2Wvdi4dh5L3c6FG) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:55 | 2024-02-15 |  |
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2023-08-08 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2023-08-08 | 2024-01-04 |
 | [No Me Hablen de Amor](https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:09 | 2024-01-03 |  |

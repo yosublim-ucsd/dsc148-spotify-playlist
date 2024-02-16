@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Metallica",
-  "num_followers": 1208804,
+  "num_followers": 1209210,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTNmN2EyZTMxOTI5OTFiMDI2MmNjODc3ZWNjYWEzYTE2Njk5OWVm",
+  "snapshot_id": "MCwzY2NmNWFhODg4NDg4ZjgyMDQ0Yzk4Mzc1ZDVjZmRiOTVjNGMwYWJi",
   "tracks": [
     {
       "added_at": "2024-01-26 17:17:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "Shout At The Devil",
         "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 194986,
       "name": "Shout at the Devil",
       "url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "The Ultimate Sin",
-        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 256293,
-      "name": "Shot in the Dark",
-      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "Reign In Blood",
         "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 254400,
       "name": "Raining Blood",
       "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "From Hell With Love",
-        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 235295,
-      "name": "From Hell With Love",
-      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 235295,
+      "name": "From Hell With Love",
+      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "I Will Be Heard",
+      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1351,22 +1367,6 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "I Will Be Heard",
-      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Put Your Back Into The Oar",
-        "url": "https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Put Your Back Into The Oar",
-      "url": "https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 290586,
       "name": "The Number of the Beast (2015 Remaster)",
       "url": "https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "Put Your Back Into The Oar",
+        "url": "https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "Put Your Back Into The Oar",
+      "url": "https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Lights...Camera...Revolution",
-        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "You Can't Bring Me Down",
-      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 348099,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Symbolic (Remastered Version)",
-        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
+        "name": "You Will Be the Death of Me",
+        "url": "https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO"
       },
       "artists": [
         {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+          "name": "Light The Torch",
+          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
         }
       ],
-      "duration_ms": 392800,
-      "name": "Symbolic",
-      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
+      "duration_ms": 207844,
+      "name": "Let Me Fall Apart",
+      "url": "https://open.spotify.com/track/2NT3vBkWwhfob1dtxY68uV"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "You Will Be the Death of Me",
-        "url": "https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO"
+        "name": "Symbolic (Remastered Version)",
+        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
       },
       "artists": [
         {
-          "name": "Light The Torch",
-          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
         }
       ],
-      "duration_ms": 207844,
-      "name": "Let Me Fall Apart",
-      "url": "https://open.spotify.com/track/2NT3vBkWwhfob1dtxY68uV"
+      "duration_ms": 392800,
+      "name": "Symbolic",
+      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1867,22 +1867,6 @@
       "duration_ms": 217906,
       "name": "Green Machine",
       "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -1931,6 +1915,22 @@
       "duration_ms": 173372,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2283,18 +2283,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "The Book of Heavy Metal",
-        "url": "https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW"
+        "name": "From The Cradle To Enslave",
+        "url": "https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp"
       },
       "artists": [
         {
-          "name": "Dream Evil",
-          "url": "https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB"
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
         }
       ],
-      "duration_ms": 325800,
-      "name": "The Book of Heavy Metal (March of the Metallians)",
-      "url": "https://open.spotify.com/track/07Vk1JPd5MgBJxdrMpnLNh"
+      "duration_ms": 397160,
+      "name": "From the Cradle to Enslave",
+      "url": "https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "From The Cradle To Enslave",
-        "url": "https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp"
+        "name": "The Book of Heavy Metal",
+        "url": "https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW"
       },
       "artists": [
         {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+          "name": "Dream Evil",
+          "url": "https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB"
         }
       ],
-      "duration_ms": 397160,
-      "name": "From the Cradle to Enslave",
-      "url": "https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT"
+      "duration_ms": 325800,
+      "name": "The Book of Heavy Metal (March of the Metallians)",
+      "url": "https://open.spotify.com/track/07Vk1JPd5MgBJxdrMpnLNh"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2475,18 +2475,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Horns For A Halo",
-        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
       },
       "artists": [
         {
-          "name": "Elegant Weapons",
-          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2507,18 +2507,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
+        "name": "Horns For A Halo",
+        "url": "https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if"
       },
       "artists": [
         {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+          "name": "Elegant Weapons",
+          "url": "https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ"
         }
       ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
+      "duration_ms": 321440,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
+        "name": "Sainted by the Storm",
+        "url": "https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Sainted by the Storm",
+      "url": "https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
         "name": "Dad\u2019Algorhythm",
         "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
       },
@@ -2619,18 +2635,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Sainted by the Storm",
-        "url": "https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf"
+        "name": "Slowly We Rot (Reissue)",
+        "url": "https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Sainted by the Storm",
-      "url": "https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ"
+      "duration_ms": 218426,
+      "name": "Slowly We Rot",
+      "url": "https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2651,22 +2667,6 @@
       "duration_ms": 220474,
       "name": "Death Cult",
       "url": "https://open.spotify.com/track/1CN2mzJBqxVgPVRlzcxrhZ"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
-        "name": "Slowly We Rot (Reissue)",
-        "url": "https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7"
-      },
-      "artists": [
-        {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Slowly We Rot",
-      "url": "https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2751,18 +2751,18 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "The Above",
-        "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
       },
       "artists": [
         {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Grooming My Replacement",
-      "url": "https://open.spotify.com/track/07QE1QxgiKnWwVOtTgf4K4"
+      "duration_ms": 231706,
+      "name": "Breaking The Chains",
+      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2783,6 +2783,22 @@
       "duration_ms": 173174,
       "name": "Holy Roller (feat. Ryo Kinoshita)",
       "url": "https://open.spotify.com/track/6h4wWGxBP0NMPiyizGBGBM"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "The Above",
+        "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Grooming My Replacement",
+      "url": "https://open.spotify.com/track/07QE1QxgiKnWwVOtTgf4K4"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -2855,6 +2871,22 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5"
       },
@@ -2903,22 +2935,6 @@
     {
       "added_at": "2024-01-26 17:17:49",
       "album": {
-        "name": "Speaking of the Devil",
-        "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
-      },
-      "artists": [
-        {
-          "name": "Thundermother",
-          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
-        }
-      ],
-      "duration_ms": 225189,
-      "name": "Speaking of the Devil",
-      "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
         "name": "Hivemind (feat. Mental Cruelty)",
         "url": "https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU"
       },
@@ -2935,6 +2951,22 @@
       "duration_ms": 384824,
       "name": "Hivemind (feat. Mental Cruelty)",
       "url": "https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU"
+    },
+    {
+      "added_at": "2024-01-26 17:17:49",
+      "album": {
+        "name": "Speaking of the Devil",
+        "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "duration_ms": 225189,
+      "name": "Speaking of the Devil",
+      "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -3019,22 +3051,6 @@
       "duration_ms": 270479,
       "name": "Shed My Skin (feat. Annisokay)",
       "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Breaking The Chains",
-      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
     },
     {
       "added_at": "2024-01-26 17:17:49",
@@ -3163,22 +3179,6 @@
       "duration_ms": 264960,
       "name": "Long Live Rock N Roll",
       "url": "https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3"
-    },
-    {
-      "added_at": "2024-01-26 17:17:49",
-      "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Slave to the Grind",
-      "url": "https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7"
     },
     {
       "added_at": "2024-01-26 17:17:49",

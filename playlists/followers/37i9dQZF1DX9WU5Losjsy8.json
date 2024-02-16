@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 395195,
+  "2024-02-16": 395282,
   "date_first_scraped": "2023-07-28",
   "description": "Skifoan und H\u00fcttenabriss.",
   "name": "Apr\u00e8s Ski Party 2023",
@@ -79,6 +79,28 @@
       "duration_ms": 206944,
       "name": "Abfahrt",
       "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "album": {
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO"
     },
     {
       "album": {
@@ -327,7 +349,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 149160,
       "name": "Bring mich nach Hause",
       "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,624 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,769 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 6 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
 | 7 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
 | 8 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
-| 9 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 |
+| 9 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 |
 | 10 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 11 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 |
 | 12 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 79 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 80 | [SWEETCHY](https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:31 |
 
-Snapshot ID: `MCwwYmY0ZDI1NGRiOTBjYWQwYTE2NDgxZWFkODE1MWMxNmU3YWNhZDQy`
+Snapshot ID: `MCw2MDgxYzQ2YTI0MzViMzQ2ZjBlZDQ1NmRlZjYxYTVjYmEwMmJkZWQz`

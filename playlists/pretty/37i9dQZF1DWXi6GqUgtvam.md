@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,752 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,809 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 34 | [Ecco la primavera](https://open.spotify.com/track/7zthdBWe8AUP730iCyOahN) | [Jessica Baran\-Surel](https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE), [Francesco Landini](https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI) | [Aremorica \- Land of Elves](https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6) | 3:13 |
 | 35 | [Lute music \- Italy: Ricercar XIII](https://open.spotify.com/track/1KiKxwDqfCMqbg0Wt8Hcuw) | [Vincenzo Capirola](https://open.spotify.com/artist/7GYOs5iBpaqT2KBV4pteU7), [Konrad Ragossnig](https://open.spotify.com/artist/3qJX1xoYrbUmU2Uz4gZzuQ) | [Works For Lute](https://open.spotify.com/album/6CosqW2KLJ7qxTpKwAwk9a) | 3:31 |
 | 36 | [2ème livre de tabulature de leut: Fantaisie](https://open.spotify.com/track/2L1qQGIWPNfMiCxmBXghL3) | [Guillaume Morlaye](https://open.spotify.com/artist/49kLXAk0bbAnCYhuPSbUO1), [Federico Marincola](https://open.spotify.com/artist/2bsj7EbJXWVagbqIEsN9li) | [Morlaye : Pièces pour luth, Pièces pour guitare](https://open.spotify.com/album/0PYQjBPvCcpdg90Nnn8u8O) | 3:17 |
-| 37 | [Fantasia](https://open.spotify.com/track/1wtICs9nvS3zl27bCgBaUP) | [Cuthbert Hely](https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn), [Jakob Lindberg](https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9) | [Jacobean Lute Music](https://open.spotify.com/album/6Is0LZIez8POle2AUYu2LH) | 4:03 |
+| 37 | [Fantasia \(I\)](https://open.spotify.com/track/6Cneh90xYDJqfIFbnam4Bz) | [Cuthbert Hely](https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn), [Jakob Lindberg](https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9) | [Jacobean Lute Music](https://open.spotify.com/album/2sryDIvNuZ3AyeZ7pqJu2M) | 4:03 |
 | 38 | [Suite in C Minor from Ms\. Lobkowicz: V\. La volage Passacaille](https://open.spotify.com/track/7zSvbQuYJ4AhGLxsTRfCzv) | [Charles Mouton](https://open.spotify.com/artist/7IoBL5mzZdjFBq58slYLxP), [Anders Ericson](https://open.spotify.com/artist/4kb9G0GZo02DvJNT43lBma) | [Charles Mouton \- Baroque Lute](https://open.spotify.com/album/5blzNNQkLFPogV87YJddNz) | 3:03 |
 | 39 | [Viking Boaters Dancing in Scotland \(feat\. Lana Ross\)](https://open.spotify.com/track/5zZCJsQMWH5dol75UMfO9s) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv), [Lana Ross](https://open.spotify.com/artist/3zT2ihLD0QRkAOCp3Q2XSc) | [Medieval Viking Music Magic Fantasy for Celtic Folk Lute and Classical Guitar](https://open.spotify.com/album/7r1WRowCRvZdZU6RK4RwtM) | 3:02 |
 | 40 | [Pavanne en forme de complainte](https://open.spotify.com/track/4LSVC1jLMWLAU4YAN40onz) | [Nicolas Vallet](https://open.spotify.com/artist/2fuunl2KBtdF5cmHXTQttP), [Anthony Bailes](https://open.spotify.com/artist/7HYQqdTqflG3FBEzN0vtWr) | [Lute Music of the Netherlands](https://open.spotify.com/album/2f7rU5r1vtmZEDppurUtJ3) | 4:49 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 50 | [The Master Chef of Gastrobury](https://open.spotify.com/track/0aycbYuLLKP00Vxk8nLXtB) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 2](https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD) | 2:08 |
 | 51 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 
-Snapshot ID: `MCw3OWQwYTBiODQ1NWYyZWM3NzFiNzI3YWI2NzNjZDc5Y2IxYjk2NzEx`
+Snapshot ID: `MCxhODZhMjMwMWZmYWQ5ODA3ZTg5YTIwYWVlNTcwYTE2YWExMDQ5ODVk`

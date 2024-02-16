@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 15598,
+  "2024-02-16": 15601,
   "date_first_scraped": "2022-06-10",
   "description": "Our favourite new music, updated monthly by the XL team. ",
   "name": "XL Play",
@@ -2215,6 +2215,28 @@
       "duration_ms": 211874,
       "name": "Crunchy",
       "url": "https://open.spotify.com/track/1miHWIbwsyrbYuoLg6UNKn"
+    },
+    {
+      "album": {
+        "name": "Cry Without End",
+        "url": "https://open.spotify.com/album/7vclFJ0yPNcegXkKY1eM60"
+      },
+      "artists": [
+        {
+          "name": "SAM MORTON",
+          "url": "https://open.spotify.com/artist/3AUG2k8d0nEovQT9uleNPq"
+        },
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Cry Without End",
+      "url": "https://open.spotify.com/track/7Hds52K1esifSDfhz0cOq5"
     },
     {
       "album": {

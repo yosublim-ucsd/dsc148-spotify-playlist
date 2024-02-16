@@ -1,15 +1,127 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=cCiw0omDSEiNWZ77Alp6cA\">Bok Van Blerk</a>  & <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=TUbo2rQPRaC6MibVMaRoLg\">Bernice West</a>",
-  "num_followers": 95544,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=vE7cPH-jTGO7QE3lTc9Ofg\">Barto</a>  ",
+  "num_followers": 95627,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWM0ZjRjOWUxNjkyNjlkZDBlOWMwOTFmMTA2MGMwYTUxOTEyYjJm",
+  "snapshot_id": "MCw4NzNkNmE5YjI3YTI1MDBlYzhmNzI0OGVmN2ZjMDAyYjBlZDcxMWFk",
   "tracks": [
     {
-      "added_at": "2024-02-01 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 197479,
+      "name": "OASE",
+      "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Vlerke",
+        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Vlerke",
+      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Soen Soos Wat Jy Dans",
+        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 215217,
+      "name": "Soen Soos Wat Jy Dans",
+      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Helemal",
+        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 227999,
+      "name": "Helemal",
+      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Die Afrikaner Maak So",
         "url": "https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS"
@@ -29,103 +141,7 @@
       "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
     },
     {
-      "added_at": "2023-11-30 22:00:00",
-      "album": {
-        "name": "Vlerke",
-        "url": "https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Vlerke",
-      "url": "https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT"
-    },
-    {
-      "added_at": "2023-12-08 00:09:00",
-      "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
-    },
-    {
-      "added_at": "2024-02-01 22:00:00",
-      "album": {
-        "name": "Soen Soos Wat Jy Dans",
-        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "Soen Soos Wat Jy Dans",
-      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2023-11-30 22:00:00",
-      "album": {
-        "name": "Helemal",
-        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Helemal",
-      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Almal Gly",
         "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
-      "added_at": "2023-09-21 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Moegdans",
         "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
     },
     {
-      "added_at": "2023-08-24 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Liewe Jinne!",
         "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
     },
     {
-      "added_at": "2023-11-30 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Buffel Van Buffelsfontein",
         "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
     },
     {
-      "added_at": "2023-12-21 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Dis Raak",
         "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Impulsief",
         "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Asseblief",
         "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Foute",
         "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
     },
     {
-      "added_at": "2023-08-17 22:01:39",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Laatnag Gedagtes",
         "url": "https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "H2O\u00eb",
         "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
-      "added_at": "2023-11-23 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Haar Naam Was Somer",
         "url": "https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Koue Kole",
         "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
     },
     {
-      "added_at": "2023-12-28 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Waar Gaan Ons Dans Vanaand?",
         "url": "https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
     },
     {
-      "added_at": "2023-12-08 00:09:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Kalahari Ferrari",
         "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Stoutgat",
         "url": "https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Khaki",
         "url": "https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Vlam In Die Wind",
         "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Tannie Katesbes",
         "url": "https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
     },
     {
-      "added_at": "2024-01-25 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Neem My Op Vlerke (SENSASIE Remix)",
         "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Weer",
         "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Tekkies Brand",
         "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi"
     },
     {
-      "added_at": "2023-09-21 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Ouens Soos Ek",
         "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Foto's",
         "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
-      "added_at": "2023-11-09 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "OASE",
         "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
     },
     {
-      "added_at": "2023-08-10 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Boer In My Hart",
         "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "SySoen",
         "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Stout Vir ...",
         "url": "https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Vuur En Vlam",
         "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
-      "added_at": "2023-08-24 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Kwagga Karnaval",
         "url": "https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Frikkie vir 'n Rukkie",
         "url": "https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Die Onbekende",
         "url": "https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Lyntjie",
         "url": "https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg"
@@ -749,23 +765,7 @@
       "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Wille Ding",
-        "url": "https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Suikerbos",
-      "url": "https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Vat Die Cruiser",
         "url": "https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Ek Like Jou",
         "url": "https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Kwaaitjie",
         "url": "https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Rowwe Bliksem",
         "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Ek Wonder",
         "url": "https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "My Nannas",
         "url": "https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Wil Jy Bly",
         "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Wynland",
         "url": "https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Haai Haai",
         "url": "https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Nora Vlok",
         "url": "https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Johnnie Blou",
         "url": "https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Kleintjie",
         "url": "https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Nee of Ja",
         "url": "https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Patriot",
         "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Vir Jou Geval",
         "url": "https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Ek Moes Ek Wou Ek Sou",
         "url": "https://open.spotify.com/album/4fAIx1F240tedTZvZVouJm"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Bietjie Benoni",
         "url": "https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4"
@@ -1057,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     },
     {
-      "added_at": "2023-11-16 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Als Is Okay",
         "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Lieflik",
         "url": "https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Hey Sonneblom",
         "url": "https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Sonop-Blom",
         "url": "https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p"
@@ -1137,7 +1137,7 @@
       "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Ploeg Jy",
         "url": "https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Hand Aan Hand",
         "url": "https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y"
@@ -1169,7 +1169,7 @@
       "url": "https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Afrikaans is Groot Vol. 14",
         "url": "https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h"
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Swaeltjies",
         "url": "https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Afrikaans is Groot Vol. 14",
         "url": "https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Vuur Op Die Water",
         "url": "https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2"

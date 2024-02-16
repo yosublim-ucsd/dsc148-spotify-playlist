@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\.  Cover: Steve Lacy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,576 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,997 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 102 | [Social Sites](https://open.spotify.com/track/6Qmqjy6RbsHwc6nZCzJBkj) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5yV0XjLBcR7uKsGvruSbRm) | 4:49 |
 | 103 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 
-Snapshot ID: `MCw2Y2Y5ODFiYTZhZmIwNjA1MTYyODE5ZmJjZmJlYzI0OTY3NGRlYmY2`
+Snapshot ID: `MCxiZGYwZWQ0NjNmMGY1YmMzMGI1ZDU5MzFiNWRlNWI4ZmNjNzk2ZWM2`

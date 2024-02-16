@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,789 likes - 97 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,810 likes - 97 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 43 | [Remember Me](https://open.spotify.com/track/36lYZjm25MiciLPbUUgt6w) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Remember Me](https://open.spotify.com/album/3jP2frJYvtUPw54MOjfkQ6) | 3:01 |
 | 44 | [Cruel Summer \- Musumeci Wax off Remix](https://open.spotify.com/track/15PJHoA91oxrgYkwVa3TVZ) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5q34nsGcAr0ElZVbq9wgMP) | 4:49 |
 | 45 | [Same Like Dope But Different](https://open.spotify.com/track/0GIPq4zQJPTlycINrUR0ST) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Same Like Dope But Different](https://open.spotify.com/album/6hWNRK4gZ1XuApm1XlPUsz) | 4:41 |
-| 46 | [Work \- Original Mix](https://open.spotify.com/track/4YmERu15RPaCWUAEBWtpBA) | [Nhan Solo](https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Work](https://open.spotify.com/album/5twrWSneyeEXOLYmiFeR8N) | 5:57 |
+| 46 | [Work](https://open.spotify.com/track/4rKh5rBrrqorXtzro6nQ6q) | [Nhan Solo](https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Work](https://open.spotify.com/album/0aDkBfUB8gFSgwPHisSCXZ) | 5:57 |
 | 47 | [Drum Beat](https://open.spotify.com/track/2WtZN0dhZmfXsNYxBUkWKl) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/1JOlNpkTYoocZf7suVqSHD) | 5:16 |
 | 48 | [Save the Children](https://open.spotify.com/track/7JG9fgcKffwG4IcpBkZdEu) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Struggle / Save the Children](https://open.spotify.com/album/3OT5QWnp0XjpeZXT3k3HFD) | 5:35 |
 | 49 | [Sex, Drugs, Money & Lies \- Amine K Remix](https://open.spotify.com/track/6Fe1UFMK4CtL4QQQgIIJoS) | [Lunar Disco](https://open.spotify.com/artist/4wGE0QDsUVMR28CJayMHV7), [Peter Conaty](https://open.spotify.com/artist/6E6Qssf8ctt4C0kkGeD3EK), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sex, Drugs, Money & Lies \(Amine K Remix\)](https://open.spotify.com/album/3XfDfHeTIGp3pRgceajqrt) | 6:51 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 96 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 97 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MCw3NzlmOGYzZjAwMDQ0NWExNGFjYzBkZGRhOWU4NjFjYTVjZGMyZTY1`
+Snapshot ID: `MCxjZGYxODQ1Yzg1OTU0ZTY4MjYzYTlkY2JjY2YwYmRjZGIyNGI1MGZl`

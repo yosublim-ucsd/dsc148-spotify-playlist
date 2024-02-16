@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 441 songs - 1 day 4 hr 47 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 445 songs - 1 day 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -443,11 +443,15 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 433 | [The Heavenly Music Corporation I](https://open.spotify.com/track/69mvqf8XQoldmh6RLcvEjb) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J) | 6:17 |
 | 434 | [Introduction](https://open.spotify.com/track/25BcBVAoG8bZ2m63bYiAAZ) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 0:32 |
 | 435 | [The After Party](https://open.spotify.com/track/6C5HSuCqmjcJSpvUkq9w5d) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:33 |
-| 436 | [I Don’t Know How I Survive](https://open.spotify.com/track/0b2vqB7QNT4z8nnaYqbuel) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:40 |
-| 437 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 |
-| 438 | [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 |
-| 439 | [Four Years and One Day](https://open.spotify.com/track/1N46EUnUiBP4lhLMCLwnFG) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:17 |
-| 440 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
-| 441 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 |
+| 436 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 |
+| 437 | [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 |
+| 438 | [Four Years and One Day](https://open.spotify.com/track/1N46EUnUiBP4lhLMCLwnFG) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:17 |
+| 439 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
+| 440 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 |
+| 441 | [Erase You](https://open.spotify.com/track/6arK7mjjvqG3cVLJrYVYYW) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:17 |
+| 442 | [Better in My Memory](https://open.spotify.com/track/0eWCi968jvfFZiLSMiOeFD) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Rebecca Black Was Here](https://open.spotify.com/album/6vXI5FEqyxKPD2AFJd6rkC) | 2:50 |
+| 443 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 |
+| 444 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 |
+| 445 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 |
 
-Snapshot ID: `MTM2Myw0NGIyZjUyMjAwMDE0NTExZmNmOWU2MDlkYmJlNGYxYmZlYWMyODI3`
+Snapshot ID: `MTM3MSxkZjAxZmE2NzBhZTNiZWJjNzlhN2Y0ODQ4MzMwNWU5Yjg3ZWE4M2U1`

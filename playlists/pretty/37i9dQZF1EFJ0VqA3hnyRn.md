@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 246 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 246 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 70 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 71 | [This is How We Roll](https://open.spotify.com/track/4n61GqkEhOHlU1vOfIMxLT) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 4:32 |
 | 72 | [Runaway Love](https://open.spotify.com/track/1xgN9KBVVoTNygpYjpXnvH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:32 |
-| 73 | [Bikini Body](https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sunday](https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd) | 3:47 |
-| 74 | [How We Roll](https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 3:19 |
+| 73 | [How We Roll](https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 3:19 |
+| 74 | [Bikini Body](https://open.spotify.com/track/0mM39ptTtRKkeSfwsFKFxt) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sunday](https://open.spotify.com/album/4wixCIPVwEHSNKSpv0UVVd) | 3:47 |
 | 75 | [Under Your Skin](https://open.spotify.com/track/3RB4mMjf2Ln4fDv3ylSoWI) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Under Your Skin](https://open.spotify.com/album/7kTa3EZsisqUfH9SA37oKe) | 3:08 |
 | 76 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
 | 77 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 245 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
 | 246 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg0NjYwNjAsMDAwMDAwMDBiMjg2ODk3Zjg1OTcxY2U2YTNmNmNjMjBmZjllODg0Yg==`
+Snapshot ID: `Mjg0Njc1MDAsMDAwMDAwMDA2OTE4NjgzOWUyOWRiMDJmNjIxOTkyN2QzZTE3NDA5OQ==`

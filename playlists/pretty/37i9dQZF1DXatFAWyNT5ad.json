@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Knox",
-  "num_followers": 133547,
+  "num_followers": 133589,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2QyNjBjYzE3MzIyYWEwMGQ2ZWI3Y2Y0NGJjZjhiZDc0NmFjMjU4",
+  "snapshot_id": "MCxmMzcwZTJmODlhMjhkZWY0Y2E0MjQ2ZWY5NjU5ZmQ3MjVkYjcwYmZl",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Faith In The Future (Deluxe)",
+        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "Out Of My System",
+      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 187838,
       "name": "Loud",
       "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Faith In The Future (Deluxe)",
-        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
-      },
-      "artists": [
-        {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "Out Of My System",
-      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "INTELLECTUAL PROPERTY",
         "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 172375,
       "name": "FUCK ABOUT IT (feat. blackbear)",
       "url": "https://open.spotify.com/track/4e4htLKeAZFildRW8D2Itx"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "How Have You Been?",
-        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "JUMP!",
         "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 194928,
       "name": "JUMP!",
       "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Bubble Wrap",
-        "url": "https://open.spotify.com/album/78WrvGD9hVnhpcNGp0GTuP"
-      },
-      "artists": [
-        {
-          "name": "Precious Pepala",
-          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
-        }
-      ],
-      "duration_ms": 171156,
-      "name": "Bubble Wrap",
-      "url": "https://open.spotify.com/track/18FE77kJAwPMcuCnBLUciS"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Bubble Wrap",
+        "url": "https://open.spotify.com/album/78WrvGD9hVnhpcNGp0GTuP"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "duration_ms": 171156,
+      "name": "Bubble Wrap",
+      "url": "https://open.spotify.com/track/18FE77kJAwPMcuCnBLUciS"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "I Think I'm in Love",
         "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
       },
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1867,6 +1851,22 @@
       "duration_ms": 173132,
       "name": "Don't Get Me Wrong",
       "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "How Do You Love Me",
-        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
       "artists": [
         {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
         }
       ],
-      "duration_ms": 281644,
-      "name": "30 Somehow",
-      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "How Do You Love Me",
+        "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 281644,
+      "name": "30 Somehow",
+      "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Retrovision",
         "url": "https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f"
       },
@@ -2035,22 +2035,6 @@
       "duration_ms": 165018,
       "name": "Habitual",
       "url": "https://open.spotify.com/track/5q8dOqEprhcGuQorkRIWXZ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Red Lights / Ireland",
-        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2071,6 +2055,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Red Lights / Ireland",
+        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "m.i.a.",
         "url": "https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc"
       },
@@ -2083,6 +2083,22 @@
       "duration_ms": 152000,
       "name": "m.i.a.",
       "url": "https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Little Like Hell",
+        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Little Like Hell",
+      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2103,22 +2119,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Little Like Hell",
-        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Little Like Hell",
-      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
     },
     {
       "added_at": "2024-01-12 05:00:00",

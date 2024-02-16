@@ -72,7 +72,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 253340,
       "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
       "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
@@ -628,6 +628,24 @@
       "duration_ms": 383369,
       "name": "El Super Junte Rkt",
       "url": "https://open.spotify.com/track/1dtFrIzrr4DJZOHHESVwbt"
+    },
+    {
+      "album": {
+        "name": "Envidia",
+        "url": "https://open.spotify.com/album/3ppRhMnjl3OeFsniV5XEfY"
+      },
+      "artists": [
+        {
+          "name": "Flyxswn",
+          "url": "https://open.spotify.com/artist/31Kni4KBb3Iri2jzrcRrfF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93205,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/1yRKuzREhM129Cz5tlVfwP"
     },
     {
       "album": {
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
@@ -1692,10 +1710,44 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 217490,
       "name": "SINVERG\u00dcENZA - con Angela Torres",
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180475,
+      "name": "Stayed Gone",
+      "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
     },
     {
       "album": {
@@ -1906,6 +1958,40 @@
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
+    },
+    {
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bump J",
+          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
     },
     {
       "album": {

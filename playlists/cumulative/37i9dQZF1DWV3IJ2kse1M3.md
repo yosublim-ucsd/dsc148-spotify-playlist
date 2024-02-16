@@ -4,7 +4,7 @@
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>我不在乎 別人怎麼看 怎麼猜測 我只在乎 你今天是否 笑過哭過。
 
-157 songs - 11 hr 50 min
+158 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 | 2022-06-01 | 2022-07-29 |
 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 | 2022-06-01 |  |
 | [我以為](https://open.spotify.com/track/03m5ynXvoV7XkMKQUvtYgy) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/16u00yPbBrZslW0br7ICvR) | 4:58 | 2022-06-01 | 2022-07-28 |
-| [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 | 2022-06-01 |  |
+| [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 | 2022-06-01 | 2024-02-16 |
 | [我们三](https://open.spotify.com/track/0dr4DaJb4bf2EjgBcDsumR) | [朱浩仁](https://open.spotify.com/artist/1Y2za0XzyluvtDTYtkFwJ7), [淑敏](https://open.spotify.com/artist/6Pg1FbAoJJDpdX6ettFZx9) | [我们三](https://open.spotify.com/album/2ZKpm2pcLRZlk58UvDuKG6) | 4:12 | 2022-06-01 | 2022-07-01 |
 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 | 2022-06-01 |  |
 | [我們盡力了](https://open.spotify.com/track/7o1TK2v9JvUHo47LIYjWTd) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [我們盡力了](https://open.spotify.com/album/0pcqjPwBloZXi7PW8KC8Uq) | 5:11 | 2022-06-01 | 2022-07-22 |
@@ -93,6 +93,7 @@
 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 | 2022-06-01 |  |
 | [我真的受傷了](https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [學友．熱](https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR) | 3:28 | 2022-06-01 |  |
 | [我真的受傷了](https://open.spotify.com/track/0gbSZhHZDVAoxtFzqxL4LD) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [Black & White](https://open.spotify.com/album/1D9U7rOcWFzMp8gOpOC4sC) | 3:31 | 2022-06-01 | 2022-07-29 |
+| [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 | 2024-02-08 |  |
 | [拿走了什麼](https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [罪惡感](https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv) | 4:56 | 2022-06-01 | 2022-07-29 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-06-01 | 2024-01-10 |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2023-12-06 |  |

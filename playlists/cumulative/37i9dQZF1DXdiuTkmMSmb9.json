@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Believe it or Not",
+        "url": "https://open.spotify.com/album/4HRuZjESjnx4deEKxkNOrP"
+      },
+      "artists": [
+        {
+          "name": "OT BXRBIE",
+          "url": "https://open.spotify.com/artist/0bj52PDQ7SWnTJJqbQwNoB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130634,
+      "name": "Believe it or Not",
+      "url": "https://open.spotify.com/track/5laj3RgEsLYPGoOdYEhoXo"
+    },
+    {
+      "album": {
         "name": "Big 7",
         "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
       },
@@ -2003,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/4pHUXRXJiI0B5vcLD8HsUB"
       },
@@ -3152,6 +3188,28 @@
       "duration_ms": 202909,
       "name": "JE LE MI EDO",
       "url": "https://open.spotify.com/track/54wphs5eiAUUzQ7nfJGTk5"
+    },
+    {
+      "album": {
+        "name": "JOGODO",
+        "url": "https://open.spotify.com/album/1VaJF2mVwwSOGznmLuhxdW"
+      },
+      "artists": [
+        {
+          "name": "Hasin",
+          "url": "https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z"
+        },
+        {
+          "name": "LuckyDchampion",
+          "url": "https://open.spotify.com/artist/4bhX8kI7zEhvgq3qbqBijn"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "JOGODO",
+      "url": "https://open.spotify.com/track/1ogXdYZQ7ZNn7hJaBdwlBX"
     },
     {
       "album": {
@@ -8412,6 +8470,28 @@
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9"

@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Glimji\. Artwork by Rewina Beshue.
 
-1,964 songs - 5 day 16 hr 56 min
+1,965 songs - 5 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 | 2022-06-15 | 2022-07-21 |
 | [Efdies](https://open.spotify.com/track/4uu2f9NxQrlagFgjI3PhlC) | [Francis De Simone](https://open.spotify.com/artist/2vtok5FpY8afpLG9ZOmAod) | [Efdies](https://open.spotify.com/album/3tmnLdghkwlXEKsvPwrA1I) | 3:37 | 2022-08-24 | 2022-10-06 |
 | [efyo \- Funky Loffe Remix](https://open.spotify.com/track/20bLRshzgd7HR05BzBwEsS) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP), [Funky Loffe](https://open.spotify.com/artist/7fapkJvTCSdTdZmwrMcIMq) | [efyo \(Funky Loffe Remix\)](https://open.spotify.com/album/10xB5fcO5A1Yo7MLzSB0sE) | 4:13 | 2023-08-30 | 2023-10-19 |
-| [El Cielo](https://open.spotify.com/track/1wnsLVDPzyBBJ5WzAZJ5P3) | [ary:eh](https://open.spotify.com/artist/1g9QJsKgMuZnw8Ef3Vr7WD), [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [El Cielo](https://open.spotify.com/album/2ykrQXt9f2ANWhw0gO1zth) | 5:42 | 2024-01-17 |  |
+| [El Cielo](https://open.spotify.com/track/1wnsLVDPzyBBJ5WzAZJ5P3) | [ary:eh](https://open.spotify.com/artist/1g9QJsKgMuZnw8Ef3Vr7WD), [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [El Cielo](https://open.spotify.com/album/2ykrQXt9f2ANWhw0gO1zth) | 5:42 | 2024-01-17 | 2024-02-16 |
 | [El Fuego](https://open.spotify.com/track/3ZaVoj8BLT8ig7GLDFwr2A) | [Liam Cox](https://open.spotify.com/artist/3nVgi5QDYGaqV2BSUny5F3) | [El Fuego](https://open.spotify.com/album/6unTFJTfWUxUpJQqNO6rcf) | 3:38 | 2023-09-27 | 2023-10-26 |
 | [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-24 | 2022-09-15 |
 | [Elegant \- Bruno Furlan Remix](https://open.spotify.com/track/7vAEf2QUrXsL86QzAFmhAN) | [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Val](https://open.spotify.com/artist/5CO4jtfJyeQ4uLVsH7JqF9), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Elegant \(The Remixes\)](https://open.spotify.com/album/1ew9kwGW8huFMnC8vi5gc4) | 3:35 | 2022-05-11 | 2022-06-09 |
@@ -1202,6 +1202,7 @@
 | [Neva](https://open.spotify.com/track/7A0SNCqMZ15MvtvL2o8XsW) | [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [Neva](https://open.spotify.com/album/2ERX1GbT0R8UyYpEoo0sUU) | 4:37 | 2023-09-20 | 2023-10-26 |
 | [Never Be the Same](https://open.spotify.com/track/5ay3jWCFe0uBtoICTq4pZZ) | [Jones Vendera](https://open.spotify.com/artist/1GpnFKKszyh0e5ayxkREKT) | [Never Be the Same](https://open.spotify.com/album/5VHCmu602HCwEdP5Jctn0m) | 3:18 | 2023-04-26 | 2023-06-15 |
 | [Never Enough](https://open.spotify.com/track/0E7bASF3oRqZcL6zuIOv6n) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Never Enough](https://open.spotify.com/album/5RG1dYHC4kZPmY8StgbmhG) | 2:58 | 2022-03-31 | 2022-04-28 |
+| [Never Felt \(So Good\)](https://open.spotify.com/track/2qRdBCPYR2mP8ve2kmgxHn) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Never Felt \(So Good\)](https://open.spotify.com/album/6PBR26ZC1Rxh4bcReXyaeu) | 3:00 | 2024-02-15 |  |
 | [Never Let It Go](https://open.spotify.com/track/2ZT3Q3zW3arJ2OgQ20lKWT) | [Alex Kirsch](https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh) | [Never Let It Go](https://open.spotify.com/album/4vVXc3PlmAtUwsT7eS94bK) | 2:31 | 2022-07-20 | 2022-09-15 |
 | [Never Over](https://open.spotify.com/track/7y4nxTve03mmlUaNa304b9) | [Hannah Monica](https://open.spotify.com/artist/2VOcw45qKk1PIpLdwIuAID) | [Never Over](https://open.spotify.com/album/70YSmuhzvbAN3fTHmcG0Xe) | 6:43 | 2022-01-12 | 2022-02-24 |
 | [New Life Livin](https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY) | [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [New Life Livin](https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z) | 5:11 | 2023-08-09 | 2023-09-21 |

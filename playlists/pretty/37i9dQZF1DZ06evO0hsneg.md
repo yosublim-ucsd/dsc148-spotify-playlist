@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 10 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 |
 | 11 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 |
 | 12 | [Foreign](https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 3:42 |
-| 13 | [Digital Love](https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ) | [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Mardial & Friends](https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1) | 3:05 |
-| 14 | [Bassgod](https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Bassgod](https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg) | 3:07 |
+| 13 | [Bassgod](https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Bassgod](https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg) | 3:07 |
+| 14 | [Digital Love](https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ) | [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Mardial & Friends](https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1) | 3:05 |
 | 15 | [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 |
 | 16 | [No Tinder](https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [No Tinder](https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove) | 4:14 |
 | 17 | [Decide](https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Decide](https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO) | 4:28 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 30 | [Go Get That B](https://open.spotify.com/track/70m0i8abrcAwhEVeg1l6lx) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Go Get That B](https://open.spotify.com/album/4L0x5vBHiaushaskjdDPQu) | 2:32 |
 | 31 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 |
 | 32 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
-| 33 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 |
-| 34 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
+| 33 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
+| 34 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 |
 | 35 | [gippal](https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:25 |
 | 36 | [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 |
 | 37 | [Go! \(I Can Be Your\)](https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Go! \(I Can Be Your\)](https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT) | 2:52 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 40 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 | 41 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA2ZWI3NGM1NTk4Y2M4ZTZjMzI3ODM3Mjc5MTBiNGE3MA==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDA5ZTlkYmQzYjE3ZmQwNDE4NGQ4OWQ3OTZiOTc1MzU2Yw==`

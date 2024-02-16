@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,792 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 79 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 80 | [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 |
 
-Snapshot ID: `MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1`
+Snapshot ID: `MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1`

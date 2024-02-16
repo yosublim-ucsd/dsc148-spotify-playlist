@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-631 songs - 1 day 11 hr 40 min
+632 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2022-04-13 | 2022-04-21 |
 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 | 2023-09-29 |  |
 | [kerosene](https://open.spotify.com/track/52I97JnPW2VptLJbqrsNr3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [kerosene](https://open.spotify.com/album/5S3q7V1wbMnyyclCPacuNK) | 2:15 | 2021-05-01 | 2022-04-13 |
-| [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 |  |
+| [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2024-02-16 |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-07-19 | 2023-06-03 |
 | [King / Ghost In A Song](https://open.spotify.com/track/2XhY4sFDDwSSPFUkHLt6om) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [King / Ghost In A Song](https://open.spotify.com/album/51pxUB1F7wVu1BGWL9vqpk) | 3:19 | 2021-05-01 | 2022-03-02 |
 | [Kno Me](https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Kno Me](https://open.spotify.com/album/5NEHXdCbHCF93ARy2ozAqM) | 3:36 | 2022-04-13 | 2022-07-01 |
@@ -365,6 +365,7 @@
 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 | 2023-05-26 | 2023-08-06 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-09-21 |  |
 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-04 | 2024-02-14 |
+| [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 | 2023-12-01 |  |
 | [Monday's Fácil](https://open.spotify.com/track/00W5tnmuEvWvIJiiWJzHr6) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Monday's Fácil](https://open.spotify.com/album/4O5cQY3eatUzq7Kvx2Sei2) | 4:07 | 2021-05-01 | 2022-04-13 |
 | [Money](https://open.spotify.com/track/5Q1H7ASDiJpACNx5ziyhuN) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en) | 3:53 | 2021-10-07 | 2023-03-25 |
 | [Montana](https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:20 | 2021-05-01 | 2022-04-13 |

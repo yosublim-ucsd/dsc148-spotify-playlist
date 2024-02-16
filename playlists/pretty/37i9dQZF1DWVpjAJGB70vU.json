@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: Remembering Toby Keith",
-  "num_followers": 1753358,
+  "num_followers": 1754419,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzMxYTg5NTYzZjEwMWRkMDE0YjRmZDU3NDEyZWM0MmE5NmJlNTVi",
+  "snapshot_id": "MCxlOTg1YjJhZWE4MDY1NzkxMjVlYmU4NzgwZmFhOGQ3NmFmNGZhMTk1",
   "tracks": [
     {
       "added_at": "2024-02-06 16:34:06",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 170546,
-      "name": "A Little Less Talk And A Lot More Action",
-      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 215173,
       "name": "Just To See You Smile",
       "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 170546,
+      "name": "A Little Less Talk And A Lot More Action",
+      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Party Crowd",
-      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
+      "duration_ms": 217807,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 217807,
-      "name": "You Were Mine",
-      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Used To Want To Be A Cowboy",
         "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 245173,
       "name": "This Cowboy's Hat",
       "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Party Crowd",
+      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "American Pride",
         "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 168640,
       "name": "I'm in a Hurry (And Don't Know Why)",
       "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "All I Can Be",
-        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Love, Me",
-      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 232666,
       "name": "Is There Life Out There",
       "url": "https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "All I Can Be",
+        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Love, Me",
+      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Greatest Hits: Mark Chesnutt",
         "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
       },
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -1871,6 +1855,22 @@
       "duration_ms": 183853,
       "name": "Then What?",
       "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
-      },
-      "artists": [
-        {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Guys Do It All the Time",
-      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 241306,
       "name": "I Love the Way You Love Me",
       "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+      },
+      "artists": [
+        {
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Guys Do It All the Time",
+      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
     },
     {
       "added_at": "2024-02-06 16:34:06",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-02-06 16:34:06",
       "album": {
-        "name": "I Think About You",
-        "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "I Think About You",
-      "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
-    },
-    {
-      "added_at": "2024-02-06 16:34:06",
-      "album": {
         "name": "Thinkin' About You",
         "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 203693,
       "name": "Thinkin' About You",
       "url": "https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o"
+    },
+    {
+      "added_at": "2024-02-06 16:34:06",
+      "album": {
+        "name": "I Think About You",
+        "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "I Think About You",
+      "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
     },
     {
       "added_at": "2024-02-06 16:34:06",

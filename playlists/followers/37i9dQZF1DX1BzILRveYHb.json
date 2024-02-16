@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 662625,
+  "2024-02-16": 662787,
   "date_first_scraped": "2019-05-26",
   "description": "Easy listening pop that feels sunny wherever you are ",
   "name": "Sunny Day",
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
@@ -3445,6 +3445,24 @@
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws"
     },
     {
       "album": {

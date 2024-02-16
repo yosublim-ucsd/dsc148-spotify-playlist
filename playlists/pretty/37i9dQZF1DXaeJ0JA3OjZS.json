@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 94864,
+  "num_followers": 95012,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2MyNjUyZWMxZTUxNjMzMzBkZmMxY2RiMTExMDBhYzczNzM3NWQ4",
+  "snapshot_id": "MCxhOGRlNWRjNDA1MzZiMmI5NjcwNWJhNjQzNjg5ZTdjMzc3M2JhNDE1",
   "tracks": [
     {
       "added_at": "2023-12-01 06:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "El Pulmon",
-      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "El Gato",
         "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 199462,
       "name": "El Gato",
       "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "El Pulmon",
+      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 159582,
-      "name": "El Wareke",
-      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
+      "duration_ms": 197875,
+      "name": "El Moro",
+      "url": "https://open.spotify.com/track/0DcwWZjG8jEhR9HkcdlhXi"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 197875,
-      "name": "El Moro",
-      "url": "https://open.spotify.com/track/0DcwWZjG8jEhR9HkcdlhXi"
+      "duration_ms": 159582,
+      "name": "El Wareke",
+      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "El Rey De Los Coleaderos",
-        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "El Rey De Los Coleaderos",
-      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "El Rey De Los Coleaderos",
+        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "El Rey De Los Coleaderos",
+      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "El Golden Boy",
         "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
       "artists": [
         {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
         }
       ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
+      "duration_ms": 276760,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+        }
+      ],
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
       "artists": [
         {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
     }
   ],
   "unique_name": "Corridos de Caballos",

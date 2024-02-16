@@ -4,10 +4,11 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-107 songs - 6 hr 50 min
+108 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adios Amor](https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 1](https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6) | 4:19 | 2023-12-20 |  |
 | [Adonay \(Live\)](https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:07 | 2023-12-05 | 2024-02-11 |
 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 | 2023-11-09 |  |
 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 | 2023-11-09 |  |
@@ -103,7 +104,7 @@
 | [Sobre las Olas](https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:24 | 2023-11-09 |  |
 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 | 2023-11-09 |  |
 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 | 2023-12-05 | 2024-01-30 |
-| [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 | 2023-11-09 |  |
+| [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 | 2023-11-09 | 2024-02-16 |
 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 | 2023-11-09 | 2023-12-14 |
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-11-09 |  |
 | [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2023-12-05 | 2024-01-18 |

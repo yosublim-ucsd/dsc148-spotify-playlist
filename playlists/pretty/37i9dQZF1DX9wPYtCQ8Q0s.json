@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 339207,
+  "num_followers": 339185,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTMwMjcxNDNmNzI5NDg0ZGZiYWM2ODRmOTRkNDc5MTJlZDlhNGJl",
+  "snapshot_id": "MCxmNWI5ZTBkYzk2ZGExYmU3MDM4NDYxNzZkMTcwN2Q4NDdkZGIzMDJj",
   "tracks": [
     {
       "added_at": "2024-01-19 14:53:58",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "REALLY HER (INTL DELUXE)",
-        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 194675,
-      "name": "MILANO",
-      "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "The Beautiful & Damned",
         "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 245386,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 194675,
+      "name": "MILANO",
+      "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "DO IT AGAIN (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 213206,
-      "name": "DO IT AGAIN (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "The Rising Tied (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1rKm9mmLsFu0Dt9agiSLbw"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 230493,
       "name": "Remember the Name (feat. Styles of Beyond)",
       "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "DO IT AGAIN (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 213206,
+      "name": "DO IT AGAIN (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
-        "name": "Babushka Boi",
-        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Babushka Boi",
-      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 259741,
       "name": "MY POWER",
       "url": "https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
+        "name": "Babushka Boi",
+        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Babushka Boi",
+      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
     },
     {
       "added_at": "2024-01-19 14:53:58",
@@ -1783,6 +1783,30 @@
     {
       "added_at": "2024-01-19 14:53:58",
       "album": {
+        "name": "4REAL 4REAL",
+        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Go Loko (feat. Tyga, Jon Z)",
+      "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
+    },
+    {
+      "added_at": "2024-01-19 14:53:58",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -1807,30 +1831,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2024-01-19 14:53:58",
-      "album": {
-        "name": "4REAL 4REAL",
-        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Go Loko (feat. Tyga, Jon Z)",
-      "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
     },
     {
       "added_at": "2024-01-19 14:53:58",

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 335133,
+  "num_followers": 335304,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjMzNjcwOWFhODNkODgxOTczN2JmMGZmNzM1NjlkOWE3NTNmZDVl",
+  "snapshot_id": "MCw2ZjlhY2VmZmNiOWVjNTkyZjIxMGU5Njk1NGEyOWMxMDc5ZGExMWJi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Caedmon's Call",
-        "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
-      },
-      "artists": [
-        {
-          "name": "Caedmon's Call",
-          "url": "https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Lead of Love",
-      "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Rock I'm On",
         "url": "https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 208571,
       "name": "The Rock I'm On",
       "url": "https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Caedmon's Call",
+        "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
+      },
+      "artists": [
+        {
+          "name": "Caedmon's Call",
+          "url": "https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA"
+        }
+      ],
+      "duration_ms": 241893,
+      "name": "Lead of Love",
+      "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Grace after Grace Reimagined",
         "url": "https://open.spotify.com/album/4E4BkTx5cbchemPgXFgc0i"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 185000,
       "name": "Grace after Grace Reimagined",
       "url": "https://open.spotify.com/track/2QBH21Ja2afe2iHxBqSNwg"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl"
-      },
-      "artists": [
-        {
-          "name": "Leslie Perez",
-          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d"
     },
     {
       "added_at": "2023-11-17 05:00:00",

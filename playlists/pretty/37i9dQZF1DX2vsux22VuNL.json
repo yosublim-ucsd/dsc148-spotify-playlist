@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzg2MWViZDk3OWFlNmViNzBiNWMxYjI2ZDFlMGMzODIyMmI1Yjlj",
+  "snapshot_id": "MCxjYWM0MzM5MjBmNDNmY2FiZmY0MTNmMDEwYzBhMGE2NmFiYmZmNzVh",
   "tracks": [
     {
       "added_at": "2024-02-09 20:33:06",
@@ -527,66 +527,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Novo Mil\u00eanio",
-        "url": "https://open.spotify.com/album/41BCGuGIMZZQcA2shyDSSh"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Elan R\u00fabio",
-          "url": "https://open.spotify.com/artist/2tJcPeSQc6AJIdaMf7saZc"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Novo Mil\u00eanio",
-      "url": "https://open.spotify.com/track/6Cym5xlyHMCunqKL3zAyVK"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 142765,
-      "name": "ne-yo",
-      "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
-        "name": "Carta Branca",
-        "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Carta Branca",
-      "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Pensamento",
         "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
       },
@@ -615,6 +555,22 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 142765,
+      "name": "ne-yo",
+      "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -639,6 +595,50 @@
       "duration_ms": 212000,
       "name": "Uma Linda Mulher - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Carta Branca",
+        "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Carta Branca",
+      "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Novo Mil\u00eanio",
+        "url": "https://open.spotify.com/album/41BCGuGIMZZQcA2shyDSSh"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Elan R\u00fabio",
+          "url": "https://open.spotify.com/artist/2tJcPeSQc6AJIdaMf7saZc"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Novo Mil\u00eanio",
+      "url": "https://open.spotify.com/track/6Cym5xlyHMCunqKL3zAyVK"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -731,6 +731,30 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
+        "name": "Meu Tom",
+        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 203896,
+      "name": "Massagem",
+      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -787,26 +811,18 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Meu Tom",
-        "url": "https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj"
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 203896,
-      "name": "Massagem",
-      "url": "https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx"
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -831,22 +847,6 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Agradecer",
-        "url": "https://open.spotify.com/album/6nbaW10oxiFgYuquDE1oxM"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "Zeus",
-          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
-        }
-      ],
-      "duration_ms": 162470,
-      "name": "Agradecer",
-      "url": "https://open.spotify.com/track/0w7Rk3Czu5KSfLakYzPkrw"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 249798,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Calor Dobrado",
+        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Calor Dobrado",
+      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1019,26 +1019,26 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Calor Dobrado",
-        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
+        "name": "Agradecer",
+        "url": "https://open.spotify.com/album/6nbaW10oxiFgYuquDE1oxM"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
         },
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Calor Dobrado",
-      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
+      "duration_ms": 162470,
+      "name": "Agradecer",
+      "url": "https://open.spotify.com/track/0w7Rk3Czu5KSfLakYzPkrw"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Caio em Ti",
-        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
-      },
-      "artists": [
-        {
-          "name": "Caio Prado",
-          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "Caio em Ti",
-      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -1363,6 +1343,46 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Caio em Ti",
+        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
+      },
+      "artists": [
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "Caio em Ti",
+      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1415,26 +1435,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -1479,6 +1479,26 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1567,26 +1587,6 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
         "name": "Malandra Treinada",
         "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2024-02-09 20:33:06",

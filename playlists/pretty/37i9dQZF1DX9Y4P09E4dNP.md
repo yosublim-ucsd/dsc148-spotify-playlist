@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,776 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,795 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 9 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
 | 10 | [Been A Fool For You](https://open.spotify.com/track/0zNAOKNUzpposhZ5fa2n4d) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/3Xz3fQysuw2jI6OBGgZz0a) | 4:28 |
 | 11 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
-| 12 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
-| 13 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
+| 12 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
+| 13 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 14 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 15 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
 | 16 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 |
@@ -33,20 +33,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 23 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
 | 24 | [Atweetan](https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:06 |
 | 25 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
-| 26 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
+| 26 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
 | 27 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 |
-| 28 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
-| 29 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
-| 30 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
+| 28 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
+| 29 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
+| 30 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
 | 31 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 |
 | 32 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 |
 | 33 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv) | 5:00 |
 | 34 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 |
 | 35 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 |
-| 36 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
-| 37 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
+| 36 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
+| 37 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
 | 38 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 39 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 40 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 |
 
-Snapshot ID: `MCxlZGMxNDk1NzRhZjkwMDFkNTczODcyOWY4ZDM0NTlhZDk5ODExNDhi`
+Snapshot ID: `MCw0NDI5OGVhY2ZiN2I2Mzk1OTBkYzhkMDk3OTdlY2I1NjI3ZWZkNjIz`

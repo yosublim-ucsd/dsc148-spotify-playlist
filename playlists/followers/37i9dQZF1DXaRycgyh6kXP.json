@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 208243,
+  "2024-02-16": 208346,
   "date_first_scraped": "2022-02-17",
   "description": "Delicate digital expressions of the heart.",
   "name": "Electronica Romantica",
@@ -1333,6 +1333,24 @@
       "duration_ms": 284705,
       "name": "Kilika",
       "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
+    },
+    {
+      "album": {
+        "name": "Themes for a New Earth",
+        "url": "https://open.spotify.com/album/0X0yNR4beqvHw4HtqNfj1g"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284705,
+      "name": "Kilika",
+      "url": "https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu"
     },
     {
       "album": {
@@ -3565,7 +3583,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"

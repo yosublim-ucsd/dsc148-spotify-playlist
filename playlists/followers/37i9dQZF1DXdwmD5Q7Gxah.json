@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 1135981,
+  "2024-02-16": 1136095,
   "date_first_scraped": "2019-07-30",
   "description": "all over the place in a good way. cover: declan mckenna",
   "name": "Lorem",
@@ -5967,7 +5967,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 179144,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM"
@@ -7245,6 +7245,24 @@
       "duration_ms": 194994,
       "name": "Care",
       "url": "https://open.spotify.com/track/4sEH3mM8kkKaE5g9V2QZoU"
+    },
+    {
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "album": {
@@ -18284,6 +18302,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208112,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
+    },
+    {
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/3BdWnsb2tG6ajlPHmd8jh6"
       },
@@ -27653,7 +27689,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 219147,
       "name": "Missed the Mark",
       "url": "https://open.spotify.com/track/2kAoOf0Wlzo9KqQJ8gEJNx"
@@ -27675,6 +27711,24 @@
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
+    },
+    {
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "album": {
@@ -28363,7 +28417,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 186050,
       "name": "Mozart in My Mind",
       "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
@@ -30849,6 +30903,24 @@
       "duration_ms": 137195,
       "name": "okay w/ that",
       "url": "https://open.spotify.com/track/1b1RqfCsTuJYIxNIUFcGas"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "album": {
@@ -44182,6 +44254,24 @@
     },
     {
       "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "album": {
         "name": "Riot Of The Kelly Green Love",
         "url": "https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr"
       },
@@ -44447,7 +44537,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
@@ -45457,6 +45547,24 @@
       "duration_ms": 173383,
       "name": "waiting alonE",
       "url": "https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Atreyu",
-  "num_followers": 350240,
+  "num_followers": 350368,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTI1YjBjNWQ1ZTQ2MDNmMDU1MzdkOTNhZDBhMzIyZjUxNTYzYTVk",
+  "snapshot_id": "MCw1YjhmNTg5ZmMxYzU4ZjNkODFkNmVlODM4MmMyMjM0MjEyZmFhOTVm",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 220066,
       "name": "Sign Of Life",
       "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Dance Devil Dance",
-        "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
+        "name": "Prepare For Despair",
+        "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
       },
       "artists": [
         {
-          "name": "Avatar",
-          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 244597,
-      "name": "The Dirt I'm Buried In",
-      "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
+      "duration_ms": 201402,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -867,22 +871,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Prepare For Despair",
-        "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
+        "name": "Dance Devil Dance",
+        "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+          "name": "Avatar",
+          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
         }
       ],
-      "duration_ms": 201402,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
+      "duration_ms": 244597,
+      "name": "The Dirt I'm Buried In",
+      "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Extrovert",
-        "url": "https://open.spotify.com/album/2rv0XADiy2bRhJ2ROPAqFy"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 212222,
-      "name": "Devastate",
-      "url": "https://open.spotify.com/track/7vxqsIF0X2BrYKazuIWzoh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Together Right",
         "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/2rv0XADiy2bRhJ2ROPAqFy"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
         }
       ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
+      "duration_ms": 212222,
+      "name": "Devastate",
+      "url": "https://open.spotify.com/track/7vxqsIF0X2BrYKazuIWzoh"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
       },
       "artists": [
         {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 227678,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 227678,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
     },
     {
       "added_at": "2024-01-26 05:00:00",

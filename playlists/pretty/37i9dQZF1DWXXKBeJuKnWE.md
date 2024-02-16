@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Bad Omens ft\. Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,123 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,080 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 |
 | 100 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 |
 
-Snapshot ID: `MCxmMjg2NjVkMTE3NGE1MzI2ZTY3ZWFhNDIzYTM0MmExY2NjNjdkMTJj`
+Snapshot ID: `MCw1MjBmNWZiOTY2YWZiODhmNTJhYWUwZjdkMjViM2IzOGNmZDE3ODdi`

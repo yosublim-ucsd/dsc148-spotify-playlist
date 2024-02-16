@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,118 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,145 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 31 | [Dog Days](https://open.spotify.com/track/4NQDmvxgt5chFiy6fiSi2U) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/4YtmJvI0WHuIu1hzdFupZ4) | 4:08 |
 | 32 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
 | 33 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
-| 34 | [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 |
+| 34 | [Satellite Man](https://open.spotify.com/track/2DLwzfDTaVFtoeKAbfflRm) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/19pcVPDCsO3S9O4qnxrV1n) | 3:00 |
 | 35 | [Shot Down](https://open.spotify.com/track/42vMIdruxaoslgfiyYBuwh) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/4RWPMWMElW4byNmBLINBsL) | 3:13 |
 | 36 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 |
 | 37 | [Can't Nobody Stop Us](https://open.spotify.com/track/6Wkh1qQ7LEK7d4E95iU4Ec) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/7pj606uTFy3ChmOXdXZBbw) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCxiY2YxODI1ZDI5ZTFiYjVmMDk1NmEwMTE0N2RjNDRjZDE2Yjg4OGZj`
+Snapshot ID: `MCxiMmRjODVhZTgxMDA3NDNkMzYwMGJmZDUwZDIxNzk3YmI2ZjMxNTQx`

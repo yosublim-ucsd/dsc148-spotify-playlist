@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 140440,
       "name": "2LATE",
       "url": "https://open.spotify.com/track/2stNSdzZFsvHzEIfOQKSCI"
@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh"
+      },
+      "artists": [
+        {
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178961,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG"
+    },
+    {
+      "album": {
         "name": "Brain empty/heart fucked",
         "url": "https://open.spotify.com/album/72P9MbmIOjmHql5eHn0djV"
       },
@@ -1300,6 +1318,24 @@
       "duration_ms": 240588,
       "name": "Coco Robot",
       "url": "https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6"
+    },
+    {
+      "album": {
+        "name": "Cold Touch",
+        "url": "https://open.spotify.com/album/5A9UiXaNf69PtKCcTm0bY0"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Cold Touch",
+      "url": "https://open.spotify.com/track/5SL769u0mPWC6b7XyXghFz"
     },
     {
       "album": {
@@ -2532,7 +2568,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 247800,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
@@ -3638,6 +3674,24 @@
       "duration_ms": 209550,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1bMt3LbZFKOu6yBYz26Qet"
+    },
+    {
+      "album": {
+        "name": "Juste toi et moi",
+        "url": "https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175013,
+      "name": "Juste toi et moi",
+      "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
     },
     {
       "album": {
@@ -5823,6 +5877,28 @@
     },
     {
       "album": {
+        "name": "Oups (with Anna Majidson)",
+        "url": "https://open.spotify.com/album/548fOsnovdf4bJEegsglBs"
+      },
+      "artists": [
+        {
+          "name": "Moodo\u00efd",
+          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
+        },
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "Oups (with Anna Majidson)",
+      "url": "https://open.spotify.com/track/01dU9DRJrWmYUunj8Jt40P"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/0qto01Qa3E18mIUJIqtk0s"
       },
@@ -6326,7 +6402,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193400,
       "name": "Quand j'\u00e9tais m\u00f4me",
       "url": "https://open.spotify.com/track/4l6G4X9NpyYWpDPPbTl9nS"
@@ -6348,6 +6424,24 @@
       "duration_ms": 202400,
       "name": "QUESTIONS. N4.23",
       "url": "https://open.spotify.com/track/1EO9ajG5uaGyNEtkNNWq1J"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203080,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
     },
     {
       "album": {
@@ -7002,7 +7096,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 173625,
       "name": "Soleil perdu",
       "url": "https://open.spotify.com/track/1BBnT7G0ycLfih2JqtnX8F"
@@ -7136,7 +7230,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211714,
       "name": "Start over",
       "url": "https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs"

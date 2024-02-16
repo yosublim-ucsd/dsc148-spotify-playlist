@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-306 songs - 16 hr 53 min
+307 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-07-25 |  |
 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 | 2022-06-06 | 2022-07-29 |
 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 | 2023-09-18 | 2023-10-08 |
+| [Be On My Way \(Full\)](https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 2:37 | 2024-02-12 |  |
 | [Better Version](https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:35 | 2023-03-20 |  |
 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-07-25 | 2023-03-23 |
 | [betterlove](https://open.spotify.com/track/020BU0EzWu1qQDj6qXRNRe) | [The Legacy](https://open.spotify.com/artist/4A8MJHyHDhtgq8QxOUkx2A) | [betterlove](https://open.spotify.com/album/2R6iU9N1ucrdfMVEqt08qZ) | 3:07 | 2022-06-06 | 2022-07-29 |
@@ -229,7 +230,7 @@
 | [Reissues](https://open.spotify.com/track/4sxgweDT1cTr70Sfj5DLfH) | [OJ Law](https://open.spotify.com/artist/6tjfwkm7IWjpqtMBWckfHd) | [Reissues](https://open.spotify.com/album/4S4kXQvqeurWZBrqbD7Ane) | 3:43 | 2022-06-06 | 2022-07-29 |
 | [Relationship Obsession](https://open.spotify.com/track/6w2dAI4lAxYWXwUlXIOn2T) | [Calinn](https://open.spotify.com/artist/6SbqLtBLg1JMLhQWDt5r4E) | [Relationship Obsession](https://open.spotify.com/album/2itcfjdd0vwebx8MlcXmis) | 3:51 | 2022-06-06 | 2022-07-29 |
 | [Release](https://open.spotify.com/track/0P1Z6G1dnunmC5yc8zhkSx) | [Soulful Ghosts](https://open.spotify.com/artist/3CfoYxHDFSqlGAHsXw3isu) | [Release](https://open.spotify.com/album/2oQeJ0UWEt58697cThIqlv) | 4:01 | 2022-06-06 | 2022-07-29 |
-| [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 |  |
+| [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 | 2022-07-25 | 2024-02-16 |
 | [repeat](https://open.spotify.com/track/6P4jmwL4M4LSa4JWdgAPx2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [repeat](https://open.spotify.com/album/2cCFHDzbTGF2rYjLNKEHV7) | 3:36 | 2023-07-24 | 2023-08-01 |
 | [Revenge Of The Number](https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Numb](https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu) | 3:22 | 2023-10-16 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-06-06 |  |

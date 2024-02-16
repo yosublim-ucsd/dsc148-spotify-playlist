@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 953 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 956 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 76 | [These Arms Of Mine](https://open.spotify.com/track/2l0IhDyr9kujsmKmNiLVNY) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Proud Mary \(With Bonus Tracks\)](https://open.spotify.com/album/2OdL2aP3MSdZnUAzShPRol) | 2:54 |
 | 77 | [Fa Fa Fa \(The Sad Song\)](https://open.spotify.com/track/6qbqQXm7Evjur25Rd1ncqR) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Mo' Roots](https://open.spotify.com/album/5CrzqlkumMXwqDmxtniQkt) | 4:50 |
 | 78 | [Hard To Handle](https://open.spotify.com/track/29OjyKNn93PzRN5z69JlcT) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Homecoming: The Bluegrass Album](https://open.spotify.com/album/4jRyLJ5b3bODsqn309SxE5) | 2:30 |
-| 79 | [These Arms of Mine \(feat\. Huey Lewis\)](https://open.spotify.com/track/4XiDLc8PRfXHuHySYKUuSV) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Huey Lewis](https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:32 |
+| 79 | [These Arms Of Mine](https://open.spotify.com/track/41yOeaVMkpWJhSCw5obdwB) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Huey Lewis](https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs) | [S.O.S\. 2: Soul On A Mission](https://open.spotify.com/album/1N66oKqT9D350GFwDfKfqE) | 2:32 |
 | 80 | [Security](https://open.spotify.com/track/19tqWReLPd4VXEetDVArLT) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:30 |
 | 81 | [Respect](https://open.spotify.com/track/6OIHBaasbCpSwMjmH3BNSJ) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [This is Ann Peebles](https://open.spotify.com/album/0ubu5A9vzSiS7BTdRX7Ilc) | 2:15 |
 | 82 | [I've Been Loving You Too Long](https://open.spotify.com/track/3F4OtBOeU19X9EHGC9tUHV) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/05WixXdxsULFJn8f4XhuWI) | 3:06 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCwxMjY1ZWQ2ODljZmU5NDJmMDc4ZTZmMjNhOWVjOTkwN2I0ZmNiNmM2`
+Snapshot ID: `MCw5OGViMmUwYzQyYjgxZjNiZDllOWQzNTRjMGMxZDBjNzIwODk0M2U5`

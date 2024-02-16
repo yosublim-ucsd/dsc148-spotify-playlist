@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296551,
+  "num_followers": 296544,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjFjYmVmYTFmMDM4MGE1NGYzZjRlMjFiODViMzMzYWE3YzNkMWM4",
+  "snapshot_id": "MCw3NmViYTBhZDJjMWViMTc4NjJhNWM0MzQ0NWYwOTU3MmVhMGFkMWJh",
   "tracks": [
     {
       "added_at": "2024-01-23 13:23:45",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Them Crooked Vultures",
-        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
-      },
-      "artists": [
-        {
-          "name": "Them Crooked Vultures",
-          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "New Fang",
-      "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Meteora (Bonus Edition)",
         "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 187933,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Them Crooked Vultures",
+        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
+      },
+      "artists": [
+        {
+          "name": "Them Crooked Vultures",
+          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "New Fang",
+      "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Cavalier Youth (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 239050,
       "name": "Room to Breathe",
       "url": "https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Eleven Eleven",
-        "url": "https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 244677,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "The Lonely Position Of Neutral",
         "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 208266,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Eleven Eleven",
+        "url": "https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 244677,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP"
     },
     {
       "added_at": "2024-01-23 13:23:45",

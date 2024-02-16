@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-208 songs - 19 hr 27 min
+209 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [En Kadhale](https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Noel James](https://open.spotify.com/artist/2rp7t72puDdjCwrA3WjJOk) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 6:00 | 2021-10-15 | 2024-02-12 |
 | [En Kadhale \(Male Version\)](https://open.spotify.com/track/3hQg8AFArW6R5y3M8WW7MG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Duet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IKpfZUk6Qdv5CZp2RSinp) | 5:59 | 2021-10-15 |  |
 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 | 2021-10-15 |  |
-| [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 | 2021-10-15 |  |
+| [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 | 2021-10-15 | 2024-02-16 |
 | [En Veettu Thottathil](https://open.spotify.com/track/2mgb8ZvIKXcIllKb7KhCOi) | [S.P.Balasubramaniam](https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6aO84HI1Psa48OLXJMZLRM) | 4:03 | 2021-10-15 | 2023-10-30 |
+| [En Veetu Thotathil](https://open.spotify.com/track/3WWilsFRvEpOTeVSBxE9R5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Gentleman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1aho5gsfArxhA1gETfGQKD) | 4:05 | 2021-10-15 |  |
 | [Enakke Enakkaa](https://open.spotify.com/track/468DmIR7WVHAaZZXm4Zbpv) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 7:09 | 2021-10-15 |  |
 | [Enna Vilai](https://open.spotify.com/track/1Fg7iPvC0uugUZAjKfN3Wz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:55 | 2021-10-15 | 2022-07-29 |
 | [Enna Vilai](https://open.spotify.com/track/6rZSYvC4KUK1wjJWwHXsce) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/54smW0Ay2dLlme2CUivRmf) | 5:55 | 2021-10-15 | 2023-03-11 |

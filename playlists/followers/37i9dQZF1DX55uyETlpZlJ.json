@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 23117,
+  "2024-02-16": 23118,
   "date_first_scraped": "2023-05-19",
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
   "name": "Kannada Indie",
@@ -1040,6 +1040,28 @@
     },
     {
       "album": {
+        "name": "Devathe",
+        "url": "https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p"
+      },
+      "artists": [
+        {
+          "name": "Ajay Aj",
+          "url": "https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV"
+        },
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Devathe",
+      "url": "https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf"
+    },
+    {
+      "album": {
         "name": "Dinavella",
         "url": "https://open.spotify.com/album/1YP89I84s7rdeJvRYNTo9h"
       },
@@ -1404,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "FREE STYLE",
+        "url": "https://open.spotify.com/album/6zPG6hSKKscA8n7EdDi5JF"
+      },
+      "artists": [
+        {
+          "name": "It's me plk",
+          "url": "https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75168,
+      "name": "FREE STYLE",
+      "url": "https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ"
       },
@@ -1677,6 +1717,24 @@
       "duration_ms": 295687,
       "name": "Homecoming (The Ayodhya Anthem) - Kannada",
       "url": "https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/3UDgpaXNTcpWIMYHQSroEb"
+      },
+      "artists": [
+        {
+          "name": "MJ Karthik",
+          "url": "https://open.spotify.com/artist/3zb4TFlHgaLMU1AVbb2PJh"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181069,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/62nk85CK7tWrCJpuegJ4mx"
     },
     {
       "album": {
@@ -3050,6 +3108,32 @@
     },
     {
       "album": {
+        "name": "Modala Anuraagha",
+        "url": "https://open.spotify.com/album/50vHFpFQpuXqgr1gS2Opbk"
+      },
+      "artists": [
+        {
+          "name": "Praveen Srinivasmurthy",
+          "url": "https://open.spotify.com/artist/0j797yShflaeSHwSXgvudO"
+        },
+        {
+          "name": "Kashi Mohan",
+          "url": "https://open.spotify.com/artist/1augpbLYfLW0D2880tnicq"
+        },
+        {
+          "name": "Supriya Joshi",
+          "url": "https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314105,
+      "name": "Modala Anuraagha",
+      "url": "https://open.spotify.com/track/3DwxcZtB2OyvWa3GfWuktS"
+    },
+    {
+      "album": {
         "name": "Money In The World",
         "url": "https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj"
       },
@@ -3867,7 +3951,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 262381,
       "name": "Neeli Modagalu",
       "url": "https://open.spotify.com/track/2685mgG3FA17n55sR9p59k"
@@ -4539,7 +4623,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 177534,
       "name": "Pakshi",
       "url": "https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm"

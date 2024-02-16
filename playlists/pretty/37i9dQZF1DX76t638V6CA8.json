@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2081943,
+  "num_followers": 2082479,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdhNWY1MTNiOGM2ZTk5ZmRkYzUxNmRiYWFiODhkZWY3MTU1OWNj",
+  "snapshot_id": "MCwzMTg5NDA1OGU4MmRiNjQ1ODNiNjJhOWY5ZjBhNmZlOWFhNWY3OTQ5",
   "tracks": [
     {
       "added_at": "2023-11-24 01:37:50",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 235533,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 235533,
-      "name": "How We Do",
-      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "Motley Crew",
+        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Motley Crew",
+      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Motley Crew",
-        "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Motley Crew",
-      "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 127750,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 206546,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "The Don Killuminati: The 7 Day Theory",
+        "url": "https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp"
+      },
+      "artists": [
+        {
+          "name": "Makaveli",
+          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        }
+      ],
+      "duration_ms": 309800,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "The Don Killuminati: The 7 Day Theory",
-        "url": "https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp"
-      },
-      "artists": [
-        {
-          "name": "Makaveli",
-          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "PARK CHINOIS",
-        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "PARK CHINOIS",
-      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
         "name": "Like..?",
         "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 159370,
       "name": "Gangsta Boo (with Lil Tjay)",
       "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "PARK CHINOIS",
+        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "PARK CHINOIS",
+      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
     }
   ],
   "unique_name": "Rap Workout",

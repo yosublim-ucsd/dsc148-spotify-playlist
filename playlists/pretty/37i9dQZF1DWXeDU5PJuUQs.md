@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,933 likes - 64 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,993 likes - 64 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 51 | [Dime Si Eres Feliz \- En Vivo](https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE) | 3:32 |
 | 52 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 | 53 | [Te Soñé una Vez Mas \- En Vivo](https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:38 |
-| 54 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
-| 55 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
+| 54 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
+| 55 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
 | 56 | [Hoy Te Vi / El Paredon \- En Vivo](https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv) | 5:12 |
 | 57 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 | 58 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 59 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 | 60 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
-| 61 | [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 |
+| 61 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 |
 | 62 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 |
-| 63 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 |
+| 63 | [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 |
 | 64 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 |
 
-Snapshot ID: `MCxkMmRjOGM3NTc3MWMxZTAyMTczMDc0ODViZThjN2UzNmYzMTljYjYx`
+Snapshot ID: `MCxjZjMwYTVhZTZhMzVlY2I5OWNjZmE2ZTAwYjg5OTRhNWQyYzQ4ZTg0`

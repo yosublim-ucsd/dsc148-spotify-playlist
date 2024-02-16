@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 60634,
+  "num_followers": 60778,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2",
+  "snapshot_id": "MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Earth Angel",
+        "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Earth Angel",
+      "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Nobody's Clown",
         "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 159866,
       "name": "You'll Lose A Good Thing",
       "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Earth Angel",
-        "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Earth Angel",
-      "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Delfonics",
-        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Didn't I (Blow Your Mind This Time)",
-      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "OOO Baby Baby: The Anthlogy",
         "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 192133,
       "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
       "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
-      },
-      "artists": [
-        {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 201866,
       "name": "Baby, I'm For Real",
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+      },
+      "artists": [
+        {
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
+      },
+      "artists": [
+        {
+          "name": "Eddie Holman",
+          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Hey There Lonely Girl",
+      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 288733,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
-      },
-      "artists": [
-        {
-          "name": "Eddie Holman",
-          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Hey There Lonely Girl",
-      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Do You Love",
         "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 164133,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Turn off the Lights: Sweet Soul Music",
-        "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
-      },
-      "artists": [
-        {
-          "name": "Linda Jones",
-          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
-        }
-      ],
-      "duration_ms": 167146,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 141746,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Turn off the Lights: Sweet Soul Music",
+        "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
+      },
+      "artists": [
+        {
+          "name": "Linda Jones",
+          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
+        }
+      ],
+      "duration_ms": 167146,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "The Best Of Dee Dee Sharp 1962-1966",
+        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 279400,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "The Best Of Dee Dee Sharp 1962-1966",
-        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
     },
     {
       "added_at": "2024-01-05 17:02:31",

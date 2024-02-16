@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Blusher.
 
-1,229 songs - 2 day 19 hr 51 min
+1,230 songs - 2 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 | 2022-02-03 | 2022-09-16 |
 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 | 2022-04-07 | 2022-06-18 |
 | [IDGAF](https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [IDGAF](https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55) | 2:09 | 2023-09-08 | 2023-11-11 |
-| [idk](https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [tbh](https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym) | 2:41 | 2023-09-08 |  |
+| [idk](https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [tbh](https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym) | 2:41 | 2023-09-08 | 2024-02-16 |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2022-06-29 | 2022-09-16 |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/2yynRDKYqTLVTcP7FqoyVE) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/1cxbID0RUggPVvxjvlORFR) | 4:16 | 2022-03-21 | 2022-07-29 |
 | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi) | 2:36 | 2023-05-30 |  |
@@ -700,6 +700,7 @@
 | [Noche y Dia](https://open.spotify.com/track/6TQP1kV9oD8R6dQcCfhr5S) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Noche y Dia](https://open.spotify.com/album/2xzE5tu9kDViuquh6PAYCn) | 2:49 | 2022-03-24 | 2022-08-02 |
 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 | 2022-06-29 | 2022-08-02 |
 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 | 2024-02-02 |  |
+| [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 | 2024-02-09 |  |
 | [NOT ALONE](https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:03 | 2023-06-09 |  |
 | [Nothing Gold Can Stay](https://open.spotify.com/track/3uvvpRZsgVAHJjKMYMJ72w) | [Edison Song](https://open.spotify.com/artist/0oZJQjSMqH0BRibttDsySO) | [Nothing Gold Can Stay](https://open.spotify.com/album/7IoUs1g1jLzpVzhffjREki) | 3:30 | 2022-02-03 | 2022-12-15 |
 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 | 2023-04-17 | 2023-10-28 |

@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,299 songs - 2 day 21 hr 53 min
+1,300 songs - 2 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-15 | 2022-09-28 |
 | [9mm](https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq) | 1:26 | 2023-10-25 | 2023-11-09 |
 | [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-02 |  |
+| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-15 |  |
 | [A Gangster's Wife](https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi) | [Ms Krazie](https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz), [Chino Grande](https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j) | [Smile Now Cry Never](https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79) | 3:49 | 2022-10-13 | 2023-01-18 |
 | [A Man Without Love](https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Live In Concert / All of Me](https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG) | 3:25 | 2022-05-09 | 2022-05-20 |
 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 | 2022-12-08 | 2022-12-29 |
@@ -681,7 +682,7 @@
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2021-12-29 | 2022-05-10 |
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2022-12-08 | 2023-02-16 |
 | [Love in This Club \(feat\. Young Jeezy\)](https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:19 | 2022-04-19 | 2022-05-24 |
-| [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 | 2023-12-06 |  |
+| [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 | 2023-12-06 | 2024-02-16 |
 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 | 2022-11-02 |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2022-02-18 | 2022-04-01 |
 | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s) | 3:13 | 2022-04-10 | 2022-06-28 |

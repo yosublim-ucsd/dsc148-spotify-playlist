@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Mason x Princess Superstar",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Oaks x Third Party x Declan J Donovan",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 176250,
       "name": "4D",
       "url": "https://open.spotify.com/track/2v4bGopODBEOQqWzg31R2s"
@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/1BfRhysPthUtRs9cXyrpgU"
+      },
+      "artists": [
+        {
+          "name": "9ethes",
+          "url": "https://open.spotify.com/artist/6hjMA0yA6FgGX5GqlFalKl"
+        },
+        {
+          "name": "StarlingEDM",
+          "url": "https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/6GflatOdeiNUfTzTbx4zC7"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6dW6QH8a4KqfFOUS3ZHlpd"
       },
@@ -1688,6 +1710,28 @@
       "duration_ms": 154940,
       "name": "Better with You",
       "url": "https://open.spotify.com/track/0TpXy0gvSuaJcPaG6o9XcM"
+    },
+    {
+      "album": {
+        "name": "Better World",
+        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Chris Moody",
+          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Better World",
+      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
       "album": {
@@ -2360,6 +2404,36 @@
       "duration_ms": 223636,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/1z0Uj1qrkWoWr9UdyraLjt"
+    },
+    {
+      "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
     },
     {
       "album": {
@@ -4236,6 +4310,28 @@
       "duration_ms": 167343,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/42UU54WpkAm5aLfGucwY6F"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7nKtarRRQhPPc7DOjkv0Mc"
+      },
+      "artists": [
+        {
+          "name": "Johannes Jungleson",
+          "url": "https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS"
+        },
+        {
+          "name": "Tropical Fairytale",
+          "url": "https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0kHG4MsWl6SbW7PL7zfOOy"
     },
     {
       "album": {
@@ -6732,7 +6828,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
@@ -8795,6 +8891,32 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/6RbP7Dk8XZSxh6ZNgA2PMx"
+      },
+      "artists": [
+        {
+          "name": "Autodepth",
+          "url": "https://open.spotify.com/artist/1UdV4KYu2FYUcEyuD1mbCz"
+        },
+        {
+          "name": "PRMGH",
+          "url": "https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9"
+        },
+        {
+          "name": "Noir Fonc\u00e9",
+          "url": "https://open.spotify.com/artist/6PA5gcYoyzviLuu0KYSahk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136406,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/2SdxekxWngv3h9zG37KA0O"
+    },
+    {
+      "album": {
         "name": "Learning To Dance (Lanigan\u2019s Ball)",
         "url": "https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC"
       },
@@ -9206,7 +9328,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 149130,
       "name": "Loca Loca - Vion Konger Remix",
       "url": "https://open.spotify.com/track/4tcQzTi5YwojZ0AA0zpFbC"
@@ -9382,7 +9504,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 157440,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B"
@@ -9566,7 +9688,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158095,
       "name": "Love Hurt Repeat (feat. Mae Muller)",
       "url": "https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx"
@@ -9785,6 +9907,28 @@
     },
     {
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "album": {
         "name": "Lucky Ones",
         "url": "https://open.spotify.com/album/6KZkiVwe0aEu3ypYWNyO6R"
       },
@@ -9936,7 +10080,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 161250,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/0b0G3a7FIe4DoRSbXdwBX2"
@@ -10390,7 +10534,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 209286,
       "name": "Miroir Miroir - Romain Garcia Remix",
       "url": "https://open.spotify.com/track/0Ysm1TAJq3jUFPHbOGN9lL"
@@ -10812,7 +10956,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -10996,6 +11140,28 @@
       "duration_ms": 174375,
       "name": "My World",
       "url": "https://open.spotify.com/track/0A9lFZPyPmytyYSNcYBnDv"
+    },
+    {
+      "album": {
+        "name": "Need You In My Life",
+        "url": "https://open.spotify.com/album/2lSrPu9X77tM15CiIEBcU5"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/3bTzyxdSdTkOkRSLWn7GoF"
+        },
+        {
+          "name": "Shawn O'Donnell",
+          "url": "https://open.spotify.com/artist/5SSyuK39LCZxykzimAXYQU"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193315,
+      "name": "Need You In My Life",
+      "url": "https://open.spotify.com/track/4QY6rGdrjGrYN1gWaEGT3A"
     },
     {
       "album": {
@@ -11989,6 +12155,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/46yFtB0ZxJGNcgkmJFEGQ7"
+      },
+      "artists": [
+        {
+          "name": "Fancy Floss",
+          "url": "https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4HAPTIHGn7nC1oh3m39kQg"
+    },
+    {
+      "album": {
         "name": "On Your Own",
         "url": "https://open.spotify.com/album/2LaqBN5G1m4fRVbnFMvPN9"
       },
@@ -12332,6 +12516,24 @@
       "duration_ms": 180213,
       "name": "One with the Wolves",
       "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
+    },
+    {
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206007,
+      "name": "One, Two & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {
       "album": {
@@ -12864,7 +13066,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
@@ -15198,7 +15400,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 176250,
       "name": "Stars In The Sky",
       "url": "https://open.spotify.com/track/2FAxGUCF5HLf7ZOHyS2khP"
@@ -16256,7 +16458,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 168775,
       "name": "The Show (with JJ Lin) - Steve Aoki & Lucas & Steve Remix",
       "url": "https://open.spotify.com/track/6Iz1vp9I22MBEA3oxLbKQB"
@@ -16604,7 +16806,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154672,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo"
@@ -16686,7 +16888,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
@@ -18808,7 +19010,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 128600,
       "name": "YIN & YANG",
       "url": "https://open.spotify.com/track/4oXrLiCY9XLYMEuZ1drI1t"

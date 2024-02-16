@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-447 songs - 1 day 8 hr 3 min
+448 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Feel Again](https://open.spotify.com/track/4I6JwM7pS6Uo705qqyM2su) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Feel Again](https://open.spotify.com/album/0TTJ1Qk8jND6NF4TlSAJNA) | 2:58 | 2022-05-27 | 2022-08-13 |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-05-07 | 2023-06-10 |
 | [Figo](https://open.spotify.com/track/7DvqpuTIUSmEXZZLDRRfgi) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK), [Schieber](https://open.spotify.com/artist/4HbpVjA45uVRTXkx7B1AKB) | [Figo](https://open.spotify.com/album/0OYKeYzbn1qX7ZqpcMXxHT) | 3:38 | 2022-01-14 | 2022-04-20 |
-| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 |  |
+| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 | 2024-02-16 |
 | [Fix Your Problems](https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR) | [Fix Your Problems](https://open.spotify.com/album/7tl7WUBPATfLpjgxh73qLS) | 2:16 | 2021-05-07 | 2022-05-30 |
 | [Flame](https://open.spotify.com/track/5LMVpehrEBygZ7z3aIK9Lf) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk), [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Flame](https://open.spotify.com/album/0SEyeOfZyqZjVqreACEk6D) | 3:37 | 2022-05-27 | 2022-08-13 |
 | [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 | 2021-09-10 |  |
@@ -383,6 +383,7 @@
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 |  |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2024-01-10 |
+| [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2024-02-09 |  |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-28 | 2023-08-18 |
 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 | 2023-08-18 |  |
 | [The Time Has Come](https://open.spotify.com/track/17gYLgUI2kHsmR8wLeLFUY) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Progressions](https://open.spotify.com/album/0tDBNxkzpitmbuLemjpwdi) | 7:24 | 2021-05-07 | 2022-05-12 |

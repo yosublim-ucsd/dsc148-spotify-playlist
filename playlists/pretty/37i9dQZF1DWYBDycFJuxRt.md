@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/326321?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,979 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,093 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 19 | [Light](https://open.spotify.com/track/66WTU7QWjgvq0MCrRKKPcj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Give Me All of Your Life](https://open.spotify.com/album/6whddh4xySGYuZRYbndVOJ) | 3:49 |
 | 20 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
 | 21 | [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 |
-| 22 | [Talking / Once Again](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [Talking / Once Again](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 |
+| 22 | [TALKING](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [TALKING](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 |
 | 23 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 |
 | 24 | [The Yonder](https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE) | 2:33 |
 | 25 | [じょいふる](https://open.spotify.com/track/4EL6O0lWAKAmjc4RVxf635) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [じょいふる](https://open.spotify.com/album/7e10l7QJBwrAk92jOn0naW) | 2:56 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 40 | [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 |
 | 41 | [A2Z](https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [A2Z](https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN) | 2:39 |
 | 42 | [Frozen Butterfly](https://open.spotify.com/track/3JcUsgmUOruUTr7VRnqMa6) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Frozen Butterfly](https://open.spotify.com/album/1TUoTEQc8g6masfIq5XR9R) | 3:04 |
-| 43 | [Vernel](https://open.spotify.com/track/6Nb3604lJv62qluZk2eybR) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori\(ODD Foot Works\)](https://open.spotify.com/artist/4r5MRjU2NGRYlEfifl4WNt) | [Vernel](https://open.spotify.com/album/2JrpfyDcgl1BWfQQyTPcGt) | 3:50 |
+| 43 | [Vernel](https://open.spotify.com/track/6Nb3604lJv62qluZk2eybR) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t) | [Vernel](https://open.spotify.com/album/2JrpfyDcgl1BWfQQyTPcGt) | 3:50 |
 | 44 | [Some True Love](https://open.spotify.com/track/57PdGtLaH4LKiMOe6hKLhg) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Some True Love](https://open.spotify.com/album/5U8pjq3qddf3CjtzUPD9X3) | 3:53 |
 | 45 | [ノスタルジア](https://open.spotify.com/track/5LcDuMPZLDdrTPRWyiCQZC) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ノスタルジア](https://open.spotify.com/album/0I7taaii2mCMOEJx0vuqSW) | 5:09 |
 | 46 | [lonely girl](https://open.spotify.com/track/4Pwn6PxbzfsRK9QwkGCqGc) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [lonely girl](https://open.spotify.com/album/0sp8ESuCu7vJXKGjoLwYn8) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [PRISM](https://open.spotify.com/track/7wryKXi7wLao15N9xF4nBz) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY) | [PRISM](https://open.spotify.com/album/1Z85WxxpU155AIWOHxTrM5) | 2:59 |
 | 80 | [綺麗](https://open.spotify.com/track/1VEsvrQw1j2hVBcqb13m0Y) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [綺麗](https://open.spotify.com/album/4AMhTOFnpqZVUJ8mesBEUj) | 3:56 |
 
-Snapshot ID: `MCw3YjM2ZjM3YWEzYmY1OTVjMjMzNmNlZDMwZTljNDI1YzAxNTRlZGYx`
+Snapshot ID: `MCwwNzdjYmYyNjcxMjRmZTU2ZjIzYjRhMGUzZjMyMjBhNTJlZGVhMzM1`

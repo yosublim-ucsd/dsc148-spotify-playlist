@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqAW0dNPY2J.md) - [plain]
 
 > Songs that grace Suki Waterhouse's headphones whilst strolling NYC thinking about love\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,041 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,083 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqAW0dNPY2J.md) - [plain]
 | 72 | [Blue Vein](https://open.spotify.com/track/1yF9soeWa8OIjOATKYfazt) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Acquainted with Night](https://open.spotify.com/album/15APIHMOiJkPm11YDOaiuE) | 4:22 |
 | 73 | [I Don't Want Nobody](https://open.spotify.com/track/3jV9iL4dF5bzlDzNAd7P9c) | [Eddie Harris](https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4) | [I Need Some Money](https://open.spotify.com/album/4Wi9MPdAtk72NVE1LMYY9t) | 11:55 |
 | 74 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
-| 75 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 |
+| 75 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 |
 
-Snapshot ID: `MCw0Y2M3ZDQ5N2VkNmIyY2RiY2YwODBmMzQxNmFlYzMzMzk5ZDVmMzNm`
+Snapshot ID: `MCw1ZmM4NjQwYWUxZmM5NDk3YjBmOGZiNmNjNmJhNjJjMzhlODgzNWNh`

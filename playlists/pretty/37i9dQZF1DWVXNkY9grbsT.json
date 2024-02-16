@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 89946,
+  "num_followers": 89978,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWE4Y2NmN2M5MDdiNGZkNDU0MTBjYWY2ODNmMmY0NmM2NTFjZjJh",
+  "snapshot_id": "MCxmOTMxYTcwZGE0OTAxMzRkODM4Mjg0ODgxYTg3YjgzZmRiNjlkMjQ0",
   "tracks": [
     {
       "added_at": "2023-12-01 18:01:27",
@@ -299,18 +299,26 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+        "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
+        "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+          "name": "Pauli The PSM",
+          "url": "https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp"
+        },
+        {
+          "name": "OFFAIR",
+          "url": "https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
         }
       ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
+      "duration_ms": 222212,
+      "name": "CAPRICORN",
+      "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -335,26 +343,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
-        "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
       },
       "artists": [
         {
-          "name": "Pauli The PSM",
-          "url": "https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp"
-        },
-        {
-          "name": "OFFAIR",
-          "url": "https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         }
       ],
-      "duration_ms": 222212,
-      "name": "CAPRICORN",
-      "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -419,22 +419,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Unknown Tokyo",
-        "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 245008,
-      "name": "Unknown Tokyo",
-      "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -463,6 +459,26 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Unknown Tokyo",
+        "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 245008,
+      "name": "Unknown Tokyo",
+      "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "KEYS & LOCKS",
         "url": "https://open.spotify.com/album/3XTRz14kTisUNAsgkRFqQE"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 120000,
       "name": "Dogtooth",
       "url": "https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Ten As One",
-        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
-      },
-      "artists": [
-        {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
-        },
-        {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
-        }
-      ],
-      "duration_ms": 336251,
-      "name": "Carmel",
-      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Fate Deluxe",
         "url": "https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR"
       },
@@ -855,18 +835,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Cutting Room I (from the Netflix Series \"Top Boy\")",
-        "url": "https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi"
+        "name": "Ten As One",
+        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
         }
       ],
-      "duration_ms": 138720,
-      "name": "Cutting Room I",
-      "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
+      "duration_ms": 336251,
+      "name": "Carmel",
+      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -891,6 +875,22 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Cutting Room I (from the Netflix Series \"Top Boy\")",
+        "url": "https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "Cutting Room I",
+      "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
       "artists": [
         {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
         }
       ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
       "artists": [
         {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
         }
       ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Trans-Millenia Consort",
-        "url": "https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 461693,
-      "name": "Cult of Isis",
-      "url": "https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Trans-Millenia Consort",
+        "url": "https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 461693,
+      "name": "Cult of Isis",
+      "url": "https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Music for Robots",
-        "url": "https://open.spotify.com/album/50utrathEVv4UTEMjUtwbE"
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
       "artists": [
         {
-          "name": "Zomnis",
-          "url": "https://open.spotify.com/artist/5hfJICKoX0X34piKb8siZB"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Zero Law",
-      "url": "https://open.spotify.com/track/1T86cvA0iw7ygJDHVulEWe"
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1515,22 +1499,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
       },
@@ -1547,6 +1515,38 @@
       "duration_ms": 273053,
       "name": "Golden Apples Of The Sun",
       "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Music for Robots",
+        "url": "https://open.spotify.com/album/50utrathEVv4UTEMjUtwbE"
+      },
+      "artists": [
+        {
+          "name": "Zomnis",
+          "url": "https://open.spotify.com/artist/5hfJICKoX0X34piKb8siZB"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Zero Law",
+      "url": "https://open.spotify.com/track/1T86cvA0iw7ygJDHVulEWe"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 447847,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-12-01 18:01:27",

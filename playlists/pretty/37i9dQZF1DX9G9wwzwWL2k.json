@@ -1,12 +1,12 @@
 {
   "description": "Lend a little drama to the occasion with this collection of truly epic classical music.",
-  "num_followers": 609312,
+  "num_followers": 609406,
   "original_name": "Epic Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGE4NjAzMWUwZjNmNmU0NWQ3Yjg0ZGI0ZjIwNzE1ZWVlMjBlODAw",
+  "snapshot_id": "MCw0YWU5YjAwMGVkYmI3OTA2NzI2ZjkwMDRiNTY1ODBlZjYyMGY1NTI3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -44,7 +44,7 @@
           "url": "https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze"
         },
         {
-          "name": "Cleveland Orchestra",
+          "name": "The Cleveland Orchestra",
           "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         },
         {
@@ -780,29 +780,21 @@
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
-        "url": "https://open.spotify.com/album/1goHbSFkoo85VQenZgy7rB"
+        "url": "https://open.spotify.com/album/1QRHNQGGVAe6JBvFx2W9Dp"
       },
       "artists": [
-        {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
-        },
-        {
-          "name": "Yevgeny Sudbin",
-          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
-        },
         {
           "name": "Camille Saint-Sa\u00ebns",
           "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+          "name": "Yevgeny Sudbin",
+          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
         }
       ],
       "duration_ms": 524360,
-      "name": "Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano)",
-      "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"
+      "name": "Danse macabre, Op. 40 (Arr. F. Liszt, V. Horowitz and y. Sudbin for piano)",
+      "url": "https://open.spotify.com/track/7nb3EYuiI4OGfxStgykaTu"
     },
     {
       "added_at": "2022-09-30 04:01:00",

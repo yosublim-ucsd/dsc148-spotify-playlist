@@ -1,13 +1,29 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
-  "num_followers": 100646,
+  "num_followers": 100679,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTc0OTIwZDc3MjkyNTUwYmU4NGY4NmJjOWE1MDVmODRiMmRmNTQ4",
+  "snapshot_id": "MCw4OGU1ODZjZjg4ODk3NDUzMmE5NWNhNjZlNTQwMjUyZTRkMGJkNDk1",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:09:41",
+      "album": {
+        "name": "No Hay Recreo",
+        "url": "https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 118168,
+      "name": "No Hay Recreo",
+      "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
+    },
     {
       "added_at": "2024-02-01 23:53:43",
       "album": {
@@ -25,6 +41,26 @@
       "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
     },
     {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "Pitoleo",
+        "url": "https://open.spotify.com/album/1Rcui07oTG9hhKgmJN5vQu"
+      },
+      "artists": [
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "duration_ms": 108081,
+      "name": "Pitoleo",
+      "url": "https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi"
+    },
+    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "Agu\u00e1ntala",
@@ -39,6 +75,22 @@
       "duration_ms": 144672,
       "name": "Agu\u00e1ntala",
       "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
+    },
+    {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "Dan2le",
+        "url": "https://open.spotify.com/album/2co6VQIolIoGc16q4jbu62"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 161552,
+      "name": "Dan2le",
+      "url": "https://open.spotify.com/track/63712oXRDENUqIdUow7Rel"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -61,52 +113,80 @@
       "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
     },
     {
-      "added_at": "2024-02-01 23:53:43",
+      "added_at": "2024-02-15 15:29:53",
       "album": {
-        "name": "Piso Rojo",
-        "url": "https://open.spotify.com/album/6zb5Zc0MPLCx3qwN0SZHiE"
+        "name": "Tengo Eso",
+        "url": "https://open.spotify.com/album/51UsBKTYVsTzPNX5f2tAh3"
       },
       "artists": [
         {
-          "name": "El Pastor RD",
-          "url": "https://open.spotify.com/artist/4plI4LITOF226K197LazKR"
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
         }
       ],
-      "duration_ms": 101935,
-      "name": "Piso Rojo",
-      "url": "https://open.spotify.com/track/2KIG5c0t9befwkZwDXFytv"
+      "duration_ms": 188995,
+      "name": "Tengo Eso",
+      "url": "https://open.spotify.com/track/3RkhlfyEyOoKzjSJIuVNaN"
     },
     {
-      "added_at": "2024-01-25 20:32:53",
+      "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "PEINE DE ETE LAO",
-        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
+        "name": "Flow Sexy",
+        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
       },
       "artists": [
         {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         }
       ],
-      "duration_ms": 155144,
-      "name": "PEINE DE ETE LAO",
-      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
+      "duration_ms": 165123,
+      "name": "Flow Sexy",
+      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
     },
     {
-      "added_at": "2024-02-08 22:40:39",
+      "added_at": "2024-02-15 17:10:52",
       "album": {
-        "name": "Van 3 D\u00eda",
-        "url": "https://open.spotify.com/album/6ast2TToWEm7stjuQ1Qyqg"
+        "name": "Sugar Daddy",
+        "url": "https://open.spotify.com/album/1sBKB1oooIYurz3LBmyH5H"
       },
       "artists": [
         {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+          "name": "Oya Baby",
+          "url": "https://open.spotify.com/artist/2TmrRhHNxjVGvkwZ6SEhFJ"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Alex Sensation",
+          "url": "https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 135360,
-      "name": "Van 3 D\u00eda",
-      "url": "https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8"
+      "duration_ms": 227680,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/2GMod8qUwwOMpmY71Kfru3"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -127,6 +207,102 @@
       "duration_ms": 154883,
       "name": "Chivirika",
       "url": "https://open.spotify.com/track/7GY9BCk8P624bRSl045dTR"
+    },
+    {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "No Soportaran",
+        "url": "https://open.spotify.com/album/1RgWqTM9I5Z8sN2VSppzE2"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 94320,
+      "name": "No Soportaran",
+      "url": "https://open.spotify.com/track/1R7dRlDfEARDWFSqfNSc83"
+    },
+    {
+      "added_at": "2024-02-08 22:40:39",
+      "album": {
+        "name": "Van 3 D\u00eda",
+        "url": "https://open.spotify.com/album/6ast2TToWEm7stjuQ1Qyqg"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Van 3 D\u00eda",
+      "url": "https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8"
+    },
+    {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "Nadie Te Conoce",
+        "url": "https://open.spotify.com/album/1O1ZLmsD8H2O8nxpjm6zWG"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "duration_ms": 147411,
+      "name": "Nadie Te Conoce",
+      "url": "https://open.spotify.com/track/3LmhyPSKjoON1fKBOJSxDA"
+    },
+    {
+      "added_at": "2024-01-25 20:32:53",
+      "album": {
+        "name": "PEINE DE ETE LAO",
+        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "PEINE DE ETE LAO",
+      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
+    },
+    {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "Pu\u00f1al de Acero",
+        "url": "https://open.spotify.com/album/5AM9uDp2L6IFpPdVswdMIZ"
+      },
+      "artists": [
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 131631,
+      "name": "Pu\u00f1al de Acero",
+      "url": "https://open.spotify.com/track/6sxt4ykznzGdTW4EnMOnfR"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -157,22 +333,6 @@
       "url": "https://open.spotify.com/track/2QM3dHYntJ0qmnjKsOq0sE"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "No Hay Recreo",
-        "url": "https://open.spotify.com/album/2YLgkoGF4caij2SujQ94eE"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 118168,
-      "name": "No Hay Recreo",
-      "url": "https://open.spotify.com/track/6soUhucfoNsgxze4fzA24p"
-    },
-    {
       "added_at": "2024-02-08 22:40:39",
       "album": {
         "name": "Hoy Si",
@@ -197,6 +357,26 @@
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
     },
     {
+      "added_at": "2024-02-15 15:29:53",
+      "album": {
+        "name": "2pa2 (Remix)",
+        "url": "https://open.spotify.com/album/36QpmpAvhcd30fBX0VkT7l"
+      },
+      "artists": [
+        {
+          "name": "Milo K",
+          "url": "https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "2pa2 - Remix",
+      "url": "https://open.spotify.com/track/2Pp3qQZ9HqcAjrgbHrr0jZ"
+    },
+    {
       "added_at": "2024-02-01 23:53:43",
       "album": {
         "name": "Maldad y Tiniebla",
@@ -215,26 +395,6 @@
       "duration_ms": 155357,
       "name": "Maldad y Tiniebla",
       "url": "https://open.spotify.com/track/0wVTFmvtKzjFX3QNEkzIZ9"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Flow Sexy",
-        "url": "https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Flow Sexy",
-      "url": "https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -367,30 +527,6 @@
       "duration_ms": 141125,
       "name": "Ando",
       "url": "https://open.spotify.com/track/5TyHGAXlplpzthOnOcTFhY"
-    },
-    {
-      "added_at": "2024-02-01 23:53:43",
-      "album": {
-        "name": "Misu Misu",
-        "url": "https://open.spotify.com/album/5G0xQjLUjNYqAQJgwCrxND"
-      },
-      "artists": [
-        {
-          "name": "Menor Queen",
-          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
-        },
-        {
-          "name": "Kunno",
-          "url": "https://open.spotify.com/artist/3tWbpLn172AGK2x4Yr3KgB"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Misu Misu",
-      "url": "https://open.spotify.com/track/1ZxSNOmhnUEFgUFa5xLtX8"
     },
     {
       "added_at": "2024-01-18 21:46:59",
@@ -565,26 +701,6 @@
       "url": "https://open.spotify.com/track/0C5DC5tQVPSspvvwtG0Fuq"
     },
     {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Apurale",
-        "url": "https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm"
-      },
-      "artists": [
-        {
-          "name": "Jhayseven",
-          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 116826,
-      "name": "Apurale",
-      "url": "https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI"
-    },
-    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "Oao",
@@ -647,30 +763,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "FUEGO CON TO",
-        "url": "https://open.spotify.com/album/649C3tGolPfcZXxFAtNCO7"
-      },
-      "artists": [
-        {
-          "name": "ivan produce",
-          "url": "https://open.spotify.com/artist/30VrcgUCElE12MAc2IahKm"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "Poeta Callejero",
-          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
-        }
-      ],
-      "duration_ms": 116479,
-      "name": "FUEGO CON TO",
-      "url": "https://open.spotify.com/track/02nlftazZIBxtWLZspDV5W"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Malo de Verdad (Remix)",
         "url": "https://open.spotify.com/album/6ebWUexvroUpm8ivF1Li5F"
       },
@@ -695,22 +787,6 @@
       "duration_ms": 206951,
       "name": "Malo de Verdad - Remix",
       "url": "https://open.spotify.com/track/38pdoR7NoHEugpvIxEKhdU"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "A Terror",
-        "url": "https://open.spotify.com/album/0etm14sbRaMZ86qD9KNiAD"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        }
-      ],
-      "duration_ms": 162664,
-      "name": "A Terror",
-      "url": "https://open.spotify.com/track/4tb07Nhg96zI0g0NLyZj52"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -851,54 +927,6 @@
     {
       "added_at": "2023-12-22 05:09:41",
       "album": {
-        "name": "M\u00eda",
-        "url": "https://open.spotify.com/album/08drtlleBklH6FMK9yDoJ0"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Films",
-          "url": "https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ"
-        },
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Dj Adoni",
-          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 156927,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/11po7ttGGUKVLKFZ7plnXU"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Dique",
-        "url": "https://open.spotify.com/album/7uAgZOPCAy6zGIisVot7MG"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "Clutch Beats",
-          "url": "https://open.spotify.com/artist/642jpPSYOXn1QxsURjf3gc"
-        }
-      ],
-      "duration_ms": 119878,
-      "name": "Dique",
-      "url": "https://open.spotify.com/track/6623poRb2T18ZWshElROq6"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
         "name": "Rapido",
         "url": "https://open.spotify.com/album/4lUGKIYhiVWv5SKcH1o0nY"
       },
@@ -935,26 +963,6 @@
       "duration_ms": 160000,
       "name": "Malo Malo",
       "url": "https://open.spotify.com/track/4Lp6g21jhwdJ0omSrBeLNk"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Grita",
-        "url": "https://open.spotify.com/album/14jARmUCld4ruPZ19oOJei"
-      },
-      "artists": [
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        },
-        {
-          "name": "PiketeProducer",
-          "url": "https://open.spotify.com/artist/2jPT8lavd5CEDTo01dGqar"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/12h0D7w5yt8B7l8ugo92ce"
     },
     {
       "added_at": "2023-12-22 05:09:41",

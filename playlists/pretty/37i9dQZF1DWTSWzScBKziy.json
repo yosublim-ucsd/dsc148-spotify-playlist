@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 97468,
+  "num_followers": 97505,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjRjZGEwZDAyOTgwZGJjZTg5OTdlZmJkYTc2NjYzNWM3YzU5NzUy",
+  "snapshot_id": "MCxkOGRiZDc1NjM1ZTIwZmZhMzMxNjVmYmUwMDJjMDJkMzNiMWMxZTQx",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Perfectly Loved",
         "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Same God (Radio Version)",
-        "url": "https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 264269,
-      "name": "Same God - Radio Version",
-      "url": "https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Same God (Radio Version)",
+        "url": "https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "Same God - Radio Version",
+      "url": "https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "You Can Rest",
+        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott",
+          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
+        }
+      ],
+      "duration_ms": 288658,
+      "name": "You Can Rest",
+      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "You Can Rest",
-        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott",
-          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
-        }
-      ],
-      "duration_ms": 288658,
-      "name": "You Can Rest",
-      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 238757,
       "name": "We Come Alive",
       "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 168096,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Rest On Us - Single Version",
-      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "God Is On The Throne",
         "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
       },
       "artists": [
         {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+      "duration_ms": 224573,
+      "name": "Rest On Us - Single Version",
+      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1351,6 +1335,22 @@
       "duration_ms": 213281,
       "name": "Father",
       "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
       "artists": [
         {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1479,6 +1463,22 @@
       "duration_ms": 313933,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",

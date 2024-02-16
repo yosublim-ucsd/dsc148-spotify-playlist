@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,859 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,354 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
-| 2 | [Tu connais](https://open.spotify.com/track/2QSswvVqhYPlZuWTua3uZb) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 2:49 |
-| 3 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
+| 2 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
+| 3 | [Tu connais](https://open.spotify.com/track/2QSswvVqhYPlZuWTua3uZb) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 2:49 |
 | 4 | [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 |
 | 5 | [Citadelle](https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Citadelle](https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA) | 2:45 |
 | 6 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 100 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 |
 
-Snapshot ID: `MCwxMWNkYmZiYjI3ZWU5NDc4NDZjYjk2ZTkwNmQ2NmQ3YzIxY2ZhNzNm`
+Snapshot ID: `MCwwNGI5OTBlYTY4NDkwYzgyOGM4NDZmMDFhMTc4OGQ5MWUxNWNhODFh`

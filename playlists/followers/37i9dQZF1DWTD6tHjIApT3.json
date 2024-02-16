@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 108665,
+  "2024-02-16": 108701,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: TOMOO",
   "name": "Women's Voice",
@@ -1129,6 +1129,24 @@
       "duration_ms": 231951,
       "name": "Aitagai",
       "url": "https://open.spotify.com/track/2d1Ei1KUpgoGFTpjqj6vBN"
+    },
+    {
+      "album": {
+        "name": "Akaneirono Yakusoku",
+        "url": "https://open.spotify.com/album/5byQBIg0jsRYlrhLNtRkWh"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "Akaneirono Yakusoku",
+      "url": "https://open.spotify.com/track/0qZZzxvnRYafwGbIYlq12s"
     },
     {
       "album": {
@@ -8092,6 +8110,24 @@
     },
     {
       "album": {
+        "name": "Beatrice",
+        "url": "https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA"
+      },
+      "artists": [
+        {
+          "name": "Cocco",
+          "url": "https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290106,
+      "name": "Haru Arashi",
+      "url": "https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz"
+    },
+    {
+      "album": {
         "name": "Hatati20",
         "url": "https://open.spotify.com/album/6dGShhrVFOCyc1Ovbhqmbw"
       },
@@ -11175,6 +11211,24 @@
       "duration_ms": 282060,
       "name": "Koi no Iro",
       "url": "https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa"
+    },
+    {
+      "album": {
+        "name": "Koi suru wakusei \"Anata\"",
+        "url": "https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208309,
+      "name": "Koi suru wakusei \"Anata\"",
+      "url": "https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u"
     },
     {
       "album": {
@@ -16351,10 +16405,28 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 266139,
       "name": "Present",
       "url": "https://open.spotify.com/track/4EqTqw8zW7JGIYDQ8PPbYe"
+    },
+    {
+      "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/35iKr3pjxUGUtEC1FUkiL6"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266139,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/5ZA0IAAjEC5tn3jOJhGPLJ"
     },
     {
       "album": {
@@ -16551,6 +16623,24 @@
       "duration_ms": 208000,
       "name": "p\u00e1\u02d0",
       "url": "https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB"
+    },
+    {
+      "album": {
+        "name": "Q.1",
+        "url": "https://open.spotify.com/album/3283TUO9t88bpwilwlYp9k"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231713,
+      "name": "Q.1",
+      "url": "https://open.spotify.com/track/69wRfBpcspPBQYD8xaDyT8"
     },
     {
       "album": {
@@ -19269,6 +19359,24 @@
       "duration_ms": 239536,
       "name": "Splendid Silent Sun",
       "url": "https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh"
+    },
+    {
+      "album": {
+        "name": "HEROINE",
+        "url": "https://open.spotify.com/album/7yedhW1TyJzp5aRjNBP1qj"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "spotkaranigete",
+      "url": "https://open.spotify.com/track/6YhHCFF7wJvCT0V2PP1Kzn"
     },
     {
       "album": {
@@ -22319,6 +22427,32 @@
     {
       "album": {
         "name": "UNICORN",
+        "url": "https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe"
+      },
+      "artists": [
+        {
+          "name": "Nanaco Sato",
+          "url": "https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN"
+        },
+        {
+          "name": "Toru Okada",
+          "url": "https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO"
+        },
+        {
+          "name": "Yusuke Sato",
+          "url": "https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207685,
+      "name": "UNICORN",
+      "url": "https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao"
+    },
+    {
+      "album": {
+        "name": "UNICORN",
         "url": "https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV"
       },
       "artists": [
@@ -22337,7 +22471,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 207685,
       "name": "UNICORN",
       "url": "https://open.spotify.com/track/44MRKShx562b6moPwz1wI8"
@@ -29369,7 +29503,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 189946,
       "name": "\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u306b\u3052\u3066",
       "url": "https://open.spotify.com/track/3P13EH5Nu3LEMfIOHLlW6z"
@@ -33759,7 +33893,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 231713,
       "name": "\u554f.1",
       "url": "https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO"
@@ -35595,7 +35729,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208309,
       "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
@@ -36685,7 +36819,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 290106,
       "name": "\u6625\u8352\u3089\u3057",
       "url": "https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT"
@@ -39897,7 +40031,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 300840,
       "name": "\u831c\u8272\u306e\u7d04\u675f",
       "url": "https://open.spotify.com/track/188xZfCBPMT2ZOAHLf8rTC"

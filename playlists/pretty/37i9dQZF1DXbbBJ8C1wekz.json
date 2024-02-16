@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 130183,
+  "num_followers": 130225,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJhMDE4YjRiNmQzYTFjZWU2YTA3MTlmZjNkYjQyYmIxYWI4Y2Vl",
+  "snapshot_id": "MCxlZDcyNDIwZTIyOTZkYTEzMWRjOTcxMjg1Zjc3YjE0MjkwYzBiNzQ0",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 134282,
+      "name": "Melhor Agora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
         "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 300689,
       "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
       "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 134282,
-      "name": "Melhor Agora - Ao Vivo",
-      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1343,26 +1343,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Bail\u00e3o",
-        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
       "artists": [
         {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Mestre B",
-          "url": "https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK"
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         },
         {
-          "name": "Young World",
-          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 210616,
-      "name": "Bail\u00e3o",
-      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1399,26 +1399,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+        "name": "Bail\u00e3o",
+        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Mestre B",
+          "url": "https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
         }
       ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+      "duration_ms": 210616,
+      "name": "Bail\u00e3o",
+      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1807,34 +1807,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Gatinha",
-        "url": "https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Gatinha",
-      "url": "https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1859,6 +1831,34 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Gatinha",
+        "url": "https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "duration_ms": 195303,
+      "name": "Gatinha",
+      "url": "https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Proibid\u00e3o 2020",
         "url": "https://open.spotify.com/album/2j9HJHxLbsf998M4SUO2eS"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 124182,
       "name": "Proibid\u00e3o 2020",
       "url": "https://open.spotify.com/track/2ZtiM7j3k5jrCXNtiwUSi4"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1991,42 +1991,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Ak Forty Seven",
-        "url": "https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3"
+        "name": "Como a chuva cai",
+        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Ak Forty Seven",
-      "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Bvlgari",
-        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "4tune",
-          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 188035,
-      "name": "Bvlgari",
-      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
+      "duration_ms": 152086,
+      "name": "Como a chuva cai",
+      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2059,58 +2039,42 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Como a chuva cai",
-        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
+        "name": "Bvlgari",
+        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         },
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "4tune",
+          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
         }
       ],
-      "duration_ms": 152086,
-      "name": "Como a chuva cai",
-      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
+      "duration_ms": 188035,
+      "name": "Bvlgari",
+      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
     },
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Reuni\u00e3o Dos Cria",
-        "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
+        "name": "Ak Forty Seven",
+        "url": "https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3"
       },
       "artists": [
         {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
-        },
-        {
-          "name": "Miat\u00e3",
-          "url": "https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         }
       ],
-      "duration_ms": 228283,
-      "name": "Reuni\u00e3o Dos Cria",
-      "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
+      "duration_ms": 172973,
+      "name": "Ak Forty Seven",
+      "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2163,26 +2127,38 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
+        "name": "Reuni\u00e3o Dos Cria",
+        "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
         },
         {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+          "name": "Miat\u00e3",
+          "url": "https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         }
       ],
-      "duration_ms": 190153,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
+      "duration_ms": 228283,
+      "name": "Reuni\u00e3o Dos Cria",
+      "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2279,6 +2255,30 @@
       "duration_ms": 228661,
       "name": "Fiquei Rico Cedo",
       "url": "https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
     },
     {
       "added_at": "2024-02-02 03:01:00",

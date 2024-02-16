@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-100 songs - 4 hr 33 min
+101 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 | 2024-02-07 |  |
 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 | 2024-02-07 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2024-02-07 |  |
+| [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 | 2024-02-15 |  |
 | [Misbehave](https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Misbehave](https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1) | 2:54 | 2024-02-07 |  |
 | [Mission Control](https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Mission Control](https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo) | 2:16 | 2024-02-07 |  |
 | [Monsoon \(feat\. Tokio Hotel\)](https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Monsoon \(feat\. Tokio Hotel\)](https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6) | 2:43 | 2024-02-07 |  |
@@ -85,7 +86,7 @@
 | [Sideways](https://open.spotify.com/track/3J5Wcm5gvOl15F79FUy6Zy) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz) | [Sideways](https://open.spotify.com/album/4v2IWLFOinbG1BADnck31l) | 2:15 | 2024-02-07 |  |
 | [Solo](https://open.spotify.com/track/4WtWbsUpHCIvSUxFbCfM5m) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Gyan Chappory](https://open.spotify.com/artist/7IFRE8unQCJ6Q2Md2OXtM1) | [Solo](https://open.spotify.com/album/0YOEEfwnc5W2YdcAVXLQHQ) | 2:21 | 2024-02-07 |  |
 | [Something Like This](https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Something Like This](https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1) | 2:28 | 2024-02-07 |  |
-| [Stand In Line](https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Stand In Line](https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13) | 3:05 | 2024-02-07 |  |
+| [Stand In Line](https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Stand In Line](https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13) | 3:05 | 2024-02-07 | 2024-02-16 |
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2024-02-07 |  |
 | [Supersonic](https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Supersonic](https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS) | 2:40 | 2024-02-07 |  |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2024-02-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > leall é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,939 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,930 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Nuvem Negra](https://open.spotify.com/track/1QTRxtnPMeuw9cFU6nFucO) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Nuvem Negra](https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd) | 2:41 |
 | 50 | [Momentos](https://open.spotify.com/track/4gXbu96gGyRM52KFYGBge5) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:23 |
 
-Snapshot ID: `MCwyMDkxMTExZTJlNzZjMThmNmFkYzI0NGJmZTVhYWU2ZGJiNGQxNmRh`
+Snapshot ID: `MCwwYTk5ZjZhZDIyYzg3NWE3ZGYzOTdjZWYzNGFmNjI5NDljODdhYWUx`

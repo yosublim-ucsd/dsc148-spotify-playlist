@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-2,196 songs - 5 day 21 hr 35 min
+2,197 songs - 5 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,7 @@
 | [MIU](https://open.spotify.com/track/1qPp3HgkZDNKXcgSMHlYjc) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [MIU](https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu) | 3:40 | 2022-06-07 | 2022-07-17 |
 | [Mizuiro Seiza](https://open.spotify.com/track/1DJN6SEaLO9JlbPFhkWcbm) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Tree](https://open.spotify.com/album/6rqEhEHsOrhLHP3LyYrSk4) | 4:41 | 2024-01-23 | 2024-01-31 |
 | [Monochrome](https://open.spotify.com/track/7J8ENLP5vsz5VtUqtu9uRd) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Monochrome](https://open.spotify.com/album/1qHBXHC4LQzwKuD5f2JOVf) | 4:13 | 2023-08-22 | 2023-08-30 |
-| [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 | 2023-08-17 |  |
+| [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 | 2023-08-17 | 2024-02-16 |
 | [Moon In Shadow](https://open.spotify.com/track/5xo3WhTDgzea1QmCg4YoDd) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [T.B.D.](https://open.spotify.com/album/6PCU5NyvqdaxJKoRAz79kD) | 2:54 | 2022-06-02 | 2022-07-17 |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-02-09 | 2023-02-15 |
 | [moonlight](https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [moonlight](https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7) | 3:19 | 2023-12-12 | 2023-12-20 |
@@ -1035,6 +1035,7 @@
 | [Start Again](https://open.spotify.com/track/1Sdy0q4FwSd5LfQzGSlx7M) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [Start Again](https://open.spotify.com/album/7q2dZD6S2UQTrxbEIuztL0) | 4:20 | 2022-10-04 | 2022-10-12 |
 | [Start Again](https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again](https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX) | 3:05 | 2023-02-02 | 2023-02-08 |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2023-01-03 | 2023-01-11 |
+| [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 |  |
 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 | 2022-05-29 | 2022-09-09 |
 | [STEADY](https://open.spotify.com/track/4vW94ySzXDzcPYk7pHPXh6) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [STEADY](https://open.spotify.com/album/7JoZ8WRmgvcFZ6R370GUes) | 5:12 | 2022-05-29 | 2022-07-14 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-05-31 | 2022-07-20 |
@@ -1109,7 +1110,7 @@
 | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/track/01sMxK887hTEwMEenV61pg) | [Mickie Yoshino](https://open.spotify.com/artist/6YtshtTc8bUPwvUcT8bkvw), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [The birth of the odyssey \~ Monkey Magic](https://open.spotify.com/album/0BnmyBenolTJYIrp2MetHm) | 4:15 | 2022-05-31 | 2022-07-19 |
 | [The Day](https://open.spotify.com/track/5QwTTEjky32hgvl0k0ZgAC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [The Day / 39 Minutes](https://open.spotify.com/album/3zI7bAopezE3BRCUNwtcTx) | 3:54 | 2023-04-18 | 2023-05-10 |
 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 | 2023-02-23 | 2023-12-30 |
-| [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-11 |  |
+| [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-11 | 2024-02-16 |
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-14 | 2023-11-29 |
 | [The Lady](https://open.spotify.com/track/3xRImSHrjR3NvA1z3m5fwL) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [The Lady](https://open.spotify.com/album/36O0qoIfcIEZMk5fygWZSU) | 3:49 | 2024-02-06 | 2024-02-14 |
 | [The Memory of Persona](https://open.spotify.com/track/79wjyH8GhWosLYAlcBZWca) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:20 | 2022-08-18 | 2022-08-24 |
@@ -1968,7 +1969,7 @@
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-06-21 |
 | [月は今でも明るいが](https://open.spotify.com/track/64iq9RkRASwf2W6UDZzUPS) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [月は今でも明るいが](https://open.spotify.com/album/5JKyex0alhL1zW3TyvW3Yj) | 3:53 | 2022-08-23 | 2022-08-31 |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 |  |
-| [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 | 2024-01-25 | 2024-02-14 |
+| [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 | 2024-01-25 |  |
 | [朝の惑星](https://open.spotify.com/track/7FOJFawvuW3WuXvnypSiME) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [朝の惑星](https://open.spotify.com/album/3Uhw1K3u1ZkRZv0D15kWMY) | 3:00 | 2022-10-04 | 2022-10-12 |
 | [朝露](https://open.spotify.com/track/1TmiWBc15wa4G9Bu2Yfn9x) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [朝露](https://open.spotify.com/album/3l1XjOlM47yOGzxdMadmFZ) | 2:58 | 2023-06-13 | 2023-06-15 |
 | [未来へ](https://open.spotify.com/track/3EFZPT8yR3IXaw0IPwUiaX) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [未来へ](https://open.spotify.com/album/4ej1pwN7ieUkZ62u5RxZQD) | 3:49 | 2022-07-26 | 2022-08-18 |

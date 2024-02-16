@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,441 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,465 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 23 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
 | 24 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I), [azami](https://open.spotify.com/artist/6kmpJx7mGUinlMlN9O0ROz) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 |
 | 25 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
-| 26 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
+| 26 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 |
 | 27 | [不的](https://open.spotify.com/track/5OMmiRcQnIZdBtUKTcSMLS) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [Collage KAMITSUBAKI CITY UNDER CONSTRUCTION NARRATIVE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3IeBVCBM6YCsboNIpWQVCt) | 4:44 |
-| 28 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 28 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 29 | [Wings](https://open.spotify.com/track/1RUJIwEzcBRkrLbN39n4vf) | [越後屋ときな](https://open.spotify.com/artist/1Z67AANZhhq9cSl2RVtRwu), [YASAI SHOP](https://open.spotify.com/artist/5sWCZcPYSG5eIDLexQsFQc), [Mukut](https://open.spotify.com/artist/1BznaH3sIWATILrL8AypuH) | [Wings](https://open.spotify.com/album/2uBNqiul23nul9VdbJ23Xe) | 2:46 |
 | 30 | [どきどきが教室を揺らす](https://open.spotify.com/track/6dszKU6HWeNm1CsB1oEUHu) | [amaitopina](https://open.spotify.com/artist/4hr58TD2JVNEw4RiqVT9Af) | [どきどきが教室を揺らす](https://open.spotify.com/album/6fkUPI8xDqh6rEQbprEKIl) | 1:05 |
 | 31 | [Wonderful Knockout](https://open.spotify.com/track/332drckIBGYZLMzG7KGnfW) | [ゲーム実況者わくわくバンド](https://open.spotify.com/artist/4gXZYL1cPgPcHRAwncimz8) | [Wonderful Knockout](https://open.spotify.com/album/6GYy3bpOuw46uVbqvtkKB5) | 4:50 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 38 | [ダンシング☆PONPON](https://open.spotify.com/track/0J4iVoZiixaEbgZ1fKL5xI) | [桜鳥ミーナ](https://open.spotify.com/artist/1oJQufuXRcdh4XosQ3edse) | [ダンシング☆PONPON](https://open.spotify.com/album/4qsrzjbhl1Uhe9rBRlANFE) | 3:34 |
 | 39 | [BALALAIKA](https://open.spotify.com/track/76yRxh0mlCbU8eQPZTstfZ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA](https://open.spotify.com/album/4pfYQKmuDfjNOJ05rhAzXz) | 3:10 |
 | 40 | [MIDNIGHT MATADOR](https://open.spotify.com/track/1qAArYg8crvzV2zlUfn5Ix) | [RameL](https://open.spotify.com/artist/19bSEki4SdmXaFArTvYKxd), [DB\-みつ](https://open.spotify.com/artist/2by88pu0uxKQ7Fd5fJsSNp) | [MIDNIGHT MATADOR](https://open.spotify.com/album/5kLU20IS8At48xzPdLYLqL) | 4:14 |
-| 41 | [Socchoku](https://open.spotify.com/track/2VsfT97ZOE60ghEsNaufAQ) | [甲斐田晴](https://open.spotify.com/artist/579f2QcWncFkPQKrIkuhmU) | [DOLCE](https://open.spotify.com/album/2Y9GAwMgeKypNeCWC4vO94) | 4:36 |
+| 41 | [Raikanekko](https://open.spotify.com/track/4E7pE5AghmisqgNazzJUQv) | [Risa Yuzuki](https://open.spotify.com/artist/5VGrNkixNGpKM2OBwEtHtl), [nyankobrq](https://open.spotify.com/artist/5kO6DdAXbdge94JpKnyOdA) | [Raikanekko](https://open.spotify.com/album/2YgkWhVFqqqkYzuzEyEDnd) | 3:45 |
 | 42 | [Stanczyk](https://open.spotify.com/track/0NcMNyobubuXSmUza3Gmwi) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [tempa](https://open.spotify.com/artist/0t3KhnKrVW2S7erCsQkJwr) | [Stanczyk](https://open.spotify.com/album/4xBby86FhAAgSIFXHaYKst) | 4:00 |
 | 43 | [人工知能に降る雪](https://open.spotify.com/track/2woNSAiJNiqEaEsjrVpBSM) | [ASS MAGIC](https://open.spotify.com/artist/4xRy67QAPdTcVKvfbpAtL6) | [人工知能に降る雪](https://open.spotify.com/album/0Bf5Yykaf2rncACUIJkJyu) | 1:26 |
-| 44 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
+| 44 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 45 | [悪魔の国](https://open.spotify.com/track/4QshCJfuZ6KTpvrJZTjjLE) | [泣くな、ホームレス。](https://open.spotify.com/artist/1ffqV7MS1eSk5P6UwEkPqe) | [悪魔の国](https://open.spotify.com/album/2EkUnqH7dJKdy0H4iZy6su) | 4:36 |
-| 46 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
+| 46 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
 | 47 | [フィルム](https://open.spotify.com/track/2P4lnrpoDiuwBbaaLZtQ3B) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [フィルム](https://open.spotify.com/album/3Lg1Hjo8Okr1ypF90lxSKm) | 3:04 |
 | 48 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
-| 49 | [Simily](https://open.spotify.com/track/1RzRvI6EcXR5ahb1xUMtBc) | [Sori Sawada](https://open.spotify.com/artist/2DVBuwrrWkKGMcohF3wVnF) | [Simily](https://open.spotify.com/album/5eOAbihbd0Ug6ODagfQ1RG) | 6:23 |
+| 49 | [悪くぁない](https://open.spotify.com/track/3zF2FesG8CbLBPNu8ZVgYp) | [夜更かしさんは白昼夢を見る](https://open.spotify.com/artist/3Tekc5GNuIH1o2psFvYPJk) | [悪くぁない](https://open.spotify.com/album/2YTL1eKDiSO1hIGGhgHC2h) | 4:41 |
 | 50 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 
-Snapshot ID: `MCxmOTgwYmJjNjZhNTRmMTk1MjM1NjEyZmM4YmE1MjFmYjVkM2ZlZTEy`
+Snapshot ID: `MCxlMmNkZjFkMDEwYzAwMzNiMGM0NGExNzg0NThmODIzMDg1MTg5MjAw`

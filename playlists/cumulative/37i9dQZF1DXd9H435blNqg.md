@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-145 songs - 8 hr 3 min
+146 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 | 2021-02-12 | 2023-07-15 |
 | [Riot](https://open.spotify.com/track/0otlz1uuhtwVnKSUX8XToc) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 2:55 | 2021-02-12 |  |
 | [Riot](https://open.spotify.com/track/2YeFuzgYgqj9b7IiUUmSbw) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Riot](https://open.spotify.com/album/08N7vPLcQL375FyuCRH8fm) | 2:55 | 2021-02-12 | 2022-07-29 |
-| [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 | 2021-02-12 |  |
+| [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 | 2021-02-12 | 2024-02-16 |
+| [Satellite Man](https://open.spotify.com/track/2DLwzfDTaVFtoeKAbfflRm) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/19pcVPDCsO3S9O4qnxrV1n) | 3:00 | 2022-08-31 |  |
 | [Saw That Light](https://open.spotify.com/track/2XTzB7SPPl4GZv6bYVJfiv) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Saw That Light](https://open.spotify.com/album/5MJJAv0hwgTn2hEL9oaMkO) | 1:51 | 2021-02-12 |  |
 | [Saw That Light](https://open.spotify.com/track/50Cpsx8h556enxf91GSi2q) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Saw That Light](https://open.spotify.com/album/57MqRibzsB4mxoKkcnr8Ro) | 1:51 | 2021-02-12 | 2022-07-29 |
 | [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 | 2021-02-12 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 1558444,
+  "2024-02-16": 1558560,
   "date_first_scraped": "2020-12-13",
   "description": "Emo feels for the misunderstood. Cover: The Kid LAROI",
   "name": "tear drop",
@@ -6674,6 +6674,28 @@
     },
     {
       "album": {
+        "name": "Hollywood Dreaming",
+        "url": "https://open.spotify.com/album/6fULyBvbyfvtMTfQqJFuaO"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Gab3",
+          "url": "https://open.spotify.com/artist/0Yt7UjpW2AJojjZrgGysUl"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125133,
+      "name": "Hollywood Dreaming",
+      "url": "https://open.spotify.com/track/6XfwGXSf180uhTlUn7cczH"
+    },
+    {
+      "album": {
         "name": "Holographic",
         "url": "https://open.spotify.com/album/4p8JCzCQbFcou9iavDEOmO"
       },
@@ -8783,6 +8805,24 @@
       "duration_ms": 206733,
       "name": "Life's A Mess II (with Clever & Post Malone)",
       "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
+    },
+    {
+      "album": {
+        "name": "LIKE THAT",
+        "url": "https://open.spotify.com/album/7vwSC0DEgRSCP81lMUhMw5"
+      },
+      "artists": [
+        {
+          "name": "Goner",
+          "url": "https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186699,
+      "name": "LIKE THAT",
+      "url": "https://open.spotify.com/track/0vMV2iLBNdLDB9ir2mOfdW"
     },
     {
       "album": {

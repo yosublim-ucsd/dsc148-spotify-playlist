@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 255924,
+  "2024-02-16": 255976,
   "date_first_scraped": "2021-12-21",
   "description": "Chill tunes to soundtrack your gaming session.",
   "name": "Chill Gaming",
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 47204,
       "name": "i'm tired",
       "url": "https://open.spotify.com/track/4JkoMKb96mV3nlXRq6yeTP"
@@ -2721,6 +2721,24 @@
       "duration_ms": 104000,
       "name": "One",
       "url": "https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M"
+    },
+    {
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/1e2ImujfGAYW1leJOICcTr"
+      },
+      "artists": [
+        {
+          "name": "Thaehan",
+          "url": "https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/2qxRVh7mFAYt7Lw2IWM9xu"
     },
     {
       "album": {

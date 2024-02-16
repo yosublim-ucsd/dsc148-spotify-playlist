@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
-  "num_followers": 66537,
+  "num_followers": 66726,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2E3NGU5NjNhZmNhZjA0NzhlNmU1ZWYzMjEyMTE2NjQyNmRhZmYx",
+  "snapshot_id": "MCxkY2RlMmI3NzRkNDdmNjE5YmRkZWNlY2FiZGNlYjY4YmY4YTY0ODFi",
   "tracks": [
     {
       "added_at": "2023-12-30 10:49:01",
@@ -786,10 +786,14 @@
         {
           "name": "Mangli",
           "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
       "duration_ms": 225034,
-      "name": "Jinthaak Chithaka",
+      "name": "Jinthaak Chithaka (From \"Dhamaka\")",
       "url": "https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "2024-02-15": 168341,
+  "2024-02-16": 168380,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Nikita, the Wicked. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Glimji. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -155,7 +155,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 239284,
       "name": "1000dB Stare",
       "url": "https://open.spotify.com/track/3j4p47NWPUJuRBl2njFugT"
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 196440,
       "name": "BANANAS",
       "url": "https://open.spotify.com/track/3u1n0tFjgVtUblCLjcmJ9N"
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 249229,
       "name": "Be Willing",
       "url": "https://open.spotify.com/track/34EeNUgJprYyYYwU8VK4tD"
@@ -10656,6 +10656,24 @@
     },
     {
       "album": {
+        "name": "Everyone feels it (Extended Mix)",
+        "url": "https://open.spotify.com/album/3uksogBnCwuOGL2ztmnkUF"
+      },
+      "artists": [
+        {
+          "name": "VNT3K",
+          "url": "https://open.spotify.com/artist/5WngRlcANDO1IVM2wFTjBQ"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Everyone feels it",
+      "url": "https://open.spotify.com/track/3jhAYwiifkJzfiGxCQtq8m"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V"
       },
@@ -11895,7 +11913,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 190384,
       "name": "Flow 2000 3d1t",
       "url": "https://open.spotify.com/track/04rQRxXFkYFLPCY3iJs620"
@@ -11971,6 +11989,24 @@
       "duration_ms": 172928,
       "name": "Fly Day Chinatown",
       "url": "https://open.spotify.com/track/0aEl0TBH9Lq1NOBJm9DPV7"
+    },
+    {
+      "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/1TxwnfjFKHbkL0eq4lva87"
+      },
+      "artists": [
+        {
+          "name": "Habitatt",
+          "url": "https://open.spotify.com/artist/2eebQnmFuv5ZUaDd1OyUKF"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226249,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p"
     },
     {
       "album": {
@@ -14700,6 +14736,24 @@
     },
     {
       "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/0Jp2aDXycTqcCBnc0qNRgH"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291762,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/18HGXRxYTX0NE2v5J5h3F6"
+    },
+    {
+      "album": {
         "name": "Shiny Things (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ahO6sNz28MvmuaHNd0NKY"
       },
@@ -15968,6 +16022,24 @@
     },
     {
       "album": {
+        "name": "I don't want this",
+        "url": "https://open.spotify.com/album/16jBAWLT6PYdctE8zYBweN"
+      },
+      "artists": [
+        {
+          "name": "Delrady",
+          "url": "https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "I don't want this",
+      "url": "https://open.spotify.com/track/1Md8MolYstOXb4gYcTP8sd"
+    },
+    {
+      "album": {
         "name": "I Don't Want To Feel This Way!",
         "url": "https://open.spotify.com/album/4kMjiHH5W0868dxwDitBjA"
       },
@@ -16570,6 +16642,24 @@
     },
     {
       "album": {
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/3kz6Ml8VGqePeTsjNpS4sG"
+      },
+      "artists": [
+        {
+          "name": "Pedrik",
+          "url": "https://open.spotify.com/artist/6ZPqKslnkE3TLwsXhGAshA"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350163,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/4ubkvz948unL3kAUgR7nSI"
+    },
+    {
+      "album": {
         "name": "Loves&Cults",
         "url": "https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL"
       },
@@ -16715,7 +16805,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 321238,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/66hwliyazffboYVlZHX0Cl"
@@ -19239,7 +19329,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 266285,
       "name": "Lilo",
       "url": "https://open.spotify.com/track/3l03Y52XlVxMbtz5bsEzNZ"
@@ -19481,7 +19571,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 213953,
       "name": "Look The Other Way",
       "url": "https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I"
@@ -21717,7 +21807,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 139517,
       "name": "Motion",
       "url": "https://open.spotify.com/track/1EUsZMeBUtBIuqdGv3X7XZ"
@@ -22813,7 +22903,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 187494,
       "name": "Ninacamina",
       "url": "https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY"
@@ -23860,6 +23950,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/1BK3abzDYDxoVxByAhQ7pT"
+      },
+      "artists": [
+        {
+          "name": "Familiar Faces",
+          "url": "https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/7M4gsXulRg122cHm6bEFLh"
+    },
+    {
+      "album": {
         "name": "On The D Floor",
         "url": "https://open.spotify.com/album/1iYEBIQQ67U0VQ4xEyJVrT"
       },
@@ -24352,6 +24460,32 @@
     },
     {
       "album": {
+        "name": "Out Cold!",
+        "url": "https://open.spotify.com/album/6jdrdawyUSmMGMSMyLVQsa"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
+        },
+        {
+          "name": "Soak XP",
+          "url": "https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165732,
+      "name": "Out Cold!",
+      "url": "https://open.spotify.com/track/0bFbrt4TvyMHXii7zbipdk"
+    },
+    {
+      "album": {
         "name": "Out There",
         "url": "https://open.spotify.com/album/3eae86ngTES2NdFjffBlTM"
       },
@@ -24363,7 +24497,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 185350,
       "name": "Out There",
       "url": "https://open.spotify.com/track/3wt5z0WSTJfKhbUlAx2TlG"
@@ -27700,6 +27834,32 @@
     },
     {
       "album": {
+        "name": "Seamstress",
+        "url": "https://open.spotify.com/album/2o31cmM7MSpgnPrniQoS1t"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        },
+        {
+          "name": "Soshy",
+          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Seamstress - Radio Edit",
+      "url": "https://open.spotify.com/track/2tmhB9yzHhKQqzG0l72wg0"
+    },
+    {
+      "album": {
         "name": "Seasonal Love",
         "url": "https://open.spotify.com/album/5mwGjLKv9cloJ0CGqYZ0fs"
       },
@@ -27903,6 +28063,24 @@
       "duration_ms": 218880,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR"
+    },
+    {
+      "album": {
+        "name": "SELF CONTROL",
+        "url": "https://open.spotify.com/album/36JkMmgl3GehX21TQO5BcK"
+      },
+      "artists": [
+        {
+          "name": "DJ SCHEMA",
+          "url": "https://open.spotify.com/artist/3hZal3f00zwevclHIxqGyB"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "SELF CONTROL",
+      "url": "https://open.spotify.com/track/2wQzrsaE8GyfI67WN5wmcx"
     },
     {
       "album": {
@@ -29385,6 +29563,28 @@
       "duration_ms": 226766,
       "name": "Something To Give",
       "url": "https://open.spotify.com/track/4k06Yi1FVyJtRjEKdfxwTf"
+    },
+    {
+      "album": {
+        "name": "somethingsgonnaworkout",
+        "url": "https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b"
+      },
+      "artists": [
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244554,
+      "name": "somethingsgonnaworkout",
+      "url": "https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM"
     },
     {
       "album": {
@@ -32785,7 +32985,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 120000,
       "name": "Thinking Of U",
       "url": "https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY"
@@ -34935,6 +35135,24 @@
       "duration_ms": 331551,
       "name": "Want You To Know",
       "url": "https://open.spotify.com/track/34tJ9TMKTojbTwaiDBhtoh"
+    },
+    {
+      "album": {
+        "name": "Want2",
+        "url": "https://open.spotify.com/album/4oOCI4s4ZcmUUZXb2koQGr"
+      },
+      "artists": [
+        {
+          "name": "2touch",
+          "url": "https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181148,
+      "name": "Want2",
+      "url": "https://open.spotify.com/track/2qf55Lm6n8gBm3YPOFYTUc"
     },
     {
       "album": {

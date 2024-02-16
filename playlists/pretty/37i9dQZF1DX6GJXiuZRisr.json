@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1539230,
+  "num_followers": 1539386,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTA2YTczZDVjYWYyNDIwZmY3N2E2ZGMyNDU1ZGE1OWUxZWFmY2Qz",
+  "snapshot_id": "MCwyY2Q4ZGY4NTdlNjllYjgwYmMwOWMyY2UzYmIyYzNhYmQwOWQwMzg2",
   "tracks": [
     {
       "added_at": "2024-02-09 19:42:41",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
+        "name": "Otherside (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Otherside - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
         "name": "Tighter (feat. Jalja) [CamelPhat Remix]",
         "url": "https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
-        "name": "Otherside (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Otherside - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
         "name": "Through the Void",
         "url": "https://open.spotify.com/album/4QKRjD08xSGtdGXzJEh0x7"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 177560,
       "name": "Through the Void",
       "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
       },
       "artists": [
         {
           "name": "Boris Brejcha",
           "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
         }
       ],
       "duration_ms": 207360,
-      "name": "I Want You - Edit",
-      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
       },
       "artists": [
         {
           "name": "Boris Brejcha",
           "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
         }
       ],
       "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
+      "name": "I Want You - Edit",
+      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
         "name": "Into Dust",
         "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 291304,
       "name": "I Need You - Adriatique Remix",
       "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
     },
     {
       "added_at": "2024-02-09 19:42:41",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Nightvision EP",
-        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Skin On Skin",
-      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
-    },
-    {
-      "added_at": "2024-02-09 19:42:41",
-      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -2047,26 +2031,34 @@
     {
       "added_at": "2024-02-09 19:42:41",
       "album": {
-        "name": "Fire With Fire",
-        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "HRRTZ",
-          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 188799,
-      "name": "Fire With Fire",
-      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
+      "duration_ms": 172730,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
+    },
+    {
+      "added_at": "2024-02-09 19:42:41",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
     }
   ],
   "unique_name": "Night Rider",

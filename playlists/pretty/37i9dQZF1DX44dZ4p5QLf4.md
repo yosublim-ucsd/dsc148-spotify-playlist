@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,678 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,730 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 69 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
 | 70 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 |
 
-Snapshot ID: `MCwwNGY0NGI1YjkwMWVjZTI0OTM1ZmI4MGJmMzJhNjM3ZGQzODUxNWIw`
+Snapshot ID: `MCw4NGE0MjEzMzI1ZTM1NThjYTIzNmIxMGM0YTc5NzE1YTI3M2IwYjFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,857 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,883 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [¿Quién Cuida al Pueblo?](https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [¿Quién Cuida al Pueblo?](https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9) | 4:04 |
 | 100 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 |
 
-Snapshot ID: `MCxjNGY1YzJhODM4NGRlZmU0YThmOTllODY2OWU3ZmVkYjRhMTkzZWIy`
+Snapshot ID: `MCw4NjhkZmRhZDY4NWJiNWUxN2M4YWRhY2NkNGU1ODk3YjM2YTZhNTY3`

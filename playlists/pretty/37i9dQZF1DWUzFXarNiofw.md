@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,602 likes - 175 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,692 likes - 175 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 14 | [Jay Bird](https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK) | [Peyotoff](https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Jay Bird](https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ) | 2:49 |
 | 15 | [Escápate](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escápate](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 |
 | 16 | [Simple Man](https://open.spotify.com/track/7ENWxXOW7VsdcrI5AHgM0u) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Simple Man](https://open.spotify.com/album/5RleA8tUjdpG5vdwCP3j86) | 3:42 |
-| 17 | [Music Taste](https://open.spotify.com/track/2BB8jYi1XBZm6i6fdPj7cl) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [ACT II](https://open.spotify.com/album/5440kRKuikdmJwOiH0KCPm) | 3:03 |
+| 17 | [Music Taste](https://open.spotify.com/track/1X8IP5QvP7KDhi7qcBn3oj) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [ACT II](https://open.spotify.com/album/7dGOiilztnCxyDFDZ25oEn) | 3:03 |
 | 18 | [Nothing On You](https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Nothing On You](https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV) | 3:45 |
 | 19 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 |
 | 20 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 175 | [Luv Everybody](https://open.spotify.com/track/0rhdpXHATq8svRh4sQbYFz) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:42 |
 
-Snapshot ID: `MCxjYTg5YTg1Y2E5YzA1MmUxNzZjZDkxMzRmMDY5ZDIzMWJkYTA1ZTUx`
+Snapshot ID: `MCw2MjA3N2U4NTg3Yjk4ODM5OTRjNWNlMGM1ZmRkMTI0NDZkODZhYTI0`

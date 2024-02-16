@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 741953,
+  "num_followers": 741934,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTU2MSxkOTEyNWQ3YWMzYTc5YzA1NjA0YzQyMmNkYTNjZTNkNGNhNzY2ZDJi",
+  "snapshot_id": "NTU2MyxkYjYzMWU0YjRhMThlZWRjMjU1MTY1Mjk5MGE1NDQ5MWFiY2IwMzUy",
   "tracks": [
     {
       "added_at": "2024-02-06 11:40:07",
@@ -75,6 +75,30 @@
       "duration_ms": 153557,
       "name": "Burning Wish",
       "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
+    },
+    {
+      "added_at": "2024-02-15 11:30:43",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi"
+      },
+      "artists": [
+        {
+          "name": "Tomatow",
+          "url": "https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO"
+        },
+        {
+          "name": "SagaB",
+          "url": "https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU"
+        },
+        {
+          "name": "Adam Putra",
+          "url": "https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS"
+        }
+      ],
+      "duration_ms": 200138,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy"
     },
     {
       "added_at": "2024-02-13 11:37:18",
@@ -1895,22 +1919,6 @@
       "duration_ms": 177781,
       "name": "Omen",
       "url": "https://open.spotify.com/track/2bjtlNmO8Rf5Bl4rxNl3GJ"
-    },
-    {
-      "added_at": "2024-02-06 11:40:07",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/5QI7p02EaQO90V2i9lVxMY"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3"
     }
   ],
   "unique_name": "NCS Releases",

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 369895,
+  "num_followers": 369976,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWU0Y2QxOGMzODMxN2MxMTk1N2MwMzBmZTU2ZDRjMDE4ZDkyYzcx",
+  "snapshot_id": "MCxhMWExYjU0YzhlYmJmMmY0ZTFiZTY2MDM4ZTcxODFlMDBjOGQ1Y2I3",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144585,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "The Harder They Come (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144585,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+        "name": "Duck and Cover",
+        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
       },
       "artists": [
         {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+      "duration_ms": 121666,
+      "name": "Road Rash",
+      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -803,34 +803,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Duck and Cover",
-        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
       "artists": [
         {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 121666,
-      "name": "Road Rash",
-      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Big Daddy Multitude (2010 Re-Issue)",
-        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Mr. Smiley",
-      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 226333,
       "name": "Silence Is Golden But Duct Tape Is Silver",
       "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Big Daddy Multitude (2010 Re-Issue)",
+        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Honey I'm Homely",
         "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 203933,
       "name": "Lost Again",
       "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
-      },
-      "artists": [
-        {
-          "name": "The Planet Smashers",
-          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
+      },
+      "artists": [
+        {
+          "name": "The Planet Smashers",
+          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
     },
     {
       "added_at": "2024-01-19 06:00:00",

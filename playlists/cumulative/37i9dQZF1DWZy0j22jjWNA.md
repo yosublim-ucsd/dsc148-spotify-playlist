@@ -4,7 +4,7 @@
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-103 songs - 6 hr 49 min
+104 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Fill My Cup](https://open.spotify.com/track/2YDVxQTu09686BaIvMVI2Q) | [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [West Coast](https://open.spotify.com/album/6CiKLOWD4XuETGf8SUJNpS) | 4:49 | 2020-09-04 | 2022-07-29 |
 | [fire](https://open.spotify.com/track/1wj2rMWn0jqMSFzwcUfKyE) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/2TdZAtLwl4wurksd6oYRnt) | 3:09 | 2020-09-04 | 2022-12-24 |
 | [Fire](https://open.spotify.com/track/2rBIC9Uc5qZeBjJvWulFTN) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/0ldCKrt8rkkFzdWRiZHczc) | 3:09 | 2020-09-04 | 2024-02-14 |
+| [Fire](https://open.spotify.com/track/3vbtO7zDgu9VSUO5NyFwK9) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/4SzzC6T3TX9kSUB0UpXDvb) | 3:09 | 2020-09-04 |  |
 | [fire](https://open.spotify.com/track/5PT88kzZEjOlIQqXtdxfq3) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0) | 3:09 | 2020-09-04 | 2022-07-29 |
 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 | 2020-09-04 |  |
 | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD) | 3:33 | 2020-09-04 | 2023-07-23 |
@@ -45,7 +46,7 @@
 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 | 2020-09-04 |  |
 | [Go With You](https://open.spotify.com/track/103IQVYrK2iMnmLfhzK4uZ) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [Thresholds](https://open.spotify.com/album/7xD93T4SUsPZonitlcFLGH) | 3:31 | 2020-09-04 | 2022-07-29 |
 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 | 2020-09-04 |  |
-| [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 | 2020-09-04 |  |
+| [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 | 2020-09-04 | 2024-02-16 |
 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 | 2020-09-04 |  |
 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/299R8rSX3D67STCYfh6LZn) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful](https://open.spotify.com/album/1RLsgKm0afhZsGZFujcXTq) | 4:06 | 2020-09-04 | 2022-09-16 |
 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 | 2020-09-04 |  |

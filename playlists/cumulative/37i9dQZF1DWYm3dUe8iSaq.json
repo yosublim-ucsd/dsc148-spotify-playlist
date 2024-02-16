@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 201573,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5JqEXcyNdBfhFiQAiEzqKz"
@@ -4108,6 +4108,24 @@
       "duration_ms": 219848,
       "name": "Venus",
       "url": "https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R"
+    },
+    {
+      "album": {
+        "name": "Wandering Souls",
+        "url": "https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Wandering Souls",
+      "url": "https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy"
     },
     {
       "album": {

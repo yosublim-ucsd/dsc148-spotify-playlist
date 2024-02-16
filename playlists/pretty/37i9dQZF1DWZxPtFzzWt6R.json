@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 78535,
+  "num_followers": 78584,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTEyMjU1YTQ0Y2MzMGU4NGNmNTc1NTE5MzIzOGFiOWI1MDE1MTIy",
+  "snapshot_id": "MCwyNTFkNzk0YmIxOTVjOGQwNjdiZmIyODRiOWRlMmViMjZmNmZlYWJh",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:09",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Eu N\u00e3o T\u00f4 Preocupado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 151388,
-      "name": "Eu N\u00e3o T\u00f4 Preocupado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "Amor a Primeira Vista",
         "url": "https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 177831,
       "name": "Amor a Primeira Vista",
       "url": "https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Eu N\u00e3o T\u00f4 Preocupado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 151388,
+      "name": "Eu N\u00e3o T\u00f4 Preocupado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
-        "url": "https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS"
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
       },
       "artists": [
         {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
-        },
-        {
-          "name": "DD Junior",
-          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 187937,
-      "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
-      "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+        "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
+        "url": "https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+        },
+        {
+          "name": "DD Junior",
+          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+      "duration_ms": 187937,
+      "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
+      "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
-        "name": "Eu Vou para o C\u00e9u",
-        "url": "https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        }
-      ],
-      "duration_ms": 201090,
-      "name": "Eu Vou para o C\u00e9u",
-      "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
         "name": "De Volta \u00e0 Inoc\u00eancia",
         "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 288012,
       "name": "De Volta \u00e0 Inoc\u00eancia",
       "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
+        "name": "Eu Vou para o C\u00e9u",
+        "url": "https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 201090,
+      "name": "Eu Vou para o C\u00e9u",
+      "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
     },
     {
       "added_at": "2024-01-05 13:32:09",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-01-05 13:32:09",
       "album": {
+        "name": "Ref\u00e9m do Caminh\u00e3o",
+        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 276088,
+      "name": "Ref\u00e9m do Caminh\u00e3o",
+      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
+    },
+    {
+      "added_at": "2024-01-05 13:32:09",
+      "album": {
         "name": "Aquele Que Morreu na Cruz",
         "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 203769,
       "name": "Aquele Que Morreu na Cruz",
       "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
-    },
-    {
-      "added_at": "2024-01-05 13:32:09",
-      "album": {
-        "name": "Ref\u00e9m do Caminh\u00e3o",
-        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 276088,
-      "name": "Ref\u00e9m do Caminh\u00e3o",
-      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
     },
     {
       "added_at": "2024-01-05 13:32:09",

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-593 songs - 1 day 11 hr 20 min
+594 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 | 2023-11-10 |
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Calling Your Bluff](https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol \- EP](https://open.spotify.com/album/1hEQhjpGQpqDjLE9iYt1bH) | 3:23 | 2022-06-10 | 2022-07-29 |
-| [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 |  |
+| [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 | 2024-02-16 |
 | [Can’t Cry Anymore \(feat\. Bri Bagwell\)](https://open.spotify.com/track/3yz6BlKzJ2baiuIUC6t3FS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:34 | 2023-10-27 | 2023-12-02 |
 | [Car Ride Home](https://open.spotify.com/track/5oiyEMZL6oA50VLnbas2hE) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Car Ride Home](https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e) | 4:35 | 2023-04-28 | 2023-05-20 |
 | [Carolina Blue](https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [Carolina Blue](https://open.spotify.com/album/0fkNQ1049j1r0Dj4oF6hRn) | 3:41 | 2023-01-13 | 2023-06-24 |
@@ -404,6 +404,7 @@
 | [Redneckin'](https://open.spotify.com/track/0W4P8xVdAjZyCwdjAY6PYr) | [Billie Jo](https://open.spotify.com/artist/4ZVTAR2mX6p9zWJgG3xu1H) | [Redneckin'](https://open.spotify.com/album/4M1RKPDbWWE7XYrgRjiCk9) | 3:02 | 2022-02-18 | 2022-05-20 |
 | [Regret](https://open.spotify.com/track/2qo3jf4Q534hikGPA1HDY8) | [Brendyn Kyle](https://open.spotify.com/artist/7Bf6Wz0HefBc51pffYVf3j), [Sarah Hobbs](https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI) | [Regret](https://open.spotify.com/album/1HYLMZdDYBFlisPgJK4Z4V) | 4:05 | 2022-02-04 | 2022-07-27 |
 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 | 2021-12-17 | 2023-09-02 |
+| [Rest of Our Lives \(Maddie’s Song\)](https://open.spotify.com/track/74ZjWAMTUtKU5mAdneJJ5L) | [Cannon Brand](https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K) | [Rest of Our Lives \(Maddie’s Song\)](https://open.spotify.com/album/65IVooocQgErBxb41WauME) | 3:52 | 2024-02-09 |  |
 | [Rest of Texas](https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Rest of Texas](https://open.spotify.com/album/74WcvgHzoOcsU85iiAEl9a) | 3:28 | 2022-03-04 | 2022-08-22 |
 | [Restless Spirits](https://open.spotify.com/track/2j20WdSsdwdajj5ikGGKX5) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Restless Spirits](https://open.spotify.com/album/30Jp6NWXNluqn6LlwgzmvT) | 3:32 | 2021-12-17 | 2022-03-19 |
 | [Rhinestoned](https://open.spotify.com/track/7m5sOfZ6VmMbKyrccgPEDN) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Rhinestoned](https://open.spotify.com/album/3bp5Lk9hQ91wrtyoQW1UHS) | 3:44 | 2021-12-17 | 2022-07-29 |

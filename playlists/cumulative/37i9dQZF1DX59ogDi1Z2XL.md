@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <a href="spotify:artist:2jwmP4TgzTGqjCfcXMDayW">FRVRFRIDAY</a>
 
-1,357 songs - 2 day 14 hr 49 min
+1,358 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/track/2T0Wl5G3ZyVSbu9Zy6ikMw) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Planet Giza "On The Radar" Freestyle](https://open.spotify.com/album/4RVeRwHtmm7cSoafWYb7u0) | 2:05 | 2023-12-10 |  |
 | [PLEASE, BE MY GUEST](https://open.spotify.com/track/3l7wSJVlbHqaNkXWLRs0Y0) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [PLEASE, BE MY GUEST](https://open.spotify.com/album/3GzDXKVemFml7H7VkcW0n4) | 2:23 | 2023-04-28 | 2023-05-27 |
 | [Pleasure](https://open.spotify.com/track/36KkEDXgq4ruKeXmKMN7oW) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Pleasure](https://open.spotify.com/album/42bTZNENLihgDs0u61QI61) | 1:59 | 2023-03-31 | 2023-04-22 |
+| [Polaroid](https://open.spotify.com/track/0vsu7i24ygmPbef9hURNSH) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Polaroid](https://open.spotify.com/album/61ONDrW4ZxgajZrXRioYdq) | 3:21 | 2024-02-09 |  |
 | [Politics As Usual](https://open.spotify.com/track/29aELZNPrbzYrxVyA98sFz) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI), [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [RXGSZN](https://open.spotify.com/album/54QHxg1zyRs1e2zK4dGJUd) | 3:57 | 2022-06-24 | 2022-08-06 |
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-24 | 2023-04-29 |
 | [Pop](https://open.spotify.com/track/4VTiFMpodh0hNCH8Uva0WO) | [TkMN](https://open.spotify.com/artist/61A2QGJWZ3b8mlVtQ552qU) | [Popstar Tk](https://open.spotify.com/album/5yJFHqXnXqxZQoAYwrq0rQ) | 2:33 | 2022-08-12 | 2022-11-05 |

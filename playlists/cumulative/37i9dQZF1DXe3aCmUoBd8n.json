@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Ya Wafiya",
+        "url": "https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341187,
+      "name": "Ya Wafiya",
+      "url": "https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS"
+    },
+    {
+      "album": {
         "name": "Yama",
         "url": "https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Dynamite Shakers",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : MDNS",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Promis Le Ciel",
+        "url": "https://open.spotify.com/album/4BvwRGHPD0geln8A2hda3e"
+      },
+      "artists": [
+        {
+          "name": "Delgres",
+          "url": "https://open.spotify.com/artist/1vdBmNoVYcMaaxNbueb4H3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181964,
+      "name": "Autorisation",
+      "url": "https://open.spotify.com/track/3ni2TkTPh9TlAI9jdrOB63"
+    },
+    {
+      "album": {
         "name": "B/W Rainbow",
         "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 135340,
       "name": "BIG",
       "url": "https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG"
+    },
+    {
+      "album": {
+        "name": "The Cage & The Crown : Chapter I",
+        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+      },
+      "artists": [
+        {
+          "name": "HEADKEYZ",
+          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303933,
+      "name": "Big Bad World",
+      "url": "https://open.spotify.com/track/5Kxvk9n1gYl1AbXHI2r8Nk"
     },
     {
       "album": {
@@ -729,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Feel the Shine",
+        "url": "https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181697,
+      "name": "Feel the Shine",
+      "url": "https://open.spotify.com/track/0QBBOjiKJKavnRED86iGUY"
+    },
+    {
+      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/0Y2w2sOj4Ob7JZmmD5ZX0r"
       },
@@ -852,7 +906,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 261372,
       "name": "Giant Jack",
       "url": "https://open.spotify.com/track/2ybS8N0WquvrC9qxarCFk3"
@@ -942,7 +996,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206873,
       "name": "Horns",
       "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
@@ -960,7 +1014,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 251440,
       "name": "Hotline",
       "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
@@ -1111,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s not the end",
+        "url": "https://open.spotify.com/album/3W9KQvrIlQ44f9PGuAx0ac"
+      },
+      "artists": [
+        {
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190847,
+      "name": "It\u2019s not the end",
+      "url": "https://open.spotify.com/track/4w6UY7JZIF75TgLWPybfUm"
+    },
+    {
+      "album": {
         "name": "JACK IS A SOCIOPATH",
         "url": "https://open.spotify.com/album/6j04zM167yp6INtUTKHdej"
       },
@@ -1212,7 +1284,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 214037,
       "name": "Les magazines",
       "url": "https://open.spotify.com/track/1OoRHpcCl1afYCqDaBpa85"
@@ -1230,7 +1302,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 156586,
       "name": "L\u00e9sinight",
       "url": "https://open.spotify.com/track/0kSs8D9jHyK9JLwMLb37Ru"
@@ -1302,7 +1374,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 155000,
       "name": "mon amour",
       "url": "https://open.spotify.com/track/0vofjntlF86cB5drIaSohe"
@@ -1608,7 +1680,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 184547,
       "name": "Promis Le Ciel",
       "url": "https://open.spotify.com/track/5rB3ktoDrcvCQ6wSGo6Ec8"
@@ -1828,6 +1900,24 @@
       "duration_ms": 263187,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F"
+    },
+    {
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/6n9BWTvWeTpd0dnLHv0xdH"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/6nFyCnc6iKU5G2u8GIE6um"
     },
     {
       "album": {
@@ -2325,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Tiny Actions \\ Unexpected Results",
+        "url": "https://open.spotify.com/album/547AxZceVBxf3NchgpdFaB"
+      },
+      "artists": [
+        {
+          "name": "FENCES \\\\\\\\",
+          "url": "https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325465,
+      "name": "Tiny Actions \\ Unexpected Results",
+      "url": "https://open.spotify.com/track/0VnWBIxITcm9sV4qPZShM3"
+    },
+    {
+      "album": {
         "name": "To A Mouse",
         "url": "https://open.spotify.com/album/0VpFwTHSRXM4gjR2XwNtLK"
       },
@@ -2397,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "I Scream",
+        "url": "https://open.spotify.com/album/1pDl7B0Nq51IxQ1rDaJc3r"
+      },
+      "artists": [
+        {
+          "name": "F.F.F.",
+          "url": "https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241987,
+      "name": "Tout ce qu'on FFFait",
+      "url": "https://open.spotify.com/track/3YXe1LMvcD1Jxyl5R4c7fp"
+    },
+    {
+      "album": {
         "name": "Bitter Memory",
         "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
       },
@@ -2426,7 +2552,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 262439,
       "name": "Trouble Don't Last",
       "url": "https://open.spotify.com/track/6XGbbKHaw25B4jGg7D9sN6"
@@ -2502,6 +2628,24 @@
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "album": {
+        "name": "Still.",
+        "url": "https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud"
+      },
+      "artists": [
+        {
+          "name": "Circles",
+          "url": "https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC"
     },
     {
       "album": {

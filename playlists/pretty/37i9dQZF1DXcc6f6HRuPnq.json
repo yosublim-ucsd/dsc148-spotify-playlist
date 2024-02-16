@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 151701,
+  "num_followers": 151787,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
+  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Blue Jean Blues (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "Still Frame Replay",
         "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 170320,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Blue Jean Blues (2005 Remaster)",
-      "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Bad Spell (Acoustic)",
-        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 194970,
-      "name": "Bad Spell - Acoustic",
-      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Track Record",
         "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 290106,
-      "name": "Night Time Is the Right Time",
-      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 373933,
       "name": "Same Old Blues Again (2007 - Remaster)",
       "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Night Time Is the Right Time",
+      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+        "name": "Old Bones, New Fire",
+        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
       },
       "artists": [
         {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+          "name": "Miraculous Mule",
+          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
         }
       ],
-      "duration_ms": 292520,
-      "name": "Empty Bed Blues - Mono",
-      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
+      "duration_ms": 187524,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Old Bones, New Fire",
-        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
       "artists": [
         {
-          "name": "Miraculous Mule",
-          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 187524,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+      "duration_ms": 292520,
+      "name": "Empty Bed Blues - Mono",
+      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
     },
     {
       "added_at": "2023-10-05 08:53:30",

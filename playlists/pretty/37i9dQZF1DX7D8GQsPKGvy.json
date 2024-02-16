@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 822582,
+  "num_followers": 823031,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWMzM2ZhNzg5NTAzMDZlN2FhMjUxMzlhY2QyYjRhMWVhNjQzNWE1",
+  "snapshot_id": "MCxmMzMwNGFiODMxNzViZDZmZmY0NThiNjFkNjk5OWEyNWU3YTM2OGRk",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "...Ready For It? (BloodPop\u00ae Remix)",
+        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "duration_ms": 189508,
+      "name": "...Ready For It? - BloodPop\u00ae Remix",
+      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Kings & Queens (The Remixes)",
         "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "...Ready For It? (BloodPop\u00ae Remix)",
-        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BloodPop\u00ae",
-          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
-        }
-      ],
-      "duration_ms": 189508,
-      "name": "...Ready For It? - BloodPop\u00ae Remix",
-      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Malibu (The Remixes)",
         "url": "https://open.spotify.com/album/4kWPS9C0JwMh9bdeesSuAf"
       },
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Love Myself (Remixes)",
+        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Ian Spurrier",
+          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Love Myself - KREAM Remix",
+      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "I Know You (Remixes) (feat. Bastille)",
         "url": "https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 183344,
       "name": "I Know You (feat. Bastille) - Vigiland Remix",
       "url": "https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Love Myself (Remixes)",
-        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Ian Spurrier",
-          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Love Myself - KREAM Remix",
-      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Promises (with Sam Smith) [Remixes]",
-        "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Promises (with Sam Smith) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Happier (Remixes)",
         "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 158095,
       "name": "Happier - Breathe Carolina Remix",
       "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Promises (with Sam Smith) [Remixes]",
+        "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190416,
+      "name": "Promises (with Sam Smith) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1591,30 +1591,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Final Song (Diplo & Jauz Remix)",
-        "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Final Song - Diplo & Jauz Remix",
-      "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Silence (Ti\u00ebsto's Big Room Remix)",
         "url": "https://open.spotify.com/album/6VfxEu1SHtWOF5H9vGUMw5"
       },
@@ -1635,6 +1611,30 @@
       "duration_ms": 202153,
       "name": "Silence - Ti\u00ebsto's Big Room Remix",
       "url": "https://open.spotify.com/track/3AUW7mAGx1BICBWqsuFgh4"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Final Song (Diplo & Jauz Remix)",
+        "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Final Song - Diplo & Jauz Remix",
+      "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Ciao Adios (Remixes)",
-        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Ciao Adios - Burak Yeter Remix",
-      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Still Falling For You (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
       },
@@ -1975,6 +1955,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Ciao Adios (Remixes)",
+        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Ciao Adios - Burak Yeter Remix",
+      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "September Song (Remixes)",
         "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
@@ -1991,54 +1991,6 @@
       "duration_ms": 215030,
       "name": "September Song - Indian Summer Mix",
       "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Bang Bang (Remixes)",
-        "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Bang Bang - 3LAU Remix",
-      "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "First Time (Remixes)",
-        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "First Time - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2071,6 +2023,54 @@
       "duration_ms": 231688,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
       "url": "https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Bang Bang (Remixes)",
+        "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Bang Bang - 3LAU Remix",
+      "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2163,26 +2163,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Don't Leave (Remixes)",
-        "url": "https://open.spotify.com/album/5kNRvjEADryQBiCetUphx0"
+        "name": "Mama (Remixes)",
+        "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 235893,
-      "name": "Don't Leave - Gryffin Remix",
-      "url": "https://open.spotify.com/track/2ygxpFIvfVzti5zcpkSmue"
+      "duration_ms": 179887,
+      "name": "Mama - Syn Cole Remix",
+      "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
     }
   ],
   "unique_name": "Remix Hits",

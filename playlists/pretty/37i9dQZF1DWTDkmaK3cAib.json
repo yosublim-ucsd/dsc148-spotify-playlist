@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 44205,
+  "num_followers": 44274,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmEzNjljMjFiMmRkNTIyZDAyNTg4ODRjNTUxYjRkZDExOWJlMzIz",
+  "snapshot_id": "MCwyZGQ3MmNhYTg5Y2JkZWVmNjZmYjgyYWRkYjE4ZWNiNDBkZGNlZTRi",
   "tracks": [
     {
       "added_at": "2024-02-12 20:16:34",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "Young Rich & In Love",
-      "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
-    },
-    {
-      "added_at": "2024-02-12 20:16:34",
-      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 165880,
       "name": "Le Pido a DIOS",
       "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
+    },
+    {
+      "added_at": "2024-02-12 20:16:34",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "Young Rich & In Love",
+      "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
     },
     {
       "added_at": "2024-02-12 20:16:34",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
-    },
-    {
-      "added_at": "2024-02-12 20:16:34",
-      "album": {
         "name": "Apolonio",
         "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x"
+    },
+    {
+      "added_at": "2024-02-12 20:16:34",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2024-02-12 20:16:34",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
+    },
+    {
+      "added_at": "2024-02-12 20:16:34",
+      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
@@ -943,34 +959,22 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+        "name": "2 A.M.",
+        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
-    },
-    {
-      "added_at": "2024-02-12 20:16:34",
-      "album": {
-        "name": "Ukiyo",
-        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
-      },
-      "artists": [
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        },
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 149667,
-      "name": "Ukiyo",
-      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
+      "duration_ms": 141818,
+      "name": "Enculado - feat. Nsqk",
+      "url": "https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e"
     },
     {
       "added_at": "2024-02-12 20:16:34",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-02-12 20:16:34",
       "album": {
-        "name": "2 A.M.",
-        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
       },
       "artists": [
         {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Enculado - feat. Nsqk",
-      "url": "https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e"
+      "duration_ms": 149667,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
     },
     {
       "added_at": "2024-02-12 20:16:34",

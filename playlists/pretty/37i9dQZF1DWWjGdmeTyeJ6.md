@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: EFÉ\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,246 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,374 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Ninacamina](https://open.spotify.com/track/7mnnneke9KNVkwjPmMB7EY) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Ninacamina](https://open.spotify.com/album/3ZbOtABntVluWh1wtzmGMv) | 3:07 |
 | 100 | [Avoid The News](https://open.spotify.com/track/4mie7Rts9BECpRDwgdmwqa) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Avoid The News](https://open.spotify.com/album/2bFzZYDVRGX0e4hQNhHA1O) | 4:35 |
 
-Snapshot ID: `MCw1ZjMwM2NkYzg3MGIyYjNlY2I1MTM3MmRlN2Y2ZDgyZGI3ODQxZGQw`
+Snapshot ID: `MCw3NmQ2MjVhNTZjNDNmYzU1MDJiNzIyZjBjZjNmMjkwMjU4ZTZjOTFi`

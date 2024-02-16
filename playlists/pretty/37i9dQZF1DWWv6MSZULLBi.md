@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,465 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,463 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 62 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 |
 | 63 | [Bubba](https://open.spotify.com/track/635z38XAiXqvFfz6NVMO0y) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Bubba](https://open.spotify.com/album/1du8MwctLqseKPRs9TXP6x) | 3:09 |
 | 64 | [another sublet](https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [another sublet](https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG) | 3:02 |
-| 65 | [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 |
+| 65 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 66 | [Heart Shaped Locket](https://open.spotify.com/track/5oaThEaulai5NDF9I0kz1T) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Keepsakes](https://open.spotify.com/album/5saWLgRVHZoGDtopmWkyMv) | 3:09 |
 | 67 | [Flowers on the Fire Escape](https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/2QOpujXPtpuOIbieP3eSS9) | 3:56 |
 | 68 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Hard to Say Goodnight](https://open.spotify.com/track/763AWCvF9LLMyf4febXmFK) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Hard to Say Goodnight](https://open.spotify.com/album/10DSPgSF8Ae6dy4ITIz1HS) | 3:55 |
 | 100 | [Birds Of San Francisco](https://open.spotify.com/track/7j3cj3HJThPKIu6yqSJvm0) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Birds Of San Francisco](https://open.spotify.com/album/3qdgHPEHBc8QgfU5nCtEDS) | 3:30 |
 
-Snapshot ID: `MCxiYjU1NTU5OTQyNzUyMDg3ZDE5NThiNGZjMjVkYjJjNzRiZmQyMmEz`
+Snapshot ID: `MCw1NGIyNDczY2RmOWExZTBhYjI4MTFlMzBlOTY2NzllOWE5Yjc0OTE4`

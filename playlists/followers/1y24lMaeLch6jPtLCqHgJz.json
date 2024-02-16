@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 85958,
+  "2024-02-16": 85952,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -1895,6 +1895,24 @@
       "duration_ms": 191250,
       "name": "Empty City",
       "url": "https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD"
+    },
+    {
+      "album": {
+        "name": "Energy Flow Eternal",
+        "url": "https://open.spotify.com/album/67INXDCZGg6iHi9gxJVCxm"
+      },
+      "artists": [
+        {
+          "name": "Isildur",
+          "url": "https://open.spotify.com/artist/0aFceuqfrsUjmily2OAgW4"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126718,
+      "name": "Energy Flow Eternal",
+      "url": "https://open.spotify.com/track/66TbpLvQxLqEctvObaZL3y"
     },
     {
       "album": {

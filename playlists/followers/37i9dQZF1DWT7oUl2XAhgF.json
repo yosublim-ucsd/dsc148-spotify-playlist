@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 208858,
+  "2024-02-16": 208893,
   "date_first_scraped": "2022-05-14",
   "description": "A new take on a classic sound. Cover: Britti",
   "name": "Retro Soul",
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 216155,
       "name": "Don't You Ever Change",
       "url": "https://open.spotify.com/track/6eUofPDyNPz5ZuHVHCJtJC"
@@ -3312,6 +3312,28 @@
     },
     {
       "album": {
+        "name": "Let Me Feel Your Charm - Spotify Singles",
+        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162029,
+      "name": "Let Me Feel Your Charm - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
+    },
+    {
+      "album": {
         "name": "Lift",
         "url": "https://open.spotify.com/album/7IMTCYMmhoq95Dso180h8v"
       },
@@ -4679,7 +4701,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 239213,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7"
@@ -5168,6 +5190,24 @@
     },
     {
       "album": {
+        "name": "Say You Love Me",
+        "url": "https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285428,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h"
+    },
+    {
+      "album": {
         "name": "Operator, Please / Seasons of Trouble",
         "url": "https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF"
       },
@@ -5569,7 +5609,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 201693,
       "name": "So Tired",
       "url": "https://open.spotify.com/track/3X9D9fDfMFePPAhDnhXcBD"

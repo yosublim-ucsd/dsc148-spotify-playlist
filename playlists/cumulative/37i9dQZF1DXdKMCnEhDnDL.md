@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Hannah Mae
 
-211 songs - 10 hr 52 min
+212 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 | 2024-02-13 |  |
 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 | 2023-12-21 |  |
 | [17 Miljoen Mensen \- Live @538 in Ahoy](https://open.spotify.com/track/7e42rjxCt8tPjglU9VyBcz) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [17 Miljoen Mensen \(Live @538 in Ahoy\)](https://open.spotify.com/album/5yEomRiNf4W4hXsNiuZVIX) | 1:47 | 2023-02-24 | 2023-06-15 |
-| [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-06-14 |  |
+| [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-06-14 | 2024-02-16 |
 | [Achterop](https://open.spotify.com/track/5JtmyVfB56KjesfcJlIQAA) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Achterop](https://open.spotify.com/album/2tgx3JQhnAX4QbyBKki3fT) | 2:40 | 2023-02-24 | 2023-11-11 |
 | [Adem In](https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Adem In](https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf) | 2:24 | 2023-12-07 |  |
 | [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2023-02-24 |  |
@@ -51,6 +51,7 @@
 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 | 2023-02-24 | 2023-03-18 |
 | [Break My Heart](https://open.spotify.com/track/2PwqZgaeEsJ1SAPF6RmMmm) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Break My Heart](https://open.spotify.com/album/15hXWoOGHJ59KPpFQjwuCU) | 3:09 | 2023-09-07 |  |
 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 | 2023-12-07 |  |
+| [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 | 2024-02-15 |  |
 | [Daar Gaat Ze](https://open.spotify.com/track/2vFzC766RC2m36ywFyj09S) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Hoezo?](https://open.spotify.com/album/05g7zPOvUac2eSSDEUxXqs) | 3:49 | 2024-02-13 |  |
 | [Dan Volg Je Haar Benen](https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Dan Volg Je Haar Benen](https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI) | 3:00 | 2024-02-13 |  |
 | [Dansen Aan Zee](https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:34 | 2024-02-13 |  |

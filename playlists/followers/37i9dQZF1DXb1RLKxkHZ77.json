@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 332349,
+  "2024-02-16": 332446,
   "date_first_scraped": "2022-05-30",
   "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Hael Husaini",
   "name": "Carta Malaysia 50",
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 173720,
       "name": "Bunga Hati",
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
@@ -3172,6 +3172,28 @@
     },
     {
       "album": {
+        "name": "Kamu Adalah",
+        "url": "https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo"
+      },
+      "artists": [
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        },
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286698,
+      "name": "Kamu Adalah",
+      "url": "https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb"
+    },
+    {
+      "album": {
         "name": "Kamu Kurang Usaha",
         "url": "https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd"
       },
@@ -3523,6 +3545,24 @@
       "duration_ms": 276019,
       "name": "Kisah Sempurna",
       "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
+    },
+    {
+      "album": {
+        "name": "Kisah Yang Lain",
+        "url": "https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242822,
+      "name": "Kisah Yang Lain",
+      "url": "https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az"
     },
     {
       "album": {
@@ -5154,6 +5194,24 @@
     },
     {
       "album": {
+        "name": "Rasa Sayang Sayang",
+        "url": "https://open.spotify.com/album/27fZnvCjPV4hHmbtaSbeEf"
+      },
+      "artists": [
+        {
+          "name": "Amsyar Leee",
+          "url": "https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216439,
+      "name": "Rasa Sayang Sayang",
+      "url": "https://open.spotify.com/track/6QlxjFqx0ntOi7KEmVb757"
+    },
+    {
+      "album": {
         "name": "Raya Last Minit",
         "url": "https://open.spotify.com/album/7vadqVTyvXaNgmTJcUfjHY"
       },
@@ -6243,7 +6301,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
@@ -7259,7 +7317,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"

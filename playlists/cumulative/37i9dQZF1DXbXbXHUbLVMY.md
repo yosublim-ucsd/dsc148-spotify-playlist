@@ -2,9 +2,9 @@
 
 ### [100 \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXbXbXHUbLVMY)
 
-> Skandinavisk hiphop som holder det 100! 🚨 feat\. Jonas Benyoub
+> Skandinavisk hiphop som holder det 100! 🚨 feat\. Marstein
 
-139 songs - 5 hr 58 min
+141 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,14 +43,14 @@
 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 | 2024-02-08 |  |
 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 | 2023-09-21 |  |
 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 | 2023-09-21 |  |
-| [El Capitan](https://open.spotify.com/track/50pLigCzqMbGWECXW3P4yR) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe Baqwa](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [El Capitan](https://open.spotify.com/album/25kQ3wHzvTx8jAYlRPwwpI) | 2:59 | 2024-01-18 |  |
+| [El Capitan](https://open.spotify.com/track/50pLigCzqMbGWECXW3P4yR) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe Baqwa](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [El Capitan](https://open.spotify.com/album/25kQ3wHzvTx8jAYlRPwwpI) | 2:59 | 2024-01-18 | 2024-02-16 |
 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-02-01 |  |
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-09-21 |  |
 | [Eneste jeg vil](https://open.spotify.com/track/0psfsKyQhgh1ZoezmBNtNC) | [Larsiveli](https://open.spotify.com/artist/3xQ7Td9gKHIT3J7w7e2CeW) | [Bitterhetens Hotell](https://open.spotify.com/album/4TA1oZbrSZWKV1jmLVB02m) | 2:43 | 2023-10-19 | 2023-11-11 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-09 |  |
 | [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 | 2024-01-12 |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 |  |
-| [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 |  |
+| [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 | 2024-02-16 |
 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 | 2024-01-12 |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 | 2023-10-23 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 | 2023-09-30 |
@@ -92,6 +92,7 @@
 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 | 2023-09-21 |  |
 | [Mariachi](https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Mariachi](https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL) | 2:42 | 2023-10-12 |  |
 | [Marokko Barcelona Colorado California](https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT) | [Vågard](https://open.spotify.com/artist/6ZXRSfJDOksQ4bLcqXS71g), [Girson](https://open.spotify.com/artist/62DjNN5uijrpERaMexkBjE) | [Notoriske B.O.G.](https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O) | 4:12 | 2023-09-21 | 2023-10-13 |
+| [Matrisen](https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Matrisen](https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj) | 3:15 | 2024-02-15 |  |
 | [MATRIX](https://open.spotify.com/track/4butcwjYBTovLwdjYsGdz9) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:26 | 2023-10-19 | 2023-12-09 |
 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 |  |
@@ -134,6 +135,7 @@
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 |  |
 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-09-21 | 2024-02-02 |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-11 |  |
+| [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 |  |
 | [Tango](https://open.spotify.com/track/5TGveWo66AyNkhEbJyhhfY) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [KØBER](https://open.spotify.com/artist/60a2bBHgTEfBJxFeJykcbD) | [Tango](https://open.spotify.com/album/0ipce2oa34OW7g2g6mNhvQ) | 2:14 | 2023-09-21 | 2023-09-29 |
 | [Top Notch](https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Top Notch](https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki) | 2:28 | 2024-01-11 | 2024-02-09 |
 | [TRILLE](https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [TRILLE](https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D) | 2:42 | 2024-01-04 | 2024-01-06 |

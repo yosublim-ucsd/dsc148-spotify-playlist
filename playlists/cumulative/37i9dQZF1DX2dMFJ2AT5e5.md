@@ -4,7 +4,7 @@
 
 > ¿A qué suena un corazón roto? 💔 Visita el Breakup Room by AleeBaes, regístrate <a href="https://www.eventbrite.com/e/breakup\-room\-tickets\-808081622887//"> aquí</a>.
 
-175 songs - 9 hr 54 min
+179 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Fiera](https://open.spotify.com/track/2KOOLeocIJWFrCBszd6IT3) | [Dai](https://open.spotify.com/artist/3APwkgBfxLDQCFodrLma7x), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Fiera](https://open.spotify.com/album/0b52LeE5GAUeqsi4MlFhal) | 3:33 | 2021-07-16 | 2024-02-09 |
 | [Final Pages](https://open.spotify.com/track/5GU5ziuNYyse6EpyvTJ8XK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Intergalactic Sneakers](https://open.spotify.com/album/4wwSUrChmw5YNsVqVEFfCS) | 2:33 | 2021-07-16 | 2024-02-09 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2024-02-08 |  |
+| [Fluye](https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:35 | 2024-02-16 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2024-02-08 |  |
 | [Fungi](https://open.spotify.com/track/1hF8vOcCOSlADco5bloJSc) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Brume](https://open.spotify.com/album/7mLVBJM6IK5vdvvW9DVAZ5) | 2:52 | 2021-07-16 | 2024-02-09 |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2021-07-16 | 2024-02-09 |
@@ -131,11 +132,14 @@
 | [Pale](https://open.spotify.com/track/0DG6jgOEXd7cOy2gI7lRDv) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:01 | 2021-07-16 | 2024-02-09 |
 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 | 2021-07-16 | 2024-02-09 |
 | [Quarantime](https://open.spotify.com/track/3S6MEKDDhU7nCWewy236t6) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:09 | 2021-07-16 | 2024-02-09 |
+| [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 | 2024-02-16 |  |
 | [Rare \- Acoustic](https://open.spotify.com/track/1Zm292Zf3BKq9Lm80XruiH) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Rare \(Acoustic\)](https://open.spotify.com/album/7uCqEBQxJuy2N84FZSgc4p) | 4:19 | 2021-07-16 | 2024-02-09 |
 | [Read your Mind](https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:27 | 2024-02-14 |  |
 | [Rick and Morty Theme](https://open.spotify.com/track/1LOkKwQse9BbIx610efhW0) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Rick and Morty Theme](https://open.spotify.com/album/1dR1L6NAzwNvfs8OPsryCR) | 1:50 | 2021-07-16 | 2024-02-09 |
 | [Rolled Up](https://open.spotify.com/track/4DWyAq9ExNPogDaduac3Ym) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:03 | 2021-07-16 | 2024-02-09 |
+| [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 | 2024-02-16 |  |
 | [Rosas](https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Rosas](https://open.spotify.com/album/3NR8YCaIbiboXBFUDepwM9) | 4:05 | 2021-07-16 | 2024-02-09 |
+| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-02-16 |  |
 | [Sabré Olvidar](https://open.spotify.com/track/60S6OqCPR6yDi8hVmbVHPR) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 4:07 | 2024-02-08 | 2024-02-15 |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2024-02-08 |  |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2024-02-14 |  |
@@ -144,7 +148,7 @@
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2024-02-08 |  |
 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2024-02-08 | 2024-02-15 |
 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 | 2024-02-08 | 2024-02-12 |
-| [Si Una Vez](https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:47 | 2024-02-08 | 2024-02-15 |
+| [Si Una Vez](https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:47 | 2024-02-08 |  |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2021-07-16 | 2024-02-09 |
 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 | 2021-07-16 | 2024-02-09 |
 | [Softly](https://open.spotify.com/track/7vCWMzRboCPU1OudPPUiO8) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vinkel](https://open.spotify.com/album/57zyze2b8SjHt20Th7mXHO) | 2:15 | 2021-07-16 | 2024-02-09 |

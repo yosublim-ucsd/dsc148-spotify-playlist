@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Jonna Fraser",
+  "description": "Altijd fris in Fresh Hits. Cover: Ayra Starr",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146974,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 170504,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 131270,
       "name": "GAP",
       "url": "https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N"
@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
@@ -4426,6 +4426,32 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "album": {
+        "name": "Nafsi (Pt. II)",
+        "url": "https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/6WTbF37PMzLOtx9yllkyDq"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176937,
+      "name": "IK HAAT JE",
+      "url": "https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ"
     },
     {
       "album": {
@@ -5653,6 +5679,28 @@
     },
     {
       "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -6340,6 +6388,32 @@
       "duration_ms": 136114,
       "name": "Paycation",
       "url": "https://open.spotify.com/track/2eLe2NhjAUYg2So10wVXzo"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151929,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
       "album": {
@@ -7813,6 +7887,28 @@
     },
     {
       "album": {
+        "name": "Streken",
+        "url": "https://open.spotify.com/album/6NWyKQDS1bvfOpHvcZ0YdV"
+      },
+      "artists": [
+        {
+          "name": "Genna",
+          "url": "https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171655,
+      "name": "Streken",
+      "url": "https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ"
+    },
+    {
+      "album": {
         "name": "Stukje Van Mij",
         "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
       },
@@ -8433,6 +8529,24 @@
     },
     {
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
         "name": "Trainingspak",
         "url": "https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS"
       },
@@ -8885,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "Verrader",
+        "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162984,
+      "name": "Verrader",
+      "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
+    },
+    {
+      "album": {
         "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
         "url": "https://open.spotify.com/album/3vMpRJnBn2mIOq4GrWFbHl"
       },
@@ -9123,6 +9255,36 @@
     },
     {
       "album": {
+        "name": "Werkpaarden",
+        "url": "https://open.spotify.com/album/7DWMruitVpNxScBcZgCZFH"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Werkpaarden",
+      "url": "https://open.spotify.com/track/3aypmO20NtT2LKFag6ek9Y"
+    },
+    {
+      "album": {
         "name": "WHAT THE HELL ARE WE DYING FOR ?",
         "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
       },
@@ -9174,7 +9336,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
@@ -9622,7 +9784,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi",
       "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"

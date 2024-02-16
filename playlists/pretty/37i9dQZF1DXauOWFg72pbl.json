@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 581744,
+  "num_followers": 581776,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGIxMjNmNDgyZGE3MTJiNzM3Y2U0OGYxM2MyYTI3ZTdmNDNlOTkz",
+  "snapshot_id": "MCwzOTk1ZWMwOTIyZjdiNzUxMTM2YjJmMTA1NjA2YWU4MGY2YzkwY2M4",
   "tracks": [
     {
       "added_at": "2024-01-22 16:26:19",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 278706,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
     },
     {
-      "added_at": "2024-02-09 20:12:13",
-      "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
-    },
-    {
       "added_at": "2024-01-22 16:26:19",
       "album": {
         "name": "Holy Fire",
@@ -599,6 +583,22 @@
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2024-02-09 20:12:13",
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Let the Vultures In",
         "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/0GoXEhMzYwI1LCaohRqxGl"
     },
     {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "The Falling Sky",
-        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "The Falling Sky",
-      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
-    },
-    {
       "added_at": "2024-02-09 20:12:13",
       "album": {
         "name": "Pretty Vicious",
@@ -1491,6 +1475,22 @@
       "duration_ms": 310300,
       "name": "Pretty Vicious",
       "url": "https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "The Falling Sky",
+        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "The Falling Sky",
+      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
     },
     {
       "added_at": "2024-02-09 20:12:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Won't Take Me Alive",
         "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     }
   ],
   "unique_name": "Beer & Wings",

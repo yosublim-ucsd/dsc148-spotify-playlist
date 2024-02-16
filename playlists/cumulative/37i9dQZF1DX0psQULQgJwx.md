@@ -4,11 +4,13 @@
 
 > Lounge sounds for SPA
 
-127 songs - 7 hr 28 min
+132 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [528 Hz DNA Awakening](https://open.spotify.com/track/6t6QTM3PEYMJmX7zd6A2Cx) | [Howard Lieberman](https://open.spotify.com/artist/6X3He75SSgFfKl09gJYBCZ) | [528 Hz DNA Awakening](https://open.spotify.com/album/0bhQ5xdRZoEF87wjUqjTGx) | 3:13 | 2024-02-15 |  |
 | [528 Hz Dreaming](https://open.spotify.com/track/03ZyHNqFcZF8aiW4QvUM5K) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [528 Hz Dreaming](https://open.spotify.com/album/0PzmVcnQ8iM7GCjRF4Yjhs) | 1:42 | 2022-09-30 | 2023-07-29 |
+| [639 Hz Affinity Waves](https://open.spotify.com/track/2Cmo0UQlFlYL5DZblNs01Z) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [639 Hz Affinity Waves](https://open.spotify.com/album/5NXqSwS3MnLQdVcp0Za0CQ) | 2:28 | 2024-02-15 |  |
 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 | 2022-09-02 |  |
 | [A Prayer](https://open.spotify.com/track/45YjrCMISpBx7chzkelNaR) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:19 | 2022-09-02 | 2022-11-12 |
 | [Adrift](https://open.spotify.com/track/4omXz2PI3nVWBWo8QfUIrk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Adrift](https://open.spotify.com/album/7rxtpynRElW9XYlujynm5c) | 4:31 | 2022-09-02 |  |
@@ -39,6 +41,7 @@
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-09-02 |  |
 | [Droplets of Joy](https://open.spotify.com/track/11B1J53KNc4jkxkso6rBIm) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Droplets of Joy](https://open.spotify.com/album/4xmFc5gf28OdqkEWQkDdSA) | 4:30 | 2022-09-02 |  |
 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 | 2022-09-02 |  |
+| [Embrace](https://open.spotify.com/track/4mYnqp3N1BojayhxsmMaRf) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Embrace](https://open.spotify.com/album/4oiN2nZyhd9c5Fwp8wbl4n) | 2:48 | 2024-02-15 |  |
 | [Enchanted Forest](https://open.spotify.com/track/30UsA3ghZRFAralfqz7qn4) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:25 | 2022-09-02 |  |
 | [Ephemeral Stillness](https://open.spotify.com/track/1sLb86CVcaPoNnLV5QWOaY) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Ephemeral Stillness](https://open.spotify.com/album/0KQ17vV4mRN4Y03tFGrGVf) | 3:38 | 2023-07-14 |  |
 | [Exhale](https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:36 | 2022-09-02 |  |
@@ -47,11 +50,13 @@
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-09-02 |  |
 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 | 2022-09-02 |  |
 | [Flutastica](https://open.spotify.com/track/2MgEWaWp825uRMrhGmKrPS) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Flutastica](https://open.spotify.com/album/4VFqBjkRQZrMjIyQr4pWMQ) | 3:37 | 2024-01-30 |  |
+| [Forest of Hope](https://open.spotify.com/track/2aH3zeFIh14oUTOgJpBsI1) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Forest of Hope](https://open.spotify.com/album/40GZvovyynx8x0ii6Vhft3) | 1:49 | 2024-02-15 |  |
 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 | 2022-09-02 |  |
 | [Harmonic Waves](https://open.spotify.com/track/3tNHecaOXpZHJZ2bPMtOsq) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:26 | 2022-09-02 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-01-27 |  |
 | [Healing Bowl](https://open.spotify.com/track/0jmPnqOCY7Vce6QXvyaOfY) | [Self Lovers](https://open.spotify.com/artist/0xSZkXuemR32ESBfNTw5CC) | [Beyond](https://open.spotify.com/album/7IQIg1Nst53Lri2GyvMPf8) | 3:49 | 2022-09-02 | 2022-09-15 |
 | [Healing Harmony](https://open.spotify.com/track/609zrnMpQ3quDVOxmZzsCC) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 2:47 | 2022-09-02 |  |
+| [Healing Winds](https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds](https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ) | 3:02 | 2024-02-15 |  |
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-09-02 |  |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-22 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-09-02 |  |

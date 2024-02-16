@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 220846,
+  "2024-02-16": 220946,
   "date_first_scraped": "2022-01-26",
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
   "name": "Jazz for Beginners",
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 250853,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 407600,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8"

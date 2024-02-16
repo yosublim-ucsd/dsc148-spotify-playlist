@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 236836,
+  "num_followers": 236907,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWNlNDY4YjMzOGYzYTFkNzg2MDg0NGEyNTZjY2JjYjExMjIwNDgz",
+  "snapshot_id": "MCxhNzgwNGE2MGFmMzczNTU3Njk2MjEzMGExMTNlMzI4ZmIwNjk2Y2Uz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Con La Musica Cubana No!",
+        "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Conmigo No",
+      "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
         "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 273853,
       "name": "Bailando - Official Salsa Version",
       "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Con La Musica Cubana No!",
-        "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
-      },
-      "artists": [
-        {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
-        }
-      ],
-      "duration_ms": 316339,
-      "name": "Conmigo No",
-      "url": "https://open.spotify.com/track/3yophgzbY958X32KOQqiYF"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "La Vuelta al Mundo",
-        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "Venenosa",
-      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -755,22 +735,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+        "name": "La Vuelta al Mundo",
+        "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
         },
         {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+      "duration_ms": 247226,
+      "name": "Venenosa",
+      "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -787,6 +767,26 @@
       "duration_ms": 226873,
       "name": "Represent",
       "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2022-12-30 18:20:45",

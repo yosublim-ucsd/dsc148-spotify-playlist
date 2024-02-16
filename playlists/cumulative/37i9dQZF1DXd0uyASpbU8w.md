@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-2,061 songs - 5 day 20 hr 58 min
+2,062 songs - 5 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 | 2024-01-25 | 2024-02-02 |
 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/2L15MnmC7NHo6OsKHFuNtp) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/album/7wQGw6O3IbmkRrOwugRC1s) | 5:30 | 2024-01-12 | 2024-02-09 |
 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-15 | 2023-09-23 |
-| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-08 |  |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-08 | 2024-02-16 |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-09 |  |
 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 | 2023-08-10 | 2023-08-18 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2023-08-05 |
 | [ANY BETTER](https://open.spotify.com/track/1aS9JhKewGG5VJza4E6S3u) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [LAYERS](https://open.spotify.com/album/6uSwfs3SojKxygI7oBbrZu) | 2:29 | 2023-09-29 | 2023-10-08 |

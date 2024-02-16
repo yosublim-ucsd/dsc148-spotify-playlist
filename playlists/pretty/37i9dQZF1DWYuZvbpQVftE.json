@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 23493,
+  "num_followers": 23505,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDRlMDFmMDc3MWFhMDJiNjQ3N2I3MmFlMTNlYWZlMjhlMGU0Njhl",
+  "snapshot_id": "MCw0YmJkNTRiNGZkMGEwMjMzZmQ0ODVlMmYzNTYyYjVhYmFiNzNmZjE2",
   "tracks": [
     {
       "added_at": "2024-01-18 13:59:55",
@@ -219,8 +219,8 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
+        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
       "artists": [
         {
@@ -228,17 +228,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 503013,
-      "name": "Litha",
-      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
+      "duration_ms": 508093,
+      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
+      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2024-01-18 13:59:55",
@@ -371,8 +367,8 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
-        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
-        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
       "artists": [
         {
@@ -380,13 +376,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 508093,
-      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
-      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
+      "duration_ms": 503013,
+      "name": "Litha",
+      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
     },
     {
       "added_at": "2024-01-18 13:59:55",
@@ -459,18 +459,22 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
+        "name": "Presenting Bud Shank",
+        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bill Perkins",
+          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
     },
     {
       "added_at": "2024-01-18 13:59:55",
@@ -491,22 +495,18 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
-        "name": "Presenting Bud Shank",
-        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
       "artists": [
         {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bill Perkins",
-          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 200253,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2024-01-18 13:59:55",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Bud Powell Quartet",
+          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+    },
+    {
+      "added_at": "2024-01-18 13:59:55",
+      "album": {
         "name": "Chico Hamilton Quintet In Hi-Fi",
         "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2024-01-18 13:59:55",
-      "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Bud Powell Quartet",
-          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
     },
     {
       "added_at": "2024-01-18 13:59:55",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
-        "name": "Gongs East!",
-        "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton",
-          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Beyond the Blue Horizon",
-      "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
-    },
-    {
-      "added_at": "2024-01-18 13:59:55",
-      "album": {
         "name": "The Teddy Charles Tentet",
         "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 350720,
       "name": "The Quiet Time",
       "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
+    },
+    {
+      "added_at": "2024-01-18 13:59:55",
+      "album": {
+        "name": "Gongs East!",
+        "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton",
+          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Beyond the Blue Horizon",
+      "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
     },
     {
       "added_at": "2024-01-18 13:59:55",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-01-18 13:59:55",
       "album": {
+        "name": "The Essential Dave Brubeck",
+        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 410800,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
+    },
+    {
+      "added_at": "2024-01-18 13:59:55",
+      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 518000,
       "name": "Happily Dancing / Deep Harmonies Falling - Live",
       "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
-    },
-    {
-      "added_at": "2024-01-18 13:59:55",
-      "album": {
-        "name": "The Essential Dave Brubeck",
-        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 410800,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
     },
     {
       "added_at": "2024-01-18 13:59:55",

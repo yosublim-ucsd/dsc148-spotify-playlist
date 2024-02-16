@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 
 > 
 
-[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 137 songs - 4 hr 51 min
+[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 149 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,17 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 | 135 | [I <3 My Choppa](https://open.spotify.com/track/0Dk9lP1YnOqssHH0oCeq9u) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 1:45 |
 | 136 | [Fuck The World](https://open.spotify.com/track/7d9AYBfzMRbJBuSiVvhJRn) | [FTP](https://open.spotify.com/artist/1A4mZpKoL1xtvbMTTUUAKz), [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Fuck The World](https://open.spotify.com/album/3uruLNmePN10sgkkrZ6heR) | 4:11 |
 | 137 | [Wendigo](https://open.spotify.com/track/6twXcof6Q2HB1cKQm6dyWq) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Wendigo](https://open.spotify.com/album/77WnBXLuQTrejRUDfvMYtj) | 3:28 |
+| 138 | [Luctus Mane](https://open.spotify.com/track/3wjLsdKZmUEw84FjREZsX5) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Luctus Mane](https://open.spotify.com/album/0Fiod273dNi0OkB00EOEuo) | 2:57 |
+| 139 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
+| 140 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
+| 141 | [Luctus Mane \(Snow Strippers Remix\)](https://open.spotify.com/track/7DiuKRfZhiuxFZoF54hk3A) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8), [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Luctus Mane \(Snow Strippers Remix\)](https://open.spotify.com/album/5fE0BTkyXYYF23BEcTvymm) | 3:23 |
+| 142 | [Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:20 |
+| 143 | [Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 3:06 |
+| 144 | [It's A Dream \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:31 |
+| 145 | [Almost A Threat](https://open.spotify.com/track/7wwbhQHNWPO8sopRaaY9dB) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 2](https://open.spotify.com/album/1SHqiM8BmiWkZlZ3ozOi5q) | 2:11 |
+| 146 | [Cautious](https://open.spotify.com/track/0dNLgNa4IiwsiebqEz5UZ5) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 1:47 |
+| 147 | [Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 2:59 |
+| 148 | [It's Goin Bad](https://open.spotify.com/track/0UZt8hWetwhIXTx2XNo5Cl) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:50 |
+| 149 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
 
-Snapshot ID: `NDg0LDZkOTZlMWEyOGU2ODFkNWJmODNiYjJjNTcwZTViZmVlZDRmMzZiMjQ=`
+Snapshot ID: `NDg2LDI4ODNmZjQ0NzliNDQ1NzU3NzVlYTY5MWFkZGMyOGZmNjhmMDhiOWU=`

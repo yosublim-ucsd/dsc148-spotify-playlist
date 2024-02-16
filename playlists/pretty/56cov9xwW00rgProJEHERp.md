@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,697 likes - 60 songs - 3 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,696 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 11 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 |
 | 12 | [Beautiful Eyes](https://open.spotify.com/track/6kBIuwSSt72PeCSMIYwQw6) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Beautiful Eyes](https://open.spotify.com/album/3udwcj1SRGUKxWCgYPanR4) | 2:49 |
 | 13 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 |
-| 14 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:43 |
+| 14 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:41 |
 | 15 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 |
 | 16 | [Derrière le jour](https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Derrière le jour](https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu) | 3:31 |
 | 17 | [Love Again](https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again](https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv) | 3:32 |

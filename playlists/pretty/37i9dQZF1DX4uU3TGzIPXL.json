@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 560396,
+  "num_followers": 560503,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGM5MmI2MGZlZjFlMTYwYjNjOWIxMTk5ZDJkNDdkMzcyYjNlOGJi",
+  "snapshot_id": "MCxhOGFjMzgxNDllZDQ4Mjc3NWFjOGU4MzAzYWZmOGI4ZjRmMzk4NmQz",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 202583,
-      "name": "Boom, Boom, Boom, Boom!!",
-      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 202583,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
@@ -559,6 +559,26 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 294786,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -583,26 +603,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 294786,
-      "name": "The Boy Is Mine",
-      "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Sweat (A La La La La Long)",
-        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Sweat (A La La La La Long)",
+        "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Now in a Minute",
         "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
         "name": "Mr. Vain",
         "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 257466,
       "name": "Mr. Vain - Original Radio Edit",
       "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
       "artists": [
         {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "The Madman's Return",
-        "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
-      },
-      "artists": [
-        {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Rhythm Is a Dancer (7\" Edit)",
-      "url": "https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "The Madman's Return",
+        "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Rhythm Is a Dancer (7\" Edit)",
+      "url": "https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Desireless",
         "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "All The Pain Money Can Buy",
-        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Fastball",
-          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 257093,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1603,6 +1587,22 @@
       "duration_ms": 166693,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "All The Pain Money Can Buy",
+        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+      },
+      "artists": [
+        {
+          "name": "Fastball",
+          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
     },
     {
       "added_at": "2023-06-16 18:37:43",

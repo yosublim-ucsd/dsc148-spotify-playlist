@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 494,
+  "2024-02-16": 494,
   "date_first_scraped": "2023-08-26",
   "description": "This is Campo De Almas.. The essential tracks, all in one playlist.",
   "name": "This Is Campo De Almas.",
@@ -647,7 +647,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 229000,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup"
@@ -763,6 +763,24 @@
       "duration_ms": 200779,
       "name": "Prohibido (En Vivo)",
       "url": "https://open.spotify.com/track/4e38Gxfa52p5oyaPjFs8qt"
+    },
+    {
+      "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63085,
+      "name": "Pr\u00f3logo",
+      "url": "https://open.spotify.com/track/4flqyBEAga3H8rEXCtHX7v"
     },
     {
       "album": {

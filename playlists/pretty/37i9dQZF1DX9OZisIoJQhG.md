@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,202 likes - 53 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,231 likes - 53 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 52 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 53 | [Violin Concerto in D Major: II\. Adagio](https://open.spotify.com/track/40EnGSgqCBuIe3zoHBUWMr) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zefira Valova](https://open.spotify.com/artist/56hpaB3bb4ydN9TTTlcWX4), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Saint\-Georges: Violin Concerto in D Major](https://open.spotify.com/album/5Ec2ImbUEUaBlqxIKGD8vN) | 4:28 |
 
-Snapshot ID: `MCxmNDk3MWU2NjcyNmFlMjRiM2FlNDhjMTk0YzEwMjBlODE1YTFlZjZh`
+Snapshot ID: `MCw4YmE0NTI0ZDEwMTgzNzViMWYyZTE5MTM2YTY1NmExMDcyMjliZDI1`

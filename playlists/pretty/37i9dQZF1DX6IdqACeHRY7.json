@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152521,
+  "num_followers": 152541,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw",
+  "snapshot_id": "MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -223,6 +223,26 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 259550,
+      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
-        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 259550,
-      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "What a Time To Be Alive",
+        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Just You and I - Acoustic",
+      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "What a Time To Be Alive",
-        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Just You and I - Acoustic",
-      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 201086,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+      "duration_ms": 233133,
+      "name": "Where the Heart Is",
+      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 203262,
-      "name": "Need You Now - Acoustic",
-      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Where the Heart Is",
-      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Keeping Faith",
         "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 172058,
       "name": "Faith's Song",
       "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Songs For You, Truths For Me",
+        "url": "https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "You Make It Real",
+      "url": "https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1819,18 +1835,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Songs For You, Truths For Me",
-        "url": "https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN"
+        "name": "In My Body",
+        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 211400,
-      "name": "You Make It Real",
-      "url": "https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW"
+      "duration_ms": 233640,
+      "name": "Wildfire - Alternate Version",
+      "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1847,22 +1863,6 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "In My Body",
-        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Wildfire - Alternate Version",
-      "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
     },
     {
       "added_at": "2024-01-12 09:52:44",

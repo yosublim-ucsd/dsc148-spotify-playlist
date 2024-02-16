@@ -310,7 +310,7 @@
           "url": "https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze"
         },
         {
-          "name": "Cleveland Orchestra",
+          "name": "The Cleveland Orchestra",
           "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         },
         {
@@ -410,6 +410,28 @@
     {
       "album": {
         "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
+        "url": "https://open.spotify.com/album/1QRHNQGGVAe6JBvFx2W9Dp"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Yevgeny Sudbin",
+          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524360,
+      "name": "Danse macabre, Op. 40 (Arr. F. Liszt, V. Horowitz and y. Sudbin for piano)",
+      "url": "https://open.spotify.com/track/7nb3EYuiI4OGfxStgykaTu"
+    },
+    {
+      "album": {
+        "name": "Liszt: Fun\u00e9railles - 3 Sonetti del Petrarca - Saint-Sa\u00ebns: Danse macabre - Ravel: Gaspard de la nuit",
         "url": "https://open.spotify.com/album/1goHbSFkoo85VQenZgy7rB"
       },
       "artists": [
@@ -432,7 +454,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 524360,
       "name": "Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano)",
       "url": "https://open.spotify.com/track/4iUQ9SxroN3CtLIzwdf8HB"

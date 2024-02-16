@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940\- 1980 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,373,448 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,372,957 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 58 | [The Happiest Christmas Tree](https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:43 |
 | 59 | [Here We Come a\-Caroling / We Wish You a Merry Christmas](https://open.spotify.com/track/1Kcy7qSbf6un30zIkxGVew) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 1:38 |
 | 60 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 |
-| 61 | [O Christmas Tree](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Swingin' Christmas Featuring The Count Basie Big Band](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 |
+| 61 | [O Christmas Tree \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [A Swingin' Christmas \(feat\. Count Basie Big Band\)](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 |
 | 62 | [What Child Is This/The Holly And The Ivy \- Medley / Remastered 2006](https://open.spotify.com/track/6OJdXv1Q5OdLgYolFEunJ4) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:20 |
 | 63 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 64 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 74 | [We Wish You A Merry Christmas](https://open.spotify.com/track/0Xrev0e2wVRSkq84SJiEMg) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [A Christmas Together](https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW) | 1:05 |
 | 75 | [Christmas Medley: Joy to the World / Deck the Halls / O Come All Ye Faithful / Jingle Bells \(Tom Moulton Remix\) \(2022 \- Remaster\)](https://open.spotify.com/track/60xnB0fgmCft0Pqq6zaivb) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies \(Tom Moulton Remix;2022 \- Remaster\)](https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK) | 12:07 |
 
-Snapshot ID: `MCw5NjI3MTc1YzVmMWZhNzU3MGE4Y2QzZjg4NTBlZDBhNmM5NTM1OGYw`
+Snapshot ID: `MCw0ODE5NmNkNjRiYmViNWQxMDc2MmZhMjRkYTYwMWUyODhiZjc3NDRl`

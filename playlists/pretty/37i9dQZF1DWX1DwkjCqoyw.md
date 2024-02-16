@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands all in one place\. Cover: Shaggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,967 likes - 36 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,990 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 30 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 31 | [Catch 22](https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Serenity](https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba) | 4:10 |
 | 32 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
-| 33 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
-| 34 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |
+| 33 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 |
+| 34 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 | 35 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
 | 36 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 |
 
-Snapshot ID: `MCw5NzJmZDA1MDNjMGJmMmI0YTg0NTk2NWJiNGMwMTEwNDFjOGJiMDJi`
+Snapshot ID: `MCwyYzIxMTc5NjE1Yzk1MGE0MGJlZDkyOTMyMzVjZTMwMzNkZTIyZTUw`

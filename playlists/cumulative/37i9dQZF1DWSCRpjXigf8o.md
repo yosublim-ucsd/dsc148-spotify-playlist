@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-508 songs - 1 day 7 hr 4 min
+511 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-30 | 2023-09-20 |
 | [A Hundred Lives](https://open.spotify.com/track/2vAmx7XDSa8k6FMDexIkye) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [A Hundred Lives](https://open.spotify.com/album/5o9kQ5bfkI1D1aEFH9Clpq) | 3:37 | 2023-10-26 | 2023-11-22 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-16 | 2023-05-01 |
-| [A Name of New Era](https://open.spotify.com/track/56EJzfod2MjSEimUA1RjAK) | [the band apart \(naked\)](https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg) | [4](https://open.spotify.com/album/4HQwiXVf1Zl7h7T1rm6DpF) | 3:51 | 2023-11-14 |  |
+| [A Name of New Era](https://open.spotify.com/track/56EJzfod2MjSEimUA1RjAK) | [the band apart \(naked\)](https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg) | [4](https://open.spotify.com/album/4HQwiXVf1Zl7h7T1rm6DpF) | 3:51 | 2023-11-14 | 2024-02-16 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-19 |  |
 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 | 2023-10-13 | 2024-01-12 |
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-05 | 2023-11-08 |
@@ -287,7 +287,7 @@
 | [My Last Chance \- SaLaAM ReMi Remix](https://open.spotify.com/track/6aRMFfRv2LyCh3FS8TFhct) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 3:40 | 2022-11-08 | 2023-02-15 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-14 |  |
 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 | 2024-01-11 |  |
-| [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-10-17 |  |
+| [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-10-17 | 2024-02-16 |
 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 | 2023-01-13 | 2023-03-01 |
 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 | 2023-02-07 | 2023-10-04 |
 | [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 | 2023-01-19 | 2023-01-25 |
@@ -300,6 +300,7 @@
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 | 2023-11-16 |
 | [Nonvignon](https://open.spotify.com/track/0HIrwgryXKOJ0CIfyP3gds) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Nonvignon](https://open.spotify.com/album/7JHB9DWgncfSI4q58mi2eU) | 3:53 | 2023-04-20 | 2023-09-22 |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 | 2023-10-29 |
+| [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 | 2024-02-15 |  |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-02 |  |
 | [Old Note](https://open.spotify.com/track/0K3HWnhWB2EWCy2rPeCPFW) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Old Note](https://open.spotify.com/album/3Hpmybx1qnm2ZRXysWOKjL) | 6:07 | 2022-11-15 | 2022-12-07 |
 | [Old School \- Acoustic](https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Old School \(Acoustic\)](https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5) | 3:36 | 2022-12-06 | 2023-01-11 |
@@ -316,6 +317,7 @@
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-09 | 2023-07-14 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-12-15 |  |
 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 | 2023-05-04 | 2023-07-07 |
+| [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 | 2024-02-15 |  |
 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 | 2024-01-25 |  |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-10-20 | 2023-02-01 |
 | [Press My Luck](https://open.spotify.com/track/3bkJGk3kZ308GXKMTsVpaM) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Jelly Road](https://open.spotify.com/album/4hCqShBbkNDt32FdAhDWZL) | 4:34 | 2023-07-13 | 2023-09-08 |
@@ -369,6 +371,7 @@
 | [Sunny Afternoon](https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 2:51 | 2023-08-17 | 2023-09-06 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2023-04-20 | 2023-08-16 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-10-20 | 2023-10-05 |
+| [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 |  |
 | [Symphony \- SalaAM ReMi LP Mix](https://open.spotify.com/track/5Wgoa3syX7zZvFoIIhR1US) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 2:53 | 2022-12-06 | 2023-01-27 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-24 | 2023-11-29 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-11-30 |  |
@@ -513,7 +516,7 @@
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-02-08 |
 | [音の記憶](https://open.spotify.com/track/48CztoIkzgIucZ6ynPUrmr) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C) | [甘い予感](https://open.spotify.com/album/3aCsWq38elPFkdUdVGDj5n) | 5:00 | 2023-10-26 |  |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
-| [風はパーマネント](https://open.spotify.com/track/3aMJ5rSErhY4xcrkofdUG2) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [風はパーマネント](https://open.spotify.com/album/32tomxdqMRKajeCDIi5CEv) | 4:41 | 2023-11-21 |  |
+| [風はパーマネント](https://open.spotify.com/track/3aMJ5rSErhY4xcrkofdUG2) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [風はパーマネント](https://open.spotify.com/album/32tomxdqMRKajeCDIi5CEv) | 4:41 | 2023-11-21 | 2024-02-16 |
 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-20 | 2023-08-16 |
 | [黄昏メロウ](https://open.spotify.com/track/3QHjbtUyJkPhycNxnygPT0) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/0GQmfz006T3QqIQ1bRMdVv) | 4:25 | 2023-11-07 | 2024-01-26 |
 

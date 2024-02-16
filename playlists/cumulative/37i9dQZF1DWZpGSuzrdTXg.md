@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-148 songs - 8 hr 30 min
+149 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 | 2022-12-22 |  |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2022-12-22 |  |
 | [High and Low](https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Learning To Swim](https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ) | 3:06 | 2023-12-24 |  |
+| [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 | 2024-02-15 |  |
 | [Hold Me Like You Used To \- Piano Version](https://open.spotify.com/track/4dazSSg1ZHXpsmtgH9wZve) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Hold Me Like You Used To \(Piano Version\)](https://open.spotify.com/album/1c3VTBfheFbl939ne6zSaU) | 3:16 | 2022-12-22 |  |
 | [Holding on to Letting Go](https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U) | 2:45 | 2022-12-22 |  |
 | [Hope](https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Hope](https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH) | 2:52 | 2022-12-22 |  |
@@ -82,7 +83,7 @@
 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 | 2022-12-22 | 2023-11-10 |
 | [Lost on You](https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:27 | 2023-10-20 |  |
 | [Lost on You](https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:28 | 2022-12-22 | 2023-11-04 |
-| [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2022-12-22 |  |
+| [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2022-12-22 | 2024-02-16 |
 | [Love Is Pain](https://open.spotify.com/track/6Prd1Z03iwPmmPSPTzMBhh) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [Love Is Pain](https://open.spotify.com/album/14HZiGrDyGfdVvjZisEni1) | 3:42 | 2023-11-09 |  |
 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 | 2022-12-22 |  |
 | [Make it a Memory](https://open.spotify.com/track/4wNyXz7XVh4CfjTgstJr7T) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Make it a Memory](https://open.spotify.com/album/5SxOgwsyojWkxjknZwFusM) | 3:29 | 2022-12-22 |  |

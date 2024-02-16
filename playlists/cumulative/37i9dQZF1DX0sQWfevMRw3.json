@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Den sista s\u00e5ngen",
+        "url": "https://open.spotify.com/album/1BSCYFMPa8Vdano6qM0M9G"
+      },
+      "artists": [
+        {
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Den sista s\u00e5ngen",
+      "url": "https://open.spotify.com/track/7FJTO6oq9y2U9y5mtTPNGU"
+    },
+    {
+      "album": {
         "name": "DESIGNER",
         "url": "https://open.spotify.com/album/2RBuWe0wMEXGJvTcx9gbBi"
       },
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 148778,
       "name": "Dricka som mig",
       "url": "https://open.spotify.com/track/3TLZz4VcKt3y4cPoyMroqa"
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154285,
       "name": "DRICKER MER",
       "url": "https://open.spotify.com/track/1MM1VZpRlMtIvVXOi5m6Bj"
@@ -6507,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6rl\u00e5t f\u00f6r alla g\u00e5nger",
+        "url": "https://open.spotify.com/album/1nFXe1jAk8CYIrMxK46PQc"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "F\u00f6rl\u00e5t f\u00f6r alla g\u00e5nger",
+      "url": "https://open.spotify.com/track/0UoFiDE3nDVTLMIOSK2JKj"
+    },
+    {
+      "album": {
         "name": "F\u00f6rsta G\u00e5ngen I En EPA",
         "url": "https://open.spotify.com/album/0DjX2jGILQdifC55byMol6"
       },
@@ -8568,6 +8604,28 @@
       "duration_ms": 133646,
       "name": "H\u00e5ll min hand - EPA RMX",
       "url": "https://open.spotify.com/track/4x4b5ijPiQ7W50t8bnRjAi"
+    },
+    {
+      "album": {
+        "name": "H\u00c5LLA MIG TILLBAKA",
+        "url": "https://open.spotify.com/album/7GDquL3JBDitAEK4o9hXAW"
+      },
+      "artists": [
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "LABAN",
+          "url": "https://open.spotify.com/artist/3VVAtS94nepMXJNX6cccSE"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145591,
+      "name": "H\u00c5LLA MIG TILLBAKA",
+      "url": "https://open.spotify.com/track/6XCqV5uOvxVTGVfGFZaZlC"
     },
     {
       "album": {
@@ -10754,7 +10812,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 141173,
       "name": "Letkis-Jenka - J.O.X Remix",
       "url": "https://open.spotify.com/track/4ohlsV71gpOkHUykUphfE9"
@@ -11326,7 +11384,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 132705,
       "name": "L\u00c4PPGLANS FR\u00c5N DIOR",
       "url": "https://open.spotify.com/track/3QoNMeLryCwlkvEbHPX0DM"
@@ -11437,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "MAYDAY (fj\u00e4llr\u00e4ddningspatrullen)",
+        "url": "https://open.spotify.com/album/4WYrYlSAoNz925YqGjajd9"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "MAYDAY (fj\u00e4llr\u00e4ddningspatrullen)",
+      "url": "https://open.spotify.com/track/7xlZNVvREW1Fy0RBaJ5tc1"
+    },
+    {
+      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/6z50Z7N0i158KykkRnOjBj"
       },
@@ -11524,6 +11600,28 @@
       "duration_ms": 147176,
       "name": "Med en b\u00e4rs i min hand",
       "url": "https://open.spotify.com/track/3XThgxbTygJQEhmBSBvqWM"
+    },
+    {
+      "album": {
+        "name": "MED MIG HEM",
+        "url": "https://open.spotify.com/album/3NZn0gR1jbmDkOa9CQSkJw"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "woodie",
+          "url": "https://open.spotify.com/artist/2sumvAt2i2cmajk3zpUnLm"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149950,
+      "name": "MED MIG HEM",
+      "url": "https://open.spotify.com/track/1jv2IV1FZ0AvOzJYZTFQ8N"
     },
     {
       "album": {
@@ -11760,6 +11858,24 @@
       "duration_ms": 121600,
       "name": "Min Ponny (min k\u00e4ra lilla ponny)",
       "url": "https://open.spotify.com/track/3nlmYsWXQLcsXOWJEPc21E"
+    },
+    {
+      "album": {
+        "name": "MIN ST\u00d6RSTA F\u00d6RSTA K\u00c4RLEK",
+        "url": "https://open.spotify.com/album/6wIdqsXhdj8Oy4Welh6RIC"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "MIN ST\u00d6RSTA F\u00d6RSTA K\u00c4RLEK",
+      "url": "https://open.spotify.com/track/46O0UcUAkwwEGIT2rKL2IH"
     },
     {
       "album": {
@@ -13014,6 +13130,28 @@
       "duration_ms": 173333,
       "name": "Overload",
       "url": "https://open.spotify.com/track/7BFfobG0V0WN8yqvorXj7y"
+    },
+    {
+      "album": {
+        "name": "PACKAD",
+        "url": "https://open.spotify.com/album/3gulxQThrDvwihZsZHQLOr"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "MADNEZZ",
+          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123292,
+      "name": "PACKAD",
+      "url": "https://open.spotify.com/track/0mA2l1eX3NjAbvgTbwCN2z"
     },
     {
       "album": {
@@ -14306,7 +14444,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 156792,
       "name": "RAGGARNA P\u00c5 STAN",
       "url": "https://open.spotify.com/track/1nDRTksCZUudxVt4Rt336r"
@@ -16282,7 +16420,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 137132,
       "name": "SN\u00d6BOLLSEFFEKTEN",
       "url": "https://open.spotify.com/track/5oMJVshrLMZupUh2I0X3T0"
@@ -17410,7 +17548,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 151500,
       "name": "SUPA SOM ETT SVIN",
       "url": "https://open.spotify.com/track/65WqEnEJgzHxZEvMA3OzDh"
@@ -18678,7 +18816,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 136146,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/03LARyT3aGhjxbf4Cmlg8m"
@@ -19457,6 +19595,28 @@
     },
     {
       "album": {
+        "name": "VARJE HELG",
+        "url": "https://open.spotify.com/album/0UhlVPttoh82UriWUMjQ3b"
+      },
+      "artists": [
+        {
+          "name": "Pappa Paavo",
+          "url": "https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2"
+        },
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "VARJE HELG",
+      "url": "https://open.spotify.com/track/3BaHJJCOMf48RZCZsQaSPy"
+    },
+    {
+      "album": {
         "name": "Vart \u00e4r du nu?",
         "url": "https://open.spotify.com/album/30Jw0OY9n7NNToM8SDGwxC"
       },
@@ -19684,7 +19844,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 132000,
       "name": "VILSE I SVERIGE",
       "url": "https://open.spotify.com/track/7cn7rgOwwpAvs9sBTTVtp2"

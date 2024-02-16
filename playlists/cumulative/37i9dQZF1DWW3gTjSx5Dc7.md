@@ -4,12 +4,13 @@
 
 > This is the essential Axwell Λ Ingrosso.
 
-29 songs - 1 hr 59 min
+30 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [49 Percent \(Angello & Ingrosso Remix\)](https://open.spotify.com/track/6zDXNppyMmiCSAqgd6Kstk) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [49 Percent](https://open.spotify.com/album/065kmb2V8RiPOCIgiPbgQJ) | 9:18 | 2021-09-16 | 2022-07-13 |
-| [Barricade \- Bonus Track](https://open.spotify.com/track/2bjweVDsMtSvyDFpQ6JnBa) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:54 | 2021-09-16 |  |
+| [Barricade \- Bonus Track](https://open.spotify.com/track/2bjweVDsMtSvyDFpQ6JnBa) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:54 | 2021-09-16 | 2024-02-16 |
+| [Barricade \- Radio Edit](https://open.spotify.com/track/0jFRZBZynRWrbWTwL3ro5B) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Barricade \(Radio Edit\)](https://open.spotify.com/album/5ahS2ztxwzLlgnW5R4LE5U) | 4:56 | 2022-07-12 |  |
 | [Body Crash \- Radio Edit](https://open.spotify.com/track/1EZlbnF29d4kFAT0EC0bTj) | [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Body Crash \-Taken from Superstar Recordings](https://open.spotify.com/album/04hnQqwqi6A3fXcJYsbqO7) | 3:46 | 2021-09-16 | 2022-07-13 |
 | [Can't Hold Us Down](https://open.spotify.com/track/4l6CWRDyGu7mw3UEXXUtls) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 6:18 | 2021-09-16 |  |
 | [Dancing Alone](https://open.spotify.com/track/2sWiygeCvOSSMjS0pwR80M) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [RØMANS](https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3) | [Dancing Alone](https://open.spotify.com/album/78cu7nvNAX0aM40ahlLUWr) | 4:13 | 2021-09-16 | 2022-07-29 |

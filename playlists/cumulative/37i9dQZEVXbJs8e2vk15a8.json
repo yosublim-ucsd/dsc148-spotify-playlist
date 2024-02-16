@@ -25886,7 +25886,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 157362,
       "name": "Que Quieres?",
       "url": "https://open.spotify.com/track/1LFYQDc4sv1gWuStq5IZmj"
@@ -33616,7 +33616,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"
@@ -33646,10 +33646,44 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
+    },
+    {
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bump J",
+          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
     },
     {
       "album": {

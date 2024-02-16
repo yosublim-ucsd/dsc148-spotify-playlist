@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Glixen
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,590 likes - 126 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,733 likes - 126 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 125 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 126 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCw3YjNjOTdiMjZmYzdjNDI4YzRhZTkxNTljMDkzM2NmNGU4MjEwODI5`
+Snapshot ID: `MCxlOTliMjZlNzI2NGIyM2E2Njg0NDM2ZWQ4MmZiYThmZDU4MzQ3MjA1`

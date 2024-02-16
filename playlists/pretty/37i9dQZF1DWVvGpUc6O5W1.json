@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42410,
+  "num_followers": 42426,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx",
+  "snapshot_id": "MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Me Dejaste Acostumbrado",
-        "url": "https://open.spotify.com/album/3gQYIcZc3ubq5C1g2KTksR"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "Me Dejaste Acostumbrado",
-      "url": "https://open.spotify.com/track/6czsBH3Ewa4LCUt97VzWDm"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Vivir En Pecado",
         "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 187813,
       "name": "Me Gustar\u00eda Creerte",
       "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Me Dejaste Acostumbrado",
+        "url": "https://open.spotify.com/album/3gQYIcZc3ubq5C1g2KTksR"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Me Dejaste Acostumbrado",
+      "url": "https://open.spotify.com/track/6czsBH3Ewa4LCUt97VzWDm"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "El Que a Ti Te Gusta",
         "url": "https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl"
       },
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "Me Estorbas",
-      "url": "https://open.spotify.com/track/2Lmbm4EbTHuEG7PPCwPKxN"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "A Lo Grande",
         "url": "https://open.spotify.com/album/6DvZtJ6na362jKnXdmPyyf"
       },
@@ -1159,6 +1127,54 @@
       "duration_ms": 158920,
       "name": "Ni Te Imaginas",
       "url": "https://open.spotify.com/track/2wJIqpXk7OGpwBxihlox6X"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Me Estorbas",
+      "url": "https://open.spotify.com/track/2Lmbm4EbTHuEG7PPCwPKxN"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/5Q0vLMYNUstQSbn4PbEDfK"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "F\u00edsica y Qu\u00edmica",
+      "url": "https://open.spotify.com/track/4Luj2VBDxydOk5fKNvmAgP"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Percepc\u00edon",
-        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "Qu\u00e8 Voy Hacer",
-      "url": "https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Olvidame",
         "url": "https://open.spotify.com/album/5L5Q3dGox09sp50aBByuTG"
       },
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
+        "name": "Percepc\u00edon",
+        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
       },
       "artists": [
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 176843,
-      "name": "F\u00edsica y Qu\u00edmica",
-      "url": "https://open.spotify.com/track/4Luj2VBDxydOk5fKNvmAgP"
+      "duration_ms": 260812,
+      "name": "Qu\u00e8 Voy Hacer",
+      "url": "https://open.spotify.com/track/3qUcXlGzUTFBZjuDL0S4E8"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Eternamente Mexicano",
-        "url": "https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "Si Te Ven Conmigo (Version Mariachi)",
-      "url": "https://open.spotify.com/track/61sfDlvI3C1bBPzuWLoNrR"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "La Verdadera Joya",
-        "url": "https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Historia Que Tu Cuentas",
-      "url": "https://open.spotify.com/track/20zFEDfhs3OCEFkACT1W0U"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "La Vida Del Rey",
         "url": "https://open.spotify.com/album/6f90dt695TsUJxfrumZi1H"
       },
@@ -1323,6 +1291,22 @@
       "duration_ms": 214706,
       "name": "No Te Hagas La Fuerte",
       "url": "https://open.spotify.com/track/1L8T5KEkPQq9cjlFIBNy1U"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Todo Va Estar Bien",
+        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 194014,
+      "name": "Si el Destino Quiso",
+      "url": "https://open.spotify.com/track/62VNhuQWOjgBuEgMnqanjx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1343,18 +1327,34 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Todo Va Estar Bien",
-        "url": "https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ"
+        "name": "La Verdadera Joya",
+        "url": "https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
         }
       ],
-      "duration_ms": 194014,
-      "name": "Si el Destino Quiso",
-      "url": "https://open.spotify.com/track/62VNhuQWOjgBuEgMnqanjx"
+      "duration_ms": 191640,
+      "name": "La Historia Que Tu Cuentas",
+      "url": "https://open.spotify.com/track/20zFEDfhs3OCEFkACT1W0U"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Eternamente Mexicano",
+        "url": "https://open.spotify.com/album/0xYEnJYnRgad7itSBrVQiT"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Si Te Ven Conmigo (Version Mariachi)",
+      "url": "https://open.spotify.com/track/61sfDlvI3C1bBPzuWLoNrR"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Me Dolio",
+      "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Quiero Ser Tu Due\u00f1o",
         "url": "https://open.spotify.com/album/6Tvn0zXKNlKZUisPepycYG"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 162333,
       "name": "No Pidas Tantos Besos",
       "url": "https://open.spotify.com/track/4DqWHaLn57FD9pjA6XskNe"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Me Dolio",
-      "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Haci\u00e9ndola Buena",
         "url": "https://open.spotify.com/album/7ucHxUOmlvCLkbhp8dISp6"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 168746,
       "name": "\u00c9l Es Mejor Que T\u00fa",
       "url": "https://open.spotify.com/track/7Bzv0zQH7p6QSot9M0kL4h"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/45sNp0JjwprdPdS4dch3v8"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/4MbvmjUjxN1jsuAYvCIAO1"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Haciendo Historia",
-      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 183943,
       "name": "Porque No Nos Damos",
       "url": "https://open.spotify.com/track/6c97taRbeED76s2Y0v5B9G"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Haciendo Historia",
+      "url": "https://open.spotify.com/track/4bfZ1tgMLB5MIzSOW1Anm7"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "A Donde Vamos",
+      "url": "https://open.spotify.com/track/3e7FMqkF9F8j6dBhAgU4wp"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/5pfEUz1jaF88mRe24DX89e"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "A Donde Vamos",
-      "url": "https://open.spotify.com/track/3e7FMqkF9F8j6dBhAgU4wp"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Vicio y Mi Adiccion",
         "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
       },
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
-      },
-      "artists": [
-        {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Pa' No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Quien Diria",
         "url": "https://open.spotify.com/album/5NWwmuIWkyidQIvUePq3By"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 216786,
       "name": "Quien Diria",
       "url": "https://open.spotify.com/track/6475jkYbHpgq3tV2yL1jOS"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+      },
+      "artists": [
+        {
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Pa' No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Voy A Calar Con Otra Boca",
-        "url": "https://open.spotify.com/album/49WoR58Afq8N0ovC7OlJD9"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        },
-        {
-          "name": "Kikin y Los Astros",
-          "url": "https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Voy A Calar Con Otra Boca",
-      "url": "https://open.spotify.com/track/6ygoH1PdSWZfPxpzaSJqcd"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Homenaje a Ariel Camacho",
         "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
       },
@@ -1999,18 +1979,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+        "name": "Voy A Calar Con Otra Boca",
+        "url": "https://open.spotify.com/album/49WoR58Afq8N0ovC7OlJD9"
       },
       "artists": [
         {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        },
+        {
+          "name": "Kikin y Los Astros",
+          "url": "https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Me Toca Llorar",
-      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+      "duration_ms": 184386,
+      "name": "Voy A Calar Con Otra Boca",
+      "url": "https://open.spotify.com/track/6ygoH1PdSWZfPxpzaSJqcd"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2031,6 +2015,22 @@
       "duration_ms": 183026,
       "name": "El Shake (feat. Las Cumbia Girls)",
       "url": "https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+      },
+      "artists": [
+        {
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Me Toca Llorar",
+      "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2115,22 +2115,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "A Lo Que Vengo, Vengo",
-        "url": "https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd"
+        "name": "No Te Quedes Con la Duda",
+        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
       },
       "artists": [
         {
-          "name": "Miguel Martinez",
-          "url": "https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl"
-        },
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Como un Rosal (feat. Joss Favela)",
-      "url": "https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t"
+      "duration_ms": 153146,
+      "name": "No Te Quedes Con la Duda",
+      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2151,18 +2147,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Me Mires As\u00ed",
-        "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
+        "name": "A Lo Que Vengo, Vengo",
+        "url": "https://open.spotify.com/album/1aGLWNFvBWtphgc25CIRCd"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Miguel Martinez",
+          "url": "https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Arrod\u00edllate",
-      "url": "https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek"
+      "duration_ms": 164333,
+      "name": "Como un Rosal (feat. Joss Favela)",
+      "url": "https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2183,18 +2183,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Te Quedes Con la Duda",
-        "url": "https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT"
+        "name": "No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
       },
       "artists": [
         {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 153146,
-      "name": "No Te Quedes Con la Duda",
-      "url": "https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ"
+      "duration_ms": 185453,
+      "name": "Arrod\u00edllate",
+      "url": "https://open.spotify.com/track/3TYD30NcLjgflVL3GNMtek"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Sigo de Frente",
-        "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
-      },
-      "artists": [
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "De Que Sirvio",
-      "url": "https://open.spotify.com/track/3GWmH1P8ECiJAl4LsxnoPR"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 200360,
       "name": "Hablando De Dos",
       "url": "https://open.spotify.com/track/1B6FjfCx9QOIlIT7XEZjpd"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Sigo de Frente",
+        "url": "https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl"
+      },
+      "artists": [
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "De Que Sirvio",
+      "url": "https://open.spotify.com/track/3GWmH1P8ECiJAl4LsxnoPR"
     },
     {
       "added_at": "2022-01-25 18:24:05",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Nidji",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Ziva Magnolya",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 220230,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "album": {
+        "name": "Dia Masa Lalumu, Aku Masa Depanmu",
+        "url": "https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl"
+      },
+      "artists": [
+        {
+          "name": "Vionita",
+          "url": "https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Dia Masa Lalumu, Aku Masa Depanmu",
+      "url": "https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa"
     },
     {
       "album": {
@@ -790,10 +808,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 227000,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/3cjNhOfNOY44Q4zVnAeXi8"
+    },
+    {
+      "album": {
+        "name": "Menceritakanmu",
+        "url": "https://open.spotify.com/album/4eOwfpR9h2e2uSnG2GtBkI"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239612,
+      "name": "Menceritakanmu",
+      "url": "https://open.spotify.com/track/1zIXdMUZeCJ34l5ssKvyWy"
     },
     {
       "album": {
@@ -880,7 +916,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206972,
       "name": "Ngeluwihi",
       "url": "https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV"
@@ -1234,6 +1270,24 @@
       "duration_ms": 249280,
       "name": "tiba-tiba jumat lagi",
       "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
+    },
+    {
+      "album": {
+        "name": "Wanita Biasa",
+        "url": "https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245147,
+      "name": "Wanita Biasa",
+      "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg"

@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 917693,
+  "2024-02-16": 917721,
   "date_first_scraped": "2022-01-01",
   "description": "nos fuimos de fiesta con Daddy Yankee. \ud83c\udf89",
   "name": "Fiesta",
@@ -435,6 +435,40 @@
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235146,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7"
     },
     {
       "album": {
@@ -7857,7 +7891,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"

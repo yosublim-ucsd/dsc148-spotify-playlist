@@ -2,9 +2,9 @@
 
 ### [Manhã Relax](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
 
-> Músicas calminhas pra começar o dia bem relax.
+> Aquelas pra começar o dia de alma leve
 
-238 songs - 13 hr 30 min
+239 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 | 2022-04-01 | 2022-04-19 |
 | [Cantinho](https://open.spotify.com/track/6lp1heMwkQlw4njiSTrjtU) | [Pedro Blum](https://open.spotify.com/artist/2mGkV2eAFSt9i83sLlD4n2) | [Cantinho](https://open.spotify.com/album/5TRpUlnfHTbzN6O0cWIo1g) | 2:55 | 2022-04-01 | 2022-06-12 |
 | [Cara a Cara \(Live Session\)](https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Sonas Sessions \(Live Session\)](https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ) | 3:40 | 2023-10-24 | 2023-11-11 |
-| [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 | 2024-01-12 |  |
+| [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 | 2024-01-12 | 2024-02-16 |
 | [Carnaval a Dois \- Acústico](https://open.spotify.com/track/5eHz8dzy0WsvYEqnDpPtWN) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois \(Acústico\)](https://open.spotify.com/album/4tMGcI3AI8sIiqiuX39EWe) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Carnaval de Salvador](https://open.spotify.com/track/1Z4O9L42qpYFkQCy0lvMHZ) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Carnaval de Salvador](https://open.spotify.com/album/5MOjunWyZe3tcv7ORSok5q) | 3:30 | 2022-04-01 | 2022-04-19 |
 | [Casa Pronta](https://open.spotify.com/track/1wwfsmydqA3Q8FK1vWj83J) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 3:18 | 2022-02-18 | 2022-07-25 |
@@ -124,6 +124,7 @@
 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 | 2022-02-18 | 2023-09-02 |
 | [Isn't She Lovely](https://open.spotify.com/track/23H8PpuhyTDHwpqcDm7vS6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 1:26 | 2022-04-01 | 2022-11-10 |
 | [Isn't She Lovely](https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 1:26 | 2023-01-06 | 2023-10-03 |
+| [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 |  |
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 2:16 | 2022-02-18 | 2022-07-29 |
 | [Laranja](https://open.spotify.com/track/6EsNWwwiqfz6BYYHFu9wRX) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [Maria Elisa](https://open.spotify.com/artist/3s2VC4vZf2n2Tp0ytgQKzM) | [Laranja](https://open.spotify.com/album/5ON7XQlF2J9ajh6kF64G0h) | 2:24 | 2022-04-01 | 2022-07-14 |
 | [Lenda](https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 4:19 | 2022-04-01 | 2022-04-16 |
@@ -139,7 +140,7 @@
 | [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 | 2022-07-28 |
 | [Me Desculpa Jay\-Z \- Remix](https://open.spotify.com/track/40hftNcJCgyecU9qBztKJw) | [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX) | [Me Desculpa Jay\-Z \(Remix\)](https://open.spotify.com/album/2wAuBTMFO4dWdHgG55d3Tv) | 3:36 | 2022-04-01 | 2022-04-21 |
 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 | 2022-02-18 |  |
-| [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 | 2024-01-12 |  |
+| [Melaço](https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Melaço](https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT) | 2:43 | 2024-01-12 | 2024-02-16 |
 | [Melodramático](https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Melodramático](https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw) | 2:26 | 2023-09-22 | 2023-09-27 |
 | [Mensagem de Amor \(20° Aniversário\)](https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Mensagem de Amor \(20° Aniversário\)](https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq) | 3:49 | 2022-02-18 | 2022-11-04 |
 | [Mensagem de Amor \- Ao Vivo](https://open.spotify.com/track/7oslptGlQaO6QQDutI7t7h) | [Toni Platao](https://open.spotify.com/artist/7drMo8O4JHwK9n9mTfpkoM), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Mensagem de Amor \(Ao Vivo\)](https://open.spotify.com/album/6If6NctPizDNAcgrnVG5gN) | 3:58 | 2023-11-17 | 2023-12-02 |
@@ -221,7 +222,7 @@
 | [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 | 2022-02-18 | 2023-09-09 |
 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 | 2022-02-18 |  |
 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 | 2023-10-23 | 2023-11-18 |
-| [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2022-02-18 | 2024-02-12 |
+| [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2022-02-18 |  |
 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 | 2023-08-25 |  |
 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 | 2022-02-18 |  |
 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 | 2023-10-02 | 2024-01-25 |

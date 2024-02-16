@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,722 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,725 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [backup, cash out](https://open.spotify.com/track/37RdWcTw7Y99za5MJ7jnOe) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [backup, cash out](https://open.spotify.com/album/6UX2tNKKoldjLIuQ9YxaXU) | 3:15 |
 | 100 | [RUNNIN'](https://open.spotify.com/track/28Wbfb0Q80jaks0CEDxsuZ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [RUNNIN'](https://open.spotify.com/album/29sYxtDUuuEED675lb60io) | 3:26 |
 
-Snapshot ID: `MCwyMzAxN2JmZGQxYjNhODM3OTRmNmJiOWExNDFjMDQ4M2E3NTc4NjAy`
+Snapshot ID: `MCxmYTFlNWFhZTI4Y2E4ZGEzNDExOGJkZmUyZWY1YWJiMDg1MWExYWMx`

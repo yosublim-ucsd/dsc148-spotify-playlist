@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 357867,
+  "num_followers": 357947,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzhlMTJjMjliMDI3YWZhOGQ4ZmIyNTdmODhlMjI3YmRiNWQwMGMz",
+  "snapshot_id": "MCw3MTU5Nzk2NjhlZTY4ZDU5ZDE4YTk0YWI5MTgxN2ZmZjU3Y2YzZDgw",
   "tracks": [
     {
       "added_at": "2024-01-18 05:18:40",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+      "duration_ms": 175124,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 175124,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "Recuerden Mi Estilo",
         "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 203068,
       "name": "DEL Negociante",
       "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Buena Vibra",
-        "url": "https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1"
-      },
-      "artists": [
-        {
-          "name": "Jose Villarreal",
-          "url": "https://open.spotify.com/artist/02qtde8veYObRnk68N35sP"
-        }
-      ],
-      "duration_ms": 193874,
-      "name": "Buena Vibra",
-      "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "Est\u00e1 Noche",
         "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 124267,
       "name": "Est\u00e1 Noche",
       "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
+        "name": "Buena Vibra",
+        "url": "https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1"
+      },
+      "artists": [
+        {
+          "name": "Jose Villarreal",
+          "url": "https://open.spotify.com/artist/02qtde8veYObRnk68N35sP"
+        }
+      ],
+      "duration_ms": 193874,
+      "name": "Buena Vibra",
+      "url": "https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 175031,
+      "name": "Ac\u00e1 en Guanajuato",
+      "url": "https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/4QUx5wQsvFrdwCO4vfN12v"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 165836,
       "name": "Lujos y Secretos",
       "url": "https://open.spotify.com/track/5Q7T1ePrtZiMA5whIXdwUC"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 175031,
-      "name": "Ac\u00e1 en Guanajuato",
-      "url": "https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "El Gerente",
-        "url": "https://open.spotify.com/album/4QVubyun1jCOQ1NIwBbrq4"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "El Gerente",
-      "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 199000,
       "name": "Ladeando",
       "url": "https://open.spotify.com/track/73Duclev4uTDiM70jH1G5h"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
+        "name": "El Gerente",
+        "url": "https://open.spotify.com/album/4QVubyun1jCOQ1NIwBbrq4"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "El Gerente",
+      "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"
     },
     {
       "added_at": "2024-01-18 05:18:40",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-01-18 05:18:40",
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
-    },
-    {
-      "added_at": "2024-01-18 05:18:40",
-      "album": {
         "name": "Guerras en el Barrio",
         "url": "https://open.spotify.com/album/1fD71IDAlVNmqsKQYilnUD"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 240219,
       "name": "Guerras en el Barrio",
       "url": "https://open.spotify.com/track/6iUvmPTsniLqC1vN3Hoxb0"
+    },
+    {
+      "added_at": "2024-01-18 05:18:40",
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
     },
     {
       "added_at": "2024-01-18 05:18:40",

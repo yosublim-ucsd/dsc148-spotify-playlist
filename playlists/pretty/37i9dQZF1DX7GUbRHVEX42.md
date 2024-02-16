@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,224 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,270 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 12 | [Where I'm Coming From](https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:03 |
 | 13 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
 | 14 | [That's Not True](https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:28 |
-| 15 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
-| 16 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
+| 15 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
+| 16 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
 | 17 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
 | 18 | [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 |
 | 19 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 40 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 41 | [One Shot](https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:21 |
 | 42 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
-| 43 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
-| 44 | [Pressure \(Remix\)](https://open.spotify.com/track/6k7lW8ShIArQQ12suirGKs) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(Remix\)](https://open.spotify.com/album/7xgScJJaVrUCy477wMTfKt) | 3:58 |
+| 43 | [Pressure \(Remix\)](https://open.spotify.com/track/6k7lW8ShIArQQ12suirGKs) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(Remix\)](https://open.spotify.com/album/7xgScJJaVrUCy477wMTfKt) | 3:58 |
+| 44 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
 | 45 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
 | 46 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 47 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 70 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
 
-Snapshot ID: `MCxiYjAzYjAxODNkMWJjMjdmNTJlODllOWE0NWQwODJjMzM5OTJlMmZk`
+Snapshot ID: `MCxhNTE2MzExNjkxYjNlZWRlNDBhY2YwZDlmMzg5OGNjNmI2MjM1N2I1`

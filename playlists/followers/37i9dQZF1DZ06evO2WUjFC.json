@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 725,
+  "2024-02-16": 725,
   "date_first_scraped": "2024-01-30",
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
   "name": "This Is Danny Felix",
@@ -65,6 +65,24 @@
       "duration_ms": 226943,
       "name": "Anillo Grabado (Live)",
       "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
+    },
+    {
+      "album": {
+        "name": "Live, Finix Style",
+        "url": "https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258187,
+      "name": "Asi Toco Mi Vida - Live",
+      "url": "https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR"
     },
     {
       "album": {
@@ -273,7 +291,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 207720,
       "name": "d\u00e9jame vivir",
       "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
@@ -299,6 +317,24 @@
       "duration_ms": 162318,
       "name": "El 0-10",
       "url": "https://open.spotify.com/track/5BYCIO0bie4rbtRp3QpeXG"
+    },
+    {
+      "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "EL ARQUITECTO",
+      "url": "https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3"
     },
     {
       "album": {
@@ -445,7 +481,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 163933,
       "name": "HOMBRES BIEN ARMADOS",
       "url": "https://open.spotify.com/track/57uhVytxox6TyjR1MvdnoR"
@@ -543,7 +579,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 223786,
       "name": "La Ambici\u00f3n",
       "url": "https://open.spotify.com/track/3lo1Mv3ovnJLijz5BppO48"
@@ -1131,7 +1167,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 197920,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL"

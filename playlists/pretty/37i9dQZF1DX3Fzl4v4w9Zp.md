@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Dead South
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,936 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,999 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 139 | [Back to You](https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:17 |
 | 140 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 |
 | 141 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
-| 142 | [Hurricane](https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:34 |
+| 142 | [Hurricane](https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:34 |
 | 143 | [Heartless Year](https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Heartless Year](https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE) | 3:55 |
 | 144 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 |
 | 145 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Burlesque Desert Window](https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 2:59 |
 | 150 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 |
 
-Snapshot ID: `MCwwNDlkYjliOWQ5NzU3Nzg2NTQxYTMwN2VjODNlYmY5MjY3YWI4YTM1`
+Snapshot ID: `MCwwOTVhY2NlNmQ3NjRjODAyOGY3OWJhNTViMDAwMDkwYmNhNmM4MTgy`

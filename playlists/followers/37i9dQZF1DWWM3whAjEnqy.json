@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 42770,
+  "2024-02-16": 42775,
   "date_first_scraped": "2023-12-10",
   "description": "Sun, sand, salt water and the perfect songs to match.",
   "name": "Coast to Coast",
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 198582,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
@@ -1343,6 +1343,24 @@
       "duration_ms": 281133,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199437,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
     },
     {
       "album": {

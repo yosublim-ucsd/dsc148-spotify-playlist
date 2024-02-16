@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 212546,
       "name": "An Ordinary",
       "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
@@ -2590,6 +2590,24 @@
       "duration_ms": 235941,
       "name": "\uccad\uc18c",
       "url": "https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7"
+    },
+    {
+      "album": {
+        "name": "These Are The Times",
+        "url": "https://open.spotify.com/album/1d8wq1eY5iDOcqZ2kza4PK"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267146,
+      "name": "\uccad\ud63c",
+      "url": "https://open.spotify.com/track/6j4hRezlKpLX3CtRy5V4OC"
     },
     {
       "album": {

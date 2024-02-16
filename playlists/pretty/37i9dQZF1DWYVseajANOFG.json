@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: JEYSON",
-  "num_followers": 109456,
+  "num_followers": 109528,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWZlYzI2MjljMWY5NDYzMTMzNDEzODQ2ZTY4OGNiNmVmNzU3NDgz",
+  "snapshot_id": "MCw5MjhkNGEyOTQ1ZTkxOTZiOTg5YjUwNzQxNzkxMWFkODYzNmFkZmRh",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
+      "added_at": "2024-02-15 17:30:32",
+      "album": {
+        "name": "SIEMPRE SOY",
+        "url": "https://open.spotify.com/album/5CIOeHkXwUvIrdwFnlNtbl"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "SIEMPRE SOY",
+      "url": "https://open.spotify.com/track/6MHLXu4PLNqtEnJtYqpL81"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Besitos",
@@ -63,6 +83,22 @@
       "duration_ms": 301276,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
+    },
+    {
+      "added_at": "2024-02-15 17:30:32",
+      "album": {
+        "name": "Par De Quina",
+        "url": "https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 160384,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -147,26 +183,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "SANANDO HERIDAS",
-        "url": "https://open.spotify.com/album/3qXcyGNzcG0orK6xDg3k4j"
-      },
-      "artists": [
-        {
-          "name": "T.O.T",
-          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
-        },
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "SANANDO HERIDAS",
-      "url": "https://open.spotify.com/track/5UzF4eX6nHxBoMq7M1KHzx"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "La Ruta",
         "url": "https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn"
       },
@@ -213,6 +229,22 @@
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
     },
     {
+      "added_at": "2024-02-15 17:30:32",
+      "album": {
+        "name": "Par De Quina",
+        "url": "https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 198718,
+      "name": "Energias",
+      "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Vicio",
@@ -255,6 +287,26 @@
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "SANANDO HERIDAS",
+        "url": "https://open.spotify.com/album/3qXcyGNzcG0orK6xDg3k4j"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "SANANDO HERIDAS",
+      "url": "https://open.spotify.com/track/5UzF4eX6nHxBoMq7M1KHzx"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1039,26 +1091,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Carrusel",
-        "url": "https://open.spotify.com/album/1wqrAcVo2pAAUIR2X8seHQ"
-      },
-      "artists": [
-        {
-          "name": "Jimmix",
-          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
-        },
-        {
-          "name": "Sampw",
-          "url": "https://open.spotify.com/artist/0hItxzL0lp2vWslXmyG2Wl"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Carrusel - Radio Mix",
-      "url": "https://open.spotify.com/track/1QXu9ubYFn5Rc2kIXFxlNE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "La Sesi\u00f3n #47",
         "url": "https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm"
       },
@@ -1151,34 +1183,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Eleg\u00ed",
-        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 197721,
-      "name": "Eleg\u00ed",
-      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Noche de Teteo",
         "url": "https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx"
       },
@@ -1191,26 +1195,6 @@
       "duration_ms": 202600,
       "name": "Noche de Teteo",
       "url": "https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Sin Sol",
-        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 204955,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
     },
     {
       "added_at": "2024-02-02 05:00:00",

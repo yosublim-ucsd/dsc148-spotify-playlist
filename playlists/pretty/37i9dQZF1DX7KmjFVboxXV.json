@@ -1,12 +1,12 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 80460,
+  "num_followers": 80660,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWFjZmZhZTE0OGQ0OWRiNzI3MTQyZGIzMTM3ODZkYTA2ZTAwMjdi",
+  "snapshot_id": "MCwzNTA4OTExNjEzMTBiYjk2NmFmOGI1OGE0ZjJmMWMzNGI0MDM2MDVl",
   "tracks": [
     {
       "added_at": "2024-02-08 23:31:20",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
+        "name": "Butch 4 Butch",
+        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 178318,
+      "name": "Butch 4 Butch",
+      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
         "name": "Heart to Break",
         "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 208967,
       "name": "Lucky Strike",
       "url": "https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
-        "name": "Butch 4 Butch",
-        "url": "https://open.spotify.com/album/7EXNvLGDalgJOgB5JFX4Wc"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 178318,
-      "name": "Butch 4 Butch",
-      "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
     },
     {
       "added_at": "2024-02-08 23:31:20",

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 80182,
+  "num_followers": 80275,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjIwMzQzYTA4YTU0NWViNzViOGQ0MmE3NWM1ZDIzODVhOTEwMmEx",
+  "snapshot_id": "MCw0OGNjYjY3YjY3MTdlNTlkNWI4YzYwMGM2MjlhODgxODVjNGEyMWI4",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Somebody Loan Me A Dime (Remastered)",
         "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 176747,
       "name": "Somebody Loan Me A Dime - Remastered",
       "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 317000,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
     },
     {
       "added_at": "2023-08-23 10:30:13",

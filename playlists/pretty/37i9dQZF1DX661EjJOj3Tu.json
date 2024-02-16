@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 515120,
+  "num_followers": 515156,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2MzZDRmYjQ0M2JiNzkxMWUxOThhMjI3MmY5NWI1Njg1NGZiYWFl",
+  "snapshot_id": "MCwzYzFhM2UxZTk0YjYzNjUyNzQ0YmI3ZTI1MjkxNGU2MjVjYTRlYjdh",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "To Know Without Knowing",
         "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 380419,
       "name": "Mulatu",
       "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Home Cookin'",
-      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
+      "duration_ms": 184626,
+      "name": "Going Out Of My Head",
+      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 184626,
-      "name": "Going Out Of My Head",
-      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "How Did You Get In My Dreams?",
+        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "How Did You Get In My Dreams?",
+      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "At the Edge of the World",
         "url": "https://open.spotify.com/album/5gaFRux02LGMzIf71qegbl"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 347803,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/41yKDBimCZAZiJN6u5YK2L"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "How Did You Get In My Dreams?",
-        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "How Did You Get In My Dreams?",
-      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Duologue",
         "url": "https://open.spotify.com/album/1SW7WYNVqXh4BXJFkfWJTj"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 203493,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3IegPPKqQgbvrvQZ0Yo8wb"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 432617,
+      "name": "Chucho\u2019s Mood",
+      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 321420,
       "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
       "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 432617,
-      "name": "Chucho\u2019s Mood",
-      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
     },
     {
       "added_at": "2024-02-09 05:00:00",

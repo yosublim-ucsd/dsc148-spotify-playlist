@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,347 likes - 98 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,373 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Drank on Accutane](https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Drank on Accutane](https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q) | 3:10 |
 | 98 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
 
-Snapshot ID: `MCw4MzEyNTIzMGE5ODI3MDFkNmU5Y2ExOGYzNzQ2OTA5Zjg4NDA0MjQ2`
+Snapshot ID: `MCwwMzg3OWEyZTQzZDYzMTQ4MjhiOTEyYTIzMGZjMTE3YWJiOTdmM2Y0`

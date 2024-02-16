@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 12459,
+  "2024-02-16": 12467,
   "date_first_scraped": "2022-06-02",
   "description": "De la vitamine D en musique!",
   "name": "Sp\u00e9cial soleil",
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -3533,7 +3533,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 223280,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,055 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,051 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 36 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
 | 37 | [Merry Christmas All \(Tom Moulton Remix\) \(2022 \- Remaster\)](https://open.spotify.com/track/61CwMSqjU3SZt9j9m7MiWF) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies \(Tom Moulton Remix;2022 \- Remaster\)](https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK) | 3:16 |
 | 38 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Christmas Album](https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH) | 3:08 |
-| 39 | [The Wonderful World of Christmas](https://open.spotify.com/track/0Fp3B6lKPXjy5QNKBMghgf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:00 |
-| 40 | [Snow \- Alternate Version](https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Sessions 1967\-1975 \- Rarities from The RCA Albums Collection](https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5) | 2:27 |
+| 39 | [Snow \- Alternate Version](https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Sessions 1967\-1975 \- Rarities from The RCA Albums Collection](https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5) | 2:27 |
+| 40 | [The Wonderful World of Christmas](https://open.spotify.com/track/0Fp3B6lKPXjy5QNKBMghgf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:00 |
 | 41 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 |
 | 42 | [Home for Christmas](https://open.spotify.com/track/1A61cJRd7Z78OPAKBq0OJy) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Home for Christmas](https://open.spotify.com/album/2zctWsSDRj6fZgQnxr9ktX) | 5:09 |
 | 43 | [O Holy Night](https://open.spotify.com/track/5fwRLFKs4loRZ0r4BUcaLd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Feels Like Christmas](https://open.spotify.com/album/4MThObrjfbwqQuvQU5bu9U) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 49 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
 | 50 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo) | 4:06 |
 
-Snapshot ID: `MCwyMzUzZTQzODdlOGRmMDUyZDY1NmFiYTc3M2Q2M2EwNmVlMDg2ZDAy`
+Snapshot ID: `MCwzNGVhMGFkMGQzM2MwY2U5ODdkNGJhODEyZmY5ZWU1ZjcwZjg3Yzg5`

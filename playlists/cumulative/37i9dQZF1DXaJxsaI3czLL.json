@@ -3847,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D"
+      },
+      "artists": [
+        {
+          "name": "Newdums",
+          "url": "https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Sweet Lemon",
+      "url": "https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON"
+    },
+    {
+      "album": {
         "name": "i \u89e6\u308c\u308b SAD UFO",
         "url": "https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt"
       },
@@ -7918,7 +7936,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 250000,
       "name": "\u96ea\u89e3",
       "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"

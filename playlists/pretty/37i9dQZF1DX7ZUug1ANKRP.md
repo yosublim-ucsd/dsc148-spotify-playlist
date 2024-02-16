@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Indila, BENNETT
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803,421 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803,716 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
 | 50 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 
-Snapshot ID: `MCw3NWM1NDAzNGVlZDg1ZDkwYmI3MTBjMWFjMDc1MDI5MDI3MzFmOGM2`
+Snapshot ID: `MCw4MmViOWEzYWZhNDE0YzY2ZTlkYjhlNTdiOGVkZmE0MjQxYjdjNDVl`

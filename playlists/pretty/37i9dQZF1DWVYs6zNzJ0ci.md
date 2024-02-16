@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,768 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,842 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 27 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
 | 28 | [Vale La Pena](https://open.spotify.com/track/1aYQufEp0KL9NAkz6S6W8q) | [Kulto Kultibo](https://open.spotify.com/artist/5Zn0cTUwF6VjPS353kkQGk) | [Vale La Pena](https://open.spotify.com/album/0EWD3STodkMkd56uQ4nBYB) | 3:41 |
 | 29 | [Bff <3](https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss) | 2:53 |
-| 30 | [Qué Más Da](https://open.spotify.com/track/6kkizP05NXRVKaEjkFbPBi) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY), [LS Prod](https://open.spotify.com/artist/0gx2FyadJ8BVpS1RVlsJNa), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [Qué Más Da](https://open.spotify.com/album/2NLGHPXlZzPcBfbzioIMaB) | 3:04 |
+| 30 | [Qué Más Da](https://open.spotify.com/track/6kkizP05NXRVKaEjkFbPBi) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [Qué Más Da](https://open.spotify.com/album/2NLGHPXlZzPcBfbzioIMaB) | 3:04 |
 | 31 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 32 | [Bésame](https://open.spotify.com/track/1pOkTI9iJhjwS7PVkPtEUW) | [Nya de la Rubia](https://open.spotify.com/artist/3rE5nDLmkOn4tmdvnCj8py), [Lin Cortés](https://open.spotify.com/artist/3SBsCnbQ5q8bOW0uBcwG54) | [Puro](https://open.spotify.com/album/2u3Sj35kSDhd65pdOh2Lu9) | 2:41 |
 | 33 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 76 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
 | 77 | [Dance Forever](https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Dance Forever](https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh) | 2:37 |
 | 78 | [Tu](https://open.spotify.com/track/2BmtCTlt1A9z4z9k8qL1OV) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED) | 4:18 |
-| 79 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
-| 80 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
+| 79 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
+| 80 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
 | 81 | [Todo vuelve a su lugar](https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:59 |
 | 82 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
 | 83 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 100 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 
-Snapshot ID: `MCxiYzA2N2Q1NDUyMGI4MjgyY2ZjNDhhZmM1YzZhODg2MTA1MWEwM2Y4`
+Snapshot ID: `MCwwZWE3M2RjMjY2ZjhmMTNlMmI3OTVhZDM0N2EwN2QwNzMwMWM2YzBh`

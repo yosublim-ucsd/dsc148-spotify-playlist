@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 295450,
+  "num_followers": 295644,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzYzMDcxNWUzNzYwNzcxM2JkZTJjOTVjYTY2NWE2ODU5MTc2Mjk4",
+  "snapshot_id": "MCw5OTNlODZiYzMxMjM3N2VlODBiY2RiNmMwNGViYjlkZTYwYWYzN2Qy",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Dark Side",
         "url": "https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "Looking 4 Myself (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 234040,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "Looking 4 Myself (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/5pyVqlqThcxI7tPDjHIzPh"
     },
     {
       "added_at": "2023-03-03 13:37:54",

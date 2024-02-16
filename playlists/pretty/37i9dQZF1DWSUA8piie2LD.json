@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 108759,
+  "num_followers": 108836,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVkZTk4NmQxYTY4ZGU1MGU1Y2ZjMjM3NzJmZTExNDAwNTIwZThh",
+  "snapshot_id": "MCw0NWNjODg3NzA5YzE5OGFjY2Q2Nzg5ZGQzMDhhZDUwYTM4ZDhmOGM4",
   "tracks": [
     {
       "added_at": "2024-02-07 13:53:53",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Day Into Night",
-        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
       "artists": [
         {
-          "name": "Bob Mamet",
-          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Greenstreet",
-      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+        "name": "Day Into Night",
+        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Bob Mamet",
+          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
         }
       ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+      "duration_ms": 238066,
+      "name": "Greenstreet",
+      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 326213,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -635,6 +635,38 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 343093,
+      "name": "That's The Way Of The World",
+      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -659,38 +691,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 343093,
-      "name": "That's The Way Of The World",
-      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 302506,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 278666,
       "name": "Soul Express",
       "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 302506,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+      "duration_ms": 267400,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/4VmammPhpmq60VnL6s0xOE"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -1011,34 +1011,18 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 267400,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/4VmammPhpmq60VnL6s0xOE"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
-        "name": "For The Love",
-        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 280868,
-      "name": "I Just Can't Let Go",
-      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -1055,6 +1039,22 @@
       "duration_ms": 312226,
       "name": "Angel In Paris",
       "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "For The Love",
+        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 280868,
+      "name": "I Just Can't Let Go",
+      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
     },
     {
       "added_at": "2024-02-07 13:53:53",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-07 13:53:53",
       "album": {
-        "name": "Hardcastle 2",
-        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Bird Island",
-      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
-    },
-    {
-      "added_at": "2024-02-07 13:53:53",
-      "album": {
         "name": "The Collected",
         "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 325666,
       "name": "Take-Out Dreams",
       "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
+    },
+    {
+      "added_at": "2024-02-07 13:53:53",
+      "album": {
+        "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
     },
     {
       "added_at": "2024-02-07 13:53:53",

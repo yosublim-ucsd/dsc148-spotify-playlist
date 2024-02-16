@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Love Remain",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Sha\u00e9 Universe",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2198,6 +2198,24 @@
       "duration_ms": 144500,
       "name": "LOCK OFF",
       "url": "https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9"
+    },
+    {
+      "album": {
+        "name": "LOML",
+        "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "LOML",
+      "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
     },
     {
       "album": {

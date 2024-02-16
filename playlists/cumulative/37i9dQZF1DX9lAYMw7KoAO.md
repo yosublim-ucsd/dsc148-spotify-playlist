@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=v3ItO13oQ32jjAd96faHfQ">Dunsin Oyekan</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=C9\-23PBuSF2oV6zMlS553A">Ebuka Songs</a>
 
-408 songs - 1 day 11 hr 23 min
+409 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Ebenezeri \- Live Version](https://open.spotify.com/track/6EhVvsXCwlrlHrJuBmlYPZ) | [Apex Choir](https://open.spotify.com/artist/7HIOJjMPWrpsgduor6TGNr) | [Sounds of Testimonies](https://open.spotify.com/album/4wmV8eWeMnWG8MgkOwPD4o) | 24:30 | 2023-06-16 | 2023-06-30 |
 | [Eh Yaweh](https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Celebrate!](https://open.spotify.com/album/2jqinUWqqWhSB5ICFNykgD) | 5:55 | 2018-10-01 | 2023-02-04 |
 | [Elijah Level](https://open.spotify.com/track/5IjmyW8WYcxQ7apbudLqo9) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [A Decade After](https://open.spotify.com/album/2pxHAlyrr3PYW8jQPYxmg5) | 3:15 | 2023-08-25 | 2023-09-01 |
-| [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2023-11-10 |  |
+| [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2023-11-10 | 2024-02-16 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-07-14 |  |
 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 | 2023-06-16 | 2023-06-23 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 |  |
@@ -175,6 +175,7 @@
 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 | 2023-04-14 | 2023-06-23 |
 | [Intimate worship](https://open.spotify.com/track/6aSghEfFNO099IP86XPy3a) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimate worship](https://open.spotify.com/album/5cM5M5ftvg9xJ786ynhEEp) | 12:53 | 2023-06-02 | 2023-06-23 |
 | [Itshokwadi \(Live at Carnival City, 2012\)](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 | 2018-10-01 | 2023-03-15 |
+| [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-16 |  |
 | [Jehova](https://open.spotify.com/track/7AVcFuCQDmUk1PC3EJIQgH) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [J Flo](https://open.spotify.com/artist/2sYNLXNO25ueHq7EsD9ulx) | [Jehova](https://open.spotify.com/album/4CldibF8eKHGDlRAQhiD2R) | 4:40 | 2023-12-31 | 2024-01-04 |
 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 | 2023-04-07 |  |
 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2019-11-06 | 2023-04-01 |

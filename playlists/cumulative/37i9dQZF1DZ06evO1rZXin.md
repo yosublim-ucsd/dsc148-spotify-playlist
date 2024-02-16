@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 31 min
+73 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [El Toro Moro](https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 | 2022-06-01 |  |
 | [El Ultimo Rodeo](https://open.spotify.com/track/41BavIqhW0j16R7w6QCYEg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:14 | 2022-06-01 | 2023-03-18 |
 | [El Último Rodeo](https://open.spotify.com/track/2OoriUGBIdApEuKMkeDmTH) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:15 | 2023-03-17 |  |
-| [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 | 2022-06-01 |  |
+| [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 | 2022-06-01 | 2024-02-16 |
+| [Esa Chica Me Vacila](https://open.spotify.com/track/7q6yn8JrCnoCUGtD9JUiVg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 3:40 | 2024-02-15 |  |
 | [Hueso No Ma](https://open.spotify.com/track/3Sa8pP7ntuNmr4hkFYzJUP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:24 | 2022-06-01 | 2023-03-03 |
 | [Insensible](https://open.spotify.com/track/4obs3aaHJMnCR71GqKmTIO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:24 | 2022-06-01 | 2023-06-09 |
 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 | 2022-06-01 |  |

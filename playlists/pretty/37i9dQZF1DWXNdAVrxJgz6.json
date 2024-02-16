@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 131412,
+  "num_followers": 131454,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTk5N2RiN2ZhMmZhOGViOGIxYWEzZWQ0MTcwYTA1MTJmZmQzMmRl",
+  "snapshot_id": "MCwzZGNkZjQ1NjliY2MzYjQ0MGM0NDQzYzYyMzBiYTUwNDVhMzZiODdm",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Irreversible... 2012",
-        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Cabecita Dura",
-      "url": "https://open.spotify.com/track/1y8vhYug05asslmpY8bFel"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 218093,
       "name": "Mi Olvido",
       "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Irreversible... 2012",
+        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Cabecita Dura",
+      "url": "https://open.spotify.com/track/1y8vhYug05asslmpY8bFel"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "No Elegi Conocerte",
-      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "M\u00e1s Adelante",
+      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 212040,
-      "name": "M\u00e1s Adelante",
-      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
+      "duration_ms": 254853,
+      "name": "No Elegi Conocerte",
+      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 187880,
-      "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
+      "duration_ms": 141560,
+      "name": "Disfrut\u00e9 Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 141560,
-      "name": "Disfrut\u00e9 Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/2yHmyqLvinMYOiOsJagAYK"
+      "duration_ms": 225666,
+      "name": "Si Yo Te Contara",
+      "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Si Yo Te Contara",
-      "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/12SgOJuYwKoWE7LnxnhgYF"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "\u00bfQu\u00e9 Ganaste? (En Vivo)",
-      "url": "https://open.spotify.com/track/25gPU98x94MYwSc8agm7uR"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Que Te Duela M\u00e1s Que a M\u00ed, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/71NGECCHdpO0MZbkxrv4qW"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 265935,
       "name": "Capilla y Catedral (En Vivo)",
       "url": "https://open.spotify.com/track/1N1RODzJxLMvTD8isAxQlc"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/12SgOJuYwKoWE7LnxnhgYF"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 209986,
+      "name": "\u00bfQu\u00e9 Ganaste? (En Vivo)",
+      "url": "https://open.spotify.com/track/25gPU98x94MYwSc8agm7uR"
     },
     {
       "added_at": "2023-10-06 06:00:00",

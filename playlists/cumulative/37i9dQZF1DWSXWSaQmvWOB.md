@@ -2,9 +2,9 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul\-infused music! Cover: Quantic
+> Your daily dose of soul\-infused music! Cover: BJ The Chicago Kid
 
-812 songs - 2 day 1 hr 47 min
+814 songs - 2 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Better Than This](https://open.spotify.com/track/5mhPsvTH8oJSXlBrOgUz2t) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Better Than This](https://open.spotify.com/album/3U29KgbxUod2zJ0ojnXcEU) | 3:57 | 2022-07-14 | 2022-08-30 |
 | [Birth Of A New Age](https://open.spotify.com/track/5GVMXVYBFyUeq1jz8IsGRq) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Birth Of A New Age](https://open.spotify.com/album/5vfSBA3TW0hrD6bWsB5rqC) | 2:53 | 2021-03-18 | 2021-07-02 |
 | [Bittersweet](https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet](https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh) | 3:56 | 2020-03-25\* | 2021-05-21 |
-| [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 | 2024-02-09 |  |
+| [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 | 2024-02-09 | 2024-02-16 |
 | [Black Coffee in Bed](https://open.spotify.com/track/5cbF0E5gIaSKME5354qT7d) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Nikki Jean](https://open.spotify.com/artist/5LkHiburgp40vnKs1PFQYR) | [Black Coffee in Bed](https://open.spotify.com/album/26Xi3RH7tCdbvmun7tg5zn) | 5:27 | 2021-01-21 | 2021-02-28 |
 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 | 2023-08-15 | 2023-12-13 |
 | [Black Insides](https://open.spotify.com/track/1Jj2DDcpJJRnXMfAJkETVK) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Black Insides](https://open.spotify.com/album/0pgUpz6U6wk9g24alwQbJL) | 5:48 | 2023-10-06 | 2023-12-13 |
@@ -433,6 +433,7 @@
 | [Made Up Your Mind](https://open.spotify.com/track/7y9MSDTGKQphbjLE0pL8OZ) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Made Up Your Mind](https://open.spotify.com/album/1OIJ6gRVd4Ez5oF16f2Awk) | 3:19 | 2024-01-16 | 2024-02-10 |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-04-17 | 2022-09-23 |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2021-08-24 | 2021-12-14 |
+| [Man of the Hour](https://open.spotify.com/track/2Uz6eflEfqMJj2wuKKs8HM) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Man of the Hour](https://open.spotify.com/album/4nFtDGFsOh49q9VXrdlwlx) | 3:16 | 2024-02-15 |  |
 | [Man Up And Create](https://open.spotify.com/track/3Kb7L6QogN2cptgD8CmlPI) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Man Up And Create](https://open.spotify.com/album/6tjBDcVkCjDrxWmEzuFdpT) | 3:23 | 2020-05-01 | 2020-08-25 |
 | [MANGO \(feat\. Adeline\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adeline\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2020-10-02 | 2021-09-24 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-02-17 | 2023-07-11 |
@@ -471,7 +472,7 @@
 | [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 | 2023-07-10 |  |
 | [Nakie Nakie](https://open.spotify.com/track/18QfA6nedF15GCefoRmbcT) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Nakie Nakie](https://open.spotify.com/album/2hEEMvD5dELumMCQOfNdVg) | 4:38 | 2024-01-16 |  |
 | [Need To Know Basis](https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 1:59 | 2022-07-28 | 2023-03-18 |
-| [Neighbor](https://open.spotify.com/track/1tnx2C8OgmFrenHvdVuaBL) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Double Cream](https://open.spotify.com/artist/7g1yQWpJVDXbZBxbMrzdDJ) | [Neighbor](https://open.spotify.com/album/7dnlDFwoW91q62L85zUcTO) | 3:51 | 2023-07-10 |  |
+| [Neighbor](https://open.spotify.com/track/1tnx2C8OgmFrenHvdVuaBL) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Double Cream](https://open.spotify.com/artist/7g1yQWpJVDXbZBxbMrzdDJ) | [Neighbor](https://open.spotify.com/album/7dnlDFwoW91q62L85zUcTO) | 3:51 | 2023-07-10 | 2024-02-16 |
 | [neve give up](https://open.spotify.com/track/2pCdCo0N1DykjLcfaT3YwO) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [neve give up](https://open.spotify.com/album/6GSVl9qIdB0teXCz0OIDpN) | 3:41 | 2020-03-25\* | 2020-05-15 |
 | [Never Change](https://open.spotify.com/track/3zma4RNkICSuIzihbj5UCU) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Diary of Me](https://open.spotify.com/album/41O0uehAu0n6jqG4RTrL2u) | 3:01 | 2023-06-07 | 2023-07-11 |
 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 | 2023-12-12 |  |
@@ -651,6 +652,7 @@
 | [Stay](https://open.spotify.com/track/1tuhxHYZTrfefeO5zqfFSm) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Stay](https://open.spotify.com/album/05PBmybm2MvHvcb7n3Vn3r) | 4:38 | 2022-01-27 | 2023-03-18 |
 | [Stay Up \- Pastel Remix](https://open.spotify.com/track/2jVQoTDSzfytDWnxl6e51X) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Intérimixed](https://open.spotify.com/album/6ArXooRUOXEIUrbWNPlHKD) | 3:33 | 2020-10-09 | 2021-04-17 |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-07-23 | 2022-02-18 |
+| [STEP BY STEP](https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [STEP BY STEP](https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal) | 3:29 | 2024-02-15 |  |
 | [Still](https://open.spotify.com/track/0H8VPq7MtL29JOI3rtO6bc) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [Still](https://open.spotify.com/album/1Scr6kniX8lYs84lGKfga4) | 2:26 | 2022-05-12 | 2022-07-29 |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/album/4C88dLvxhgzErXeL2ZZVBW) | 3:25 | 2021-05-14 | 2021-12-01 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-02 | 2023-06-08 |

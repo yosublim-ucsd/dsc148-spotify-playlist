@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kacey Musgraves, Latto, Noah Kahan, d4vd, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,156,280 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,156,579 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 19 | [I Write The News](https://open.spotify.com/track/24rzn9kTpr0G4keKLkzofw) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 2:45 |
 | 20 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
 | 21 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
-| 22 | [Talking / Once Again](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [Talking / Once Again](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 |
+| 22 | [TALKING](https://open.spotify.com/track/6J4rRj2uVfziGMyfrPEPLo) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [TALKING](https://open.spotify.com/album/2DoNi5ICclrJgGI2UEWEfG) | 3:05 |
 | 23 | [Dreaming](https://open.spotify.com/track/6eOhPYgVzJmH3Oc476NLfw) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Dreaming](https://open.spotify.com/album/2pcrfO8TY7ceObFoIx3pbK) | 3:42 |
 | 24 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 |
 | 25 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [Drank on Accutane](https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Drank on Accutane](https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q) | 3:10 |
 | 99 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
 
-Snapshot ID: `MCw4OTNiZDViYjEzNjlkOWQ1MTkyZmY2Zjk3NGU5M2YwMzJjZmQ3ZGI1`
+Snapshot ID: `MCw0MWU4NjA0N2Q4OWZlMTZjNmY5NTJkZWJhMGM5MTZlMTBiNDY0MDky`

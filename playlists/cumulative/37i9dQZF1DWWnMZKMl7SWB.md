@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,348 songs - 2 day 11 hr 13 min
+1,349 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [Diaphane](https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt) | [Diaphane](https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4) | 2:17 | 2023-09-22 | 2024-01-07 |
 | [Digital lounge](https://open.spotify.com/track/24XhVpnlzq5fsf7TPFccwx) | [Roboto 23](https://open.spotify.com/artist/4BqXrDIymPUviUv9HXmmjO) | [Digital lounge](https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt) | 2:09 | 2023-09-08 | 2023-11-25 |
 | [disclosure](https://open.spotify.com/track/6QwKvEiS7g4ZmwEcTv0ZVj) | [agirlhasnofame](https://open.spotify.com/artist/7Fh3GA8Ca6rtEumfW4hFuW) | [disclosure](https://open.spotify.com/album/1LWEets87Xv9fOo0VnVSKQ) | 2:10 | 2023-09-22 |  |
-| [Disintegrate](https://open.spotify.com/track/6xvNZaAEtO0GqqdHi5CxOt) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Lucrative Behavior](https://open.spotify.com/album/2DMhX2hI5PcVHl1YGJHNui) | 2:14 | 2023-09-22 |  |
+| [Disintegrate](https://open.spotify.com/track/1il5V8LKz9EojfL8SYN8Cq) | [Jubal Seneca](https://open.spotify.com/artist/2NM6NpNr1JeIj7P3TFGAtt) | [Disintegrate](https://open.spotify.com/album/4PpkTCsSZhGkrzO1ZGKnPI) | 2:14 | 2024-01-05 |  |
+| [Disintegrate](https://open.spotify.com/track/6xvNZaAEtO0GqqdHi5CxOt) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Lucrative Behavior](https://open.spotify.com/album/2DMhX2hI5PcVHl1YGJHNui) | 2:14 | 2023-09-22 | 2024-02-16 |
 | [Distractions](https://open.spotify.com/track/3jNkhv4Hn6MnogaKf6qJMk) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [As The Curtain Falls](https://open.spotify.com/album/0B4vsSRaBDU5lpxdzaMeEy) | 2:15 | 2023-09-22 |  |
 | [Diving In](https://open.spotify.com/track/34rgBVC2wMRJcP5xQd03zQ) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Diving In](https://open.spotify.com/album/52oZVRf4u0aaIi813gKfC8) | 1:56 | 2023-09-22 |  |
 | [Dizzy Dino](https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dizzy Dino](https://open.spotify.com/album/7vGE2cjl9s1fBj8MJcTDLj) | 2:48 | 2023-09-08 | 2023-11-25 |

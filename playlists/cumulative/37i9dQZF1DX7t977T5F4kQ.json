@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Fameye",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Samini",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1220,6 +1220,24 @@
       "duration_ms": 213900,
       "name": "Check My Zingo",
       "url": "https://open.spotify.com/track/3ksujzQdErGpeHxWhI6UpN"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221767,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl"
     },
     {
       "album": {
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 164000,
       "name": "Je M'appelle (feat. DaVido)",
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192000,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
@@ -3676,7 +3694,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
@@ -4387,6 +4405,28 @@
     },
     {
       "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -4518,6 +4558,24 @@
       "duration_ms": 133804,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2wK5qJVUTOkWzjfeTnQI2d"
+    },
+    {
+      "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Latto)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: ScHoolboy Q)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -9501,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/7jzNj1vlghcgJDaAZCGDC5"
+      },
+      "artists": [
+        {
+          "name": "Stay Over",
+          "url": "https://open.spotify.com/artist/2WYklsnVBJ99Jhou8xbu6m"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/5DhjNETdTrHToT8yDbjG2r"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3eUsPahj6UMdIBreWMxUMO"
       },
@@ -15595,6 +15617,28 @@
     },
     {
       "album": {
+        "name": "HOT BOYZ",
+        "url": "https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133818,
+      "name": "HOT BOYZ",
+      "url": "https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ"
+    },
+    {
+      "album": {
         "name": "I'M GOOD, HBU?",
         "url": "https://open.spotify.com/album/2uu0WGNU7qSTfhhEMcY3aM"
       },
@@ -18238,6 +18282,10 @@
         {
           "name": "JJJ",
           "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
+        {
+          "name": "DJ SCRATCH NICE",
+          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
         }
       ],
       "date_added": "2024-01-25",
@@ -20196,7 +20244,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147200,
       "name": "MAJOR",
       "url": "https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl"
@@ -21614,7 +21662,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 181440,
       "name": "Money",
       "url": "https://open.spotify.com/track/44oplqENf5X6pMIaIHa5gy"
@@ -24921,6 +24969,24 @@
     },
     {
       "album": {
+        "name": "Osadebe",
+        "url": "https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156756,
+      "name": "Osadebe",
+      "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
+    },
+    {
+      "album": {
         "name": "comma",
         "url": "https://open.spotify.com/album/1R9wyzLuLYqy3nLh0ks8W2"
       },
@@ -27402,7 +27468,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 143083,
       "name": "r u ok or not?",
       "url": "https://open.spotify.com/track/1weqKrMtM4sKO5vUucrKq9"
@@ -31376,6 +31442,24 @@
       "duration_ms": 196989,
       "name": "sorry, who?",
       "url": "https://open.spotify.com/track/2bZlaC2IM0e5SMepreCJ3T"
+    },
+    {
+      "album": {
+        "name": "Sorrys & Ferraris",
+        "url": "https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167915,
+      "name": "Sorrys & Ferraris",
+      "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
     },
     {
       "album": {
@@ -37528,7 +37612,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 183039,
       "name": "WE GON' BE ALRIGHT",
       "url": "https://open.spotify.com/track/0nBeVZqcRrWlldgC3uBlKc"
@@ -38934,6 +39018,24 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
+    },
+    {
+      "album": {
+        "name": "Yeern 101",
+        "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Yeern 101",
+      "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-282 songs - 17 hr 4 min
+283 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [More](https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 4:00 | 2022-09-15 |  |
 | [Morena \- Re\-Mix](https://open.spotify.com/track/1ZE19OuOnqsMFB6V9Gtzcy) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Glory](https://open.spotify.com/artist/17WbRGqXOt3Garv9CERTGk) | [La Historia Live](https://open.spotify.com/album/3syIceuWeZKFbuVubOsS4W) | 2:38 | 2021-12-09 | 2022-07-29 |
 | [Movimiento de Caderas](https://open.spotify.com/track/468L8HV8IykzwRs4eEXn4Y) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb) | [The SexyTrip](https://open.spotify.com/album/524SmS20h9onvTnzLz3TA0) | 3:10 | 2023-05-08 | 2024-01-21 |
+| [Movimiento de Caderas](https://open.spotify.com/track/6eondbQIoXGRsJFmQkWFIL) | [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb) | [The SexyTrip](https://open.spotify.com/album/7raX7y0RFFuqINI1QVsIKj) | 3:10 | 2023-06-21 |  |
 | [Muévelo](https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Originales](https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ) | 4:04 | 2022-04-05 | 2023-02-02 |
 | [Métele Sazón](https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 4:02 | 2023-05-08 |  |
 | [Mírala Bien](https://open.spotify.com/track/04uA3BJ1Rj8DBKkpKCABJx) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:36 | 2021-12-09 | 2024-02-07 |
@@ -241,7 +242,7 @@
 | [Si No Le Contesto](https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/5uja4ElM6i6neeFTAa4Itw) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Si Tú La Ves \(feat\. Wisin\)](https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:41 | 2022-01-20 |  |
 | [Siente El Boom](https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [El Documental II](https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z) | 3:08 | 2021-12-09 |  |
-| [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2022-01-24 |  |
+| [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2022-01-24 | 2024-02-16 |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2023-05-08 |  |
 | [Solos](https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:08 | 2022-09-15 | 2023-05-09 |
 | [Soltera \- Remix](https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:26 | 2021-12-09 | 2022-09-16 |

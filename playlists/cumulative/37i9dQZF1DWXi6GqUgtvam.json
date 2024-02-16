@@ -434,10 +434,32 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 243000,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/1wtICs9nvS3zl27bCgBaUP"
+    },
+    {
+      "album": {
+        "name": "Jacobean Lute Music",
+        "url": "https://open.spotify.com/album/2sryDIvNuZ3AyeZ7pqJu2M"
+      },
+      "artists": [
+        {
+          "name": "Cuthbert Hely",
+          "url": "https://open.spotify.com/artist/0796Sa4MsgLbiCIFgSPLAn"
+        },
+        {
+          "name": "Jakob Lindberg",
+          "url": "https://open.spotify.com/artist/75oA7nyJ60AqDyOpB5Jbs9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Fantasia (I)",
+      "url": "https://open.spotify.com/track/6Cneh90xYDJqfIFbnam4Bz"
     },
     {
       "album": {

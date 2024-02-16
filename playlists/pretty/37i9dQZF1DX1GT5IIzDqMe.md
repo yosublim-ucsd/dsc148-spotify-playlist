@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,980 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,001 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 36 | [Maintain](https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain](https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe) | 4:56 |
 | 37 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 |
 | 38 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
-| 39 | [Do It All Night \- Honey Dijon Remix \[Radio Edit\]](https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Do It All Night \(Honey Dijon Remix \[Radio Edit\]\)](https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8) | 4:12 |
-| 40 | [Throw](https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [Best of Techno \(Compilation Tracks\)](https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK) | 3:43 |
+| 39 | [Throw](https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [Best of Techno \(Compilation Tracks\)](https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK) | 3:43 |
+| 40 | [Do It All Night \- Honey Dijon Remix \[Radio Edit\]](https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Do It All Night \(Honey Dijon Remix \[Radio Edit\]\)](https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8) | 4:12 |
 | 41 | [Chroma Light](https://open.spotify.com/track/5CiCxQ4pUAFG396mSxT72x) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [The Blueprint EP](https://open.spotify.com/album/5Hol3dzXCzMHZ7Tx7LKrbV) | 5:37 |
 | 42 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 | 43 | [Savage & Beyond](https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
 | 50 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 
-Snapshot ID: `MCwyYmNhNmZiNjMyNWNkMjlkNGUwMjEyZWRmZTJmNzExNTc5OTVjNzkx`
+Snapshot ID: `MCxiYjQ4ZjI2NGY5OGFkZDAxN2JjYTc3ZmNiZmM4NTE0NmI2MGFkNjJi`

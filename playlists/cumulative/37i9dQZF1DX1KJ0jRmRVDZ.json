@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7"
+    },
+    {
+      "album": {
         "name": "\u3072\u3068\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/50dBbJbsF0mw4JZPeEHtly"
       },
@@ -5005,6 +5023,28 @@
     },
     {
       "album": {
+        "name": "Raikanekko",
+        "url": "https://open.spotify.com/album/2YgkWhVFqqqkYzuzEyEDnd"
+      },
+      "artists": [
+        {
+          "name": "Risa Yuzuki",
+          "url": "https://open.spotify.com/artist/5VGrNkixNGpKM2OBwEtHtl"
+        },
+        {
+          "name": "nyankobrq",
+          "url": "https://open.spotify.com/artist/5kO6DdAXbdge94JpKnyOdA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225759,
+      "name": "Raikanekko",
+      "url": "https://open.spotify.com/track/4E7pE5AghmisqgNazzJUQv"
+    },
+    {
+      "album": {
         "name": "Under Mentality",
         "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
       },
@@ -5902,7 +5942,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 383937,
       "name": "Simily",
       "url": "https://open.spotify.com/track/1RzRvI6EcXR5ahb1xUMtBc"
@@ -6010,7 +6050,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 276493,
       "name": "Socchoku",
       "url": "https://open.spotify.com/track/2VsfT97ZOE60ghEsNaufAQ"
@@ -14164,7 +14204,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 194164,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
@@ -15616,6 +15656,24 @@
       "duration_ms": 218466,
       "name": "\u6065\u3055\u3089\u3057",
       "url": "https://open.spotify.com/track/0hPclHnMZKlhUpkiB1jnnE"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u304f\u3041\u306a\u3044",
+        "url": "https://open.spotify.com/album/2YTL1eKDiSO1hIGGhgHC2h"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u66f4\u304b\u3057\u3055\u3093\u306f\u767d\u663c\u5922\u3092\u898b\u308b",
+          "url": "https://open.spotify.com/artist/3Tekc5GNuIH1o2psFvYPJk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281363,
+      "name": "\u60aa\u304f\u3041\u306a\u3044",
+      "url": "https://open.spotify.com/track/3zF2FesG8CbLBPNu8ZVgYp"
     },
     {
       "album": {

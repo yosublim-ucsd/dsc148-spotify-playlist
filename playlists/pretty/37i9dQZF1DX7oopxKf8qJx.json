@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 83530,
+  "num_followers": 83586,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2MzNDBlMDQ5NWI0N2ExNzlhOGEzMzQzYjhhMTlkNzM2MTJmNjJi",
+  "snapshot_id": "MCwxZmQyYzMyMTIyOGQ2NTYwMTc5N2NkYTI5ZjIwMjE4YTk2YmU5YmQ4",
   "tracks": [
     {
       "added_at": "2024-02-01 13:41:34",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
       },
       "artists": [
         {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 188240,
-      "name": "Fools Rush In (Where Angels Fear to Tread)",
-      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
         }
       ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
+      "duration_ms": 188240,
+      "name": "Fools Rush In (Where Angels Fear to Tread)",
+      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -487,26 +487,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
       "artists": [
         {
-          "name": "Robert Maxwell",
-          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
-        },
-        {
-          "name": "Carl Sigman",
-          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
         }
       ],
-      "duration_ms": 217266,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+      "duration_ms": 197453,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -559,6 +551,30 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Maxwell",
+          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
+        },
+        {
+          "name": "Carl Sigman",
+          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "The Magic Of Manuel",
         "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 224800,
       "name": "Moonglow and Theme from Picnic",
       "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+      },
+      "artists": [
+        {
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "Plays Latin Themes For Young Lovers",
         "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
       "artists": [
         {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -751,22 +767,6 @@
       "duration_ms": 191066,
       "name": "Stranger On The Shore",
       "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Hugo Winterhalter",
+          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "The Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "Big Band Bash!",
         "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
       },
@@ -903,22 +923,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Hugo Winterhalter",
-          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
         }
       ],
-      "duration_ms": 156546,
-      "name": "The Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
+      "duration_ms": 176240,
+      "name": "Islands In The Sky",
+      "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -935,22 +951,6 @@
       "duration_ms": 225226,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
-      },
-      "artists": [
-        {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Islands In The Sky",
-      "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
     },
     {
       "added_at": "2024-02-01 13:41:34",

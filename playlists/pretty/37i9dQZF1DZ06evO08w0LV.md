@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 18 | [TRASTEVERE](https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:02 |
 | 19 | [Somebody Told Me](https://open.spotify.com/track/4AIatGjGyVipeEAzCMTqOg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:41 |
 | 20 | [READ YOUR DIARY](https://open.spotify.com/track/16HsEMkim07LboMyhR81eu) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:30 |
-| 21 | [L'altra dimensione](https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:06 |
+| 21 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 |
 | 22 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 |
 | 23 | [Let's Get It Started](https://open.spotify.com/track/6D2tOVX5MMl8jNVkwsFaWg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:26 |
 | 24 | [FEEL](https://open.spotify.com/track/6pUcoYKUZzgBNokZ3IYCfA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:47 |
-| 25 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 |
+| 25 | [L'altra dimensione](https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:06 |
 | 26 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 |
 | 27 | [Chosen](https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:42 |
 | 28 | [DON'T WANNA SLEEP](https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:36 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 36 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 |
 | 37 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBmN2UxNzUxNWFiYWVmNjM1MjczOTBjYTFkYzk3MTE1Zg==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDA5NjE2Y2ZkYzhhYzczYTVlNWNiYWVhMTUyZTY4MWM1MQ==`

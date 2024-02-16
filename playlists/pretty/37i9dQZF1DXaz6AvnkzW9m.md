@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 miguel cornejo, Calle 24 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,373 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,500 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 69 | [En Las Momias](https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s) | [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Las Momias](https://open.spotify.com/album/5KcydETHDWB2FZYO3LCjLk) | 2:10 |
 | 70 | [PROJECT X](https://open.spotify.com/track/1IjK9iuvWzcPZpXUTDZDSk) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PROJECT X](https://open.spotify.com/album/4OhiUN9Lk1D3BOMSAcZokx) | 3:12 |
 | 71 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
-| 72 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 |
+| 72 | [El After](https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb) | [Ricky Barajas](https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [El After](https://open.spotify.com/album/7jxa0KY12QrVsMcmLt4YB7) | 2:11 |
 | 73 | [Mecha Corta](https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mecha Corta](https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI) | 3:25 |
-| 74 | [El After](https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb) | [Ricky Barajas](https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [El After](https://open.spotify.com/album/7jxa0KY12QrVsMcmLt4YB7) | 2:11 |
+| 74 | [Le Gusta](https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Le Gusta](https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf) | 2:35 |
 | 75 | [Soñando](https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD) | [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Soñando](https://open.spotify.com/album/1tl182IgEgAOhTOgp1rooN) | 3:08 |
 
-Snapshot ID: `MCxlMzQ4NzcyMGUxOGEzZDM3YzM3YzBkZTJjNzU3MzQ5ZmIyMmQ4MWJh`
+Snapshot ID: `MCw2ZDhkOGZkNDJhZTVmODhjYzUxODI0ZTBmOGFjZWQyZDU3NDU1NDFk`

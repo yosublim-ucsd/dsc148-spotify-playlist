@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > New folk & americana driving the current, every week\. Cover: Kara Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,132 likes - 96 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,160 likes - 96 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 12 | [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 |
 | 13 | [Masterpiece](https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Wide Open Light](https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7) | 2:44 |
 | 14 | [New Day](https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [New Day](https://open.spotify.com/album/1Hu8TUT4WPpryik4S307sI) | 3:21 |
-| 15 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
+| 15 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2Ewaozo7Oe2XAI3sDlBvDk) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/5cEVsl5FHxCB6mpyVKpoNP) | 4:16 |
 | 16 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 |
 | 17 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 18 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 95 | [Maniacapella](https://open.spotify.com/track/6MMmDh3aLPj8C3FJ2PGPj8) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [The Other Side](https://open.spotify.com/album/5ih1oUrztdhanRibICrlHa) | 4:01 |
 | 96 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 |
 
-Snapshot ID: `MCwzNjlkMjQwNTgwOTE1OWVmZWY4ZmRmOTZmMGRlYzc2M2U4ZDlmOGU4`
+Snapshot ID: `MCw4YmVlM2ViMGIxYzIyODY3OWNmZDQyODgxZjQ5OGExMjZjMjE5MWQ2`

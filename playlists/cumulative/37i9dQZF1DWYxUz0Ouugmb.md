@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nadhif Basalamah
 
-184 songs - 11 hr 49 min
+187 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Kamu Kurang Usaha](https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd) | 4:45 | 2023-04-13 | 2023-09-28 |
 | [Kamu Kurang Usaha](https://open.spotify.com/track/2i5RTxltb0Bhn5fcXpqU7M) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Kamu Kurang Usaha](https://open.spotify.com/album/0CmomGvxqIOhb7PDcBPkNL) | 4:45 | 2023-09-21 |  |
 | [Karma](https://open.spotify.com/track/5EdR4T0aRFTb18gtmbCNYL) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Karma](https://open.spotify.com/album/59BX9nwYcT4VuU9TbAf7HA) | 3:49 | 2022-10-06 | 2023-04-14 |
+| [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 | 2024-02-15 |  |
 | [Kau Rumahku](https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ) | 4:35 | 2022-03-24 | 2022-07-29 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-07-28 | 2023-04-14 |
 | [Kau Tawarkan Setia \- Live Ska Reggae](https://open.spotify.com/track/58oW9oFIX72doGmyE88ONZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia \(Live Ska Reggae\)](https://open.spotify.com/album/4vPsd3xq8zJIriTDHkxvhh) | 6:53 | 2023-07-13 |  |
@@ -90,6 +91,7 @@
 | [Kebal Kelaran](https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5) | 4:34 | 2021-11-25 | 2022-03-25 |
 | [Kelangan](https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Kelangan](https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO) | 4:54 | 2021-11-25 | 2022-03-25 |
 | [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-16 | 2023-04-14 |
+| [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 | 2024-02-15 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2021-11-25 | 2022-03-25 |
 | [Ku Tak Bisa \- Live Ska Reggae](https://open.spotify.com/track/1bWf6khDmlEU6TrGihA7v8) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Ku Tak Bisa \(Live Ska Reggae\)](https://open.spotify.com/album/49iF2rvuxoIWLORKzwHozO) | 4:45 | 2023-09-14 | 2023-12-01 |
 | [L](https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K) | 3:40 | 2023-08-24 |  |
@@ -138,6 +140,7 @@
 | [Queen of The South](https://open.spotify.com/track/65Y2vY9zirG11USMyryRqu) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Queen of The South](https://open.spotify.com/album/6Y0eJDOJccyw6nmrGFNFwk) | 3:23 | 2021-11-25 | 2022-03-25 |
 | [Rela](https://open.spotify.com/track/1azXDEz0VyJzPUfjq3dxJZ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Rela](https://open.spotify.com/album/3pAIePTL43Po9BwgPJn2m0) | 3:59 | 2022-03-24 | 2023-04-14 |
 | [reverie](https://open.spotify.com/track/2Wip5AS4ofsLpRoYK4433A) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [reverie](https://open.spotify.com/album/5N2Upnzz1c39IygJXUHTsJ) | 3:27 | 2022-03-24 | 2023-04-14 |
+| [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-15 |  |
 | [Roller Coaster](https://open.spotify.com/track/3zdLMiip3PdPfGSE10Q9di) | [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O), [Justin Adijanto](https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Roller Coaster](https://open.spotify.com/album/7AsxoSgN0BlAQQaRxjFxZP) | 3:04 | 2021-11-25 | 2022-03-25 |
 | [Ruang Rindu](https://open.spotify.com/track/7GaqO0Mddb1W2bMmV3g6Kx) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Ruang Rindu](https://open.spotify.com/album/18jRL6EcPhjPYeKEnF2jmY) | 3:09 | 2021-11-25 | 2022-03-25 |
 | [RUNAWAY W ME](https://open.spotify.com/track/7pzfaLBUK9WvVT2ageCLZ5) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RUNAWAY W ME](https://open.spotify.com/album/0e5zw8a0EjqapZqc7Fkmv4) | 3:01 | 2022-03-24 | 2023-04-14 |

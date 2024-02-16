@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 40 min
+96 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Unstoppable](https://open.spotify.com/track/03MLt6PXZqt6fiu7AQBtvF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Unstoppable](https://open.spotify.com/album/4hGmLY9YaDfgJ6WU4EzNcg) | 3:27 | 2023-06-03 | 2023-12-14 |
 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 | 2023-02-16 |  |
 | [Used To Be Young](https://open.spotify.com/track/239Hmf9gqfdOjYBBaKcYGs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Used To Be Young](https://open.spotify.com/album/53C3GboXZmNPObC7yOrX17) | 2:56 | 2024-01-13 |  |
-| [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 | 2023-10-01 |  |
+| [Vampire](https://open.spotify.com/track/6HU8lsYxZ7IiMwNJGVwHPO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:40 | 2024-02-15 |  |
+| [Vampire](https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Vampire](https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG) | 3:40 | 2023-10-01 | 2024-02-16 |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/6f5hm2TMHcsXpp50D9WdI7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:32 | 2023-02-16 | 2023-08-24 |
 | [We're Taking Over](https://open.spotify.com/track/4Vi2saJD0xwxIV0tGmOv18) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [We're Taking Over](https://open.spotify.com/album/7MHFKc5lYIAOBitmMFNYaN) | 2:53 | 2023-12-13 |  |
 | [Who Do You Love](https://open.spotify.com/track/519eXuXDOHsb7SAIkBWEOy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:24 | 2023-04-20 | 2023-04-24 |

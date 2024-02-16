@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
+    },
+    {
+      "album": {
         "name": "Armenian Pop Music",
         "url": "https://open.spotify.com/album/45SMJMghoL8N2BeuknayF6"
       },

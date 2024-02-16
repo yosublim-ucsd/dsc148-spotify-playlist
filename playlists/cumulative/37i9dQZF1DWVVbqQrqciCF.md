@@ -4,10 +4,11 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-56 songs - 4 hr 22 min
+57 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 | 2024-02-15 |  |
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-17 |  |
 | [Blue](https://open.spotify.com/track/3eGKvQ0eYpyl28lMo8ZT93) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Blue](https://open.spotify.com/album/142pAHbasPxFPBKbS5wsb3) | 4:08 | 2022-11-17 |  |
 | [Comet](https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 3:33 | 2022-11-17 |  |

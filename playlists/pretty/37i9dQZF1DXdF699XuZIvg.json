@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 699160,
+  "num_followers": 699135,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTIxNTFmNjIzOTMxMmZlNDI1ODIxMmU4NmIzZGYwNDBmNTE1NTlj",
+  "snapshot_id": "MCxjNWU2ZjY4ODA4ZDk0ZWNkYzdhOWQ2NmNmM2M3MjgzMWI2ODQwYzVm",
   "tracks": [
     {
       "added_at": "2023-09-21 12:18:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
-        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 241080,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/29uKzagduhFDTWPCjqaGOg"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
     },
     {
       "added_at": "2023-09-21 12:18:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Flo Milli, Drake, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,272,429 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,272,749 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 73 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 74 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 |
 
-Snapshot ID: `MCxkMWMxYjE4ZWE3OWZlM2YyY2NmZjZhMTMyMGQ5MTJkYTI2OWY3ODli`
+Snapshot ID: `MCxkYTQyZGM5NzcwMzY2MTg0MTU3MmUyYmJjNGVjYTJmYzY3MDhkMTQx`

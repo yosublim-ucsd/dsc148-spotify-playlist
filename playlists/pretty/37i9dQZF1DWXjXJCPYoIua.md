@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,081 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,167 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Mamacita](https://open.spotify.com/track/2NngcJXkyG5Mo6OO3775r0) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Sin Corte](https://open.spotify.com/album/6u1jmCdZsZTaLQywoAdVsZ) | 3:37 |
 | 100 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 
-Snapshot ID: `MCw1MGU1ZjAwZGMwYjgzM2M5ZmMzZTAyOWQwNjhhNmRkNTE3ZDE1Mjdk`
+Snapshot ID: `MCxjODgzODNlNTZkZDY1NTYyNTVhZTMwNTQyNzQ3YWRjYjVmNWY0ZjIy`

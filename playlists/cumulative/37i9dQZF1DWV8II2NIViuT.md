@@ -4,7 +4,7 @@
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-40 songs - 2 hr 40 min
+41 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [I Just Called to Say I Love You](https://open.spotify.com/track/2S0Hc3v3MjSdL8JvRWJjpC) | [Urselle](https://open.spotify.com/artist/2BSOOFVatoOmhdtcN0k1cP) | [Handful of Promises](https://open.spotify.com/album/6ri455xP2rCIoC4vKtcFrJ) | 3:51 | 2023-08-03 |  |
 | [I Just Called to Say I Love You \- Recorded at RCA Studio A, Nashville](https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 4:07 | 2023-08-03 |  |
 | [I Love Every Little Thing About You](https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:56 | 2023-08-03 |  |
-| [I Was Made to Love Her](https://open.spotify.com/track/2UP48WBw40vfggp53fWQ1Y) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:41 | 2023-08-03 |  |
+| [I Was Made to Love Her](https://open.spotify.com/track/2UP48WBw40vfggp53fWQ1Y) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:41 | 2023-08-03 | 2024-02-16 |
+| [I Was Made To Love Her](https://open.spotify.com/track/3tp2vsiN4599IEQqoi9rgy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Soul On A Mission](https://open.spotify.com/album/1N66oKqT9D350GFwDfKfqE) | 2:41 | 2023-08-03 |  |
 | [If It's Magic](https://open.spotify.com/track/0F6HC5P6b4D3GASp8SFKw1) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Gemini](https://open.spotify.com/album/70YZ1zflBKeWZs9tgP5hif) | 3:50 | 2023-08-03 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/4bKXnz3kB9zMjeCKpIUz2V) | [Pinky Dread](https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ) | [From a Reggae Point of View](https://open.spotify.com/album/12wOS02zmIrvmWDXOo7X3N) | 2:19 | 2023-08-03 |  |
 | [Jesus Children](https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Malcolm Jamal Warner](https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL) | [Stevie Wonder Covers](https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078) | 5:29 | 2023-08-03 | 2023-11-12 |

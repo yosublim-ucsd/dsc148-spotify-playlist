@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415542,
+  "num_followers": 415534,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTBkZWZkNjI5MWMwMGU0MGEzZmNmMzI5NzdhNGI4YWJjNTlmNjRi",
+  "snapshot_id": "MCxkMDkzNmViZmQ1MTY0OTZkNzM4MTQxYmU2NDEzZDQ4NGI3MmRlNzBm",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -435,18 +435,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -491,26 +495,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Pecos & the Rooftops",
         "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 204141,
       "name": "Stay",
       "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Cigarettes and Milk",
+        "url": "https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Feidler",
+          "url": "https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q"
+        }
+      ],
+      "duration_ms": 231029,
+      "name": "Cigarettes and Milk",
+      "url": "https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
       },
@@ -1591,6 +1607,54 @@
       "duration_ms": 188995,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Rest of Our Lives (Maddie\u2019s Song)",
+        "url": "https://open.spotify.com/album/65IVooocQgErBxb41WauME"
+      },
+      "artists": [
+        {
+          "name": "Cannon Brand",
+          "url": "https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K"
+        }
+      ],
+      "duration_ms": 232377,
+      "name": "Rest of Our Lives (Maddie\u2019s Song)",
+      "url": "https://open.spotify.com/track/74ZjWAMTUtKU5mAdneJJ5L"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Too Many Honky Tonks",
+        "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 193050,
+      "name": "Too Many Honky Tonks",
+      "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1631,38 +1695,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Too Many Honky Tonks",
-        "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
-      },
-      "artists": [
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 193050,
-      "name": "Too Many Honky Tonks",
-      "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -1675,38 +1707,6 @@
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Can't Put the Bottle Down",
-        "url": "https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "Can't Put the Bottle Down",
-      "url": "https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Cigarettes and Milk",
-        "url": "https://open.spotify.com/album/0FUGAP7y7d9AZH0pYVt6jx"
-      },
-      "artists": [
-        {
-          "name": "Kenny Feidler",
-          "url": "https://open.spotify.com/artist/1KqKN0tnaJWwsUfvxDLI1q"
-        }
-      ],
-      "duration_ms": 231029,
-      "name": "Cigarettes and Milk",
-      "url": "https://open.spotify.com/track/0HzZnV2SmvysrMb6VCO3az"
     }
   ],
   "unique_name": "Texas Country Now",

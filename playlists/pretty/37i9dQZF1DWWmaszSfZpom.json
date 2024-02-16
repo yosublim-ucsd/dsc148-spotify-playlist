@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 981275,
+  "num_followers": 981283,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBjOWY5ZGZmYTZlNzcwM2FiOGRiZGQ0MWExY2RjYmYyZDA5Yzg3",
+  "snapshot_id": "MCw0MWZmZDEyNzYyNTNjN2RiNjA2MzBhNDBlM2Q4ZTMyMjU2MzhmOTRj",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Bumbum granada",
+        "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
+      },
+      "artists": [
+        {
+          "name": "MC's Zaac",
+          "url": "https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 187461,
+      "name": "Bumbum granada",
+      "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Bumbum granada",
-        "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
-      },
-      "artists": [
-        {
-          "name": "MC's Zaac",
-          "url": "https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 187461,
-      "name": "Bumbum granada",
-      "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+        "name": "Namorar pra Qu\u00ea?\u200b",
+        "url": "https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+      "duration_ms": 166978,
+      "name": "Namorar pra Qu\u00ea?\u200b",
+      "url": "https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Namorar pra Qu\u00ea?\u200b",
-        "url": "https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN"
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
       },
       "artists": [
         {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 166978,
-      "name": "Namorar pra Qu\u00ea?\u200b",
-      "url": "https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO"
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Mc Jo\u00e3o",
+        "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
+      },
+      "artists": [
+        {
+          "name": "Mc Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Baile de Favela",
+      "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra e YG)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Mc Jo\u00e3o",
-        "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
-      },
-      "artists": [
-        {
-          "name": "Mc Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Baile de Favela",
-      "url": "https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB"
     },
     {
       "added_at": "2023-06-26 14:06:50",

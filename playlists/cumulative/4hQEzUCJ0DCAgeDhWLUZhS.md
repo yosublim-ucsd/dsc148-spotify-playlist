@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-418 songs - 1 day 0 hr 39 min
+419 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Every Song I Ever Wrote](https://open.spotify.com/track/3MGPk4icRXf24OL6RlYhDX) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Every Song I Ever Wrote](https://open.spotify.com/album/6iNsRB01wsep3c6sMESTLu) | 3:17 | 2022-05-06 |  |
 | [everyone blooms](https://open.spotify.com/track/4HfmEHdEJ52Y8XiL61h9SV) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [everyone blooms](https://open.spotify.com/album/26KAku0l1AFIgT65GehP34) | 4:06 | 2020-10-10\* | 2021-05-13 |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 |  |
+| [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 | 2024-02-15 |  |
 | [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-04-08 |  |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-15 |  |
 | [Father of All...](https://open.spotify.com/track/4r59yc67nric1MZQ2igkhx) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/33eDyKXqDYRHeu8cq8ToRl) | 2:31 | 2020-10-10\* | 2021-02-25 |

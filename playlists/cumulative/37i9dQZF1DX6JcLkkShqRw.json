@@ -7493,6 +7493,28 @@
     },
     {
       "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/57cjzCSClgmDTME2P20zRC"
+      },
+      "artists": [
+        {
+          "name": "Pema",
+          "url": "https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D"
+        },
+        {
+          "name": "Facundo Majdalani",
+          "url": "https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/4wI8SWCSBNfg3YI4TGJbTC"
+    },
+    {
+      "album": {
         "name": "Esto Se Va A Descontrolar",
         "url": "https://open.spotify.com/album/2OeM48pyZ2peAYu8Z4bL2B"
       },

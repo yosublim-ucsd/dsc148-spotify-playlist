@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-880 songs - 2 day 2 hr 50 min
+881 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Dendang Perantau](https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh) | [Tan Sri P\. Ramlee](https://open.spotify.com/artist/7vgBEzAtjH9f1IbbqeRnwi) | [Siri Kenangan Abadi Volume 2 : Getaran Jiwa](https://open.spotify.com/album/6cNspl6i2FowdZTx3cDncC) | 2:43 | 2022-04-29 | 2023-04-25 |
 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-28 | 2023-01-30 |
 | [Di Pagi Aidilfitri](https://open.spotify.com/track/2USirghp480Q3cSqLiFxYj) | [Rosemaria](https://open.spotify.com/artist/5JbqpFKdKkvLtnhGLhKsJb) | [Siri Bintang Pujaan](https://open.spotify.com/album/3eYxXSU0FIRJvHlndU5OVx) | 3:41 | 2022-05-02 | 2022-05-05 |
-| [Diam](https://open.spotify.com/track/3Kjftr1Zz1iVNvTB1SyodI) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Antonim Pt\. I](https://open.spotify.com/album/02SRZ4OSSxnHvyLQX83fwl) | 3:21 | 2024-01-14 | 2024-02-15 |
+| [Diam](https://open.spotify.com/track/3Kjftr1Zz1iVNvTB1SyodI) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Antonim Pt\. I](https://open.spotify.com/album/02SRZ4OSSxnHvyLQX83fwl) | 3:21 | 2024-01-14 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2023-03-06 |
 | [Die For You](https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 4:20 | 2022-06-13 |  |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 | 2024-01-12 |
@@ -315,7 +315,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2021-11-12 | 2021-12-02 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2022-09-29 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-09-22 | 2022-08-23 |
-| [Happy龙龙Way](https://open.spotify.com/track/6rfNmC2NYj8TKZ8TZyGmtS) | [Astro Artiste](https://open.spotify.com/artist/1EauZTwWoWAgah4DxiW6Eu) | [Happy龙龙Way](https://open.spotify.com/album/37iqfFsEq78rMefoEf8mx4) | 3:40 | 2024-02-09 |  |
+| [Happy龙龙Way](https://open.spotify.com/track/6rfNmC2NYj8TKZ8TZyGmtS) | [Astro Artiste](https://open.spotify.com/artist/1EauZTwWoWAgah4DxiW6Eu) | [Happy龙龙Way](https://open.spotify.com/album/37iqfFsEq78rMefoEf8mx4) | 3:40 | 2024-02-09 | 2024-02-16 |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-17 | 2023-03-09 |
 | [Hari Ini Hari Raya](https://open.spotify.com/track/5FjwQVGLldMqvkCiyQ5DOV) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH) | [Keindahan Aidilfitri](https://open.spotify.com/album/4mkgzbFIkA0IUCf9PmijSj) | 4:22 | 2021-05-14 | 2022-05-04 |
 | [Hari Raya Hari Bahagia](https://open.spotify.com/track/4lo91W9xVrGOooj0wAv8S3) | [Ideal Sisters](https://open.spotify.com/artist/5HPs9rzylVQBZ2nw7wqH4A) | [Hurey! Raya](https://open.spotify.com/album/2tDIojUILkustiyFGqcpB3) | 2:48 | 2022-05-02 | 2022-05-04 |
@@ -646,6 +646,7 @@
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-03 | 2023-06-18 |
 | [S\-Class](https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:15 | 2023-06-04 | 2023-06-07 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-28 |
+| [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-02-15 |  |
 | [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 | 2022-06-13 | 2022-07-03 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-24 | 2023-12-30 |
 | [Satu Hari Di Hari Raya](https://open.spotify.com/track/10Tjxc2yoqT9BPpezRDRLh) | [M\. Nasir](https://open.spotify.com/artist/2O8MDsUKNHTgwoodOefHYD) | [Satu Hari Di Hari Raya](https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab) | 3:31 | 2021-04-29 | 2023-04-27 |
@@ -747,7 +748,7 @@
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-05-27 | 2023-01-04 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-25 | 2023-06-19 |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-09-14 | 2022-10-18 |
-| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 |  |
+| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 | 2024-02-16 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-23 | 2023-02-01 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-30 |
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-18 | 2023-11-25 |

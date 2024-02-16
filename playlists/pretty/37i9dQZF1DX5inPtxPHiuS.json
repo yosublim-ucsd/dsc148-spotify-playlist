@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85553,
+  "num_followers": 85566,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFjMWY5MDAwODMwMjQ0OGM2NDgwYTA4OTVhYWMyMDY5NmNhOGRk",
+  "snapshot_id": "MCwxNzI0ZTUwYTgzYzZiYjM5Y2FmYzUxOTIzZDE4ODFmNDNjN2NkNzFl",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
       "artists": [
         {
           "name": "TELEBIT",
           "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -991,38 +995,34 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
       "artists": [
         {
           "name": "TELEBIT",
           "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
         }
       ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/61o65DJK9QHOg8LWIJ279k"
       },
       "artists": [
         {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
         }
       ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/7qSncGfwAdAyTQBVYZeFGS"
     }
   ],
   "unique_name": "Rock Colombia",

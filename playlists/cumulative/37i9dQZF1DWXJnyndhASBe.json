@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Aleshen",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kukon",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 224346,
       "name": "Best I Can",
       "url": "https://open.spotify.com/track/2PCDFgW9IJpLXcZ8TsRHDp"
@@ -1064,10 +1064,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 194548,
       "name": "CO\u015a WI\u0118CEJ",
       "url": "https://open.spotify.com/track/6CsZzjVW0AhvXifMJAhpyt"
+    },
+    {
+      "album": {
+        "name": "Organic Human",
+        "url": "https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117647,
+      "name": "cracow shit",
+      "url": "https://open.spotify.com/track/5JWnJWnBpBJbrilDwY8Wn1"
     },
     {
       "album": {
@@ -1750,6 +1772,28 @@
       "duration_ms": 222000,
       "name": "happy birthday",
       "url": "https://open.spotify.com/track/6y2w3XdiB132gDsJqVTqX7"
+    },
+    {
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164895,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
     },
     {
       "album": {
@@ -2981,6 +3025,28 @@
     },
     {
       "album": {
+        "name": "New York Freestyle",
+        "url": "https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135300,
+      "name": "New York Freestyle",
+      "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
+    },
+    {
+      "album": {
         "name": "NIC DO STRACENIA",
         "url": "https://open.spotify.com/album/1dVrp8wcOOKEpJDSAM89N3"
       },
@@ -3076,6 +3142,24 @@
       "duration_ms": 142722,
       "name": "NIE BIERZ TEGO DO SIEBIE",
       "url": "https://open.spotify.com/track/0ZBIprMHNepuw803CNM90t"
+    },
+    {
+      "album": {
+        "name": "nie jestem romantyczny",
+        "url": "https://open.spotify.com/album/0YOOJVUTl08owfwGLe7lHQ"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121139,
+      "name": "nie jestem romantyczny",
+      "url": "https://open.spotify.com/track/3kUY4HIXepmVlxJ4vZGjlA"
     },
     {
       "album": {
@@ -3730,7 +3814,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171500,
       "name": "RysunKOwY PoTw\u00f3R",
       "url": "https://open.spotify.com/track/2WztUY9tbPT7OQ1nP2jq8X"
@@ -4978,7 +5062,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 189700,
       "name": "Znalaz\u0142em pieni\u0105dze",
       "url": "https://open.spotify.com/track/6Kmm6QwMjkXh4tVtViPsWx"

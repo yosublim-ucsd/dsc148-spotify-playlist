@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 810218,
+  "num_followers": 810297,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzZlNWQ4Mjk5NGM4ZDUzNmM5MjMxZWJhZDRlYmY5N2QyOWJhYTc3",
+  "snapshot_id": "MCxmNTY1Mzg5OTA1MzFlYzdlNjM0ZjdiM2JlOGQ2NzU1MDZiNjRkODVl",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Ready For The World",
+        "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
+      },
+      "artists": [
+        {
+          "name": "Ready For The World",
+          "url": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Oh Sheila",
+      "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Great R&B",
         "url": "https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 236106,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Ready For The World",
-        "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
-      },
-      "artists": [
-        {
-          "name": "Ready For The World",
-          "url": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Oh Sheila",
-      "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Don't Disturb This Groove",
-        "url": "https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ"
-      },
-      "artists": [
-        {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
-        }
-      ],
-      "duration_ms": 317874,
-      "name": "Don't Disturb This Groove",
-      "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 232133,
       "name": "Back To Life (However Do You Want Me)",
       "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Don't Disturb This Groove",
+        "url": "https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ"
+      },
+      "artists": [
+        {
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
+        }
+      ],
+      "duration_ms": 317874,
+      "name": "Don't Disturb This Groove",
+      "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
     },
     {
       "added_at": "2021-04-01 19:37:56",

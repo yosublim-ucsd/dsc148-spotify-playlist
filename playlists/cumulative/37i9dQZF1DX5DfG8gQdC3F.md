@@ -4,7 +4,7 @@
 
 > New music from USHER, Kacey Musgraves, Noah Kahan, Little Simz, Forest Blakk and more.
 
-10,747 songs - 23 day 19 hr 41 min
+10,748 songs - 23 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,8 @@
 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-15 | 2023-09-23 |
 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 | 2023-03-03 | 2023-03-11 |
 | [another soul](https://open.spotify.com/track/0Yos7Ql3MvIXE56swDiInZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [the tears we fight EP](https://open.spotify.com/album/1IO5EbKNw91tCMIb3LdRze) | 2:57 | 2023-09-15 | 2023-09-23 |
-| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 |  |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-02-16 |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-09 |  |
 | [Another Year Gone](https://open.spotify.com/track/3DPcH2cjFG7QvBh2DI1ajr) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Another Year Gone](https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q) | 1:44 | 2023-12-08 | 2023-12-16 |
 | [Another You](https://open.spotify.com/track/27uRJ7kERlmQUDnvsVXNva) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Another You](https://open.spotify.com/album/3yFHjRZVdqjhSxJhgLqb0A) | 2:48 | 2024-01-05 | 2024-01-13 |
 | [Answer Me](https://open.spotify.com/track/3aNWM9WRAk8npqbgnqe8rk) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Answer Me](https://open.spotify.com/album/37oMprXnH2grAsdwIxz8wp) | 2:36 | 2023-05-05 | 2023-05-13 |

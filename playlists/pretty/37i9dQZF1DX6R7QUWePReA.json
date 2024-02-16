@@ -1,12 +1,12 @@
 {
   "description": "Timeless heart-warming classics from 1940- 1980 for the holiday season.",
-  "num_followers": 3373448,
+  "num_followers": 3372957,
   "original_name": "Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI3MTc1YzVmMWZhNzU3MGE4Y2QzZjg4NTBlZDBhNmM5NTM1OGYw",
+  "snapshot_id": "MCw0ODE5NmNkNjRiYmViNWQxMDc2MmZhMjRkYTYwMWUyODhiZjc3NDRl",
   "tracks": [
     {
       "added_at": "2023-12-07 18:19:48",
@@ -999,17 +999,21 @@
     {
       "added_at": "2023-12-07 18:19:48",
       "album": {
-        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
+        "name": "A Swingin' Christmas (feat. Count Basie Big Band)",
         "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
       },
       "artists": [
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie Big Band",
+          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
         }
       ],
       "duration_ms": 207253,
-      "name": "O Christmas Tree",
+      "name": "O Christmas Tree (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8"
     },
     {

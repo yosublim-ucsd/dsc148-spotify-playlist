@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 135117,
       "name": "CABARET",
       "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "album": {
         "name": "Chauffeur",
         "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
       },
@@ -932,7 +954,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 267692,
       "name": "Cima Favela",
       "url": "https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW"
@@ -1529,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/1L0ZyJRCsGSzWEuRWkq8SQ"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/0wL9hQUzatIoqv6lcxT2M1"
+    },
+    {
+      "album": {
         "name": "FEELING",
         "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
       },
@@ -1740,6 +1784,28 @@
       "duration_ms": 243692,
       "name": "Gravidade",
       "url": "https://open.spotify.com/track/1xKyLu1AbYauopjoAi0bQU"
+    },
+    {
+      "album": {
+        "name": "Guardado",
+        "url": "https://open.spotify.com/album/47bILmm6p1Nz5o2iTxI5l1"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        },
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Guardado",
+      "url": "https://open.spotify.com/track/41mSs2SjEencvFY907sq8q"
     },
     {
       "album": {
@@ -2099,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "Lidar",
+      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
+    },
+    {
+      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
       },
@@ -2194,6 +2282,24 @@
       "duration_ms": 244000,
       "name": "Louco",
       "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208068,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     },
     {
       "album": {
@@ -2884,7 +2990,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -2986,7 +3092,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 200006,
       "name": "Paz",
       "url": "https://open.spotify.com/track/3JSoWtmODOEyZG9MQP6PQQ"
@@ -3160,7 +3266,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
@@ -3288,7 +3394,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211160,
       "name": "RGTN",
       "url": "https://open.spotify.com/track/4XFv4UoCEUwCTSCVCNEIbZ"

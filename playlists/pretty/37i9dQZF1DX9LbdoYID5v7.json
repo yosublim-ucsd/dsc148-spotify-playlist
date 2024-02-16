@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 460853,
+  "num_followers": 461409,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTliYzI0NTRlYzQ5YTk4NGEwNWNlZjY4NTRmNjdkZDM4YmM2OTQ2",
+  "snapshot_id": "MCxkZGEwMTk3MzU1NDE0Yjc1MTRlNWIzMjU3MmU5NzA5MTA4M2ZmZmNl",
   "tracks": [
     {
       "added_at": "2023-10-19 19:07:56",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
         "name": "Grand",
         "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 171333,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Something Good Can Work",
-      "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 335333,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
     },
     {
       "added_at": "2023-01-18 01:04:44",

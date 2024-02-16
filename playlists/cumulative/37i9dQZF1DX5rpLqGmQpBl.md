@@ -4,12 +4,16 @@
 
 > Listen to the soundtracks of the Doctor Slump\. \(닥터슬럼프의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-26 songs - 1 hr 35 min
+30 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2! 3!](https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:32 | 2024-02-14 |  |
 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 | 2024-02-14 |  |
+| [Curated by Kong Seong Ha](https://open.spotify.com/track/2ru62C0tJ7LfORpJoEiT8k) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:30 | 2024-02-15 |  |
+| [Curated by Park Hyung Sik](https://open.spotify.com/track/1lehXiBvBRomkGJClvrwfq) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:35 | 2024-02-15 |  |
+| [Curated by Park Shin Hye](https://open.spotify.com/track/2D0uoFs1nxtiCr4FCcWx7Z) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:30 | 2024-02-15 |  |
+| [Curated by Yoon Park](https://open.spotify.com/track/0tLLtVifdJNwbjjXSLPyjO) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:28 | 2024-02-15 |  |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2024-02-14 |  |
 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 | 2024-02-14 |  |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2024-02-14 |  |

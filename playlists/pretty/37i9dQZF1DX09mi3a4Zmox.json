@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4026263,
+  "num_followers": 4026851,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTQ0ZWM1NTUwMWQ0NmM4MTQ2ZjIyYmZjZjMxMTg4NmZhNDQ5M2Jm",
+  "snapshot_id": "MCw1ZTI3ODJhOTc0YzExYzdiZDE2NjRkY2U5MzYwOGJjOWFjZWJjZTcy",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+      "duration_ms": 159172,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Vicentico 5",
         "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 198333,
       "name": "No Te Apartes de M\u00ed",
       "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nido de \u00e1guilas",
-        "url": "https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 249973,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nido de \u00e1guilas",
+        "url": "https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Gracias por Nada",
+        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+      "duration_ms": 123658,
+      "name": "Gracias por Nada",
+      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1403,6 +1403,22 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1487,22 +1503,6 @@
       "duration_ms": 248533,
       "name": "Ven",
       "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Gracias por Nada",
-        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Gracias por Nada",
-      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Un Amor de Verdad",
+      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Mentiras sinceras",
         "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
       },
@@ -1647,38 +1663,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Un Amor de Verdad",
-      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "La vida es",
-        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "La vida es",
+        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
     },
     {
       "added_at": "2024-02-09 05:00:00",

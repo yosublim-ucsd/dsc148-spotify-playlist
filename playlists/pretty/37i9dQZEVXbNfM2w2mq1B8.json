@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 14901,
+  "num_followers": 14905,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYxMjc1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYxMzYxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u0422\u0410\u041a\u0410 \u0422\u0410\u041a\u0410",
         "url": "https://open.spotify.com/album/7bQTgMCz2F7KOyvl46Uf9y"
@@ -25,12 +25,16 @@
       "url": "https://open.spotify.com/track/2mA1BVYwzbhRqqkkkFQx83"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "CARNIVAL PACK",
+        "url": "https://open.spotify.com/album/7slMR6RdQwcGa0efzspk8o"
       },
       "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
@@ -42,10 +46,10 @@
       ],
       "duration_ms": 264324,
       "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
+      "url": "https://open.spotify.com/track/7bZl3YXHeqQ4Q6LDqCBrK4"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
@@ -61,7 +65,7 @@
       "url": "https://open.spotify.com/track/5WGCguQHGcGbVrUsUsubqJ"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "Centrofuga",
         "url": "https://open.spotify.com/album/7Ga74OnzbimmtV9bCiERom"
@@ -81,27 +85,7 @@
       "url": "https://open.spotify.com/track/1lKpsuiY1GKU0Tj7QE8EWX"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "FUK SUMN",
-      "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
         "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
@@ -117,23 +101,7 @@
       "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u041f\u0440\u043e\u0449\u0430\u0432\u0430\u043c \u0442\u0438",
-      "url": "https://open.spotify.com/track/1Kgu5BIPXBqB6VEzQmZpMH"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -149,43 +117,63 @@
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
       },
       "artists": [
         {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
         }
       ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+      "duration_ms": 210000,
+      "name": "\u041f\u0440\u043e\u0449\u0430\u0432\u0430\u043c \u0442\u0438",
+      "url": "https://open.spotify.com/track/1Kgu5BIPXBqB6VEzQmZpMH"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
-        "url": "https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
       "artists": [
         {
-          "name": "VANE$$A",
-          "url": "https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
         },
         {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 197030,
-      "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
-      "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
+        "url": "https://open.spotify.com/album/4HNgKPBat74mSOWKTNppW4"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
+      "url": "https://open.spotify.com/track/5zQJgQMsG2Q8JOmMmiE5Nt"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
@@ -201,7 +189,39 @@
       "url": "https://open.spotify.com/track/7s16tzvUKDlAELZRjFmyGE"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Ne znaesh koya sam",
+        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Ne e lyubov",
+      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -221,23 +241,47 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "Ne znaesh koya sam",
-        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
+        "name": "\u041c\u0430\u0439\u043d\u0430\u0442\u0430 \u0442\u0438 \u0421\u0432. \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d (feat. Medi)",
+        "url": "https://open.spotify.com/album/5xzuXJlVL7fdCQC0ZsBqZv"
       },
       "artists": [
         {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        },
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/2uFPwrcUFTK53TiLo6ysf9"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Ne e lyubov",
-      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+      "duration_ms": 225166,
+      "name": "\u041c\u0430\u0439\u043d\u0430\u0442\u0430 \u0442\u0438 \u0421\u0432. \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d (feat. Medi)",
+      "url": "https://open.spotify.com/track/2dKJ9C81tTxEb9VvztEpah"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
+        "url": "https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG"
+      },
+      "artists": [
+        {
+          "name": "VANE$$A",
+          "url": "https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        }
+      ],
+      "duration_ms": 197030,
+      "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
+      "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
@@ -253,10 +297,10 @@
       "url": "https://open.spotify.com/track/2YRF4ktmyWef9SASMJaqOm"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
-        "url": "https://open.spotify.com/album/4HNgKPBat74mSOWKTNppW4"
+        "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
+        "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
       },
       "artists": [
         {
@@ -264,12 +308,12 @@
           "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 213975,
-      "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
-      "url": "https://open.spotify.com/track/5zQJgQMsG2Q8JOmMmiE5Nt"
+      "duration_ms": 168333,
+      "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
+      "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -285,23 +329,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "\u041c\u044a\u043a\u043e \u043c\u043e\u044f",
-        "url": "https://open.spotify.com/album/4LgcFdEJ2XctgFkQnJq6px"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "\u041c\u044a\u043a\u043e \u043c\u043e\u044f",
-      "url": "https://open.spotify.com/track/4ztl8aq18Bs0EayLVB1Zvk"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/5jAWxbv8a4smUJxeqeHuSp"
@@ -321,39 +349,23 @@
       "url": "https://open.spotify.com/track/4h1koe32J3Sl7KPFZkKLtQ"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
-        "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
+        "name": "\u041c\u044a\u043a\u043e \u043c\u043e\u044f",
+        "url": "https://open.spotify.com/album/4LgcFdEJ2XctgFkQnJq6px"
       },
       "artists": [
         {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
         }
       ],
-      "duration_ms": 168333,
-      "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
-      "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
+      "duration_ms": 219200,
+      "name": "\u041c\u044a\u043a\u043e \u043c\u043e\u044f",
+      "url": "https://open.spotify.com/track/4ztl8aq18Bs0EayLVB1Zvk"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "Svekarvishte",
-        "url": "https://open.spotify.com/album/1yQjKheEkPgqOAWj7psGLY"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Svekarvishte",
-      "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
         "url": "https://open.spotify.com/album/2X4KWWnfO2XuCoGrw2EY4k"
@@ -369,7 +381,23 @@
       "url": "https://open.spotify.com/track/1N0LbbD7X8FBwTuHkHPjvE"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Svekarvishte",
+        "url": "https://open.spotify.com/album/1yQjKheEkPgqOAWj7psGLY"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "Svekarvishte",
+      "url": "https://open.spotify.com/track/0F2jva2ZcSCOO2vSua8XH4"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "Unreleased",
         "url": "https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o"
@@ -385,27 +413,7 @@
       "url": "https://open.spotify.com/track/1Qj9Ie3xfeEl8tllis7QZp"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 295471,
-      "name": "BACK TO ME",
-      "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
         "url": "https://open.spotify.com/album/2u1eRbwrIxnHDr3ZrJquPW"
@@ -425,27 +433,7 @@
       "url": "https://open.spotify.com/track/5UHIkr0EzHVc1aCvXArWRr"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 111458,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "The Highlights (Deluxe)",
         "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
@@ -469,7 +457,7 @@
       "url": "https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -485,7 +473,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "The Highlights (Deluxe)",
         "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
@@ -509,23 +497,31 @@
       "url": "https://open.spotify.com/track/1VNWdmXSbaNrnWod10WIL0"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
       "artists": [
         {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 188571,
-      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
+      "duration_ms": 111458,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -541,67 +537,7 @@
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 145785,
-      "name": "PAPERWORK",
-      "url": "https://open.spotify.com/track/3IoAMvGFYzM05B64h7qmdf"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "Ulitsata",
-        "url": "https://open.spotify.com/album/0ayda6ZTtMLDwW6KF2YZMJ"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Ulitsata",
-      "url": "https://open.spotify.com/track/4X99ol0n6puMQpiQyMxHJn"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 321560,
-      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
-      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
         "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
@@ -617,47 +553,39 @@
       "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         }
       ],
-      "duration_ms": 195117,
-      "name": "PAID",
-      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
+      "duration_ms": 188571,
+      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "Ulitsata",
+        "url": "https://open.spotify.com/album/0ayda6ZTtMLDwW6KF2YZMJ"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
         }
       ],
-      "duration_ms": 115238,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
+      "duration_ms": 204829,
+      "name": "Ulitsata",
+      "url": "https://open.spotify.com/track/4X99ol0n6puMQpiQyMxHJn"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
         "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
@@ -673,12 +601,16 @@
       "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
       "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
@@ -688,12 +620,100 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 225000,
-      "name": "DO IT",
-      "url": "https://open.spotify.com/track/4YSa8VQxjzsski1DOsvkHH"
+      "duration_ms": 295471,
+      "name": "BACK TO ME",
+      "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Top Model",
+        "url": "https://open.spotify.com/album/43bB4GiA2mnKhsgemslYsq"
+      },
+      "artists": [
+        {
+          "name": "Marso",
+          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
+        }
+      ],
+      "duration_ms": 154029,
+      "name": "Top Model",
+      "url": "https://open.spotify.com/track/4iQVYZGE9KyUZJyIn0wEr6"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
+        "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
+      "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u0410\u043a\u043e \u0442\u0438 \u0432\u044a\u0440\u043d\u0430",
         "url": "https://open.spotify.com/album/5DBpbfOm95GyWDbU6vcVPH"
@@ -717,43 +737,23 @@
       "url": "https://open.spotify.com/track/4Xbk3eXJZvRLr1JpbnBtg0"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
-        },
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "Top Model",
-        "url": "https://open.spotify.com/album/43bB4GiA2mnKhsgemslYsq"
-      },
-      "artists": [
-        {
-          "name": "Marso",
-          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "Top Model",
-      "url": "https://open.spotify.com/track/4iQVYZGE9KyUZJyIn0wEr6"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "MARGINALA",
         "url": "https://open.spotify.com/album/5gDt0JJ8LDNz22Qt0FNH9i"
@@ -773,7 +773,83 @@
       "url": "https://open.spotify.com/track/0QW4josN9fFAy5cbN4oHHh"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 321560,
+      "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+      "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
+      "album": {
+        "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
+        "url": "https://open.spotify.com/album/2DnO6wHygXfwSr18zUbPdl"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 241558,
+      "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
+      "url": "https://open.spotify.com/track/5cnMyNarUAcwZ6GkXguSDT"
+    },
+    {
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "\u041a\u0430\u0442\u043e \u043f\u0440\u0435\u0434\u0438",
         "url": "https://open.spotify.com/album/1bbDYtn6GLJatGb0AfpSVd"
@@ -793,59 +869,7 @@
       "url": "https://open.spotify.com/track/0nf8PqV3YPGbVyZWnDR9oA"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 368739,
-      "name": "BEG FORGIVENESS",
-      "url": "https://open.spotify.com/track/7DPUuTaTZCtQ6o4Xx00qzT"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
@@ -861,60 +885,44 @@
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
+        "url": "https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "DJ Damyan",
+          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Mile Kitic",
+          "url": "https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH"
         }
       ],
-      "duration_ms": 276986,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"
+      "duration_ms": 171902,
+      "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
+      "url": "https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx"
     },
     {
-      "added_at": "2024-02-14 09:19:38",
+      "added_at": "2024-02-15 09:44:06",
       "album": {
-        "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
-        "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
         },
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu"
         }
       ],
-      "duration_ms": 171400,
-      "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
-      "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
-    },
-    {
-      "added_at": "2024-02-14 09:19:38",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 215771,
+      "name": "Nqma Kak",
+      "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

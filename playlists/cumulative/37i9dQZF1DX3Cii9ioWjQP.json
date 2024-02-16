@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Minna Seo(\uc11c\ubbfc\uc544))",
+  "description": "All about Korean Jazz hits & new (Cover: Park Ki Hun(\ubc15\uae30\ud6c8))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -3197,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "\uc5ec\uc815 Journey",
+        "url": "https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Hun",
+          "url": "https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259605,
+      "name": "\uc5ec\uc815 Journey",
+      "url": "https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM"
+    },
+    {
+      "album": {
         "name": "\uc790\uc131 Intrinsic nature",
         "url": "https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo"
       },
@@ -3248,6 +3266,24 @@
       "duration_ms": 145843,
       "name": "\ud1f4\uc0ac\ud558\ub294 \ub0a0 The Last Day of Work(Dobby is Free)",
       "url": "https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA"
+    },
+    {
+      "album": {
+        "name": "\uc5ec\uc815 Journey",
+        "url": "https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Hun",
+          "url": "https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296821,
+      "name": "\ud478\ub978 \ubc24 What A Wonderful Blue Night",
+      "url": "https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0"
     },
     {
       "album": {

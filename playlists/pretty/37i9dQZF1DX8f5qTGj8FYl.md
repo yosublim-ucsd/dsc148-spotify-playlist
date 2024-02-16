@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,478 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,611 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 4 | [Fat Nap](https://open.spotify.com/track/4INxpyygHSWT4EF5YHfacG) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [Fat Nap](https://open.spotify.com/album/2mJPMPqe29y3BtXOGTPkbe) | 3:46 |
 | 5 | [Tha Boogee](https://open.spotify.com/track/4eh6JnrqfUX7mg335YvAIT) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze Of Sounds](https://open.spotify.com/album/4BZG7akPQogYTeomJQ363I) | 7:08 |
 | 6 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 |
-| 7 | [Rambam](https://open.spotify.com/track/2ghseSfWtRLRUwiJKCJJcc) | [New Amsterdam Rhythm Band](https://open.spotify.com/artist/6V9DxwZ6L3HyhVT37TZQ2G) | [New Amsterdam Rhythm Band](https://open.spotify.com/album/3zAVri6vQQ4E6H8yyXvNsc) | 3:15 |
+| 7 | [Rambam](https://open.spotify.com/track/76SkJYXnaxU5Rgx0RW6qCu) | [New Amsterdam Rhythm Band](https://open.spotify.com/artist/6V9DxwZ6L3HyhVT37TZQ2G) | [New Amsterdam Rhythm Band](https://open.spotify.com/album/1Zlw0ITMQNhEfyzLfNTxlJ) | 3:15 |
 | 8 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 |
 | 9 | [A Trip to the Dentist](https://open.spotify.com/track/1J7C9vpaYQCXaYvbntXK16) | [Jinkie Bays](https://open.spotify.com/artist/3BwGQ1dHTUdDejGtNRCDMf), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [A Trip to the Dentist](https://open.spotify.com/album/7qd2alTTttaMaa9tjgR9Uu) | 3:28 |
 | 10 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Ethiopian Airlines](https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [The Black Stone Affair](https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE) | 4:00 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `MCw0ZmIyMGI2Y2E5ZGM2ZTc4YWI5NDYyZmUyZjEwMmFjNjIyNjU1NjE2`
+Snapshot ID: `MCxiZTM2ZWIyYTk0NGMxODNlMjliOTc3YjBiMDkxZTYxNjI4MmYxMWM0`

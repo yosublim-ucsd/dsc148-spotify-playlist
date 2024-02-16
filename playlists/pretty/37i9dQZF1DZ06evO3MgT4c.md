@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,345 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,372 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 20 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 |
 | 21 | [Kelly Price \(feat\. Travis Scott\)](https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 6:03 |
 | 22 | [Danger \(with Migos & Marshmello\)](https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Danger \(with Migos & Marshmello\) \[From Bright: The Album\]](https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B) | 3:34 |
-| 23 | [Open It Up](https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:05 |
-| 24 | [Taco Tuesday](https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Taco Tuesday](https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn) | 1:36 |
+| 23 | [Taco Tuesday](https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Taco Tuesday](https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn) | 1:36 |
+| 24 | [Open It Up](https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:05 |
 | 25 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 |
 | 26 | [Get Right Witcha](https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:17 |
 | 27 | [Too Hotty](https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Eurielle](https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 |
 | 50 | [First 48](https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:18 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA0MTMwZTM3OWNiNGRiOTAzZmVkZmIzYmNmMDU2NjUwYw==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDAxZWIxNjZlNjk1MzJkMTlhMjE1YzRkODI1ZTVlOTc5NA==`

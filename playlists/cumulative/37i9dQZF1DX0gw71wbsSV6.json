@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 272894,
       "name": "ai no uta",
       "url": "https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
@@ -2264,6 +2264,24 @@
       "duration_ms": 218493,
       "name": "IKAROS",
       "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
+    },
+    {
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133791,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ"
     },
     {
       "album": {
@@ -4143,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D"
+      },
+      "artists": [
+        {
+          "name": "Newdums",
+          "url": "https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Sweet Lemon",
+      "url": "https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -4212,6 +4248,50 @@
       "duration_ms": 163210,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1kj4oRuk8xXu7tfDd3ug1y"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2rOCJ6DFcSUd4HqiRZj7wP"
+    },
+    {
+      "album": {
+        "name": "The Blower's Daughter",
+        "url": "https://open.spotify.com/album/6pL2IAMJkjtNYq8yVoSf9I"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        },
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259708,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/7CNA7us0GLh8MYp5aJjdWH"
     },
     {
       "album": {
@@ -4324,7 +4404,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"

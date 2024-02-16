@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=cCiw0omDSEiNWZ77Alp6cA\">Bok Van Blerk</a>  & <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=TUbo2rQPRaC6MibVMaRoLg\">Bernice West</a>",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=vE7cPH-jTGO7QE3lTc9Ofg\">Barto</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197479,
+      "name": "OASE",
+      "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
+    },
+    {
+      "album": {
         "name": "Loufi Flippen Loufi",
         "url": "https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK"
       },
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 234000,
       "name": "Suikerbos",
       "url": "https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt"

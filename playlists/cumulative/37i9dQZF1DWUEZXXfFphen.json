@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "21 de septiembre",
+        "url": "https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127594,
+      "name": "21 de septiembre",
+      "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
+    },
+    {
+      "album": {
         "name": "Thalia",
         "url": "https://open.spotify.com/album/7yQ0rzJQPUkTumD0bVxxfp"
       },
@@ -164,6 +182,28 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "AQYNE",
+      "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
     },
     {
       "album": {
@@ -439,6 +479,28 @@
     },
     {
       "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
       },
@@ -526,6 +588,24 @@
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "album": {
@@ -1194,7 +1274,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 155861,
       "name": "Jagger.mp3",
       "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
@@ -1332,7 +1412,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
@@ -1552,7 +1632,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
@@ -2048,7 +2128,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
@@ -2531,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Solo Ruido",
+        "url": "https://open.spotify.com/album/2BYbSfBSURtyLBPR2wEOjd"
+      },
+      "artists": [
+        {
+          "name": "Mar Rend\u00f3n",
+          "url": "https://open.spotify.com/artist/7Fk848MU19rSzUvRNwtpV8"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201620,
+      "name": "Solo Ruido",
+      "url": "https://open.spotify.com/track/35QLsZkdp9MOE27ITdZtSK"
+    },
+    {
+      "album": {
         "name": "Monica Naranjo",
         "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
       },
@@ -2712,7 +2810,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"

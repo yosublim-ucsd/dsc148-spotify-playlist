@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:نوال الكويتية
 
-312 songs - 21 hr 25 min
+313 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A3eesh Elyoum](https://open.spotify.com/track/3eSG8kCHjXHcXb5THol7Ch) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [A3eesh Elyoum](https://open.spotify.com/album/0ruoI8m2TFS6oiodKiEwPy) | 4:31 | 2022-09-16 | 2023-03-25 |
 | [Abghani](https://open.spotify.com/track/2dCjWuh8bNEU0gkWrlUbvD) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Abghani](https://open.spotify.com/album/6BPDqnmk4okiP45OUTQo6F) | 3:55 | 2023-12-29 |  |
 | [Abiha Mn Allah](https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Abiha Mn Allah](https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r) | 4:11 | 2023-06-13 | 2023-12-30 |
-| [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 | 2024-02-13 |  |
+| [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 | 2024-02-13 | 2024-02-16 |
 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-15 | 2023-06-14 |
 | [Ahebak](https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Ahebak](https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA) | 4:33 | 2022-05-01 | 2022-11-08 |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-06-28 | 2023-01-13 |
@@ -253,6 +253,7 @@
 | [Zenat Ayyami](https://open.spotify.com/track/2hWmBU0TymULSt7TRdqUce) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Zenat Ayyami](https://open.spotify.com/album/2G00nDqJCKplEavz7Z73nz) | 3:37 | 2023-09-07 | 2023-09-10 |
 | [Zilzal](https://open.spotify.com/track/5lIo6Uqv9tzArhAGSlp4Ch) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 4:16 | 2023-06-06 | 2023-06-10 |
 | [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 | 2023-05-10 | 2023-10-12 |
+| [أدعج غنج](https://open.spotify.com/track/4Edz1lpw9ciw6kYeu9F7jC) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [أدعج غنج](https://open.spotify.com/album/0Sj5nWxglerMNk6hPTldur) | 4:30 | 2024-02-13 |  |
 | [احبك](https://open.spotify.com/track/1SYcs6NIEOl4iGanRHK7Pg) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [احبك](https://open.spotify.com/album/2ymSGbjj2BJmD1vyiHouqc) | 2:09 | 2021-12-23 | 2022-02-18 |
 | [احبك ليه](https://open.spotify.com/track/41t3VbNWNRiCOXRcfDcAzE) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [احبك ليه](https://open.spotify.com/album/0YzT44Y3Ngzu4ZTzqB0uSN) | 3:40 | 2022-06-02 | 2022-11-08 |
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 | 2022-08-27 |

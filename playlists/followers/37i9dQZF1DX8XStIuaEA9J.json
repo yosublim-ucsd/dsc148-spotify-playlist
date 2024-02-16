@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 172774,
+  "2024-02-16": 172815,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: LANA",
   "name": "Teen Culture",
@@ -1152,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Koi suru wakusei \"Anata\"",
+        "url": "https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208309,
+      "name": "Koi suru wakusei \"Anata\"",
+      "url": "https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u"
+    },
+    {
+      "album": {
         "name": "Koiwoshite",
         "url": "https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91"
       },
@@ -1732,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Prepare Yourself!",
+        "url": "https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "Prepare Yourself!",
+      "url": "https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz"
+    },
+    {
+      "album": {
         "name": "Prince Shoutoku",
         "url": "https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN"
       },
@@ -1783,6 +1819,24 @@
       "duration_ms": 199960,
       "name": "PUPPET SHOW",
       "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+    },
+    {
+      "album": {
+        "name": "Q.1",
+        "url": "https://open.spotify.com/album/3283TUO9t88bpwilwlYp9k"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231713,
+      "name": "Q.1",
+      "url": "https://open.spotify.com/track/69wRfBpcspPBQYD8xaDyT8"
     },
     {
       "album": {
@@ -1869,10 +1923,28 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 139459,
       "name": "Saint",
       "url": "https://open.spotify.com/track/449Jd2BKtzXrqlKYDNUavQ"
+    },
+    {
+      "album": {
+        "name": "Saint",
+        "url": "https://open.spotify.com/album/27QzrPPWPQ4E0Fthf03rx6"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Saint",
+      "url": "https://open.spotify.com/track/4nRphJ8cxGio2Ygloo5nMl"
     },
     {
       "album": {
@@ -2417,6 +2489,28 @@
       "duration_ms": 181022,
       "name": "utatane",
       "url": "https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6"
+    },
+    {
+      "album": {
+        "name": "Veranda feat. Kanano Senritsu",
+        "url": "https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        },
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Veranda feat. Kanano Senritsu",
+      "url": "https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3"
     },
     {
       "album": {
@@ -3439,7 +3533,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208800,
       "name": "\u30d9\u30e9\u30f3\u30c0 feat. \u6226\u6144\u304b\u306a\u306e",
       "url": "https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG"
@@ -3847,7 +3941,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 231713,
       "name": "\u554f.1",
       "url": "https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO"
@@ -4009,7 +4103,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 208309,
       "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
@@ -4481,7 +4575,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P"

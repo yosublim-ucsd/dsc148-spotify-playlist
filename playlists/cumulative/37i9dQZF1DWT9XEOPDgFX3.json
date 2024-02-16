@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 240124,
       "name": "Changes (feat. Laura Elliott)",
       "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
@@ -5098,7 +5098,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 276880,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
@@ -6449,6 +6449,24 @@
     },
     {
       "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
+    },
+    {
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD"
       },
@@ -7060,7 +7078,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 140000,
       "name": "three",
       "url": "https://open.spotify.com/track/2iKGx8uxu8u5M5TubFLmno"

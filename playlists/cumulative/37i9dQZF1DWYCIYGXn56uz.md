@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Alfa
+> ✨giovane✨pop✨z✨ Cover: CLARA
 
-338 songs - 15 hr 37 min
+341 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Non te l'ho detto mai](https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Non te l'ho detto mai](https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS) | 2:16 | 2023-11-16 | 2023-12-08 |
 | [Non Ti Levo Dalla Testa](https://open.spotify.com/track/0i03V0gL4bx2EaGg2KVjPP) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Scarabocchi](https://open.spotify.com/album/4Fo6Walba2hkPdQ5XMBG5m) | 2:44 | 2023-06-29 | 2023-07-21 |
 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-09-05 | 2023-09-22 |
+| [Non ti voglio più vedere](https://open.spotify.com/track/4wlfHVP0BJALiYR1EpUTtk) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Non ti voglio più vedere](https://open.spotify.com/album/6Md7blnVhuI5fsbVuVkKWD) | 2:46 | 2024-02-15 |  |
 | [Non è abbastanza](https://open.spotify.com/track/4pVl4rqimmJupO2B2aPfTb) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non è abbastanza](https://open.spotify.com/album/78Hk7mg4eWrYauEPYI8yIn) | 2:59 | 2024-01-04 | 2024-01-19 |
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 | 2023-06-09 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |
@@ -259,6 +260,7 @@
 | [pum pum pum](https://open.spotify.com/track/7oS4wH2v1Yl8fAdKxBZL61) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [pum pum pum](https://open.spotify.com/album/2JWpXVDQrDkFHLGmBuHznT) | 2:33 | 2024-01-04 | 2024-02-02 |
 | [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 | 2024-01-18 |  |
 | [Radar](https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Radar](https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ) | 2:21 | 2023-11-02 | 2023-11-17 |
+| [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 | 2024-02-15 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-26 | 2024-02-02 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 | 2023-09-22 |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |
@@ -331,6 +333,7 @@
 | [URLA \(feat\. Fasma\)](https://open.spotify.com/track/0ByflMiw9uDJleR9iEQxuK) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk) | [URLA \(feat\. Fasma\)](https://open.spotify.com/album/6J6yVPzd8nLTd0c9fTSOwQ) | 3:21 | 2023-06-15 | 2023-06-30 |
 | [Urlare](https://open.spotify.com/track/0MJlYJCJLh3Fw4mCi1Lxi4) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Urlare](https://open.spotify.com/album/4DH976R3tA0OfqSlIb0rd6) | 2:33 | 2024-01-04 | 2024-02-07 |
 | [Urlare](https://open.spotify.com/track/1SZH869hNrHGJTKo7LMCzW) | [Fra Melito](https://open.spotify.com/artist/7jADIGDmEXtQaVxUtOgw5Z) | [Urlare](https://open.spotify.com/album/2euJgTBFjT5YPXL0hPM9v3) | 3:16 | 2023-09-14 | 2023-10-06 |
+| [Vabbe' ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 | 2024-02-15 |  |
 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-02-07 |  |
 | [vecchio spettro](https://open.spotify.com/track/02F4KHu9cxVHwrgpy33qoW) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [vecchio spettro](https://open.spotify.com/album/0FzxEgJtf0Q9nepyUme6Z2) | 2:41 | 2023-07-13 | 2023-09-15 |
 | [vedo un mostro o vedo me](https://open.spotify.com/track/4uoK4Y6afYn7ryZ4N6eZgV) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [vedo un mostro o vedo me](https://open.spotify.com/album/4sZrwlUpqe5dgCo92FAn6e) | 2:06 | 2023-06-29 | 2023-07-28 |

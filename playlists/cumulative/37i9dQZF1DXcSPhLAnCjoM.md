@@ -2,16 +2,17 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Hoshi au top des 50 hits de variété française du moment.
+> Pierre Garnier au top des 50 hits de variété française du moment.
 
-97 songs - 5 hr 7 min
+100 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 | 2023-09-28 |  |
+| [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 | 2023-09-28 | 2024-02-16 |
 | [Au bout de mes rêves](https://open.spotify.com/track/0gtCHxyATWVLvcUhq8eL2f) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Au bout de mes rêves](https://open.spotify.com/album/4T8LsKgQuZqucNNf7GbBw8) | 2:50 | 2023-12-07 |  |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-11-09 | 2023-12-09 |
 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 | 2024-01-11 |  |
+| [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 | 2024-02-15 |  |
 | [C'est aujourd'hui que ça se passe](https://open.spotify.com/track/4O5MbNZGTYRF1FxbWJ8WIO) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [REFLETS](https://open.spotify.com/album/2hHVzGgGqYdPTJlZn081u6) | 2:47 | 2023-11-09 |  |
 | [C'est fou comme je t'aime](https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [C'est fou comme je t'aime](https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm) | 2:40 | 2023-09-28 |  |
 | [C'est la danse](https://open.spotify.com/track/2T8c2wfGiP6WmrFfvZ1MAn) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre](https://open.spotify.com/album/1KAqfN196NXDeuYjaNnv8V) | 2:48 | 2023-09-28 | 2023-10-06 |
@@ -62,11 +63,13 @@
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-09-28 | 2024-01-26 |
 | [L'espoir](https://open.spotify.com/track/3IK8PYgz005T6Dr0GLM8Tk) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [L'espoir](https://open.spotify.com/album/2dOzojnn941b4TB06Epdjh) | 3:02 | 2023-12-07 |  |
 | [La belle époque](https://open.spotify.com/track/4DHuh5umihj3cgiuyQ7jbE) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [La belle époque](https://open.spotify.com/album/68mbwN9aTDYGlgWzhTKPoe) | 2:52 | 2023-09-28 | 2023-10-24 |
-| [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 | 2023-09-28 |  |
+| [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 | 2024-02-15 |  |
+| [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 | 2023-09-28 | 2024-02-16 |
 | [La vie](https://open.spotify.com/track/04VPEsP3L4td2u4RuvOdrD) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [La vie](https://open.spotify.com/album/7a1zSyuq070pBzYpSrc0Az) | 3:28 | 2023-09-28 | 2023-10-06 |
 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 | 2023-09-28 |  |
 | [Le bruit du silence](https://open.spotify.com/track/063IwEdb1LaITJk0LOP0h9) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 3:02 | 2023-12-07 |  |
 | [Le chant est libre](https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [Le chant est libre](https://open.spotify.com/album/0oc0MJZSiphw6KpY9KgKum) | 3:42 | 2024-02-01 |  |
+| [Le chemin \(Lénie & Pierre\)](https://open.spotify.com/track/0N6vb3WsrfQqadaq7lWrnb) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/38uH901kwJKt0N1DkIextc) | 3:12 | 2024-02-15 |  |
 | [Le feu](https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP) | 3:57 | 2023-12-07 |  |
 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-09-28 | 2023-12-09 |
 | [Le hall des départs](https://open.spotify.com/track/5OSiXJYZvfXGCJh7XCfeWi) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Marie Poulain](https://open.spotify.com/artist/0tHVDfybuHROQ71GCPp5hS) | [Le hall des départs](https://open.spotify.com/album/66pvkJqMZ590mHlqAxlq7B) | 4:14 | 2023-09-28 | 2024-01-05 |
@@ -101,7 +104,7 @@
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-28 | 2024-01-12 |
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2024-01-25 | 2024-02-09 |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2024-01-18 |  |
-| [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 |  |
+| [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 | 2024-02-16 |
 | [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 | 2024-01-26 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |
 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 | 2024-01-25 |  |

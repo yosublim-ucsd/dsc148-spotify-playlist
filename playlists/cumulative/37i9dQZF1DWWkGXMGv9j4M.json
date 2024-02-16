@@ -3088,7 +3088,7 @@
     {
       "album": {
         "name": "Unmoved (A Black Woman Truth)",
-        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+        "url": "https://open.spotify.com/album/5cEVsl5FHxCB6mpyVKpoNP"
       },
       "artists": [
         {
@@ -3099,6 +3099,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256450,
+      "name": "Unmoved (A Black Woman Truth)",
+      "url": "https://open.spotify.com/track/2Ewaozo7Oe2XAI3sDlBvDk"
+    },
+    {
+      "album": {
+        "name": "Unmoved (A Black Woman Truth)",
+        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-16",
       "duration_ms": 256451,
       "name": "Unmoved (A Black Woman Truth)",
       "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"

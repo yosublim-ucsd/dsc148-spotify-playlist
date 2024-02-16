@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,970 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,972 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Pas très perspicace](https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Pas très perspicace](https://open.spotify.com/album/1gw4tw7bxZnVxGlICTOsCi) | 2:34 |
 | 50 | [Something to Say](https://open.spotify.com/track/21RJz7znPM43wrY2YgvShG) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [Something to Say](https://open.spotify.com/album/4BuafPOZec9nBs2PFWLy62) | 4:07 |
 
-Snapshot ID: `MCw2ZTk1YjhkOTAyODhhNTY1OTg0YmJmOGY2NTY3MDYzNDRjOWI3YjNj`
+Snapshot ID: `MCw3ZWNiZjczYTRlY2UxZjZmMThhYjliNTE1NGI1ZmYyNGEwYmMyMWM2`

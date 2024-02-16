@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-276 songs - 17 hr 19 min
+277 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Amar W Mnawar](https://open.spotify.com/track/6BfyXjWvjdUR7lZF5ekXh1) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Amar W Mnawar](https://open.spotify.com/album/4lVEeoAhlCqqO0EhWh1mVG) | 2:38 | 2023-02-13 |  |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2023-05-22 | 2023-09-09 |
 | [Ana Baatereflek](https://open.spotify.com/track/1yr0M7Rkxkg455mvX3ykFe) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Farek Maak](https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM) | 3:53 | 2023-09-08 |  |
-| [Ana Eshtaret](https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Ana Eshtaret](https://open.spotify.com/album/5jI4gGoIVvp8RXfMGEr0ui) | 2:51 | 2023-09-08 |  |
+| [Ana Eshtaret](https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Ana Eshtaret](https://open.spotify.com/album/5jI4gGoIVvp8RXfMGEr0ui) | 2:51 | 2023-09-08 | 2024-02-16 |
 | [Ana Geit](https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ana Geit](https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M) | 4:24 | 2023-09-08 |  |
 | [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2023-02-13 | 2023-05-23 |
 | [Ana Mosammem](https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Wo Malna](https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER) | 5:23 | 2023-05-22 | 2023-09-09 |
@@ -259,6 +259,7 @@
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-14 | 2023-05-23 |
 | [فرحه وبس](https://open.spotify.com/track/7gLdjsgvdlqGpGhqw4e07X) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [شايفه فيك](https://open.spotify.com/album/6ylllDswM090TsaEqRXsci) | 3:24 | 2023-09-08 | 2023-09-22 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2023-02-13 | 2023-09-15 |
+| [فضحاني عنية](https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa) | [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فضحاني عنية](https://open.spotify.com/album/090FJL1hXb1Bxvf5cj6JZr) | 4:37 | 2024-02-16 |  |
 | [قصة حب \- نسخة شرقي](https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 3:33 | 2023-02-13 | 2023-07-14 |
 | [قصة حبنا](https://open.spotify.com/track/6MIBjmomqZw9un6PHG0IsR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [النسخة الجديدة](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 4:45 | 2023-02-13 | 2023-05-05 |
 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 | 2023-09-15 |  |

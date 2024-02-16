@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,365 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,383 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 |
 | 2 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 3 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
-| 4 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
-| 5 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 |
+| 4 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 |
+| 5 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
 | 6 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
 | 7 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
 | 8 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 44 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
 | 45 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 |
 | 46 | [Sucks To Be You](https://open.spotify.com/track/2vc1zvxODjpoUrxGdLPLIv) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/0FxSVyJ7d9BTddJfekVzpz) | 3:21 |
-| 47 | [Summerlong](https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Public](https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj) | 3:53 |
-| 48 | [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 |
+| 47 | [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 |
+| 48 | [Summerlong](https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Public](https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj) | 3:53 |
 | 49 | [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 |
 | 50 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 
-Snapshot ID: `MCw0M2RlODhjOTBiNjcwYjkwMmYzNmVlZTBmMGE3YmNjMWRlMWIxOTg3`
+Snapshot ID: `MCw4OWQ2OTllM2QyMjkwODVmMTY5YjYzMjU0M2U5NTlmOTM4Mjk2MWJl`

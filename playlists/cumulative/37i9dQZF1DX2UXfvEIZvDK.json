@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/3E7ooRytQGF8znU0JqXbQF"
+    },
+    {
+      "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
       },
@@ -1683,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187487,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/2kLb29wxlXPLYFVSfcg69D"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -1734,6 +1774,24 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276424,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
     },
     {
       "album": {
@@ -1820,7 +1878,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
@@ -2216,7 +2274,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 250293,
       "name": "Thirty-Three - Remastered 2012",
       "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
@@ -2522,7 +2580,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 276840,
       "name": "Zoe Jane",
       "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"

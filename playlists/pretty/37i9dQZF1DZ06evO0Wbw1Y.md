@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,884 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,894 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 21 | [Don Juan](https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Don Juan](https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281) | 3:36 |
 | 22 | [La Vida Sin Ti](https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:51 |
 | 23 | [Caramelo \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:38 |
-| 24 | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ) | 2:45 |
-| 25 | [Duele \(feat\. Ventino\)](https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Gracias \(Edición Deluxe\)](https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT) | 3:39 |
+| 24 | [Duele \(feat\. Ventino\)](https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Gracias \(Edición Deluxe\)](https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT) | 3:39 |
+| 25 | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ) | 2:45 |
 | 26 | [Ya No Quiero Amarte](https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya No Quiero Amarte](https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5) | 3:08 |
 | 27 | [Entre Mis Planes \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/4u1nJinarCNYXhbyE9LIb3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:38 |
 | 28 | [Vámonos Antes](https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Vámonos Antes](https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI) | 3:30 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 40 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
 | 41 | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/track/70uI28CvYn53Pdrup7l2Zf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/album/7rMM6AFd033KI3CsuZateJ) | 2:49 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBjYTY0Mjc1Yjk3NjBlMGQwMzc4YjY4MzExYjVjMGJhZA==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDAzYjA3NTg0YTQyNDJhNTNiZTg3NzEwNjM0YzVlZGI3ZA==`

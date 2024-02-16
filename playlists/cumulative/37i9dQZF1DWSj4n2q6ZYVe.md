@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-128 songs - 8 hr 11 min
+129 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [I'm Not Alone \- Radio Edit](https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:30 | 2021-04-29 |  |
 | [In And Out Of Love](https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [Armin Anthems Top 100 \(Ultimate Singles Collected\)](https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a) | 3:01 | 2021-04-29 |  |
 | [In For The Kill](https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 4:08 | 2021-04-29 |  |
+| [Infinity \- Magic Mitch Club Mix](https://open.spotify.com/track/0NFBBnJO8D7oA6suYD2WKD) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy) | [Infinity](https://open.spotify.com/album/31YXEro2hGtx3uTJD3OjlO) | 3:13 | 2021-10-06 |  |
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2021-10-06 | 2024-01-27 |
 | [Invaders Must Die](https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Invaders Must Die](https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM) | 4:55 | 2021-04-29 |  |
 | [It Just Won't Do \- Radio Edit](https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0), [Sam Obernik](https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ) | [It Just Won't Do](https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd) | 3:18 | 2021-04-29 |  |
@@ -91,7 +92,7 @@
 | [Propane Nightmares](https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [In Silico](https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ) | 5:13 | 2021-04-29 |  |
 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 | 2021-04-29 |  |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2021-04-29 |  |
-| [Riverside \- Radio Mix](https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside](https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH) | 2:25 | 2021-04-29 |  |
+| [Riverside \- Radio Mix](https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside](https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH) | 2:25 | 2021-04-29 | 2024-02-16 |
 | [Rock This Party \(Everybody Dance Now\)](https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Cutee B.](https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO), [DollarMan](https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ), [Big Ali](https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls), [Makedah](https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW) | [Rock This Party \(Everybody Dance Now\)](https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH) | 4:05 | 2021-04-29 |  |
 | [Rock This Party \- Everybody Dance Now](https://open.spotify.com/track/0Qn0i8df7Q76ej3RAXAtI2) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Cutee B.](https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO), [DollarMan](https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ), [Big Ali](https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls), [Makedah](https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW) | [Rock This Party \(Everybody Dance Now\)](https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO) | 4:05 | 2021-04-29 | 2024-02-01 |
 | [Romeo](https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 3:37 | 2021-04-29 |  |

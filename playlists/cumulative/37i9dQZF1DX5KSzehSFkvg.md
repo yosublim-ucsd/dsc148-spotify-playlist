@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-100 songs - 5 hr 28 min
+101 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Malak](https://open.spotify.com/track/3Xj2v1c3y5rm9L7CjmSCrA) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Malak](https://open.spotify.com/album/4FGAjuNQNKJDpkw2ufs6B0) | 3:04 | 2023-07-07 |  |
 | [Maria](https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:13 | 2023-07-07 | 2024-01-05 |
 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 | 2023-07-31 |  |
+| [Mashi Hob](https://open.spotify.com/track/3zjsN1FxzEeBh4dNj52Pu9) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W) | [Mashi Hob](https://open.spotify.com/album/0TT4JKqUXjsW45qc95cl7n) | 2:41 | 2024-02-15 |  |
 | [Massari](https://open.spotify.com/track/0J65uyzYarHKfC4XHBdqfK) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Massari](https://open.spotify.com/album/1h30k7HoeTkiFmlnBub3xg) | 3:26 | 2023-07-07 |  |
 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 | 2023-08-24 | 2023-12-15 |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-15 |  |

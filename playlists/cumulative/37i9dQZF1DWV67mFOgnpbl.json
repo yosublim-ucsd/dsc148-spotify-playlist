@@ -658,7 +658,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 253000,
       "name": "Fleur de lis",
       "url": "https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX"
@@ -1616,6 +1616,24 @@
       "duration_ms": 185133,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7"
     },
     {
       "album": {

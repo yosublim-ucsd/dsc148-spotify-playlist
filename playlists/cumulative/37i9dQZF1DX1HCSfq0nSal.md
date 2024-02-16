@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Quevedo
+> Si está pegao, está aquí\. Feat\. Gonzy
 
-507 songs - 1 day 3 hr 55 min
+508 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [MOOD \- Remix](https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [MOOD \(Remix\)](https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G) | 3:46 | 2022-01-24 | 2022-07-19 |
 | [Morad: Bzrp Music Sessions, Vol\. 47](https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Morad: Bzrp Music Sessions, Vol\. 47](https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR) | 2:57 | 2022-01-07 | 2022-02-15 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-06 | 2022-11-04 |
-| [Movin' loko](https://open.spotify.com/track/6SMC0zf1HBVJuZwHTWexX1) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Movin' loko](https://open.spotify.com/album/2jdPHwa5lfRgItAPCmSDGs) | 2:38 | 2024-02-05 |  |
+| [Movin' loko](https://open.spotify.com/track/6SMC0zf1HBVJuZwHTWexX1) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Movin' loko](https://open.spotify.com/album/2jdPHwa5lfRgItAPCmSDGs) | 2:38 | 2024-02-05 | 2024-02-16 |
 | [Muchoperro](https://open.spotify.com/track/1HNcDOIGo9CE4sZoK5mhCq) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Wiso Rivera](https://open.spotify.com/artist/4IHDMpVNlWsPxPtA7BR5Fi) | [Muchoperro](https://open.spotify.com/album/26WhRQWZZpmkA6WbNb4ZLH) | 3:39 | 2022-09-05 | 2023-03-18 |
 | [MUSEO](https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:15 | 2022-03-03 | 2022-05-27 |
 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 | 2023-05-16 | 2023-06-13 |
@@ -447,6 +447,7 @@
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-04-20 | 2023-12-19 |
 | [Sígueme \- Remix](https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sígueme \(Remix\)](https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF) | 3:22 | 2023-05-19 | 2023-08-29 |
 | [Súbelo](https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Súbelo](https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq) | 3:59 | 2022-01-07 | 2022-02-09 |
+| [Tacos Gucci](https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Tacos Gucci](https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5) | 3:27 | 2024-02-15 |  |
 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 | 2023-03-06 | 2023-05-04 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-06 | 2022-12-15 |
 | [Te Gusta](https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:20 | 2023-01-17 | 2023-03-18 |

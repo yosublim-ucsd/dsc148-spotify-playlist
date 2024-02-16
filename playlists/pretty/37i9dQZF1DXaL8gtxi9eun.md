@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Sherine
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,871 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,926 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 29 | [Majrooh](https://open.spotify.com/track/52Sy82cr1pNYrtekkLIjIx) | [Marina Ndayra](https://open.spotify.com/artist/2Rqvvqs1oN7ENbboDpm61v) | [Majrooh](https://open.spotify.com/album/24qh3pDomlGZ6WJS5aQSqe) | 3:34 |
 | 30 | [Rouge](https://open.spotify.com/track/1Xr21ZKogSRHDBFDSyp2YP) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Rouge](https://open.spotify.com/album/1UmSw648elPoRIGpCFv55T) | 2:33 |
 
-Snapshot ID: `MCwwZDg2MzM2MGMyNzE2MDE1OGU0ZWI4MmI0OGQ1NTZhYTg3Njc2YTZi`
+Snapshot ID: `MCw0YWEzNzc4Njc2MTYwYzdmMjUzYTNlMzJiYzlhYWM5YTZiODgzM2E3`

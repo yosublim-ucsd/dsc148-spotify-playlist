@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Oliver Kid & SHEISA",
-  "num_followers": 282908,
+  "num_followers": 282912,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWRhNTRhY2YwMjA2N2EwNTUzYTZkNWE5ZTBlZTEyYTQxYTdiM2Fj",
+  "snapshot_id": "MCxkN2FhNzMxODgxZTBkOTBiMDcyYzEzMDc0NDViMWVkY2I4ZjA5NDJk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Aqu\u00ed Sigo (Remix)",
-        "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 208167,
-      "name": "Aqu\u00ed Sigo (Remix)",
-      "url": "https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -483,22 +463,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ahora Que No Te Tengo",
-        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+        "name": "Aqu\u00ed Sigo (Remix)",
+        "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         },
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 155843,
-      "name": "Ahora Que No Te Tengo",
-      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
+      "duration_ms": 208167,
+      "name": "Aqu\u00ed Sigo (Remix)",
+      "url": "https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -515,6 +495,26 @@
       "duration_ms": 167960,
       "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
       "url": "https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ahora Que No Te Tengo",
+        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "Ahora Que No Te Tengo",
+      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb"
+        "name": "Chistes Malos",
+        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
       },
       "artists": [
         {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
+      "duration_ms": 171357,
+      "name": "Chistes Malos",
+      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -723,22 +727,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Chistes Malos",
-        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 171357,
-      "name": "Chistes Malos",
-      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+      "duration_ms": 196000,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Argumentos",
-        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
+        "name": "Como Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX"
       },
       "artists": [
         {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        },
+        {
+          "name": "Christian Pag\u00e1n",
+          "url": "https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z"
         }
       ],
-      "duration_ms": 211844,
-      "name": "Argumentos",
-      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
+      "duration_ms": 176220,
+      "name": "Como Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -807,22 +811,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Como Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX"
+        "name": "Argumentos",
+        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
       },
       "artists": [
         {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        },
-        {
-          "name": "Christian Pag\u00e1n",
-          "url": "https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z"
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
         }
       ],
-      "duration_ms": 176220,
-      "name": "Como Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf"
+      "duration_ms": 211844,
+      "name": "Argumentos",
+      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
+        "name": "el afortunado",
+        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
       },
       "artists": [
         {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
         }
       ],
-      "duration_ms": 188405,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -947,34 +947,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "el afortunado",
-        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
       },
       "artists": [
         {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
       },
       "artists": [
         {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 199877,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "ESO VA",
-        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "ESO VA",
-      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Que Alguien Me Saque De Este Mood",
         "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
       },
@@ -1103,22 +1083,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 157375,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Tu Canci\u00f3n",
         "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
       },
@@ -1131,6 +1095,22 @@
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 157375,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "ESO VA",
+        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "ESO VA",
+      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Rosita Sakura",
         "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "FIKSION",
-        "url": "https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "FIKSION",
-      "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "medio vac\u00edo",
         "url": "https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 185163,
       "name": "medio vac\u00edo",
       "url": "https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "FIKSION",
+        "url": "https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "FIKSION",
+      "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Mostly Fresh",
+        "url": "https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 167888,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Mostly Fresh",
-        "url": "https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 167888,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2"
     },
     {
       "added_at": "2024-02-09 05:00:00",

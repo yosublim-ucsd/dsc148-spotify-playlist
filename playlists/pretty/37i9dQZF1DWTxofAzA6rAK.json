@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 60885,
+  "num_followers": 60931,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNmNDY1MzM3NzQ2NzAxNzk1YmNjOTMxNGMwNTU2ZWU3ZDI5YmIz",
+  "snapshot_id": "MCw0MWM2NzIxYjM1NzIyYTQzMTFmODY4OTVlNjRlOTU1NGMwMjI1OTZh",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Calmc",
         "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 173844,
       "name": "Calmc",
       "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 171145,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Feelings (Remix)",
         "url": "https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 217464,
       "name": "Feelings (Remix)",
       "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Top Tier",
         "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
       },
@@ -407,18 +423,34 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 171145,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
+      "duration_ms": 193170,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -439,38 +471,6 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Verified Choppa 2",
-        "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Verified Choppa 2",
-      "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        },
-        {
-          "name": "Black Shadow",
-          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
-        }
-      ],
-      "duration_ms": 156951,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 219574,
       "name": "Pieces (with Jahshii)",
       "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        },
+        {
+          "name": "Black Shadow",
+          "url": "https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z"
+        }
+      ],
+      "duration_ms": 156951,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 186723,
-      "name": "Cree",
-      "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dark Room",
         "url": "https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 183092,
       "name": "Moca",
       "url": "https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "Cree",
+      "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 196115,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Stay Clean",
         "url": "https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 188041,
       "name": "Guzu Bunx (Fada Rock)",
       "url": "https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 196115,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Dirt Bounce",
+        "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
+      },
+      "artists": [
+        {
+          "name": "Laa Lee",
+          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
+        }
+      ],
+      "duration_ms": 176069,
+      "name": "Dirt Bounce",
+      "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "I Am Great",
         "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 187711,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Dirt Bounce",
-        "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
-      },
-      "artists": [
-        {
-          "name": "Laa Lee",
-          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
-        }
-      ],
-      "duration_ms": 176069,
-      "name": "Dirt Bounce",
-      "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Skeng Live Large",
-        "url": "https://open.spotify.com/album/19inWvC8yqCa376wxe0Hca"
-      },
-      "artists": [
-        {
-          "name": "Guhoffentertainment",
-          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
-        },
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
-        }
-      ],
-      "duration_ms": 160313,
-      "name": "Skeng Live Large",
-      "url": "https://open.spotify.com/track/0Kf9LnXqUasemdFJyB8iFV"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "World News",
         "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 265337,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Skeng Live Large",
+        "url": "https://open.spotify.com/album/19inWvC8yqCa376wxe0Hca"
+      },
+      "artists": [
+        {
+          "name": "Guhoffentertainment",
+          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
+        }
+      ],
+      "duration_ms": 160313,
+      "name": "Skeng Live Large",
+      "url": "https://open.spotify.com/track/0Kf9LnXqUasemdFJyB8iFV"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Pro-Gress",
+        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Pro-Gress",
+      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Every Gyal Want We",
         "url": "https://open.spotify.com/album/4KpYEYoNTXAlqGhFWbrw55"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 163200,
       "name": "Every Gyal Waan We",
       "url": "https://open.spotify.com/track/7wcHrLyVTB0YhwqzRiRn8I"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Pro-Gress",
-        "url": "https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Pro-Gress",
-      "url": "https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn"
     },
     {
       "added_at": "2023-05-24 08:21:37",

@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 224516,
       "name": "Carrusel - Radio Mix",
       "url": "https://open.spotify.com/track/1QXu9ubYFn5Rc2kIXFxlNE"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 197721,
       "name": "Eleg\u00ed",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
@@ -1496,6 +1496,24 @@
       "duration_ms": 145000,
       "name": "ENCENDIDA",
       "url": "https://open.spotify.com/track/6VYb2hj7EWlohjzAasIiNy"
+    },
+    {
+      "album": {
+        "name": "Par De Quina",
+        "url": "https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198718,
+      "name": "Energias",
+      "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
     },
     {
       "album": {
@@ -3588,7 +3606,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 204955,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
@@ -4647,6 +4665,28 @@
     },
     {
       "album": {
+        "name": "SIEMPRE SOY",
+        "url": "https://open.spotify.com/album/5CIOeHkXwUvIrdwFnlNtbl"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "SIEMPRE SOY",
+      "url": "https://open.spotify.com/track/6MHLXu4PLNqtEnJtYqpL81"
+    },
+    {
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/1Oq9BJ35YSVxOKmE30eiQ2"
       },
@@ -5628,6 +5668,24 @@
       "duration_ms": 225600,
       "name": "YA NO M\u00c1S",
       "url": "https://open.spotify.com/track/4POhXYdSOIE4idFgMzt4Rd"
+    },
+    {
+      "album": {
+        "name": "Par De Quina",
+        "url": "https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160384,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
     },
     {
       "album": {

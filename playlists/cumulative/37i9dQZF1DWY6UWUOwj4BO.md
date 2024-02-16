@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-99 songs - 5 hr 14 min
+101 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-12-21 |  |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-12-21 | 2023-04-14 |
 | [beau\-papa \(acoustique\)](https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [beau\-papa \(acoustique\)](https://open.spotify.com/album/15csZHfKvpIwsR4UDH24Ox) | 3:21 | 2022-12-21 | 2023-09-01 |
+| [Bitter Sweet Love \- Acoustic](https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Acoustic\)](https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf) | 2:43 | 2024-02-15 |  |
 | [Black Friday \(Mahogany Session\)](https://open.spotify.com/track/7ymcTupikH8sq5OtHWCLZK) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday EP](https://open.spotify.com/album/0g5N9f6FpdYuON9ahdmu5n) | 3:44 | 2024-01-11 |  |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-12-21 |  |
 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 | 2022-12-21 | 2023-05-15 |
@@ -57,8 +58,9 @@
 | [I Sent My Therapist To Therapy \- Acoustic](https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy \(Acoustic\)](https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc) | 3:08 | 2024-01-05 |  |
 | [I'm Good \(Blue\) \- Acoustic](https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[Acoustic\]](https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY) | 2:18 | 2023-01-05 |  |
 | [I'm Sorry \- Live Version](https://open.spotify.com/track/4kjlQ7qSPLHjgxJTSmJIJv) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry \(Live Version\)](https://open.spotify.com/album/6XkjRKuAMUKLH22JRqUMqR) | 3:43 | 2024-01-11 |  |
-| [If We Ever Broke Up \- Acoustic](https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up \(Acoustic\)](https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj) | 2:27 | 2023-04-13 |  |
+| [If We Ever Broke Up \- Acoustic](https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up \(Acoustic\)](https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj) | 2:27 | 2023-04-13 | 2024-02-16 |
 | [In the Stars \- \(French Version\) \[Acoustique\]](https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe) | [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [In the Stars \[\(French Version\) \[Acoustique\]\]](https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV) | 3:45 | 2023-06-16 |  |
+| [Is It Love \- Orchestral Version](https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love \(Orchestral Version\)](https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT) | 4:09 | 2024-02-15 |  |
 | [Kill Bill \- Acoustic](https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill \(Acoustic\)](https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy) | 2:48 | 2023-02-02 | 2024-01-26 |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 | 2024-01-06 |
 | [Leave The Door Open \- Acoustic](https://open.spotify.com/track/65P0LJJh9vEa5yR6S2xIZR) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Leave The Door Open \(Acoustic\)](https://open.spotify.com/album/47GrZGrgepJsZqTuAhmkUD) | 3:06 | 2022-12-21 | 2023-03-10 |

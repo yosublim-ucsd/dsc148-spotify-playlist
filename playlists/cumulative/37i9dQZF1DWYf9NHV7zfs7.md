@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Zoe Gotusso
 
-187 songs - 10 hr 16 min
+188 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-26 |  |
 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2023-07-14 | 2023-10-24 |
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2023-07-14 | 2023-10-24 |
-| [Maldita Noche](https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana](https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj) | 3:25 | 2023-10-23 |  |
+| [Maldita Noche](https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana](https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj) | 3:25 | 2023-10-23 | 2024-02-16 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2023-07-14 | 2023-10-24 |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2023-07-14 | 2023-10-24 |
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2023-10-23 |  |
@@ -140,6 +140,7 @@
 | [Otro Lado](https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:57 | 2023-10-23 | 2023-12-05 |
 | [PARA AMARTE A TI \(DELUXE\)](https://open.spotify.com/track/38q1ojvehzTRFMBvS1lAqu) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:34 | 2024-01-19 |  |
 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 | 2023-10-23 |  |
+| [Para Siempre](https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Para Siempre](https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1) | 3:28 | 2024-02-15 |  |
 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 | 2023-11-24 | 2024-01-02 |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2023-07-14 | 2023-10-24 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2023-07-14 | 2023-10-24 |

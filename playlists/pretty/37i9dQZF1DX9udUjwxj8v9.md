@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,087 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,097 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 41 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
 | 42 | [Ladainha](https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru) | [Nat Guareschi](https://open.spotify.com/artist/1X18fGGzvxN2txuNIJvHs0) | [Ladainha](https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC) | 2:27 |
 | 43 | [Arrastão da Alegria](https://open.spotify.com/track/6cmU865RAVndrwunpzHR96) | [Monobloco](https://open.spotify.com/artist/4EU2koSlyxLmiyslykCis5) | [Arrastão Da Alegria](https://open.spotify.com/album/2S7tOIgfoeuihol8fl534X) | 3:55 |
-| 44 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
-| 45 | [Swing da Cor](https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Daniela Mercury](https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA) | 3:39 |
+| 44 | [Swing da Cor](https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Daniela Mercury](https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA) | 3:39 |
+| 45 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
 | 46 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 47 | [Alo Paixao](https://open.spotify.com/track/23WC3lIxCNoVoe00MTyE1T) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara \- O melhor De Banda Eva](https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa) | 4:02 |
 | 48 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
-| 49 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
-| 50 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 |
+| 49 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 |
+| 50 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 
-Snapshot ID: `MCw0ZTg3MWJmOGQxZDE5YWU4ZTRkM2IwNDgwZjdkNjMxNzkzMjc2OGM3`
+Snapshot ID: `MCwwMjI0MjQ5YzFhZmEzYzFhYmU1YTE2ODI0YTBmNTQ5NTkyYTFlMjIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,792 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,018 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 85 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 86 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
 | 87 | [Aquellos Tiempos](https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Aquellos Tiempos](https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV) | 2:13 |
-| 88 | [Manos de Tijera](https://open.spotify.com/track/703pazG4eZUZHohBBgs4SM) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Manos de Tijera](https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP) | 5:41 |
-| 89 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
-| 90 | [Amigos Con Derecho](https://open.spotify.com/track/1jjQ1k1jvxdXUaxoK75RV8) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 4:27 |
+| 88 | [Amigos Con Derecho](https://open.spotify.com/track/1jjQ1k1jvxdXUaxoK75RV8) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 4:27 |
+| 89 | [Manos de Tijera](https://open.spotify.com/track/703pazG4eZUZHohBBgs4SM) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Manos de Tijera](https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP) | 5:41 |
+| 90 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 91 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 |
-| 92 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 |
-| 93 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 |
+| 92 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 |
+| 93 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 |
 | 94 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 |
 | 95 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
 | 96 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 99 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 100 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
 
-Snapshot ID: `MCw2OWQxOTE3MjQxNGIyN2IwNWQzNTdiYzJlMmQ2NDE4NTYzZGY5NjUz`
+Snapshot ID: `MCwxNGM3ZjllMmIyODc4MGNlMjM4MjE2ZmUwMjU0NGJhMzQ4ZWZmODg4`

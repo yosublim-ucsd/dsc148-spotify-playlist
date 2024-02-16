@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,439 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,426 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 47 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
 | 48 | [Tip Toe \(feat\. French Montana\)](https://open.spotify.com/track/2z4pcBLQXF2BXKFvd0BuB6) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Tip Toe \(feat\. French Montana\)](https://open.spotify.com/album/6W6kkscDtohJAnJ9M8Nc5b) | 3:07 |
 | 49 | [All of Me \- Tiësto's Birthday Treatment Remix \- Radio Edit](https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All of Me \(Tiësto's Birthday Treatment Remix \- Radio Edit\)](https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB) | 4:11 |
-| 50 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
-| 51 | [Your Song](https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song](https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ) | 3:00 |
+| 50 | [Your Song](https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song](https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ) | 3:00 |
+| 51 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
 | 52 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
 | 53 | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic) | 4:10 |
 | 54 | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 69 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 |
 | 70 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 
-Snapshot ID: `MCwyZjQ0MjViNjgzOTM1NjNkNWMxNGFjZWE1YjE2MTVmMjZmNWUzNjg3`
+Snapshot ID: `MCxjYTdiZDY4NDZlMTBhNjdjMzQwZTFlZDVkNjYxYzEzMWYzMTQ2OGU2`

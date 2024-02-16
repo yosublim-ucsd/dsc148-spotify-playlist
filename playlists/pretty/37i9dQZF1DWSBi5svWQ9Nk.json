@@ -1,15 +1,31 @@
 {
-  "description": "De 50 populairste hits van Nederland. Cover: Kygo & Ava Max",
-  "num_followers": 898155,
+  "description": "De 50 populairste hits van Nederland. Cover: Jonna Fraser",
+  "num_followers": 898250,
   "original_name": "Top Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzYxZmYzY2Q5YmRhZDNmMWYyZGE5YmUxMWJlYzc2MmE2NmNjNmE4",
+  "snapshot_id": "MCxjMWM1MzRhYzc1NTExMzFiMGRlM2Y3ZGM0OWMyOTk3MGI3ZTQ0ZGVj",
   "tracks": [
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Alles Op Gevoel",
         "url": "https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Blindelings",
         "url": "https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Hier Mag Alles",
         "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Satisfyer",
         "url": "https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c"
@@ -205,7 +221,23 @@
       "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Champions League",
         "url": "https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec"
@@ -261,39 +293,7 @@
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "Waterdicht",
-      "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -345,7 +345,23 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Hartslag Van De Stad",
         "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "I Can\u2019t Be The Only One",
         "url": "https://open.spotify.com/album/2O6fjlU6SK9FX4bl5jq5fJ"
@@ -433,27 +449,39 @@
       "url": "https://open.spotify.com/track/7GOo87JXSvaZued7ICTp3A"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "De Leven",
-        "url": "https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf"
+        "name": "\u00c9coutez-moi",
+        "url": "https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W"
       },
       "artists": [
         {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
         }
       ],
-      "duration_ms": 161922,
-      "name": "De Leven",
-      "url": "https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc"
+      "duration_ms": 159000,
+      "name": "\u00c9coutez-moi",
+      "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
@@ -469,7 +497,7 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Knock Knock 4",
         "url": "https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f"
@@ -489,7 +517,7 @@
       "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -505,39 +533,7 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "\u00c9coutez-moi",
-        "url": "https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u00c9coutez-moi",
-      "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Is It Love",
-        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 143669,
-      "name": "Is It Love",
-      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
@@ -557,23 +553,43 @@
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Noodzakelijk Verdriet",
-        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
+        "name": "De Leven",
+        "url": "https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf"
       },
       "artists": [
         {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
         }
       ],
-      "duration_ms": 171333,
-      "name": "Kwijt",
-      "url": "https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1"
+      "duration_ms": 161922,
+      "name": "De Leven",
+      "url": "https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Is It Love",
+        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 143669,
+      "name": "Is It Love",
+      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
@@ -593,23 +609,7 @@
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Speed Of Light",
         "url": "https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u"
@@ -625,7 +625,23 @@
       "url": "https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 160301,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Heart Still Beating",
         "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
@@ -661,43 +677,7 @@
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Verpest",
-        "url": "https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf"
-      },
-      "artists": [
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 160974,
-      "name": "Verpest",
-      "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 169051,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
@@ -717,7 +697,7 @@
       "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Good To Be",
         "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
@@ -733,39 +713,63 @@
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Nickel For Goodbye",
-        "url": "https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI"
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
       "artists": [
         {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         }
       ],
-      "duration_ms": 231744,
-      "name": "Nickel For Goodbye",
-      "url": "https://open.spotify.com/track/0mozpacigd082TTRqi5IZc"
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "Where Did All The Cool Kids Go?",
+        "url": "https://open.spotify.com/album/6dVQQfxNeOjDe4gnCGoegI"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 184396,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/06QEX2cpzBydoHDRh72BIL"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Verpest",
+        "url": "https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 160974,
+      "name": "Verpest",
+      "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
@@ -789,7 +793,23 @@
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Stay (Never Leave)",
         "url": "https://open.spotify.com/album/0cLHUbkb5r3kQLJKMfKU1G"
@@ -813,27 +833,39 @@
       "url": "https://open.spotify.com/track/5orcBp4bfZpJeaf7lXc2Zy"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+        "name": "Noodzakelijk Verdriet",
+        "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
         }
       ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+      "duration_ms": 171333,
+      "name": "Kwijt",
+      "url": "https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Nickel For Goodbye",
+        "url": "https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 231744,
+      "name": "Nickel For Goodbye",
+      "url": "https://open.spotify.com/track/0mozpacigd082TTRqi5IZc"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
@@ -849,43 +881,23 @@
       "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Vas-y (Ga Maar)",
-        "url": "https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        },
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Vas-y (Ga Maar)",
-      "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
+      "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
@@ -899,22 +911,6 @@
       "duration_ms": 178408,
       "name": "Trust Me Mate",
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "This World Is Our Home",
-        "url": "https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 173731,
-      "name": "This World Is Our Home",
-      "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
     }
   ],
   "unique_name": "Top Hits NL",

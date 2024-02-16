@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,206 likes - 60 songs - 3 hr 24 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,205 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 29 | [Make Up](https://open.spotify.com/track/0uzoJnQhD2VYx9zL4cybP5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Make Up](https://open.spotify.com/album/2ZWwd1cj98gwwtfOSMWoTp) | 3:33 |
 | 30 | [TRUTH OR TRUST](https://open.spotify.com/track/4IlH4JvNmbDA8J43Gr21MP) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [TRUTH OR TRUST](https://open.spotify.com/album/0fBwGXJK6nrQ0lJaGOzUXY) | 3:00 |
 | 31 | [My Gemini](https://open.spotify.com/track/3Mf73r5NlpV1AqdtfKii7m) | [NYSSA](https://open.spotify.com/artist/3ayeyuT6LJM6psFS1ueS6J) | [Shake Me Where I'm Foolish](https://open.spotify.com/album/61pr1soPt82B2Sf0VKEKUv) | 6:01 |
-| 32 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:43 |
+| 32 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:41 |
 | 33 | [Modern Drugs](https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Modern Drugs](https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK) | 5:13 |
 | 34 | [Swallow](https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Swallow](https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8) | 2:59 |
 | 35 | [Do One](https://open.spotify.com/track/6uM4d5YuVQZzlZkfBb1g4N) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Do One](https://open.spotify.com/album/7A7iMGBEB5KY5ZfUV40usr) | 2:21 |

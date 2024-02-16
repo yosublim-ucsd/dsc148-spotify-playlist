@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 1419562,
+  "2024-02-16": 1420040,
   "date_first_scraped": "2022-05-30",
   "description": "Hottest Anime tracks & best new sounds for all Anime fans! \u6700\u65b0\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\uff01Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a>",
   "name": "Anime Now",
@@ -4853,6 +4853,24 @@
       "duration_ms": 230136,
       "name": "Hitokokyuuno",
       "url": "https://open.spotify.com/track/5lXSuW2M9n3k04gpN805Nm"
+    },
+    {
+      "album": {
+        "name": "Hitorino Yoru - From CrosSing",
+        "url": "https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN"
+      },
+      "artists": [
+        {
+          "name": "\u6e15\u4e0a \u821e",
+          "url": "https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "Hitorino Yoru - From CrosSing",
+      "url": "https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w"
     },
     {
       "album": {
@@ -16969,7 +16987,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 246826,
       "name": "\u30d2\u30c8\u30ea\u30ce\u591c - from CrosSing",
       "url": "https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl"

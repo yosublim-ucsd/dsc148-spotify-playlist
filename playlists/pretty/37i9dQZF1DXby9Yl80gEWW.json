@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 47048,
+  "num_followers": 47066,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzlhNjdkZmVkYWYzYWE1YjlmMjRjNzJmOGI5N2UwMDQ5MmU0MjVh",
+  "snapshot_id": "MCw3NjM4MGI1ZmEwNDRiMjg5YzRlY2I0OGRhMDBjMGUxOGM0ZDI5MDVk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -903,38 +903,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The David Grisman Quintet",
-        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
-      },
-      "artists": [
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Blue Midnite",
-      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
       },
@@ -955,6 +923,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "The David Grisman Quintet",
+        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
+      },
+      "artists": [
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Blue Midnite",
+      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
@@ -971,22 +955,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
       "artists": [
         {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
         }
       ],
-      "duration_ms": 429346,
-      "name": "Smokin' Strings",
-      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 205266,
       "name": "Big Sciota",
       "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 429346,
+      "name": "Smokin' Strings",
+      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207440,
       "name": "Jerusalem Ridge",
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Instrumentals",
-        "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        },
-        {
-          "name": "Kentucky Thunder",
-          "url": "https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Missing Vassar",
-      "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Short Trip Home",
         "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 244706,
       "name": "If I Knew - Instrumental",
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Kentucky Thunder",
+          "url": "https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Missing Vassar",
+      "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
         "url": "https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 251360,
       "name": "The Majestic Swan - Instrumental",
       "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Riveter",
-        "url": "https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD"
-      },
-      "artists": [
-        {
-          "name": "Sami Braman",
-          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
-        },
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        }
-      ],
-      "duration_ms": 221061,
-      "name": "Weevils in the Grits",
-      "url": "https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Bluegrass 96",
         "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
       },
@@ -1543,22 +1523,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
+        "name": "Riveter",
+        "url": "https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD"
       },
       "artists": [
         {
-          "name": "firekid",
-          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
         },
         {
-          "name": "Jo Cleary",
-          "url": "https://open.spotify.com/artist/4T2E85yw2EpDhmxN0wvAZg"
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
         }
       ],
-      "duration_ms": 200768,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
+      "duration_ms": 221061,
+      "name": "Weevils in the Grits",
+      "url": "https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
+      },
+      "artists": [
+        {
+          "name": "firekid",
+          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
+        },
+        {
+          "name": "Jo Cleary",
+          "url": "https://open.spotify.com/artist/4T2E85yw2EpDhmxN0wvAZg"
+        }
+      ],
+      "duration_ms": 200768,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Live from Bristol",
         "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
       },
@@ -1595,38 +1595,6 @@
       "duration_ms": 174143,
       "name": "Waynesboro - Live",
       "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 292614,
-      "name": "Creatures of Havoc",
-      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1683,6 +1651,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 292614,
+      "name": "Creatures of Havoc",
+      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1759,26 +1759,6 @@
       "duration_ms": 203621,
       "name": "Wellington",
       "url": "https://open.spotify.com/track/5uD5JxoeCv8W9UfWs0bwd3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
-      },
-      "artists": [
-        {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1803,34 +1783,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
       "artists": [
         {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1851,6 +1835,22 @@
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

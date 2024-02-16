@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Victony",
+  "description": "Tracks popping off in the Afro scene. Cover: Joeboy",
   "name": "Afro Station",
   "tracks": [
     {
@@ -206,6 +206,24 @@
       "duration_ms": 196211,
       "name": "Amaria",
       "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
+    },
+    {
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "album": {
@@ -1478,6 +1496,24 @@
       "duration_ms": 144822,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/1hrGy14CTESfCB324zLqCF"
+    },
+    {
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/6mMhB9sJE16rioPmpxRbud"
+      },
+      "artists": [
+        {
+          "name": "Teevii",
+          "url": "https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189873,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/6lMQd3dNLrCpY5a8yTLGbe"
     },
     {
       "album": {
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 223124,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm"
@@ -3176,7 +3212,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 260058,
       "name": "Kristy",
       "url": "https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf"
@@ -4470,7 +4506,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 139473,
       "name": "Nouveau Dossier",
       "url": "https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF"
@@ -4660,6 +4696,24 @@
       "duration_ms": 123716,
       "name": "Organise",
       "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+    },
+    {
+      "album": {
+        "name": "Osadebe",
+        "url": "https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156756,
+      "name": "Osadebe",
+      "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
     },
     {
       "album": {
@@ -5082,6 +5136,24 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "album": {
+        "name": "Quand tu mens",
+        "url": "https://open.spotify.com/album/76zP1B61HmwYqCvhQP1PoR"
+      },
+      "artists": [
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169572,
+      "name": "Quand tu mens",
+      "url": "https://open.spotify.com/track/7apkabvZYZxVA8aZ1bnAh8"
     },
     {
       "album": {
@@ -5606,7 +5678,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 142978,
       "name": "Spiritual Gangsta",
       "url": "https://open.spotify.com/track/17CeZUGav0EA8irJdBHjwB"

@@ -1,6 +1,6 @@
 {
   "description": "All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.",
-  "num_followers": 36697,
+  "num_followers": 36695,
   "original_name": "christmas songs 2023 \ud83c\udf84holiday music",
   "owner": {
     "name": "Filtr Canada\t",
@@ -1263,17 +1263,21 @@
     {
       "added_at": "2023-12-08 14:50:44",
       "album": {
-        "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
+        "name": "A Swingin' Christmas (feat. Count Basie Big Band)",
         "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
       },
       "artists": [
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie Big Band",
+          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
         }
       ],
       "duration_ms": 207253,
-      "name": "O Christmas Tree",
+      "name": "O Christmas Tree (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8"
     },
     {

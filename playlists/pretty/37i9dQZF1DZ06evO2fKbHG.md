@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,042 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,065 likes - 42 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 7 | [The Magnificent Seven \- Remastered](https://open.spotify.com/track/3Ro71R8Vpy166E2PuQDSc8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 5:33 |
 | 8 | [White Riot \- Remastered](https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:56 |
 | 9 | [Straight to Hell \- Remastered](https://open.spotify.com/track/2ax1vei61BzRGsEn6ckEdL) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 5:30 |
-| 10 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 |
+| 10 | [Brand New Cadillac \- Remastered](https://open.spotify.com/track/7FYkZkF9fog6WS818wJnhl) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 2:08 |
 | 11 | [Police On My Back \- Remastered](https://open.spotify.com/track/3lILuFinx7CFaYXJ6FWz54) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:16 |
 | 12 | [Police & Thieves \- Remastered](https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 6:03 |
 | 13 | [Bankrobber](https://open.spotify.com/track/6gSDSkAJ3vuSINvcroq1Vn) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 4:34 |
-| 14 | [Brand New Cadillac \- Remastered](https://open.spotify.com/track/7FYkZkF9fog6WS818wJnhl) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 2:08 |
+| 14 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 |
 | 15 | [Charlie Don't Surf \- Remastered](https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:54 |
 | 16 | [Career Opportunities \- Remastered](https://open.spotify.com/track/4aKMvmxQgX7J766G4pFlyh) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:54 |
 | 17 | [Tommy Gun \- Remastered](https://open.spotify.com/track/3ZhMxNCJcoYBj2wrO4VU3l) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:17 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 41 | [All the Young Punks \(New Boots and Contracts\) \- Remastered](https://open.spotify.com/track/153E8CZ5kCe6KkCHS8mZtS) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 4:58 |
 | 42 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDAzMmM3NzRmMzJhZmQzMDgzNjdjNWJhNDUyZjdjYTliYw==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBhM2U2YTYwNTY0MGI3MWRjODJiNjBhNjE4NzNiZGI2Yw==`

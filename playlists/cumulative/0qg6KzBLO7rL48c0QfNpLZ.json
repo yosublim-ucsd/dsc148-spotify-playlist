@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Just You and I",
+        "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174982,
+      "name": "Just You and I",
+      "url": "https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv"
+    },
+    {
+      "album": {
         "name": "Keep Me Up",
         "url": "https://open.spotify.com/album/754BtgB6lpeyMOtJtAHdMQ"
       },

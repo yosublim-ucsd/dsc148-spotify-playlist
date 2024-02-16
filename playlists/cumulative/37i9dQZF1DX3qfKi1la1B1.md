@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-341 songs - 22 hr 10 min
+342 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 | 2022-11-24 | 2022-12-14 |
 | [Highway](https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9) | 5:28 | 2022-11-24 | 2022-11-26 |
 | [Himitsu](https://open.spotify.com/track/3o9rv8K6kzQ1qLf2LRrE1b) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [CHIYORI](https://open.spotify.com/artist/6INv5oyVNZlG2INLcrMFqX) | [Himitsu](https://open.spotify.com/album/3CIBLveX7ppZDg2wguq4eK) | 5:14 | 2023-09-07 | 2023-10-13 |
+| [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 | 2024-02-15 |  |
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-03-21 | 2023-03-31 |
 | [How I Got Home](https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How I Got Home](https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3) | 3:39 | 2023-11-30 |  |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2024-01-12 |
@@ -188,7 +189,7 @@
 | [moonlight](https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [exported\_file\_1](https://open.spotify.com/album/6galsYHbpMeQzgpGmVnfHb) | 3:16 | 2023-10-17 | 2023-11-17 |
 | [moonlight](https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK) | 3:16 | 2023-10-17 | 2023-10-19 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-14 |  |
-| [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-01-25 |  |
+| [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-01-25 | 2024-02-16 |
 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 | 2023-06-15 | 2023-07-31 |
 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-01-12 | 2024-02-14 |
 | [Nectar\. \- uin Remix](https://open.spotify.com/track/59RzD7R7CCrxvoMclfhsLg) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/6DjyI9iS7SuV0GPxZuSfvC) | 3:06 | 2022-10-20 | 2022-10-28 |

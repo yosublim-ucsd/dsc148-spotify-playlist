@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-812 songs - 1 day 18 hr 51 min
+813 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 | 2022-07-08 | 2022-08-27 |
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2020-11-03\* | 2021-05-07 |
 | [Elektro \(feat\. Mr\. Gee\)](https://open.spotify.com/track/4fqVXoHtVJyO9pGVY2u6Ch) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Outwork](https://open.spotify.com/artist/6rGhQugzXpnsrhvVdlSpdT), [Mr\. Gee](https://open.spotify.com/artist/1t0N8xISGp4xXkCTyMBFYZ) | [Elektro \(feat\. Mr\. Gee\)](https://open.spotify.com/album/6wTmsS21cfiQjWOsXhnHwJ) | 2:22 | 2020-11-03\* | 2021-02-01 |
+| [Elevate \(feat\. RANI\)](https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Elevate \(feat\. RANI\)](https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY) | 2:12 | 2024-02-15 |  |
 | [Emily \- Jonasu Remix](https://open.spotify.com/track/0TlenYFlvmFcdokbwKfqxT) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Emily \(Jonasu Remix\)](https://open.spotify.com/album/3Y7VMNL762DwOkOyG0hDrW) | 3:33 | 2021-10-16 | 2021-12-01 |
 | [Endlessly](https://open.spotify.com/track/1Kr5Oq45MpY46AglqGsKfG) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Kytsa](https://open.spotify.com/artist/5lGmx0FOJ0do3Dm5rnNAPK) | [Endlessly](https://open.spotify.com/album/02xcfr5hO2xmIMUNJIqXcU) | 2:42 | 2020-11-20 | 2020-12-04 |
 | [Energy](https://open.spotify.com/track/7gOdmNazfs5qdtsgWOB1Z4) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/4jnCb5V9ru3GAHtNr7rfkS) | 3:28 | 2020-11-03\* | 2021-06-11 |
@@ -560,7 +561,7 @@
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-01 | 2022-07-16 |
 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-02-02 |  |
 | [Psycho! \- Topic & B\-Case Remix](https://open.spotify.com/track/2VwRXGDCd0Lr2RxwPc2vm3) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [Psycho! \(Topic & B\-Case Remix\)](https://open.spotify.com/album/73eSw2EoLoeDUmSTiLyDSu) | 2:29 | 2020-11-03\* | 2021-02-06 |
-| [Public Demand](https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Public Demand](https://open.spotify.com/album/30ZrywHKsEsrCWagYeyoug) | 2:31 | 2023-12-08 |  |
+| [Public Demand](https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Public Demand](https://open.spotify.com/album/30ZrywHKsEsrCWagYeyoug) | 2:31 | 2023-12-08 | 2024-02-16 |
 | [Pump The Brakes](https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump The Brakes](https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ) | 3:40 | 2021-03-30 | 2021-07-24 |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 | 2022-11-19 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-06-27 |  |

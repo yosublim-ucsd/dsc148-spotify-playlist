@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,296 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,798 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 62 | [Sorriu Para Mim](https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 3:08 |
 | 63 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
 | 64 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
-| 65 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/66nRcgioGhlcdlhUhUWpND) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 6:01 |
+| 65 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 |
 
-Snapshot ID: `MCw2YjY0NzFmZDlkNGFkMzZmZTdhZjY4MmQ1MmIxZTc5YjFhYjk4NjJk`
+Snapshot ID: `MCw1OTY5NDViOTUzN2MyNzk1N2JiMDg1YzExYTVmMmM5Y2Y1OTVmZjU4`

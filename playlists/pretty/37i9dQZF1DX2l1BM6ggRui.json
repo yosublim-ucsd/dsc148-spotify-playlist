@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6452,
+  "num_followers": 6453,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGNlMzYwODk4ZTQ3ZWJkYjUyNGQ5MmUwYTMwNDg3Nzc1YTc0NjE5",
+  "snapshot_id": "MCw2OTcwYWRiN2U5ODAxNmRhNjQwNjBjM2VjNjc0MzUzOWRmMjYxNjlm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 197096,
-      "name": "METEOR",
-      "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 197096,
+      "name": "METEOR",
+      "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
     },
     {
       "added_at": "2023-11-03 06:14:32",

@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1006,
+  "num_followers": 1007,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzMzYWVjNzZlZWRjMmFjYzNiNmZiNzE0NWM2NzI5OWJlN2EzNjc0",
+  "snapshot_id": "MCxjOWE0ODY5YjlkOTRlMmUzYzQ0MjMxNTNjMWQzOTEwNGRmYjdlYjM3",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Bwogana",
-        "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
-      },
-      "artists": [
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        },
-        {
-          "name": "Recho Rey",
-          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bwogana",
-      "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/3odxvb0YleysbfxNeBomkR"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 231000,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7xZBxRmN04ut0FeOt4IkrW"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Bwogana",
+        "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        },
+        {
+          "name": "Recho Rey",
+          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bwogana",
+      "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Sida Mukyalo",
+        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sida Mukyalo",
+      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Very Wellooo",
         "url": "https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 218823,
       "name": "Edoboozi Lyo",
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Sida Mukyalo",
-        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sida Mukyalo",
-      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+        "name": "Pull Up On Mi Bumpa",
+        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
       },
       "artists": [
         {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
         }
       ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+      "duration_ms": 227896,
+      "name": "Pull Up On Mi Bumpa",
+      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -763,22 +767,18 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Pull Up On Mi Bumpa",
-        "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
       },
       "artists": [
         {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         }
       ],
-      "duration_ms": 227896,
-      "name": "Pull Up On Mi Bumpa",
-      "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 282215,
       "name": "DanceHall",
       "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2023-11-24 04:39:56",

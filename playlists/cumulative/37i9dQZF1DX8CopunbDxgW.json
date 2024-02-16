@@ -19842,10 +19842,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147241,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm"
+    },
+    {
+      "album": {
+        "name": "The Danger",
+        "url": "https://open.spotify.com/album/7FK9DwGJvYlLuT78hXgcer"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147241,
+      "name": "The Danger",
+      "url": "https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0"
     },
     {
       "album": {

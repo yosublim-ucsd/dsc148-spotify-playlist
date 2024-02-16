@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-600 songs - 1 day 9 hr 40 min
+601 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Maybe I Know You](https://open.spotify.com/track/4mzKMjm4GLzhYhc5V7edRr) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Maybe I Know You](https://open.spotify.com/album/7MrgHjMvUPHkNRDsTJd4Su) | 3:26 | 2022-03-25 | 2022-07-23 |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-02-21 | 2023-01-07 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-11-14 |  |
+| [Me Against My Head](https://open.spotify.com/track/7CDQfxlivFpECBbv240tAw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me Against My Head](https://open.spotify.com/album/0tmn7v8vBOhVIksEpxJ2uh) | 3:20 | 2024-02-09 |  |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-31 | 2023-01-21 |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2021-12-16 | 2022-08-03 |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-02-09 |  |
@@ -509,7 +510,7 @@
 | [Sugarush](https://open.spotify.com/track/3bqy3C5Qr3LSENrH4lvS6m) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Sugarush](https://open.spotify.com/album/4HG3KflDvugWwUGp5UXtst) | 3:10 | 2021-12-16 | 2022-01-07 |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-08-01 | 2024-01-10 |
 | [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2023-12-01 |  |
-| [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-01-10 |  |
+| [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-01-10 | 2024-02-16 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 |  |
 | [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 | 2022-04-04 | 2022-11-25 |
 | [Take My Hand](https://open.spotify.com/track/6euGVWSYUNW2e7jRjHr13M) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 3:59 | 2022-10-21 | 2023-01-21 |

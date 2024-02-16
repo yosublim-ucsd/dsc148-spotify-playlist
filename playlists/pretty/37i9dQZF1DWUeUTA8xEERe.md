@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,614 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,618 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 13 | [Hider or Seeker?](https://open.spotify.com/track/3syyeyRrAqC3kzQmA9OkEO) | [Nobuki Takamen](https://open.spotify.com/artist/6DCw1xv42cM22nmCgL0GyD) | [Life Is Now](https://open.spotify.com/album/4MCYzdoYSGdvKv8JNOPNE2) | 6:33 |
 | 14 | [Good People](https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good People](https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ) | 3:31 |
 | 15 | [Cactus Dance](https://open.spotify.com/track/7wiJV8CHLuziRQFLKBkD4R) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Cactus Dance](https://open.spotify.com/album/07W1EBHc70iew1Zfe144Du) | 3:52 |
-| 16 | [Sumaré](https://open.spotify.com/track/7CQjHl11EyLetjeRyTUPIS) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p) | 5:36 |
+| 16 | [Sumaré](https://open.spotify.com/track/5UN9o6urrPfAmTI1f8MQqU) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/5m7sOqaQsW4xG6Rw7lNq7u) | 5:36 |
 | 17 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 |
 | 18 | [W.O.W.](https://open.spotify.com/track/4pWCOoHPXIApCUoQUlPutI) | [San Juno](https://open.spotify.com/artist/6ySI72iUUVh0BvHG902xKP) | [W.O.W.](https://open.spotify.com/album/5vowc93bQCIz3mw8TDtojH) | 3:31 |
 | 19 | [Reposo](https://open.spotify.com/track/4rvDhlPppQfYkx5AJ3MON9) | [Menzel Mutzke](https://open.spotify.com/artist/5RpllGf1Yud5Czr5yHNQbJ) | [Spring](https://open.spotify.com/album/7xuXMXUWdtsSyNRg39CCmq) | 6:28 |
 | 20 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
-| 21 | [Ao Redor Do Samba](https://open.spotify.com/track/6xIY56T7e1Gbz0zfQxJU4s) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p) | 4:30 |
+| 21 | [Ao Redor Do Samba](https://open.spotify.com/track/4qnTmohMh7rruwfJZ2F4nH) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/5m7sOqaQsW4xG6Rw7lNq7u) | 4:30 |
 | 22 | [I'm Alive](https://open.spotify.com/track/3nIgICd9QMd8B337TtDq14) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I'm Alive](https://open.spotify.com/album/1095r17w02EJWTmkYa4hgz) | 4:16 |
 | 23 | [Ensueño](https://open.spotify.com/track/5snXCd79NWiOvDokJJER0F) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/09VZWAXmXb3QmghmslhLBR) | 4:10 |
-| 24 | [Fall Afternoon](https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p) | 4:17 |
+| 24 | [Fall Afternoon](https://open.spotify.com/track/7yvOPSMBGs3ctDaYOx62qF) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/5m7sOqaQsW4xG6Rw7lNq7u) | 4:17 |
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |
 | 26 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 |
 
-Snapshot ID: `MCw2N2I3Yjk5YWExYWFkYjA1YTM3OTFmNzVjNjlmOThmYmQwNjA5OTRk`
+Snapshot ID: `MCxiODBiMGU1ZDllMDhlOGZjZTQxOTEzYTgwM2IzMjI2NTcwNWRkYWZi`

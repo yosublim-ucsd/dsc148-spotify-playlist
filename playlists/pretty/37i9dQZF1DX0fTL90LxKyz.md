@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,745 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,766 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 47 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 | 48 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 | 49 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
-| 50 | [Step Out.](https://open.spotify.com/track/2oLgGxj5Hk9LqZggVDg1VW) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 3:57 |
+| 50 | [Lagga](https://open.spotify.com/track/4HYAiH7u0Ef4zRzhD7VUJ5) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/3ycrGoY6xf0Y2npCyyiEtU) | 3:26 |
 
-Snapshot ID: `MCw3NmQ2YjUwNTk2ZWIyNTk0YjEzZjVmNTU2OThmYTI4M2I4YTNhMDU2`
+Snapshot ID: `MCxlNDRhMWMxMGI1YjJlN2ZmOWU0NzUwM2NmYWQxODE3NzUxODRiYmFl`

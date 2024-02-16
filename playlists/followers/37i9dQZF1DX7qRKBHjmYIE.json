@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 751915,
+  "2024-02-16": 751907,
   "date_first_scraped": "2021-12-30",
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Santi Muk.",
   "name": "Mixto",
@@ -2383,7 +2383,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 169046,
       "name": "D15BLO",
       "url": "https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go"
@@ -3777,6 +3777,24 @@
       "duration_ms": 166303,
       "name": "estrella",
       "url": "https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK"
+    },
+    {
+      "album": {
+        "name": "El Abismo",
+        "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
+      },
+      "artists": [
+        {
+          "name": "Molinette Cinema",
+          "url": "https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Estrellas en la Oscuridad",
+      "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
     },
     {
       "album": {

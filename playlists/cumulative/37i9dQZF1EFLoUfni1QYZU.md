@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 7 hr 30 min
+121 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Strange](https://open.spotify.com/track/0ym7NHJQXBiw6vQvqqcuhr) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:54 | 2022-09-08 | 2023-12-14 |
 | [Strange](https://open.spotify.com/track/4n6pH632KlUcuYxq3imOY4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:55 | 2023-12-13 |  |
 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 | 2022-09-08 |  |
-| [Suspicion](https://open.spotify.com/track/26sWRzDoP2gNqsIoty8afK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:20 | 2023-12-13 |  |
+| [Suspicion](https://open.spotify.com/track/26sWRzDoP2gNqsIoty8afK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:20 | 2023-12-13 | 2024-02-16 |
 | [Suspicion](https://open.spotify.com/track/3m2xJrdQwtkv6NCs2SG7O4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:20 | 2022-09-08 | 2023-12-14 |
+| [Suspicion](https://open.spotify.com/track/7xBZsLKgEKDh2mIb3SWTk5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:20 | 2024-02-15 |  |
 | [Switchblade](https://open.spotify.com/track/1plHfju0zRVjlSTT7iwew9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 4:21 | 2023-12-13 | 2024-01-27 |
 | [Switchblade](https://open.spotify.com/track/0lghQmFvO9TVRx7GmrafsU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:24 | 2024-01-26 |  |
 | [Switchblade](https://open.spotify.com/track/6WZplTldmHviPQ6FE4t9mM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:24 | 2022-09-08 | 2023-12-14 |

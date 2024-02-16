@@ -2,9 +2,9 @@
 
 ### [Energy Booster: Metal](https://open.spotify.com/playlist/37i9dQZF1DWTXGqmP0bfT3)
 
-> Need to get your energy level up? This will help!
+> brutal breakdowns and riffs to amp you up.
 
-286 songs - 19 hr 51 min
+287 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Dumptruck](https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W) | [Wilson](https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s) | [Tasty Nasty](https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [Dying for an Angel \- The Wicked Symphony](https://open.spotify.com/track/7dIOlmWKSZoaKXtFZw5Lm5) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa) | [The Wicked Symphony](https://open.spotify.com/album/60eZe7AFmKL69PBFVGCwUU) | 4:31 | 2021-12-17 | 2023-04-11 |
-| [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 | 2021-12-17 |  |
+| [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 | 2021-12-17 | 2024-02-16 |
 | [Faith](https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:29 | 2022-01-06 | 2023-12-14 |
 | [Faith](https://open.spotify.com/track/5xDakgblcGS1kymzemItsE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq) | 4:29 | 2021-12-17 | 2022-07-29 |
 | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH) | 7:18 | 2023-09-12 |  |
@@ -108,6 +108,7 @@
 | [Game Over](https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:36 | 2021-12-17 | 2023-12-14 |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-11-27 |  |
 | [Ghosts](https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jeremy Mckinnon](https://open.spotify.com/artist/2pbDbO5s6Tx2EHmpvLFuLw) | [Found In Far Away Places](https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL) | 4:49 | 2021-12-17 | 2022-06-01 |
+| [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2024-02-09 |  |
 | [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-27 |  |
 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-01-06 |  |

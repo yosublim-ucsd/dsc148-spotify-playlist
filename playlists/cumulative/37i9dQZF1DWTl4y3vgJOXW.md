@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes
 
-569 songs - 1 day 4 hr 57 min
+570 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Bussin \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0eJKjbdEwnWbWyJI9z1gMg) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:57 | 2023-02-17 | 2023-02-22 |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-07-29 | 2023-06-10 |
 | [Can’t stop it](https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:12 | 2023-02-17 | 2023-02-22 |
-| [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-11 |  |
+| [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-11 | 2024-02-16 |
+| [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-15 |  |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-24 | 2023-03-03 |
 | [Celine Frames](https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Last Man Standing](https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4) | 2:35 | 2022-11-04 | 2023-03-14 |
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2021-09-02 | 2023-06-10 |

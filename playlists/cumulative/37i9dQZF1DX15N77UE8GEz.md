@@ -2,7 +2,7 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: Bizarrap & Young Miko
+> ¡Escucha los éxitos de hoy!<br/>Foto: Milo j
 
 79 songs - 4 hr 14 min
 

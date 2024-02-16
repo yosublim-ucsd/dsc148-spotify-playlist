@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 708436,
+  "num_followers": 708563,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDRiM2JlYjU0MDIzZDM4MzhiYjUxNzBmZmVhMTVmNzAxNzg2NGFk",
+  "snapshot_id": "MCxiMTQ4YzViYWI2NjFhZDUwMDlkMTE2OWFlMmQ5NGNmNDE0ZTE3NzRk",
   "tracks": [
     {
       "added_at": "2023-12-21 21:10:20",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2010",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -623,22 +639,6 @@
       "duration_ms": 311880,
       "name": "Let 'Em In - 2014 Remaster",
       "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Coney Island Baby",
         "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 159093,
       "name": "Charley's Girl",
       "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
     },
     {
-      "added_at": "2023-12-21 21:10:20",
+      "added_at": "2024-01-31 00:14:02",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Cry To Me-The Best Of Freddie Scott",
+        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Freddie Scott",
+          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
         }
       ],
-      "duration_ms": 343426,
-      "name": "Girlfriend Is Better - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+      "duration_ms": 179333,
+      "name": "(You) Got What I Need",
+      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
-      "added_at": "2024-01-31 00:14:02",
+      "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Cry To Me-The Best Of Freddie Scott",
-        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
-          "name": "Freddie Scott",
-          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 179333,
-      "name": "(You) Got What I Need",
-      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
+      "duration_ms": 343426,
+      "name": "Girlfriend Is Better - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1039,6 +1039,38 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Dark Days [Feat. Sylvan Esso]",
         "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
       },
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
         }
       ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1255,34 +1239,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1303,6 +1271,38 @@
       "duration_ms": 194373,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "You and Me and Everything",
+        "url": "https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "duration_ms": 216901,
+      "name": "I Might Be",
+      "url": "https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Mercury Rising",
         "url": "https://open.spotify.com/album/6rK6K6wJ81LzF9TzlpnFA0"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 168893,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "You and Me and Everything",
-        "url": "https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY"
-      },
-      "artists": [
-        {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "duration_ms": 216901,
-      "name": "I Might Be",
-      "url": "https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Time Was",
-      "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Talk About It (B-Side)",
         "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 132096,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Time Was",
+      "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        },
+        {
+          "name": "Florent F",
+          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Didn't I - Florent F Rework",
+      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1579,26 +1599,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        },
-        {
-          "name": "Florent F",
-          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Didn't I - Florent F Rework",
-      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Idol Eyes",
         "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 288426,
       "name": "Idol Eyes",
       "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1651,6 +1635,22 @@
       "duration_ms": 215204,
       "name": "Cruisin' to the Parque",
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
-        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Autoflower",
         "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 184983,
       "name": "Smoke Machine",
       "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
+        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Try and Love",
         "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
       },
@@ -1811,18 +1791,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
       },
       "artists": [
         {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -1875,6 +1875,22 @@
       "duration_ms": 220960,
       "name": "Mambo Sun - 2003 Remaster",
       "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1907,22 +1923,6 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2023-12-21 21:10:20",

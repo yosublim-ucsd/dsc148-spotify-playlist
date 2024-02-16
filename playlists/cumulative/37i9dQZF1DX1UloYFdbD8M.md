@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Pina Colada Blues
 
-163 songs - 11 hr 19 min
+165 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2022-09-06 | 2023-07-28 |
 | [Chiripaatu](https://open.spotify.com/track/049lmlc3unN6EyPyTcmmHe) | [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI), [Gopikrishnan S Kurup](https://open.spotify.com/artist/3pNvwcpWqhSxLDAc65GCWp) | [Chiripaatu](https://open.spotify.com/album/2kJGjzcGpZE9vgyv3CKmAu) | 4:00 | 2023-10-10 |  |
 | [Chiriye Chiriye](https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Chiriye Chiriye](https://open.spotify.com/album/5w4BOdik9aFINcA9tHsT6X) | 4:31 | 2023-06-19 | 2023-07-28 |
+| [Choodathe Poyi](https://open.spotify.com/track/1U1bSyZqQ5Pm13ByqckeSX) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Choodathe Poyi](https://open.spotify.com/album/4ZB62nv4d18a0UNHfMkWMV) | 5:40 | 2024-02-15 |  |
 | [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 |  |
 | [Dooram](https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc) | [Aravind Chandrasekhar](https://open.spotify.com/artist/5WCtTjYGnQT0zeflxOyPKw) | [Dooram](https://open.spotify.com/album/7lt4WELBY6unUEaS1S89W0) | 1:36 | 2024-02-13 |  |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 |  |
@@ -147,6 +148,7 @@
 | [Swasamay](https://open.spotify.com/track/2T5iv3yppmAVwU9RduQOHe) | [Goutham Vincent](https://open.spotify.com/artist/44AI6q02YIJMvtzmgFetaV), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Ridhu Krishna](https://open.spotify.com/artist/0VAXoBqMrGpLbF1PC3rNbD) | [Swasamay](https://open.spotify.com/album/2gsKpKlh3cT5zXGeA1yLG6) | 2:37 | 2024-02-05 | 2024-02-15 |
 | [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 |  |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 |  |
+| [The Bacardi Song](https://open.spotify.com/track/6V6Gp9FBvuge8f7IwijFUX) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [The Bacardi Song](https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr) | 3:54 | 2024-02-15 |  |
 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 | 2023-07-27 | 2023-12-16 |
 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/5pSnPq1TGDAhF0PRdN4WuG) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/5QJ4PCld9g8R7u6c8YKOBM) | 8:31 | 2023-10-06 |  |
 | [The Seventh Ocean](https://open.spotify.com/track/4GuOd0hqHihlZXTNo8mwUT) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Seventh Ocean](https://open.spotify.com/album/1xpnW655nhgVzDBpNByk5i) | 7:07 | 2023-09-25 |  |

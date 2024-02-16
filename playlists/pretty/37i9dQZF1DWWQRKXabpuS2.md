@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:نوال الكويتية
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,565 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 |
+| 1 | [أدعج غنج](https://open.spotify.com/track/4Edz1lpw9ciw6kYeu9F7jC) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [أدعج غنج](https://open.spotify.com/album/0Sj5nWxglerMNk6hPTldur) | 4:30 |
 | 2 | [Wbass Wallah](https://open.spotify.com/track/0tO10FXwItxlccWS8d2WoZ) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Wbass Wallah](https://open.spotify.com/album/52dHi6cYaYewGLsEJxtTH6) | 4:03 |
 | 3 | [مواري العتب](https://open.spotify.com/track/2RThTA4dBEwcFKKgb1kOte) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [مواري العتب](https://open.spotify.com/album/2ht6dn0XQGc4a9sPK3DuDK) | 3:23 |
 | 4 | [Tekfa La Tezaal](https://open.spotify.com/track/1PQUoFUEup1srdXYs589eX) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tekfa La Tezaal](https://open.spotify.com/album/1pqCeLwE1qJMFaM06F5umO) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [El Gheyab](https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [El Gheyab](https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3) | 5:21 |
 | 50 | [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 |
 
-Snapshot ID: `MCwzYzY4YjUzNzA4MDJmODhmY2EwYTMzZWE2YjQyN2MxMzhkYjJkNWQ1`
+Snapshot ID: `MCw1ZWRhNGNjYjExMzExYmU5ZDk0N2IzNzU0MWE5NWQ3ZTg5YjY4N2Qw`

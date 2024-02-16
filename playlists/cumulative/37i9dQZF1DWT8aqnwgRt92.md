@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,212 songs - 3 day 4 hr 17 min
+1,213 songs - 3 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1102,7 +1102,7 @@
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-07-21 |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 | 2024-01-05 |
 | [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 | 2024-01-25 |  |
-| [未完成](https://open.spotify.com/track/1qNjiTuVvUrdbOzvfH3yzM) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [未完成](https://open.spotify.com/album/6w8g1J2foak2DLjRQe2Ax5) | 3:25 | 2024-01-06 |  |
+| [未完成](https://open.spotify.com/track/1qNjiTuVvUrdbOzvfH3yzM) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [未完成](https://open.spotify.com/album/6w8g1J2foak2DLjRQe2Ax5) | 3:25 | 2024-01-06 | 2024-02-16 |
 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 | 2022-12-13 | 2023-01-13 |
 | [果てのない旅](https://open.spotify.com/track/558Rz2INvrgzVBEBdUFLZk) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [果てのない旅](https://open.spotify.com/album/4HaR7cxuaOgD7hnst95Wgw) | 2:41 | 2024-01-11 |  |
 | [械物](https://open.spotify.com/track/7KTFpmdmtPrLjJEwDzSXi7) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [械物](https://open.spotify.com/album/58Xglex1HKyErlO3VwkF45) | 3:43 | 2023-06-27 | 2023-10-04 |
@@ -1182,6 +1182,7 @@
 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 | 2023-07-13 | 2023-10-06 |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2022-12-27 | 2023-01-02 |
 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 | 2022-08-16 | 2022-10-04 |
+| [退屈ESCAPE](https://open.spotify.com/track/0RCmHdQwnpvwTIUWkaNm8D) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [退屈ESCAPE](https://open.spotify.com/album/0rYRwWeV1vfYVcXwgx63Wj) | 4:07 | 2024-02-15 |  |
 | [逆光 \- replica \-](https://open.spotify.com/track/3LZwKI90sFbwjJMMSfyPp7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:57 | 2023-11-14 | 2024-01-07 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-10-12 |
 | [逆夢](https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 5:08 | 2023-11-28 | 2024-01-10 |

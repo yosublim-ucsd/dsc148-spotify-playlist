@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-381 songs - 18 hr 45 min
+385 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Dvala](https://open.spotify.com/track/14N0SnNoSSqdIVSHCBXnCb) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Dvala](https://open.spotify.com/album/5eHx7IxJ0eXfVfD8KMMxD9) | 3:06 | 2022-04-07 |  |
 | [Eascodset](https://open.spotify.com/track/1BMgyrYXHolIe6e0oU9OqQ) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Eascodset](https://open.spotify.com/album/7zPoPXFJwRprw2MwaLjr7V) | 3:06 | 2022-07-22 |  |
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2021-12-17 | 2023-09-01 |
+| [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 | 2024-02-15 |  |
 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 | 2022-02-25 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2021-12-17 |  |
 | [Enough](https://open.spotify.com/track/11UZcELqU0dAiNLD3MboDh) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Enough](https://open.spotify.com/album/54INztVhPtcP07CYx9dwfo) | 2:05 | 2022-12-02 |  |
@@ -118,6 +119,7 @@
 | [Exhalious Dream](https://open.spotify.com/track/7lNlimXIi5FN9xQIggXIrE) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Exhalious Dream](https://open.spotify.com/album/5Eqr2J9kZaglf5qGZoRAfj) | 2:57 | 2022-01-19 |  |
 | [Exilio](https://open.spotify.com/track/4yq019pJ4xefG6QkD6wz3P) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Exilio](https://open.spotify.com/album/5xfmmaNU1MlKYpUAdso1q2) | 2:29 | 2021-12-17 | 2023-08-05 |
 | [Exoplaneta](https://open.spotify.com/track/4luQBiFE4vKIyJoXGBOQm8) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Estrella Fugaz](https://open.spotify.com/album/1RPVMZFbi1wuf6QTaVisKJ) | 3:11 | 2022-03-04 |  |
+| [Extensively](https://open.spotify.com/track/4Qha9RxNLLahCEDGJ6SVDn) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Extensively](https://open.spotify.com/album/4yRZiTgskgwTeQNRUozKBd) | 2:52 | 2024-02-15 |  |
 | [Fading Sun](https://open.spotify.com/track/6Xx1PixvZ1lutaQaRiTjmq) | [Faye Brinkmann](https://open.spotify.com/artist/34THtJSLQbUmVxt5BxcmpC) | [Fading Sun](https://open.spotify.com/album/5rOcSfB1HEbEYhsRdiaQcv) | 2:33 | 2023-05-05 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2021-12-17 | 2023-05-27 |
 | [Family Of Trees](https://open.spotify.com/track/0XG54yd8OWlNXvBhUuCcSa) | [Iyaam Ibe](https://open.spotify.com/artist/3wKXsp0WLtntFbx7mcaLWp) | [Family Of Trees](https://open.spotify.com/album/3GdHb9hshFV5WjVkLQ4R4U) | 2:32 | 2023-07-28 |  |
@@ -272,6 +274,7 @@
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-17 | 2022-09-03 |
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2021-12-17 | 2022-09-24 |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-02-01 | 2023-07-29 |
+| [Quiet Stars](https://open.spotify.com/track/7KdBDKcvAKp8DcV4jMbk62) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Quiet Stars](https://open.spotify.com/album/0R6seJn1CnZmDlDpd3RzLg) | 3:12 | 2024-02-15 |  |
 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 | 2022-01-11 |  |
 | [Rainbow Days](https://open.spotify.com/track/6mY7TTC8qzOURWVNjdiB03) | [Janinan.](https://open.spotify.com/artist/7tj72nDddYtKjWHdQ7YadH) | [Pantrana Calm](https://open.spotify.com/album/2wc8UqKag2QJgjtENEcCMW) | 3:14 | 2023-03-30 |  |
 | [Rebirth](https://open.spotify.com/track/056tXUgNyQYRYn4N3zpnQG) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:24 | 2021-12-17 |  |
@@ -384,6 +387,7 @@
 | [Yana](https://open.spotify.com/track/6pv7Z1c7FQcLSxUIGgQrg3) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Yana](https://open.spotify.com/album/2ieSB12RwegevPF1BAqjnx) | 3:14 | 2021-12-17 |  |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2021-12-17 | 2023-09-01 |
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2021-12-17 | 2022-09-03 |
+| [Yours](https://open.spotify.com/track/1JObSSGWbmXLnqsyGAMwTW) | [Vellore](https://open.spotify.com/artist/7IYQPynt9mzd6LR9XFW9zR) | [Yours](https://open.spotify.com/album/4NvYqHaSJ0b2Ue2o9ecgd3) | 2:52 | 2024-02-15 |  |
 | [Zwijgzaam](https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF) | [Arend Van de Berg](https://open.spotify.com/artist/63jzbSMufVu89cATqsHgyn) | [Zwijgzaam](https://open.spotify.com/album/66DT8BwYSolG1NFg2sxirA) | 3:14 | 2023-04-21 |  |
 | [Ängarna](https://open.spotify.com/track/13RPTSwWAEQ2XU7PgHj6YQ) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Ängarna](https://open.spotify.com/album/48qEJ2qLRnVcrd9b4unnAJ) | 3:05 | 2021-12-17 |  |
 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2021-12-17 | 2022-11-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: ZAC
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,963 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,961 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 79 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 | 80 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 |
 
-Snapshot ID: `MCw0NjkwM2Y2YmZlZWM1OGQ3OGEwZWUyMGU0NDE2Nzc2NDdiMzVlYzVm`
+Snapshot ID: `MCw5NGE4YjA3ZTc0ZDYxYzJlMzZlMWRhNmM2Mjg2ZjAwODhlNDQ5Y2M0`

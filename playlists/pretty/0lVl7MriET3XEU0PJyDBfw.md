@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,127 likes - 65 songs - 3 hr 22 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,127 likes - 71 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,11 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 63 | [Catch The Vibe](https://open.spotify.com/track/2E9E2bq5AHMeVrGMJwR5AF) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [Juice! the DJ](https://open.spotify.com/artist/3TtKOTVRwvJz4l0yYSSzK2) | [STAY GOLD Vol.1](https://open.spotify.com/album/0WF9ZuauyWkOeBAn9qLMak) | 3:29 |
 | 64 | [Twist It](https://open.spotify.com/track/3KBYGZk7GjlCu96zU8DG86) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [AYAREZ](https://open.spotify.com/artist/3eTTWCTlXDyGKwrGqDMsX0) | [Twist It](https://open.spotify.com/album/7CIab4fV9GFYnECCO4lDnU) | 3:02 |
 | 65 | [Shut It Down](https://open.spotify.com/track/7qwLBBmnYAIzygxRKgtIBM) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [Shut It Down](https://open.spotify.com/album/15bu5n3pheWYEoc6YmEBLO) | 3:47 |
+| 66 | [Sound Of The Drums](https://open.spotify.com/track/4s538QEQhTSOJGnasd1FAZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Sound Of The Drums](https://open.spotify.com/album/0m6A8RrKlJ5bTTz3XyV4v7) | 3:31 |
+| 67 | [PWR](https://open.spotify.com/track/1zdQG75Kh6lAaal7loGVbi) | [Almossa](https://open.spotify.com/artist/67Ix4Chm7rVd9hGdBwGziv) | [PWR](https://open.spotify.com/album/7KxDwPjLiFFTyEKm1klkJi) | 2:38 |
+| 68 | [BOOGIE WONDERLAND](https://open.spotify.com/track/4e3pOhIWCbNPkUeRbyBoqp) | [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [BOOGIE WONDERLAND](https://open.spotify.com/album/5V4ZcC8ra2VXqhcql7EAZU) | 2:49 |
+| 69 | [Delante](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN) | [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE) | [Delante](https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag) | 2:25 |
+| 70 | [El Perreo](https://open.spotify.com/track/5dN1GDZbPdzSBUNbioAS6Q) | [MDM](https://open.spotify.com/artist/4LfRmIWqRXgCTCfJvd2v2j) | [El Perreo](https://open.spotify.com/album/6NdWzOzaB76Q7Niw59BgoO) | 2:19 |
+| 71 | [L&F](https://open.spotify.com/track/0Xpkaj9LG2jhPqghW2sXJE) | [Cheery\-O](https://open.spotify.com/artist/7qjyQoP8L9iQb9wGERQuHy), [KLK](https://open.spotify.com/artist/0F7Es5GvMO8ucUdpVCgzZi) | [Miami EP](https://open.spotify.com/album/1DpIIo0pWf7zMdDEnn9HHB) | 2:57 |
 
-Snapshot ID: `NjIzOSxlNjgxNDg4NzY2NWZmYjQ0MjMxMDA3OTkxMGEwYWI0NTJhNDhmN2Qz`
+Snapshot ID: `NjI0NSwxZjJkY2ZmZDk4NDNhZWI5ODEyMTc0YTc0NzMwM2NiZWU2ODc2ZmM1`

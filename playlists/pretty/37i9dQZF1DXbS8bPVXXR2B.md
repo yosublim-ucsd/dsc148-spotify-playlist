@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,336 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,382 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 18 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 19 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
 | 20 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
-| 21 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
-| 22 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 21 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 22 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 23 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 24 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
 | 25 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 51 | [Pull Up To The Bumper \- Edit](https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Island Life](https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI) | 3:38 |
 | 52 | [First True Love Affair \- Larry Levan Remix](https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair](https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq) | 7:08 |
 | 53 | [The Sweetest Meditation](https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe) | 5:54 |
-| 54 | [Your Sweet Lovin'](https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [What A Woman Needs](https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm) | 3:39 |
-| 55 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 |
+| 54 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 |
+| 55 | [Your Sweet Lovin'](https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [What A Woman Needs](https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm) | 3:39 |
 | 56 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 | 57 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 |
 | 58 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 66 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
 | 67 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
 | 68 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
-| 69 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
-| 70 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
+| 69 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
+| 70 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
 | 71 | [Whistle Bump](https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Love Island](https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT) | 4:32 |
 | 72 | [Found a Cure \- 12" Disco Mix](https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:03 |
 | 73 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 | 100 | [Put Your Body In It \- 12" Version](https://open.spotify.com/track/5abxwASaBFQDyZVh983qRD) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Disco Funk \(Disco Nights Vol.2\)](https://open.spotify.com/album/58STS86oy7HcgvP6yt6mca) | 6:02 |
 
-Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`
+Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`

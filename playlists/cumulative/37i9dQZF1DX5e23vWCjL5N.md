@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Club Dogo
 
-152 songs - 8 hr 12 min
+153 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [La G La U La E pt.2](https://open.spotify.com/track/3PHUQDyGYZhRJFSwbTXnsG) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:25 | 2022-04-15 | 2022-11-25 |
 | [La Haine](https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:52 | 2022-06-09 | 2022-07-16 |
 | [La Merce Più Buona \(feat\. Emis Killa & Guè\)](https://open.spotify.com/track/1QuMDggqlPRHM4BRXVkPV9) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 4:02 | 2023-12-14 |  |
+| [La Pace È La Risposta](https://open.spotify.com/track/7nadpBZq56D2Kl4QRn1WMn) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [La Pace È La Risposta](https://open.spotify.com/album/7K8vME5lUhdNi5rfuaHDjc) | 3:25 | 2024-02-15 |  |
 | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/track/0zocqG2uQugrTWzUBK1SCw) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0) | 2:51 | 2022-12-15 | 2023-01-13 |
 | [LAVA FREESTYLE](https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [LAVA FREESTYLE](https://open.spotify.com/album/2iNH5aUtHwY85OiVCwBKfx) | 1:59 | 2022-06-09 | 2023-09-15 |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/24rUo2kPLa3HfMCHypXmnH) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 4:59 | 2022-07-15 | 2022-08-05 |

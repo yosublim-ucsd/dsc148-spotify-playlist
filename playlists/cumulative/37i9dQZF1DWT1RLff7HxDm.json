@@ -506,10 +506,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 256986,
       "name": "Cry a Little - Live",
       "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
+    },
+    {
+      "album": {
+        "name": "Live at the King Eddy",
+        "url": "https://open.spotify.com/album/2mkgrkkX7uzF9knmItpSvL"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist & the Axe Murderer",
+          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "Cry a Little - Live",
+      "url": "https://open.spotify.com/track/61iTGJ7XEsfUmWU0LVWUP5"
     },
     {
       "album": {

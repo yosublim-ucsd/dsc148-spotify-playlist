@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2DjEOgyULQF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2DjEOgyULQF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2DjEOgyULQF)
 
-### [Relajación natural](https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF)
+### [Nature Relaxation](https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF)
 
-> Música ambient con sonidos relajantes de agua, lluvia y aves.
+> Ambient with the soothing sounds of water, rain and birds.
 
-157 songs - 7 hr 44 min
+162 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Coupled](https://open.spotify.com/track/1LneJ82CsAFh6VyZkOUbKC) | [Everly Hess](https://open.spotify.com/artist/67t6YRbij8vz9jrlPu8ozo) | [Coupled](https://open.spotify.com/album/0KB3Ihcz08CkBd5xmernNT) | 2:02 | 2023-05-22 |  |
 | [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2023-04-28 |  |
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 |  |
+| [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 |  |
 | [Deep Waves](https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog) | [Sink in Calm](https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX) | [Deep Waves](https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n) | 3:39 | 2023-04-28 |  |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2023-04-28 |  |
 | [Dream On](https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9) | [Isla Laine](https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC) | [Dream On](https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T) | 3:15 | 2023-04-28 |  |
@@ -76,7 +77,9 @@
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2023-04-28 |  |
 | [I Can See You At The Bottom Of Every River](https://open.spotify.com/track/7mNB5wjFqN2ERnNeDe1YPg) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Into The Wild](https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3) | 4:02 | 2023-04-28 | 2023-06-17 |
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 |  |
+| [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 |  |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2023-04-28 |  |
+| [Janai](https://open.spotify.com/track/0FE4eD4T4bDvdrItF6xnZ1) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Janai](https://open.spotify.com/album/24itL7dI8Nnws6rpTFrLv1) | 2:51 | 2024-02-15 |  |
 | [Jangal](https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Jangal](https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx) | 3:22 | 2023-08-11 |  |
 | [Key Of Dreams \(Nature\)](https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Key Of Dreams](https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3) | 2:59 | 2023-04-28 |  |
 | [Kitsilano](https://open.spotify.com/track/0fh7CVlKxnKzdKCf125OBR) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Kitsilano](https://open.spotify.com/album/6eRIVdsCRum4Za5YubIgjx) | 2:44 | 2023-11-10 |  |
@@ -135,6 +138,7 @@
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |
 | [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 |  |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 |  |
+| [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-02-15 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 |  |
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 |  |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-04-28 |  |
@@ -155,6 +159,7 @@
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Verdancy](https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:37 | 2023-04-28 |  |
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2023-04-28 |  |
+| [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-02-15 |  |
 | [Visie](https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Visie](https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW) | 2:41 | 2023-04-28 |  |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 |  |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 |  |

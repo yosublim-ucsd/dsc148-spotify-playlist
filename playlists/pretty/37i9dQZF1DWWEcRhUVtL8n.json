@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Del Water Gap & Holly Humberstone",
-  "num_followers": 1688746,
+  "num_followers": 1688798,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjNlNmNlZjA3OWIwYzUyMGM2MDBhOTdlM2M3ZDFmY2JhNDg0NjM4",
+  "snapshot_id": "MCwwZmQxMDY5NGJiMWYyMmM3OGZiYjU4NDMwNWUwNGJlZDQ0YTZlN2Jk",
   "tracks": [
     {
       "added_at": "2024-02-09 18:17:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "playpen",
-        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 151142,
-      "name": "we're all eating each other",
-      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "playpen",
+        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 151142,
+      "name": "we're all eating each other",
+      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 233499,
       "name": "Best",
       "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "loving u is harder",
-        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 147426,
-      "name": "loving u is harder",
-      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "summer camp",
         "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "loving u is harder",
+        "url": "https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 147426,
+      "name": "loving u is harder",
+      "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 155997,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 155997,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Sweet N Low",
         "url": "https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 179049,
       "name": "Sweet N Low",
       "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 214320,
       "name": "Sad to Breathe",
       "url": "https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "I Love My Girl, She's My Boy",
-        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Self destruct",
-      "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Sweet Boy Pt. 1",
         "url": "https://open.spotify.com/album/038wFBV1FT6Q90Wpd3S4zm"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 124500,
       "name": "Ladygirl",
       "url": "https://open.spotify.com/track/1HmvWDyb82cNLNhGfe60nr"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "I Love My Girl, She's My Boy",
+        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Self destruct",
+      "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
       },
       "artists": [
         {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 213271,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1379,22 +1379,6 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1439,6 +1423,22 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "All day",
         "url": "https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "we don't move",
         "url": "https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 160258,
       "name": "we don't move",
       "url": "https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1623,6 +1639,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Taste of Metal",
+        "url": "https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Taste of Metal",
+      "url": "https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/2tB7A3qaM1ld8ZotJnvsAo"
       },
@@ -1639,38 +1671,6 @@
       "duration_ms": 272695,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3znKpMRCzOloTYv0uGAs22"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Taste of Metal",
-        "url": "https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "Taste of Metal",
-      "url": "https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F"
     }
   ],
   "unique_name": "Indie Pop",

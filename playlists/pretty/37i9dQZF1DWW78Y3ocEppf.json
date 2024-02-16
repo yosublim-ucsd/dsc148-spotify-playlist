@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43238,
+  "num_followers": 43237,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz",
+  "snapshot_id": "MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Spin Again",
-        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
-      },
-      "artists": [
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        }
-      ],
-      "duration_ms": 248872,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Right My Wrongs",
@@ -955,6 +939,22 @@
       "duration_ms": 151730,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Meet Me Upstrz",
-        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
-      },
-      "artists": [
-        {
-          "name": "Upstrz",
-          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Before We Crash",
@@ -1023,6 +1007,22 @@
       "duration_ms": 229447,
       "name": "Better Than Him",
       "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Meet Me Upstrz",
+        "url": "https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY"
+      },
+      "artists": [
+        {
+          "name": "Upstrz",
+          "url": "https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "DOWN BAD",
-      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "'95 Civic",
@@ -1151,6 +1135,22 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "DOWN BAD",
+      "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -1341,20 +1341,20 @@
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Pray for a Beautiful Sky",
-        "url": "https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M"
+        "name": "Hurt Before",
+        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
       },
       "artists": [
         {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Thug Passion",
-      "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
+      "duration_ms": 122086,
+      "name": "Hurt Before",
+      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Pray for a Beautiful Sky",
+        "url": "https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Thug Passion",
+      "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
+    },
+    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "The Other Side",
@@ -1387,22 +1403,6 @@
       "duration_ms": 147792,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Hurt Before",
-        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 122086,
-      "name": "Hurt Before",
-      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 149020,
-      "name": "New Nigga",
-      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
-    },
-    {
       "added_at": "2023-09-01 04:55:52",
       "album": {
         "name": "I'M THE PROBLEM",
@@ -1455,6 +1439,22 @@
       "duration_ms": 249917,
       "name": "Blame Yourself",
       "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Thanks 4 Nothing",
+        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 149020,
+      "name": "New Nigga",
+      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1505,26 +1505,6 @@
       "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "Maddest Hoes",
-        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Maddest Hoes",
-      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "On Mine",
@@ -1543,6 +1523,26 @@
       "duration_ms": 143986,
       "name": "On Mine",
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+    },
+    {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Maddest Hoes",
+        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Maddest Hoes",
+      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Go Get Her",
@@ -1711,22 +1727,6 @@
       "duration_ms": 163568,
       "name": "Go Get Her",
       "url": "https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
       "added_at": "2023-02-24 05:00:00",

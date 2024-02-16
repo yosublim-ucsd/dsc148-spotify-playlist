@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,097 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,084 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 20 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 21 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
 | 22 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 |
-| 23 | [Ar Condicionado no 15 \- Ao Vivo](https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN) | 2:51 |
-| 24 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
+| 23 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
+| 24 | [Ar Condicionado no 15 \- Ao Vivo](https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN) | 2:51 |
 | 25 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
 | 26 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 27 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
-| 28 | [Cem Mil \- Ao Vivo](https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 3:23 |
-| 29 | [Bonita, Lindinha e Sagaz](https://open.spotify.com/track/3ZjpeqP47CBSMUTc6IVhEM) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Bonita, Lindinha e Sagaz](https://open.spotify.com/album/5QOnAQEYvj9z2ooInaE4Tx) | 2:35 |
+| 28 | [Bonita, Lindinha e Sagaz](https://open.spotify.com/track/3ZjpeqP47CBSMUTc6IVhEM) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Bonita, Lindinha e Sagaz](https://open.spotify.com/album/5QOnAQEYvj9z2ooInaE4Tx) | 2:35 |
+| 29 | [Cem Mil \- Ao Vivo](https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 3:23 |
 | 30 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
 | 31 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 32 | [Cheia de Manias \- Ao Vivo](https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr) | [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Raça Negra e Amigos II \(Ao Vivo\)](https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw) | 4:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
 | 70 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 
-Snapshot ID: `MCw1MTE5ZDhjNjg2ZmUzN2U2YjIxYTliOTUyMjI4ZWYyZTEyMGRlMDdh`
+Snapshot ID: `MCwyODA1M2JjMDg5MzJhMTQ0MTM4MjBmNjhjMGI5ZjdkYmRhYTU4YWZl`

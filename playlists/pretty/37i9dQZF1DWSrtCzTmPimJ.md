@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,823 likes - 145 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,938 likes - 145 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 144 | [Alpha Drone 8 Hz](https://open.spotify.com/track/1xrw0MIXasQIaD9oLqE4qF) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:36 |
 | 145 | [Deep Ocean \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/6hYIZ3STECmS3aIZFY9sGF) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 2:56 |
 
-Snapshot ID: `MCxiMjQwYWE2NWFiYjY3MzQ0M2U2YmEzZjZlY2JmODQ3YTZjMmI1NWIw`
+Snapshot ID: `MCwwZDM5MDdiYmQ0ZTJiYzEzMjM4YTJiMzFlMmNhYTE3MTc0Y2ViNzE2`

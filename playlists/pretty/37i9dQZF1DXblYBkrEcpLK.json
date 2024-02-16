@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: ReoNa",
-  "num_followers": 153041,
+  "num_followers": 153083,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2FhZWM0NmExOWU5MDVmMDY1ZjRlZTY0NDQwYzExNzkwYmRhZjg5",
+  "snapshot_id": "MCwyY2U3MDQwN2ViOWNlMWU4M2JiZmFhMmRlYzZmNDkyMWI4YzdlNjJi",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
-        "url": "https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF"
+        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
       },
       "artists": [
         {
-          "name": "QUEENDOM",
-          "url": "https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70"
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
         }
       ],
-      "duration_ms": 202500,
-      "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
-      "url": "https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY"
+      "duration_ms": 180266,
+      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
+        "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
+        "url": "https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF"
       },
       "artists": [
         {
-          "name": "\u30b7\u30e6\u30a4",
-          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+          "name": "QUEENDOM",
+          "url": "https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70"
         }
       ],
-      "duration_ms": 180266,
-      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
+      "duration_ms": 202500,
+      "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
+      "url": "https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw"
-      },
-      "artists": [
-        {
-          "name": "\u5cac \u306a\u3053",
-          "url": "https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh"
-        }
-      ],
-      "duration_ms": 205237,
-      "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "SARIGIWA NO ROMANTICS",
         "url": "https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 276160,
       "name": "SARIGIWA NO ROMANTICS",
       "url": "https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw"
+      },
+      "artists": [
+        {
+          "name": "\u5cac \u306a\u3053",
+          "url": "https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "\u30b9\u30a4\u30fc\u30c8\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW"
     },
     {
       "added_at": "2024-02-13 15:00:00",

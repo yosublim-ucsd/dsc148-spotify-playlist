@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-285 songs - 15 hr 19 min
+287 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 | 2022-07-15 |
 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 | 2023-07-11 |  |
 | [Blaue Stunde](https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/48VSW134REUVskHHy2laF0) | 3:17 | 2023-07-06 | 2023-07-14 |
+| [BLESSED](https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [BLESSED](https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv) | 2:51 | 2024-02-15 |  |
 | [Blood In The Water](https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Blood In The Water](https://open.spotify.com/album/1IbRlTLil2YwX2M0eCo9BU) | 3:27 | 2022-12-01 | 2023-05-05 |
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-05-26 | 2023-02-03 |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 |  |
@@ -142,7 +143,7 @@
 | [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 | 2023-11-25 |
 | [Jungle](https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore](https://open.spotify.com/album/3dkbfJo5szx7gGIx51zR5q) | 3:00 | 2021-12-16 | 2022-04-08 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-02 | 2023-05-19 |
-| [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 | 2022-09-22 |  |
+| [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 | 2022-09-22 | 2024-02-16 |
 | [König der Nachbarschaft](https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:31 | 2022-12-15 | 2023-10-06 |
 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2021-12-16 | 2022-04-01 |
 | [Lemonade](https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Lemonade](https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI) | 3:39 | 2023-05-04 | 2023-06-30 |
@@ -215,6 +216,7 @@
 | [School Friends](https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [School Friends](https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq) | 3:30 | 2022-04-07 | 2022-05-27 |
 | [schwarzer Renault](https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [schwarzer Renault](https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu) | 2:53 | 2022-07-14 | 2022-10-28 |
 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 | 2023-07-11 | 2023-09-08 |
+| [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 | 2024-02-15 |  |
 | [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-17 | 2022-05-06 |
 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 | 2023-04-13 |  |
 | [Sicher](https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Sicher](https://open.spotify.com/album/5qGB7Az88V3wMpeJw6uwOq) | 2:55 | 2022-04-07 | 2022-05-27 |
@@ -278,7 +280,7 @@
 | [WEREWOLF](https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WEREWOLF](https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9) | 3:13 | 2023-08-24 | 2023-10-13 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-02 | 2023-09-15 |
-| [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 |  |
+| [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 | 2024-02-16 |
 | [Wir machen das](https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [GO TIME](https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP) | 2:53 | 2023-11-30 |  |
 | [WITCH](https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WITCH](https://open.spotify.com/album/12kAESgAld7orprsv64J0k) | 2:31 | 2023-10-12 | 2023-11-17 |
 | [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 | 2023-06-29 | 2023-08-11 |

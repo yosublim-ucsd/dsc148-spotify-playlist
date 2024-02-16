@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 99 | [Bad Together](https://open.spotify.com/track/7AsWQONBnPkLi8GP2xJf5b) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:45 |
 | 100 | [Deep End](https://open.spotify.com/track/16P2MNSQAlKNCV6hsnclxs) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Deep End](https://open.spotify.com/album/29mkhh4TaJm7XbeQdCxrE5) | 2:37 |
 | 101 | [the real thing](https://open.spotify.com/track/6NffcAdY4PeejOgeATMXHW) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 4:00 |
-| 102 | [i'm not doing well](https://open.spotify.com/track/3qCz4oHgdI2Kovr8VaQeZe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:14 |
-| 103 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 102 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 103 | [i'm not doing well](https://open.spotify.com/track/3qCz4oHgdI2Kovr8VaQeZe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:14 |
 | 104 | [on the way down](https://open.spotify.com/track/4nfO3klnA3yB2LGZXtiqTL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:32 |
 | 105 | [Not Your Boyfriend](https://open.spotify.com/track/4SjGJs9EEZlJ36jysMv5R9) | [2AM Club](https://open.spotify.com/artist/1Sjs7s2hvAakgayaa0f34j) | [Not Your Boyfriend](https://open.spotify.com/album/6AmNrR3TVYPTU3DPhEsjtU) | 3:56 |
 | 106 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 139 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 140 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjg0NjYwNjAsMDAwMDAwMDA4OTk0MDMyMmQ2ZDdiM2E3NWE5YjU1ZmFhMWNlNTQyMQ==`
+Snapshot ID: `Mjg0Njc1MDAsMDAwMDAwMDA0ZTUwNzQxOGFkNTE4OTAxN2E4NTJmOTBmNmU2MzNhMA==`

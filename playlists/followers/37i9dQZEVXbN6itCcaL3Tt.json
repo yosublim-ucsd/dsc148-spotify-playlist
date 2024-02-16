@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 262164,
+  "2024-02-16": 262202,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -3367,7 +3367,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 368739,
       "name": "BEG FORGIVENESS",
       "url": "https://open.spotify.com/track/7DPUuTaTZCtQ6o4Xx00qzT"
@@ -5993,7 +5993,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 100207,
       "name": "Ciapakwybujany",
       "url": "https://open.spotify.com/track/2PF5O4wQHtD9KpxNALuoBD"
@@ -15113,7 +15113,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 174083,
       "name": "KEYS TO MY LIFE",
       "url": "https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W"
@@ -17805,7 +17805,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "Mam Ci\u0119",
       "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
@@ -19069,7 +19069,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 116465,
       "name": "MONEY ON THE DASH - SPED UP",
       "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
@@ -19091,7 +19091,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 116465,
       "name": "MONEY ON THE DASH - SPED UP",
       "url": "https://open.spotify.com/track/3qvtq4bMd0gcNcNecYhvvg"
@@ -20817,6 +20817,28 @@
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "album": {
+        "name": "New York Freestyle",
+        "url": "https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135300,
+      "name": "New York Freestyle",
+      "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
     },
     {
       "album": {
@@ -23421,7 +23443,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 145785,
       "name": "PAPERWORK",
       "url": "https://open.spotify.com/track/3IoAMvGFYzM05B64h7qmdf"
@@ -30935,7 +30957,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -32355,7 +32377,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/4202KkXGtULRsbRocWSw09"

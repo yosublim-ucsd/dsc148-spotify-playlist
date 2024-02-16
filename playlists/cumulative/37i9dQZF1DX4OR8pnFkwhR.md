@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: MFS
 
-1,410 songs - 3 day 13 hr 40 min
+1,411 songs - 3 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Stay Here](https://open.spotify.com/track/08vLS0rSzEDZvnIb24PTzj) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7a8HyqmcdL2LuScqOxGu45) | 3:33 | 2023-08-22 | 2023-08-24 |
 | [Stay Here](https://open.spotify.com/track/20jvmCAKAFKay1QLulG4hJ) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7846DZBi9nQC5yjpo1yh7Y) | 3:33 | 2023-08-22 | 2023-11-08 |
 | [Stay soft, touch my skin](https://open.spotify.com/track/0nUAriLo3Ie8LuPxpFvHro) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Stay soft, touch my skin](https://open.spotify.com/album/3m8VPhpJ10UeYVQcKPwzXS) | 3:29 | 2023-05-16 | 2023-06-07 |
+| [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 |  |
 | [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 | 2023-04-13 | 2023-04-28 |
 | [Strange World](https://open.spotify.com/track/3QOuemHPvUS3rnTFBrmNzb) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/2bn6O3GayBt7HyEysgcSxR) | 3:05 | 2022-05-26 | 2022-06-15 |
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-11 | 2022-11-16 |
@@ -887,7 +888,7 @@
 | [さまようたましい](https://open.spotify.com/track/3PIY9SGjDNRm9X0Yd0DoC9) | [MADE IN HEPBURN](https://open.spotify.com/artist/5Kb7tK7462ltHK5KtX2tAq) | [さまようたましい](https://open.spotify.com/album/434ifwy5PU1cqZh1bMb4th) | 3:38 | 2023-03-07 | 2023-03-09 |
 | [さよならは真夜中に](https://open.spotify.com/track/5W7GqHXV0EAmqNx6BkAz2I) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [さよならは真夜中に](https://open.spotify.com/album/17PbvfSpbjBaz67KXRbYr2) | 3:14 | 2023-11-21 | 2023-12-20 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2023-06-27 | 2023-08-30 |
-| [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 | 2023-10-26 |  |
+| [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 | 2023-10-26 | 2024-02-16 |
 | [しよっか。\(feat.meiyo\)](https://open.spotify.com/track/207l3jD5YPS0ndm3UZDakF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [しよっか。\(feat.meiyo\)](https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12) | 3:00 | 2022-05-24 | 2022-06-22 |
 | [じゃなくて](https://open.spotify.com/track/1yGJ1NOkiLqe6WjCi71BeP) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [じゃなくて](https://open.spotify.com/album/3u1rsZNK17VrzKAWv3Oxu5) | 3:47 | 2022-04-21 | 2022-07-27 |
 | [すなお](https://open.spotify.com/track/0tesJVNYnA4JxPujej4C5A) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [すなお](https://open.spotify.com/album/4sG4nsjmtFGL9Urjx5Hmjl) | 2:59 | 2023-07-25 | 2023-08-30 |

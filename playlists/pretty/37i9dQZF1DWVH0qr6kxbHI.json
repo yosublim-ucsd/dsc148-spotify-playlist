@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 74023,
+  "num_followers": 74067,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODM4ZmY2NjNhNDMyOGQ5ZTA2M2MyMWY5NmU2OTJjNDUwOTI3MTBl",
+  "snapshot_id": "MCwwNzZlMWI3ZmI2OGY2MGZiYTMzYjQ0Mjk5OTUyYmM3NWRmNWZiOTYw",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "C\u00e1ntame Sevillanas",
-        "url": "https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Carmen de Espa\u00f1a",
         "url": "https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184573,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "C\u00e1ntame Sevillanas",
+        "url": "https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Viva Carlos Cano (Remasterizado)",
         "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 233933,
       "name": "Sin T\u00ed No Puedo Vivir",
       "url": "https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2023-08-28 17:02:49",

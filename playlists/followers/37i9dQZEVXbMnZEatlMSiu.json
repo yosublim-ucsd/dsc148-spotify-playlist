@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 211558,
+  "2024-02-16": 211602,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Taiwan.",
   "name": "Top 50 - Taiwan",
@@ -531,7 +531,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr"
@@ -10715,7 +10715,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
@@ -11705,7 +11705,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 216607,
       "name": "\u60f3\u592a\u591a",
       "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
@@ -12203,6 +12203,24 @@
       "duration_ms": 313281,
       "name": "\u6211\u5f88\u597d\u9a19",
       "url": "https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO"
+    },
+    {
+      "album": {
+        "name": "\u5e36\u4f60\u98db",
+        "url": "https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252637,
+      "name": "\u6211\u60f3\u8981\u4f54\u64da\u4f60",
+      "url": "https://open.spotify.com/track/14GFYAUxkeXranhS2qrYIZ"
     },
     {
       "album": {

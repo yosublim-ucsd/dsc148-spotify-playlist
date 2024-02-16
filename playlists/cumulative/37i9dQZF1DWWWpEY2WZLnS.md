@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One y Donaty
 
-335 songs - 16 hr 46 min
+336 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Uva Bombom](https://open.spotify.com/track/0ynhqjP6gIxoaGTWibGhjc) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Uva Bombom](https://open.spotify.com/album/14RrPlp86MzzPPAdvHdbOw) | 2:16 | 2021-11-19 | 2023-08-04 |
 | [Uzi](https://open.spotify.com/track/4J2vMTWZ9pQ89T5Nyx9Xm9) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 5:08 | 2023-02-09 | 2023-03-11 |
 | [Vamo Pal Bronx \- Remix](https://open.spotify.com/track/2TqVjbeByxcIk3bXrksRQq) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Menor Bronx](https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09), [kenser](https://open.spotify.com/artist/0LkUf4EevVseUbsW2hW9ux) | [Vamo Pal Bronx \(Remix\)](https://open.spotify.com/album/6fKuJp47EKn3OUxXSRu398) | 5:09 | 2021-11-19 | 2022-03-18 |
-| [Van por el](https://open.spotify.com/track/6i6XI3LUgJUPco4MXZQ3eJ) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Van por el](https://open.spotify.com/album/2doEnGO6DSDhToPaSUMkCt) | 2:17 | 2023-09-29 |  |
+| [Van 3 Día](https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Van 3 Día](https://open.spotify.com/album/6ast2TToWEm7stjuQ1Qyqg) | 2:15 | 2024-02-15 |  |
+| [Van por el](https://open.spotify.com/track/6i6XI3LUgJUPco4MXZQ3eJ) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Van por el](https://open.spotify.com/album/2doEnGO6DSDhToPaSUMkCt) | 2:17 | 2023-09-29 | 2024-02-16 |
 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 | 2023-05-26 |  |
 | [Voy Pa la Calle](https://open.spotify.com/track/0UoZ9LFPAFwnqGpO0nKSkX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Voy Pa la Calle](https://open.spotify.com/album/2P7G5Z6VhoEkvq5ukhjDHr) | 2:15 | 2021-11-19 | 2022-07-16 |
 | [Wao Nena](https://open.spotify.com/track/4I1ZF4yRphYWDH9qk2luJX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Wao Nena](https://open.spotify.com/album/78pJNm5qqr4TBEpL2LWRwf) | 2:03 | 2024-02-01 |  |

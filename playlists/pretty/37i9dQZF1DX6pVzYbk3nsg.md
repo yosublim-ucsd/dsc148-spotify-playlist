@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,116 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,127 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 7 | [El Conde De Loiza](https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:15 |
 | 8 | [Bámbula](https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:56 |
 | 9 | [Mamá, cuídame a Belén](https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:11 |
-| 10 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 |
-| 11 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
+| 10 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
+| 11 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 |
 | 12 | [Medley De La Calle San Sebastian](https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Estamos Gozando](https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ) | 6:21 |
 | 13 | [Todito el Año](https://open.spotify.com/track/0wxTVGig2qcOwfH2kDJS8T) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 4:59 |
 | 14 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 21 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
 | 22 | [Soy Plenero Soy](https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 3:59 |
 | 23 | [Mi Maria Luisa](https://open.spotify.com/track/1wvm0RlbYsW3FZWtmnHg2c) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD) | 4:49 |
-| 24 | [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 |
+| 24 | [LA NOVIA NUEVA](https://open.spotify.com/track/5Vtfkf7rTwelnekLAthIwu) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [LA NOVIA NUEVA](https://open.spotify.com/album/40zLbTGwHTcbdm7BmZpzCH) | 4:32 |
 | 25 | [Afro Boricua](https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 5:38 |
 | 26 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
 | 27 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 32 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 |
 | 33 | [Pa’ un Plenero \(plena\)](https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Viento de Agua Unplugged: Materia Prima](https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u) | 5:25 |
 | 34 | [El Galo Canta](https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 4:30 |
-| 35 | [LA NOVIA NUEVA](https://open.spotify.com/track/5Vtfkf7rTwelnekLAthIwu) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [LA NOVIA NUEVA](https://open.spotify.com/album/40zLbTGwHTcbdm7BmZpzCH) | 4:32 |
+| 35 | [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 |
 | 36 | [Meli Ton Ton Be](https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:37 |
 | 37 | [Campo \(Land\) / Yo cantaré esta bomba \(I Will Sing this Bomba\)](https://open.spotify.com/track/3re4zafR80jdjih18UJYvF) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 7:34 |
 | 38 | [El Hijo de Boriken](https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Betances Suena Asi \(\#Bandasonoraelantillano\)](https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Sirenas, Sangueo y San Millán](https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 5:50 |
 | 50 | [Si te preguntaran](https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:45 |
 
-Snapshot ID: `MCxlYmIzYTVhOTViZWMzYTgxODAzZGE5M2M0NmQyZTJmNDg4ODAxZGYz`
+Snapshot ID: `MCxmNWFiMTk2MTQ3NzJkMGY3MTRiNjlkZmQyZTRiODUzMDM0OTVkMWU4`

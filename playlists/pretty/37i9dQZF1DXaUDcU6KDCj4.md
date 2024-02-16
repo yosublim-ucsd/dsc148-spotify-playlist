@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Iron & Wine
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,460 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,511 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Stay](https://open.spotify.com/track/068nYyXAJyv29IaDA7EnYf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [The Sweeplings](https://open.spotify.com/album/2KDV4KDrLGVGVyKf4OhNad) | 4:06 |
 | 150 | [Wine Night](https://open.spotify.com/track/2T0VjvBieoPh5hgP9EyY8m) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Wine Night](https://open.spotify.com/album/2jMUqRfHXLuGyEMBnuPspD) | 3:49 |
 
-Snapshot ID: `MCw3NDEzNjQ0NmFhNjUzMzhhZTE4Mzk2MjRjNTJlNzgwNTBiZmM3ZDYy`
+Snapshot ID: `MCw2ZWFkZTliMWM0YWVkZmVmZTU5ZjM2OWExOTlmZDhkNzlmOGFjN2I2`

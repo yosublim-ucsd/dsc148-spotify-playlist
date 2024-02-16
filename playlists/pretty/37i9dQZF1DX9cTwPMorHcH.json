@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 83526,
+  "num_followers": 83557,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjcyYTdkM2UyZTExYWVlZjJjOGYzMTYxNTZhY2I4ZDBiZGIyZTY3",
+  "snapshot_id": "MCw3ZGZiN2FkMzI0MjYyOTA3NDA5YjIzYzViOGRmNjFjN2VkNTdkZTkw",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -467,18 +467,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -499,18 +499,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Couldn't Stand The Weather (Legacy Edition)",
         "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 240986,
       "name": "Cold Shot",
       "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 247400,
       "name": "I Ain't Drunk - Remastered",
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -843,6 +843,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Koko Taylor",
         "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 182826,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -939,6 +939,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -985,22 +1001,6 @@
       "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "War In My Mind",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Suitcase",
-        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 256493,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
+      "duration_ms": 215946,
+      "name": "We Get By",
+      "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
+        "name": "Suitcase",
+        "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 215946,
-      "name": "We Get By",
-      "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
+      "duration_ms": 256493,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "You Can't Teach An Old Dog New Tricks",
@@ -1355,6 +1339,22 @@
       "duration_ms": 214053,
       "name": "You Can't Teach An Old Dog New Tricks",
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Blacktop Run",
-        "url": "https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 234417,
-      "name": "Somebody Gotta Make A Move",
-      "url": "https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Kingfish",
@@ -1459,6 +1443,22 @@
       "duration_ms": 228019,
       "name": "Fresh Out",
       "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Blacktop Run",
+        "url": "https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 234417,
+      "name": "Somebody Gotta Make A Move",
+      "url": "https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
@@ -1591,6 +1575,22 @@
       "duration_ms": 223533,
       "name": "The Pleasure's All Mine",
       "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
       "added_at": "2021-03-03 17:28:10",

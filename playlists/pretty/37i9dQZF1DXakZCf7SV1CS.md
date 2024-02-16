@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,412 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,483 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 37 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 |
 | 38 | [mos thoser](https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 4:07 |
 | 39 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
-| 40 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 |
-| 41 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
+| 40 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/46w6XrUFjgxf0iiL3qpMV3), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
+| 41 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 |
 | 42 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 43 | [glittr](https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:38 |
 | 44 | [Black Rum](https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Cake Pop 2](https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 | 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 
-Snapshot ID: `MCw2YTczNDMwNWYwNTlhM2Q4MzUxNTM0YzMyOGVmMTgzMjk1NzlkYmYw`
+Snapshot ID: `MCw1ODQ5ODc1ODJjMDk3ZjFhMjUxYzQ3MTEyMGQ3MzE3Y2E1YjQzZjhh`

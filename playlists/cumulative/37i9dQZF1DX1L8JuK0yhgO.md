@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-2,968 songs - 6 day 19 hr 36 min
+2,969 songs - 6 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,6 +1206,7 @@
 | [kaitensuruinosensu](https://open.spotify.com/track/6kOlOApwUtfjqmSCQx9DCT) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [kaitensuruinosensu](https://open.spotify.com/album/2G2vADCkpaVtF1HlNxaoc3) | 4:01 | 2023-09-18 | 2023-09-26 |
 | [Kaka feat\. punipunidenki](https://open.spotify.com/track/7ad6IlRnchYtUIBGC8BUdf) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Kaka feat\. punipunidenki](https://open.spotify.com/album/6V4s8g2PPSNOBuNT8g517t) | 4:05 | 2023-09-25 | 2023-10-02 |
 | [kakattekoi](https://open.spotify.com/track/3dCrIIEsCHXhwHGchZKJ4U) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/22DYFzz5Fjsb8jS0yAkE1F) | 2:36 | 2024-02-11 | 2024-02-13 |
+| [kakattekoi](https://open.spotify.com/track/5iiFSlhDcZC3fLdfaI90F0) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5I29hyOmpjXpUC56kT3LUc) | 2:39 | 2024-02-11 |  |
 | [KAKEHIKI](https://open.spotify.com/track/0eHO5U5fxY9xmkBKL8Pr4j) | [Kona Rose](https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN), [FOFU](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U) | [KAKEHIKI](https://open.spotify.com/album/2d90O5hH9V927rb74zYFKl) | 2:47 | 2023-06-12 | 2023-06-19 |
 | [Kaleidoscope](https://open.spotify.com/track/4Dmz6KqXiNdYYv8tcTyNdU) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kaleidoscope](https://open.spotify.com/album/4oBjaVl3xzRyVXxiB3T8Yz) | 3:28 | 2023-12-24 | 2024-01-08 |
 | [Kali Love \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg) | [YG Hootie](https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Bompton King](https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd) | 3:15 | 2023-12-17 | 2023-12-25 |
@@ -2723,7 +2724,7 @@
 | [おふろのうた](https://open.spotify.com/track/6vaDmfyF2rBqQfMWDEOpK4) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [おふろのうた](https://open.spotify.com/album/1xU7biDImPl58LslLofb8J) | 4:37 | 2023-10-30 | 2023-11-06 |
 | [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-05 | 2023-06-13 |
 | [およげ!たいやきくん](https://open.spotify.com/track/7qUzvGiFT39l0hDbC8ExA2) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [およげ!たいやきくん](https://open.spotify.com/album/1VDndF2p3DrYHdGgfSPES1) | 4:03 | 2023-05-22 | 2023-05-30 |
-| [かかってこい](https://open.spotify.com/track/2f7waYFxMqr1wOenbTSOlS) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:36 | 2024-02-11 |  |
+| [かかってこい](https://open.spotify.com/track/2f7waYFxMqr1wOenbTSOlS) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:36 | 2024-02-11 | 2024-02-16 |
 | [かたっぽshoes](https://open.spotify.com/track/4tb2PgYuehRxm9NPEIproL) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [かたっぽshoes](https://open.spotify.com/album/4Tk8NBvkaFv8ga3AvnJPtq) | 3:59 | 2023-03-12 | 2023-03-21 |
 | [が、当時](https://open.spotify.com/track/3NdDfVJTMOxUg2pZpDUpDO) | [Yohei](https://open.spotify.com/artist/0zR1Bj4ntgsjDXQAuexdQ6) | [Echo You Know](https://open.spotify.com/album/6nwz73HmrWbgLdMXVx2OpN) | 2:12 | 2024-01-28 | 2024-02-05 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-06-18 | 2023-06-26 |

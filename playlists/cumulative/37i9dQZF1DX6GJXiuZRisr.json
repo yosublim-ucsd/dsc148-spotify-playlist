@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 188799,
       "name": "Fire With Fire",
       "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
@@ -7872,6 +7872,24 @@
       "duration_ms": 232380,
       "name": "The Return - Edit",
       "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
     },
     {
       "album": {

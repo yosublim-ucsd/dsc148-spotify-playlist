@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114609,
+  "num_followers": 114612,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDU3MmZhYzI4N2M0ZTNhYmI1MTczNTM2MWVmM2Y5OWYxMDZkYzll",
+  "snapshot_id": "MCw5MmY1YTI3NGZhNGEzNGMyOWM2NmY2OGIyNGY4NTI2YzQ4MGY5M2Qz",
   "tracks": [
     {
       "added_at": "2024-02-04 07:36:46",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -971,6 +971,26 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "before",
+      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
     },
     {
       "added_at": "2024-02-04 07:36:46",
@@ -999,26 +1019,6 @@
       "duration_ms": 175389,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/6FxdBhDsFr5LT7xEdXMh3U"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "before",
-      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
     },
     {
       "added_at": "2024-02-04 07:36:46",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
+        "name": "Zimenice",
+        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Tezzla",
+          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Zimenice",
+      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 220552,
       "name": "Midnight Boom - with ChocQuibTown & Afro B",
       "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
-        "name": "Zimenice",
-        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
-      },
-      "artists": [
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Tezzla",
-          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Zimenice",
-      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
     },
     {
       "added_at": "2024-02-04 07:36:46",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
       },
@@ -1271,42 +1287,6 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2024-02-04 07:36:46",
-      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1335,18 +1315,38 @@
     {
       "added_at": "2024-02-04 07:36:46",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
       "artists": [
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2024-02-04 07:36:46",
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        }
+      ],
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "added_at": "2024-02-04 07:36:46",

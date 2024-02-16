@@ -4,7 +4,7 @@
 
 > Hits virales, tendencias y challenges del futuro.
 
-257 songs - 13 hr 29 min
+258 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2023-09-29 | 2023-12-20 |
 | [Dos Besitos](https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Dos Besitos](https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58) | 2:29 | 2023-09-29 | 2023-12-20 |
 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 | 2023-12-19 | 2023-12-25 |
-| [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-24 |  |
+| [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-24 | 2024-02-16 |
 | [El Amor de Mi Vida](https://open.spotify.com/track/6Ftdo8MIbxI2IgUpyhWpOT) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Mix Cumbia](https://open.spotify.com/album/25t18KDGrTFqwlT936wCK2) | 1:41 | 2024-01-24 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-12-19 | 2024-01-27 |
 | [El Burrito Sabanero \- Tuki\-Tuki Version](https://open.spotify.com/track/0OlwVgiXo2qkwAI84wmTLj) | [Marco Pastor Estelles](https://open.spotify.com/artist/3MND8QdAIFyJJvvN8VPu4s) | [El Burrito Sabanero](https://open.spotify.com/album/3VnIc08IfhEPFcdDMMCjhU) | 3:36 | 2023-12-26 | 2024-01-17 |
@@ -157,6 +157,7 @@
 | [Max Win](https://open.spotify.com/track/1m5Hh6j7SCZF0G9ZvokJVQ) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [Max Win](https://open.spotify.com/album/3dR7jQWcLTdwVwfLznUBP6) | 1:37 | 2023-12-19 | 2024-01-06 |
 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 | 2023-12-26 |  |
 | [Me Escapé](https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Me Escapé](https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU) | 2:56 | 2023-12-19 |  |
+| [ME SIENTO SOLO](https://open.spotify.com/track/0ViTQ9sNRRSoxhQYtxL2L2) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [ME SIENTO SOLO](https://open.spotify.com/album/6BSvPqYXeLDsm22uPdcmAV) | 3:26 | 2024-02-15 |  |
 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 | 2023-09-29 | 2023-12-20 |
 | [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 | 2023-12-22 |  |
 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 | 2023-12-19 | 2024-01-25 |

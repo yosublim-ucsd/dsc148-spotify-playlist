@@ -1,44 +1,28 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz?si=Oy2r3WQaR4msMS2y1YFXgg\">CON THE ARTIST</a> ",
-  "num_followers": 11097,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs?si=Nw1H2JgSQcKFtqcpiTKbGg\">Milky Chance</a> ",
+  "num_followers": 11100,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmZhY2YyNTM5ZjhiZGNkNjFiNWY4MDc0MjM5NTUzMTMzYTU0OGM1",
+  "snapshot_id": "MCw1OTNiZjlhMzNlZTc3ZGEyZGFlNjNiYTU1N2VmMzhmNjNhMjI0MjVj",
   "tracks": [
     {
-      "added_at": "2024-02-09 03:53:38",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/4uUVVNUe5FSoNkF1cJF3br"
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
       },
       "artists": [
         {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 144187,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/5cyeEMdqMmg0epS1laIYIE"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Goes To Show",
-        "url": "https://open.spotify.com/album/05JTEh0B7YFchrQX40BXh6"
-      },
-      "artists": [
-        {
-          "name": "Stereo Club",
-          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Goes To Show",
-      "url": "https://open.spotify.com/track/3XzVQKt06W3s43Vvs07wzg"
+      "duration_ms": 221560,
+      "name": "Feeling For You",
+      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -57,6 +41,22 @@
       "url": "https://open.spotify.com/track/6zkVSIgcGnqromeMTYmXv4"
     },
     {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Night Bus",
+        "url": "https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 153961,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU"
+    },
+    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Good Morning, Sunshine",
@@ -71,6 +71,138 @@
       "duration_ms": 213946,
       "name": "Couch Potato",
       "url": "https://open.spotify.com/track/5BsYcBRgqetNrAKpQzpHrK"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Past days",
+        "url": "https://open.spotify.com/album/2IkMNo1ZNepoPCd2u7ya16"
+      },
+      "artists": [
+        {
+          "name": "EFACT",
+          "url": "https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH"
+        }
+      ],
+      "duration_ms": 148696,
+      "name": "Past days",
+      "url": "https://open.spotify.com/track/3R4hurXS5JEjYkAjk0dq6X"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Critical As Water",
+        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/2UKsPrqGAbsVO5ei8Y1JOs"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/4uUVVNUe5FSoNkF1cJF3br"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 144187,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/5cyeEMdqMmg0epS1laIYIE"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "The Loudest Thing",
+        "url": "https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF"
+      },
+      "artists": [
+        {
+          "name": "Kris Angelis",
+          "url": "https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "The Loudest Thing",
+      "url": "https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "The Home We Built",
+        "url": "https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Take Yours, I'll Take Mine",
+      "url": "https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -89,20 +221,20 @@
       "url": "https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/3OK3k9dcLAuWV0nNdLBY69"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+      "duration_ms": 175040,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/0h1mRP0KF58E1vxiYSsgQP"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -153,20 +285,20 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Critical As Water",
-        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/2mdQvXvnFaD4aq7IgQlRbL"
       },
       "artists": [
         {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/2UKsPrqGAbsVO5ei8Y1JOs"
+      "duration_ms": 175280,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/7t5Wr5xqdL3fjUGk9Xzn4J"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -249,20 +381,20 @@
       "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "The Home We Built",
-        "url": "https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e"
+        "name": "Hard to Breathe",
+        "url": "https://open.spotify.com/album/4imQSF0mGYK1mjDJ2tdcfR"
       },
       "artists": [
         {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+          "name": "Zwicky & Jono",
+          "url": "https://open.spotify.com/artist/7hNwRAV7IDRDqI4q3Pcdgz"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Take Yours, I'll Take Mine",
-      "url": "https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa"
+      "duration_ms": 234600,
+      "name": "Hard to Breathe",
+      "url": "https://open.spotify.com/track/5o4rsNhPl8CsrkUQeyB86o"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -279,6 +411,22 @@
       "duration_ms": 192991,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/4X5fbAxCG8JTsHotIRUNIX"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Goes To Show",
+        "url": "https://open.spotify.com/album/05JTEh0B7YFchrQX40BXh6"
+      },
+      "artists": [
+        {
+          "name": "Stereo Club",
+          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Goes To Show",
+      "url": "https://open.spotify.com/track/3XzVQKt06W3s43Vvs07wzg"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -311,6 +459,22 @@
       "duration_ms": 144000,
       "name": "my love",
       "url": "https://open.spotify.com/track/0ii3CFZmNfPZtz38sayyI8"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Divina",
+        "url": "https://open.spotify.com/album/6A3jAcuHDo0ZXkYVFOY5Ck"
+      },
+      "artists": [
+        {
+          "name": "James Speechly",
+          "url": "https://open.spotify.com/artist/27vIyx3eOF94LAPd1GdGdo"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/1PoNbA1Kjk3z05uRCS2SKq"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -475,6 +639,22 @@
       "duration_ms": 309285,
       "name": "Surfer's Corner",
       "url": "https://open.spotify.com/track/4ZJaF9lv9wEj1drCyJooxP"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "grew a few",
+        "url": "https://open.spotify.com/album/62zTZ1rgv80XnuFnG9Twxm"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "duration_ms": 191458,
+      "name": "grew a few",
+      "url": "https://open.spotify.com/track/0NTrQwcByWXNKgfEROWhb3"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -807,26 +987,6 @@
       "duration_ms": 169644,
       "name": "Friends",
       "url": "https://open.spotify.com/track/6652ZJ7gXOKZtXTTgUDYFs"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Harder",
-        "url": "https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2"
-      },
-      "artists": [
-        {
-          "name": "Dangerfields",
-          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
-        },
-        {
-          "name": "Mandi Lizamore",
-          "url": "https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX"
-        }
-      ],
-      "duration_ms": 366011,
-      "name": "Harder",
-      "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
     }
   ],
   "unique_name": "Indie GO",

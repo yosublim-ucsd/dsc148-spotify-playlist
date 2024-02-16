@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12635,
+  "num_followers": 12633,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1",
+  "snapshot_id": "MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Road Goes All Night",
-        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
-      },
-      "artists": [
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 351272,
-      "name": "Steppegrass",
-      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Stronger (Acoustic)",
         "url": "https://open.spotify.com/album/5434GTkVlcoMWYaKUUBIXd"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183133,
       "name": "Stronger - Acoustic",
       "url": "https://open.spotify.com/track/21Yq2RZa4fyV6juXaCQOFV"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Road Goes All Night",
+        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
+      },
+      "artists": [
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "duration_ms": 351272,
+      "name": "Steppegrass",
+      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
     }
   ],
   "unique_name": "Peace Of Mind",

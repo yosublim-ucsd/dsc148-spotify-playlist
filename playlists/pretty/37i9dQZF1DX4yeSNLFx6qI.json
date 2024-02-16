@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1697417,
+  "num_followers": 1697541,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTI5MjUzMjk1ODIyNGYyZWJhNWZlY2E5OTliOWMzNDI0NTRkYjgz",
+  "snapshot_id": "MCxhNDk1ZTkwZDkzNzljMmIxMzg4YmIzMTZlYjc1OGNiNTdlMzgxYzdj",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 186255,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "Gracias por Nada",
+        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Amor Ordinario",
-      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
+      "duration_ms": 123658,
+      "name": "Gracias por Nada",
+      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -747,6 +747,22 @@
       "duration_ms": 217480,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 283893,
       "name": "Y T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Gracias por Nada",
-        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Gracias por Nada",
-      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
@@ -1011,38 +1011,6 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Acu\u00e9rdate de M\u00ed",
-      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1063,18 +1031,50 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Si Fuera M\u00eda - EP",
-        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
+      "duration_ms": 237173,
+      "name": "Acu\u00e9rdate de M\u00ed",
+      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+        "name": "Si Fuera M\u00eda - EP",
+        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+      "duration_ms": 227373,
+      "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "S\u00f3lo Para Mujeres",
+        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 199497,
-      "name": "Negar",
-      "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 281800,
-      "name": "Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
+      "duration_ms": 199497,
+      "name": "Negar",
+      "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Montaner",
-        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+        "name": "Devu\u00e9lveme El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 224693,
-      "name": "\u00bfQu\u00e9 Vas a Hacer?",
-      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
+      "duration_ms": 244160,
+      "name": "Devu\u00e9lveme El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Devu\u00e9lveme El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
+        "name": "Montaner",
+        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 244160,
-      "name": "Devu\u00e9lveme El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
+      "duration_ms": 224693,
+      "name": "\u00bfQu\u00e9 Vas a Hacer?",
+      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1435,6 +1435,22 @@
       "duration_ms": 209221,
       "name": "Hablemos de amor",
       "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Me vas a ver",
         "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
       },
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Amar Sin Mentiras",
-        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 305346,
-      "name": "Ahora Quien",
-      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Rabia",
-        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Rabia",
-      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Coleccion definitiva",
         "url": "https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef"
       },
@@ -1615,22 +1583,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+        "name": "Amar Sin Mentiras",
+        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 198448,
-      "name": "Lo Siento Mucho",
-      "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
+      "duration_ms": 305346,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1655,6 +1619,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "A\u00fan me amas",
         "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
       },
@@ -1671,18 +1651,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 176000,
-      "name": "una luz",
-      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
+      "duration_ms": 198448,
+      "name": "Lo Siento Mucho",
+      "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 233026,
       "name": "Por Tu Bien",
       "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "una luz",
+      "url": "https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH"
     },
     {
       "added_at": "2024-02-09 05:00:00",

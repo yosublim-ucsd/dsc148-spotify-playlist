@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: LANDOKMAI
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: PUN
 
-53 songs - 3 hr 33 min
+54 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-01-26 |  |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-01-26 |  |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-01-26 |  |
-| [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 |  |
+| [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 | 2024-02-16 |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-01-26 |  |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-26 |  |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2024-01-26 | 2024-02-01 |
@@ -28,6 +28,7 @@
 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 | 2024-01-26 |  |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 | 2024-01-26 |  |
 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 | 2024-01-26 |  |
+| [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 | 2024-02-15 |  |
 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 | 2024-01-26 | 2024-01-31 |
 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-26 |  |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-01-26 |  |

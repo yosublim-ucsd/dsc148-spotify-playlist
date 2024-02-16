@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:1xy9x7h2jKEg8iG22Sml32">Tye Tribbett</a>
 
-443 songs - 1 day 14 hr 32 min
+444 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/track/0htJ1xvrlYxMH7g7OxToJO) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Jason Max Ferdinand & Jason Max Ferdinand Singers](https://open.spotify.com/artist/5gTLK83XNAbszsdVYtttKK) | [Fix Me Jesus \(feat\. Sir The Baptist & Jason Max Ferdinand & Jason Max Ferdinand Singers\)](https://open.spotify.com/album/6Fplh5wY9dOQktv0Zetgl4) | 5:40 | 2023-06-09 | 2023-09-16 |
 | [For My Good \(feat\. Alvin Slaughter\) \- Live](https://open.spotify.com/track/40H72Opf3srFv7M0gZTRmN) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Alvin Slaughter](https://open.spotify.com/artist/143WrhdpwUoOhMFKVTIYvs) | [For My Good \(feat\. Alvin Slaughter\) \[Live\]](https://open.spotify.com/album/5WRuh3Vg4JdA1bD4TQOFev) | 4:54 | 2023-07-14 | 2023-08-19 |
 | [Forever](https://open.spotify.com/track/1shKF5bY5iUgCo01fmwSGc) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Forever](https://open.spotify.com/album/52Ne2u6b54IjSjwwBIa9hR) | 3:26 | 2023-03-24 |  |
-| [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 |  |
+| [Forever It Is Done](https://open.spotify.com/track/3TyRJ4x7El0PujsfO5yzHg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/0c3D3i10HWtE7ue0emwOA7) | 5:15 | 2024-02-09 |  |
+| [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Forgive and Forget \(feat\. Lizzie Morgan & Roosevelt Stewart\)](https://open.spotify.com/track/71mEgaAwJUponoW5zeiyAi) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Forgive and Forget \(feat\. Lizzie Morgan & Roosevelt Stewart\)](https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT) | 7:12 | 2023-10-13 |  |
 | [Freedom](https://open.spotify.com/track/1vFtgxUCHSk5dlAptuyKpb) | [Taiwo Oshin](https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U), [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Freedom](https://open.spotify.com/album/0sX5jkV0dyQpgkvUfOLxiq) | 5:01 | 2023-08-18 |  |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2022-06-10 | 2022-07-09 |

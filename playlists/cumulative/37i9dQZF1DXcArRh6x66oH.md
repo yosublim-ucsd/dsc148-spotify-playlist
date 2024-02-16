@@ -4,7 +4,7 @@
 
 > from Stillwater to Nashville with Wyatt Flores
 
-260 songs - 15 hr 39 min
+261 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [American Gothic \(feat\. Hailey Whitters\)](https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [bon aqua EP](https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA) | 3:15 | 2023-03-24 | 2023-08-21 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2023-02-24 | 2023-03-25 |
 | [Ballad Of A Southern Man](https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 3:40 | 2023-02-24 | 2023-12-09 |
-| [Beneath Oak Trees](https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:57 | 2023-10-06 |  |
+| [Beneath Oak Trees](https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:57 | 2023-10-06 | 2024-02-16 |
+| [Beneath Oak Trees](https://open.spotify.com/track/6xqmYE5XbgqOl4LO39g5v6) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:57 | 2024-02-09 |  |
 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 | 2024-01-05 |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2023-02-24 | 2023-12-09 |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2023-03-24 | 2023-09-27 |

@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Soombee\(숨비\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,234 songs - 2 day 21 hr 49 min
+1,235 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Chill & Relax](https://open.spotify.com/track/1zN0PGhAKRs3I7ghIVqjuD) | [Sodong](https://open.spotify.com/artist/7jDHvyVWvTinyXdUEz141p) | [&nd](https://open.spotify.com/album/3Y1Duj2BuN9m1SgvBxZIBf) | 2:20 | 2022-05-02 | 2022-06-10 |
 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 | 2024-01-05 |  |
 | [CHUCK](https://open.spotify.com/track/451QjONZQFhJz2ui3LUdVW) | [dana kim](https://open.spotify.com/artist/2G1ujrepZXYkEdlc7HYP4m) | [CHUCK](https://open.spotify.com/album/01DjM8BraSddjXdCM7OHng) | 2:38 | 2022-08-12 | 2022-09-30 |
-| [Cinema](https://open.spotify.com/track/0MnDvGUmdlDHtfJw2Hd0fi) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [Casual](https://open.spotify.com/album/5vk9D2hPmmCiH2K6TbaOZY) | 2:47 | 2023-07-27 |  |
+| [Cinema](https://open.spotify.com/track/05IVM6ru80nNZ49wBidG3t) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [Casual](https://open.spotify.com/album/7n9DmP9ERqg2PyCqLuPkwI) | 2:47 | 2024-02-01 |  |
+| [Cinema](https://open.spotify.com/track/0MnDvGUmdlDHtfJw2Hd0fi) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [Casual](https://open.spotify.com/album/5vk9D2hPmmCiH2K6TbaOZY) | 2:47 | 2023-07-27 | 2024-02-16 |
 | [Circle](https://open.spotify.com/track/4fgi7jwuyfDCbF5lDFxKee) | [Choi jong won](https://open.spotify.com/artist/4HU8buu7QQMzptN9iKbrFF) | [Circle](https://open.spotify.com/album/1J3OQrNdnBEaNkRIVaUNlk) | 3:09 | 2021-12-02 | 2022-01-11 |
 | [Circus](https://open.spotify.com/track/5xI9lMA3YDqRKUQ8vzAsE9) | [Jae Ryung](https://open.spotify.com/artist/5UAIE7Q5KT4z4AbF581sMN) | [Queen of masks \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/489qvNlHqgsJLQL09Y0sIQ) | 3:03 | 2023-05-01 | 2023-07-27 |
 | [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 | 2022-07-04 | 2022-08-19 |

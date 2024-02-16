@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3697080,
+  "num_followers": 3697442,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjA0OTI3OWJkMjk0YzkwMTM0ZjIyYjI2YjMyM2QyM2Q0MjI3NDdi",
+  "snapshot_id": "MCxjYjRhYTFkZmJiYmIzY2Q2NTUxMGFmZDE3YWM5ZDBkYzMyMDk3MDdi",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "All Night Long (Y.V.E. 48 Remix)",
-        "url": "https://open.spotify.com/album/7BN9NaiHbxoUuLpEFuI7LB"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 157812,
-      "name": "All Night Long - Y.V.E. 48 Remix",
-      "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Turning Away (Parra for Cuva Remix)",
         "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "All Night Long (Y.V.E. 48 Remix)",
+        "url": "https://open.spotify.com/album/7BN9NaiHbxoUuLpEFuI7LB"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 157812,
+      "name": "All Night Long - Y.V.E. 48 Remix",
+      "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -871,22 +871,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Hero Baldwin",
-          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 284563,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
         }
       ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
+      "duration_ms": 284563,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         }
       ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+      "duration_ms": 210000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Favourite Place",
         "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 180100,
       "name": "Favourite Place",
       "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
       },
@@ -1655,26 +1671,6 @@
       "duration_ms": 278880,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Rule The World",
-        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
-      },
-      "artists": [
-        {
-          "name": "ricky retro",
-          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
-        },
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        }
-      ],
-      "duration_ms": 176341,
-      "name": "Rule The World",
-      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1699,22 +1695,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nothing To Lose (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
         },
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
         }
       ],
-      "duration_ms": 258284,
-      "name": "Nothing To Lose (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
+      "duration_ms": 176341,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1743,6 +1739,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Nothing To Lose (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 258284,
+      "name": "Nothing To Lose (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 225922,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/11CnwxdRxrHNYDCVT6npaz"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-02-09 05:00:00",

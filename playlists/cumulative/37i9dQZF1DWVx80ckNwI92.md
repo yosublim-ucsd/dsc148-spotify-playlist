@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: Digital Sangoma
+> The future of African Indie and Alternative\. Cover: Muzi
 
-124 songs - 6 hr 15 min
+127 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 | 2023-05-11 |  |
 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 | 2023-03-30 |  |
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-21 |  |
+| [Goddess](https://open.spotify.com/track/0HfF5OJzi9b2wOkRefDCzr) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Goddess](https://open.spotify.com/album/4l3Pg8zLXgDcAy9Wg6KSFM) | 3:30 | 2024-02-15 |  |
 | [Heartbeat](https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM) | [Kileza](https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg) | [Heartbeat](https://open.spotify.com/album/2MLMkg33gAHRjwHDRvw2Cn) | 3:06 | 2023-03-31 | 2023-04-28 |
 | [Hello Lady](https://open.spotify.com/track/4zqe6jCp2UmN8OVOgSt9U2) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Hello Lady](https://open.spotify.com/album/2IJt9NcgSGvdj37aQ9XsCD) | 3:25 | 2023-03-30 | 2023-05-06 |
 | [Hey! \- A COLORS SHOW](https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Hey! \- A COLORS SHOW](https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN) | 2:37 | 2023-03-30 | 2023-04-21 |
@@ -56,6 +57,7 @@
 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 | 2023-11-24 | 2023-12-15 |
 | [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2023-03-30 | 2023-06-23 |
 | [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 | 2023-06-08 |  |
+| [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-15 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-03-30 | 2023-05-26 |
 | [Joy](https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:34 | 2023-03-30 | 2023-06-09 |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-11 |  |
@@ -93,6 +95,7 @@
 | [Play Dumb](https://open.spotify.com/track/0IrIlT6XttUFdsQkk9ZkVe) | [OwlVez](https://open.spotify.com/artist/0YAFjgw3FmgrIHzZdvrV0V) | [Play Dumb](https://open.spotify.com/album/4xjjCaQjqKgHl8tjfREOCm) | 3:59 | 2023-03-30 | 2023-04-07 |
 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 | 2023-04-27 |  |
 | [Pretty Lil Psycho](https://open.spotify.com/track/5sYN77e1LaHtO54ZtlUl4I) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Pretty Lil Psycho](https://open.spotify.com/album/0Vaa1DOf1Fc55zaEYAJqxj) | 2:57 | 2023-04-27 | 2023-05-06 |
+| [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 | 2024-02-15 |  |
 | [radio silence](https://open.spotify.com/track/3WhmrxCpab3VwyjDwWDhd2) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/5XBSkHZDG6Jo1D8ylFZdad) | 2:10 | 2023-12-14 |  |
 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 | 2023-06-08 | 2023-12-21 |
 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 | 2023-03-30 | 2023-05-12 |

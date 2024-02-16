@@ -98,8 +98,12 @@
       },
       "artists": [
         {
-          "name": "KitschKrieg",
+          "name": "KITSCHKRIEG",
           "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
         },
         {
           "name": "SFR",
@@ -671,6 +675,28 @@
     },
     {
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/6ac3g2MrlKZAfpErucrbmm"
+      },
+      "artists": [
+        {
+          "name": "DJ Nino Brown",
+          "url": "https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns"
+        },
+        {
+          "name": "POOKIE",
+          "url": "https://open.spotify.com/artist/2PZEcVX4rArVPpzqYslowq"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/0nFgEsdBxAIbzboMBJR6RH"
+    },
+    {
+      "album": {
         "name": "Lisa Leslie",
         "url": "https://open.spotify.com/album/0Betq18SWb7GZ6kGHyZQTu"
       },
@@ -690,6 +716,32 @@
       "duration_ms": 133205,
       "name": "Lisa Leslie",
       "url": "https://open.spotify.com/track/3O48lwYbFRsDAyOFyvyp8m"
+    },
+    {
+      "album": {
+        "name": "Lowkey (LDN Drift) [feat. Takura]",
+        "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157398,
+      "name": "Lowkey (LDN Drift) [feat. Takura]",
+      "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
     },
     {
       "album": {

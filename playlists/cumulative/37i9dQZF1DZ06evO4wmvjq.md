@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-159 songs - 21 hr 45 min
+160 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Across the Lake of the Ancient World \- Instrumental](https://open.spotify.com/track/27XR6UTQv54sA2F29vqm3a) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: Shri Camel](https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6) | 7:26 | 2022-05-29 |  |
 | [Anthem of the Trinity \- Instrumental](https://open.spotify.com/track/2lxuwG64sM20cqzNxKVGXJ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: Shri Camel](https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6) | 9:25 | 2022-05-29 |  |
 | [Archangels: I\. Queen of Black Waters](https://open.spotify.com/track/4yGwQzeOHH8gYbViFYohXY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [NOVUS NY Cellists](https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g) | [Archangels](https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC) | 6:13 | 2024-01-24 | 2024-01-28 |
+| [Archangels: II\. Protection Vigil](https://open.spotify.com/track/5I6gr6buAiPFNAtzFSTxWW) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [NOVUS NY Cellists](https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g) | [Archangels](https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC) | 13:02 | 2024-02-15 |  |
 | [Archangels; I\. Queen of Black Waters](https://open.spotify.com/track/3pWajFn8NBkwDYuuQtgbNo) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [NOVUS NY Cellists](https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g) | [Archangels](https://open.spotify.com/album/75fGDmfK5XoJU8uWEBI7DT) | 6:13 | 2022-06-11 | 2023-02-08 |
 | [Archangels; II\. Protection Vigil](https://open.spotify.com/track/2UMMLazyq8TzvA5Qr4RQsm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [NOVUS NY Cellists](https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g) | [Archangels](https://open.spotify.com/album/75fGDmfK5XoJU8uWEBI7DT) | 13:02 | 2023-01-31 | 2023-04-14 |
 | [Arica](https://open.spotify.com/track/5YWt5swsMPRm99XRCSY8U0) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 11:43 | 2022-06-03 | 2022-10-13 |
@@ -93,7 +94,7 @@
 | [Music for the Gift, Pt\. 2](https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Late Night Tales: Four Tet](https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3) | 1:48 | 2022-05-29 |  |
 | [Music for the Gift: Part 1](https://open.spotify.com/track/01IsLx4pZcpD9nuRgFeQLg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 5:44 | 2022-05-29 | 2023-11-11 |
 | [Music for the Gift: Part 3](https://open.spotify.com/track/3DFFbgbyx5Oxrl53w53nDT) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 4:35 | 2022-08-03 | 2023-11-11 |
-| [Music for the Gift: Part 4](https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 1:20 | 2022-10-15 |  |
+| [Music for the Gift: Part 4](https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 1:20 | 2022-10-15 | 2024-02-16 |
 | [Music for the Gift: Part 5](https://open.spotify.com/track/7mm5eNJ6sLom3KXDmO9nuO) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 6:03 | 2022-05-29 | 2022-10-13 |
 | [Mythic Birds Waltz, Pt\. 1 \- 1985 Version](https://open.spotify.com/track/6H4YPhQoP8ykZ9wutYkqzO) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Cadenza On The Night Plain And Other String Quartets \(1985 Version\)](https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq) | 9:55 | 2022-06-17 | 2023-05-16 |
 | [Negro Hall](https://open.spotify.com/track/3gHjihtOVa9PxhjnZGBLSK) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 14:31 | 2023-02-17 | 2023-02-19 |

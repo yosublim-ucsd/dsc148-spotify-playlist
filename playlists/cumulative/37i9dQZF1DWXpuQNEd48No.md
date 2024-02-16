@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-182 songs - 9 hr 41 min
+183 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [3B2](https://open.spotify.com/track/4OKhBPMo7JzLlACGxm8gMr) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [3B2](https://open.spotify.com/album/6HWe0u8z4qbiuatajJ7n6N) | 2:44 | 2023-07-11 | 2023-08-31 |
 | [4X4](https://open.spotify.com/track/4Nw9nfxHby5docS7aRMpfY) | [DIHAATI](https://open.spotify.com/artist/7EJKPx2uSd6xqtTDlpRb2b), [KB](https://open.spotify.com/artist/0kcYojab9VeXwVDSNhsDxO), [Prince Muzic](https://open.spotify.com/artist/7G8l57G7HQMlQvIFKJNGmx) | [4X4](https://open.spotify.com/album/6mERiL88oGJ4CxnBc9hYef) | 2:56 | 2023-08-14 | 2023-08-24 |
 | [Aadhi Si Raat](https://open.spotify.com/track/7EDOM8wyW3pouM1bhwWwTh) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Vishhh](https://open.spotify.com/artist/2IcRuyp5ZsvcJmDVxqYJh6) | [Aadhi Si Raat](https://open.spotify.com/album/0BZSPb786JGd61nmAbqrPP) | 3:12 | 2023-12-14 | 2023-12-23 |
-| [Aage Haryanvi](https://open.spotify.com/track/5jjm6KyGodrzZU9a3K8xrt) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Aage Haryanvi](https://open.spotify.com/album/4NlsZurtwZ4zOunfW9mLpF) | 3:39 | 2024-02-06 |  |
+| [Aage Haryanvi](https://open.spotify.com/track/5jjm6KyGodrzZU9a3K8xrt) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Aage Haryanvi](https://open.spotify.com/album/4NlsZurtwZ4zOunfW9mLpF) | 3:39 | 2024-02-06 | 2024-02-16 |
 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 | 2023-09-27 |  |
 | [Ace](https://open.spotify.com/track/42SQxZPBS9pNGDAk5ZRY4V) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Ace](https://open.spotify.com/album/00a9Oe7Hayv4refjmwmaBg) | 2:27 | 2023-08-14 | 2023-09-09 |
 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 | 2023-03-28 |  |
@@ -100,6 +100,7 @@
 | [Jaat Warrior's 2](https://open.spotify.com/track/0lP4CU1KyUr4kKdrRlJHC4) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/31bWRAyu7Gv5sBgE6c5cwY) | 3:13 | 2023-12-14 |  |
 | [Jaat Warriors](https://open.spotify.com/track/1E5SpFdgagizib8E8P2JZe) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/1Hw6Cz0PhxKttlmuVeggNm) | 2:43 | 2024-01-13 | 2024-02-11 |
 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 | 2023-10-03 | 2024-01-05 |
+| [Jaat Warriors](https://open.spotify.com/track/34A6afqf198Tg75CSQ5csO) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/6IarN2HJWcunKkPf46tsU9) | 2:43 | 2024-02-12 |  |
 | [Jadugarni](https://open.spotify.com/track/5aLXtQEdnNajRY8JTv81C2) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Jadugarni](https://open.spotify.com/album/2dZx3ML6nkjS8tA1wgh3Ya) | 2:44 | 2024-02-12 |  |
 | [JagPal](https://open.spotify.com/track/3VbmeN9oN1XK8xK8EtWjsE) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [JagPal](https://open.spotify.com/album/067lRvGEDxtt6MwMSJyhpk) | 2:23 | 2023-03-28 | 2023-07-12 |
 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 | 2023-03-28 | 2023-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,806 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,875 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 50 | [Separaos](https://open.spotify.com/track/6bwf7XPwOo7CVwdRfLJdDr) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Separaos](https://open.spotify.com/album/3uPHfzLPuIHDdOYtQyp2VF) | 2:54 |
 | 51 | [De Pies a Cabeza](https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Pies a Cabeza](https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F) | 3:18 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDBmY2E2YWExOTExYzQwMGFlM2U1M2E0N2YwZDhiNTZmMQ==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDA2NTM2ZWRkNGRkNDc2MDAyNDg1ZGUwNTkwNzFmYzc0ZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: jeanie, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,163 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,174 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Shillings](https://open.spotify.com/track/1oOqyRlTmo6RW6OkZec2MG) | [Noum](https://open.spotify.com/artist/28j3pb4XKdlLKDAmzlSQ3u) | [Shillings](https://open.spotify.com/album/0Uu9c38GWgsgRdlNd26mbU) | 4:34 |
 | 80 | [Ptbt](https://open.spotify.com/track/1iKhleIWVI0HfqhWPzEVxD) | [CRISTALLIN](https://open.spotify.com/artist/1FFrUop9cShGww0o21DTCU) | [Ptbt](https://open.spotify.com/album/2ApCQNwaX64Sw7tnkiW598) | 2:08 |
 
-Snapshot ID: `MCw2YmY4OWEzM2VlMWM3MjViMmE2MGYwODNhMmI4MDFmMDA2ZTRkNjdi`
+Snapshot ID: `MCw4ZTkwMzVkMmYwMzRkZDRmZmMwMjc0Y2I0ZDUyNTBkOTVlODQ3MTg4`

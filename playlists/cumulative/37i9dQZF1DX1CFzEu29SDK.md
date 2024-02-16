@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 3 hr 15 min
+52 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,12 @@
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-12-15 |  |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-12-15 |  |
 | [Love Me Right](https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Love Me Right](https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16) | 3:08 | 2023-12-15 |  |
-| [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 | 2023-12-15 |  |
+| [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 | 2023-12-15 | 2024-02-16 |
 | [Now U Do](https://open.spotify.com/track/6HzL348HHRk2dWHNzx42aj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 3:28 | 2023-12-15 |  |
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-12-15 |  |
 | [Ready To Fly](https://open.spotify.com/track/7DCdoJx9mCpdxcyk5CtbBM) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:25 | 2023-12-15 |  |
 | [SeeSaw](https://open.spotify.com/track/6N9NpkIKu7SLAjZd0IewoV) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:28 | 2023-12-15 |  |
+| [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-15 |  |
 | [Show Me A Sign](https://open.spotify.com/track/0mpWUcqmvL9JuMJE67aVwm) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/album/1ppi1rMwooZxaY9FuOjhuy) | 6:46 | 2023-12-15 |  |
 | [So In Love With You \- Full Intention Mix Version](https://open.spotify.com/track/6Vja9QrWtd6ZGKIcziBQjg) | [Duke](https://open.spotify.com/artist/5kARVtC2AG0DnhgrFBCbGR) | [Duke](https://open.spotify.com/album/1DE2FenrgY7vr8ZUMLTGci) | 3:36 | 2023-12-15 | 2024-01-27 |
 | [Summertime Chi](https://open.spotify.com/track/5rzrxBZmzo5i0kxXm10TSw) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [Summertime Chi](https://open.spotify.com/album/4ljqV8ilKfJrotx3LDR8iE) | 3:51 | 2023-12-15 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 327127,
+  "2024-02-16": 327186,
   "date_first_scraped": "2021-12-21",
   "description": "Soft piano to help you focus, work or study. ",
   "name": "Focus Piano",
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 189536,
       "name": "Am Arbersee",
       "url": "https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 128246,
       "name": "Amici",
       "url": "https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 197000,
       "name": "Armagnac",
       "url": "https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T"
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 173277,
       "name": "Eclectism",
       "url": "https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR"
@@ -3035,6 +3035,24 @@
       "duration_ms": 123306,
       "name": "Elysian Fields",
       "url": "https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv"
     },
     {
       "album": {
@@ -3492,6 +3510,24 @@
     },
     {
       "album": {
+        "name": "Feather Drift",
+        "url": "https://open.spotify.com/album/63dhCrTLJ1AhUqhPUkL7Yj"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152372,
+      "name": "Feather Drift",
+      "url": "https://open.spotify.com/track/7bqhyMBmURZagaBV7gwpdO"
+    },
+    {
+      "album": {
         "name": "Feuilles d'automne",
         "url": "https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ"
       },
@@ -3835,7 +3871,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 137519,
       "name": "For Kate",
       "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
@@ -3961,7 +3997,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 195000,
       "name": "Fractions",
       "url": "https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu"
@@ -4631,7 +4667,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 162250,
       "name": "Homestead",
       "url": "https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab"
@@ -4674,6 +4710,24 @@
     },
     {
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/0E1NjPzlHaB6BdmJTujmp0"
+      },
+      "artists": [
+        {
+          "name": "Vaughn Harrison",
+          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155427,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/06ccLctiYNiBdE6N24HCPO"
+    },
+    {
+      "album": {
         "name": "How It Is",
         "url": "https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3"
       },
@@ -4689,6 +4743,24 @@
       "duration_ms": 125624,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR"
+    },
+    {
+      "album": {
+        "name": "How Things Blend",
+        "url": "https://open.spotify.com/album/1p5HCYFqWBB4VqkCpf9raI"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156625,
+      "name": "How Things Blend",
+      "url": "https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD"
     },
     {
       "album": {
@@ -5189,7 +5261,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 155923,
       "name": "Inner Axis",
       "url": "https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7"
@@ -6287,7 +6359,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 165767,
       "name": "Little Waltz",
       "url": "https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1"
@@ -6395,7 +6467,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 165250,
       "name": "Longues Plages",
       "url": "https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj"
@@ -6561,6 +6633,24 @@
       "duration_ms": 135240,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1"
+    },
+    {
+      "album": {
+        "name": "Lupine",
+        "url": "https://open.spotify.com/album/1a7kXLdi7MXwpiyYQe033o"
+      },
+      "artists": [
+        {
+          "name": "Silje M\u00f8rk",
+          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Lupine",
+      "url": "https://open.spotify.com/track/4KvLHsCnVxcRC3JVlU2OdN"
     },
     {
       "album": {
@@ -8703,7 +8793,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 120926,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9"
@@ -9747,7 +9837,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 198557,
       "name": "Seine",
       "url": "https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5"
@@ -10071,7 +10161,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 156014,
       "name": "Silverfog",
       "url": "https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC"
@@ -10431,7 +10521,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 179692,
       "name": "Sonnen Sterne",
       "url": "https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202"
@@ -10759,7 +10849,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 142750,
       "name": "Symposium",
       "url": "https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ"
@@ -11249,6 +11339,24 @@
       "duration_ms": 179452,
       "name": "The Stars Above",
       "url": "https://open.spotify.com/track/3KPbdCdwxJtzCiAFSaoK5l"
+    },
+    {
+      "album": {
+        "name": "The swan",
+        "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "The swan",
+      "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
     },
     {
       "album": {

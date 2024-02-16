@@ -4,12 +4,13 @@
 
 > Soothe your mind with gentle instrumentals.
 
-248 songs - 11 hr 47 min
+254 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Light in the dark](https://open.spotify.com/track/3FqKLJItPFAY2JVEQEzuHg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Change](https://open.spotify.com/album/3VD9sJqEFEWtv9KjQaXYt1) | 2:29 | 2022-05-05 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-09 |  |
+| [A Mind At Ease](https://open.spotify.com/track/5d8AXz3Mu8pAsDbriJ2eDQ) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [A Mind At Ease](https://open.spotify.com/album/2XLBcAnu85g3GLcGKWziDr) | 3:18 | 2024-02-15 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-09 |  |
 | [After The Rain](https://open.spotify.com/track/4AyYtj639eTCj84hyaee28) | [Giovanna Gallo](https://open.spotify.com/artist/2vmNQKFEBJ85NupICrIMUT) | [After The Rain](https://open.spotify.com/album/2DrKbf1pApesHoTExO3hLP) | 2:40 | 2022-02-03 |  |
 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 | 2023-10-05 |
@@ -27,9 +28,11 @@
 | [Atmos Eleven](https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma) | [Atmos 11](https://open.spotify.com/artist/2dm3Qg6j7Y7Dl2yiFCT7MA) | [World of Wonders](https://open.spotify.com/album/2IofZvunariXmkfe7RYG45) | 3:47 | 2021-12-09 |  |
 | [Aura](https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:31 | 2022-01-20 |  |
 | [Avalanche](https://open.spotify.com/track/1Nm2fVCwabKAa7iVGsfGWy) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Atmospheric Convection](https://open.spotify.com/album/2YNK9ns6luvhHrocjBteRp) | 3:34 | 2022-01-20 |  |
+| [Bay Of Calmness](https://open.spotify.com/track/3b0XuTwkAgJbitBwuwJkIv) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [Bay Of Calmness](https://open.spotify.com/album/1CD5m8RpYZMUuK0IGkZlkL) | 2:50 | 2024-02-15 |  |
 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 | 2021-12-09 |  |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-12-09 |  |
 | [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-06-16 |  |
+| [Bliss](https://open.spotify.com/track/79AKOkbYO8Qd8NMTZpSFzI) | [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [This Moment Now](https://open.spotify.com/album/20kjkEG7bfr22uJcEj0JCA) | 4:07 | 2024-02-15 |  |
 | [Blomma](https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Blomma](https://open.spotify.com/album/0jxhXC3LDUnkKKpac93TAk) | 2:57 | 2023-10-06 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-09 |  |
 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-20 | 2022-08-24 |
@@ -43,6 +46,7 @@
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-12-09 |  |
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2021-12-09 | 2023-10-05 |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-09 |  |
+| [Consequences](https://open.spotify.com/track/1HJI0bjrQZz5fikHmpLOC2) | [Bøyer](https://open.spotify.com/artist/6fpFvWUTUVJzShiuVCYE03) | [Consequences](https://open.spotify.com/album/2IyDRDPSirAYMvlFvQrKVL) | 3:01 | 2024-02-15 |  |
 | [Coralia](https://open.spotify.com/track/2QuojUtKiQ7l8ZQMDelt3s) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Coralia](https://open.spotify.com/album/1EE6SRjBh51zDFzF9rh1bO) | 3:17 | 2021-12-09 |  |
 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 | 2021-12-09 |  |
 | [Deep Blue](https://open.spotify.com/track/2fwWL41PZuEciP57NfTE5g) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:54 | 2021-12-09 |  |
@@ -55,6 +59,7 @@
 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 | 2021-12-09 | 2022-08-13 |
 | [Downtime In The Deep](https://open.spotify.com/track/164x1gQ85r1dijA3p784It) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Downtime In The Deep](https://open.spotify.com/album/2r8NXQlaJcqYSI5JI6oUWq) | 2:26 | 2022-02-03 |  |
 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 | 2021-12-09 |  |
+| [Dragonfly](https://open.spotify.com/track/3QM5SPPuB35zKVbG3d1Pj8) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Dragonfly](https://open.spotify.com/album/4bGgp7QmOlvxRK6VTXRREm) | 3:08 | 2024-02-15 |  |
 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 | 2021-12-09 |  |
 | [Dreams](https://open.spotify.com/track/0e5hI6tWwk5ntTtGa0OYNG) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Dreams](https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe) | 3:16 | 2021-12-09 |  |
 | [Dromen over jou](https://open.spotify.com/track/3i066yEKcUByD71IIhr8f5) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Dromen over jou](https://open.spotify.com/album/6Hx2DpkhbReCoFJkxALAD7) | 3:52 | 2021-12-09 |  |
@@ -110,6 +115,7 @@
 | [La Lumière En Toi](https://open.spotify.com/track/1E52SbUzjtkuYvDfqTExoc) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [La Lumière En Toi](https://open.spotify.com/album/0u2uEOgnKOIPqyndWu4Erc) | 1:57 | 2021-12-09 | 2023-10-05 |
 | [Lake Huron](https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 3:15 | 2021-12-09 |  |
 | [Le Menuet](https://open.spotify.com/track/7mi1e5svarnTtOklda5gIl) | [Gwen Bellinger](https://open.spotify.com/artist/7B7PaBCP7IQTo2d2NhmZc9) | [Le Menuet](https://open.spotify.com/album/7fY6QNzUFi4BEBknrvoRcM) | 2:00 | 2021-12-09 |  |
+| [Leontopodium](https://open.spotify.com/track/27mYRqQbA13UomGHQkpsTt) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Leontopodium](https://open.spotify.com/album/6m0863uAuoweadPHYEmDze) | 2:57 | 2024-02-15 |  |
 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 | 2021-12-09 |  |
 | [Lily's Cradle](https://open.spotify.com/track/4UlarjdicLUPbdssOxWbYX) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Lily's Cradle](https://open.spotify.com/album/13dJnhdlZ7i32fxPeKvuKm) | 2:41 | 2021-12-09 |  |
 | [London Berceuse](https://open.spotify.com/track/4TD21HmrfSXDEKnlxPBGXl) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 4:02 | 2021-12-09 |  |

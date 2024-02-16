@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 227336,
+  "num_followers": 227382,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy",
+  "snapshot_id": "MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 331706,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "I Can't Get Along Without You",
         "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 400000,
       "name": "I Can't Get Along Without You",
       "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",

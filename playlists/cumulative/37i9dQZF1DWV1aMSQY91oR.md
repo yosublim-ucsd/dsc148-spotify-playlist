@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Latto
 
-1,888 songs - 3 day 19 hr 3 min
+1,889 songs - 3 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,6 +1282,7 @@
 | [Pocket Rocket](https://open.spotify.com/track/35IF7iaIXi6E9tzg5DlflF) | [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Pocket Rocket](https://open.spotify.com/album/1pQI9kIuJdkxdPcm9oPv4y) | 2:02 | 2023-05-05 | 2023-05-13 |
 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 | 2024-02-02 |  |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 | 2023-07-15 |
+| [Polaroid](https://open.spotify.com/track/0vsu7i24ygmPbef9hURNSH) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Polaroid](https://open.spotify.com/album/61ONDrW4ZxgajZrXRioYdq) | 3:21 | 2024-02-09 |  |
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 | 2023-03-25 |
 | [Pop Star](https://open.spotify.com/track/0gxIctWpV2oR6XvnNrR7rH) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:23 | 2023-07-07 | 2023-07-15 |
 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 | 2023-06-02 | 2023-06-17 |

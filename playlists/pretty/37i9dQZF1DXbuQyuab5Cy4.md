@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,623 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,661 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 87 | [ON FIRE](https://open.spotify.com/track/09HjLlsBh3iqLEkOgH4Ac4) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:23 |
 | 88 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 |
 | 89 | [Night Whispers](https://open.spotify.com/track/0yDFdJpx8eP0GN7dAF4uK2) | [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Night Whispers](https://open.spotify.com/album/77zU91YOZiWp4q3hM9VlY1) | 3:20 |
-| 90 | [Till the Day I Die](https://open.spotify.com/track/0XqKT7AwL333oEjBCMwHxp) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/3aMecYq0Q67u6uwMjm4bPN) | 2:30 |
+| 90 | [Till The Day I Die](https://open.spotify.com/track/3FFgPDS6xgi9NYkU09e17N) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/039zrJj7qLwMd9IdQDaoaV) | 2:30 |
 | 91 | [Facetime](https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx) | [Facetime](https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj) | 3:39 |
 | 92 | [Thundergun \- Bassex Remix](https://open.spotify.com/track/5nxBoj8KabR4L8c1ycTBAz) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7), [Bassex](https://open.spotify.com/artist/0MtoWwNFjGtsgJemnvGUFN) | [Thundergun](https://open.spotify.com/album/42OE0SKYQLBjG39nIx1rJO) | 5:34 |
 | 93 | [SPOOKY](https://open.spotify.com/track/6ZQDRNzZxLKT3U37jLH9YM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SPOOKY](https://open.spotify.com/album/1TqPTsC6hbjM5mj0NaotXi) | 3:49 |
 | 94 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 95 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCxkZTU3YWIwYjhiMzRkZGUwOTYxODkwNDk5ZTc3ZjI1NTJmMmNmN2I5`
+Snapshot ID: `MCw5ZmVkYTNjOWZjNTM1NzVlY2ZhZGU3MmI2ZjkyODUxZWEwOWUwNDcx`

@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: BIBI\)
 
-662 songs - 1 day 11 hr 35 min
+663 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [The Museum](https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:19 | 2022-04-21 | 2022-07-23 |
 | [The palette](https://open.spotify.com/track/2Op59QTlYBCbevk4WVQwK7) | [Doha](https://open.spotify.com/artist/55qNLulWN2EevzZhyLGgCV) | [The palette](https://open.spotify.com/album/46ydYmAorZV9250R0H8vJZ) | 3:23 | 2022-09-05 | 2022-09-22 |
 | [the way you move](https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [pool vol\. 1 \- the way you move](https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM) | 2:29 | 2023-02-14 | 2023-02-22 |
+| [The Weekend](https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd) | 2:47 | 2024-02-13 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-04-19 | 2024-02-08 |
 | [These Walls](https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [These Walls](https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK) | 3:40 | 2022-04-22 | 2022-07-28 |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 | 2022-07-15 |
@@ -637,7 +638,7 @@
 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 | 2022-07-27 | 2022-08-03 |
 | [White Lies \(feat\. Kvsh\)](https://open.spotify.com/track/6Y91iJavfXfioUk4uTtuC0) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [November](https://open.spotify.com/album/6HTCFrvyDgMFnFQPVtB6Hz) | 3:33 | 2022-04-19 | 2022-07-05 |
 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 | 2022-12-15 | 2022-12-20 |
-| [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 | 2023-11-17 |  |
+| [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 | 2023-11-17 | 2024-02-16 |
 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2022-07-05 | 2022-07-15 |
 | [Why do u say](https://open.spotify.com/track/4QPdrKoYtWjfQR7gw1bRW8) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [2MONTHS](https://open.spotify.com/album/3rke1Ot2UnQ0YVNCkR3d9h) | 2:50 | 2022-05-09 | 2022-05-11 |
 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 | 2022-04-19 | 2022-07-06 |

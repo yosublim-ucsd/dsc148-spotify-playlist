@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20411,
+  "num_followers": 20417,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
+  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -311,6 +311,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Agust\u00edn Lara a 50 A\u00f1os",
+        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Aventurera",
+      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Lo Mejor de La Sonora Matancera (Remastered)",
         "url": "https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 205800,
       "name": "La Mentira",
       "url": "https://open.spotify.com/track/4MaUKq47sdHz5jNmzdOKpu"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Agust\u00edn Lara a 50 A\u00f1os",
-        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Aventurera",
-      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Agust\u00edn Lara y sus Grandes Int\u00e9rpretes",
+        "url": "https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
+        }
+      ],
+      "duration_ms": 153808,
+      "name": "A Tus Pies",
+      "url": "https://open.spotify.com/track/0lSXVnr6IxH7XGcRiPlHru"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Agustin Lara Y Sus Interpretes Vol. II",
         "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 183773,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/3wjmbDfK3wMSojEE0m2Jlu"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Agust\u00edn Lara y sus Grandes Int\u00e9rpretes",
-        "url": "https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
-        }
-      ],
-      "duration_ms": 153808,
-      "name": "A Tus Pies",
-      "url": "https://open.spotify.com/track/0lSXVnr6IxH7XGcRiPlHru"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -796,6 +796,22 @@
       },
       "artists": [
         {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2MEURkDAcZqGDrUO8JYOGO"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
+        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
+      },
+      "artists": [
+        {
           "name": "Omara Portuondo",
           "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         },
@@ -807,22 +823,6 @@
       "duration_ms": 187520,
       "name": "La Cumbancha / Clave Azul",
       "url": "https://open.spotify.com/track/61Lr4wUxhGn5iC1WRPxe07"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
-        "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2MEURkDAcZqGDrUO8JYOGO"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
       "artists": [
         {
-          "name": "Jorge Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 152032,
-      "name": "Mi Novia",
-      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
+      "duration_ms": 309678,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -987,18 +987,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Jorge Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
         }
       ],
-      "duration_ms": 309678,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
+      "duration_ms": 152032,
+      "name": "Mi Novia",
+      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
     },
     {
       "added_at": "2021-05-07 15:30:08",

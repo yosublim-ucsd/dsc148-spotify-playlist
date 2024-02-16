@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,198 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,336 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 50 | [シンシャ](https://open.spotify.com/track/5kdZroq0M2xIeMnZ64DFci) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [TVアニメ『宝石の国』オリジナルサウンドトラック](https://open.spotify.com/album/5yLnFLjrKde0Fih4A9H1X6) | 2:19 |
 | 51 | [Elegy of the Dynast](https://open.spotify.com/track/0uCgEJ9Md7vyyZuRRMqxbI) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack 3](https://open.spotify.com/album/7pumli9VZpP9WIzFULfMGZ) | 2:27 |
 | 52 | [lit\(var\)](https://open.spotify.com/track/6bTCdqB1PN5J93hiiZvQzW) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [A Shape of Light "A Silent Voice the Movie" Original Soundtrack](https://open.spotify.com/album/3WlmFFtmePwfhN9pQdVJ5v) | 2:14 |
-| 53 | [Angel's Egg: Prelude](https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/5U6LNjErYVpSQSVQk5mhjf) | 3:25 |
+| 53 | [Prelude \(From "Angel's Egg"\)](https://open.spotify.com/track/4DV8T3Ec2VtvsHpkYJ61Um) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/4eF5SAGEWD9UGxOBJZAmio) | 3:25 |
 | 54 | [Omake\-Pfadlib](https://open.spotify.com/track/0HxoynruEEEo4DF0axOFNj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:31 |
 | 55 | [pfAD\-10:罪](https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Takafumi Wada](https://open.spotify.com/artist/3sxGuh5kVr4exa9PABWTm1) | [七つの大罪 オリジナル・サウンドトラック 2](https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz) | 2:12 |
 | 56 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 60 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 61 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `MCxlMDE5YmVjZTEwODBmOTcwMTA4NWY4MWUyODFkYzkyYjlhMzdmNzFl`
+Snapshot ID: `MCxhYzhlODE4OTdlOGIyNDc1MzQ1NTQwMWU2OTEzMDY0MTljZGNhNWE2`

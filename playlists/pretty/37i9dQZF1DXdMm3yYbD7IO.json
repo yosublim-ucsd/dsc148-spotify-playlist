@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 310318,
+  "num_followers": 310573,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWY0ZmY0YzBhN2U2ZWRhMDE0YmRmZmFkODU2YjMwOGFhNjllYTEz",
+  "snapshot_id": "MCw5ZjdjZDE3YjdlYjQ3YTE2NDE3MTc1YzcyYmFmMTliZjdkNjgyM2E3",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Love Is Not Sex",
-        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
-      },
-      "artists": [
-        {
-          "name": "Captain Hollywood Project",
-          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "More And More - Single Version",
-      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "My Boo (Hitman's Club Mix)",
         "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 346840,
       "name": "My Boo - Hitman's Club Mix",
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Love Is Not Sex",
+        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "More And More - Single Version",
+      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2023-03-10 23:34:06",

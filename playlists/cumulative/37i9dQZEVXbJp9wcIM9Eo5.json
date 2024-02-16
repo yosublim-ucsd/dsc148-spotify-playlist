@@ -12051,6 +12051,28 @@
     },
     {
       "album": {
+        "name": "El Fresa",
+        "url": "https://open.spotify.com/album/1pExbAW1AeIxpbXUo4vnTp"
+      },
+      "artists": [
+        {
+          "name": "Ro Hernandez",
+          "url": "https://open.spotify.com/artist/4oahjzMIim9kzzFlspLYlJ"
+        },
+        {
+          "name": "JeyJenm",
+          "url": "https://open.spotify.com/artist/6ZCJavXJVSYsfLFko1XkYb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186970,
+      "name": "Princesita",
+      "url": "https://open.spotify.com/track/5q7WUVhiZo4VLdeffUeKES"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -13742,7 +13764,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 169247,
       "name": "Si Estuvi\u00e9semos Juntos",
       "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
@@ -13818,7 +13840,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 220133,
       "name": "Si No Le Contesto",
       "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
@@ -16528,7 +16550,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 190493,
       "name": "\u00bfpor Que Te Demoras?",
       "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"

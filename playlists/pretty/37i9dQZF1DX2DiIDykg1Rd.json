@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 422,
+  "num_followers": 423,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjUxNDVjN2NhZDQyM2MxYjAyZDM5MDY3MGJkNmE5YWEyNWNhNjky",
+  "snapshot_id": "MCw1YWFhOWEwNjk0ZTBmNGJmNGIxZWY2YWUxNTBmMDQ1NmRmM2U0YzU0",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -391,18 +391,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 136071,
-      "name": "Paint The Sky Red",
-      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -423,22 +427,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+      "duration_ms": 136071,
+      "name": "Paint The Sky Red",
+      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
     },
     {
       "added_at": "2023-01-01 05:00:00",

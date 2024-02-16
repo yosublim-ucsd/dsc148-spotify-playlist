@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-153 songs - 15 hr 27 min
+154 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Cotton Candy \- Live](https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Night In The City \(Live\)](https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb) | 4:20 | 2023-10-20 |  |
 | [Cotton Candy \- Live](https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Cotton Candy \(Live\)](https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G) | 4:20 | 2023-10-20 | 2023-12-04 |
 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 | 2023-06-23 |  |
-| [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 | 2022-01-28 |  |
+| [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 | 2022-01-28 | 2024-02-16 |
+| [Cry a Little \- Live](https://open.spotify.com/track/61iTGJ7XEsfUmWU0LVWUP5) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/2mkgrkkX7uzF9knmItpSvL) | 4:16 | 2022-02-04 |  |
 | [Crying For My Baby](https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/319sQSVvGqeaNlCoJ2Zxc2) | 4:41 | 2020-10-30 | 2022-07-24 |
 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 | 2020-10-30 |  |
 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 | 2020-10-30 |  |

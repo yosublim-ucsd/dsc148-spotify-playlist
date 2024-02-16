@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
-  "num_followers": 43230,
+  "num_followers": 43279,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzQ4NGIyM2QwYzEzNTMyZmIxNjIxYWUzN2FiNjhhYmU5MDNhNjZk",
+  "snapshot_id": "MCxkZGJkZjdjZmQ3MThiYjZhOThhYTQzYjc5MDhlN2FkNzg1YjI3YTA5",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Reason (feat. Russ)",
+      "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "NDI IKE",
         "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 155644,
       "name": "NDI IKE",
       "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "Reason (feat. Russ)",
-      "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -583,6 +583,30 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 147192,
+      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
       },
@@ -623,30 +647,6 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
-        "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 147192,
-      "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "You Go Know",
-        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 142135,
-      "name": "You Go Know",
-      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -799,22 +803,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Letter From Overseas (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 138243,
-      "name": "Letter From Overseas (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "PAPILO / ABENA",
         "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL"
+        "name": "Letter From Overseas (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
       "artists": [
         {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2"
+      "duration_ms": 138243,
+      "name": "Letter From Overseas (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -943,22 +927,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 134728,
-      "name": "Bad Since '97",
-      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Earth Song",
         "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
       },
@@ -975,6 +943,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 134728,
+      "name": "Bad Since '97",
+      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
       },
@@ -987,26 +971,6 @@
       "duration_ms": 183529,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "If They Are Real",
-        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
-      },
-      "artists": [
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "If They Are Real",
-      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1035,6 +999,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "If They Are Real",
+        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "If They Are Real",
+      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Pop Sermon",
         "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
       },
@@ -1095,6 +1063,22 @@
       "duration_ms": 149684,
       "name": "Pop Sermon",
       "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1155,30 +1139,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Photocopy Reimagined",
-        "url": "https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1"
-      },
-      "artists": [
-        {
-          "name": "Id Cabasa",
-          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
-        },
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "9ice",
-          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
-        }
-      ],
-      "duration_ms": 138962,
-      "name": "Photocopy Reimagined",
-      "url": "https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) [Remix]",
         "url": "https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx"
       },
@@ -1203,6 +1163,30 @@
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Photocopy Reimagined",
+        "url": "https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1"
+      },
+      "artists": [
+        {
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        }
+      ],
+      "duration_ms": 138962,
+      "name": "Photocopy Reimagined",
+      "url": "https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1243,22 +1227,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Philo (Remix)",
-        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Philo - Remix",
-      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+      "duration_ms": 144000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1279,22 +1263,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
+        "name": "Philo (Remix)",
+        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
       },
       "artists": [
         {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
+      "duration_ms": 166556,
+      "name": "Philo - Remix",
+      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1399,6 +1383,30 @@
       "duration_ms": 161739,
       "name": "James Bond (With Harley)",
       "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     }
   ],
   "unique_name": "Naija Bars ",

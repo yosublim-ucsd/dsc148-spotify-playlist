@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 
 > This is the essential Axwell Λ Ingrosso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,413 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,433 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 | 16 | [Can't Hold Us Down](https://open.spotify.com/track/4l6CWRDyGu7mw3UEXXUtls) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 6:18 |
 | 17 | [Dawn](https://open.spotify.com/track/3g66v3lFNy6cLk22PgJOUS) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 5:32 |
 | 18 | [I Love You \- Chace Remix](https://open.spotify.com/track/7DRpv6DHyI9Lp1JXjrGqEz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [I Love You \(Chace Remix\)](https://open.spotify.com/album/1BpIggWekKAJNKoMuSty80) | 2:53 |
-| 19 | [Barricade \- Bonus Track](https://open.spotify.com/track/2bjweVDsMtSvyDFpQ6JnBa) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:54 |
+| 19 | [Barricade \- Radio Edit](https://open.spotify.com/track/0jFRZBZynRWrbWTwL3ro5B) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Barricade \(Radio Edit\)](https://open.spotify.com/album/5ahS2ztxwzLlgnW5R4LE5U) | 4:56 |
 | 20 | [Something New \- Robin Schulz Remix](https://open.spotify.com/track/3sTExxFQgSTCgfE6GUIiyv) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Something New \(Robin Schulz Remix\)](https://open.spotify.com/album/4RnEu3DxwR582B3f1FV1gB) | 5:18 |
 | 21 | [Together \- Radio Edit](https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Together](https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz) | 3:31 |
 | 22 | [Dreamer \- Matisse & Sadko Remix](https://open.spotify.com/track/6Bz6Rsp8GyeK4yL7APYYX3) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Dreamer \(Remixes\)](https://open.spotify.com/album/6DWBzXE4ccUNtpKXdvU2tA) | 4:10 |
 
-Snapshot ID: `MCwzZWM0M2EyMTlmYzNiZTU4M2E2ZGNlMjdmOGYyMzEwNjkzZDFiOGQ3`
+Snapshot ID: `MCw3N2YyNTcwNzBhZGEyOGQ0ZjVkYzE1MzhiMmYxZWQ5OGU3MWUyMDA4`

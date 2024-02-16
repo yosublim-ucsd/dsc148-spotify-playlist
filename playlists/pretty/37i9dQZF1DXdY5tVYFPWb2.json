@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 157358,
+  "num_followers": 157383,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTEyMmEyMWQyZTZlMTlkNjQzM2UzNWY2N2RmYzlhYjQwNTFiYTMx",
+  "snapshot_id": "MCwwNTQ3ZmM1MDVmYmFjNzI3NzEzNzkxZjJiNWJmZjczOWJjMzQwYjc4",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u767d\u7121\u57a2",
-        "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
       },
       "artists": [
         {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
         }
       ],
-      "duration_ms": 206533,
-      "name": "\u767d\u7121\u57a2",
-      "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+        "name": "\u767d\u7121\u57a2",
+        "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
       },
       "artists": [
         {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+      "duration_ms": 206533,
+      "name": "\u767d\u7121\u57a2",
+      "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "MAO",
+        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        },
+        {
+          "name": "Hayata Kosugi",
+          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "MAO",
-        "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        },
-        {
-          "name": "Hayata Kosugi",
-          "url": "https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 248924,
       "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u7121\u9650\u3055",
-        "url": "https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "\u7121\u9650\u3055",
-      "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "Rainy Runway",
         "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Kiss Me, Winter",
-        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
+        "name": "\u7121\u9650\u3055",
+        "url": "https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 221737,
-      "name": "Kiss Me, Winter",
-      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
+      "duration_ms": 241920,
+      "name": "\u7121\u9650\u3055",
+      "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Kiss Me, Winter",
+        "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 221737,
+      "name": "Kiss Me, Winter",
+      "url": "https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1443,38 +1443,6 @@
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 223083,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 229088,
-      "name": "nestling",
-      "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 229088,
+      "name": "nestling",
+      "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 223083,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "SOLAR",
-        "url": "https://open.spotify.com/album/1NQKVLGkBQZ8dyzdCx0UpA"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ec\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "i\u3092you",
-      "url": "https://open.spotify.com/track/0Z0SvteMXsfqncEC7QoadO"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "Indoor Newtown Collective",
         "url": "https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+        "name": "SOLAR",
+        "url": "https://open.spotify.com/album/1NQKVLGkBQZ8dyzdCx0UpA"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
         }
       ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+      "duration_ms": 237146,
+      "name": "i\u3092you",
+      "url": "https://open.spotify.com/track/0Z0SvteMXsfqncEC7QoadO"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "fab",
-        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
       "artists": [
         {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 219033,
-      "name": "Ravel",
-      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

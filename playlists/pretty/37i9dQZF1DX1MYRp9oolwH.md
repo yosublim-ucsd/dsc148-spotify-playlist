@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,232 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,266 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Nalo Nena Natho Nena \(From "Men Too"\)](https://open.spotify.com/track/6qDgzlheGhzLWVOgPIl2QG) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Elisha Praveen G](https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ) | [Nalo Nena Natho Nena \(From "Men Too"\) \- Single](https://open.spotify.com/album/3Wr3YjX3t5HtehdRow7joC) | 2:29 |
 | 50 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 
-Snapshot ID: `MCw1OWJjOThkMmFhMGI1NWVhZGYzNzkzZTUwMmRiMzY0MGFhZTM1MjY2`
+Snapshot ID: `MCwxZDA4OWQ1YjMwMTVhMDMxYTE3ZWNmYjMyMTNhNWUwNmIyMWQyYTU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > madison wants to make you mine
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,169,699 likes - 102 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,169,547 likes - 102 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 101 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 102 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 |
 
-Snapshot ID: `MCwyNmQwODM2NWQzZmMzODk2NjdmYWNlMGY2NmVhNGQ1NmZlZGI0Njk4`
+Snapshot ID: `MCw0OGI0NjQwMTIxZmRmZDlkMDdlODE2ZWVkZDZkY2Q3ZTVkYTg1Yzhk`

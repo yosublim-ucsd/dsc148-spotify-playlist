@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 672497,
       "name": "Pran Sutra: Dhan Dhan Ram Das Gur",
       "url": "https://open.spotify.com/track/1zIQf4PoAGoL48ZhUdaye0"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 198002,
       "name": "Shiv Tandav Strotram",
       "url": "https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 198002,
       "name": "Shiv Tandav Strotram",
       "url": "https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS"
@@ -1950,6 +1950,24 @@
       "duration_ms": 2693166,
       "name": "Tan Man Shaant",
       "url": "https://open.spotify.com/track/7tjjvaPtdjZMUwDhLSFgjq"
+    },
+    {
+      "album": {
+        "name": "Tera Mangal",
+        "url": "https://open.spotify.com/album/7G9sLNGMHH3RwkKAYYMWeF"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262307,
+      "name": "Tera Mangal",
+      "url": "https://open.spotify.com/track/2EBn6Tsi8LEIxUWDaUhpGT"
     },
     {
       "album": {

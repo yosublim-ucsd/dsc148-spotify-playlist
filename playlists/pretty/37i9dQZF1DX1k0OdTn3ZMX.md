@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with P.O.D\. and Tatiana Shmayluk from Jinger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,910 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,006 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Operator](https://open.spotify.com/track/5p1bCl7HEcsst4eF48z0Bm) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Operator](https://open.spotify.com/album/2Im99EnQocuboPDHectxjS) | 2:43 |
 | 50 | [So Cold](https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [So Cold](https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8) | 3:41 |
 
-Snapshot ID: `MCxlZWY0Mzg3MDdiYTI1NmRiOWEyMDM2M2IxMDdjODFhYzQ4NmJiN2Fi`
+Snapshot ID: `MCxkYTM3YmQ1YTMxNmM4MzNhODIwNGQ2NGZkNzlhYjdhOGE5ZWE0ZjUw`

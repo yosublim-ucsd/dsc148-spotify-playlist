@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-119 songs - 6 hr 1 min
+120 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 |  |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
-| [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 |  |
+| [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 | 2024-02-16 |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 | 2024-01-18 |
 | [Anton aus Tirol](https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj) | [Anton](https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw), [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Das Album](https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1) | 3:49 | 2023-11-14 |  |
 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 | 2024-01-29 |
 | [Atemlos durch die Nacht](https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Farbenspiel](https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx) | 3:39 | 2023-07-14 |  |
 | [Auf dem Besen an den Tresen](https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU) | [Milla Pink](https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5) | [Auf dem Besen an den Tresen](https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH) | 3:02 | 2023-08-28 |  |
 | [Auf geht’s nach Malle \(Sarà perché ti amo\)](https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd), [Banjee](https://open.spotify.com/artist/09Cd4t2LRKHr2sPbAXw4rm) | [Auf geht’s nach Malle \(Sarà perché ti amo\)](https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc) | 2:31 | 2023-07-14 | 2023-11-16 |
+| [Auf zum Après Ski](https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj) | [Der Partycrasher](https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf) | [Auf zum Après Ski](https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto) | 2:57 | 2024-02-15 |  |
 | [Auffe aufn Berg](https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz) | [Jägermeister DJ Alex](https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk), [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Auffe aufn Berg](https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr) | 3:51 | 2024-02-08 |  |
 | [BIER](https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Maxim K.I.Z](https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [BIER](https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC) | 2:09 | 2023-07-14 |  |
 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 |  |

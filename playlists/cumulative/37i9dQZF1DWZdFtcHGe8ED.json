@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 364626,
       "name": "Agent Orange",
       "url": "https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK"
@@ -258,6 +258,24 @@
       "duration_ms": 365320,
       "name": "Agent Orange",
       "url": "https://open.spotify.com/track/2Wu6LMO0Rx6Aa4LPHH1T95"
+    },
+    {
+      "album": {
+        "name": "Agent Orange",
+        "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365320,
+      "name": "Agent Orange",
+      "url": "https://open.spotify.com/track/3Ks3K2RmCxSUcXS6cOvd43"
     },
     {
       "album": {

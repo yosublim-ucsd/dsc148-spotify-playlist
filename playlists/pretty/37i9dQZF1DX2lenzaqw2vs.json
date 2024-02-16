@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 133242,
+  "num_followers": 133254,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NThlMzliNTRiMzkzOTIwMjM1MTQ1NDNmMTVjODI3MjhhZDk2OWI3",
+  "snapshot_id": "MCwxMTI1Mjk2MWY1ZmQyZjFjMjYyMjUwMzZmNDMwZGVjNDBlYzg2N2I2",
   "tracks": [
     {
       "added_at": "2024-02-01 22:34:45",
@@ -319,8 +319,8 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "Hawaira",
-        "url": "https://open.spotify.com/album/6NPFHNWBVXUP9Rik3JlWUq"
+        "name": "Qu\u00edtate La Ropa",
+        "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Te Conoc\u00ed Bailando",
-      "url": "https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC"
+      "duration_ms": 139591,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -403,28 +403,24 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
     },
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "Qu\u00edtate La Ropa",
-        "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
+        "name": "Hawaira",
+        "url": "https://open.spotify.com/album/6NPFHNWBVXUP9Rik3JlWUq"
       },
       "artists": [
         {
@@ -432,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 139591,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
+      "duration_ms": 160800,
+      "name": "Te Conoc\u00ed Bailando",
+      "url": "https://open.spotify.com/track/2HO4A7MVp34fAxn01MVoFC"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -459,18 +455,22 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "La Custodia",
-        "url": "https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "La Custodia",
-      "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
-    },
-    {
-      "added_at": "2024-02-01 22:34:45",
-      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
+    },
+    {
+      "added_at": "2024-02-01 22:34:45",
+      "album": {
+        "name": "La Custodia",
+        "url": "https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "La Custodia",
+      "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "Los Caminos Del Amor",
-        "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "Los Caminos Del Amor",
-      "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
-    },
-    {
-      "added_at": "2024-02-01 22:34:45",
-      "album": {
         "name": "Ven Vamos",
         "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
       },
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2024-02-01 22:34:45",
-      "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
         "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
@@ -1091,6 +1059,38 @@
       "duration_ms": 397520,
       "name": "T\u00e9 de Malv\u00f3n",
       "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+    },
+    {
+      "added_at": "2024-02-01 22:34:45",
+      "album": {
+        "name": "Los Caminos Del Amor",
+        "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "Los Caminos Del Amor",
+      "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
+    },
+    {
+      "added_at": "2024-02-01 22:34:45",
+      "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
+    },
+    {
+      "added_at": "2024-02-01 22:34:45",
+      "album": {
         "name": "Charreando En La Disco",
         "url": "https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 173000,
       "name": "Charreando En La Disco",
       "url": "https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p"
-    },
-    {
-      "added_at": "2024-02-01 22:34:45",
-      "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "Encontr\u00e1ndome",
-        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
-      },
-      "artists": [
-        {
-          "name": "Luis Gamarra",
-          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
-        }
-      ],
-      "duration_ms": 175796,
-      "name": "Encontr\u00e1ndome",
-      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
-    },
-    {
-      "added_at": "2024-02-01 22:34:45",
-      "album": {
         "name": "The Early Years",
         "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 200053,
       "name": "Fashion Victims",
       "url": "https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h"
+    },
+    {
+      "added_at": "2024-02-01 22:34:45",
+      "album": {
+        "name": "Encontr\u00e1ndome",
+        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
+      },
+      "artists": [
+        {
+          "name": "Luis Gamarra",
+          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
+        }
+      ],
+      "duration_ms": 175796,
+      "name": "Encontr\u00e1ndome",
+      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
     },
     {
       "added_at": "2024-02-01 22:34:45",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-02-01 22:34:45",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Buena Suerte Muchacha",
-      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
-    },
-    {
-      "added_at": "2024-02-01 22:34:45",
-      "album": {
         "name": "EL ETERNO RETORNO: Antolog\u00eda de una flor marchita (Deluxe)",
         "url": "https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 244892,
       "name": "lo que queda despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t"
+    },
+    {
+      "added_at": "2024-02-01 22:34:45",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Buena Suerte Muchacha",
+      "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
     },
     {
       "added_at": "2024-02-01 22:34:45",

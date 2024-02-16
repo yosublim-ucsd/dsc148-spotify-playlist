@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 278219,
+  "num_followers": 278307,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGFkM2UyOTgyZTI2YTlkZmZlZmUyYjdmYjdkYTllYTE3ZGRjZWE0",
+  "snapshot_id": "MCxkZjEzMTY5YTk1ZDVjMGU1NWM5NWQwYmJjMmQ0ZjU4ZjViOTkxOGVk",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "\u00c1mr",
         "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 293173,
       "name": "Arcana Imperii",
       "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "DODGE A BULLET",
-        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
-      },
-      "artists": [
-        {
-          "name": "Philip Solo",
-          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
-        },
-        {
-          "name": "ONI INC.",
-          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
-        }
-      ],
-      "duration_ms": 166504,
-      "name": "DODGE A BULLET",
-      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Sun Up To Sun Down (Remix)",
         "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "DODGE A BULLET",
+        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
+      },
+      "artists": [
+        {
+          "name": "Philip Solo",
+          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "duration_ms": 166504,
+      "name": "DODGE A BULLET",
+      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
     },
     {
       "added_at": "2023-12-07 20:09:02",

@@ -1,12 +1,12 @@
 {
   "description": "Dance anthems from the club to your ears!",
-  "num_followers": 279824,
+  "num_followers": 279845,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTAyNjQ5Nzg3NGUxOTZjMGE1NTBhZWM4OTE1MWVmYTJkOTBjMTUy",
+  "snapshot_id": "MCxhNmNjNDQyNjgxY2QzYmI0MzJjOTdjNjc0OTNlZWM5ODc1M2IzNzZm",
   "tracks": [
     {
       "added_at": "2024-01-17 11:59:16",
@@ -261,7 +261,7 @@
         },
         {
           "name": "Lythx",
-          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
+          "url": "https://open.spotify.com/artist/3opEpMCuPejInY9rC6l22S"
         }
       ],
       "duration_ms": 206007,
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-01-17 11:59:16",
       "album": {
-        "name": "The Groovy Cat",
-        "url": "https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 272394,
-      "name": "The Groovy Cat",
-      "url": "https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH"
-    },
-    {
-      "added_at": "2024-01-17 11:59:16",
-      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2024-01-17 11:59:16",
+      "album": {
+        "name": "The Groovy Cat",
+        "url": "https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 272394,
+      "name": "The Groovy Cat",
+      "url": "https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH"
     },
     {
       "added_at": "2024-01-17 11:59:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-01-17 11:59:16",
       "album": {
-        "name": "You'll Understand",
-        "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 417099,
-      "name": "Talk to Me You'll Understand",
-      "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
-    },
-    {
-      "added_at": "2024-01-17 11:59:16",
-      "album": {
         "name": "Welcome Reality +",
         "url": "https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 257360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH"
+    },
+    {
+      "added_at": "2024-01-17 11:59:16",
+      "album": {
+        "name": "You'll Understand",
+        "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 417099,
+      "name": "Talk to Me You'll Understand",
+      "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
     },
     {
       "added_at": "2024-01-17 11:59:16",

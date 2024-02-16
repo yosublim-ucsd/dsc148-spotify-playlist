@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,346 likes - 237 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,375 likes - 237 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,4 +246,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 236 | [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 |
 | 237 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 |
 
-Snapshot ID: `MCw4MzFmNjZiZWZiNGNjZGNlZGJlNGEwMGYwYmU4ODZjN2RmNmEwYTVk`
+Snapshot ID: `MCxmMmFkNzliMjFhNDYxYWUwMzY3ZjUzY2U4MzgwMmUxMGFmM2IzOGRi`

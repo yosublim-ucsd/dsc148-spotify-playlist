@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 233769,
+  "num_followers": 233838,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjZmMmU4NDM0MzA2M2M4NjIxNzFmN2ViOGFhNzU4ZWNiYzA4MjU5",
+  "snapshot_id": "MCxkYzg2YzcxZTM1YmVhNTE1NmZmMTkzZjEyNTk4Y2YzNDczMDk5NDY0",
   "tracks": [
     {
       "added_at": "2024-02-09 17:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
         "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Softly (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Softly - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Express Yourself (Mochakk Remix)",
         "url": "https://open.spotify.com/album/370TQgbDVLx3vJSPvCNYaI"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 255000,
       "name": "Express Yourself - Mochakk Remix",
       "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Softly (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Softly - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 182109,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons! (with Knock2)",
+      "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
         "name": "Infraliminal",
         "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
       },
@@ -2071,26 +2091,6 @@
       "duration_ms": 266600,
       "name": "Infraliminal",
       "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
-        "name": "This Mixtape is Fire TOO",
-        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons! (with Knock2)",
-      "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
     },
     {
       "added_at": "2024-02-09 17:00:00",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2024-02-09 17:00:00",
       "album": {
-        "name": "My Crew (feat. Flowdan)",
-        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 205555,
-      "name": "My Crew (feat. Flowdan)",
-      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
-    },
-    {
-      "added_at": "2024-02-09 17:00:00",
-      "album": {
         "name": "DUST",
         "url": "https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 151384,
       "name": "DUST",
       "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
+    },
+    {
+      "added_at": "2024-02-09 17:00:00",
+      "album": {
+        "name": "My Crew (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 205555,
+      "name": "My Crew (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
     },
     {
       "added_at": "2024-02-09 17:00:00",

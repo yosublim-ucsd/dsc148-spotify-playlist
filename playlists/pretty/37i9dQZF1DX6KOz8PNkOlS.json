@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 438201,
+  "num_followers": 438435,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODg3N2JkZDdmNTE1N2ExOWFmZTkwMWEwYzdmMzM1NjA2NDNhOTMz",
+  "snapshot_id": "MCw2ZDFjYzhjZmQxYmI5ZjcwZDc0YWNmMjNhYWRlZmRlODc5MWM0OWIx",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
     },
     {
-      "added_at": "2023-06-07 16:18:58",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2022-08-31 04:27:20",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-06-07 16:18:58",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-12-20 03:34:06",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
-      "added_at": "2023-06-07 15:13:09",
-      "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Caroline",
@@ -579,6 +563,22 @@
       "duration_ms": 216933,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2023-06-07 15:13:09",
+      "album": {
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-12-20 03:34:06",
@@ -675,18 +675,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 256664,
-      "name": "Hold U",
-      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 256664,
+      "name": "Hold U",
+      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
+    },
+    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "Three Dimensions Deep",
@@ -719,26 +735,6 @@
       "duration_ms": 173774,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -773,6 +769,26 @@
       "url": "https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+    },
+    {
       "added_at": "2022-09-03 03:24:16",
       "album": {
         "name": "Continua",
@@ -793,22 +809,6 @@
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
-      "added_at": "2023-04-05 03:20:02",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Morning Matters",
@@ -823,6 +823,22 @@
       "duration_ms": 236093,
       "name": "Own Your Own",
       "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
+    },
+    {
+      "added_at": "2023-04-05 03:20:02",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -897,22 +913,6 @@
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
       "added_at": "2023-09-25 02:40:58",
       "album": {
         "name": "Sorry I Haven't Called",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Aliso",
-        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
-      },
-      "artists": [
-        {
-          "name": "Malena Zavala",
-          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "If It Goes",
-      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Aliso",
+        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
+    },
+    {
       "added_at": "2022-10-05 01:25:40",
       "album": {
         "name": "Shine",
@@ -1023,22 +1039,6 @@
       "duration_ms": 251533,
       "name": "Look To Him",
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
       "added_at": "2022-02-18 20:31:00",
       "album": {
         "name": "Live Inside",
@@ -1113,20 +1129,20 @@
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-06-02 01:45:44",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+        "name": "Trouble / In My Head",
+        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+      "duration_ms": 186528,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1147,22 +1163,6 @@
       "duration_ms": 199102,
       "name": "Water - FKJ Remix",
       "url": "https://open.spotify.com/track/4g1aIPqIAqcB6ZgU0F2ylv"
-    },
-    {
-      "added_at": "2023-06-02 01:45:44",
-      "album": {
-        "name": "Trouble / In My Head",
-        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 186528,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
       "added_at": "2022-12-07 04:04:10",
       "album": {
         "name": "head down",
@@ -1571,6 +1555,22 @@
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
       "added_at": "2022-01-21 20:29:12",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Apollonia",
-        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
-      },
-      "artists": [
-        {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Foreign Affair",
-      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Sounds Of Blue",
         "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Apollonia",
+        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+      },
+      "artists": [
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Foreign Affair",
+      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
     },
     {
       "added_at": "2022-04-08 19:23:51",

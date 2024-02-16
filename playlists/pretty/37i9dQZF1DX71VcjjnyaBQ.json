@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 396736,
+  "num_followers": 396793,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODliMmE3NDc5NTQ3ODFlNDEwYjVkNWQyYjNkZWY3Zjc3MzYwMzlm",
+  "snapshot_id": "MCwxZDJmYWZhZjU4ZmJhMTJkM2JkZWY5NmU1NDJlOTlkM2EyZGU5MjVl",
   "tracks": [
     {
       "added_at": "2024-02-09 00:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "So They Say",
         "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 237659,
       "name": "So They Say",
       "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Stay a While",
-        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
-      },
-      "artists": [
-        {
-          "name": "Simon Westman Trio",
-          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
-        }
-      ],
-      "duration_ms": 332391,
-      "name": "Jakob\u2019s Happy Song",
-      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Mondenkind",
         "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Stay a While",
+        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
+      },
+      "artists": [
+        {
+          "name": "Simon Westman Trio",
+          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
+        }
+      ],
+      "duration_ms": 332391,
+      "name": "Jakob\u2019s Happy Song",
+      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Deep in a Dream",
         "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "The Magic of Now",
         "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 223453,
       "name": "Dave",
       "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Omission",
-        "url": "https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Omission",
-      "url": "https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Omission",
+        "url": "https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Omission",
+      "url": "https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Forest Floor",
         "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 342000,
       "name": "Glade",
       "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "En attendant",
-        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -483,6 +467,22 @@
       "duration_ms": 437853,
       "name": "Arise",
       "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "En attendant",
+        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 333213,
+      "name": "Riders On The Storm",
+      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Migrating Songs",
         "url": "https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
         }
       ],
-      "duration_ms": 223706,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Trouble Maker",
         "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 407333,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 204733,
       "name": "Abiyoyo",
       "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -931,22 +947,6 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
       },
       "artists": [
         {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1043,6 +1039,26 @@
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Waltz for Hal Willner",
         "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Jennie / Gravol",
-        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
-      },
-      "artists": [
-        {
-          "name": "Hederosgruppen",
-          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
-        }
-      ],
-      "duration_ms": 364741,
-      "name": "Jennie",
-      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Jennie / Gravol",
+        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
+      },
+      "artists": [
+        {
+          "name": "Hederosgruppen",
+          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
+        }
+      ],
+      "duration_ms": 364741,
+      "name": "Jennie",
+      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
-        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "H\u00e5kan Brostr\u00f6m",
-          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
-        }
-      ],
-      "duration_ms": 327642,
-      "name": "Sweet Smile",
-      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
+        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
+        }
+      ],
+      "duration_ms": 327642,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Love Is in the Air",
         "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Pannonica",
         "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 403285,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "The Starter",
-        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
-      },
-      "artists": [
-        {
-          "name": "Per Thornberg",
-          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
-        }
-      ],
-      "duration_ms": 375267,
-      "name": "The Starter",
-      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Los Bandidos Bogarolles",
         "url": "https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu"
       },
@@ -1767,26 +1751,18 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
+        "name": "The Starter",
+        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
       },
       "artists": [
         {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
         }
       ],
-      "duration_ms": 301783,
-      "name": "June 2nd",
-      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
+      "duration_ms": 375267,
+      "name": "The Starter",
+      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1823,6 +1799,30 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "duration_ms": 422506,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1847,26 +1847,26 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
       "artists": [
         {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
         },
         {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
         },
         {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
         }
       ],
-      "duration_ms": 422506,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
+      "duration_ms": 301783,
+      "name": "June 2nd",
+      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Bye Bye Blackbird (Live)",
-        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        }
-      ],
-      "duration_ms": 422813,
-      "name": "Bye Bye Blackbird - Live",
-      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
         "name": "Professor Nelson Strikes Again",
         "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 251863,
       "name": "Professor Nelson Strikes Again - Single Version",
       "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Bye Bye Blackbird (Live)",
+        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        }
+      ],
+      "duration_ms": 422813,
+      "name": "Bye Bye Blackbird - Live",
+      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
     },
     {
       "added_at": "2024-02-09 00:01:00",

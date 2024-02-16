@@ -4,7 +4,7 @@
 
 > 
 
-750 songs - 2 day 10 hr 14 min
+751 songs - 2 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Afro Beat Blues](https://open.spotify.com/track/4xclRUqjOM5HMzDZQyRaPo) | [Ojah](https://open.spotify.com/artist/4BlnK8TML5QzxndhXN2NeJ), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 6:48 | 2022-01-07 |  |
 | [Agboju Logun](https://open.spotify.com/track/4ztjpMUYHr7N9SLeNNi58i) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [African Dances](https://open.spotify.com/album/7jbQpUfZHTOyTHuNpU0sUN) | 11:42 | 2021-05-05 |  |
 | [Agora ou Nunca Mais](https://open.spotify.com/track/6UBrFOga9gz2xo39oEb4oQ) | [Ana Mazzotti](https://open.spotify.com/artist/6YJmIS23jxjp6Edi2zTPzn) | [Ninguém Vai Me Segurar](https://open.spotify.com/album/4yiSLjQT0cRNT5dySoWKK3) | 2:59 | 2021-11-02 |  |
+| [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 | 2024-02-15 |  |
 | [Al Elnim](https://open.spotify.com/track/44o9aQPKOYfsVzmuSaBhgt) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/45SMJMghoL8N2BeuknayF6) | 6:12 | 2020-03-19 |  |
 | [Al oeste](https://open.spotify.com/track/6fe8ZuY4fiKcTzeIV9oXYG) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Halo](https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL) | 3:37 | 2023-09-25 |  |
 | [Alabina \- Original 1996](https://open.spotify.com/track/4c9PMOg5YtNzU7o8CYTOmb) | [Alabina](https://open.spotify.com/artist/7w3PQ5symjpCqshjaLvFzA), [Los Niños De Sara](https://open.spotify.com/artist/70LUNBh99F83a19w4RqrY2) | [The Album of Alabina & Los Niños de Sara](https://open.spotify.com/album/6jbglpqUvShgcW5wOE7W7v) | 3:45 | 2020-01-12 |  |

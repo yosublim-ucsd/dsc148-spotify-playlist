@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Migos",
-  "num_followers": 163184,
+  "num_followers": 163249,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGFjNjI2NjM2YmQxZTM5MjU1N2IwZmMxOTk3NGQyY2E3YmNkZWM2",
+  "snapshot_id": "MCw5Yjk0OTQxMTllMzYxN2VlMTI2YWRlYjIxNDQwNTYzZjViZmI5NWZl",
   "tracks": [
     {
       "added_at": "2024-02-07 21:00:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2024-02-07 21:00:00",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 252256,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
+    },
+    {
+      "added_at": "2024-02-07 21:00:00",
+      "album": {
         "name": "The Pinkprint (Deluxe)",
         "url": "https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 312026,
       "name": "Only",
       "url": "https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw"
-    },
-    {
-      "added_at": "2024-02-07 21:00:00",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 252256,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "added_at": "2024-02-07 21:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-02-07 21:00:00",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
-    },
-    {
-      "added_at": "2024-02-07 21:00:00",
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 278573,
       "name": "Crooked Smile (feat. TLC)",
       "url": "https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl"
+    },
+    {
+      "added_at": "2024-02-07 21:00:00",
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
     },
     {
       "added_at": "2024-02-07 21:00:00",

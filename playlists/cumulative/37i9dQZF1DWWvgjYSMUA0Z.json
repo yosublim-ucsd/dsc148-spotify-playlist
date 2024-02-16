@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Day of Life",
+        "url": "https://open.spotify.com/album/7iuqClxL2Av1fYSj7KwVRy"
+      },
+      "artists": [
+        {
+          "name": "Bernward Koch",
+          "url": "https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304800,
+      "name": "Behind the Mountains",
+      "url": "https://open.spotify.com/track/2NT7BIngd5Aq1w38Wi8dZL"
+    },
+    {
+      "album": {
         "name": "Birth",
         "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
       },
@@ -549,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/4AZVOff7LIyViuLN7zctnI"
+      },
+      "artists": [
+        {
+          "name": "Start Of Something Good",
+          "url": "https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193811,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/1QRCpFQK9RytODMp2mpdG3"
+    },
+    {
+      "album": {
         "name": "Cradle of Life",
         "url": "https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc"
       },
@@ -582,6 +618,24 @@
       "duration_ms": 159500,
       "name": "Dawn stillness",
       "url": "https://open.spotify.com/track/6sSlBSEGhY6mRG5ZvW7B27"
+    },
+    {
+      "album": {
+        "name": "Deep Deep Breaths",
+        "url": "https://open.spotify.com/album/12C8vOoz9udVbBXpRS1bbK"
+      },
+      "artists": [
+        {
+          "name": "I Haga Xela",
+          "url": "https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185329,
+      "name": "Deep Deep Breaths",
+      "url": "https://open.spotify.com/track/3OhrTrwYGOg2IImYNRC8iC"
     },
     {
       "album": {
@@ -1144,6 +1198,24 @@
       "duration_ms": 210733,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
+    },
+    {
+      "album": {
+        "name": "Wave Hands Like Clouds",
+        "url": "https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcdi Siebert",
+          "url": "https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "Inside the Heart",
+      "url": "https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX"
     },
     {
       "album": {

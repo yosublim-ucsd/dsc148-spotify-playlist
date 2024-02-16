@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,835 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,860 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 54 | [More Piya](https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [More Piya](https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1) | 5:34 |
 | 55 | [Kanha Re](https://open.spotify.com/track/4rve7qQ9hYbpATiu5hJwVj) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Kanha Re](https://open.spotify.com/album/4X7TVqpjzzAeB5MlYH0zpF) | 3:51 |
 | 56 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
-| 57 | [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 |
+| 57 | [Girte Hue Boondon](https://open.spotify.com/track/5Kkd9qTIu2RSY0hNQBjjiw) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Girte Hue Boondon](https://open.spotify.com/album/2qhgT8MbJkA3mSCHqYUI3o) | 3:53 |
 | 58 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 |
 | 59 | [Lone Poet \(Aeri Aali\)](https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Liyaqat Ali Khan](https://open.spotify.com/artist/2wk2JsBXpShxG2IfSBmNC7) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:01 |
 | 60 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCw5ZGVhY2E4YjZiYWNiMzBkZDhjYzcxMDc4NGVmZTI1Y2YyMDZjODE4`
+Snapshot ID: `MCwzZTI2NmNjODVlYTJkNzNkZTY3YzM5NDc1ZjA0YjNkMzg0ZGViZjZj`

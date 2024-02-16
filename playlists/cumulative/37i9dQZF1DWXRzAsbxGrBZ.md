@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-109 songs - 12 hr 33 min
+111 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,10 @@
 | [All In You](https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [All In You](https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95) | 8:32 | 2022-09-14 | 2023-03-18 |
 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 | 2022-11-17 |  |
 | [Angikaze](https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9) | [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Angikaze](https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE) | 6:43 | 2022-09-29 | 2023-03-18 |
+| [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 | 2024-02-15 |  |
+| [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 | 2024-02-15 |  |
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-03-23 |  |
-| [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 |  |
+| [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 | 2024-02-16 |
 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 | 2022-09-14 |  |
 | [Captured by Mizolution](https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [One More Time](https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ) | 8:47 | 2022-09-14 | 2023-09-23 |
 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 | 2023-09-08 |  |
@@ -39,7 +41,7 @@
 | [Forever \- TekniQ Soulful Mix](https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Forever \(TekniQ Remixes\)](https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3) | 5:55 | 2022-09-14 | 2023-03-18 |
 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 | 2022-09-14 |  |
 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 | 2022-09-14 | 2024-01-10 |
-| [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 | 2023-12-08 |  |
+| [Gotsom](https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/6qowtxa5c1s4tBk86CD2bK) | 6:42 | 2023-12-08 | 2024-02-16 |
 | [Gotsom](https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [I Am Jazz](https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN) | 6:42 | 2022-09-29 | 2023-09-28 |
 | [Grootman \(Spiritual Love Affair\)](https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz) | [Daano](https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd) | [The Jazz Kid III](https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI) | 7:27 | 2023-03-17 |  |
 | [HER](https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [Day Dream](https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu) | 6:13 | 2022-09-29 |  |

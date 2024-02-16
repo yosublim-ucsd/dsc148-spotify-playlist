@@ -3362,10 +3362,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195053,
       "name": "Rambam",
       "url": "https://open.spotify.com/track/2ghseSfWtRLRUwiJKCJJcc"
+    },
+    {
+      "album": {
+        "name": "New Amsterdam Rhythm Band",
+        "url": "https://open.spotify.com/album/1Zlw0ITMQNhEfyzLfNTxlJ"
+      },
+      "artists": [
+        {
+          "name": "New Amsterdam Rhythm Band",
+          "url": "https://open.spotify.com/artist/6V9DxwZ6L3HyhVT37TZQ2G"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Rambam",
+      "url": "https://open.spotify.com/track/76SkJYXnaxU5Rgx0RW6qCu"
     },
     {
       "album": {

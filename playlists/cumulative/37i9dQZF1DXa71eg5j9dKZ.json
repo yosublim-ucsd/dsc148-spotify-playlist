@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: I. JORDAN",
+  "description": "The home for alternative electronic music. Cover: salute",
   "name": "Altar",
   "tracks": [
     {
@@ -3763,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171953,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku"
+    },
+    {
+      "album": {
         "name": "Running In Waves",
         "url": "https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl"
       },
@@ -3864,7 +3882,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 258000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI"
@@ -7693,6 +7711,28 @@
     },
     {
       "album": {
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/61HRvYXfolP76RcNBejDV6"
       },
@@ -8022,7 +8062,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
@@ -12326,7 +12366,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 224106,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/5hr4dhOQYioCYyXVtdvmWi"
@@ -13416,7 +13456,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 231912,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/2JTxM40sPrKFIpU6vcRfWF"
@@ -13544,6 +13584,32 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "COSBY",
+          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
+        },
+        {
+          "name": "sebo",
+          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131041,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
     },
     {
       "album": {
@@ -14198,7 +14264,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
@@ -14895,6 +14961,24 @@
     },
     {
       "album": {
+        "name": "system",
+        "url": "https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232239,
+      "name": "system",
+      "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
+    },
+    {
+      "album": {
         "name": "Tahara",
         "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
       },
@@ -15236,10 +15320,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147241,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm"
+    },
+    {
+      "album": {
+        "name": "The Danger",
+        "url": "https://open.spotify.com/album/7FK9DwGJvYlLuT78hXgcer"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147241,
+      "name": "The Danger",
+      "url": "https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0"
     },
     {
       "album": {
@@ -17652,6 +17754,28 @@
       "duration_ms": 346688,
       "name": "You Never Take Me Dancing",
       "url": "https://open.spotify.com/track/4pUen16NDnHuTTwhFKnRDM"
+    },
+    {
+      "album": {
+        "name": "You're So High (10 Years On) (Sasha Remix)",
+        "url": "https://open.spotify.com/album/1RpAupThDRn5pTjCN2shmh"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252012,
+      "name": "You're So High (10 Years On) (Sasha Remix)",
+      "url": "https://open.spotify.com/track/7gh68qwsiIDWnJxpsR3FXy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-232 songs - 14 hr 54 min
+233 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Ha deg](https://open.spotify.com/track/1BZgQgcgoraUNzsXkaYnbx) | [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ) | [Ha deg](https://open.spotify.com/album/28pt6ynFuJFlN9unTKYDTV) | 4:00 | 2022-03-23 | 2022-04-18 |
 | [Halleluja](https://open.spotify.com/track/0uMp1v64V4pmZgMD4y7mcp) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Halleluja](https://open.spotify.com/album/7BfHnqv7aSZehUU8ZnVm0P) | 3:42 | 2022-01-20 | 2022-01-27 |
 | [Halvveis rundt jorden](https://open.spotify.com/track/1QQsomZh4unathI9P0c4Qn) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Halvveis rundt jorden](https://open.spotify.com/album/1u5oX5Strf7ELcaOaM833O) | 4:00 | 2022-01-06 | 2022-07-16 |
-| [Han er ikkje deg](https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Han er ikkje deg](https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw) | 2:34 | 2023-01-19 | 2024-01-29 |
+| [Han er ikkje deg](https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Han er ikkje deg](https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw) | 2:34 | 2023-01-19 |  |
 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 | 2021-12-16 |  |
 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 | 2022-07-14 | 2023-12-16 |
 | [Heile Livet](https://open.spotify.com/track/1ceubw1ZmicRUFAymxh7Qi) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/3Xx43BvyIoKsXOcPNA1pIu) | 5:50 | 2022-02-10 | 2022-07-28 |
@@ -174,7 +174,7 @@
 | [Pusterom](https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Pusterom](https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d) | 3:06 | 2021-12-16 | 2023-04-28 |
 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 | 2022-11-10 |  |
 | [Redd](https://open.spotify.com/track/2ZikOJpA45bvLutp9TPUnQ) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Redd](https://open.spotify.com/album/72gvnfqRiyzp7kafOsxF1w) | 4:25 | 2023-05-25 | 2023-10-13 |
-| [Ro meg over](https://open.spotify.com/track/74Jg2dNT28i04fhRLTTVme) | [Emilie Christensen](https://open.spotify.com/artist/02zP4DIcyXykWkXkZiVmXR) | [Ro meg over](https://open.spotify.com/album/0DPsXK4U8VLQzI18mUVrUV) | 3:46 | 2023-05-25 |  |
+| [Ro meg over](https://open.spotify.com/track/74Jg2dNT28i04fhRLTTVme) | [Emilie Christensen](https://open.spotify.com/artist/02zP4DIcyXykWkXkZiVmXR) | [Ro meg over](https://open.spotify.com/album/0DPsXK4U8VLQzI18mUVrUV) | 3:46 | 2023-05-25 | 2024-02-16 |
 | [Rosa](https://open.spotify.com/track/2HH7OhawJ597WvubvFqMVC) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Brev](https://open.spotify.com/album/75F4PjMBMWgvp2hLhMQSM1) | 3:21 | 2022-07-14 | 2022-08-19 |
 | [Rosa](https://open.spotify.com/track/5TiMZq3QvG2fldTFmxy1S4) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Rosa](https://open.spotify.com/album/5e7B4Rq4GNGljS9urNEfpj) | 3:21 | 2021-12-16 | 2022-07-29 |
 | [Rosa](https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Brev](https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM) | 3:21 | 2023-10-12 |  |
@@ -194,6 +194,7 @@
 | [Stilla](https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Nærmere](https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W) | 4:48 | 2022-11-10 | 2023-01-13 |
 | [Stille Vann](https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:01 | 2022-01-06 | 2022-11-13 |
 | [Stor gutt](https://open.spotify.com/track/4HmsGVkxxjkzGMowmMbRyx) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Stor gutt](https://open.spotify.com/album/70HTt1jxS1o6OrCLojBtL5) | 5:34 | 2023-08-31 | 2024-02-09 |
+| [Store Lillebjørn \- Studio](https://open.spotify.com/track/2rqXcMC3EeV5R73asTH2T6) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Store Lillebjørn](https://open.spotify.com/album/2UuRbKeEDHVSYXiH5LkQpR) | 4:12 | 2024-02-15 |  |
 | [Stormens Øye](https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Stormens Øye](https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI) | 3:36 | 2022-09-19 | 2022-11-21 |
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2024-02-02 |
@@ -213,7 +214,7 @@
 | [Ting er som de er](https://open.spotify.com/track/2gfDYYhGLTEIY2oD9ZJXed) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Ting er som de er](https://open.spotify.com/album/2FrtdxsSn21OUAOvo9I7TK) | 3:55 | 2022-05-12 | 2022-07-20 |
 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 | 2021-12-16 |  |
 | [To over tolv](https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [To over tolv](https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM) | 4:55 | 2024-01-04 | 2024-02-01 |
-| [Toget nå i kveld](https://open.spotify.com/track/2bAx3pp4uq4lSTvecH4CsB) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [VI](https://open.spotify.com/album/337O8Z5wmzCmppT5jNCm4t) | 5:20 | 2024-02-08 |  |
+| [Toget nå i kveld](https://open.spotify.com/track/2bAx3pp4uq4lSTvecH4CsB) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [VI](https://open.spotify.com/album/337O8Z5wmzCmppT5jNCm4t) | 5:20 | 2024-02-08 | 2024-02-16 |
 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 | 2023-02-01 |
 | [Tre pakker sigaretter](https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tre Pakker Sigaretter](https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj) | 3:13 | 2023-01-26 | 2023-05-24 |
 | [Trenger deg](https://open.spotify.com/track/5W8zfT3Y2KushWkYemWKvt) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få når vi er vektløse](https://open.spotify.com/album/3w3etFROeWCKBeeBIN229z) | 4:13 | 2022-02-17 | 2022-04-21 |

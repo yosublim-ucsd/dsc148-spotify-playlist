@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 382445,
+  "num_followers": 382672,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDg1MzhiNmZlNTgzYzdlMjIyYTBhMGUxMmM2NjNlZWE4MWU1MzA2",
+  "snapshot_id": "MCw1MmUyNGNkMGU0OWVmMGUwM2ZkMTc3NDUyMDYzYmM2MDQwOWY0ZWYy",
   "tracks": [
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1367,6 +1367,38 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Breaking The Chains",
+      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
         "name": "Titans of Creation",
         "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
       },
@@ -1427,38 +1459,6 @@
       "duration_ms": 225600,
       "name": "Th1rt3en or Nothing",
       "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Breaking The Chains",
-      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
-        "name": "Conspiracy",
-        "url": "https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH"
-      },
-      "artists": [
-        {
-          "name": "The Raven Age",
-          "url": "https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Fleur de lis",
-      "url": "https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX"
     }
   ],
   "unique_name": "Party Hard",

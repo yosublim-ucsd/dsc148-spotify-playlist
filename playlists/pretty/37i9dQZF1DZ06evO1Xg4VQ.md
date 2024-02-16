@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,374 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,380 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 38 | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/track/4Sxef0ijZwETFvL7p6qVs8) | [Las Voces de Latinoamérica](https://open.spotify.com/artist/38p5B1KoPgdaegOGm1jEt0), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF), [María Fernanda Rivera](https://open.spotify.com/artist/5R3cXcDrqWiBPRX9ouKmkz), [Pascuala Ilabaca](https://open.spotify.com/artist/34BMaYA9uw88I9Hyme5MDn), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Niyireth Alarcon](https://open.spotify.com/artist/79v7QMO04JLZs3ehbULM7K), [Tita Parra](https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Margarita Laso](https://open.spotify.com/artist/1Ruw39HFexQEfPD75F3QHM), [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/album/6pEuIdX7axEhfVDZoh45h8) | 4:04 |
 | 39 | [Dios Nunca Muere](https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:55 |
 | 40 | [La Primavera \(feat\. Lila Downs\) \- Directo Acústico](https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Esto Es Estopa \(Directo Acústico\)](https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr) | 3:21 |
-| 41 | [El Relampago](https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 3:07 |
-| 42 | [Arenita Azul](https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 2:50 |
+| 41 | [Arenita Azul](https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 2:50 |
+| 42 | [El Relampago](https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 3:07 |
 | 43 | [Toda la Noche](https://open.spotify.com/track/75f2UFzDlMOG1MzmXAl2ka) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 2:44 |
 | 44 | [Los Caminos de la Vida](https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:25 |
 | 45 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 |
 | 50 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
 
-Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBhNmZiNDEzMTk2MDIzMTE0NDVjODU1YWRmOWQ4NTNkNQ==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBmZDg1ZjVjNTk4ZDRiMGExMTkwNTFlOTI1Yzc1Y2Q3ZQ==`

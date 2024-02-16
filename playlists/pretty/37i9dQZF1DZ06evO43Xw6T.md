@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,095 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,263 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Paso A Pasito](https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Paso A Pasito](https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j) | 2:43 |
 | 51 | [Así Es El Amor](https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:37 |
 
-Snapshot ID: `Mjg0NjUyMjEsMDAwMDAwMDA0NDU0NjAxMjZhZjBlNGQ1ZGMwYjk1N2M5NjhlMGJhYw==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDA2MDhlNWQ1Yjc4YjU5NjJlNzk2ZjlkMWQ5OTdlZTMxYw==`

@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-367 songs - 18 hr 56 min
+368 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Holla Me](https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Holla Me](https://open.spotify.com/album/3uJtqxhQcql3XriYZdLfRy) | 2:14 | 2022-11-25 | 2023-03-06 |
 | [Honest](https://open.spotify.com/track/5fi11QycYr37OB6ilw0hfq) | [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Honest](https://open.spotify.com/album/0N5GfQwBDLpYTpG3JRsC3P) | 2:21 | 2022-07-07 | 2022-07-28 |
 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 | 2023-03-10 | 2023-03-18 |
+| [Hot Topic](https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Hot Topic](https://open.spotify.com/album/3naCf1TqximOxSi71EyBMc) | 3:09 | 2024-02-16 |  |
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2022-08-12 | 2023-04-21 |
 | [I Dey Miss You](https://open.spotify.com/track/1xkPZeHHr9PNsTiAMrKhhS) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Imanse](https://open.spotify.com/artist/5MbLPA7oAYe6zI6C3DUeA4) | [I Dey Miss You](https://open.spotify.com/album/501TU0Fueu8U9HyxdhmXUZ) | 3:07 | 2021-09-10 | 2022-07-29 |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-03-30 | 2023-04-15 |
@@ -252,7 +253,7 @@
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-11 | 2023-10-18 |
 | [No Love](https://open.spotify.com/track/1XnOhq5lHDWOFnjZIj7g6M) | [Korra Obidi](https://open.spotify.com/artist/5D7ylBByLFxsmDgJ40qoRn) | [No Love](https://open.spotify.com/album/68kx729WvoNUnbfMV8VsMy) | 2:40 | 2023-08-10 | 2023-09-28 |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-01-28 |
-| [No Suffer \(3am in Jozi\)](https://open.spotify.com/track/4CHdozuiZ8q5ZjUqeYNjs8) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [No Suffer \(3am in Jozi\)](https://open.spotify.com/album/5M6D9F6tKvTroGFZBi6z1D) | 3:36 | 2024-02-09 |  |
+| [No Suffer \(3am in Jozi\)](https://open.spotify.com/track/4CHdozuiZ8q5ZjUqeYNjs8) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [No Suffer \(3am in Jozi\)](https://open.spotify.com/album/5M6D9F6tKvTroGFZBi6z1D) | 3:36 | 2024-02-09 | 2024-02-16 |
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-03 |  |
 | [OCEAN \- GuiltyBeatz Remix](https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [OCEAN \(GuiltyBeatz Remix\)](https://open.spotify.com/album/1jlNrH2DpKVDFGKUWtjoQz) | 4:06 | 2022-07-28 | 2022-08-30 |
 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 | 2023-01-27 | 2023-02-24 |

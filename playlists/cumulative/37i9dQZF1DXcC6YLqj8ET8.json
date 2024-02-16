@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Ares",
+        "url": "https://open.spotify.com/album/2ysFk1FyyHVRDjFmN1Phu7"
+      },
+      "artists": [
+        {
+          "name": "TORU",
+          "url": "https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto"
+        },
+        {
+          "name": "TH3 DARP",
+          "url": "https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189542,
+      "name": "Ares",
+      "url": "https://open.spotify.com/track/4Fa8BBKeIaTxA8R4jit9Br"
+    },
+    {
+      "album": {
         "name": "Cataclysm \u062c\u0627\u0626\u062d\u0629",
         "url": "https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I"
       },
@@ -584,7 +606,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 441615,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV"

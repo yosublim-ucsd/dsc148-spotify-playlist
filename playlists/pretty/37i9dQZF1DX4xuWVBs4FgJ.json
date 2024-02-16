@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1643128,
+  "num_followers": 1643272,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjc4ZDZkNGFiODQxMDdiMTg0NGUzOWNlMjhmOGI1YjAxZjY5MmFh",
+  "snapshot_id": "MCwwZWQ0NTY1NmIyM2Q5ODFjZWUyMjJiMmUxMDU2YTM3YWRjZTJlYjQ5",
   "tracks": [
     {
       "added_at": "2024-02-12 16:49:57",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208977,
-      "name": "mirrorball",
-      "url": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+      "duration_ms": 208977,
+      "name": "mirrorball",
+      "url": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -547,6 +531,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -1059,22 +1075,6 @@
       "duration_ms": 201413,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 274933,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
         "name": "Only Human (Special Edition)",
         "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
     },
     {
       "added_at": "2024-02-12 16:49:57",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-02-12 16:49:57",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
-    },
-    {
-      "added_at": "2024-02-12 16:49:57",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2024-02-12 16:49:57",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
     },
     {
       "added_at": "2024-02-12 16:49:57",

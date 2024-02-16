@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: INI
 
-136 songs - 7 hr 58 min
+138 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,12 @@
 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 | 2023-11-23 | 2024-02-15 |
 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 | 2024-01-04 |  |
 | [Freaking Happy](https://open.spotify.com/track/1HDW9vo3mnVbkQ02FIGgbC) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Freaking Happy](https://open.spotify.com/album/19mziDAG9iXSpHdJrKgKYb) | 3:11 | 2023-11-23 | 2024-02-07 |
+| [Friends](https://open.spotify.com/track/5aRTOpLmrmlDSNDM2G0SBK) | [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [Friends](https://open.spotify.com/album/1eJkY7JkpbyHmyE5ix5Ss4) | 3:24 | 2024-02-15 |  |
 | [Frozen Butterfly](https://open.spotify.com/track/3JcUsgmUOruUTr7VRnqMa6) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Frozen Butterfly](https://open.spotify.com/album/1TUoTEQc8g6masfIq5XR9R) | 3:04 | 2024-02-13 |  |
 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 | 2023-11-23 |  |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-02 |  |
 | [God Mode](https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [God Mode](https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV) | 3:34 | 2024-01-31 | 2024-02-07 |
-| [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-14 |
+| [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 |  |
 | [Hapidan](https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Hapidan](https://open.spotify.com/album/2qjrUKfhSIxsvtMxcWoeBm) | 3:08 | 2023-11-24 | 2024-01-10 |
 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 | 2023-11-23 | 2024-02-12 |
 | [I don't care](https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [I don't care](https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z) | 2:53 | 2023-12-14 | 2023-12-20 |
@@ -66,7 +67,7 @@
 | [love you](https://open.spotify.com/track/1aDjxcXgU3B85P04KBttwL) | [North Sound Signal](https://open.spotify.com/artist/3jNomgceQXS8NawlT2aDcn) | [love you](https://open.spotify.com/album/1Lz2m18o2oaR5gIzU8Fe2H) | 3:10 | 2024-01-31 | 2024-02-07 |
 | [MAGIC](https://open.spotify.com/track/1R96JucxVDliRrcT3Crmf2) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [MAGIC](https://open.spotify.com/album/73jVPC8AAifhcWItCxgk2X) | 2:53 | 2024-02-13 |  |
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 |  |
-| [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 |  |
+| [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-02-16 |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 |  |
 | [MORNING SUN](https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ) | [EXILE B HAPPY](https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A) | [MORNING SUN](https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh) | 3:40 | 2024-01-09 | 2024-01-24 |
 | [Moving Pieces](https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Moving Pieces](https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR) | 2:51 | 2023-11-23 | 2023-11-29 |
@@ -97,13 +98,13 @@
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 | 2023-12-20 |
 | [SHIBUYA PM6:00](https://open.spotify.com/track/5jGyoM0bymA1gXkuZSWCBN) | [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP) | [SHIBUYA PM6:00](https://open.spotify.com/album/2ZhjbOHo3DbHnj7AdrWAov) | 3:50 | 2023-12-12 | 2024-01-03 |
 | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/track/7HPxx65QOWaKi2O5tXMImn) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W) | 3:06 | 2023-11-23 | 2024-02-14 |
-| [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 |  |
+| [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 | 2024-02-16 |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 |  |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 |  |
 | [Snowin'](https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’](https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM) | 3:25 | 2023-12-07 |  |
 | [SOLDIER LOVE](https://open.spotify.com/track/2n69TX3YljuDvVo570pDXh) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [SOLDIER LOVE](https://open.spotify.com/album/4Lobcm9cyOgxultYK6KlrE) | 3:50 | 2023-12-19 | 2023-12-30 |
 | [SOLDIER LOVE](https://open.spotify.com/track/6GX5sxFYkcHKPUGIGGsCJm) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [16SOUL](https://open.spotify.com/album/4SGnpjBizxF2eZ0I6sbglr) | 3:51 | 2024-02-13 |  |
-| [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 | 2023-11-23 |  |
+| [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 | 2023-11-23 | 2024-02-16 |
 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 | 2023-12-21 | 2024-01-20 |
 | [Stage of the Universe](https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Stage of the Universe](https://open.spotify.com/album/75LIHQCfDT4otXAhczkn9z) | 3:33 | 2024-01-02 | 2024-01-10 |
 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 | 2023-12-06 |
@@ -142,6 +143,7 @@
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-11-23 | 2024-01-03 |
 | [産まれた頃の自分に戻って](https://open.spotify.com/track/3V6hdL8IDDBeyDD2V5mKa8) | [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [産まれた頃の自分に戻って](https://open.spotify.com/album/1S87TvVflyxo4odBE0V7bx) | 4:19 | 2024-01-31 | 2024-02-07 |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-11-23 | 2023-12-08 |
+| [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 | 2024-02-15 |  |
 | [霜花](https://open.spotify.com/track/2DLEAYyePjxHjF1b2fhWqm) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Bull's Eye](https://open.spotify.com/album/3mCD8c66aHjHCgfQpJToGu) | 3:39 | 2024-01-31 | 2024-02-14 |
 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 | 2023-12-19 | 2024-01-03 |
 

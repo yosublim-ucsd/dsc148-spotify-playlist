@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121791,
+  "num_followers": 121797,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTVlMmVjN2JkYjI3MDllMDA3ODc4NWMxNWVkNDZkZGY2OGYyNWM0",
+  "snapshot_id": "MCw2MWFhZWQ4NjQ0NjEyOWI2YWMzZjBiYWZiNWNhZDcwY2EyN2NmODZm",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -317,6 +317,26 @@
       "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
     },
     {
+      "added_at": "2022-12-21 17:17:38",
+      "album": {
+        "name": "Land III",
+        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        },
+        {
+          "name": "Carmen Ruiz",
+          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
+        }
+      ],
+      "duration_ms": 284684,
+      "name": "Land III - Vocal Mix",
+      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Goteo",
@@ -343,26 +363,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2022-12-21 17:17:38",
-      "album": {
-        "name": "Land III",
-        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        },
-        {
-          "name": "Carmen Ruiz",
-          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
-        }
-      ],
-      "duration_ms": 284684,
-      "name": "Land III - Vocal Mix",
-      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -397,24 +397,20 @@
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
+      "added_at": "2023-03-22 17:47:26",
       "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
       },
       "artists": [
         {
-          "name": "Rodion",
-          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
         }
       ],
-      "duration_ms": 311693,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -433,20 +429,24 @@
       "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
-      "added_at": "2023-03-22 17:47:26",
+      "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
       },
       "artists": [
         {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+          "name": "Rodion",
+          "url": "https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
         }
       ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+      "duration_ms": 311693,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu"
     },
     {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/2yBuvBA6n5inzfwS3t39aR"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia (Edit)",
+      "url": "https://open.spotify.com/track/1xyL83ASVAiQETQcEWctGc"
+    },
+    {
       "added_at": "2023-02-13 19:23:19",
       "album": {
         "name": "Invierno (Remix)",
@@ -531,22 +547,6 @@
       "duration_ms": 285000,
       "name": "Invierno (Remix)",
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/2yBuvBA6n5inzfwS3t39aR"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia (Edit)",
-      "url": "https://open.spotify.com/track/1xyL83ASVAiQETQcEWctGc"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Cascada",
-        "url": "https://open.spotify.com/album/4STLoeJFhEpmNYniO1SQI0"
-      },
-      "artists": [
-        {
-          "name": "Pepe Mogt",
-          "url": "https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5"
-        }
-      ],
-      "duration_ms": 405814,
-      "name": "Cascada",
-      "url": "https://open.spotify.com/track/2J3PY2v0k0VI8sYqrFWND5"
-    },
-    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Catalog Number Sta122",
@@ -791,6 +775,22 @@
       "duration_ms": 149869,
       "name": "10",
       "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Cascada",
+        "url": "https://open.spotify.com/album/4STLoeJFhEpmNYniO1SQI0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Mogt",
+          "url": "https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5"
+        }
+      ],
+      "duration_ms": 405814,
+      "name": "Cascada",
+      "url": "https://open.spotify.com/track/2J3PY2v0k0VI8sYqrFWND5"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271928,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Pebbles Mind Horrors",
         "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 370886,
       "name": "Pebbles Mind Horrors",
       "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH"
+      },
+      "artists": [
+        {
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
+        }
+      ],
+      "duration_ms": 271928,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
-      },
-      "artists": [
-        {
-          "name": "Dietscha Jung",
-          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "K Royal Con Las de Harina",
-      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "La Nueva Mortalidad (Remaster 2021)",
         "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 351157,
       "name": "La Nueva Mortalidad",
       "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
+      },
+      "artists": [
+        {
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

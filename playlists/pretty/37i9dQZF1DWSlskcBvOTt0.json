@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 445271,
+  "num_followers": 445427,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2VmNGRmNGI3ZDEzMGNjOGExZjNjNDZkNzU1MTI5OWYxYmNlYmJi",
+  "snapshot_id": "MCwzNTNhOTcxNGY5N2RmMzkzODE4ODgzYTg0OWIyMzk1ZmE2OWFlNjI1",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Turning Away (Parra for Cuva Remix)",
         "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
@@ -1859,18 +1875,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+        "name": "Told You",
+        "url": "https://open.spotify.com/album/1pBrVcrcW1nUUZIT3w2xUN"
       },
       "artists": [
         {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        },
+        {
+          "name": "Moser",
+          "url": "https://open.spotify.com/artist/65SpeN8U0BX9M36pxgiigT"
+        },
+        {
+          "name": "Dyve",
+          "url": "https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE"
         }
       ],
-      "duration_ms": 199044,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
+      "duration_ms": 242560,
+      "name": "Told You",
+      "url": "https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1903,30 +1927,6 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again (Keinemusik Remix)",
       "url": "https://open.spotify.com/track/5fPoYOwYZek6N4QSLP6xjD"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Told You",
-        "url": "https://open.spotify.com/album/1pBrVcrcW1nUUZIT3w2xUN"
-      },
-      "artists": [
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        },
-        {
-          "name": "Moser",
-          "url": "https://open.spotify.com/artist/65SpeN8U0BX9M36pxgiigT"
-        },
-        {
-          "name": "Dyve",
-          "url": "https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Told You",
-      "url": "https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Another Brick In The Wall",
-        "url": "https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y"
-      },
-      "artists": [
-        {
-          "name": "Darksidevinyl",
-          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
-        },
-        {
-          "name": "Ucha",
-          "url": "https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3"
-        }
-      ],
-      "duration_ms": 241716,
-      "name": "Another Brick In The Wall",
-      "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "3 Sense",
         "url": "https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ"
       },
@@ -2019,26 +1999,6 @@
       "duration_ms": 163278,
       "name": "3 Sense",
       "url": "https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "BroCode",
-        "url": "https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B"
-      },
-      "artists": [
-        {
-          "name": "DJ Merlon",
-          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
-        },
-        {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
-        }
-      ],
-      "duration_ms": 299670,
-      "name": "BroCode",
-      "url": "https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2079,6 +2039,46 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Another Brick In The Wall",
+        "url": "https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        },
+        {
+          "name": "Ucha",
+          "url": "https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3"
+        }
+      ],
+      "duration_ms": 241716,
+      "name": "Another Brick In The Wall",
+      "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "BroCode",
+        "url": "https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B"
+      },
+      "artists": [
+        {
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "duration_ms": 299670,
+      "name": "BroCode",
+      "url": "https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Marimba",
+        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Marimba",
+      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 212180,
       "name": "Disappear - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Marimba",
-        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Marimba",
-      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Overnight",
-        "url": "https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 238684,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 392240,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 238684,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
-      },
-      "artists": [
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
@@ -2391,38 +2375,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Human Aura",
-        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
       },
       "artists": [
         {
-          "name": "Yubik",
-          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 404529,
-      "name": "Human Aura - Massano Remix",
-      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "I Know You",
-        "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
+      "duration_ms": 268573,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2443,6 +2407,42 @@
       "duration_ms": 211680,
       "name": "Love and Hate - Nandu Remix",
       "url": "https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "I Know You",
+        "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Human Aura",
+        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
+      },
+      "artists": [
+        {
+          "name": "Yubik",
+          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 404529,
+      "name": "Human Aura - Massano Remix",
+      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
     },
     {
       "added_at": "2024-02-09 05:00:00",

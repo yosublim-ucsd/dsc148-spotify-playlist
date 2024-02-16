@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 84 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 25 | [Mirror Man](https://open.spotify.com/track/5ItmPIcrJGy1e9sMnihDqB) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL) | 3:42 |
 | 26 | [Shine Ya Light](https://open.spotify.com/track/2sWwtub4lyQ3vdno4Le9Av) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 3:30 |
 | 27 | [House On Fire](https://open.spotify.com/track/3pK3TlcPa0fzpvlj8dmW6d) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:01 |
-| 28 | [Suspicion](https://open.spotify.com/track/26sWRzDoP2gNqsIoty8afK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 3:20 |
+| 28 | [Suspicion](https://open.spotify.com/track/7xBZsLKgEKDh2mIb3SWTk5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:20 |
 | 29 | [Switchblade](https://open.spotify.com/track/0lghQmFvO9TVRx7GmrafsU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:24 |
 | 30 | [Wasted Love \- Live](https://open.spotify.com/track/2MUI78ENObwkB08yQQbO5a) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:11 |
 | 31 | [Human](https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:29 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjg0NjYwNTAsMDAwMDAwMDA5OTJjNWM1YTAyMjEzODkyMTRiMDA0NTUxMmVkNTljYw==`
+Snapshot ID: `Mjg0Njc0OTAsMDAwMDAwMDBiOTRkMDY4NGQzYjhjODE5NDY4ZTAxYmQwMTVhMjBiNA==`

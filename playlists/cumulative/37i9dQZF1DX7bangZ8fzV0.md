@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ?si=cCiw0omDSEiNWZ77Alp6cA">Bok Van Blerk</a>  & <a href="https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=TUbo2rQPRaC6MibVMaRoLg">Bernice West</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=vE7cPH\-jTGO7QE3lTc9Ofg">Barto</a>
 
-193 songs - 10 hr 47 min
+194 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 |  |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 |  |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 | 2023-11-24 |
+| [OASE](https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:17 | 2024-02-15 |  |
 | [Oh La La](https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 3:33 | 2023-06-22 | 2023-07-28 |
 | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG) | 4:02 | 2023-03-16 | 2023-05-05 |
 | [Ontlaai](https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Ontlaai](https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b) | 4:03 | 2023-02-02 | 2023-08-11 |
@@ -167,7 +168,7 @@
 | [Stout Vir ...](https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Stout Vir ...](https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx) | 3:27 | 2023-06-29 |  |
 | [Stoute Boude](https://open.spotify.com/track/6kBte7otKF6WvMdeP20rEg) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Charlie Beeskraal](https://open.spotify.com/artist/7Dp09kdCJoVzLPynMH0TMz) | [Stoute Boude](https://open.spotify.com/album/7hBAyrqbYZ9zesTt6t69t2) | 2:59 | 2021-09-27 | 2022-10-14 |
 | [Stoutgat](https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Stoutgat](https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw) | 3:10 | 2023-06-15 |  |
-| [Suikerbos](https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Wille Ding](https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM) | 3:54 | 2023-06-03 |  |
+| [Suikerbos](https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Wille Ding](https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM) | 3:54 | 2023-06-03 | 2024-02-16 |
 | [Suikerbos](https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy) | [Stefan Jansen](https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD) | [Suikerbos](https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU) | 4:17 | 2022-12-01 | 2022-12-16 |
 | [Sweef](https://open.spotify.com/track/5OdKyaUItAU0bJZbeopN8d) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [Sweef](https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk) | 2:52 | 2022-11-03 | 2022-12-09 |
 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-02-23 |  |

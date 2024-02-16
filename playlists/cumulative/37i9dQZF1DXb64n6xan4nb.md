@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-144 songs - 9 hr 58 min
+145 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Good Day](https://open.spotify.com/track/5DOhcpankFIFfgUQJLFEr2) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [CYWORLD BGM 2021](https://open.spotify.com/album/62rt1jBaExwUQ2uyO1tjED) | 3:55 | 2022-06-13 | 2023-06-02 |
 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 | 2022-06-13 |  |
 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 | 2022-06-13 |  |
-| [An Ordinary](https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [An Ordinary Day](https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM) | 3:32 | 2022-06-13 |  |
+| [An Ordinary](https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [An Ordinary Day](https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM) | 3:32 | 2022-06-13 | 2024-02-16 |
 | [Because Of You](https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:26 | 2022-06-13 |  |
 | [Bk Love](https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [So Sniper](https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk) | 4:23 | 2022-06-13 |  |
 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 | 2022-06-13 |  |
@@ -146,6 +146,7 @@
 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 | 2022-06-13 |  |
 | [처음 느낌 그대로](https://open.spotify.com/track/2ZNUK5het1OwJvjkVzzoNC) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [이소라 1집](https://open.spotify.com/album/2PwgctO9OueSiENB9sseUp) | 4:24 | 2022-06-13 |  |
 | [청소](https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7) | [The Ray](https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g) | [The Ray's Rainbow](https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7) | 3:55 | 2022-06-13 | 2024-01-03 |
+| [청혼](https://open.spotify.com/track/6j4hRezlKpLX3CtRy5V4OC) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [These Are The Times](https://open.spotify.com/album/1d8wq1eY5iDOcqZ2kza4PK) | 4:27 | 2022-06-13 |  |
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2022-06-13 |  |
 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 | 2022-06-13 |  |
 | [해바라기 \(그녀에게..\)](https://open.spotify.com/track/7zARJQchG2thlF1o1Px9J6) | [Park Sang Min](https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu) | [Sunflower](https://open.spotify.com/album/07gANgRTKm7Zlw2xwvTXzt) | 4:09 | 2022-06-13 | 2023-09-08 |

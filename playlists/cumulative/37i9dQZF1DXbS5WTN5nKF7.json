@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : Loreen",
+  "description": "Le meilleur des hits ! Photo : i\u00f1igo quintero",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -144,6 +144,32 @@
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
     },
     {
       "album": {
@@ -525,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Ceux qu'on \u00e9tait",
+        "url": "https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "Ceux qu'on \u00e9tait",
+      "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
+    },
+    {
+      "album": {
         "name": "Chroniques d\u2019un cupidon",
         "url": "https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1"
       },
@@ -598,7 +646,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 180213,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj"
@@ -1552,7 +1600,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 184466,
       "name": "Jusqu'au dernier - Version radio",
       "url": "https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW"
@@ -2080,7 +2128,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 187037,
       "name": "Pardonne-moi",
       "url": "https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY"
@@ -2518,7 +2566,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"

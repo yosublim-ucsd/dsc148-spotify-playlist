@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tam Sir",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1705,6 +1705,28 @@
     },
     {
       "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "album": {
         "name": "Butta My Bread",
         "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
       },
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
@@ -4574,6 +4596,24 @@
       "duration_ms": 224066,
       "name": "Grand cru",
       "url": "https://open.spotify.com/track/1fuu6lFWFX9zZfrO5z9gUF"
+    },
+    {
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
     },
     {
       "album": {
@@ -8679,6 +8719,24 @@
     },
     {
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+    },
+    {
+      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -10566,7 +10624,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
@@ -10846,7 +10904,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 183865,
       "name": "Trop parler",
       "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"

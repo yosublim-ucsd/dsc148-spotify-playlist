@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 132777,
+  "num_followers": 132789,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGUwZDFkOGQ3YWQwZjY1Y2IwODUxMTliZjdjMGViYjU5NjQxYjE1",
+  "snapshot_id": "MCxiYmI5MTBiZjgwYjU4YmFiYjk4ZjZlMTE1ODJhZWU3NjFmNjUwMjVk",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
         }
       ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+      "duration_ms": 206546,
+      "name": "La femme \u00e0 la peau bleue",
+      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
     },
     {
       "added_at": "2024-01-03 20:03:18",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
       },
       "artists": [
         {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 206546,
-      "name": "La femme \u00e0 la peau bleue",
-      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -503,18 +487,34 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LET\u2019S DO IT AGAIN",
-        "url": "https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ"
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 225494,
-      "name": "LET\u2019S DO IT AGAIN - Radio Edit",
-      "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
     },
     {
       "added_at": "2023-12-12 19:01:54",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "All Access",
-        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+        "name": "LET\u2019S DO IT AGAIN",
+        "url": "https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ"
       },
       "artists": [
         {
-          "name": "Ben Eggs",
-          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 186888,
-      "name": "All Access",
-      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
+      "duration_ms": 225494,
+      "name": "LET\u2019S DO IT AGAIN - Radio Edit",
+      "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -567,6 +567,22 @@
       "duration_ms": 232914,
       "name": "Nabi (feat. OHHYUK)",
       "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -595,18 +611,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -631,22 +647,6 @@
       "duration_ms": 175259,
       "name": "Luv Is Not Enough - Cabu Remix",
       "url": "https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Satingarona, Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
-        },
-        {
-          "name": "Laurene P Magnani",
-          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
-        }
-      ],
-      "duration_ms": 294499,
-      "name": "Agua fr\u00eda",
-      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Akousmatikous",
         "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 152691,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Satingarona, Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Laurene P Magnani",
+          "url": "https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE"
+        }
+      ],
+      "duration_ms": 294499,
+      "name": "Agua fr\u00eda",
+      "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "How can I",
-        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 245804,
-      "name": "Like this",
-      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 306720,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/00bz5bGRGFMfACJWfhMSxx"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "How can I",
+        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "Like this",
+      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Hustler's Lullaby",
         "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 214733,
       "name": "Descends",
       "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 261224,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Passion (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/7hg9Cv2iWH4RTlQuhUWpIx"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 261224,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Mopedbart",
         "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy"
       },
       "artists": [
         {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

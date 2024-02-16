@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Warren Zeiders",
-  "num_followers": 582489,
+  "num_followers": 582673,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2MxNDY3ODM5NjQwNWYzZDNlNGRmNGY4ZWI3ODBjMTAxZjM2ZDFh",
+  "snapshot_id": "MCxiM2RhY2I2ZjBhNjQxOWI4YWVmZmYxMDNmYzFjZDM5ZjczY2UwYzUz",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "NATE SMITH (DELUXE)",
-        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 189986,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+        "name": "NATE SMITH (DELUXE)",
+        "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
       "artists": [
         {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+      "duration_ms": 189986,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -595,38 +595,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 194777,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Town Line",
         "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 283346,
       "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
       "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 194777,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Cowboys Did Cocaine",
-        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
       "artists": [
         {
-          "name": "Riley Thomas",
-          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 232798,
-      "name": "Cowboys Did Cocaine",
-      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+        "name": "Cowboys Did Cocaine",
+        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Riley Thomas",
+          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
         }
       ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x"
+      "duration_ms": 232798,
+      "name": "Cowboys Did Cocaine",
+      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
     },
     {
       "added_at": "2024-02-09 05:00:00",

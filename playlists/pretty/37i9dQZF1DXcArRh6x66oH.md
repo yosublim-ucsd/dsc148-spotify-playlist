@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > from Stillwater to Nashville with Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,752 likes - 110 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,945 likes - 110 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 33 | [Hurricane](https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Hurricane](https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO) | 4:09 |
 | 34 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 |
 | 35 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 |
-| 36 | [Beneath Oak Trees](https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:57 |
+| 36 | [Beneath Oak Trees](https://open.spotify.com/track/6xqmYE5XbgqOl4LO39g5v6) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:57 |
 | 37 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 | 38 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:34 |
 | 39 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 109 | [Smell Like Smoke](https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 2:48 |
 | 110 | [Ramblin Man](https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ramblin Man](https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3) | 2:47 |
 
-Snapshot ID: `MCw2NDMzYzE0MzhhM2VmODNjNGM0MGY4ZGI1MTk2NDNiN2Y2M2Y3Njk4`
+Snapshot ID: `MCw2MmE3MTdhNWJhNWI0MDg2MzRiY2MzZmY1YzdlZjU4MTYxZjQ1N2Yz`

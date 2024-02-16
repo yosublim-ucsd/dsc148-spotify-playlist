@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7"
+    },
+    {
+      "album": {
         "name": "Biri-Biri",
         "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
       },

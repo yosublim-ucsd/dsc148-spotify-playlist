@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,404 likes - 196 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,937 likes - 196 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 195 | [Pink Noise Satisfaction](https://open.spotify.com/track/3HRDr4iGCIH6IjYpduxVJl) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Pink Noise Satisfaction](https://open.spotify.com/album/4ceYxcs6IXW4LnbrxeepSD) | 3:11 |
 | 196 | [Pink Noise for Dreaming](https://open.spotify.com/track/1Tjrhay8eQSfkOcqVh7PiQ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for Dreaming](https://open.spotify.com/album/7nvAnxamuXjGljTTdkZkwl) | 3:13 |
 
-Snapshot ID: `MCxhNTY2MTZiODdhYTc5ZjIxN2VjMWI1Nzk1OWIxYmVmZmM0YzAxNDEx`
+Snapshot ID: `MCw0YjhiN2NiYTJhZDlmMGNlMzBjNTAyNmE3NzA2YTgwMjE2ZjBmMTNm`

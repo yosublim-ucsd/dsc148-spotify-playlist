@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-516 songs - 19 hr 44 min
+517 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2024-01-05 |  |
 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 | 2024-01-05 |  |
 | [disclosure](https://open.spotify.com/track/6QwKvEiS7g4ZmwEcTv0ZVj) | [agirlhasnofame](https://open.spotify.com/artist/7Fh3GA8Ca6rtEumfW4hFuW) | [disclosure](https://open.spotify.com/album/1LWEets87Xv9fOo0VnVSKQ) | 2:10 | 2024-01-05 |  |
-| [Disintegrate](https://open.spotify.com/track/6xvNZaAEtO0GqqdHi5CxOt) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Lucrative Behavior](https://open.spotify.com/album/2DMhX2hI5PcVHl1YGJHNui) | 2:14 | 2024-01-05 |  |
+| [Disintegrate](https://open.spotify.com/track/6xvNZaAEtO0GqqdHi5CxOt) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Lucrative Behavior](https://open.spotify.com/album/2DMhX2hI5PcVHl1YGJHNui) | 2:14 | 2024-01-05 | 2024-02-16 |
 | [Distractions](https://open.spotify.com/track/3jNkhv4Hn6MnogaKf6qJMk) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [As The Curtain Falls](https://open.spotify.com/album/0B4vsSRaBDU5lpxdzaMeEy) | 2:15 | 2024-01-05 |  |
 | [Diving In](https://open.spotify.com/track/34rgBVC2wMRJcP5xQd03zQ) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Diving In](https://open.spotify.com/album/52oZVRf4u0aaIi813gKfC8) | 1:56 | 2024-01-05 |  |
 | [Dont Go](https://open.spotify.com/track/7m7yVthruWNGZ6WkvJnjxo) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [Dont Go](https://open.spotify.com/album/4oTo2WXUFmG27DQHcfqSr0) | 1:58 | 2024-01-05 |  |
@@ -459,6 +459,7 @@
 | [Tear Me Apart](https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tear Me Apart](https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr) | 2:01 | 2024-01-05 |  |
 | [Temple](https://open.spotify.com/track/7exwZfnrzGSjSz1Nl8psVs) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 1:42 | 2024-01-05 |  |
 | [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2024-01-05 |  |
+| [Tender Times](https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Tender Times](https://open.spotify.com/album/1ej8XQjJ9AxClxwCqyIZZp) | 2:41 | 2024-02-09 |  |
 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 | 2024-01-05 |  |
 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2024-01-05 |  |
 | [The Jam](https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The Jam](https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW) | 1:39 | 2024-02-09 |  |

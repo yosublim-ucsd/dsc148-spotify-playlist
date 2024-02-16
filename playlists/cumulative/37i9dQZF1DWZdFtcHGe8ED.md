@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-396 songs - 1 day 4 hr 14 min
+397 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [A Song and a Promise](https://open.spotify.com/track/5s84j81naFIV5VKH7OafOS) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2), [Olga from the Toy Dolls](https://open.spotify.com/artist/4vsRDn0PxIibLIM3yz52hL) | [A Song and a Promise](https://open.spotify.com/album/71a9u0aGd3xp7OghvvRKOG) | 3:29 | 2022-02-11 | 2022-02-16 |
 | [Activate](https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Activate](https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs) | 3:30 | 2021-12-17 | 2022-11-13 |
 | [Agent Orange](https://open.spotify.com/track/0CDHN3Wk8JY0p5myySB0mS) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years: Best Of](https://open.spotify.com/album/4CkwJZRRMAFz8L0F2sBaWp) | 6:04 | 2022-07-13 | 2023-11-04 |
-| [Agent Orange](https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years \- Best Of](https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR) | 6:04 | 2023-06-27 |  |
+| [Agent Orange](https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years \- Best Of](https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR) | 6:04 | 2023-06-27 | 2024-02-16 |
 | [Agent Orange](https://open.spotify.com/track/2Wu6LMO0Rx6Aa4LPHH1T95) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange \(Re\-Release\)](https://open.spotify.com/album/62R0jgrQcPKgtBSJWZbgHY) | 6:05 | 2022-07-13 | 2022-07-29 |
+| [Agent Orange](https://open.spotify.com/track/3Ks3K2RmCxSUcXS6cOvd43) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange](https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G) | 6:05 | 2024-01-12 |  |
 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 | 2022-07-13 | 2024-01-10 |
 | [Ahi Kā](https://open.spotify.com/track/2LjT8Sjr6Xpze082hJXoJG) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Ahi Kā](https://open.spotify.com/album/6yXaZhqRbOpofFX40IGmdN) | 3:46 | 2021-12-17 | 2022-07-28 |
 | [Ahi Kā](https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Ahi Kā](https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm) | 3:46 | 2022-07-13 |  |

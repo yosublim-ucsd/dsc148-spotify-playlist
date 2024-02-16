@@ -4,7 +4,7 @@
 
 > New rock classics and essential cuts\. Cover: Evanescence
 
-171 songs - 11 hr 31 min
+172 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/5C3u9qldqLoudrLuTFiKB2) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [ROCKOVÝ MEJDAN](https://open.spotify.com/album/31a2yL6LGznj4rBvOcxIw6) | 5:18 | 2022-08-26 | 2022-11-13 |
 | [Blurry](https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/5DLx1IHDoyBHyjF4UggiSe) | 5:04 | 2020-08-10 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2020-08-10 | 2022-11-12 |
+| [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2024-02-15 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2020-08-10 | 2023-11-18 |
 | [Bring Me To Life \- Remastered 2023](https://open.spotify.com/track/2UYK6Xdo2519MY0o2NtA3n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen \(Deluxe Edition / Remastered 2023\)](https://open.spotify.com/album/1l60K3wSsZjJDfeAvnkZw5) | 3:56 | 2023-11-17 |  |
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2022-08-26 | 2023-02-25 |
@@ -146,7 +147,7 @@
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2020-08-10 |  |
 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 | 2020-08-10 | 2022-03-10 |
 | [Take A Look Around](https://open.spotify.com/track/0N5aQPSHQAADNV3VbRH7Ph) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water \(Explicit Version\)](https://open.spotify.com/album/3uOEEa9T9s1lpoKzVCxZU0) | 5:21 | 2020-08-10 | 2022-07-29 |
-| [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 | 2022-07-01 |  |
+| [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 | 2022-07-01 | 2024-02-16 |
 | [Take A Look Around \- GH Version](https://open.spotify.com/track/18Vd8POAaTIg3AMMm3RNkH) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/6S9h7GVuauRzHoyEFmtyMD) | 5:19 | 2022-08-26 | 2022-11-13 |
 | [Take A Picture](https://open.spotify.com/track/3LMk2ERkd46UY3SM7wNfiU) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/5z6hB6RdG0y7YOjQAo0Y76) | 6:03 | 2022-11-11 | 2023-09-21 |
 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 | 2022-07-01 |  |

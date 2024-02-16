@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 119548,
+  "num_followers": 119588,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2",
+  "snapshot_id": "MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "N\u00e3o Me Deixar\u00e1s",
+        "url": "https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Caio Cesar",
+          "url": "https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "N\u00e3o Me Deixar\u00e1s",
+      "url": "https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "Sobre Todo Nome",
         "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 158789,
       "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
       "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "N\u00e3o Me Deixar\u00e1s",
-        "url": "https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "Caio Cesar",
-          "url": "https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "N\u00e3o Me Deixar\u00e1s",
-      "url": "https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j"
     },
     {
       "added_at": "2024-01-05 13:32:37",

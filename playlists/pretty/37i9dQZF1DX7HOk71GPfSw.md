@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,662 likes - 104 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,635 likes - 104 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 44 | [two am](https://open.spotify.com/track/0DFyo7KI5TihXA6xKI7nCO) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [a night in virginia](https://open.spotify.com/album/6hR5LXmqqaonYxc2oQe7EG) | 1:53 |
 | 45 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 46 | [FCKNSTR](https://open.spotify.com/track/7GQlDWxQJ0J7JdXnqPAwkC) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [FCKNSTR](https://open.spotify.com/album/6T5QtDBPJ24NqXvI7d4u5o) | 2:36 |
-| 47 | [Q.O.S.D](https://open.spotify.com/track/5XbJqPCN3wwU4PBqPaNJGm) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Q.O.S.D](https://open.spotify.com/album/1zV9Coy8MhabcGX7d16bkP) | 2:11 |
+| 47 | [Q.O.S.D](https://open.spotify.com/track/5XbJqPCN3wwU4PBqPaNJGm) | [That Kid](https://open.spotify.com/artist/46w6XrUFjgxf0iiL3qpMV3) | [Q.O.S.D](https://open.spotify.com/album/1zV9Coy8MhabcGX7d16bkP) | 2:11 |
 | 48 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
 | 49 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
 | 50 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 103 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 |
 | 104 | [Perfumed and Glossy](https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Perfumed and Glossy](https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1) | 2:40 |
 
-Snapshot ID: `MCw5YzE0ODNiMjU0NmMzYWM1NzNhNjhhZjMxMGZlOTg5ZDhmOTI2OTgy`
+Snapshot ID: `MCw4YjBiNWY1NTIzYzY2Y2MwMDMxYTZlMmVhZjY1Y2NhM2M0NmFmMTBh`

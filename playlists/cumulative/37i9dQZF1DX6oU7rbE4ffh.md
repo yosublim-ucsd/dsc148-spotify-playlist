@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-157 songs - 8 hr 15 min
+162 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [432 Hz Calm Down](https://open.spotify.com/track/7y30BBlIY4eqaphXzXlxdE) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 2:50 | 2022-10-15 |  |
 | [432 Hz Mantra](https://open.spotify.com/track/19INhfAXHJl4xRmxKS7Fw0) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [432 Hz Soundscapes for Breathing and Healing](https://open.spotify.com/album/3AP1F3DwXU82jz3bHowwJp) | 3:14 | 2022-10-15 |  |
 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 | 2022-10-15 |  |
+| [528 Hz Astral Flux](https://open.spotify.com/track/6KzPzPhuqJoNWKh5toD7Ub) | [Sage Tranquility Hz](https://open.spotify.com/artist/4Hjn3TNiu6uNl4CVIJIC46) | [528 Hz Astral Flux](https://open.spotify.com/album/02ZWlhIvqRw8FdwlmgXJIr) | 2:37 | 2024-02-15 |  |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2022-05-25 | 2022-09-07 |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2022-05-25 |  |
 | [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2022-05-25 | 2022-06-17 |
@@ -30,6 +31,7 @@
 | [Arnofio](https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Arnofio](https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN) | 2:57 | 2023-07-13 |  |
 | [As One](https://open.spotify.com/track/4ArtdQWC9UI51ojZvrzj2W) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [As One](https://open.spotify.com/album/6ODpmuDcmnXUlNVqFanyWb) | 3:19 | 2022-05-25 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
+| [At First Light](https://open.spotify.com/track/2nSsFPv6DacvSeeffwHw41) | [Carl Borden](https://open.spotify.com/artist/191IVNBGVBToo7fHB4LHaS) | [Beyond the Sunrise](https://open.spotify.com/album/7yR28ZTUP4Kg3ob20qYRcs) | 5:24 | 2024-02-15 |  |
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2022-05-25 |  |
 | [Atmosphere](https://open.spotify.com/track/6f2CmmgE9LM9MpyF5qJVu9) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmosphere](https://open.spotify.com/album/68ZoAWbxVpnUcyPeuk3KR1) | 1:08 | 2022-05-25 | 2023-07-29 |
 | [Awyr](https://open.spotify.com/track/7yMzhnHDOwrRE8xSHg1odL) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Awyr](https://open.spotify.com/album/32IqCf3YumpYV4JWvfS8F9) | 3:53 | 2022-05-25 |  |
@@ -58,6 +60,7 @@
 | [Dreams Of Delta](https://open.spotify.com/track/3PMP7s6o3dLLyHnsfqkUs5) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Dreams Of Delta](https://open.spotify.com/album/4ZrQvh2d4MCBp7imUjS3TT) | 4:17 | 2022-05-25 | 2023-08-25 |
 | [Dreams of the Milky Way](https://open.spotify.com/track/55MCIV8vcsHVz2ECaveJpT) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Dreams of the Milky Way](https://open.spotify.com/album/0KVbigs9HOU9c16GRmrZew) | 2:05 | 2022-05-25 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-25 |  |
+| [Eden](https://open.spotify.com/track/6CWQhbc0inw5cmmiKiAZEX) | [Inner Oasis](https://open.spotify.com/artist/0KXkOnI2jbPjGUYNtOzy2s) | [Eden](https://open.spotify.com/album/0pSQEKwbzBJEshxkmaw23h) | 2:40 | 2024-02-15 |  |
 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-11-22 |  |
 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-05-25 |  |
 | [Escapism](https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Escapism](https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH) | 3:18 | 2022-12-09 |  |
@@ -158,7 +161,9 @@
 | [Thankful](https://open.spotify.com/track/1nFLUSu9eQxibCz0BP4BtO) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:19 | 2022-05-25 |  |
 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 | 2022-05-25 |  |
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2022-05-25 |  |
+| [The Searching Mind](https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [The Searching Mind](https://open.spotify.com/album/7kbqP0XONQcJm2Bw985mHn) | 3:23 | 2024-02-15 |  |
 | [Tramonto](https://open.spotify.com/track/3smLYiUCcqOwOVmYroTDN7) | [Aamina Russo](https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO) | [Tramonto](https://open.spotify.com/album/2pOZVs9uO37Uk63vlU7ZIG) | 2:13 | 2023-03-09 |  |
+| [Walk with Me \(A Beautiful Journey\)](https://open.spotify.com/track/695Ck5SYVFtgey5l0FY1Fh) | [Carl Borden](https://open.spotify.com/artist/191IVNBGVBToo7fHB4LHaS) | [Beyond the Sunrise](https://open.spotify.com/album/7yR28ZTUP4Kg3ob20qYRcs) | 4:38 | 2024-02-15 |  |
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2022-12-02 |  |
 | [Westward](https://open.spotify.com/track/3a4QYzei9aAmBHtz3ElTPT) | [Western Tribulations](https://open.spotify.com/artist/2BqSkHnqXQZZSKr1EwgHno) | [Enschede](https://open.spotify.com/album/3twmOqQwvJBNQBq6oboMtD) | 3:48 | 2022-05-25 | 2022-09-07 |
 | [Winding Down](https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Winding Down](https://open.spotify.com/album/61vGKZ7BiUj71vTwOsySMI) | 2:45 | 2023-05-19 |  |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Ariana Grande
+> The best tracks from the world of music\. Cover: Benson Boone
 
 73 songs - 3 hr 59 min
 

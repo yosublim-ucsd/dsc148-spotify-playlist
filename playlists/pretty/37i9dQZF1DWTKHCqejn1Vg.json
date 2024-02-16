@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 31507,
+  "num_followers": 31517,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTg4Y2U0ZTA2NTk1YzljMzlmOTZlZGNmMzZiNjE5NWZjNDZlNmNm",
+  "snapshot_id": "MCxlMzQwNGUwMmZlYjQyNWZiMjI3NWM5YWRhNjA4Mjk0NzBkMTI0NmEy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:21:50",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
-      },
-      "artists": [
-        {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 253411,
-      "name": "Point (feat. Loopy)",
-      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
       },
       "artists": [
         {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
         }
       ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+      "duration_ms": 253411,
+      "name": "Point (feat. Loopy)",
+      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 186755,
       "name": "Remained scent",
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2023-11-03 06:21:50",

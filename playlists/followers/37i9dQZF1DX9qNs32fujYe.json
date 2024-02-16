@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 1208804,
+  "2024-02-16": 1209210,
   "date_first_scraped": "2021-12-21",
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Metallica",
   "name": "Heavy Metal",
@@ -1627,6 +1627,24 @@
       "duration_ms": 231693,
       "name": "Breaking the Chains",
       "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "Breaking The Chains",
+      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
     },
     {
       "album": {
@@ -5567,7 +5585,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 307652,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y"
@@ -5747,7 +5765,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 212635,
       "name": "I Left My License in the Future",
       "url": "https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4"
@@ -10503,6 +10521,24 @@
       "duration_ms": 175931,
       "name": "Slave New World",
       "url": "https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH"
+    },
+    {
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7"
     },
     {
       "album": {

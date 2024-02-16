@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-309 songs - 18 hr 33 min
+310 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Things You Don't Say](https://open.spotify.com/track/3KSFfg72bfirtdDTm7LJaT) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Things You Don't Say](https://open.spotify.com/album/1M0jZfqAcF8D514Y1NFXzh) | 3:47 | 2023-06-22 |  |
 | [This Ain't Loving Without You](https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 2:57 | 2022-10-14 |  |
 | [Tighten It Up](https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Tighten It Up](https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt) | 2:54 | 2023-03-23 |  |
+| [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-02-15 |  |
 | [Together](https://open.spotify.com/track/2Ke0t5CgPSFbdJcRF2GzFr) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Reason to Smile](https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC) | 3:03 | 2022-12-12 | 2023-10-05 |
 | [Tongue Tied](https://open.spotify.com/track/2NahLrPNy0tK7K97Nu8SFj) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [asante](https://open.spotify.com/artist/6bv2mTQTcpXQ4IEHv3Kv3a) | [Great Lakes Influence](https://open.spotify.com/album/5Xt0CWRI6jl03L58jdKoQj) | 7:04 | 2022-10-28 |  |
 | [Too Big \- Atjazz Remix](https://open.spotify.com/track/2PsqQ6h3BoK1nLoTsUqTUv) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Too Big \(Atjazz Remix\)](https://open.spotify.com/album/2Mpkl9q3cLbupeV9g3NeAs) | 4:08 | 2022-09-22 | 2022-09-28 |

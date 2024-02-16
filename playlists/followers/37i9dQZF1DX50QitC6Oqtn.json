@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 3529891,
+  "2024-02-16": 3529863,
   "date_first_scraped": "2019-07-29",
   "description": "Because we all deserve great pop love songs in one playlist.",
   "name": "Love Pop",
@@ -667,7 +667,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
@@ -2439,8 +2439,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -6585,7 +6585,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 199600,
       "name": "There You Are",
       "url": "https://open.spotify.com/track/5y4XJ9UFS5eOdoYPF5pSAE"

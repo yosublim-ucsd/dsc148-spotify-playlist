@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw">Lowsan Melgar</a> y <a href="spotify:artist:6KOEJIpphgdK2z7wXfWYvj">Damaris Guerra</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,360 likes - 99 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,519 likes - 99 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 98 | [Aún Sin Entender](https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Adorando Entre Amigos](https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o) | 6:00 |
 | 99 | [Mi Alma Clama \(feat\. Laila Olivera\)](https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Mi Alma Clama](https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI) | 8:18 |
 
-Snapshot ID: `MCwyYTE4YmVmMDA5NjMzM2VhZTkyMjAyNmI0NGZmNDQ3N2E4NmFkYzNk`
+Snapshot ID: `MCw4ODU0N2JkNzc3MGYzYWZhZjdkZmRiNTVkMjg4NzRlMDE1OWQxOWFj`

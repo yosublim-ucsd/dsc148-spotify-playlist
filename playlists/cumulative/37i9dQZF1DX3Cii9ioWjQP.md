@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Minna Seo\(서민아\)\)
+> All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\)
 
-175 songs - 12 hr 53 min
+177 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,9 +178,11 @@
 | [새+일회용품 Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 | 2023-07-24 |  |
 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 | 2022-11-11 |  |
 | [시작](https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [시작](https://open.spotify.com/album/1j9Bz1EoymRjq4ZF3oUdx1) | 3:17 | 2023-07-24 | 2023-10-05 |
+| [여정 Journey](https://open.spotify.com/track/5WWaRj5PEU4Heh8LNjxNjM) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [여정 Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:19 | 2024-02-15 |  |
 | [자성 Intrinsic nature](https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5) | [Jung Sumin](https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1) | [자성 Intrinsic nature](https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo) | 8:18 | 2023-09-20 |  |
 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 | 2022-05-03 |  |
 | [퇴사하는 날 The Last Day of Work\(Dobby is Free\)](https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA) | [조영훈 Younghoon Cho](https://open.spotify.com/artist/7KOFCJ3yZTiPDj215mxq3G) | [퇴사하는 날 The Last Day of Work](https://open.spotify.com/album/2GwqgiOoFdm4lYEE5dztHW) | 2:25 | 2022-05-03 | 2022-05-19 |
+| [푸른 밤 What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [여정 Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 | 2024-02-15 |  |
 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 | 2022-11-11 |  |
 | [향해](https://open.spotify.com/track/0heB6yWowfMP46oBMEtRMT) | [한선구](https://open.spotify.com/artist/2Cs1CsArCfGiXBzqqNtFjg) | [향해](https://open.spotify.com/album/3Ft9zLvksjGjBhNUerw01V) | 6:10 | 2022-05-03 | 2023-02-08 |
 

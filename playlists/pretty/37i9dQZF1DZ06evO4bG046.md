@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,272 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,286 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 10 | [Donde Estabas Tú](https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:46 |
 | 11 | [Takirari del Puerto](https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:50 |
 | 12 | [Amor Americano](https://open.spotify.com/track/2devOvQdt2r3lLOWu92O4x) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:28 |
-| 13 | [Valparaíso \(Versión 1996\)](https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 4:00 |
-| 14 | [Un Dia De Tus Dias](https://open.spotify.com/track/2ftI7Ue2E2zT33z6OkDhA5) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 3:10 |
+| 13 | [Un Dia De Tus Dias](https://open.spotify.com/track/2ftI7Ue2E2zT33z6OkDhA5) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 3:10 |
+| 14 | [Valparaíso \(Versión 1996\)](https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 4:00 |
 | 15 | [Desde un Barrial](https://open.spotify.com/track/1m89Wa5xogBttK4SWhwxHZ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 5:28 |
 | 16 | [Águila Sideral](https://open.spotify.com/track/3TsdkwdKHxMLK047EXtOlc) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:22 |
-| 17 | [Los Momentos \(Versión 1997\)](https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Eduardo Gatti](https://open.spotify.com/artist/4XeXlVlcBAqU4tYCP3SdoY) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 3:35 |
-| 18 | [La Vida Mágica ¡Ay Si! \(En Vivo, Concierto en Londres 1979\)](https://open.spotify.com/track/4A8IFmoeWBY7cHtAdUllur) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [En el Bar\-Restaurant "Lo Que Nunca Se Supo"](https://open.spotify.com/album/6U7nBpYnjEoCZih1oL2ohZ) | 3:25 |
+| 17 | [La Vida Mágica ¡Ay Si! \(En Vivo, Concierto en Londres 1979\)](https://open.spotify.com/track/4A8IFmoeWBY7cHtAdUllur) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [En el Bar\-Restaurant "Lo Que Nunca Se Supo"](https://open.spotify.com/album/6U7nBpYnjEoCZih1oL2ohZ) | 3:25 |
+| 18 | [Los Momentos \(Versión 1997\)](https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Eduardo Gatti](https://open.spotify.com/artist/4XeXlVlcBAqU4tYCP3SdoY) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 3:35 |
 | 19 | [Vergüenza Ajena](https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:50 |
 | 20 | [Del Aire al Aire](https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 2:16 |
 | 21 | [Debajo de las Higueras](https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 45 | [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 |
 | 46 | [Pájaro Errante](https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:14 |
 | 47 | [Ayer Cache \(Remasterizado 2020\)](https://open.spotify.com/track/5oGKw1Zl8WLYbcX1OBWhzV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 4:21 |
-| 48 | [Vamos por Ancho Camino](https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 3:12 |
-| 49 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 |
-| 50 | [El Tambo](https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 4:50 |
+| 48 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 |
+| 49 | [Vamos por Ancho Camino](https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 3:12 |
+| 50 | [En La Cumbre De Un Cerro](https://open.spotify.com/track/3AcyB988C2kdPFNBQUXLrL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 5:10 |
 
-Snapshot ID: `Mjg0NjUyMjAsMDAwMDAwMDBlYjdkMmEwMjhiY2ZlNTIxOGQwOWMzMjY3NGIwMDA4Yg==`
+Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDA4NDliYzYwNzhhMDI2MWZjNmE1YTQ4YWRkNzNmMDliMA==`

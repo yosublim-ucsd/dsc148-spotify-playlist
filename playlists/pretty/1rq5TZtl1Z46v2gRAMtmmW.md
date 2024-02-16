@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 29,190 likes - 41 songs - 2 hr 43 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 29,196 likes - 41 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 28 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 |
 | 29 | [The Low](https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [The Low](https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG) | 3:38 |
 | 30 | [Push Power \( a 1 \)](https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Push Power \( a 1 \)](https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ) | 4:09 |
-| 31 | [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 |
-| 32 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
-| 33 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 |
-| 34 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 |
-| 35 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 |
-| 36 | [Wait 4 U \- DJ Phil Remix](https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG) | [Wait 4 U \(DJ Phil Remix\)](https://open.spotify.com/album/4lYOaHLbCjP6YET1nIAXPq) | 3:36 |
-| 37 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
-| 38 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
-| 39 | [Vast Oceans, Empty Skies](https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:20 |
-| 40 | [24 hours](https://open.spotify.com/track/3S8woPykjDBaUhmi2o0Ti0) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [24 hours](https://open.spotify.com/album/6YEXnjflOIF7g0PghPnuAe) | 3:38 |
-| 41 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 |
+| 31 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
+| 32 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 |
+| 33 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 |
+| 34 | [Wait 4 U \- DJ Phil Remix](https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG) | [Wait 4 U \(DJ Phil Remix\)](https://open.spotify.com/album/4lYOaHLbCjP6YET1nIAXPq) | 3:36 |
+| 35 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
+| 36 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
+| 37 | [Vast Oceans, Empty Skies](https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Vast Oceans, Empty Skies](https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI) | 4:20 |
+| 38 | [24 hours](https://open.spotify.com/track/3S8woPykjDBaUhmi2o0Ti0) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [24 hours](https://open.spotify.com/album/6YEXnjflOIF7g0PghPnuAe) | 3:38 |
+| 39 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 |
+| 40 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
+| 41 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 |
 
-Snapshot ID: `MzYyMywyMDlkN2MwNmQwNWNhMzFjZmYwMGJmMjYwOGNmNzFmNzExMjc2NjQ0`
+Snapshot ID: `MzYyNyw0NjFhNTI4OGUxYzk0M2NiMzU3MjBiZWE2ZjViOWUwMTExYzE3MzU0`

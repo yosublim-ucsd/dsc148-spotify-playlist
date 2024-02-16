@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Utsavi Jha
 
-171 songs - 9 hr 32 min
+172 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 | 2023-05-02 |  |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-16 | 2023-08-01 |
 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-06 |  |
-| [Khoya Rahun](https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Khoya Rahun](https://open.spotify.com/album/4zWd9cFZ7YPmYY4IDjmK5b) | 4:04 | 2023-12-15 |  |
+| [Khoya Rahun](https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Khoya Rahun](https://open.spotify.com/album/4zWd9cFZ7YPmYY4IDjmK5b) | 4:04 | 2023-12-15 | 2024-02-16 |
 | [KHU](https://open.spotify.com/track/08SW2nDqYzv6UOOtaoJdTE) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [KHU](https://open.spotify.com/album/3BOrCKOWf5DZklELAV6fnc) | 3:54 | 2023-08-11 | 2023-11-11 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-05-02 |  |
 | [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 | 2023-05-02 | 2024-01-30 |
@@ -130,6 +130,7 @@
 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 | 2023-05-02 |  |
 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 | 2023-08-09 | 2023-11-02 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
+| [Raaton Mein Ojhal](https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq) | [Raaton Mein Ojhal](https://open.spotify.com/album/3dpOjEIxsKy5hn3DzbcEvs) | 3:50 | 2024-02-15 |  |
 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 | 2023-05-02 |  |
 | [Reit Ka Ghar](https://open.spotify.com/track/0JUNA4mVJSWSHaRTWKc0e7) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Reit Ka Ghar](https://open.spotify.com/album/6zppeMINJ0s4WXUXmDvX4x) | 3:05 | 2023-12-15 |  |
 | [Roshni](https://open.spotify.com/track/3qudEWwDUMCZ9HKXrnSFEm) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Roshni](https://open.spotify.com/album/5BphphoNQOMIYHYf4hIZmn) | 3:51 | 2023-11-15 |  |

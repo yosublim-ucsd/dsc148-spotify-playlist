@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-186 songs - 9 hr 25 min
+187 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Repete](https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Repete](https://open.spotify.com/album/5bz020wy4TMxX0kspDnGaD) | 3:50 | 2023-04-28 | 2023-07-29 |
 | [Reprise](https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u) | [Yuri Fernandes](https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP) | [Reprise](https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt) | 3:35 | 2023-08-11 | 2023-10-07 |
 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 | 2022-11-18 |  |
-| [Roupa de Ontem](https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa) | 4:38 | 2022-11-18 |  |
+| [Roupa de Ontem](https://open.spotify.com/track/1JLgTEDJJTUawSFGwAKLyI) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/6MnjJgPNn494q1ODleBV0s) | 4:38 | 2024-02-02 |  |
+| [Roupa de Ontem](https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa) | 4:38 | 2022-11-18 | 2024-02-16 |
 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 | 2023-07-14 |  |
 | [se você quiser](https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [se você quiser](https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE) | 3:44 | 2023-07-21 |  |
 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 | 2023-08-26 |

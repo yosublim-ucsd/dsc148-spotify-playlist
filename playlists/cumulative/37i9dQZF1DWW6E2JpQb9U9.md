@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-318 songs - 23 hr 56 min
+319 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 | 2022-04-01 |  |
 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 | 2022-04-01 |  |
 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 | 2022-04-01 |  |
-| [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 | 2022-04-01 |  |
+| [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 | 2022-04-01 | 2024-02-16 |
 | [Desconfío de la Vida \- En Vivo Cosquín Rock](https://open.spotify.com/track/2nbUX5PBic49CsgLmV2X4O) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 6:46 | 2022-04-01 | 2023-10-07 |
 | [Desde Lejos No Se Ve](https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:07 | 2022-06-24 |  |
 | [Desde Lejos No Se Ve \(En Vivo en River 2018\)](https://open.spotify.com/track/2PqLEZXgV4DVuZSRTBooOY) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 4:07 | 2022-04-01 | 2022-07-27 |
@@ -117,6 +117,7 @@
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 | 2023-10-06 |  |
 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 | 2022-08-19 | 2024-01-15 |
 | [Envuelto en Llamas \(Live\)](https://open.spotify.com/track/1zf4a8hddJfZgxV7hjmyFx) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Envuelto en Llamas \(Live\)](https://open.spotify.com/album/0xPCROMq48Dm7a2AucwPOS) | 4:04 | 2022-04-01 | 2022-07-28 |
+| [Envuelto en Llamas \- En Vivo](https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal \(En Vivo\)](https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz) | 4:04 | 2024-02-01 |  |
 | [Eres \- Live At The Roxy](https://open.spotify.com/track/6OxvFmNg8S0h3YDxdTjP8z) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán Live At The Roxy](https://open.spotify.com/album/1ACoUEUChNALtgDkdK7gTc) | 4:03 | 2022-06-24 | 2022-07-19 |
 | [Eres \- MTV Unplugged](https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:05 | 2022-04-01 | 2023-10-07 |
 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 | 2022-04-01 |  |

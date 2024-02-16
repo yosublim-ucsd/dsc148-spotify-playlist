@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "\u305f\u3060\u541b\u304c",
+        "url": "https://open.spotify.com/album/3S6wJAP31kDRKgA2CIt6dc"
+      },
+      "artists": [
+        {
+          "name": "Sakurashimeji",
+          "url": "https://open.spotify.com/artist/4GEJn9D9CbxI4UV8zQHxCY"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "\u305f\u3060\u541b\u304c",
+      "url": "https://open.spotify.com/track/4RPxcpQzRhK0NokIKnlixQ"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30ec\u30fc\u30c9\u304c\u7d9a\u304f\u306a\u3089",
         "url": "https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ"
       },
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185945,
       "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
       "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"

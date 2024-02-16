@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-218 songs - 12 hr 58 min
+219 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2022-09-26 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-06-03 |  |
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2021-11-24 | 2022-07-29 |
+| [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 | 2024-02-15 |  |
 | [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2022-12-01 | 2023-02-24 |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2021-11-24 | 2022-07-29 |
 | [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2022-06-03 | 2022-12-02 |
@@ -224,7 +225,7 @@
 | [You Let Me Walk Alone](https://open.spotify.com/track/1i31AKvYOI4b5FCU1cEHqU) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/4onTLxMITvkAtqd0Ah8e32) | 2:57 | 2022-11-03 | 2022-11-13 |
 | [You Let Me Walk Alone](https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun) | 2:57 | 2021-11-24 | 2022-07-29 |
 | [You Make It Real](https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:31 | 2021-11-24 | 2022-07-29 |
-| [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2022-06-03 |  |
+| [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2022-06-03 | 2024-02-16 |
 | [You Make It Real](https://open.spotify.com/track/5Bsi0V82J68BnBl4Bs6VLh) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Thanksgiving Music](https://open.spotify.com/album/5BUojL6FheMdXPwv5HZ1PL) | 3:32 | 2022-11-03 | 2022-11-13 |
 
 \*This playlist was first scraped on 2022-01-08. Prior content cannot be recovered.

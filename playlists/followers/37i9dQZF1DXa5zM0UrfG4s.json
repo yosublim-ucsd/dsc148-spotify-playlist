@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 107308,
+  "2024-02-16": 107327,
   "date_first_scraped": "2021-12-28",
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
   "name": "Livet p\u00e5 B\u00f8gda!",
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 101304,
       "name": "FYRA SM\u00c5 RAGGERS",
       "url": "https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G"
@@ -6273,6 +6273,24 @@
       "duration_ms": 138581,
       "name": "Tv\u00e5 T\u00f6lver",
       "url": "https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr"
+    },
+    {
+      "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140711,
+      "name": "Ung full och Dum",
+      "url": "https://open.spotify.com/track/4AtH9rAzuWbPZfYciY4ZIu"
     },
     {
       "album": {

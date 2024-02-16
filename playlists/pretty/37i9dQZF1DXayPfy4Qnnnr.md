@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,088 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,121 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Les nuits parisiennes](https://open.spotify.com/track/2TaEmp0ekjFpnteScYcFXU) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 2:31 |
 | 2 | [Les étoiles filantes](https://open.spotify.com/track/3ChV0OY2OMofstepo4uVXy) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [La grand\-messe](https://open.spotify.com/album/11R4ZPmfZTbIMxy4QumstB) | 4:21 |
 | 3 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/0tcFkV7zLOGWgUbYtD6ROz) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 3:25 |
-| 4 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 |
-| 5 | [Marley](https://open.spotify.com/track/0UZtknI7pCLAVGtHPLIYXZ) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Dialogue de sourds](https://open.spotify.com/album/6CyUDbu8iwTgVhpUGAenMo) | 5:12 |
+| 4 | [Marley](https://open.spotify.com/track/0UZtknI7pCLAVGtHPLIYXZ) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Dialogue de sourds](https://open.spotify.com/album/6CyUDbu8iwTgVhpUGAenMo) | 5:12 |
+| 5 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 |
 | 6 | [Les moutons](https://open.spotify.com/track/5qcHNtNeQWSEVTeIwBLwss) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:48 |
 | 7 | [À L'oreille De Ta Femme](https://open.spotify.com/track/4NTdqMKbZI1JPwces4RvTh) | [As De Trêfle](https://open.spotify.com/artist/1v1DtvaEK5hAu2B0quJPSz) | [Houlala](https://open.spotify.com/album/32KAnGJ6ZXdRMYf1lQTGMT) | 3:04 |
 | 8 | [Les hommes que j'aime](https://open.spotify.com/track/7ebyGGBvIus0ZgdbzcXweL) | [La Rue Kétanou](https://open.spotify.com/artist/5RJtcUSgNu7Y3X9YmZDci9) | [Y'a des cigales dans la fourmilière](https://open.spotify.com/album/5ojDgFtBuoqDYUky82np4Z) | 3:33 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 14 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 15 | [Mon amant de St Jean](https://open.spotify.com/track/14d5gJKVmRqhWw2HWNmWuW) | [Les Croquants](https://open.spotify.com/artist/44tWbf1N3hZlP5bswGsn3g) | [Ça sent la bière](https://open.spotify.com/album/4jiVmehxYLlZCjHHzK33wW) | 3:01 |
 | 16 | [Rongrakatikatong](https://open.spotify.com/track/33COLW0pVVZq6wgR8zK8aj) | [Soviet Suprem](https://open.spotify.com/artist/2X2ePjwsB7PMG1FbbbLK6C) | [L'Internationale](https://open.spotify.com/album/3KTunf9B8ArXtfpuvi3fbb) | 2:36 |
-| 17 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [Kana](https://open.spotify.com/artist/0O8CZw2zjGlq2coR7Nj33Q) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
+| 17 | [Je fume pu d'shit](https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai), [Jacno](https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m) | [Stupeflip](https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a) | 3:16 |
 | 18 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
-| 19 | [Je fume pu d'shit](https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai), [Jacno](https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m) | [Stupeflip](https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a) | 3:16 |
+| 19 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [Kana](https://open.spotify.com/artist/0O8CZw2zjGlq2coR7Nj33Q) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
 | 20 | [Les mains froides](https://open.spotify.com/track/6jhn79WXv1GExPth5iMtny) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Le monde est beau](https://open.spotify.com/album/670mgOr9f4OGrlWfzoGNRD) | 3:41 |
 | 21 | [Poupine et Thierry](https://open.spotify.com/track/76tXsaonHTv3eDSnUIbimx) | [Les Wriggles](https://open.spotify.com/artist/0GtJweTzG1ECJ78loPQxzl) | [Ah bas ouais mais bon](https://open.spotify.com/album/3NDFDsdrcZxC3xYzBwweLw) | 1:48 |
 | 22 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 49 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 |
 | 50 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 
-Snapshot ID: `MCxhNzViYjUzOTJkMWM1NGRiY2Q5ZGMwMTNkZTY5YzJiYmUzYmZjOTY4`
+Snapshot ID: `MCw3ZTQ1ZTkyMmE1OGYyODVhMWY0YzViMzU2MmU4ZjEzYzZiZmMzMzM1`

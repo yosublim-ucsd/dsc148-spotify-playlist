@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Gonzy",
   "name": "PEGAO",
   "tracks": [
     {
@@ -6690,7 +6690,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158625,
       "name": "Movin' loko",
       "url": "https://open.spotify.com/track/6SMC0zf1HBVJuZwHTWexX1"
@@ -9788,6 +9788,24 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
+    },
+    {
+      "album": {
+        "name": "Tacos Gucci",
+        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tacos Gucci",
+      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
     },
     {
       "album": {

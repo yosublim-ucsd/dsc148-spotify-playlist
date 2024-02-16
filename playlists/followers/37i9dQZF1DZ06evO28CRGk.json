@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 384,
+  "2024-02-16": 384,
   "date_first_scraped": "2023-12-14",
   "description": "This is Marco Polo. The essential tracks, all in one playlist.",
   "name": "This Is Marco Polo",
@@ -769,6 +769,24 @@
       "duration_ms": 187800,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
+    },
+    {
+      "album": {
+        "name": "Port Authority: Instrumentals",
+        "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240081,
+      "name": "Hood Tales",
+      "url": "https://open.spotify.com/track/1DxkvpBgOKQpVYpNIajrvl"
     },
     {
       "album": {

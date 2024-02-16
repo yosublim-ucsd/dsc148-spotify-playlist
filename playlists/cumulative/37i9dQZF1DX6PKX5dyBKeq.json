@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: K-Trap",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish",
   "name": "Rap UK",
   "tracks": [
     {
@@ -524,6 +524,24 @@
       "duration_ms": 355103,
       "name": "2020 Wrap up, Pt.1",
       "url": "https://open.spotify.com/track/7rppe55MpAAW8EZwcp58r8"
+    },
+    {
+      "album": {
+        "name": "2089",
+        "url": "https://open.spotify.com/album/2AyEwRKdDEBDOgC6ZPfNfo"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "2089",
+      "url": "https://open.spotify.com/track/397lYGVTrCexKsTg8kSnvE"
     },
     {
       "album": {
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163555,
       "name": "Alarm Bells",
       "url": "https://open.spotify.com/track/7uaNVAg5qZubsXQeNZtSL9"
@@ -3089,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/5niMHtwj8tiOzWqn3hYIeT"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143916,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/6W5rO5aAoL9FYVN1wnnmmX"
+    },
+    {
+      "album": {
         "name": "Bad Guy (feat. Loski)",
         "url": "https://open.spotify.com/album/1lHttlzArtuCKOvxe12DN3"
       },
@@ -3556,7 +3592,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146666,
       "name": "Basically",
       "url": "https://open.spotify.com/track/11YH6pYrbxkGl8vjdKK2bK"
@@ -5649,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/7eUS2pFDEjhgd1E7RREd3A"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0RFOCmzJUIYipUwO1rujrm"
+    },
+    {
+      "album": {
         "name": "EDNA",
         "url": "https://open.spotify.com/album/066XCkY2VUxaJHf5g3tHJx"
       },
@@ -5832,7 +5886,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165618,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/6MXTjM7YiZUnd2FjPG8Q4h"
@@ -7210,7 +7264,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158552,
       "name": "Colder Than Ice",
       "url": "https://open.spotify.com/track/2qufnRZH35H617nBybNqyX"
@@ -12329,6 +12383,24 @@
     },
     {
       "album": {
+        "name": "French Tips",
+        "url": "https://open.spotify.com/album/7Mf5LhbdykNYBawotafmSP"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132976,
+      "name": "French Tips",
+      "url": "https://open.spotify.com/track/6ydEPFYftZ6q23eZkEuCMs"
+    },
+    {
+      "album": {
         "name": "Frenches",
         "url": "https://open.spotify.com/album/2GJsauhPIzgi871o1r1qK6"
       },
@@ -14757,6 +14829,28 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/0mLU1ZjVsFWxdKEmMvC7Oj"
+      },
+      "artists": [
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5ttoH1Eah6IHNGlclgCiyU"
+    },
+    {
+      "album": {
         "name": "Connecting Flights",
         "url": "https://open.spotify.com/album/5tDUiGLK95WpXpwUivYAOv"
       },
@@ -15169,6 +15263,24 @@
     },
     {
       "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/6hpyQ2dUVBY8f2g4GumI9w"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198429,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6KCYee1OzhVGlxwcUEyEiw"
+    },
+    {
+      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
@@ -15439,6 +15551,24 @@
     },
     {
       "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/1eQkw4ryuKuU5vQzZaVgja"
+      },
+      "artists": [
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135063,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/02TFifnyJGfFahV6SF1Y96"
+    },
+    {
+      "album": {
         "name": "Introvert",
         "url": "https://open.spotify.com/album/6yYwBmGqzEyCjQOzIbWPRh"
       },
@@ -15610,6 +15740,28 @@
       "duration_ms": 258750,
       "name": "It's LIT",
       "url": "https://open.spotify.com/track/4zRmESPENKfcbtGxrCDNsq"
+    },
+    {
+      "album": {
+        "name": "IT'S ONLY YOU",
+        "url": "https://open.spotify.com/album/62HQu8Qo6VfzQhMyuoRoYd"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Eben-Ezer",
+          "url": "https://open.spotify.com/artist/5BztywuaE9glEItjlAuNfJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148456,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/2HCVVmUd0OyuC7nHPj0Ee5"
     },
     {
       "album": {
@@ -17296,6 +17448,32 @@
       "duration_ms": 159031,
       "name": "Let\u2019s Go (feat. Aitch)",
       "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
+    },
+    {
+      "album": {
+        "name": "Level & Size",
+        "url": "https://open.spotify.com/album/1t1DvQXZQfiWChkSSZmOSi"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Queenie",
+          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Level & Size",
+      "url": "https://open.spotify.com/track/1VoxjPvbXaBmDbrA0C7sme"
     },
     {
       "album": {
@@ -19626,7 +19804,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171228,
       "name": "Money And Power",
       "url": "https://open.spotify.com/track/4KquoZ3Sl5Kv6TXn0Xwgtq"
@@ -21215,6 +21393,24 @@
     },
     {
       "album": {
+        "name": "NO HANDS",
+        "url": "https://open.spotify.com/album/1hqGOiYJDb1UaCb5UYNoEd"
+      },
+      "artists": [
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133069,
+      "name": "NO HANDS",
+      "url": "https://open.spotify.com/track/0rLRVibIjrOoi2j2SzRTuV"
+    },
+    {
+      "album": {
         "name": "No Heart",
         "url": "https://open.spotify.com/album/2LTn0SDxkfR0h3yRGzNEGp"
       },
@@ -21336,6 +21532,24 @@
       "duration_ms": 131125,
       "name": "No More Naija Men",
       "url": "https://open.spotify.com/track/1u3S0SK3ecQRW0tLndolro"
+    },
+    {
+      "album": {
+        "name": "No Peace, No Time",
+        "url": "https://open.spotify.com/album/7pGe7AEbeMjk4IaBjvyrB7"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "No Peace, No Time",
+      "url": "https://open.spotify.com/track/66Be4ATVoOu2JiyS2QFich"
     },
     {
       "album": {
@@ -23668,7 +23882,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 215624,
       "name": "Picture Me",
       "url": "https://open.spotify.com/track/3PSURco3LdwXQsm9smLpov"
@@ -23730,6 +23944,24 @@
       "duration_ms": 159388,
       "name": "Pink",
       "url": "https://open.spotify.com/track/0mr2jtjlU98ROn5V9XO1El"
+    },
+    {
+      "album": {
+        "name": "Pink Notes",
+        "url": "https://open.spotify.com/album/38oaBqmsWflOyX0Otdxejc"
+      },
+      "artists": [
+        {
+          "name": "DigDat",
+          "url": "https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175360,
+      "name": "Pink Notes",
+      "url": "https://open.spotify.com/track/2fm91v65aa2N5CCc2wOvHE"
     },
     {
       "album": {
@@ -27196,6 +27428,28 @@
       "duration_ms": 228196,
       "name": "Sex On The Moon",
       "url": "https://open.spotify.com/track/2ugfwl5uA96GujA44Kg0Xy"
+    },
+    {
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/1Jkf7g6nVVDqUxev11BWl6"
+      },
+      "artists": [
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Sexyy Red (feat. Headie One)",
+      "url": "https://open.spotify.com/track/0f5ZTJ6BcOEijnrR11edbr"
     },
     {
       "album": {

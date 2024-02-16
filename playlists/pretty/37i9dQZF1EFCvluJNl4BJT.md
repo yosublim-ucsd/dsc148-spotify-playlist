@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 34 | [Valentine's Day \(Shameful\)](https://open.spotify.com/track/6GCRnf1W9OKxok9fvNp3pz) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Valentine's Day \(Shameful\)](https://open.spotify.com/album/2x9hiwj8Rc9b2MoQ3FKWcY) | 4:51 |
 | 35 | [Favorite](https://open.spotify.com/track/0mYzFrdOZLnDCDdgjsnSjx) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:31 |
 | 36 | [Breaking Point](https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 4:53 |
-| 37 | [Hide & Freak](https://open.spotify.com/track/1ikIktDZJvfQFDOfPTIqAY) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 2:59 |
-| 38 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
+| 37 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
+| 38 | [Hide & Freak](https://open.spotify.com/track/1ikIktDZJvfQFDOfPTIqAY) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 2:59 |
 | 39 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
 | 40 | [Back It Up](https://open.spotify.com/track/04J9aoBIvtKSeDCvC6OEAk) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:34 |
 | 41 | [Remember Me](https://open.spotify.com/track/30LaZL46nu7DZlTtbhZCtv) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lost Planet 2.0](https://open.spotify.com/album/1jX4O08rNR67vVxiR66BS3) | 2:24 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 77 | [Hello How Are You](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 78 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `Mjg0NjYwNDAsMDAwMDAwMDAzNTI1NDI2OTRiMmY2N2U3MzRlOGFkNjY1NzBkZmQwNg==`
+Snapshot ID: `Mjg0Njc0ODAsMDAwMDAwMDA0MDQ5YTUwNTY3MDI1NDg0ZDA0ZTRjMWNhYWQyOTQ3YQ==`

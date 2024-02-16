@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,667 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,706 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 50 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 |
 | 51 | [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 |
 | 52 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
-| 53 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
-| 54 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
+| 53 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
+| 54 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
 | 55 | [All For You](https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [All For You](https://open.spotify.com/album/254Y0CD07dB40q84db89EB) | 3:22 |
 | 56 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 |
 | 57 | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Kay](https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT) | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC) | 4:26 |
 | 58 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
 | 59 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
 | 60 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 |
-| 61 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
-| 62 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
+| 61 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
+| 62 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 63 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
 | 64 | [Daga Da](https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [We'll Be Alright EP](https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61) | 3:48 |
 | 65 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Know What It Means](https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d) | 2:40 |
 | 75 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
 
-Snapshot ID: `MCw4MDNhYzZkODExYmZiOGM1ODYzMDI1N2VkMDc4NjQ5NjQ4ZmMwOTFm`
+Snapshot ID: `MCwxN2MzOGY0ZmNhN2YyOGMzNDJmNWUwN2VlNDc5OGYwYzY1ZTU3YWQ0`

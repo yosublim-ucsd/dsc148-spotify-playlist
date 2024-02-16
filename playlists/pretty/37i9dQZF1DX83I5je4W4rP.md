@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,952 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,960 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 48 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
 | 49 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
 | 50 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
-| 51 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
-| 52 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
+| 51 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
+| 52 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
 | 53 | [There I Go](https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [There I Go](https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI) | 3:22 |
 | 54 | [Lift Me Up](https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Super Moon](https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch) | 2:33 |
 | 55 | [Love Letter](https://open.spotify.com/track/6LrurNYfLGOgS88xzRBMn8) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/68xQqTEHLKaq5omYS3orsO) | 3:33 |
 | 56 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 |
-| 57 | [Bullet and a Target](https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [The Clarence Greenwood Recordings](https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr) | 4:23 |
-| 58 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
+| 57 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
+| 58 | [Bullet and a Target](https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [The Clarence Greenwood Recordings](https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr) | 4:23 |
 | 59 | [Goodbyes](https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Goodbyes](https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B) | 2:11 |
 | 60 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
 | 61 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 113 | [I Like the Way You Roll \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 2:23 |
 | 114 | [I Love](https://open.spotify.com/track/6NTslCcaF5Zq6QHRJbxEZ2) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Crazy Little Village](https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5) | 3:41 |
 | 115 | [All for You](https://open.spotify.com/track/4Yy6k6BnisqPKcMEJ1YmJI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [All for You](https://open.spotify.com/album/1HNGz1Ltvn2pM559lKcDyW) | 4:26 |
-| 116 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
-| 117 | [Message to the World](https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:44 |
+| 116 | [Message to the World](https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:44 |
+| 117 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
 | 118 | [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 |
 | 119 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 |
 | 120 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Create Something](https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Far From Forever](https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n) | 3:29 |
 | 125 | [Free Your Mind \(with Surfer Girl\)](https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:09 |
 
-Snapshot ID: `MCwxYTE4NWJlMzYzMzlhYjViNDFmN2QyODhjMTJmZTZmZTRhY2RlNDg0`
+Snapshot ID: `MCwzNmY3NjE2NThlMDRmMjA3NzIwMWEyNDQ1OWJlM2Q5OGYwYTRiM2I5`

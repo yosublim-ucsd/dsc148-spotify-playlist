@@ -1,12 +1,12 @@
 {
   "description": "bgl \u00e9 ser aut\u00eantico voc\u00eas j\u00e1 sabem. Foto: The Boy, LH CHUCRO",
-  "num_followers": 136595,
+  "num_followers": 136594,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2NkN2I0Y2Y1ODY3ZmQzNGFkZWUwMTljOTUzMWU4NzJlMmNlMmI3",
+  "snapshot_id": "MCxjMjdjMjU3OGZkYmY0MDNiMzc1ZWIwYjFjMzg2NDM2ZDUwNzgyN2Ez",
   "tracks": [
     {
       "added_at": "2024-02-09 17:42:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-09 17:42:21",
       "album": {
-        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 91890,
-      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
-    },
-    {
-      "added_at": "2024-02-09 17:42:21",
-      "album": {
         "name": "Doce Amargo",
         "url": "https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 137739,
       "name": "Doce Amargo",
       "url": "https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM"
+    },
+    {
+      "added_at": "2024-02-09 17:42:21",
+      "album": {
+        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 91890,
+      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
     },
     {
       "added_at": "2024-02-09 17:42:21",

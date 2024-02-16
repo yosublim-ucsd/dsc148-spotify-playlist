@@ -1,12 +1,12 @@
 {
   "description": "Baila como en la \u00e9poca de los autos, moda y rocanrol.",
-  "num_followers": 438006,
+  "num_followers": 438038,
   "original_name": "Fiesta 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWE3YTliYjY1ODA3YWFiZDZhZjQ0ZGQ3NDRmMjgzMzE0YzJjMDJm",
+  "snapshot_id": "MCw0NTA2OGUyNDJjNmU4YWMwNjE2ZDhkMDk4YWViZDI2N2IzYzM5ZDhi",
   "tracks": [
     {
       "added_at": "2018-12-09 15:53:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2018-12-09 15:53:33",
       "album": {
-        "name": "Ana, Jos\u00e9, Nacho",
-        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
-    },
-    {
-      "added_at": "2018-12-09 15:53:33",
-      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 209573,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
+    },
+    {
+      "added_at": "2018-12-09 15:53:33",
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/0LDQpQYKdqjOHjkxLkWAoO"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 153173,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/3EvQORwO3na9m9nPKK403y"
     },
     {
       "added_at": "2018-12-09 15:53:33",

@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-237 songs - 14 hr 3 min
+238 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [drowning](https://open.spotify.com/track/3r56YqTq616bQvdBMHU6WE) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/4RIdbEZCQyK0aPh2YTbJIX) | 1:57 | 2023-02-27 | 2023-02-28 |
 | [Dustism](https://open.spotify.com/track/2OsmOTariM8whWzvPsPAeK) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7JbUvdIr1yepIxZy9rt3un) | 6:19 | 2019-12-16 | 2022-07-29 |
 | [Dustism](https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7i1Q1gcCd5o8CBV1Uivhuu) | 6:19 | 2019-12-16 | 2022-09-01 |
+| [Escape](https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ) | 4:40 | 2023-11-29 |  |
 | [Escape](https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER) | [Lord Belphegor](https://open.spotify.com/artist/7Ihaz9qzDaF2OtnBkdpbll) | [Escape](https://open.spotify.com/album/2LjePrIEdfjjqQvxlxidUJ) | 4:37 | 2023-11-29 | 2024-02-10 |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2019-12-16 | 2022-09-01 |
 | [Eyesdown](https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 5:26 | 2019-12-16 | 2022-09-01 |
@@ -212,7 +213,7 @@
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2019-12-16 | 2022-09-01 |
 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 | 2023-09-08 |  |
 | [the lonely tree \(slowed\)](https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [the lonely tree](https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe) | 2:45 | 2023-11-29 | 2024-02-01 |
-| [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 |  |
+| [The Lonely Tree Corecore Depressed](https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap) | [Leox](https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r) | [The Lonely Tree Corecore Depressed](https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd) | 1:22 | 2023-11-29 | 2024-02-16 |
 | [The Long Spring](https://open.spotify.com/track/1pRSp8bfk0kruIwrINVZ3u) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You \(Anniversary Compilation\)](https://open.spotify.com/album/5sVNhFHuw3979uDE6QHBXS) | 5:34 | 2019-12-16 | 2022-07-29 |
 | [The Long Spring](https://open.spotify.com/track/5IXJMEnetYlvXhCykA4SHk) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You](https://open.spotify.com/album/0lsemTnF3BwhU1ISBeyrOc) | 5:34 | 2019-12-16 | 2022-09-01 |
 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2022-08-31 | 2022-10-06 |

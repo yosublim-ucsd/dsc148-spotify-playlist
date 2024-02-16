@@ -2,23 +2,23 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Charlotte Cardin
+> La pop française annonce la couleur\. Photo : Johnny Jane
 
-134 songs - 6 hr 39 min
+136 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 X](https://open.spotify.com/track/3OsfDyci8C9BM6ieOwq90J) | [Marvett](https://open.spotify.com/artist/42iyhvRFx8xgVhWJEN8w1s), [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [100 X](https://open.spotify.com/album/14UfWGhfbjgKBlOqk8y0HJ) | 3:07 | 2023-07-27 | 2024-02-09 |
 | [4X](https://open.spotify.com/track/6iHOulbi3AwYe9Wgy8eCMf) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [4X](https://open.spotify.com/album/5KbxXq1LFsXuLG8zisC6Fj) | 3:34 | 2023-07-27 | 2023-10-20 |
 | [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 | 2023-09-07 |  |
-| [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 | 2023-07-27 |  |
+| [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 | 2023-07-27 | 2024-02-16 |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-07-27 | 2024-01-19 |
 | [Albert](https://open.spotify.com/track/2cFoPkVgux9RqiqLV23yu2) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Albert](https://open.spotify.com/album/6Acj3MqHBGWSc9BtNgTGyN) | 2:50 | 2023-12-14 | 2024-02-09 |
 | [Allô Maman](https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Allô Maman](https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO) | 2:40 | 2024-02-08 |  |
 | [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 | 2023-07-27 | 2023-09-13 |
 | [Amour de vacances](https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Amour de vacances](https://open.spotify.com/album/2N1i1A3vPHEZPxtotd7LLe) | 2:51 | 2023-09-07 | 2023-10-06 |
 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 | 2023-10-19 | 2024-02-09 |
-| [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 | 2024-01-18 |  |
+| [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 | 2024-01-18 | 2024-02-16 |
 | [Baiser Amer](https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Baiser Amer](https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK) | 2:37 | 2023-09-07 | 2023-10-13 |
 | [bbtumadores](https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [bbtumadores](https://open.spotify.com/album/4WmnQJL9ALfQOetoBXUpdZ) | 2:40 | 2024-02-01 |  |
 | [Belle et douce](https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Mémoire d'un Été](https://open.spotify.com/album/59xVZaODpDUf84OtD7QwYJ) | 2:57 | 2023-12-21 |  |
@@ -73,6 +73,7 @@
 | [Julia](https://open.spotify.com/track/7M45CXpMcsjxAVZxqpmzrH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 2:53 | 2023-10-12 | 2024-01-26 |
 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 | 2023-10-05 |  |
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-07-27 | 2023-09-22 |
+| [L'Atlantique](https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [L'Atlantique](https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W) | 2:46 | 2024-02-15 |  |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-11-25 |
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 | 2024-01-19 |
@@ -105,6 +106,7 @@
 | [Pluie Violette](https://open.spotify.com/track/6lu9B5zAGzdwly5UfY7BFD) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Pluie Violette](https://open.spotify.com/album/1FvgPkOyVI2RPQYME5P1Ho) | 3:36 | 2023-09-14 | 2024-01-05 |
 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 | 2023-09-28 |  |
 | [Plus de sens](https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:29 | 2023-07-27 | 2024-01-19 |
+| [Plus rien à perdre](https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plus rien à perdre](https://open.spotify.com/album/6VVCYq9xfB0G5aiie7NBAN) | 2:48 | 2024-02-15 |  |
 | [Populaire](https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Populaire](https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE) | 3:21 | 2023-09-21 |  |
 | [Pura Vida](https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:43 | 2023-07-27 | 2023-09-15 |
 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 | 2023-12-14 |  |

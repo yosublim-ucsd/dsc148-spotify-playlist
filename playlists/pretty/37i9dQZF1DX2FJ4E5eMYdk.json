@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 158964,
+  "num_followers": 158982,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTI3Y2EzZjE3NWM3NWE4ZWM2NDEyN2ZiZGExMmE3ZmQ1NTc4ZDhj",
+  "snapshot_id": "MCw5NzA1OWZhZjdhYzI1MWIwOTFkNTNlNjg3M2Q5ZjM1NGMyMjI1ZWZi",
   "tracks": [
     {
       "added_at": "2023-12-12 16:46:04",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -787,22 +803,6 @@
       "duration_ms": 266946,
       "name": "Seaquest",
       "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2023-12-12 16:46:04",

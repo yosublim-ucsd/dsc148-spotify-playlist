@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LIM KIM(\uae40\uc608\ub9bc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Sagong(\uc0ac\uacf5)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
@@ -10002,7 +10002,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146823,
       "name": "ULT",
       "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
@@ -10490,7 +10490,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 202666,
       "name": "What Can I Say? (Feat. SHIRT, g0nny)",
       "url": "https://open.spotify.com/track/35LCy2za77nFY0kIXrSJsd"
@@ -11540,6 +11540,24 @@
       "duration_ms": 200333,
       "name": "\ubc29\ub791\uc790",
       "url": "https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AyTlFtrzM1uD9d5xmQQiJ"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "\ubc84\ub4dc\ub098\ubb34 Willow tree",
+      "url": "https://open.spotify.com/track/3uIAjCpqwBgqKiPas8HdRl"
     },
     {
       "album": {

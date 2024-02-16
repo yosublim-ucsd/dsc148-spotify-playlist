@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 16958,
+  "num_followers": 16996,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDE3MDAzNTUwOWQ4NzgwNDYwY2YxNmIzODc2ZjQzNTc1YWMzN2E0",
+  "snapshot_id": "MCxiNzc3YzEyNzQ0ZWM5YWI5YTBmMTk1ZTI2ZDRlYjQwZjlmNzQzM2Fk",
   "tracks": [
     {
       "added_at": "2023-11-09 00:38:36",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "QU\u00c9 ROLLITO PRIMAVERA",
         "url": "https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 192266,
       "name": "QU\u00c9 ROLLITO PRIMAVERA",
       "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -439,26 +439,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Y Yo Me Le Pego",
-        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 172806,
-      "name": "Y Yo Me Le Pego",
-      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -479,18 +471,26 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
         }
       ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "Hansel & Raul 33",
+        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 348600,
+      "name": "Ella Feat. Luis Enrique",
+      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 275893,
       "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
       "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Hansel & Raul 33",
-        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 348600,
-      "name": "Ella Feat. Luis Enrique",
-      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 310973,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+        "name": "Sin Escencia",
+        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
       },
       "artists": [
         {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
         }
       ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+      "duration_ms": 195960,
+      "name": "Sin Escencia",
+      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Sin Escencia",
-        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
+        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
       "artists": [
         {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+          "name": "Grupo Polo Monta\u00f1es",
+          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
         }
       ],
-      "duration_ms": 195960,
-      "name": "Sin Escencia",
-      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
+      "duration_ms": 278613,
+      "name": "Un Sue\u00f1o Y Nada Mas",
+      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1583,22 +1599,6 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
-        "name": "Un Sue\u00f1o Y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Polo Monta\u00f1es",
-          "url": "https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Un Sue\u00f1o Y Nada Mas",
-      "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 299960,
       "name": "Tu Me Quemas",
       "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Quien Entiende Este Amor",
-      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "96 - 05",
         "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 131039,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Quien Entiende Este Amor",
+      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 267416,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Fantasma El\u00e9ctrico",
         "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 200063,
       "name": "Quien Te Cantara",
       "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
+      },
+      "artists": [
+        {
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+        }
+      ],
+      "duration_ms": 267416,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2311,30 +2311,6 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
-    },
-    {
-      "added_at": "2023-11-09 00:38:36",
-      "album": {
         "name": "Locos y Rucas In Retro",
         "url": "https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH"
       },
@@ -2347,6 +2323,22 @@
       "duration_ms": 248093,
       "name": "Sol de Medianoche",
       "url": "https://open.spotify.com/track/7sRYqqUGrmHsM9X8XX8h2G"
+    },
+    {
+      "added_at": "2023-11-09 00:38:36",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2023-11-09 00:38:36",
@@ -2367,18 +2359,26 @@
     {
       "added_at": "2023-11-09 00:38:36",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
     },
     {
       "added_at": "2023-11-09 00:38:36",

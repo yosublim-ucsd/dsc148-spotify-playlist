@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 157522,
+  "num_followers": 157554,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2I4ZDhkN2I5NGZjMzJkYzEzNWJjOTVkNjAxYmM2OTdiYjBlMDBl",
+  "snapshot_id": "MCw0MTQwMTVlMDI0N2IxNDhiNTY1NzU2MzBlZmRhMDlkY2FmNTM4ZjJh",
   "tracks": [
     {
       "added_at": "2024-02-12 08:21:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204400,
       "name": "Sorry - Original Demo",
       "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Based On A Feeling",
-        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215117,
-      "name": "Better Version",
-      "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
         "name": "Chilly",
         "url": "https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 230000,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
+        "name": "Based On A Feeling",
+        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215117,
+      "name": "Better Version",
+      "url": "https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 155845,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
         "name": "((( 2 )))",
         "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "daydreams",
-      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
         "name": "roundabout",
         "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 220346,
       "name": "Firebabe",
       "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2024-02-12 08:21:00",
-      "album": {
         "name": "at least i look cool",
         "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 171695,
       "name": "at least i look cool",
       "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
+    },
+    {
+      "added_at": "2024-02-12 08:21:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2024-02-12 08:21:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-02-12 08:21:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
+      "duration_ms": 157906,
+      "name": "Be On My Way (Full)",
+      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

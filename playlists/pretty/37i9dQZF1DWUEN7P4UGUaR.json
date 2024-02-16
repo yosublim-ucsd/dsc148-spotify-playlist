@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 8668,
+  "num_followers": 8683,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjdhZDU1MGNhYTkwMTY3MDBhMDA4ZDI4YTMxZDI4ZThhZjg4MjU5",
+  "snapshot_id": "MCxlYzQ1MjhiN2QzM2FkMTg0MmNlYjZlNWNiMzVlZmEzMTZjOGRkMzM0",
   "tracks": [
     {
       "added_at": "2024-02-08 16:31:21",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Mile (I Know)",
-        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
-      },
-      "artists": [
-        {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
-        }
-      ],
-      "duration_ms": 342685,
-      "name": "Mile (I Know)",
-      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
         "name": "Ghana Local Praise Medley",
         "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
+        "name": "Mile (I Know)",
+        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
+      },
+      "artists": [
+        {
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
+        }
+      ],
+      "duration_ms": 342685,
+      "name": "Mile (I Know)",
+      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
-        "name": "Zamar Worship",
-        "url": "https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H"
+        "name": "Victory Chant",
+        "url": "https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH"
       },
       "artists": [
         {
-          "name": "Godee",
-          "url": "https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 751784,
-      "name": "Zamar Worship",
-      "url": "https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT"
+      "duration_ms": 292545,
+      "name": "Victory Chant",
+      "url": "https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB"
     },
     {
       "added_at": "2024-02-08 16:31:21",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-02-08 16:31:21",
       "album": {
+        "name": "Zamar Worship",
+        "url": "https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H"
+      },
+      "artists": [
+        {
+          "name": "Godee",
+          "url": "https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB"
+        }
+      ],
+      "duration_ms": 751784,
+      "name": "Zamar Worship",
+      "url": "https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT"
+    },
+    {
+      "added_at": "2024-02-08 16:31:21",
+      "album": {
         "name": "MOVE VOL 1",
         "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 433646,
       "name": "Glory Chants",
       "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
-    },
-    {
-      "added_at": "2024-02-08 16:31:21",
-      "album": {
-        "name": "Victory Chant",
-        "url": "https://open.spotify.com/album/4sOw1diNTuAixNZLNafmXH"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 292545,
-      "name": "Victory Chant",
-      "url": "https://open.spotify.com/track/5NVaZm3jsXN7F678HPbPtB"
     },
     {
       "added_at": "2024-02-08 16:31:21",

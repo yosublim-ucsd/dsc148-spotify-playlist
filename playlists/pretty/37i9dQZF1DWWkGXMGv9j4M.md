@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,689 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,684 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 88 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
 | 89 | [Identical \- From The Motion Picture "On The Rocks"](https://open.spotify.com/track/6l7qZn84h3O7wKJu8bDLdt) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Identical \(From The Motion Picture "On The Rocks"\)](https://open.spotify.com/album/2G4yedtDAQiRkjxxQxQMGp) | 3:13 |
 | 90 | [alley\-oop](https://open.spotify.com/track/6IERGfMBe3csfANIuQ74D9) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [How Do You Feel About Getting Married?](https://open.spotify.com/album/2Ff38vAray2gR1xfw8z12S) | 2:53 |
-| 91 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
+| 91 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2Ewaozo7Oe2XAI3sDlBvDk) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/5cEVsl5FHxCB6mpyVKpoNP) | 4:16 |
 | 92 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 |
 | 93 | [All My Dogs](https://open.spotify.com/track/72l2v2PLx6dh0xgAfpu57S) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/5ZkmPYypvQicKYGCoOdkzx) | 2:52 |
 | 94 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 99 | [Loner](https://open.spotify.com/track/6ELEjTrMflbYVxguHiukjk) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:12 |
 | 100 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 
-Snapshot ID: `MCxhMjdiMWU4ZjFhZDQ2NjI4OWY0NmE4ZjM4M2QzYzA2ZmQyYTQ0MzQ5`
+Snapshot ID: `MCwxYjZkYjE1ZWNhYWNmMzdhMTE2ZWMxNTBhZjBiMGFiYzg5Y2Y3MzVl`

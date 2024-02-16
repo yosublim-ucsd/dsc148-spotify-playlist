@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 17935,
+  "num_followers": 17942,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzU3NzQ2N2RlNjQxZjZhOGM0NWQ1ZDMyMDUxNzQzZTYxMDMwYzM2",
+  "snapshot_id": "MCw1YjM2NzQ5ZWJkODUwOTE1ZDAwZmQ3NzRiNGE3OTQ2NWYxOWM2ZWI2",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 256401,
+      "name": "Sick Times",
+      "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Between No Things",
         "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 235717,
       "name": "On Plateau",
       "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 256401,
-      "name": "Sick Times",
-      "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -583,6 +583,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 245927,
+      "name": "Palace Posy",
+      "url": "https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Vernal Equinox (Remastered)",
         "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "SUNDAYS",
-        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
-      },
-      "artists": [
-        {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "I've Got What I Need",
-      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -659,34 +659,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+        "name": "SUNDAYS",
+        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
       },
       "artists": [
         {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
         }
       ],
-      "duration_ms": 370476,
-      "name": "Water Soaked In Forever",
-      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 245927,
-      "name": "Palace Posy",
-      "url": "https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi"
+      "duration_ms": 294000,
+      "name": "I've Got What I Need",
+      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -703,6 +687,22 @@
       "duration_ms": 210000,
       "name": "Touch me & die",
       "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 370476,
+      "name": "Water Soaked In Forever",
+      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
     },
     {
       "added_at": "2022-03-30 02:52:41",
@@ -741,20 +741,24 @@
       "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
     },
     {
-      "added_at": "2023-06-07 02:20:45",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Intrapersonal Experience",
-        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
       "artists": [
         {
-          "name": "Saphileaum",
-          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -777,24 +781,20 @@
       "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2023-06-07 02:20:45",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+        "name": "Intrapersonal Experience",
+        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Motion Graphics",
-          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+          "name": "Saphileaum",
+          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Terrazzo",
-      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+      "duration_ms": 336000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Rio Nilo 66",
+        "url": "https://open.spotify.com/album/5eTPgrJAq4Bbpq48vJ6l3P"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Ethan Braun",
+          "url": "https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi"
+        }
+      ],
+      "duration_ms": 491371,
+      "name": "1/2 SCULPTURE",
+      "url": "https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Whisper Fold Brush",
         "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
@@ -1131,22 +1151,6 @@
       "duration_ms": 1190161,
       "name": "Whisper Fold Brush, Pt. One",
       "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Path of the Metal Turtle",
-        "url": "https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o"
-      },
-      "artists": [
-        {
-          "name": "David Kuckhermann",
-          "url": "https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c"
-        }
-      ],
-      "duration_ms": 375177,
-      "name": "Paper Marble",
-      "url": "https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo"
     },
     {
       "added_at": "2022-03-17 01:20:50",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Rio Nilo 66",
-        "url": "https://open.spotify.com/album/5eTPgrJAq4Bbpq48vJ6l3P"
+        "name": "The Path of the Metal Turtle",
+        "url": "https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o"
       },
       "artists": [
         {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Ethan Braun",
-          "url": "https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi"
+          "name": "David Kuckhermann",
+          "url": "https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c"
         }
       ],
-      "duration_ms": 491371,
-      "name": "1/2 SCULPTURE",
-      "url": "https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al"
+      "duration_ms": 375177,
+      "name": "Paper Marble",
+      "url": "https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo"
     },
     {
       "added_at": "2021-10-20 18:30:26",

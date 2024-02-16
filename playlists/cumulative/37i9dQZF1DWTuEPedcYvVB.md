@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-88 songs - 4 hr 53 min
+89 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Makossa Riddim](https://open.spotify.com/track/2uPAh4fNzCxOG3zHrN4yuU) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:02 | 2023-09-07 |  |
 | [Mañana](https://open.spotify.com/track/1VNqecx3k8nGWaCorq2QNZ) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina](https://open.spotify.com/album/02G4K8LFZciEEnmqFNtZcG) | 3:40 | 2022-04-14 |  |
 | [Mañana \- 2019 \- Remaster](https://open.spotify.com/track/5wCaEg0F5IvtSZbFD2ze1l) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina \(2019 \- Remaster\)](https://open.spotify.com/album/1iuAGJEfdOw0klUssxJl4m) | 3:41 | 2022-04-14 | 2023-05-15 |
-| [Mind Language](https://open.spotify.com/track/0bhgM7IMDlahsStqhnWDg8) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/39k2cP8J29LlgyaUFvVbU2) | 2:57 | 2022-04-14 |  |
+| [Mind Language](https://open.spotify.com/track/0bhgM7IMDlahsStqhnWDg8) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/39k2cP8J29LlgyaUFvVbU2) | 2:57 | 2022-04-14 | 2024-02-16 |
 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 | 2022-04-14 | 2023-06-04 |
+| [Mind Language](https://open.spotify.com/track/5GrbzanGZI1JsDnhv3ICkb) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/3ySQo0wjYVlj9kcF5GcfcV) | 2:57 | 2023-09-07 |  |
 | [Mind Your Own Business \(2022 Remaster\)](https://open.spotify.com/track/3Ylt5ZdxNBhhHgpDIbexD1) | [Henry McCullough](https://open.spotify.com/artist/0sGQZQz9UbEkvrLtFb7IUn) | [Mind Your Own Business! \(2022 Remaster\)](https://open.spotify.com/album/0a9w2vGd1vigBCOpuZgIYe) | 3:57 | 2023-09-07 |  |
 | [Mind Your Own Business \- 2022 Remaster](https://open.spotify.com/track/5LDPO7ZTCBhmvmiawRPywp) | [Henry McCullough](https://open.spotify.com/artist/0sGQZQz9UbEkvrLtFb7IUn) | [Mind Your Own Business! \(2022 Remaster\)](https://open.spotify.com/album/2KkznDEzzfIR3Xx5RuUmlb) | 3:57 | 2023-09-07 | 2023-11-04 |
 | [Moment](https://open.spotify.com/track/5TpDEu4GCYzGeYIKh1dcPB) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2) | [Moment](https://open.spotify.com/album/78ZPtJ6ZYyXTPYrDWcsvJN) | 2:24 | 2023-09-07 |  |

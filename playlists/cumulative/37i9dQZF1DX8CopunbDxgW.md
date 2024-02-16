@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Lemaitre
 
-1,146 songs - 3 day 0 hr 59 min
+1,147 songs - 3 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,7 +997,8 @@
 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 | 2022-09-17 | 2022-10-06 |
 | [The Daisy](https://open.spotify.com/track/0aegbRrg4oVF2kSMZwmnq8) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:38 | 2022-09-17 | 2022-10-06 |
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2022-06-29 |
-| [The Danger](https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/432bdHnwL1efoKDkSdROUz) | 2:27 | 2024-02-09 |  |
+| [The Danger](https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/432bdHnwL1efoKDkSdROUz) | 2:27 | 2024-02-09 | 2024-02-16 |
+| [The Danger](https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/7FK9DwGJvYlLuT78hXgcer) | 2:27 | 2024-02-09 |  |
 | [The Darkness That You Fear](https://open.spotify.com/track/3ThyabVE3e9yXPWHgjTWYk) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [The Darkness That You Fear](https://open.spotify.com/album/1a5BNjOnwTsdLiLvOXuWJ7) | 6:05 | 2022-09-17 | 2022-10-06 |
 | [The Darkness That You Fear \- Edit](https://open.spotify.com/track/5W4cALNimK9sWuu3gFcYFE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [The Darkness That You Fear](https://open.spotify.com/album/52kKJRnz58Nd6RB5uWmg8a) | 3:57 | 2021-04-23 | 2022-04-21 |
 | [The Destroyer](https://open.spotify.com/track/4Bdb6aNzVMvUlVKpufXG3T) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [The Destroyer](https://open.spotify.com/album/3HRVpNI7exOVCubVGPvjN9) | 3:12 | 2022-08-05 | 2022-09-10 |

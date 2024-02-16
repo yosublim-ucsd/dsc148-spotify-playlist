@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:3CJKkU0XuElRT1z8rEtIYg">Luciano</a> 🇲🇿 & <a href="spotify:artist:5yOvAmpIR7hVxiS6Ls5DPO">Omah Lay</a> 🇳🇬
 
-795 songs - 1 day 16 hr 6 min
+796 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-05-27 | 2023-04-29 |
 | [Amp It Up](https://open.spotify.com/track/7t39GSotkidFbLQuhsdx9W) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Amp It Up](https://open.spotify.com/album/14eQSyXK3ldf3P2ovyOT1M) | 2:23 | 2023-07-07 | 2023-09-02 |
 | [Angela \- Remix](https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Angela \(Remix\)](https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58) | 3:16 | 2023-03-24 | 2023-05-06 |
-| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 |  |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-02-16 |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-09 |  |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-05-27 | 2022-09-24 |
 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-28 | 2023-09-09 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |

@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: USHER
 
-337 songs - 18 hr 14 min
+339 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 | 2023-04-13 | 2023-08-04 |
 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 | 2023-07-13 | 2023-09-01 |
 | [Dogs](https://open.spotify.com/track/67fHrvOz4MAJmz4wKU15QS) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Dogs](https://open.spotify.com/album/4zLLgKrOpa9jBLHisjLfsy) | 2:21 | 2024-01-18 |  |
-| [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 | 2023-08-31 |  |
+| [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 | 2023-08-31 | 2024-02-16 |
 | [Don't Give It Away \(with Chris Brown\)](https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Don't Give It Away](https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA) | 3:26 | 2023-06-01 | 2023-09-01 |
 | [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-16 | 2023-05-26 |
 | [Don't Lie \(feat\. Kuami Eugene\)](https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Just to Piss You Off](https://open.spotify.com/album/0XNCCyLb6fd11oeufnTI8Q) | 2:50 | 2023-03-23 | 2023-03-31 |
@@ -104,6 +104,7 @@
 | [Golden Child](https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Golden Child](https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa) | 4:03 | 2023-11-09 | 2023-12-01 |
 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-03 | 2024-02-09 |
 | [Good to me](https://open.spotify.com/track/4mRJhOrI0AVjGwVVckvxgj) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Good to me](https://open.spotify.com/album/1IzjQzQU5N1mmZE563Rr8j) | 2:50 | 2024-02-08 |  |
+| [Good To You](https://open.spotify.com/track/6MCNttjmvWPu35S66FdlBO) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Good To You](https://open.spotify.com/album/3diO45AmnzAWU8IpIdkb8o) | 3:27 | 2024-02-15 |  |
 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 | 2023-11-30 | 2024-01-12 |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 | 2023-06-02 |
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 | 2023-09-08 |
@@ -217,6 +218,7 @@
 | [Only Smoke Trees](https://open.spotify.com/track/6bEv0vL5JtojFMSarCcX3j) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Only Smoke Trees](https://open.spotify.com/album/4CW2KrsXXzxlb4R8uSiZ3x) | 1:37 | 2023-04-20 | 2023-05-12 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:29 | 2023-04-20 | 2023-06-02 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-20 | 2023-04-25 |
+| [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-15 |  |
 | [Our Destination](https://open.spotify.com/track/4bA0WPhGGbbAHNz0DRPg0H) | [Tomoko Nia](https://open.spotify.com/artist/3KsYG0LJISq8jaL3ckUXeo) | [Our Destination](https://open.spotify.com/album/7rqsSXssi9xlffxuxR7CEg) | 3:50 | 2024-01-25 |  |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-07 | 2024-01-19 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-23 | 2023-04-07 |
@@ -246,7 +248,7 @@
 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 |  |
 | [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-20 | 2023-05-13 |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-05-04 |  |
-| [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-09-21 |  |
+| [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-09-21 | 2024-02-16 |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-01-25 |  |
 | [Seven Days a Week](https://open.spotify.com/track/4CN5709m2aZmUKak1of5AV) | [Ai Ninomiya](https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8) | [Seven Days a Week](https://open.spotify.com/album/2k899IKbxRu66ysrb8lYpa) | 2:30 | 2023-07-20 |  |
 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2023-06-08 | 2023-10-27 |

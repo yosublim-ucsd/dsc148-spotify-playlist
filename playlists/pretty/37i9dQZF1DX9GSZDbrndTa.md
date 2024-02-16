@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,627 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,719 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 |
 | 50 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
 
-Snapshot ID: `MCw2MjU0M2Y1YTA5ZDJiMDQ5NzhlNWM4ZmFkMmI5ZWRhMDMwMzVjMjI5`
+Snapshot ID: `MCxhYWIzMGFiZTFlNWZjYmIwMWM5YzBlNzM4YmQ4MWEyOWJmZmMwNmNm`

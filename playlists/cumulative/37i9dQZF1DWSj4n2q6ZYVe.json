@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/31YXEro2hGtx3uTJD3OjlO"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Infinity - Magic Mitch Club Mix",
+      "url": "https://open.spotify.com/track/0NFBBnJO8D7oA6suYD2WKD"
+    },
+    {
+      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 145764,
       "name": "Riverside - Radio Mix",
       "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"

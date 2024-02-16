@@ -273,6 +273,32 @@
     },
     {
       "album": {
+        "name": "Freedom Now",
+        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        },
+        {
+          "name": "Golshifteh Farahani",
+          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224996,
+      "name": "Freedom Now",
+      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
+    },
+    {
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-435 songs - 1 day 2 hr 55 min
+436 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-04-29 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-01-21 | 2022-07-29 |
 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-02 |  |
-| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 |  |
+| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 | 2024-02-16 |
 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-05-26 |  |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 | 2023-04-29 |
 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 | 2023-04-14 | 2023-07-29 |
@@ -283,7 +283,7 @@
 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 | 2023-08-18 |  |
 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2022-01-21 | 2023-08-19 |
 | [One More Hour](https://open.spotify.com/track/09XOlLHpRhRSuI1plPFFuc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:43 | 2022-01-21 | 2022-07-29 |
-| [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 | 2024-01-20 |
+| [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 |  |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-04-14 |  |
 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 | 2022-01-21 | 2022-11-13 |
 | [Own](https://open.spotify.com/track/3p7pOrxCAt2obpQ7WNa0VM) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Own](https://open.spotify.com/album/4XC9aKl4vpKP9vSZcyt1MV) | 4:59 | 2023-05-12 | 2023-07-18 |
@@ -358,6 +358,7 @@
 | [stoned](https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 | 2022-04-29 | 2023-03-13 |
 | [Stranger](https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Stranger](https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA) | 2:48 | 2022-04-13 | 2023-05-08 |
 | [Strawberry Moon](https://open.spotify.com/track/7uhoXJBlpGvAXNQGpMubNY) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Strawberry Moon](https://open.spotify.com/album/0UXt9viFjPIwAYmPNcikiP) | 3:06 | 2023-02-24 | 2023-06-14 |
+| [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 | 2024-02-09 |  |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2022-01-21 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-04-29 | 2023-04-30 |
 | [Sucker](https://open.spotify.com/track/5Fj6VahostTvV1J2TMYLyS) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0ofgTu4mwAvYoLalhMJLKr) | 4:43 | 2023-06-16 | 2023-07-26 |
@@ -390,7 +391,7 @@
 | [This Is A Photograph](https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 3:30 | 2022-04-29 |  |
 | [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-04-13 | 2022-07-29 |
 | [Thompson's Station](https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Thompson's Station](https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV) | 3:24 | 2023-05-26 | 2023-11-16 |
-| [three](https://open.spotify.com/track/2iKGx8uxu8u5M5TubFLmno) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [starsdust](https://open.spotify.com/album/5JJAuAnYaYqnmcTXnmyKuZ) | 2:20 | 2024-02-02 |  |
+| [three](https://open.spotify.com/track/2iKGx8uxu8u5M5TubFLmno) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [starsdust](https://open.spotify.com/album/5JJAuAnYaYqnmcTXnmyKuZ) | 2:20 | 2024-02-02 | 2024-02-16 |
 | [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 | 2024-01-06 |
 | [Till The Moon Don't Shine \- Cover](https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Till The Moon Don't Shine](https://open.spotify.com/album/0pD1d9bNZTOG2glLcdXlhH) | 2:29 | 2022-04-29 | 2022-11-13 |
 | [Time Ain't Accidental](https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:27 | 2023-06-09 | 2024-01-06 |

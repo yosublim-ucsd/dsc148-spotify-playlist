@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,361 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,395 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 6 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 | 7 | [ANOTHER ONE](https://open.spotify.com/track/4nEHOtszoQ45ukw2FmOh5h) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [ANOTHER ONE](https://open.spotify.com/album/4XJZlRRzOVMZC3egiIQLCL) | 2:57 |
 | 8 | [Ghetto Barbie](https://open.spotify.com/track/5q4AyMRaXeAZ61ns0moZg6) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Fenix Flexin Vol\. 3](https://open.spotify.com/album/1ZefxpDa6v1nUij91wY62w) | 2:14 |
-| 9 | [Just A Fuck \(Funds\)](https://open.spotify.com/track/2jSLFFloIAHFyqAgp1RRl0) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Just A Fuck \(Funds\)](https://open.spotify.com/album/33hgZtMBY7CGTCBlm3zM7a) | 2:19 |
+| 9 | [Just A Fuck \(Funds\)](https://open.spotify.com/track/2jSLFFloIAHFyqAgp1RRl0) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Just A Fuck \(Funds\)](https://open.spotify.com/album/33hgZtMBY7CGTCBlm3zM7a) | 2:37 |
 | 10 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 |
 | 11 | [AIN’T NOTHIN](https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [NOT HARD 2 UNDERSTAND](https://open.spotify.com/album/1YE3OeReW3UQjBvW3L2eYw) | 3:22 |
 | 12 | [Frankie Lymon](https://open.spotify.com/track/5Q9Zo2ZYzvwfWLUkMfuweO) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [Slow Motion Better Than No Motion](https://open.spotify.com/album/0Q17yQWOBy2md8shpSdllX) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 79 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 | 80 | [booted](https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [booted](https://open.spotify.com/album/3k6sGgGBxqBV1THjRKgBtD) | 2:18 |
 
-Snapshot ID: `MCw4ZGQ1YTI1ZGYyNmNkMDE5Yzc4ZjgwYzdkNDcyNGFmYmViNjAyYzRi`
+Snapshot ID: `MCxhZDQ1YTQ0OGE4OWYxZDM2MTFlYWY2ZDNkMzQyNDBkZWFlMGZiNjdi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-02",
-  "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax. ",
+  "description": "Aquelas pra come\u00e7ar o dia de alma leve",
   "name": "Manh\u00e3 Relax",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Jardineira",
+        "url": "https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB"
+      },
+      "artists": [
+        {
+          "name": "GA\u00ca",
+          "url": "https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Jardineira",
+      "url": "https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Lisboa",
         "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163240,
       "name": "Mela\u00e7o",
       "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"

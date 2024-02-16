@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una speciale selezione jazz natalizia! 🎄 A cura di <a href="spotify:artist:2qW0CNnmvdEQwiabdareHi">Paolo Fresu</a>! 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,420 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,419 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 18 | [Jingle Bells](https://open.spotify.com/track/6jzofmhnBuJI26GX7bp2fK) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:14 |
 | 19 | [Old Fashion Christmas](https://open.spotify.com/track/1xCzlvjrhpOkzqr8OyxK5U) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Christmas Song Book](https://open.spotify.com/album/3FAlvXnq7NbIeCrSRmnvSi) | 6:01 |
 | 20 | [The Christmas Song](https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:41 |
-| 21 | [Silver Bells](https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Swingin' Christmas Featuring The Count Basie Big Band](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:15 |
+| 21 | [Silver Bells \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [A Swingin' Christmas \(feat\. Count Basie Big Band\)](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:15 |
 | 22 | [The Christmas Waltz \- Alternate Version/Remastered 1999](https://open.spotify.com/track/6ppoXyBjTp22DXbU9HcSNS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:59 |
 | 23 | [Silent Night, Pt\. 1](https://open.spotify.com/track/10NjPgVfYVynCN79HvLfYz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Silent Nights](https://open.spotify.com/album/7vo9X8ppoUrze5TS0Deas6) | 2:59 |
 | 24 | [Adeste Fideles](https://open.spotify.com/track/5BP07D2BN5mYxm4OU6Ra8B) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 49 | [Didjo](https://open.spotify.com/track/5BbVK4xnh10S4p0VuKqFdO) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Indwe](https://open.spotify.com/artist/39BgxrsJgtMwRHKjwrTdUr) | [Food](https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u) | 7:53 |
 | 50 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/49zUdbESCRSGaknOJWqnTH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing The Piano](https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F) | 4:42 |
 
-Snapshot ID: `MCxlMDY0MzQzYjUyMDI0MjdkMmNhNTJjODI0ZjVhZjJkZDcxODJlMWYx`
+Snapshot ID: `MCxlMDcxY2U2ODBkYzcxOThhZTMyZjY1MzdmMDJlY2RkMzJmMDYyNmVh`

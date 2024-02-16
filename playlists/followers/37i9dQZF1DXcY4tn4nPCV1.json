@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 181346,
+  "2024-02-16": 181375,
   "date_first_scraped": "2022-04-20",
   "description": "A calm, instrumental reading playlist. ",
   "name": "Read and Unwind",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 174000,
       "name": "A Thought Evoked",
       "url": "https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp"
@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Behind An Ethereal Veil",
+        "url": "https://open.spotify.com/album/5dMXMcck2Dn1fRchPDD9M0"
+      },
+      "artists": [
+        {
+          "name": "Augustino",
+          "url": "https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144281,
+      "name": "Behind an Ethereal Veil",
+      "url": "https://open.spotify.com/track/0TdAAwbQJyQKBdiDQBY5xa"
+    },
+    {
+      "album": {
         "name": "Bekendelser",
         "url": "https://open.spotify.com/album/01i0wN0CG6rh8rPRyMwdYo"
       },
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 136374,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/10pCEITWkgRHhTAuCtvMWK"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 158168,
       "name": "Cavandoli",
       "url": "https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 170991,
       "name": "Colorado Nights",
       "url": "https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP"
@@ -2779,7 +2797,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 140505,
       "name": "Je vous ai trouv\u00e9",
       "url": "https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C"
@@ -3247,7 +3265,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 154000,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd"
@@ -3409,7 +3427,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 158855,
       "name": "Melifluo",
       "url": "https://open.spotify.com/track/2n0nS9mYrxSL7skwjb7qrD"
@@ -4079,7 +4097,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 186500,
       "name": "Open Mind Open Heart",
       "url": "https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA"
@@ -4979,7 +4997,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 155374,
       "name": "See How the World Spins",
       "url": "https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD"
@@ -5645,7 +5663,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 206500,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg"
@@ -6034,6 +6052,24 @@
     },
     {
       "album": {
+        "name": "There Is Light",
+        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "There Is Light",
+      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
+    },
+    {
+      "album": {
         "name": "Through The Years",
         "url": "https://open.spotify.com/album/2tmZIjSWjBloHaE77q4RJN"
       },
@@ -6099,7 +6135,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 193241,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3OuSwVoqxlaKO3MfcigSNp"
@@ -6409,7 +6445,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 159624,
       "name": "T\u00e5lamod",
       "url": "https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB"
@@ -6987,7 +7023,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"

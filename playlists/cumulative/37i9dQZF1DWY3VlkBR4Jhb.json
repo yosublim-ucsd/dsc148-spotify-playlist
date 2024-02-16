@@ -484,6 +484,36 @@
     {
       "album": {
         "name": "Schubert: Male Choruses",
+        "url": "https://open.spotify.com/album/4IEGnOb8hHBE5G0YDWeNRj"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Orphei Dr\u00e4ngar",
+          "url": "https://open.spotify.com/artist/3Lc34BF8LDk8Ae0T81du3S"
+        },
+        {
+          "name": "Folke Alin",
+          "url": "https://open.spotify.com/artist/4drvzMD9ohixezozsfMH3g"
+        },
+        {
+          "name": "Robert Sund",
+          "url": "https://open.spotify.com/artist/1mk1T3aM1xxxPAPPyWxW9l"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Der Gondelfahrer, Op. 28, D.809",
+      "url": "https://open.spotify.com/track/5HHiXd88VFaRivisTWT7wP"
+    },
+    {
+      "album": {
+        "name": "Schubert: Male Choruses",
         "url": "https://open.spotify.com/album/2tqfybM5HZoN03dtUdyy6m"
       },
       "artists": [
@@ -506,7 +536,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 183800,
       "name": "Der Gondelfahrer, Op. 28, D.809",
       "url": "https://open.spotify.com/track/7ulFzeemDntVFHFQyJIRFB"
@@ -2598,7 +2628,7 @@
           "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
         },
         {
-          "name": "Cleveland Orchestra",
+          "name": "The Cleveland Orchestra",
           "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         }
       ],
@@ -2624,7 +2654,7 @@
           "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
         },
         {
-          "name": "Cleveland Orchestra",
+          "name": "The Cleveland Orchestra",
           "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         }
       ],
@@ -2650,7 +2680,7 @@
           "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
         },
         {
-          "name": "Cleveland Orchestra",
+          "name": "The Cleveland Orchestra",
           "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         }
       ],

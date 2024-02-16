@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Cantante Desconocido",
+        "url": "https://open.spotify.com/album/4fBrYwryhME6g2VwsmZQlw"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ramirez",
+          "url": "https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194765,
+      "name": "Cantante Desconocido",
+      "url": "https://open.spotify.com/track/42lVGwG9E5Otw0OkKMTrUi"
+    },
+    {
+      "album": {
         "name": "Capotillo, Lomina",
         "url": "https://open.spotify.com/album/55mbagpxdsixvtvs0QbNLk"
       },
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 162711,
       "name": "Carlito",
       "url": "https://open.spotify.com/track/4vVUvduPNibrG84bOB3Rb5"
@@ -1050,10 +1068,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 166530,
       "name": "COMO TE MIRO",
       "url": "https://open.spotify.com/track/72sNp2w2f5WRDwNienlSaH"
+    },
+    {
+      "album": {
+        "name": "Comprenda",
+        "url": "https://open.spotify.com/album/16KdhZsx1fT3fNEZI8F4MM"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "Yaya La Voz",
+          "url": "https://open.spotify.com/artist/51A6WzUhkX65jdXnYW0YvK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224809,
+      "name": "Comprenda",
+      "url": "https://open.spotify.com/track/4AZLSGxbrVEKa93Bdk1wXT"
     },
     {
       "album": {
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 131669,
       "name": "Corleon",
       "url": "https://open.spotify.com/track/6ho0QePBZ6a3hmry0Y2IhH"
@@ -1094,7 +1134,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 91058,
       "name": "Coronel",
       "url": "https://open.spotify.com/track/4OcVhyTEo7WkArxR3HLkU6"
@@ -1422,7 +1462,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 268562,
       "name": "Defiendo El Uniforme",
       "url": "https://open.spotify.com/track/0S1EYKiUbW6V66MAcHEqhB"
@@ -1510,6 +1550,32 @@
       "duration_ms": 161130,
       "name": "Desacatate",
       "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
+    },
+    {
+      "album": {
+        "name": "Desnudita",
+        "url": "https://open.spotify.com/album/3nL3DuCZvIvSAUfPEAZFwJ"
+      },
+      "artists": [
+        {
+          "name": "Victor Beat",
+          "url": "https://open.spotify.com/artist/3axnKr15bMymtnBdSXw02l"
+        },
+        {
+          "name": "Klinton La Firma",
+          "url": "https://open.spotify.com/artist/1SNia4NrSzpspwkSi100cn"
+        },
+        {
+          "name": "El Jodon",
+          "url": "https://open.spotify.com/artist/5ousYhM3HXAvQy8C4oZr9Z"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185286,
+      "name": "Desnudita",
+      "url": "https://open.spotify.com/track/5C4hS9mAQHYLKZOFPJY1Ge"
     },
     {
       "album": {
@@ -2802,10 +2868,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146562,
       "name": "La Lealtad",
       "url": "https://open.spotify.com/track/34lddXLZPmnVKWJN3nqDFX"
+    },
+    {
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/6PnPiOmzKHNidN6Om7MPzC"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177330,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4aJ8NwfqjmRQi25kFnOFtt"
     },
     {
       "album": {
@@ -2982,7 +3066,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 152079,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/1shewMdkueIP2YgXYv1Jt3"
@@ -3192,6 +3276,28 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/09yuLWcEJrXFR7iX9OI93n"
+      },
+      "artists": [
+        {
+          "name": "Nay Queen",
+          "url": "https://open.spotify.com/artist/2XCKJf8ByzB0TXhY0fgtSM"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3foAnPisxYP65mHkgn1qO8"
     },
     {
       "album": {
@@ -3972,7 +4078,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 145561,
       "name": "Muchas Veces",
       "url": "https://open.spotify.com/track/2Xlms0AGBAU6zsTJg5zdCl"
@@ -4453,6 +4559,28 @@
     },
     {
       "album": {
+        "name": "PERRITA",
+        "url": "https://open.spotify.com/album/1IhdGB8H0RPHbM6czh9iH1"
+      },
+      "artists": [
+        {
+          "name": "ADAN",
+          "url": "https://open.spotify.com/artist/1w8UqsR3DG3us9VBFc93ul"
+        },
+        {
+          "name": "Rhyno OTT",
+          "url": "https://open.spotify.com/artist/1fK8RLuqnCqdlbXuk4J7ga"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "PERRITA",
+      "url": "https://open.spotify.com/track/3ZAz6depBNlWffdCgI961G"
+    },
+    {
+      "album": {
         "name": "Perro que Ladra",
         "url": "https://open.spotify.com/album/7wP67mFZbn91YFItADquX1"
       },
@@ -4580,6 +4708,24 @@
       "duration_ms": 139159,
       "name": "Por Poquito",
       "url": "https://open.spotify.com/track/5zoJWcsBQQK2t9XlbIcRHJ"
+    },
+    {
+      "album": {
+        "name": "Presa",
+        "url": "https://open.spotify.com/album/2uvhmMGOzDLRQWRK4VjD7T"
+      },
+      "artists": [
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "PRESA",
+      "url": "https://open.spotify.com/track/5Y9hBw4nqPZxFyngfPEdmY"
     },
     {
       "album": {
@@ -4836,7 +4982,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 178105,
       "name": "Salud",
       "url": "https://open.spotify.com/track/06znjlMut9bc16ZtnI9eOD"
@@ -5034,6 +5180,24 @@
       "duration_ms": 168000,
       "name": "Sorprendeme",
       "url": "https://open.spotify.com/track/2xg6TN2gnemvt19f9W5P4m"
+    },
+    {
+      "album": {
+        "name": "Soy de la Calle",
+        "url": "https://open.spotify.com/album/158gh6DuAj5QIckvZ1WA7J"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "Soy de la Calle",
+      "url": "https://open.spotify.com/track/5O1wqBKLhNxGMb7C1vjV0X"
     },
     {
       "album": {
@@ -5311,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/2etRxijaqyxyWsAIRXidjC"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156263,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/373cSIRpbSV5qI0LUZOJOh"
+    },
+    {
+      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq"
       },
@@ -5384,6 +5566,28 @@
       "duration_ms": 140586,
       "name": "Tigueron y Bonitillo",
       "url": "https://open.spotify.com/track/2APOvBpM9UovumcRC11X9X"
+    },
+    {
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td"
+      },
+      "artists": [
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121344,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl"
     },
     {
       "album": {
@@ -5874,7 +6078,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 196552,
       "name": "Yo Me Rebele",
       "url": "https://open.spotify.com/track/63Ccbhg38CjqpOAZuU5kQ4"

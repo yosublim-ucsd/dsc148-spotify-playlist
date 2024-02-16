@@ -2,7 +2,7 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : VoX LoW
+> La scène française branchée sur courant alternatif\. Photo : Gwendoline
 
 127 songs - 6 hr 51 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 32830,
+  "2024-02-16": 32852,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -859,7 +859,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 508571,
       "name": "Control",
       "url": "https://open.spotify.com/track/4H40HAa5y5N7mLPZreuojF"
@@ -1099,6 +1099,28 @@
       "duration_ms": 342790,
       "name": "Diri",
       "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
+    },
+    {
+      "album": {
+        "name": "Disco Trip EP",
+        "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Ramin Rezaie",
+          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215076,
+      "name": "Disco Trip",
+      "url": "https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu"
     },
     {
       "album": {
@@ -3794,6 +3816,28 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
+      },
+      "artists": [
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        },
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189672,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X"
+    },
+    {
+      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -4635,7 +4679,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 219048,
       "name": "The Track",
       "url": "https://open.spotify.com/track/3GCmKFjQaS6mcFB4xHcbkg"

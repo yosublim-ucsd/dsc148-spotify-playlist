@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-108 songs - 5 hr 53 min
+109 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,9 @@
 | [Sweet Soul Music \- Live on Radio 1's "Studio B15", 1981](https://open.spotify.com/track/4vVLp77vmbdldsVB7HkWZi) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Jam At The BBC](https://open.spotify.com/album/2AkhTO58Jwta6LHJjRKhc7) | 2:02 | 2021-10-01 |  |
 | [The Dock of the Bay](https://open.spotify.com/track/1D8jvcCsh8sS1QQZohqVqz) | [Mandelbarth](https://open.spotify.com/artist/3zU1hJLF2O4pt5c3if4lQF), [ManuMatei](https://open.spotify.com/artist/1jDeFVnrDcm1O6W7sragOI) | [The Dock of the Bay](https://open.spotify.com/album/38KpJU5EpO0x95aGL5C7vZ) | 2:26 | 2021-10-01 |  |
 | [The Happy Song](https://open.spotify.com/track/1qUayp9EJqpSTT24PWdl0q) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Rita Coolidge](https://open.spotify.com/album/4pjxcFzk2FchRsjaGQlhpl) | 3:55 | 2021-10-01 |  |
+| [These Arms Of Mine](https://open.spotify.com/track/41yOeaVMkpWJhSCw5obdwB) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Huey Lewis](https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs) | [S.O.S\. 2: Soul On A Mission](https://open.spotify.com/album/1N66oKqT9D350GFwDfKfqE) | 2:32 | 2021-10-01 |  |
 | [These Arms Of Mine](https://open.spotify.com/track/2l0IhDyr9kujsmKmNiLVNY) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Proud Mary \(With Bonus Tracks\)](https://open.spotify.com/album/2OdL2aP3MSdZnUAzShPRol) | 2:54 | 2021-10-01 |  |
-| [These Arms of Mine \(feat\. Huey Lewis\)](https://open.spotify.com/track/4XiDLc8PRfXHuHySYKUuSV) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Huey Lewis](https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:32 | 2021-10-01 |  |
+| [These Arms of Mine \(feat\. Huey Lewis\)](https://open.spotify.com/track/4XiDLc8PRfXHuHySYKUuSV) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Huey Lewis](https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:32 | 2021-10-01 | 2024-02-16 |
 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 | 2021-10-01 |  |
 | [Your Feeling Is Mine](https://open.spotify.com/track/7ty0RM90j9EvVh7vvFbgug) | [Buddy Miles](https://open.spotify.com/artist/2E9nO9Zav9FjjlFVVtMWdw) | [Them Changes](https://open.spotify.com/album/6Kr0V00FNt8Xn3Dk3opAVb) | 2:13 | 2021-10-01 |  |
 | [Your One and Only Man](https://open.spotify.com/track/5NCSUOZ2omvk8SHbgPJ3tr) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/1XZ0uKmR8mzeZHvtsigwN4) | 4:30 | 2021-10-01 | 2022-07-29 |

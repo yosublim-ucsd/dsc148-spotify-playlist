@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 186685,
       "name": "Baby Can You Stay - Acoustic",
       "url": "https://open.spotify.com/track/2D0KV8BVHuxJJzlRqNfxL7"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 180033,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/4jEtqLkZZehC1VqsH1orw0"
@@ -2282,6 +2282,24 @@
       "duration_ms": 210719,
       "name": "Higher (feat. iann dior and GRACEY) [Acoustic]",
       "url": "https://open.spotify.com/track/1tlH92NHQu2HgKGTgArWBT"
+    },
+    {
+      "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152293,
+      "name": "Highlights",
+      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
     },
     {
       "album": {
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 231200,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg"
@@ -4300,6 +4318,24 @@
       "duration_ms": 172306,
       "name": "Photographs",
       "url": "https://open.spotify.com/track/7KgqQSXtlh5WIAx1I1ojYG"
+    },
+    {
+      "album": {
+        "name": "Place Your Hands",
+        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
     },
     {
       "album": {
@@ -5399,6 +5435,28 @@
     },
     {
       "album": {
+        "name": "The Blower's Daughter",
+        "url": "https://open.spotify.com/album/6pL2IAMJkjtNYq8yVoSf9I"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        },
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259708,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/7CNA7us0GLh8MYp5aJjdWH"
+    },
+    {
+      "album": {
         "name": "Bitter Pill",
         "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
       },
@@ -5468,7 +5526,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -5786,7 +5844,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"

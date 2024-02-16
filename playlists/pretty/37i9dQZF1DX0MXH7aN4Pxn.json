@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 675611,
+  "num_followers": 675607,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNlN2MxNzcxN2MxNmI2YTg1MTA3M2NlMTM5MDg5NGUxYThiZDE0",
+  "snapshot_id": "MCwzZTU2NzZmNmM4MGUwNTM5N2QyNmY0Y2ViZDM1ZGU2MmJjNGRkOGMw",
   "tracks": [
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "JOY (Push The Button)",
         "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 235198,
       "name": "JOY (Push The Button)",
       "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "9TS (90s Baby)",
+        "url": "https://open.spotify.com/album/2v6p3jVRtDCO5OHPIjJKpN"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 282580,
+      "name": "9TS (90s Baby)",
+      "url": "https://open.spotify.com/track/09rXkNUrCM97FSm74J4jOr"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/14epDZDRMsXMcwuxF9RcZU"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "9TS (90s Baby)",
-        "url": "https://open.spotify.com/album/2v6p3jVRtDCO5OHPIjJKpN"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 282580,
-      "name": "9TS (90s Baby)",
-      "url": "https://open.spotify.com/track/09rXkNUrCM97FSm74J4jOr"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 153412,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "I Know (Radio Edit)",
-        "url": "https://open.spotify.com/album/51knqvCVHzBrB2vtHsQGIo"
-      },
-      "artists": [
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "I Know - Radio Edit",
-      "url": "https://open.spotify.com/track/55XwN6pEAum4dFDiOtRI0q"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1597,12 +1581,28 @@
         },
         {
           "name": "Lythx",
-          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
+          "url": "https://open.spotify.com/artist/3opEpMCuPejInY9rC6l22S"
         }
       ],
       "duration_ms": 206007,
       "name": "My Head is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "I Know (Radio Edit)",
+        "url": "https://open.spotify.com/album/51knqvCVHzBrB2vtHsQGIo"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "I Know - Radio Edit",
+      "url": "https://open.spotify.com/track/55XwN6pEAum4dFDiOtRI0q"
     },
     {
       "added_at": "2024-02-14 11:37:11",

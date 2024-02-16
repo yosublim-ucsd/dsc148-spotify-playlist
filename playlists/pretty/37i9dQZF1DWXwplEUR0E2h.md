@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: El Bendito con FERXXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,928 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,972 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 28 | [Me Perjudique](https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Me Perjudique](https://open.spotify.com/album/4qOZcYBrc1N7WbxyBRo77C) | 2:35 |
 | 29 | [Galicia](https://open.spotify.com/track/5tSFYDIi1CKy7SD7ZZ1FCU) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 3:06 |
 | 30 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 |
-| 31 | [OJITOS ROJOS \- REMIX](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojitos Rojos \(Remix\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 |
+| 31 | [OJITOS ROJOS \- REMIX](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [OJITOS ROJOS \(REMIX\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 |
 | 32 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 |
 | 33 | [KLKNTOKI](https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [KLKNTOKI](https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc) | 3:21 |
 | 34 | [Medayork](https://open.spotify.com/track/0OVJRLUDVurs2KSKGV9oFE) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Dimeloking](https://open.spotify.com/artist/4LVVm4QddeluNJAUuiCqRz) | [Medayork](https://open.spotify.com/album/6RJQwbAKTyRQ8IFoXmSFhm) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 59 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 |
 | 60 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 |
 
-Snapshot ID: `MCw5ZWUxZWNhZTc3OWNjOWRiYmQwMWEzZDk0YjE3MTc5N2IzNTAxODFk`
+Snapshot ID: `MCwyZjJlZDkwOTdjMDUyNTZjNWZlYjFmOWE4ZmMxNjQ2ZDM5YTk0Yzc3`

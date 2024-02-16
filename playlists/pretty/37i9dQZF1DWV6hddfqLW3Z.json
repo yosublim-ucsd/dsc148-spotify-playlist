@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 793646,
+  "num_followers": 793792,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWM4OGRjMzM3OGViNjI4Y2U2OWNlYzgzZTA4ZWE2YjZkYzUwNTEy",
+  "snapshot_id": "MCwzMWY2YWQ3ZGQxNTJlOGZkODczOGQ4MjZiOWZlMTgyM2QzNWU3MDQ3",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2023-11-24 15:08:43",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Pra Me Refazer",
-        "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 215116,
-      "name": "Pra Me Refazer",
-      "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 212320,
       "name": "N\u00e3o Olha Assim Pra Mim",
       "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Pra Me Refazer",
+        "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 215116,
+      "name": "Pra Me Refazer",
+      "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
     },
     {
       "added_at": "2023-11-24 15:08:43",

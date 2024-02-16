@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9384,
+  "num_followers": 9390,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm",
+  "snapshot_id": "MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "23 (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "23 (Feat. SAM KIM)",
-      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1059,26 +1059,18 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "School Rapper3 Final",
-        "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
+        "name": "Star",
+        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
       },
       "artists": [
-        {
-          "name": "Young Kay",
-          "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
         {
           "name": "VINXEN",
           "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
-      "duration_ms": 229467,
-      "name": "HERE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
+      "duration_ms": 215054,
+      "name": "Yoo Jae Suk",
+      "url": "https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

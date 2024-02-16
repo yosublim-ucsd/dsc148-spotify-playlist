@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,762 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,878 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
 | 100 | [El Bazucazo](https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Duelo De Shakas](https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm) | 3:45 |
 
-Snapshot ID: `MCxhMTk3ODI1MTE2NzVmODU2ZGNiYmJiM2QyODE3YTNhMjk0YWI5YTRj`
+Snapshot ID: `MCxjNTUzMjVjODRjNWE0MjM3NDBjZTM4ZWVjZmQ4MWNkNmZiM2FmY2Q2`

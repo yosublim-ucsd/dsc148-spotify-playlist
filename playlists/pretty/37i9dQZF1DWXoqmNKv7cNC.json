@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mujeres mexicanas ic\u00f3nicas del 2023 a todo volumen! ",
-  "num_followers": 101538,
+  "num_followers": 101533,
   "original_name": "EQUAL M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDI3YjczM2ZkNjZhOWM3OTI1MDBlNzRkOGFmMWEyODgzZTBiMzgz",
+  "snapshot_id": "MCwwNGI0NWE5ZTIxNmI0NzIwZGU4OTRjYTQ1MGJlMjQ5YWZkNTcxMDc4",
   "tracks": [
     {
       "added_at": "2024-01-03 06:00:00",
@@ -599,6 +599,30 @@
     {
       "added_at": "2024-01-03 06:00:00",
       "album": {
+        "name": "Piscis",
+        "url": "https://open.spotify.com/album/2VjNyPPi9RWrA16YibDJi6"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/6SImgmPvVI0sGL2jkzMftw"
+    },
+    {
+      "added_at": "2024-01-03 06:00:00",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -623,30 +647,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2024-01-03 06:00:00",
-      "album": {
-        "name": "Piscis",
-        "url": "https://open.spotify.com/album/2VjNyPPi9RWrA16YibDJi6"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/6SImgmPvVI0sGL2jkzMftw"
     },
     {
       "added_at": "2024-01-03 06:00:00",

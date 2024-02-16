@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,290 likes - 106 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,304 likes - 106 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 105 | [在风吹来的方向等着你](https://open.spotify.com/track/5D0nvVgKIsC36ycLtdNZqu) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [在风吹来的方向等着你](https://open.spotify.com/album/3VD6BoceCOUCVI3cWedk3x) | 3:25 |
 | 106 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 |
 
-Snapshot ID: `MCxhMjY4ZGY0MzI0ZGNiMTk3ZmRhMDdlMmMxNjg0NDA4ZGMxZGJkNjc1`
+Snapshot ID: `MCw3OTQ3Nzg1MjVjNTRiYjZhYzM0NjI2ZmY3NjhhNmYzZjlhYjc1YzZh`

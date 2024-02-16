@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769,379 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,369 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 100 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 |
 
-Snapshot ID: `MCxjYTUwOWY3ZGI0YmFhZDEzODgxOTYyMmEwMzYxNDAwNzAzMmMzZTE2`
+Snapshot ID: `MCwwMmEwOTQyMTk2MjIwNWZjYjM3YzNiMzBlYjRiMTMzNjMyOWYxZTAx`

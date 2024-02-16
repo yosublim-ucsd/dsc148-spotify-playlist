@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,456 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,499 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 18 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 |
 | 19 | [Mr\. Blue Sky](https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Covers EP](https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS) | 2:44 |
 | 20 | [Walk Away](https://open.spotify.com/track/5bCjoSvRrL8YVB0sntBEKd) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Baptized Imagination](https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE) | 3:10 |
-| 21 | [1,000 Names](https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [1,000 Names](https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL) | 5:24 |
-| 22 | [Carry Me Home](https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF) | 3:33 |
+| 21 | [Carry Me Home](https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF) | 3:33 |
+| 22 | [1,000 Names](https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [1,000 Names](https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL) | 5:24 |
 | 23 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
 | 24 | [imagination](https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [imagination](https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl) | 3:20 |
 | 25 | [I'm Alive](https://open.spotify.com/track/77rhVt2gkXW7ERW9SJDNRu) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [I'm Alive](https://open.spotify.com/album/67yFf6I36cedx6RhT17l6J) | 3:35 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 42 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 43 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
 | 44 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
-| 45 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
-| 46 | [Something to Say](https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Something to Say](https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri) | 4:04 |
+| 45 | [Something to Say](https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Something to Say](https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri) | 4:04 |
+| 46 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
 | 47 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 |
 | 48 | [Stranger](https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:19 |
 | 49 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 61 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 |
 | 62 | [Keep Your Head Up \- Radio Version](https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Keep Your Head Up \(Radio Version\)](https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r) | 3:35 |
 | 63 | [BURNING IN THE RAIN](https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv) | [OLY](https://open.spotify.com/artist/7g4y9yOwMFSp1qvlhboro8) | [BURNING IN THE RAIN](https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I) | 3:22 |
-| 64 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
-| 65 | [Old Dreams \- Live from Kansas City](https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [HOPE OR NOSTALGIA LIVE](https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0) | 3:09 |
+| 64 | [Old Dreams \- Live from Kansas City](https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [HOPE OR NOSTALGIA LIVE](https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0) | 3:09 |
+| 65 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
 | 66 | [Broken Places](https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Broken Places](https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF) | 4:15 |
 | 67 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
-| 68 | [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 |
-| 69 | [High Calling](https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63) | 3:08 |
+| 68 | [High Calling](https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63) | 3:08 |
+| 69 | [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 |
 | 70 | [Lifeline](https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Closer](https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw) | 3:12 |
 | 71 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
 | 72 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 81 | [We Won't Bow](https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U) | [Kamban](https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP) | [We Won't Bow](https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew) | 2:52 |
 | 82 | [Keep Hopin'](https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4) | [The Scally Brothers](https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos) | [Keep Hopin'](https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn) | 2:47 |
 | 83 | [Conversation](https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Conversation](https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F) | 3:24 |
-| 84 | [Stream](https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6) | [BEACH W](https://open.spotify.com/artist/1sHJFAgrPJokmkPDinDuyp) | [Stream](https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q) | 4:43 |
-| 85 | [Against the Wall](https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0) | [Collington](https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS) | [Against the Wall](https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q) | 3:25 |
+| 84 | [Against the Wall](https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0) | [Collington](https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS) | [Against the Wall](https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q) | 3:25 |
+| 85 | [Stream](https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6) | [BEACH W](https://open.spotify.com/artist/1sHJFAgrPJokmkPDinDuyp) | [Stream](https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q) | 4:43 |
 | 86 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 |
 | 87 | [War Going On](https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB) | [Port Duo](https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP) | [War Going On](https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ) | 4:22 |
-| 88 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 |
-| 89 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 |
+| 88 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 |
+| 89 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 |
 | 90 | [Angels vs Demons \- Piano Version](https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL) | 3:20 |
 | 91 | [Hurricane](https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7) | [Whitefield](https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP) | [Hurricane](https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW) | 4:29 |
 | 92 | [Coming Clean](https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Coming Clean](https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 | 100 | [Here We Are](https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Praise](https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY) | 3:52 |
 
-Snapshot ID: `MCw3MWNiNzZmZmI2Yzc4MzlmMDdjNmY0MWNmM2IwYmFlZDNjMmZkNjhk`
+Snapshot ID: `MCwzNDEyMDkyOGI5MzNhMWQzNjk3YmM4MTU2NGFlZjgzNGY2Y2UwOTU2`

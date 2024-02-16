@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,688 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,698 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 55 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 |
 | 56 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 |
 | 57 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 |
-| 58 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
-| 59 | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r) | 2:17 |
+| 58 | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Eu Tô Gostando de um Menino Aí](https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r) | 2:17 |
+| 59 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 60 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 |
 | 61 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
 | 62 | [Boladona](https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB) | 2:06 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 71 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
 | 72 | [Rito de Passá](https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Rito de Passá](https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm) | 3:21 |
 | 73 | [Baldin de Gelo](https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Baldin de Gelo](https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9) | 2:47 |
-| 74 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 |
-| 75 | [Cafeína](https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5) | 3:11 |
+| 74 | [Cafeína](https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5) | 3:11 |
+| 75 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 |
 | 76 | [Feito Fumaça](https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1) | [Obinrin Trio](https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R), [Ju Strassacapa](https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH) | [Origem](https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8) | 4:41 |
 | 77 | [Diz Que Fui Por Ai](https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara \(1964\)](https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7) | 2:09 |
 | 78 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 80 | [Assim Que Se Faz](https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ) | [Luciana Mello](https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb) | [Assim Que Se Faz](https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0) | 5:00 |
 | 81 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 82 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 |
-| 83 | [Psiu](https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Psiu](https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v) | 4:57 |
-| 84 | [Saudade](https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv) | 3:40 |
+| 83 | [Saudade](https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv) | 3:40 |
+| 84 | [Psiu](https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Psiu](https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v) | 4:57 |
 | 85 | [Coração](https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [É o Que Temos](https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ) | 4:08 |
 | 86 | [Meu São Jorge](https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 3:20 |
 | 87 | [Garota Ligeira](https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb) | 3:38 |
 | 100 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 
-Snapshot ID: `MCxjZWQxMTgzMzYzZmRkN2IzMTA0ZDBhOTJlNjgyOWM3ZWE1ZDIzZGMz`
+Snapshot ID: `MCw4ZjBjZDNkNjNiYTQxNDFlYWFmZWI0ZmNkZjVlOTExYzYzZTFmZjA0`

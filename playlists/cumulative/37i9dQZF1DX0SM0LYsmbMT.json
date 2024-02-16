@@ -344,7 +344,7 @@
       },
       "artists": [
         {
-          "name": "Toby Chick",
+          "name": "toby chick",
           "url": "https://open.spotify.com/artist/6ngrl52MHztm8MPG6L4Z8h"
         },
         {
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 84750,
       "name": "Afternoondriftaway",
       "url": "https://open.spotify.com/track/1pZbr9MATtsf8HZq1Z0qAz"
@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 104470,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/4sm8xtjc74ChRJhmlPH3x3"
@@ -8224,6 +8224,28 @@
       "duration_ms": 158900,
       "name": "Blurred Tales",
       "url": "https://open.spotify.com/track/0l2hEwqU2iclUklGoLI84F"
+    },
+    {
+      "album": {
+        "name": "Blush Noisette",
+        "url": "https://open.spotify.com/album/3aHWO5Pk4z5SsG7gargOR1"
+      },
+      "artists": [
+        {
+          "name": "Soulmade",
+          "url": "https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151203,
+      "name": "Blush Noisette",
+      "url": "https://open.spotify.com/track/0H4ItesdG3rjQvzplgixh4"
     },
     {
       "album": {
@@ -12245,6 +12267,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e8 Ja Vu",
+        "url": "https://open.spotify.com/album/6b6gbsCcUNYsYxpAXDeSsD"
+      },
+      "artists": [
+        {
+          "name": "Cassette Heads",
+          "url": "https://open.spotify.com/artist/2ScbHy5G91WOUepPUagisf"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236656,
+      "name": "Ch\u00e8 Ja Vu",
+      "url": "https://open.spotify.com/track/39koMKbq0FLzUpGtyjA8FE"
+    },
+    {
+      "album": {
         "name": "Cidade",
         "url": "https://open.spotify.com/album/6maNGK01dHqiWelCJFLWP5"
       },
@@ -14532,7 +14572,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 137777,
       "name": "Corner Store Snacks",
       "url": "https://open.spotify.com/track/7taBGYW3aZiGQb6HTtHSyq"
@@ -17824,7 +17864,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 116000,
       "name": "Don`t Say",
       "url": "https://open.spotify.com/track/6M8XMEz0CPMzbp4SvRB6Iz"
@@ -21860,7 +21900,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 93681,
       "name": "Farlands",
       "url": "https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD"
@@ -28416,7 +28456,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 138857,
       "name": "Hazey",
       "url": "https://open.spotify.com/track/2rDxQ4QksLeOwwelctmOLE"
@@ -30040,7 +30080,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 141803,
       "name": "Hope",
       "url": "https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq"
@@ -30950,7 +30990,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 101666,
       "name": "I Wanted To Surprise You",
       "url": "https://open.spotify.com/track/04W11Qu4cveqXsfsW2uMGi"
@@ -31848,7 +31888,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 75789,
       "name": "In the Dawn of",
       "url": "https://open.spotify.com/track/1ZZFHQHEbg0kR5QyU6pEeZ"
@@ -34514,7 +34554,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 131294,
       "name": "Joshua aime les myrtilles",
       "url": "https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW"
@@ -36680,7 +36720,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147692,
       "name": "Last Beat Of The Year",
       "url": "https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7"
@@ -37930,7 +37970,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 105222,
       "name": "Let's Slow Dance",
       "url": "https://open.spotify.com/track/3ZkTETLICV6S75x7MvxVMB"
@@ -38124,7 +38164,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 127228,
       "name": "Lexington Avenue",
       "url": "https://open.spotify.com/track/68SSt8cTKZWzv357pAbhF0"
@@ -39686,7 +39726,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Look",
       "url": "https://open.spotify.com/track/3w9mpFDp9vFUSCzQzmUnrm"
@@ -47165,6 +47205,24 @@
     },
     {
       "album": {
+        "name": "New Sneakers",
+        "url": "https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88421,
+      "name": "New Sneakers",
+      "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
+    },
+    {
+      "album": {
         "name": "New Studio",
         "url": "https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1"
       },
@@ -49965,6 +50023,28 @@
     },
     {
       "album": {
+        "name": "On The Sly",
+        "url": "https://open.spotify.com/album/27Wdgla1H2yAjAsO3Fu6JR"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123139,
+      "name": "On The Sly",
+      "url": "https://open.spotify.com/track/71Eug4c1AwKUNMcTXwV86x"
+    },
+    {
+      "album": {
         "name": "One 4 Jenny / C'est La Vie",
         "url": "https://open.spotify.com/album/0N807t1LK8TUnd5iMTHclt"
       },
@@ -50006,6 +50086,28 @@
       "duration_ms": 152300,
       "name": "One 4 Nanda",
       "url": "https://open.spotify.com/track/44HH4lCYPVyTtQYnBOzcNp"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/1zs6GGywuZmMums4Hfqnmg"
+      },
+      "artists": [
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        },
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115764,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0m6bPc8Csmtox6hHepZD0v"
     },
     {
       "album": {
@@ -50461,6 +50563,24 @@
     },
     {
       "album": {
+        "name": "Oombab",
+        "url": "https://open.spotify.com/album/5sVCuXzLZipvqDUfg3D1XQ"
+      },
+      "artists": [
+        {
+          "name": "Cutecake",
+          "url": "https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109232,
+      "name": "Oombab",
+      "url": "https://open.spotify.com/track/4Vw2vlWykTSez9sbiMnQZ1"
+    },
+    {
+      "album": {
         "name": "Oozing Charm",
         "url": "https://open.spotify.com/album/5zeJAkJZjITK86wy25Fj4O"
       },
@@ -50744,7 +50864,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 105000,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/2MBSsRzJ83L1Y0WRE2GEA2"
@@ -58062,7 +58182,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 144950,
       "name": "Rough Sea",
       "url": "https://open.spotify.com/track/3p4FGcnGJWDuVwMXnXHDFc"
@@ -60766,7 +60886,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Short Nap",
       "url": "https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz"
@@ -61420,7 +61540,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 86346,
       "name": "Skipping Stones",
       "url": "https://open.spotify.com/track/1IJOtn16CnU7N0N1nW60eX"
@@ -64495,6 +64615,24 @@
     },
     {
       "album": {
+        "name": "Spring Cold",
+        "url": "https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Spring Cold",
+      "url": "https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU"
+    },
+    {
+      "album": {
         "name": "Spring Comes",
         "url": "https://open.spotify.com/album/5D3hdq3sZDSLU0m788mXsY"
       },
@@ -64692,7 +64830,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 122891,
       "name": "Spuma",
       "url": "https://open.spotify.com/track/74sjh59eGNeDJquK4eCwWA"
@@ -64794,7 +64932,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 131707,
       "name": "Standing On The Shore",
       "url": "https://open.spotify.com/track/5hfokkasvfVR2lc3bcCnlG"
@@ -65780,7 +65918,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 135529,
       "name": "Stroll",
       "url": "https://open.spotify.com/track/7w7jNbglIedd2HDaQwJqaK"
@@ -67228,6 +67366,24 @@
       "duration_ms": 141720,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7ueIVxEgrDYvlt0slBFchE"
+    },
+    {
+      "album": {
+        "name": "sunflower",
+        "url": "https://open.spotify.com/album/73PNYwqdDCfdVJCUl1jaKR"
+      },
+      "artists": [
+        {
+          "name": "plant milk",
+          "url": "https://open.spotify.com/artist/7sdP82BOHQI8W6dT3FSAjc"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138214,
+      "name": "sunflower",
+      "url": "https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea"
     },
     {
       "album": {
@@ -69664,7 +69820,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 157333,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4lpRtLf7YAxkZO3npFF2PT"
@@ -71939,6 +72095,24 @@
     },
     {
       "album": {
+        "name": "Tiptoes",
+        "url": "https://open.spotify.com/album/4OLPpFlJdhGMB2u6Q1hI6P"
+      },
+      "artists": [
+        {
+          "name": "Frances The Mute",
+          "url": "https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126451,
+      "name": "Tiptoes",
+      "url": "https://open.spotify.com/track/71vjpbJNssg9VHQdwIa7O1"
+    },
+    {
+      "album": {
         "name": "To Do What",
         "url": "https://open.spotify.com/album/4U6KCEOrWuFYLxzLGboorU"
       },
@@ -73196,7 +73370,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 117142,
       "name": "Trouvaille",
       "url": "https://open.spotify.com/track/70rTwrjZbM9QUOuS70rZ2k"
@@ -76852,7 +77026,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163106,
       "name": "Warm Hugs",
       "url": "https://open.spotify.com/track/7ee3f11jE9RB0t05CHplvk"
@@ -78410,6 +78584,28 @@
       "duration_ms": 150197,
       "name": "White Days",
       "url": "https://open.spotify.com/track/5jZHLuaKYFSrtqy3oThpLJ"
+    },
+    {
+      "album": {
+        "name": "White Ficus",
+        "url": "https://open.spotify.com/album/4KR2Z8fOSwd2PQtfysVAZg"
+      },
+      "artists": [
+        {
+          "name": "Odd Panda",
+          "url": "https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB"
+        },
+        {
+          "name": "freddo",
+          "url": "https://open.spotify.com/artist/3md24KU4DgCAB1QjEOx4lL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142004,
+      "name": "White Ficus",
+      "url": "https://open.spotify.com/track/5e08MPt6SPw3ivieHAwTXv"
     },
     {
       "album": {

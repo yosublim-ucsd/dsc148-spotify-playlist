@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,126 songs - 1 day 18 hr 40 min
+1,127 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Aura](https://open.spotify.com/track/4CM1loeQHmVpQQbqAHfz9N) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Aura](https://open.spotify.com/album/0mmiqgEMX3yvKH04dFSa2q) | 2:11 | 2022-11-25 |  |
 | [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 |  |
 | [Autumn Lies](https://open.spotify.com/track/56Trob6SO6aJt6GLNACrfq) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Seaweather](https://open.spotify.com/album/6Md6MVyHr8AlBayPkYSoB6) | 2:54 | 2022-01-27 | 2023-04-28 |
-| [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 |  |
+| [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 | 2024-02-16 |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2021-11-10 | 2022-05-20 |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-06 |  |
 | [Babbling Brook](https://open.spotify.com/track/0pUYzh1ywTsyy25UoZTuTG) | [rsbd](https://open.spotify.com/artist/4vdsmVFfnqCP6QvVpDYRTv) | [Babbling Brook](https://open.spotify.com/album/5kOyvkfpUHH0spLyotvPQH) | 2:31 | 2021-11-10 |  |
@@ -258,7 +258,7 @@
 | [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 | 2023-02-07 |  |
 | [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 |  |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
-| [Dreamer](https://open.spotify.com/track/6usANlGhQzHC3lS8ifgHaN) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Dreamer](https://open.spotify.com/album/0UCeKLcZGrPDMVKzB6MnMH) | 1:42 | 2022-09-16 |  |
+| [Dreamer](https://open.spotify.com/track/6usANlGhQzHC3lS8ifgHaN) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Dreamer](https://open.spotify.com/album/0UCeKLcZGrPDMVKzB6MnMH) | 1:42 | 2022-09-16 | 2024-02-16 |
 | [Dreaming With You](https://open.spotify.com/track/2115fUeXfK3FnW12CHHdIx) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Dreaming With You](https://open.spotify.com/album/2N4MV7TYlQcAbdj6rkP9iK) | 2:19 | 2022-08-05 | 2022-10-29 |
 | [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [dreamworld gravity](https://open.spotify.com/track/6uRopPokspfqgmcaxoGhrT) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [dreamworld gravity](https://open.spotify.com/album/4FjOZhIz54jv9sEyBBpQAF) | 2:51 | 2022-05-13 | 2022-05-20 |
@@ -342,7 +342,7 @@
 | [flat](https://open.spotify.com/track/47pIMS4C39wmXQXrxHyV61) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [flat](https://open.spotify.com/album/1LTbILt5zhYfSDDUkNMVe9) | 2:33 | 2022-05-27 | 2022-07-22 |
 | [flat disc \- Coffe Shop](https://open.spotify.com/track/3dwL80oiNV7KBbihAgcmRZ) | [wet by water](https://open.spotify.com/artist/3r2OmZNHijxZSUSUGaFFES) | [flat disc](https://open.spotify.com/album/6BUybCnu96pymfwetnSms2) | 2:20 | 2022-05-27 | 2023-08-04 |
 | [Flawed](https://open.spotify.com/track/6d6mHXbP1XnN104ONxI1jU) | [Nomadic Focus](https://open.spotify.com/artist/6tZYiudQKCGp6IUbo9vAer) | [Flawed](https://open.spotify.com/album/6MMPE4FvxMatM3IdkI0E5Q) | 3:39 | 2023-04-03 |  |
-| [Flexible](https://open.spotify.com/track/3HVfuu2oatWqcmDOrJTf8Q) | [Mario Ginger](https://open.spotify.com/artist/66Eh1Lk4MPnv3k4EfeBhXm) | [Flexible](https://open.spotify.com/album/17BcWcXOXkKxdgyDYEHZ8O) | 2:18 | 2023-10-27 | 2023-12-09 |
+| [Flexible](https://open.spotify.com/track/3HVfuu2oatWqcmDOrJTf8Q) | [Mario Ginger](https://open.spotify.com/artist/66Eh1Lk4MPnv3k4EfeBhXm) | [Flexible](https://open.spotify.com/album/17BcWcXOXkKxdgyDYEHZ8O) | 2:18 | 2023-10-27 |  |
 | [Flickering Fireflies](https://open.spotify.com/track/1nu4zLonjawurs9hig5VQl) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Familiar Faces Vol\. 1](https://open.spotify.com/album/19mL5qH4MCuPoALZQKMFQs) | 2:12 | 2022-10-28 | 2023-10-06 |
 | [Flight](https://open.spotify.com/track/0QRnRAGO39PZNTb2CcxuZu) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Flight](https://open.spotify.com/album/7lVNYwi1kJXcdpAabXkvfw) | 1:50 | 2022-11-11 |  |
 | [Flight](https://open.spotify.com/track/1lBK2beWSiXq8wq9B7Ntob) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Flight](https://open.spotify.com/album/5daojBJP5WG0eZd0iULKVj) | 1:54 | 2023-04-20 |  |
@@ -426,6 +426,7 @@
 | [here & now](https://open.spotify.com/track/7LrpylNEYXLNF2YqBerLa4) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [here & now](https://open.spotify.com/album/5DiZQjPdPhAyMu1jboC0kU) | 1:32 | 2023-01-06 |  |
 | [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 |  |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-15 |  |
+| [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 | 2024-02-09 |  |
 | [hidden beauty](https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm) | [Kumegano](https://open.spotify.com/artist/3EiG8ERYtLZRuGCxrSyoSA) | [hidden beauty](https://open.spotify.com/album/34HsnHWY1avKoAksWZ4NiP) | 2:33 | 2022-11-11 |  |
 | [Hidden Shrines](https://open.spotify.com/track/7FkYxZaij658VtKrNt25aK) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Hidden Shrines](https://open.spotify.com/album/395x6HdSfXezH5TG7Aw1AC) | 1:23 | 2022-07-08 | 2023-10-06 |
 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 | 2021-11-10 |  |
@@ -663,7 +664,7 @@
 | [Mosquito](https://open.spotify.com/track/7rc25QCtoWgpMoS5QKXPhr) | [glenn.](https://open.spotify.com/artist/1HUH0vZwspa4HklgpxO99o) | [Friday Love](https://open.spotify.com/album/73BMGhkiLcIx71RAVqH7hE) | 1:39 | 2022-04-08 |  |
 | [Motivated \(Not\)](https://open.spotify.com/track/5OTiKhOHOO4IKJALSneHzz) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Broken Heartbeats](https://open.spotify.com/album/5dgGypu0x9sICJZivTBlHI) | 2:36 | 2021-11-10 | 2022-07-29 |
 | [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 |  |
-| [Mr\. Bemm](https://open.spotify.com/track/050jUCD3ITuHr2xZy1ld13) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Mr\. Bemm](https://open.spotify.com/album/6HZ2w8DQ2gLkqsno1zALQd) | 2:39 | 2022-12-09 |  |
+| [Mr\. Bemm](https://open.spotify.com/track/050jUCD3ITuHr2xZy1ld13) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Mr\. Bemm](https://open.spotify.com/album/6HZ2w8DQ2gLkqsno1zALQd) | 2:39 | 2022-12-09 | 2024-02-16 |
 | [mt\. fuji](https://open.spotify.com/track/2RNNPl9fpAb0ziigldf85I) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [kyoto](https://open.spotify.com/album/0ekYAWFyx9byUsfY6L00kq) | 1:49 | 2021-11-10 | 2022-06-03 |
 | [Multiverse](https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Multiverse](https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR) | 2:32 | 2022-09-09 |  |
 | [Music is Medicine](https://open.spotify.com/track/7byM1UkSAzYRd1O1sLkN5g) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Music is Medicine](https://open.spotify.com/album/2roJJLZfwIz19t4pBA475c) | 2:19 | 2023-01-20 | 2023-09-29 |
@@ -788,7 +789,7 @@
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2021-11-10 | 2022-10-29 |
 | [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 | 2024-01-08 |
 | [present](https://open.spotify.com/track/2ygHOivjzwJjy4ItsjweHv) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [present](https://open.spotify.com/album/5Qf3SwYMlSK7DDsFYffaso) | 3:02 | 2022-06-17 | 2023-09-22 |
-| [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 | 2024-02-02 |
+| [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 |  |
 | [Pretty Machine](https://open.spotify.com/track/4meg3qbldu4dlTv5e6hWsj) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pretty Machine](https://open.spotify.com/album/5EQ08AeGmReXRD17x2ybJc) | 2:05 | 2023-02-07 |  |
 | [Propaganda](https://open.spotify.com/track/4pGFAdZGXhH0sdsygb6wIP) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Propaganda](https://open.spotify.com/album/523RDjlbLVarxB690TTS50) | 2:13 | 2023-02-17 |  |
 | [Pulse](https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Pulse](https://open.spotify.com/album/1eCNVdcm396voeH3TvvGMg) | 2:01 | 2022-08-19 | 2023-10-06 |

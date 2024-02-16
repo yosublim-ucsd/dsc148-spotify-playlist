@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Allison Russell
 
-406 songs - 1 day 1 hr 0 min
+407 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Chasing Spirits](https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 2:44 | 2023-06-09 | 2023-11-18 |
 | [Chasing Spirits](https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Chasing Spirits](https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa) | 2:44 | 2023-04-28 | 2023-06-12 |
 | [Church Of Better Daze](https://open.spotify.com/track/6U4jMMusOoHs2XaxVH0qgd) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church Of Better Daze / Eggs Benediction](https://open.spotify.com/album/39nYzS2wKPTEGglVCwOwTd) | 2:53 | 2022-05-13 | 2022-07-23 |
-| [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 |  |
+| [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 | 2024-02-16 |
+| [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-02-09 |  |
 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 | 2023-04-21 |  |
 | [Come Home](https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Come Home](https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW) | 3:32 | 2022-06-03 | 2023-01-21 |
 | [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 | 2022-10-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 471984,
+  "num_followers": 472193,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzg1MTk4NGUyMTBmMDEwM2M2NjQ3Mzg5ZTA2MzEzYzQ2NTQ0MWI2",
+  "snapshot_id": "MCxlZWY1NWU1MmQ2ZmM5MjAzNTk4YjI1YzcwMWYwNDI1NzljMDI3NTdi",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -1307,6 +1275,22 @@
       "duration_ms": 163709,
       "name": "Midnight on a Sunny Day",
       "url": "https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Dawn Of The Freak",
-        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 265346,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Long Nights and Wasted Affairs",
         "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
       },
@@ -1375,18 +1343,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
+        "name": "Dawn Of The Freak",
+        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
       },
       "artists": [
         {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
         }
       ],
-      "duration_ms": 312400,
-      "name": "Deaf",
-      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
+      "duration_ms": 265346,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1403,6 +1371,22 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+        "name": "Forever at Last",
+        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
         }
       ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+      "duration_ms": 206000,
+      "name": "New York, Paris and London",
+      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Forever at Last",
-        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
       },
       "artists": [
         {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 206000,
-      "name": "New York, Paris and London",
-      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1627,6 +1611,22 @@
       "duration_ms": 182250,
       "name": "buzzkill bummer",
       "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     }
   ],
   "unique_name": "Lofi Indie",

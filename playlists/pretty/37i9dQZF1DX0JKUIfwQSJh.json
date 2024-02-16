@@ -1,29 +1,13 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 875641,
+  "num_followers": 875725,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTM0ZjhkZDk5YTNiZTI1NDdkNTI3ZGYxZDJiMTk2MDk3OTdhZWJi",
+  "snapshot_id": "MCw0YmE0ZGZjMDc0MjRiOTNjNDA5NDg4MmZmZWEwYjkxMTkzNjk4MzU3",
   "tracks": [
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
-    },
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "I Can Stand A Little Rain",
         "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 159640,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
+        "name": "You Are So Beautiful",
+        "url": "https://open.spotify.com/album/2EDnzmD8K7UP6emmirQE9H"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+      "url": "https://open.spotify.com/track/2S1JhDcpEArlLTmNYhW4q5"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -715,22 +735,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Songs Of Love And Hate",
         "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
       },
@@ -747,18 +751,18 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
       },
       "artists": [
         {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 229560,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
+      "duration_ms": 268706,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -779,6 +783,22 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
         "name": "Acoustic Classics",
         "url": "https://open.spotify.com/album/7uxBvnydUpDG30TEBponLj"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 309760,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/0LdHslmYWhOcyr23vUAXxw"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
-        "name": "You Are So Beautiful",
-        "url": "https://open.spotify.com/album/2EDnzmD8K7UP6emmirQE9H"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
-      "url": "https://open.spotify.com/track/2S1JhDcpEArlLTmNYhW4q5"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 272160,
-      "name": "And It Stoned Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9"
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5aN9SeqAtly2NriV7tMjrI"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 155453,
-      "name": "Crazy Love - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5aN9SeqAtly2NriV7tMjrI"
+      "duration_ms": 272160,
+      "name": "And It Stoned Me - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

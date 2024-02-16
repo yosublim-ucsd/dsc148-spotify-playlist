@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,046 songs - 2 day 8 hr 32 min
+1,047 songs - 2 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Good Dope](https://open.spotify.com/track/342IN7R7WLFvxwxkJ5vkaj) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Makloud](https://open.spotify.com/artist/5pmx4PcrEWphi2Z8lW9rUN) | [Good Dope](https://open.spotify.com/album/4fcH341UhnzIcZPEHlZKys) | 2:57 | 2020-11-03 | 2021-12-11 |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-04-01 | 2022-07-29 |
 | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/track/1S69G657rrHOIfPkKNihwH) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ) | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/album/0k5HLDaHBUT1fR8V6DeEoR) | 2:24 | 2021-10-16 | 2022-10-29 |
+| [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 | 2024-02-09 |  |
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-14 | 2023-07-29 |
 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 | 2022-07-14 | 2022-07-30 |
 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 | 2023-07-28 | 2023-10-23 |
@@ -594,7 +595,7 @@
 | [Mercy \- Radio Edit](https://open.spotify.com/track/1rUOYYOu4Wss0gjD0M9PRi) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Mercy](https://open.spotify.com/album/1hoAhZwNz9x6mNudUIhnPC) | 2:23 | 2020-06-12 | 2020-09-20 |
 | [Mesmerize](https://open.spotify.com/track/3QrsKBdtwQcA3gZ8PYKYmb) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Mesmerize](https://open.spotify.com/album/5loM8kiAGIHhMUCnFgHFxl) | 3:59 | 2020-12-12 | 2021-10-14 |
 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 | 2022-10-28 | 2023-07-21 |
-| [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 | 2023-04-28 |  |
+| [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 | 2023-04-28 | 2024-02-16 |
 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-07-16 | 2022-12-15 |
 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 | 2022-04-01 | 2022-04-21 |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2020-05-22\* | 2020-09-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,114 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,151 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 26 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 27 | [Drop It](https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Drop It](https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi) | 2:55 |
 | 28 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
-| 29 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
-| 30 | [Shingaling Shingaling](https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Shingaling Shingaling](https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w) | 2:52 |
+| 29 | [Shingaling Shingaling](https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Shingaling Shingaling](https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w) | 2:52 |
+| 30 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
 | 31 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
 | 32 | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK) | 2:58 |
 | 33 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Feels Like Love](https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:22 |
 | 50 | [Eat Sleep Rave Repeat \(feat\. Beardyman\) \(Bruno Martini Remix\)](https://open.spotify.com/track/7AG4sYZEF5eAxtRfyWLaBH) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Beardyman](https://open.spotify.com/artist/6lITXT7V1VIC7nwlgh8ycO) | [Eat Sleep Rave Repeat \(feat\. Beardyman\) \[Bruno Martini Remix\]](https://open.spotify.com/album/2UgVmPqbWo9YKEMEIPea3c) | 3:56 |
 
-Snapshot ID: `MCwyODA1OTllMjViMDM4YWNiNDlhZjFlOTRiY2IzNGVmNzgwZDhkMmQz`
+Snapshot ID: `MCw3NWNkYWNiODUwMDhkNzczZDg2YzE3YmFhNTExYWQyOWUxM2I5MTU5`

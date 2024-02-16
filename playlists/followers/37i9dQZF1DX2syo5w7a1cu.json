@@ -1,5 +1,5 @@
 {
-  "2024-02-15": 722181,
+  "2024-02-16": 722729,
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
   "name": "Soft 90s",
@@ -3304,6 +3304,24 @@
     },
     {
       "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+    },
+    {
+      "album": {
         "name": "The Score",
         "url": "https://open.spotify.com/album/7m1r9h3wfPRm3Iv8uvq9vQ"
       },
@@ -3319,28 +3337,6 @@
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO"
-    },
-    {
-      "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "date_added": "2022-03-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 298773,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "album": {
@@ -4895,7 +4891,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-15",
       "duration_ms": 248040,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6"
@@ -5343,7 +5339,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 343960,
       "name": "Stranger in Moscow",
       "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"

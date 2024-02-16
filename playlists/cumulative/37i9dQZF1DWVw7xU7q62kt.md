@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-160 songs - 8 hr 46 min
+161 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Doomed](https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Doomed](https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P) | 4:32 | 2023-08-31 |  |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 |  |
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 |  |
+| [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 |  |
 | [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
@@ -104,7 +105,7 @@
 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 | 2023-08-22 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-08-22 | 2023-08-26 |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 |  |
-| [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-08-22 |  |
+| [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-08-22 | 2024-02-16 |
 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 | 2023-08-22 |  |
 | [No Chaser](https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 2:56 | 2023-08-22 |  |
 | [no, regrets](https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 2:47 | 2023-08-22 |  |

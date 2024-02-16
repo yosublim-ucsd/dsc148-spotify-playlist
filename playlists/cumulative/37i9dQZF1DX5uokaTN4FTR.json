@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Kygo, Ava Max",
+  "description": "The UK's biggest dance playlist! Cover: Calvin Harris, Rag'n'Bone Man",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -336,6 +336,28 @@
       "duration_ms": 218500,
       "name": "About You",
       "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "album": {
+        "name": "Abracadabra (feat. Craig David)",
+        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Abracadabra (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
     },
     {
       "album": {
@@ -3246,7 +3268,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
@@ -5372,7 +5394,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153469,
       "name": "It's That Time - Edit",
       "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
@@ -6573,6 +6595,28 @@
     },
     {
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "album": {
         "name": "Mad At Me (with TeeDee)",
         "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
       },
@@ -7044,7 +7088,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
@@ -7337,6 +7381,28 @@
     },
     {
       "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "album": {
         "name": "Never Miss A Beat",
         "url": "https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC"
       },
@@ -7580,7 +7646,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
@@ -9539,6 +9605,40 @@
     },
     {
       "album": {
+        "name": "Somebody (2024)",
+        "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153518,
+      "name": "Somebody (2024)",
+      "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
       },
@@ -10902,7 +11002,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

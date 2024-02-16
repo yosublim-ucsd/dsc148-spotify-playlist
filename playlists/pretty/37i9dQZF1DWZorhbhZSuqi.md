@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > Leave room in your garden for fairies to dance 🍀🧚🏼‍♀️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,326 likes - 77 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,339 likes - 77 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 24 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 25 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 | 26 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
-| 27 | [The Flower Garden](https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 2:58 |
-| 28 | [Fairy Fountain](https://open.spotify.com/track/3uhGWxwYdkwzI9vHITtaza) | [Super Guitar Bros](https://open.spotify.com/artist/2WosnSaZPybvQfyGUvD3NX) | [Ocarina of Time](https://open.spotify.com/album/0oCRqcXxOyKQsIjOvDfeQB) | 1:03 |
+| 27 | [Fairy Fountain](https://open.spotify.com/track/3uhGWxwYdkwzI9vHITtaza) | [Super Guitar Bros](https://open.spotify.com/artist/2WosnSaZPybvQfyGUvD3NX) | [Ocarina of Time](https://open.spotify.com/album/0oCRqcXxOyKQsIjOvDfeQB) | 1:03 |
+| 28 | [The Flower Garden](https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 2:58 |
 | 29 | [Without You Without Them](https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 1:21 |
 | 30 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 31 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 54 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 55 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 56 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 |
-| 57 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 |
-| 58 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 |
+| 57 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 |
+| 58 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 |
 | 59 | [Frou\-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 5:38 |
 | 60 | [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [Barrow](https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V) | 6:38 |
 | 61 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 76 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:51 |
 | 77 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 
-Snapshot ID: `MCw4NGE1NzU2ZDcxZWFjNjZmZmMwMTA5M2M5NjlhZjZmMmJjMjg3Njg3`
+Snapshot ID: `MCw5ZGUwODU0ODgyMjYxYWMwMzI4ODc1ZTVhNjIzODU1ZGQ4ZDU3ODhi`

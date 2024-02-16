@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,475 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,580 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 87 | [Volta](https://open.spotify.com/track/5q4RQaVEcQXba0ldC6oS9s) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Volta](https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH) | 3:39 |
 | 88 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
 | 89 | [Gostosin \(Acoustic\)](https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF) | [Gostosin \(Acoustic\)](https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy) | 3:00 |
-| 90 | [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/1qZrF4DpSsuFhXHH8Vp6Rv) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd) | 3:41 |
-| 91 | [Certeza \- Ao Vivo](https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Turnê Planeta Borboleta \- Ao Vivo](https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces) | 3:11 |
+| 90 | [Certeza \- Ao Vivo](https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Turnê Planeta Borboleta \- Ao Vivo](https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces) | 3:11 |
+| 91 | [Difícil Acreditar \- Versão Acústica](https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tatila Krau](https://open.spotify.com/artist/1qZrF4DpSsuFhXHH8Vp6Rv) | [Difícil Acreditar \(Versão Acústica\)](https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd) | 3:41 |
 | 92 | [Me Diz](https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf) | [Ariane Villa Lobos](https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz) | [Me Diz](https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l) | 3:26 |
 | 93 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Todas as Praias \(Axé\) \[Acústico\]](https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF) | 3:41 |
 | 94 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Amiga](https://open.spotify.com/track/3f6zlOjEvYJVgvPyodrnU7) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Salma e Mac](https://open.spotify.com/album/2Q16sGZ2lP7iTooxAr85ZJ) | 3:18 |
 | 100 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
 
-Snapshot ID: `MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5`
+Snapshot ID: `MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2`

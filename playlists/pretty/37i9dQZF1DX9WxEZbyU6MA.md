@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,191 likes - 92 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,239 likes - 92 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 17 | [Ave Maria](https://open.spotify.com/track/5X4aUw6mQUtW9cIvSPPMRi) | [Morten Lauridsen](https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Lauridsen: O magnum mysterium, Lux aeterna, Ubi caritas & Other Choral Works](https://open.spotify.com/album/1Av0CXBJSKZR9Cmxx2wYLW) | 6:44 |
 | 18 | [Heyr, himna smiður](https://open.spotify.com/track/5R1sIewu1amxKBwg0BPC7V) | [Härlanda Chamber Choir](https://open.spotify.com/artist/7n8be4ctMXToYUUjSA3iI9), [David Molin](https://open.spotify.com/artist/7fNB0WFwLcyrJh0shYe6Zv) | [A Bright Star Shineth](https://open.spotify.com/album/3qw4BAKdjP6ce7FMbvxqXX) | 3:38 |
 | 19 | [Only in Sleep](https://open.spotify.com/track/0OH2nRfMpPOioibGdTVEii) | [Ēriks Ešenvalds](https://open.spotify.com/artist/1luoTtYQjMoJPSzl9YCO1B), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o), [The Choir Of Trinity College, Cambridge](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) | [Ešenvalds: Northern Lights, Stars & Other Choral Works](https://open.spotify.com/album/1Dz6X8oht713S1IWFTv4Af) | 5:17 |
-| 20 | [Hvíld](https://open.spotify.com/track/0hhks9bICVHvYcEK8Gr9DU) | [Hugi Guðmundsson](https://open.spotify.com/artist/23ePLzOHz1mtHU1g6sBkHm), [Schola Cantorum Reykjavicensis](https://open.spotify.com/artist/7L97GqddY1AOQaTZNYwjT1), [Hörður Áskelsson](https://open.spotify.com/artist/5KPUYhMGu1TQWjXCTUPT3d) | [Meditatio: Music for Mixed Choir](https://open.spotify.com/album/4lAMbvRhwkALVrPske1KY6) | 3:34 |
+| 20 | [Hvíld](https://open.spotify.com/track/6swcCmIDDkltnzwS21HF9k) | [Hugi Guðmundsson](https://open.spotify.com/artist/23ePLzOHz1mtHU1g6sBkHm), [Schola Cantorum Reykjavicensis](https://open.spotify.com/artist/7L97GqddY1AOQaTZNYwjT1), [Hörður Áskelsson](https://open.spotify.com/artist/5KPUYhMGu1TQWjXCTUPT3d) | [Meditatio: Music for Mixed Choir](https://open.spotify.com/album/12a427uaYSmEohrm2STxTq) | 3:34 |
 | 21 | [Sunrise Mass: Kyrie "The Spheres"](https://open.spotify.com/track/2JKprlOn7EiSpFZPysLRBm) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Westminster Williamson Voices](https://open.spotify.com/artist/15lRUiqnNSQsU2oIawSYrr), [James Jordan](https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26) | [Hole in the Sky](https://open.spotify.com/album/5IWEyoaZsrskjtjEwD7MYE) | 4:29 |
 | 22 | [Phos hilaron: II\. Phos hilaron](https://open.spotify.com/track/68vjfjbA59sWMSjwzY69cp) | [Owain Park](https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ), [The Gesualdo Six](https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X) | [Fading: 9 Centuries of Choral Meditation & Reflection](https://open.spotify.com/album/156ERTt1KOx357aeeLVpdM) | 2:12 |
 | 23 | [Spaseniye sodelal yesi posrede zemli \(Salvation is Created\), Op\. 25, No\. 5](https://open.spotify.com/track/0xmyzDblNF2iyiQTdGtG9u) | [Pavel Chesnokov](https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume), [Dale Warland Singers](https://open.spotify.com/artist/7lsn4vl91HSqb5byRmFu8I), [Dale Warland](https://open.spotify.com/artist/70TQpK6nl0sTjoJybeEtvz) | [The Dale Warland Singers: Lux Aurumque](https://open.spotify.com/album/4IDkSgEdONG4YLjGDAGB7D) | 3:35 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 | 91 | [Os justi](https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [A Choral Tapestry](https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x) | 4:42 |
 | 92 | [Allá se me ponga el sol à 4](https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg) | [Juan Ponce](https://open.spotify.com/artist/6VmMKWrL3Ppmv49NFd0QH5), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Allá se me ponga el sol à 4](https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4) | 2:55 |
 
-Snapshot ID: `MCw2OTU5YTNmZmI0ZjNlY2QwNzBjOTgyNzQ2YTAxNDgwNWI0YzgxOGI5`
+Snapshot ID: `MCw3OTdmNDA2ZmY3MmQ1M2Y3NzM4MWQ2YTllZDI4NTk0NzE1MzU1NDQ1`

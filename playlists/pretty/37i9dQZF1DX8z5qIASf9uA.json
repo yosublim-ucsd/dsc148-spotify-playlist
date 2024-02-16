@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Valent\u00edn Elizalde en portada. ",
-  "num_followers": 275166,
+  "num_followers": 275290,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWFlOWFmMTllNWI5OTViNmNjYmNkZjYwNzI3YTFhZDM4MjFkMDAw",
+  "snapshot_id": "MCwwYjI1MjZjNGQwZjhlMGQ4NjY0NWRiN2I2MDMwMzI3NjUyMjc0MjM5",
   "tracks": [
     {
       "added_at": "2023-11-28 00:20:32",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 282885,
-      "name": "Yo Quisiera Entrar",
-      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 282885,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
         "name": "Como Pude Enamorarme De Ti",
         "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 131440,
       "name": "C\u00f3mo Pude Enamorarme De Ti",
       "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "No Eres Tu Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 154566,
-      "name": "No Eres Tu Soy Yo",
-      "url": "https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4"
+      "duration_ms": 175506,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -875,6 +875,22 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "No Eres Tu Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "No Eres Tu Soy Yo",
+      "url": "https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -923,22 +939,6 @@
       "duration_ms": 187760,
       "name": "Cuando el Sol Salga Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "Boleros-Boleros-Bole",
         "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "La Absoluta Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 284013,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
         "name": "Los Boleros Morunos Solis",
         "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 167280,
       "name": "Cuatro Cirios",
       "url": "https://open.spotify.com/track/27fFEQ1xSjRaSPJ4JUPDg7"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "La Jugada",
-        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+      "duration_ms": 208146,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/4pY85K7zPSZxlm1uXkrxRF"
     },
     {
       "added_at": "2023-11-28 00:20:32",
