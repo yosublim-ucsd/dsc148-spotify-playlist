@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 21962,
+  "2024-02-17": 21985,
   "date_first_scraped": "2022-08-06",
   "description": "afrobeats: best served chill",
   "name": "Afro Chill",
@@ -565,10 +565,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163013,
       "name": "Another Vibe (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
+    },
+    {
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Another Vibe (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN"
     },
     {
       "album": {
@@ -1494,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "Clear / Rinse & Repeat",
+        "url": "https://open.spotify.com/album/646oxcwrISUFht8JJV0N07"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/10UV0GA408i11E6eSloCb4"
+    },
+    {
+      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
       },
@@ -2139,7 +2179,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 152079,
       "name": "Faaji",
       "url": "https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU"
@@ -2690,6 +2730,24 @@
     },
     {
       "album": {
+        "name": "Yes Indeed (Deluxe)",
+        "url": "https://open.spotify.com/album/6m9j2xBpJctycwE05Ku0xz"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Heavy Rotation",
+      "url": "https://open.spotify.com/track/7m3Udvtkx3DsFmpCPpyhLh"
+    },
+    {
+      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
       },
@@ -2705,6 +2763,24 @@
       "duration_ms": 208350,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "album": {
+        "name": "YUSFUL MUSIC (RELOADED)",
+        "url": "https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141562,
+      "name": "high and sober (go on soun)",
+      "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
     },
     {
       "album": {
@@ -3181,7 +3257,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163200,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2"
@@ -6801,7 +6877,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"

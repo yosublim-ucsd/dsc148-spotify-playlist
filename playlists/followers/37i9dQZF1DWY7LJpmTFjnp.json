@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 1000171,
+  "2024-02-17": 1000249,
   "date_first_scraped": "2022-02-09",
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Zo\u00e9 en portada. ",
   "name": "La + Chingona",
@@ -181,7 +181,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 225000,
       "name": "Almas Rotas",
       "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
@@ -793,6 +793,28 @@
       "duration_ms": 160786,
       "name": "El Colmo",
       "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
+    },
+    {
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142252,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
     },
     {
       "album": {
@@ -2043,7 +2065,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
@@ -3339,6 +3361,28 @@
       "duration_ms": 156000,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir"
+    },
+    {
+      "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214781,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
     },
     {
       "album": {

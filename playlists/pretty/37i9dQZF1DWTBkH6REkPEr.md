@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,950 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,031 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 57 | [Payback](https://open.spotify.com/track/34XFgPp7wnmLSE4w8UNC7I) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Payback](https://open.spotify.com/album/6aEGo2vCzGjnuaVHcRsUVZ) | 5:49 |
 | 58 | [Till It Hurts](https://open.spotify.com/track/6hJSH3jS9jG6khVclppBJw) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Till It Hurts](https://open.spotify.com/album/2Q4Tw5r56tuvZqs39pGn9w) | 3:08 |
 | 59 | [Turn up the Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
-| 60 | [Parachute \- Radio Edit](https://open.spotify.com/track/5m5vDr9hWKgAH8yYmSHZbu) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Parachute](https://open.spotify.com/album/4SCckqU3ztEN4CmoWRWfcN) | 3:22 |
+| 60 | [Sleepless \- Radio Edit](https://open.spotify.com/track/6AEMLsvCm4OYpN83ryOBMU) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Sleepless](https://open.spotify.com/album/1jqswOXgJtHe1SEK5uzJNT) | 3:41 |
 | 61 | [Dangerous \(feat\. Sam Martin\)](https://open.spotify.com/track/2w2lfwoTELQyN940qM7Nfd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:23 |
-| 62 | [Sleepless \- Radio Edit](https://open.spotify.com/track/6AEMLsvCm4OYpN83ryOBMU) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Sleepless](https://open.spotify.com/album/1jqswOXgJtHe1SEK5uzJNT) | 3:41 |
+| 62 | [Parachute \- Radio Edit](https://open.spotify.com/track/5m5vDr9hWKgAH8yYmSHZbu) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Parachute](https://open.spotify.com/album/4SCckqU3ztEN4CmoWRWfcN) | 3:22 |
 | 63 | [Wish You Were Mine \- Radio Edit](https://open.spotify.com/track/2zicJvVkjM4NTJtAdBH8yg) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Aftercluv Dancelab The Drop \(Vol\. 1\)](https://open.spotify.com/album/3BosHrLjkcqKTN7nY1exvv) | 2:57 |
 | 64 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
 | 65 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 80 | [Open Wide \(feat\. Big Sean\)](https://open.spotify.com/track/64j3Bd62HTe0pclk8Aq9BE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:07 |
 | 81 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 |
 
-Snapshot ID: `MCw0ODQxODU3YTZiMWJlYTcwOTRlODU1MWE4YWQ4MWUzZWNhMWJlMjMz`
+Snapshot ID: `MCxkZGM0MTllMmI2ZDZmOWRlOTcxZDRhYmFmZWRlNzIwMzk0ZmFkODZh`

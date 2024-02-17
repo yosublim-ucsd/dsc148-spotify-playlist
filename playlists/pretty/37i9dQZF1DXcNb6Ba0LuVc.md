@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,852 likes - 214 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,990 likes - 214 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 40 | [Weightless](https://open.spotify.com/track/1X6Y4v1seN9P8uUj2VAwMr) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Weightless](https://open.spotify.com/album/4cnTvUTgOTDIbiLh4eBwxK) | 2:34 |
 | 41 | [Summer Rain](https://open.spotify.com/track/4JXO0SJBFMKAVwRi5IJwFj) | [Beatriction](https://open.spotify.com/artist/4SSr3iApVhqgPLhIKOjrRs) | [Summer Rain](https://open.spotify.com/album/3LDcXASdlh1j3XlZCdVVsF) | 2:03 |
 | 42 | [Tudo Bem](https://open.spotify.com/track/0uTkC8q1PBpdco61GYuCNs) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Tudo Bem](https://open.spotify.com/album/7eY2dtq6SHLZy88BE1RIH3) | 2:15 |
-| 43 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 |
+| 43 | [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 |
 | 44 | [Weekend Slide](https://open.spotify.com/track/7ugkcHNMy9tjov6VMmLoKg) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Weekend Slide](https://open.spotify.com/album/2T8PKVKz0yyfqVG2PZZY74) | 2:28 |
 | 45 | [Place Of The Way](https://open.spotify.com/track/6fFFwljnWIsEHUVmqsfIJA) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Place Of The Way](https://open.spotify.com/album/1IxIzHF2U5u3dD2JKbFnC0) | 1:10 |
 | 46 | [LIFE](https://open.spotify.com/track/6CEfKrDJPDNKHvnCcQjfkd) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [LIFE](https://open.spotify.com/album/2AlBd43zrdIshx5p8DUvti) | 2:16 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 213 | [Verão](https://open.spotify.com/track/1CsyRF8KNY7c9hZezar55d) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/6yKNDEcv2JZ36kUFMsE3CJ) | 2:35 |
 | 214 | [Golden](https://open.spotify.com/track/4wNhZBHX5nljSBTCbf4Z0x) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Golden](https://open.spotify.com/album/2FqmKUkGYBuudgPtF1X1eL) | 2:13 |
 
-Snapshot ID: `MCxkN2M0ZTM4ODc0NTBiNmFkY2JiZjAzMjdhNDZlMzgzNzZhZmI3NDI1`
+Snapshot ID: `MCw0YWZlYmYzYzhiOTgzYjE5N2RkZjc3ZTcyZmNlNjI3Njc5NWI3Y2Ux`

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "ALL MY LIFE",
+        "url": "https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS"
+      },
+      "artists": [
+        {
+          "name": "Tomi Ow\u00f3",
+          "url": "https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "ALL MY LIFE",
+      "url": "https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9"
+    },
+    {
+      "album": {
         "name": "All Over You / Mon B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
       },
@@ -7034,7 +7052,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180000,
       "name": "See Finish",
       "url": "https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc"

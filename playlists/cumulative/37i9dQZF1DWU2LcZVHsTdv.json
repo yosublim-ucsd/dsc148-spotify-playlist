@@ -3561,6 +3561,28 @@
     },
     {
       "album": {
+        "name": "The Promise Is The Same (feat. Lori McKenna)",
+        "url": "https://open.spotify.com/album/1hFwa1bIluhu4cmvQ2aNoH"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212201,
+      "name": "The Promise Is The Same (feat. Lori McKenna)",
+      "url": "https://open.spotify.com/track/6NHRQ75qNCwYDc4kiLeTkn"
+    },
+    {
+      "album": {
         "name": "Okie",
         "url": "https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw"
       },

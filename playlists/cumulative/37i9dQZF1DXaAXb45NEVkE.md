@@ -4,7 +4,7 @@
 
 > Hold up, run that back\. Cover: Future
 
-191 songs - 10 hr 14 min
+192 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Pardon Me \(Lil Yachty feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/1sxGIhaxY8eF52e1TlShSP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 2:58 | 2022-06-03 |  |
 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74) | 3:23 | 2023-11-22 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-11-22 | 2024-02-08 |
-| [Point in My Life](https://open.spotify.com/track/2xQtvPCGfZWXccWCp9LYK4) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap House 3](https://open.spotify.com/album/3ZTwsrlhFezLH9SkPNaBNo) | 3:30 | 2024-01-26 |  |
+| [Point in My Life](https://open.spotify.com/track/2o2hrOq3vuQh8jmyx5eST6) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 3:30 | 2024-02-09 |  |
+| [Point in My Life](https://open.spotify.com/track/2xQtvPCGfZWXccWCp9LYK4) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap House 3](https://open.spotify.com/album/3ZTwsrlhFezLH9SkPNaBNo) | 3:30 | 2024-01-26 | 2024-02-17 |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-06-03 | 2023-11-22 |
 | [PTSD](https://open.spotify.com/track/3cNshI4vcsfixmyynV4wgt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:52 | 2022-10-07 | 2022-11-13 |
 | [PTSD](https://open.spotify.com/track/3jT2LKH0RSbQ8jIUNFzXm5) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/0jH6iWykjOuyW7Y8zNKMBk) | 3:52 | 2022-06-03 | 2022-07-29 |

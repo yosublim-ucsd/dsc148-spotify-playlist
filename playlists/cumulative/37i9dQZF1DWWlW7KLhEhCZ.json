@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "077",
+        "url": "https://open.spotify.com/album/5soao3Qgbem8XcoE6uJTjJ"
+      },
+      "artists": [
+        {
+          "name": "Bruth",
+          "url": "https://open.spotify.com/artist/4N0gEj0suICnvqDippd1Mr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "077",
+      "url": "https://open.spotify.com/track/2y6iIcIF0CBWaJakMX5WmY"
+    },
+    {
+      "album": {
         "name": "1, 2, 3",
         "url": "https://open.spotify.com/album/7dnzWYXTwFpuEhZughi0D3"
       },
@@ -2211,6 +2229,32 @@
     },
     {
       "album": {
+        "name": "Baby Tee",
+        "url": "https://open.spotify.com/album/6JTeZdzHFlSOZii0QIKUGq"
+      },
+      "artists": [
+        {
+          "name": "Moreir4",
+          "url": "https://open.spotify.com/artist/67Ly0I5kLhLHjlT6L2dJTW"
+        },
+        {
+          "name": "Blackbe",
+          "url": "https://open.spotify.com/artist/6BsJ09vtlJuxZ9dRxLbajo"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114750,
+      "name": "Baby Tee",
+      "url": "https://open.spotify.com/track/3xWtGlBkM5wUntrpwU87F5"
+    },
+    {
+      "album": {
         "name": "Back Flip",
         "url": "https://open.spotify.com/album/2NQxgocMTKSUGBoT3JxoIf"
       },
@@ -2878,6 +2922,24 @@
       "duration_ms": 172754,
       "name": "Barras de Ouro",
       "url": "https://open.spotify.com/track/3nsZRMOxSCczFA9YCSfNty"
+    },
+    {
+      "album": {
+        "name": "Os Piratas do Haxixe: Barril de Goblins (Merla Extra)",
+        "url": "https://open.spotify.com/album/6m4lPNRFOr9YBktxknbcah"
+      },
+      "artists": [
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146072,
+      "name": "Barril",
+      "url": "https://open.spotify.com/track/0CqjUcx94dcpnuSgubbOiL"
     },
     {
       "album": {
@@ -4762,7 +4824,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 143461,
       "name": "CEO",
       "url": "https://open.spotify.com/track/2xgkYC8Zoe0VDlvBc8amQI"
@@ -6098,6 +6160,24 @@
       "duration_ms": 125901,
       "name": "Dchefe",
       "url": "https://open.spotify.com/track/0fIrZwWPBe4rnili6ECsuN"
+    },
+    {
+      "album": {
+        "name": "De Fato",
+        "url": "https://open.spotify.com/album/5BNfBLFWICSaeBD4Er5GI0"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127997,
+      "name": "De Fato",
+      "url": "https://open.spotify.com/track/5qkyOZFlGtlJAFrsmHh6Ac"
     },
     {
       "album": {
@@ -7672,7 +7752,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 144578,
       "name": "Dor no Peito",
       "url": "https://open.spotify.com/track/2Akyf7Tgp052QKXxobB3WW"
@@ -9400,7 +9480,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 142901,
       "name": "Feita no Dende (feat. Manboy & Gree Cassua)",
       "url": "https://open.spotify.com/track/3LCQhSPM6ghssdGkE24iKb"
@@ -9847,6 +9927,28 @@
     },
     {
       "album": {
+        "name": "Foco no Progresso",
+        "url": "https://open.spotify.com/album/1AyVu6lZh1dQTEnt9C4PmK"
+      },
+      "artists": [
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        },
+        {
+          "name": "JKZ",
+          "url": "https://open.spotify.com/artist/1Gn8eEXtOWHA7XU8wEWXOb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214139,
+      "name": "Foco no Progresso",
+      "url": "https://open.spotify.com/track/3glmPb4pOJm0M3hxOr4er1"
+    },
+    {
+      "album": {
         "name": "Foco nos Planos",
         "url": "https://open.spotify.com/album/5xyXp92RiGsi5DkR8dfOPm"
       },
@@ -10092,7 +10194,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 183157,
       "name": "FREDO SANTANA",
       "url": "https://open.spotify.com/track/2pPmf5wacxvejWTbrSdjQP"
@@ -10158,7 +10260,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 135120,
       "name": "Freestyle Detroit",
       "url": "https://open.spotify.com/track/4QW39JrGDHZxf1fB2HqoKC"
@@ -10558,7 +10660,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 160000,
       "name": "GAME",
       "url": "https://open.spotify.com/track/6uYjRw1zWd9Lb9e0oIgwaY"
@@ -13917,6 +14019,28 @@
     },
     {
       "album": {
+        "name": "ME SINTO YUNG VEGAN",
+        "url": "https://open.spotify.com/album/5oaMTe2DLmbEKA20oQ1FPH"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144036,
+      "name": "ME SINTO YUNG VEGAN",
+      "url": "https://open.spotify.com/track/4OB5R0SlD7L5dRY7PBTFrh"
+    },
+    {
+      "album": {
         "name": "MEDICINA",
         "url": "https://open.spotify.com/album/1qM2umbc8KSjHvkaTO2VGv"
       },
@@ -14526,6 +14650,40 @@
       "duration_ms": 165251,
       "name": "Midas",
       "url": "https://open.spotify.com/track/0Z9GyLkufsC07ut3oYoYzQ"
+    },
+    {
+      "album": {
+        "name": "Migos",
+        "url": "https://open.spotify.com/album/3SyPbJVfzMBHOfGs03SshX"
+      },
+      "artists": [
+        {
+          "name": "Koala Ninja",
+          "url": "https://open.spotify.com/artist/3IqZFZ7N1MddpRFFqUPNkE"
+        },
+        {
+          "name": "mayklove",
+          "url": "https://open.spotify.com/artist/3ViPtN67C4po5HoqLgJy9m"
+        },
+        {
+          "name": "Bonde R300",
+          "url": "https://open.spotify.com/artist/5rhznZjKfSxtKVqB0JZtpC"
+        },
+        {
+          "name": "Shoke",
+          "url": "https://open.spotify.com/artist/4iedLABV8NCHhmf2ENkXVd"
+        },
+        {
+          "name": "Kam",
+          "url": "https://open.spotify.com/artist/2s8jKN9NOj2FVJrYqEnNeE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Migos",
+      "url": "https://open.spotify.com/track/451HBStCEylKMiyu5M62hu"
     },
     {
       "album": {
@@ -15533,6 +15691,40 @@
     },
     {
       "album": {
+        "name": "Nota 10",
+        "url": "https://open.spotify.com/album/4XMBBEhuafctO2f08XfH87"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/4TeO8NSg614dB0aZPENNZj"
+        },
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291363,
+      "name": "Nota 10",
+      "url": "https://open.spotify.com/track/6PtLdLY2eL2IXM8hXAQOjL"
+    },
+    {
+      "album": {
         "name": "Notas$$",
         "url": "https://open.spotify.com/album/09H5GIgP7IcUKUz3L2B3jK"
       },
@@ -16418,7 +16610,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 115829,
       "name": "Ouro e Joias",
       "url": "https://open.spotify.com/track/67SSejaE7tmF6APksprE5U"
@@ -17569,6 +17761,28 @@
     },
     {
       "album": {
+        "name": "Pique Faroeste",
+        "url": "https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN"
+      },
+      "artists": [
+        {
+          "name": "Yamashita",
+          "url": "https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw"
+        },
+        {
+          "name": "Ventu075",
+          "url": "https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146961,
+      "name": "Pique Faroeste",
+      "url": "https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj"
+    },
+    {
+      "album": {
         "name": "MONTE RUSH+",
         "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
       },
@@ -17724,7 +17938,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 149610,
       "name": "Pitstop",
       "url": "https://open.spotify.com/track/3oG4jXoFLDqoO066DYw2FN"
@@ -19581,6 +19795,32 @@
     },
     {
       "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/78W9zCvBtXI65V2mZ6Kmmp"
+      },
+      "artists": [
+        {
+          "name": "Jake the Kid",
+          "url": "https://open.spotify.com/artist/08G1EcOqlI874W6YuJjCXM"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "Yung Drum",
+          "url": "https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133877,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/5V3IAWGvs51H3gJNHddD8I"
+    },
+    {
+      "album": {
         "name": "Resignar",
         "url": "https://open.spotify.com/album/4KxorWZ9Pe5rxsKtp0yRIe"
       },
@@ -20986,7 +21226,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180735,
       "name": "SHOOTER",
       "url": "https://open.spotify.com/track/6zPl6axU0SIzYQS6ULVUlu"
@@ -22119,6 +22359,28 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/0Yog5KCLL4QZzdT5Zrk1Lb"
+      },
+      "artists": [
+        {
+          "name": "Dhalmas",
+          "url": "https://open.spotify.com/artist/5XH03RVu1NXtTamzUtmZAR"
+        },
+        {
+          "name": "Duarte Brasil",
+          "url": "https://open.spotify.com/artist/59t3Z8FZQNsbrLbx0AjAoP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161951,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/14PZORPfA6brciBeKUeVmk"
+    },
+    {
+      "album": {
         "name": "Teresina Freestyle",
         "url": "https://open.spotify.com/album/25NOjBfC8zNXCQ21Xf1oQ0"
       },
@@ -22688,7 +22950,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 225745,
       "name": "TRAMPOLIM",
       "url": "https://open.spotify.com/track/23u2MiLkBWMRclPC9pFgXW"

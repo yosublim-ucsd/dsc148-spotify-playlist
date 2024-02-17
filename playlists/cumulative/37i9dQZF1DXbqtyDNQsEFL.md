@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-300 songs - 1 day 8 hr 20 min
+301 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 | 2022-06-09 | 2023-08-04 |
 | [O De \(He's Here\)](https://open.spotify.com/track/6rkjS1nefV5SMIZOLD9I5D) | [HHPG](https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM), [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [BUKOLA BEKES](https://open.spotify.com/artist/2dNXRI4NkBERMYl4x5dcxR), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [O De \(He's Here\)](https://open.spotify.com/album/102OKbemB8VGg6OGjBRAba) | 4:21 | 2022-10-14 | 2022-11-05 |
 | [Oba Ni \- Live](https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Oba Ni \(Live\)](https://open.spotify.com/album/3lJbEjJlrPGj2fMHGRCoPn) | 14:12 | 2023-12-22 |  |
-| [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2022-06-09 |  |
+| [Obinigwe](https://open.spotify.com/track/0fs6Iaw6Dze7VzT2sHDpkD) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 9:12 | 2023-12-15 |  |
+| [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2022-06-09 | 2024-02-17 |
 | [Obinigwe](https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF) | 9:12 | 2022-06-09 | 2022-11-13 |
 | [Oghene Doh](https://open.spotify.com/track/5ShqFhdzGbOUX9wQir73l8) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [A Collection of Singles](https://open.spotify.com/album/4znHaZ87wk9G5AMTsi0MnK) | 3:17 | 2023-12-05 | 2023-12-11 |
 | [Oghene Me](https://open.spotify.com/track/6p6Zqs0sTpKbYY7p3NS4Yg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 4:56 | 2023-12-05 | 2023-12-11 |

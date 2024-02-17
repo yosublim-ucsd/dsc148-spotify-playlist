@@ -2,7 +2,7 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> And the winner is Tyla!!!!
+> what the HECK?!
 
 374 songs - 20 hr 47 min
 

@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Chenayder
+> Leaders of the new school...Alternative R&B\. Cover: serpentwithfeet
 
-1,087 songs - 2 day 9 hr 49 min
+1,090 songs - 2 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-03 | 2022-10-08 |
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-04 | 2022-09-05 |
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-05-20 | 2022-06-14 |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-05-26 | 2023-07-01 |
 | [EN ROUTE](https://open.spotify.com/track/3iHtZFKpQ0fChtvIzCTZqt) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [HADJA BANGOURA](https://open.spotify.com/album/4pg5SeMbmioO8Nxl2pnveF) | 2:05 | 2022-11-04 | 2022-12-24 |
 | [END OF DAYS](https://open.spotify.com/track/5L0kF2G7PX0pdRSd278n1g) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SUNSPOTS](https://open.spotify.com/album/3xEmCstoaxO1p2FmjaIUv7) | 3:05 | 2022-10-07 | 2022-10-13 |
@@ -387,6 +388,7 @@
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2022-04-01 | 2022-04-15 |
 | [GLOCK 25 \[Feat\. Zachary Moon\]](https://open.spotify.com/track/3HvTbIjbRW4mdGW8T9G6V4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Zachary Moon](https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:08 | 2023-09-08 | 2023-10-19 |
 | [GMFU](https://open.spotify.com/track/7rYhWL5o1LOerNu3F52EFg) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [GMFU](https://open.spotify.com/album/72hPgkb8OWffILRzkZ1J77) | 4:01 | 2023-10-20 | 2023-12-23 |
+| [GMO LOVE](https://open.spotify.com/track/2XiWBSe2EiZFljbvnW4gut) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 1:10 | 2024-02-16 |  |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-07-23 | 2022-07-30 |
 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 | 2023-04-07 | 2023-11-20 |
 | [GO GO GO](https://open.spotify.com/track/4tQ3eY36dfKWDiAQqX9w0u) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:25 | 2023-08-04 |  |
@@ -629,7 +631,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 | 2023-07-22 |
 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 | 2022-05-13 | 2023-02-04 |
 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 | 2023-03-03 | 2023-03-25 |
-| [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2023-11-03 |  |
+| [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2023-11-03 | 2024-02-17 |
 | [Most High](https://open.spotify.com/track/3txGeotloGcxftsfILid6V) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Most High](https://open.spotify.com/album/5x0EMr3Ue2bH83CbLCm9n4) | 2:23 | 2023-12-08 | 2024-02-09 |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-01-14 | 2023-05-06 |
 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 | 2022-06-10 | 2022-07-30 |
@@ -664,6 +666,7 @@
 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 | 2021-03-19 | 2022-05-17 |
 | [Nostalgia](https://open.spotify.com/track/1OZuSdGm0PTSyzhupwesoJ) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Nostalgia](https://open.spotify.com/album/31z9tfRIxe7jm0EBVJ9cVZ) | 2:27 | 2021-07-09 | 2022-01-29 |
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-03-31 | 2023-05-13 |
+| [not enough \(with Brent Faiyaz\)](https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 5:05 | 2024-02-16 |  |
 | [Not Just Anyone](https://open.spotify.com/track/4KE1awVDJBzEtRSzTu6wlh) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 3:28 | 2022-12-09 | 2023-06-10 |
 | [Not The Way](https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Pierce.blue](https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv) | [Not The Way](https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB) | 3:08 | 2022-07-22 | 2022-07-24 |
 | [Not Your Love \(Remix\)](https://open.spotify.com/track/0LeH5Vq5s6sr6xA9mcDgt1) | [R.A.E](https://open.spotify.com/artist/1z3xC9ml81L5vugg78Eegq), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Not Your Love \(Remix\)](https://open.spotify.com/album/1tXkbMvcDwMZsNedINC5mz) | 3:06 | 2022-04-01 | 2022-04-14 |
@@ -800,7 +803,7 @@
 | [royal flush](https://open.spotify.com/track/7bNbfwfW69j5vNmJ1JvNqi) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [royal flush](https://open.spotify.com/album/53MJQwS7ZbaMIC6Kfsa32U) | 2:26 | 2021-04-02 | 2022-01-29 |
 | [RUBBER BANDS](https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [RUBBER BANDS](https://open.spotify.com/album/4zqb97nYx9h7x9hO307476) | 2:51 | 2021-05-14 | 2022-04-12 |
 | [Run](https://open.spotify.com/track/7Jtf2RpwDW654tbp6bbIA3) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:59 | 2023-05-12 | 2023-09-09 |
-| [Running](https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [running](https://open.spotify.com/album/11O3GQQAOAVvsqrUnbtXgl) | 3:20 | 2023-12-01 |  |
+| [Running](https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [running](https://open.spotify.com/album/11O3GQQAOAVvsqrUnbtXgl) | 3:20 | 2023-12-01 | 2024-02-17 |
 | [Running In A Circle](https://open.spotify.com/track/2UEAjm1sDcJe9BMZaRr8x9) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Running In A Circle](https://open.spotify.com/album/1ir1Q3x9UIYnrkyt9LkMYq) | 3:39 | 2023-11-19 | 2024-01-11 |
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-16 |
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-14 | 2022-07-29 |
@@ -968,7 +971,7 @@
 | [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 | 2023-07-14 | 2023-12-09 |
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-11-05 | 2022-09-10 |
 | [Tired Faces](https://open.spotify.com/track/7hKPdrKAHF1S1CBoBMgqRD) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Tired Faces](https://open.spotify.com/album/1WEojIm2uhbikoqOt1YNiK) | 3:05 | 2022-09-02 | 2022-09-24 |
-| [To Be Still](https://open.spotify.com/track/23QBVXJaB7DJ5L1BRTQKKH) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/4c74QJnuaNS0Le46LHrwfC) | 2:27 | 2024-02-09 |  |
+| [To Be Still](https://open.spotify.com/track/23QBVXJaB7DJ5L1BRTQKKH) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/4c74QJnuaNS0Le46LHrwfC) | 2:27 | 2024-02-09 | 2024-02-17 |
 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-04 |  |
 | [too far close](https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:00 | 2023-02-03 | 2023-04-29 |
 | [Too Hot](https://open.spotify.com/track/3EBhxCNyAxQGCQfPG2bdq0) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Too Hot](https://open.spotify.com/album/4sXvrkheeB6UnZ8eNcCZCG) | 1:48 | 2021-11-05 | 2022-04-22 |

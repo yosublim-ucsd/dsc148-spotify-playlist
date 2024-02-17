@@ -738,6 +738,24 @@
     {
       "album": {
         "name": "Valentine (What's It Gonna Be)",
+        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207355,
+      "name": "Valentine (What's It Gonna Be)",
+      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
+    },
+    {
+      "album": {
+        "name": "Valentine (What's It Gonna Be)",
         "url": "https://open.spotify.com/album/5q8By0cUOoPK7FKMmYE4hD"
       },
       "artists": [

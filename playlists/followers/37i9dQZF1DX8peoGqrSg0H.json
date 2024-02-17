@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 155242,
+  "2024-02-17": 155302,
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jeff Satur",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -523,6 +523,24 @@
       "duration_ms": 181914,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2"
+    },
+    {
+      "album": {
+        "name": "Congratulations (\u0e22\u0e34\u0e19\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d)",
+        "url": "https://open.spotify.com/album/0iGonUyEYw1iEEvwsjAKeO"
+      },
+      "artists": [
+        {
+          "name": "GULFKANAWUT",
+          "url": "https://open.spotify.com/artist/18rLnzDRgijQDrHurajXAS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Congratulations (\u0e22\u0e34\u0e19\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d)",
+      "url": "https://open.spotify.com/track/5aMsKFD43XuYWH6rpzXV4C"
     },
     {
       "album": {
@@ -1085,6 +1103,28 @@
       "duration_ms": 200664,
       "name": "Life Boy (\u0e1e\u0e39\u0e14\u0e44\u0e1b\u0e01\u0e47\u0e44\u0e25\u0e1f\u0e4c\u0e1a\u0e2d\u0e22)",
       "url": "https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3"
+    },
+    {
+      "album": {
+        "name": "LUCKY YOU",
+        "url": "https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "LUCKY YOU",
+      "url": "https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON"
     },
     {
       "album": {
@@ -1735,10 +1775,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 174768,
       "name": "VROOM VROOM",
       "url": "https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B"
+    },
+    {
+      "album": {
+        "name": "WATCH YOUR STEP",
+        "url": "https://open.spotify.com/album/347v2CFOheG1u8zXZrex32"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230163,
+      "name": "WATCH YOUR STEP",
+      "url": "https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1"
     },
     {
       "album": {
@@ -2045,7 +2103,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 232000,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e08\u0e1a\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49 (get to know me)",
       "url": "https://open.spotify.com/track/32mVnNcR1wfjYRK7wJIN5w"
@@ -2390,6 +2448,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e43\u0e01\u0e25\u0e49\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e44\u0e01\u0e25 (Far Too Close) - Single",
+        "url": "https://open.spotify.com/album/4KfMHVdYnhm5rAeLjaO1Oj"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213220,
+      "name": "\u0e04\u0e19\u0e43\u0e01\u0e25\u0e49\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e44\u0e01\u0e25 (Far Too Close)",
+      "url": "https://open.spotify.com/track/7cPbDYvleayRU4zcGp82mT"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e40\u0e02\u0e32\u0e14\u0e39\u0e41\u0e25\u0e2d\u0e22\u0e39\u0e48",
         "url": "https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm"
       },
@@ -2585,7 +2661,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195810,
       "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
       "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
@@ -3171,7 +3247,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 205185,
       "name": "\u0e0a\u0e2d\u0e1a\u0e43\u0e2a\u0e48\u0e43\u0e08 (Just Curious)",
       "url": "https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO"
@@ -3363,6 +3439,28 @@
       "duration_ms": 240800,
       "name": "\u0e14\u0e35\u0e44\u0e1b\u0e2b\u0e21\u0e14",
       "url": "https://open.spotify.com/track/4ry6ldKaFtoLOBgS6rAndh"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e36\u0e01\u0e21\u0e32\u0e01\u0e41\u0e25\u0e49\u0e27 (Night Ride) - Single",
+        "url": "https://open.spotify.com/album/6UtRPTFCUI812kj8IFHODm"
+      },
+      "artists": [
+        {
+          "name": "WIN METAWIN",
+          "url": "https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW"
+        },
+        {
+          "name": "Badmixy",
+          "url": "https://open.spotify.com/artist/5487qToh8N42rr1XqH3qlC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182699,
+      "name": "\u0e14\u0e36\u0e01\u0e21\u0e32\u0e01\u0e41\u0e25\u0e49\u0e27 (Night Ride)",
+      "url": "https://open.spotify.com/track/75Bo8CwyOB44OwaXw14w1a"
     },
     {
       "album": {
@@ -4282,6 +4380,28 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e44\u0e1b\u0e1b\u0e48\u0e30 (So Bright Baby)",
+        "url": "https://open.spotify.com/album/1szv6EkOzZsRg5YlRRGDjp"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159645,
+      "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e44\u0e1b\u0e1b\u0e48\u0e30 (So Bright Baby)",
+      "url": "https://open.spotify.com/track/382vyfu2u0M8D8ixdoHsd2"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e35\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (From Future \u0e27\u0e34\u0e28\u0e27\u0e30\u0e2a\u0e38\u0e14\u0e2b\u0e25\u0e48\u0e2d\u0e01\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e2b\u0e21\u0e2d\u0e02\u0e2d\u0e07\u0e1c\u0e21)",
         "url": "https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0"
       },
@@ -4707,6 +4827,28 @@
       "duration_ms": 269838,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e09\u0e31\u0e19 (Safe Zone)",
       "url": "https://open.spotify.com/track/2UC53K6OpwTxFI7oTKKwdh"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e47\u0e1e\u0e2d (365 Days) [Magic Ver.]",
+        "url": "https://open.spotify.com/album/1qM79NyTqRwCUdwT3JkJIs"
+      },
+      "artists": [
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        },
+        {
+          "name": "SMEW",
+          "url": "https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "\u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e47\u0e1e\u0e2d (365 Days) - Magic Ver.",
+      "url": "https://open.spotify.com/track/4sCLtvADVVmNkBw9epqKVa"
     },
     {
       "album": {
@@ -6763,7 +6905,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 216623,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19(\u0e41\u0e2d\u0e1a)\u0e23\u0e31\u0e01 - Close(d) Friend",
       "url": "https://open.spotify.com/track/4hixbQQlUe67vYHbPnOeih"
@@ -6781,7 +6923,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 240740,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Close Friend)",
       "url": "https://open.spotify.com/track/7xfqTNAUFmbM1wlmCPxRmQ"
@@ -6933,7 +7075,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 209949,
       "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e40\u0e04\u0e49\u0e32\u0e40\u0e25\u0e22\u0e44\u0e14\u0e49\u0e21\u0e31\u0e49\u0e22 (No Choice)",
       "url": "https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc"
@@ -6959,6 +7101,28 @@
       "duration_ms": 174352,
       "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2a\u0e2d\u0e07 (Love Tone)",
+        "url": "https://open.spotify.com/album/1LxwAag6wvRPviopqEToNN"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        },
+        {
+          "name": "MABELZ PiXXiE",
+          "url": "https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2a\u0e2d\u0e07 (Love Tone)",
+      "url": "https://open.spotify.com/track/5IeEEXL1vAeavccMOooYCF"
     },
     {
       "album": {
@@ -7085,7 +7249,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 197552,
       "name": "\u0e40\u0e2d\u0e32\u0e44\u0e23\u0e27\u0e48\u0e32\u0e21\u0e32 (Anything You Want)",
       "url": "https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq"

@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Tại Sao Anh Không](https://open.spotify.com/track/3hJYLmvSug7QXd0pr0UAQt) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT) | [Tại Sao Anh Không](https://open.spotify.com/album/6Hqk7kJN90Jxw2OWC2g2ue) | 3:55 |
 | 100 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 |
 
-Snapshot ID: `MCwwYTRhOGQwODA4OTM4YmJiZGE4ZTY3YjFjMDI5ZTI0NzNiYzZkYTRm`
+Snapshot ID: `MCxhYzA1ZTVkYjhhNzIxNjZlNDEzZGNkMTJjNWVkNWEyMTcyM2FjMzNm`

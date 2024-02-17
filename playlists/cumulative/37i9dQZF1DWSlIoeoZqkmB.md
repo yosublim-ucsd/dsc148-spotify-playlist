@@ -4,7 +4,7 @@
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-33 songs - 2 hr 7 min
+34 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Blessing](https://open.spotify.com/track/06Ib3ZdvO0VyAZMdq0qpaw) | [千葉翔也](https://open.spotify.com/artist/4K9KcKXSLwOVO44wHuxML1) | [Blessing](https://open.spotify.com/album/2fg7Y4nRH7bTtqO9wSOMJm) | 4:19 | 2024-02-01 |  |
 | [DREAMS](https://open.spotify.com/track/655tvyhcRmteX32HfJVAdz) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [DREAMS](https://open.spotify.com/album/4EuIn0YldaIEf1I0iayIkg) | 5:01 | 2024-02-01 |  |
 | [Endless Story](https://open.spotify.com/track/0B6veGzy6V963S3if0GSRu) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [Endless Story](https://open.spotify.com/album/588Kj4NiJvr3hICx3y0YDd) | 3:45 | 2024-02-01 |  |
-| [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 | 2024-02-01 |  |
+| [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 | 2024-02-15 |  |
+| [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 | 2024-02-01 | 2024-02-17 |
 | [Freestyle Lover](https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [DETONATOR](https://open.spotify.com/album/3Ii5xT9Sreevb2z0eun83F) | 3:44 | 2024-02-01 |  |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2024-02-01 |  |
 | [Horizon 2003](https://open.spotify.com/track/0d8Eg72yZBf7ojJ26QbkrK) | [國府田マリ子](https://open.spotify.com/artist/2zWZbDh3WpGrALfJb5CgSj) | [My Best Friend 3](https://open.spotify.com/album/2LfcYSsLK1nY31TQd3vAr6) | 5:22 | 2024-02-01 |  |

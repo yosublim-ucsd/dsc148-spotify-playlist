@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "A Time of Quiet Between the Storms / Harvester Attack (from \"Dune: Part Two\")",
+        "url": "https://open.spotify.com/album/31iFZsioqZFiA59rV3I4L7"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261795,
+      "name": "A Time of Quiet Between the Storms",
+      "url": "https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },

@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-339 songs - 21 hr 13 min
+340 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2019-09-29\* |  |
 | [Skinny Love](https://open.spotify.com/track/0zP8BJOamm7Q9aNMwCby55) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/3JKLAR3XV8VIFIHagNAR3Y) | 3:58 | 2020-06-12 | 2022-07-28 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-02-14 |  |
-| [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 | 2019-10-27 |  |
+| [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 | 2019-10-27 | 2024-02-17 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-07 |  |
 | [Social Wedding Rings](https://open.spotify.com/track/6eRsMDNsNyLBg3vKFiR0nV) | [Mount Moriah](https://open.spotify.com/artist/0NIClyUOoNPl2GQouxBYH7) | [Mount Moriah](https://open.spotify.com/album/2cp5rR30VgDRPGvu7t9Ao2) | 4:23 | 2021-01-12 | 2021-01-15 |
 | [Soft Skin](https://open.spotify.com/track/7sWhNpnb6u2B59Noe7apIU) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Made The Harbor](https://open.spotify.com/album/67aVWwFKfxnRaLJWJvsSM3) | 2:03 | 2020-06-12 | 2021-01-12 |
@@ -346,6 +346,7 @@
 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4mQdVD2eBGEJ93WbAeVGdu) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 3:05 | 2021-04-24 | 2021-10-14 |
 | [You and I \- Acoustic](https://open.spotify.com/track/2YVFDAZDou5A6UeTrYWmWX) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You and I \(Acoustic\)](https://open.spotify.com/album/1K15bUc42XXQWoBR8ZtiMi) | 3:13 | 2023-06-30 |  |
 | [You Come Down](https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [That Iron Taste](https://open.spotify.com/album/1HBTigeKszgy2KJPna3hND) | 2:54 | 2020-06-12 | 2021-01-12 |
+| [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-16 |  |
 | [You My Love](https://open.spotify.com/track/1r6cXvd02dCxF2E78uSJ8J) | [Marcus Foster](https://open.spotify.com/artist/0jBTGpTyxmDIEBwtjXgEOC) | [Nameless Path](https://open.spotify.com/album/4CtVv2TK3nsPu1OJeg9Qeq) | 3:37 | 2020-06-12 | 2021-01-15 |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

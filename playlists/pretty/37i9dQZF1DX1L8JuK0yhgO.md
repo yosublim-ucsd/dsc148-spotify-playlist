@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,440 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,439 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 8 | [幽霊と作家](https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [幽霊と作家](https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6) | 4:08 |
 | 9 | [君の胸に、Gunshot](https://open.spotify.com/track/2Qo1upczok2ZrLNXcx7DO5) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1) | [君の胸に、Gunshot](https://open.spotify.com/album/4ot327ewMXJXs82Oh6n0rY) | 5:21 |
 | 10 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
-| 11 | [TALKING](https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:05 |
+| 11 | [TALKING](https://open.spotify.com/track/1eaqMiiUn2P7MnqJK4XeK0) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:05 |
 | 12 | [A\-Town Girl](https://open.spotify.com/track/2FPn9y8gvvrp9gydZmGpvT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:32 |
 | 13 | [Girlfriend \(London Girls Mix\)](https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Girlfriend \(London Girls Mix\)](https://open.spotify.com/album/0P8AtYjs6i7Dr1HgqVNfr0) | 2:49 |
 | 14 | [Torch](https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [WASTE](https://open.spotify.com/track/30fhBHPS0lrzNxHqsZOvJ8) | [Yamiboi To$](https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es) | [WASTE](https://open.spotify.com/album/6WYDe7JIwNHeLDWTDMNgQr) | 1:20 |
 | 60 | [Way Up](https://open.spotify.com/track/6EHPLCJo9d5LilgZV1aEZf) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Way Up](https://open.spotify.com/album/1iib1XZEFw66W3YYjep2cZ) | 1:53 |
 
-Snapshot ID: `MCwzNWQ4NDljMmVjNTE3NjE2N2U0MzQ2M2I0OTEyZmEyYTk4NDkwZjg2`
+Snapshot ID: `MCxlN2JiMTIwYzE2MWY1Y2Q2Y2JlMjg4NDQwMzYwODAyMjM1ZjNjNmYy`

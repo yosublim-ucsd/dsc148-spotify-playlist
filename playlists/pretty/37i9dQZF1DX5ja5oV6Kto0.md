@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Filah Lah Lah
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,204 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,247 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Yesterday](https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Full Full Condition Vol\. 3](https://open.spotify.com/album/36kkJHEPONjWSX6mOYHlRi) | 2:37 |
 | 80 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 |
 
-Snapshot ID: `MCw5NzIyZGI1NGUxN2VhNmIyN2NiYTY2MTc3ZWMxMDRjMzM3YWRhMmFj`
+Snapshot ID: `MCwzMDNmMjcyNDQxMTNlYzcwZjlkZmQ0ZGY5MWQ0YjY0YmEwYmM4MjA5`

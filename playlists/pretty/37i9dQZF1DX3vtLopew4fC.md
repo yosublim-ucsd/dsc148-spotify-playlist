@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Shay Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,349 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,352 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 15 | [Band Like That](https://open.spotify.com/track/0aKMGLwrK6KJLvMafZvsSZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Band Like That](https://open.spotify.com/album/5fRzRIGjUCxlL68gipL7tP) | 2:36 |
 | 16 | [Pick A Side](https://open.spotify.com/track/0FxcWbSvTLzorJCgUg5m9H) | [Layla Hendryx](https://open.spotify.com/artist/3ZE7V0WdT5nFZAWSW7iDZR) | [See What happens When](https://open.spotify.com/album/0LL94xvM8jaBx2gKBTndiP) | 2:33 |
 | 17 | [Other Side of 25](https://open.spotify.com/track/58xOX6VOxQw3HEZjtM7C2S) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Other Side of 25](https://open.spotify.com/album/2fpUZ6HCdlgE4ijURcHlAA) | 3:00 |
-| 18 | [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 |
+| 18 | [Really Mean It](https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 3:14 |
 | 19 | [Do I Wanna Kiss Him](https://open.spotify.com/track/0XTznYivhnhFERMQ4ypZwI) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Do I Wanna Kiss Him](https://open.spotify.com/album/6GyfjhAfGNLVHJczhLa2qI) | 2:19 |
 | 20 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 |
 | 21 | [DBD](https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [DBD](https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [What if I](https://open.spotify.com/track/3QbpR65scNHVSluvLKOdS6) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [What if I](https://open.spotify.com/album/4xRmMm2gxJ5JIdEElLkoZE) | 3:05 |
 | 50 | [Fermer les yeux](https://open.spotify.com/track/0WF6GSwbev3HAGqw2xv9Lw) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [Fermer les yeux](https://open.spotify.com/album/6CO4ffZvP2KpX3MYkFOIuk) | 3:12 |
 
-Snapshot ID: `MCxlN2RjNzdiZjMxN2Q4YThiMTMxM2U5N2E4ZmU2ZWM4ZWM2NWFiYzY3`
+Snapshot ID: `MCxmYmQwNzI2NWRlYWU3MmViMmVjMmU5NzlhNDlkZTkxMmRiMDZkMTJi`

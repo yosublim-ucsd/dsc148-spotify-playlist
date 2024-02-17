@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-661 songs - 1 day 12 hr 46 min
+662 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-02 | 2023-10-18 |
 | [Cranberry](https://open.spotify.com/track/7eE5ShNk4bIooVT9VS6BXU) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Cranberry](https://open.spotify.com/album/5SQy6olKLvKRxaCF76c9Ys) | 3:05 | 2023-10-17 | 2023-10-24 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-11-08 |  |
+| [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 | 2024-02-16 |  |
 | [Cry, Baby, Cry](https://open.spotify.com/track/6LBue8UFdVBxpf3mpbtIB8) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Cry, Baby, Cry](https://open.spotify.com/album/60j9wOkjIlDkSYvk2TShM1) | 3:33 | 2022-09-06 | 2022-09-13 |
 | [Crying My Eyes Out](https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Crying My Eyes Out](https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2) | 2:55 | 2023-04-24 | 2023-09-26 |
 | [Cue](https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:34 | 2023-07-03 | 2023-07-10 |
@@ -559,7 +560,7 @@
 | [Teeth Marks](https://open.spotify.com/track/6L7uYQYLL6veGWP89fFph0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH) | 3:37 | 2022-06-06 | 2022-06-14 |
 | [Tell Me Have You Been Dancing \- Claud Remix](https://open.spotify.com/track/30wuBQxnI9aME41CBMuKaZ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tell Me Have You Been Dancing \(Claud Remix\)](https://open.spotify.com/album/5PJQPn04XHPVunHWwobYIL) | 3:05 | 2023-03-14 | 2023-04-02 |
 | [Ten](https://open.spotify.com/track/6pXRLi8Gx2cZ3VQZJp1kFd) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/5LF0FgPNp2ImHWV8P6ZkCx) | 2:08 | 2022-06-13 | 2022-06-27 |
-| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2023-11-08 |  |
+| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2023-11-08 | 2024-02-17 |
 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 | 2023-04-17 | 2023-09-26 |
 | [That Kinda Girl](https://open.spotify.com/track/7xx7TSQDUl9gsLOH5ZKKWX) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [It’s Always Summer in Supertropicali \(Chapter 2\)](https://open.spotify.com/album/0fx9Wepc1X1qSMVK6Nrm81) | 3:14 | 2022-09-21 | 2022-09-28 |
 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-05-28 | 2023-07-17 |

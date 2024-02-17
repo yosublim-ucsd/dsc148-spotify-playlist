@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Forestella(\ud3ec\ub808\uc2a4\ud154\ub77c)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Hera Hyesang Park(\ubc15\ud61c\uc0c1)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "Classic.K",
   "tracks": [
     {
@@ -2152,6 +2152,40 @@
       "duration_ms": 145973,
       "name": "when it snows in May",
       "url": "https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        },
+        {
+          "name": "Hera Hyesang Park",
+          "url": "https://open.spotify.com/artist/5BEdNxvruChpR6M2ZSzk4H"
+        },
+        {
+          "name": "Giovanni Battista Fabris",
+          "url": "https://open.spotify.com/artist/0HmmACDgxK6xEYtw2zOWWH"
+        },
+        {
+          "name": "Orchestra del Teatro Carlo Felice",
+          "url": "https://open.spotify.com/artist/0IyzdQmUIF7OW35Lj5MkTi"
+        },
+        {
+          "name": "Jochen Rieder",
+          "url": "https://open.spotify.com/artist/60gjz5QfP3kW8Nsw5GJOuk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246986,
+      "name": "While You Live",
+      "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"
     },
     {
       "album": {

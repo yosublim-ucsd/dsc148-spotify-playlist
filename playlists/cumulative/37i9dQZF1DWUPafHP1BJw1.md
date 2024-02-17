@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-172 songs - 10 hr 19 min
+173 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,8 +131,9 @@
 | [Running Up That Hill \- Violin](https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Running Up That Hill \(Violin\)](https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi) | 4:06 | 2022-06-24 | 2022-07-09 |
 | [Save Your Tears \(arr\. string quartet\) \- Inspired by 'Bridgerton'](https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Save Your Tears \(arr\. String quartet\) \[Inspired by 'Bridgerton'\]](https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF) | 3:05 | 2022-04-08 |  |
 | [Señorita](https://open.spotify.com/track/5IUkEKXYrAzIhgHeAyU6gE) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Señorita](https://open.spotify.com/album/5fMUj1mTQwHCPfloI8071G) | 3:04 | 2021-11-19 |  |
+| [Shake It Off](https://open.spotify.com/track/477QsWo0LJO2jVtAshAk4e) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Taylor Swift](https://open.spotify.com/album/4f5ciuGccXCtsdwfZkpGq3) | 3:41 | 2024-02-16 |  |
 | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2) | 2:40 | 2021-11-19 | 2022-07-29 |
-| [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO) | 2:40 | 2022-07-08 |  |
+| [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS) | [Sean Redmond](https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA) | [Shake It Off \(Originally Performed by Taylor Swift\)](https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO) | 2:40 | 2022-07-08 | 2024-02-17 |
 | [Shallow \- Piano Version](https://open.spotify.com/track/2TVtbMZR9r2nxI7XAnhxbF) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Shallow \(Piano Version\)](https://open.spotify.com/album/0VmNjm95rxyjhzwJiT3bhE) | 4:18 | 2022-07-08 |  |
 | [Shallow Day](https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Shallow Day](https://open.spotify.com/album/2vUmVYXtbMq8JaUEw4QR0Y) | 4:18 | 2021-11-19 | 2022-07-29 |
 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 | 2021-11-19 |  |

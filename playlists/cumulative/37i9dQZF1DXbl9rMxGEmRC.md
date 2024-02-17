@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-589 songs - 2 day 2 hr 17 min
+591 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Reluctance of Being](https://open.spotify.com/track/1lWTj52J0d7kVVdiHD63TH) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [VOID](https://open.spotify.com/album/0h4IKieMCRbXIit4uQ1PWQ) | 6:56 | 2023-09-22 | 2023-11-18 |
 | [A World Of Pain](https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Here For None](https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa) | 3:09 | 2023-08-18 |  |
 | [Abhorrence Evangelium](https://open.spotify.com/track/0QiIMQ7u0BDw08z5htgmBt) | [Cruciamentum](https://open.spotify.com/artist/4cM4Vlx41zMs5lLQcSFlTy) | [Abhorrence Evangelium](https://open.spotify.com/album/0u4f10JDYcUdiz4NVfPwmu) | 4:48 | 2023-09-26 | 2023-11-02 |
-| [Abhorrence Evangelium](https://open.spotify.com/track/3fz3Png857RYvZmdcL8ocr) | [Cruciamentum](https://open.spotify.com/artist/4cM4Vlx41zMs5lLQcSFlTy) | [Obsidian Refractions](https://open.spotify.com/album/0VvMZFEVO4QlF8z9JwzKd5) | 4:48 | 2023-12-15 |  |
+| [Abhorrence Evangelium](https://open.spotify.com/track/3fz3Png857RYvZmdcL8ocr) | [Cruciamentum](https://open.spotify.com/artist/4cM4Vlx41zMs5lLQcSFlTy) | [Obsidian Refractions](https://open.spotify.com/album/0VvMZFEVO4QlF8z9JwzKd5) | 4:48 | 2023-12-15 | 2024-02-17 |
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2022-07-19 |
 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 | 2022-05-13 | 2022-07-28 |
 | [Agnus Dei](https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc) | [Funeral Mist](https://open.spotify.com/artist/2HDKz66BGq7RI2wEoMgPcv) | [Salvation](https://open.spotify.com/album/4aa0c088fBY0PYvrhKVEp2) | 4:33 | 2022-07-13 | 2022-07-27 |
@@ -112,7 +112,7 @@
 | [Cosmic Keys To My Creations](https://open.spotify.com/track/2PCkhY491TTMh6huRR0sVP) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/5xlWZg5A1euPjkSDUxCaLL) | 6:22 | 2023-09-01 |  |
 | [Cosmic Keys to My Creations and Times \- Emperor EP](https://open.spotify.com/track/2Dm4omgxnNrLchOhyVriSC) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath of the Tyrant](https://open.spotify.com/album/6oF6z5RZWANz1V2q0qQp2L) | 6:22 | 2022-07-13 | 2022-07-28 |
 | [Cradle of Insanity](https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Cradle of Insanity](https://open.spotify.com/album/39Vuf7tc9kQQWreq0m3kyp) | 5:15 | 2022-05-13 | 2022-07-29 |
-| [Crime & Castigo](https://open.spotify.com/track/5zWrHra7s2PdCD3diJsQ2U) | [Hatefulmurder](https://open.spotify.com/artist/6gzTPz8NipWH2EBUPw1CPy) | [Crime & Castigo](https://open.spotify.com/album/0ZHPGYQJGwJo1amjYy3h2T) | 3:09 | 2024-01-26 |  |
+| [Crime & Castigo](https://open.spotify.com/track/5zWrHra7s2PdCD3diJsQ2U) | [Hatefulmurder](https://open.spotify.com/artist/6gzTPz8NipWH2EBUPw1CPy) | [Crime & Castigo](https://open.spotify.com/album/0ZHPGYQJGwJo1amjYy3h2T) | 3:09 | 2024-01-26 | 2024-02-17 |
 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 | 2022-07-13 |  |
 | [Cryptic Hatred](https://open.spotify.com/track/34emkkUGkQ0TNhklAMpeG8) | [Bekor Qilish](https://open.spotify.com/artist/3XFes9KaDdpuRTaiPrHCXR) | [Throes of Death from the Dreamed Nihilism](https://open.spotify.com/album/0gck1FDA4mOauf4e6BSbjV) | 4:32 | 2023-02-15 | 2023-04-01 |
 | [Cult of Shaad'oah](https://open.spotify.com/track/1G2gIvViMPVHsjHQ9Cqxkq) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Cult of Shaad'oah](https://open.spotify.com/album/3TgbVo0JRtM8sXTVtPWxb6) | 5:23 | 2023-06-23 | 2023-07-19 |
@@ -361,6 +361,7 @@
 | [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2023-05-26 | 2023-07-01 |
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
+| [Nuclear Savior](https://open.spotify.com/track/37XTkJgEvDam23mqmW06GX) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nuclear Savior](https://open.spotify.com/album/7ARKWNfgv34t3iuLoAmm1M) | 2:37 | 2024-02-16 |  |
 | [Obsessis a Daemonio](https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [Zwielicht](https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu) | 5:07 | 2023-07-03 |  |
 | [Of Awakening](https://open.spotify.com/track/38gzO4KB62UPk2umEg3Pbt) | [The Circle](https://open.spotify.com/artist/4nYpSvfKXGjZnXDIrS7Kpe), [Ne Obliviscaris](https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4) | [Of Awakening](https://open.spotify.com/album/7J24x9Ybi0ZXheXsHONli8) | 6:10 | 2023-07-07 | 2023-09-08 |
 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2023-03-05 |
@@ -492,6 +493,7 @@
 | [The Calling](https://open.spotify.com/track/5Bwrghb07gSkdBtqRcguIo) | [Saturnus](https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id) | [The Storm Within](https://open.spotify.com/album/0hWfrjcqrxmcDEy9GSlqx7) | 6:59 | 2023-09-22 | 2023-12-15 |
 | [The Cambrian Explosion](https://open.spotify.com/track/0XDQEDR8gr6aaUY2jVpBXO) | [Alkaloid](https://open.spotify.com/artist/4KMQDFaAsPEKcqKzdvkYKc) | [The Cambrian Explosion](https://open.spotify.com/album/0poic6k1yB9r89F2JpXKDI) | 3:59 | 2023-07-28 | 2023-09-30 |
 | [The Celestial Keeper](https://open.spotify.com/track/3OQ3r2qzMj1gBpfQpo4HEZ) | [Fall Of The Leafe](https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn) | [Evanescent, Everfading](https://open.spotify.com/album/1zv5yNwJ91m73bxYe0r87V) | 4:29 | 2023-02-15 | 2023-03-18 |
+| [The Common Breed](https://open.spotify.com/track/229FIG47MznxJy6077DAIM) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [Boundless Domain](https://open.spotify.com/album/3SJSmyMIUDmSjpHGeZKxDG) | 4:32 | 2024-02-16 |  |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 | 2023-06-18 |
 | [The Dark \(Winter\)](https://open.spotify.com/track/451BYwGZF7lYLxkhJk1zCE) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [The Dark \(Winter\)](https://open.spotify.com/album/1K2Z23Ff5NNhERhuqhiAF2) | 7:31 | 2023-07-21 | 2023-10-18 |
 | [The Dhampir, Pt\. I](https://open.spotify.com/track/2u3DAKhCPzGIZQfKRrm5zU) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [The Dhampir](https://open.spotify.com/album/2Oc0qi4XSeJgm6b8IqgChm) | 5:49 | 2022-04-22 | 2022-07-29 |

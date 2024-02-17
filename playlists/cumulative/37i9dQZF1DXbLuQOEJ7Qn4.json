@@ -632,10 +632,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 303911,
       "name": "I Can't Stop",
       "url": "https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU"
+    },
+    {
+      "album": {
+        "name": "I Can't Stop",
+        "url": "https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305785,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD"
     },
     {
       "album": {
@@ -1062,7 +1080,7 @@
     {
       "album": {
         "name": "Sweet Shop / Gargoyle",
-        "url": "https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq"
+        "url": "https://open.spotify.com/album/6Eb8vvrHeNeIN5upuYS3Io"
       },
       "artists": [
         {
@@ -1073,6 +1091,24 @@
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275056,
+      "name": "Sweet Shop",
+      "url": "https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM"
+    },
+    {
+      "album": {
+        "name": "Sweet Shop / Gargoyle",
+        "url": "https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-17",
       "duration_ms": 275056,
       "name": "Sweet Shop",
       "url": "https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga"

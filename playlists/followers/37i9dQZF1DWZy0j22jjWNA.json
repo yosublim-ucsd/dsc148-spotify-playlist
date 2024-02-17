@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 90920,
+  "2024-02-17": 90947,
   "date_first_scraped": "2022-05-11",
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
   "name": "Good People Good Music",
@@ -541,6 +541,24 @@
     {
       "album": {
         "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/4SzzC6T3TX9kSUB0UpXDvb"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3vbtO7zDgu9VSUO5NyFwK9"
+    },
+    {
+      "album": {
+        "name": "Love? Songs",
         "url": "https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0"
       },
       "artists": [
@@ -699,7 +717,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 240000,
       "name": "God Who Sees Me",
       "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"

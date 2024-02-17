@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 623099,
+  "num_followers": 623149,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTgzNDcyMDA1YjM1ZmFhOTBhMjA5NDEzY2JjYjY3YmQxYjQyMzJh",
+  "snapshot_id": "MCxmNThjZTVlYWJiZDk0M2UyYWQzMGJjMjA2ZWY3MDc0ZThiMmVlNTk1",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+        "name": "NWA",
+        "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+      "duration_ms": 257079,
+      "name": "Panamera Flow (feat. Bushido)",
+      "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "NWA",
-        "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
       },
       "artists": [
         {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        },
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Panamera Flow (feat. Bushido)",
-      "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-12-07 13:48:37",

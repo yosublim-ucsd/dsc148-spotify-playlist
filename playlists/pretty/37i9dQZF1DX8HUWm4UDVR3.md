@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Johnny Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,891 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,927 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Ilavu](https://open.spotify.com/track/6nKlrxZZsN20urXWvQOqHf) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Ilavu](https://open.spotify.com/album/5yeN5bot9aY9o3PFamGNrv) | 2:58 |
 | 50 | [Solo](https://open.spotify.com/track/3RPyV4RQ1Z0SJ4YTLcZzOY) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ) | [Solo](https://open.spotify.com/album/3XvOiZG33vA8jpKavJlYK8) | 3:08 |
 
-Snapshot ID: `MCxjMTg2MjY4OGNlMTY4OTIyYzExNmMzZGYxODc1N2EyOGZlODgzZGEy`
+Snapshot ID: `MCxhMDFkNjE1NDcyZjI2MDU4ZTU2NTA1ZWRlZjJmZjU2NjQ5OWQ2M2Fl`

@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 518083,
+  "2024-02-17": 518189,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, Israel B",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -397,6 +397,28 @@
       "duration_ms": 149275,
       "name": "Ahora Y Siempre",
       "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
+    },
+    {
+      "album": {
+        "name": "Al borde del desastre",
+        "url": "https://open.spotify.com/album/4izIzmX5GQ6HOT4phPiZMa"
+      },
+      "artists": [
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "SOTAN",
+          "url": "https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186875,
+      "name": "Al borde del desastre",
+      "url": "https://open.spotify.com/track/3vkVPmM684tDxBC4KxX3eU"
     },
     {
       "album": {
@@ -838,6 +860,32 @@
     },
     {
       "album": {
+        "name": "Black Ops",
+        "url": "https://open.spotify.com/album/2ITLEPQLw4kH5Jsc4FNfl5"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Richie Rasheed",
+          "url": "https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI"
+        },
+        {
+          "name": "Lunatico Gang",
+          "url": "https://open.spotify.com/artist/5Cl2ls4HC0UpIz32ualiRP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250603,
+      "name": "Black Ops",
+      "url": "https://open.spotify.com/track/4dbmWXHQePLiHjByLup4Tu"
+    },
+    {
+      "album": {
         "name": "Boda Roja",
         "url": "https://open.spotify.com/album/7wGbDZGUiPJ5B6gq40fBqm"
       },
@@ -849,7 +897,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 229750,
       "name": "Boda Roja",
       "url": "https://open.spotify.com/track/26IIwn9tXMwivQQmrOHJOP"
@@ -1184,6 +1232,32 @@
     },
     {
       "album": {
+        "name": "Free Delivery",
+        "url": "https://open.spotify.com/album/16a8H0Io8HZQQkkuMC0G1N"
+      },
+      "artists": [
+        {
+          "name": "Soukin",
+          "url": "https://open.spotify.com/artist/13CQT4r2n0PJnFn0O52E2E"
+        },
+        {
+          "name": "Zamoranobeatz",
+          "url": "https://open.spotify.com/artist/2mlNwgkCqA36IEpjtFiClM"
+        },
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152137,
+      "name": "Corte Fino",
+      "url": "https://open.spotify.com/track/2inLdw5PgbjRTzNFFdBYND"
+    },
+    {
+      "album": {
         "name": "CREDO",
         "url": "https://open.spotify.com/album/3fPhpbcTYBI3RrpjkW1SVD"
       },
@@ -1347,6 +1421,24 @@
       "duration_ms": 196702,
       "name": "Desfibrilador",
       "url": "https://open.spotify.com/track/7bV6pAIWPet9TOQenaAGMO"
+    },
+    {
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/2jFNGU7uAhGyYT9VFKesPJ"
+      },
+      "artists": [
+        {
+          "name": "Cyclo",
+          "url": "https://open.spotify.com/artist/39OjchtLfV4XKEq9JlDGSV"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115218,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/67ZcggjJBQTxQwK5QNxb9p"
     },
     {
       "album": {
@@ -1613,6 +1705,24 @@
       "duration_ms": 265917,
       "name": "EL CIELO",
       "url": "https://open.spotify.com/track/463VPNMkJAbRUFYlEf8NMJ"
+    },
+    {
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/53H0c3UPryNbatcUvEZn4z"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00e9",
+          "url": "https://open.spotify.com/artist/5GdP5J5VnVvhY0HzsYMcUK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228670,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/5JDhUlxnJdyQuZ39vWNwqp"
     },
     {
       "album": {
@@ -2227,6 +2337,28 @@
       "duration_ms": 247000,
       "name": "Hasta que salga el sol",
       "url": "https://open.spotify.com/track/296VAw6iwgYX38mWMy98EG"
+    },
+    {
+      "album": {
+        "name": "Mal de amores",
+        "url": "https://open.spotify.com/album/7dmKwrTCa4kSIlIoI7Eoji"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208388,
+      "name": "Indomables",
+      "url": "https://open.spotify.com/track/7dUFOjcebtySPPj7tJKUdn"
     },
     {
       "album": {
@@ -3239,7 +3371,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 174048,
       "name": "Me Lo Pienso",
       "url": "https://open.spotify.com/track/7wI8VR7eA11W2Jpq8D4Olw"
@@ -3374,6 +3506,24 @@
     },
     {
       "album": {
+        "name": "Mockingbird (Versi\u00f3n Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/41YotURsygnEWLqPew3bcq"
+      },
+      "artists": [
+        {
+          "name": "Baron850",
+          "url": "https://open.spotify.com/artist/6jn4kwWoGcse0oLvh6owYe"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Mockingbird - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/2H6tvEKLXP8zpWIKLmVsOU"
+    },
+    {
+      "album": {
         "name": "Modo Abuso",
         "url": "https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG"
       },
@@ -3419,7 +3569,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 336190,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/3kR00xdtEf6QcJh9UMkgXI"
@@ -3847,7 +3997,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192011,
       "name": "No Soy Nadie",
       "url": "https://open.spotify.com/track/7tum2jpajm3Ree988Am84y"
@@ -4184,6 +4334,32 @@
     },
     {
       "album": {
+        "name": "PINK FLOYD",
+        "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171882,
+      "name": "PINK FLOYD",
+      "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"
+    },
+    {
+      "album": {
         "name": "Luna llena",
         "url": "https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu"
       },
@@ -4507,6 +4683,28 @@
       "duration_ms": 351768,
       "name": "Santo Grial",
       "url": "https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf"
+    },
+    {
+      "album": {
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/2aIdiuaSOIgrDSGfMirKw2"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        },
+        {
+          "name": "Lopes",
+          "url": "https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228247,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/6hlXbDnEr1kXMsdP8dzc9d"
     },
     {
       "album": {
@@ -5588,6 +5786,24 @@
     },
     {
       "album": {
+        "name": "Ya ni yo",
+        "url": "https://open.spotify.com/album/4ydSrbSHo0BdS3QiAxK7Gz"
+      },
+      "artists": [
+        {
+          "name": "Luisaker",
+          "url": "https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Ya ni yo",
+      "url": "https://open.spotify.com/track/6aHTxnGcB5WUPD8klgrWCt"
+    },
+    {
+      "album": {
         "name": "Yo No S\u00e9",
         "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
       },
@@ -5629,7 +5845,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 209439,
       "name": "Zapatillas a estrenar",
       "url": "https://open.spotify.com/track/6IWCuyenKNfEg7eczZj9tS"

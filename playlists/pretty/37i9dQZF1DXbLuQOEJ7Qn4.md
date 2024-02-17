@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,481 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,500 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 5 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 |
 | 6 | [Katy on a Mission](https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:39 |
 | 7 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
-| 8 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 |
+| 8 | [Sweet Shop](https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/6Eb8vvrHeNeIN5upuYS3Io) | 4:35 |
 | 9 | [Innocence](https://open.spotify.com/track/31BPnapcrlqpPxMx2GRabp) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 5:08 |
 | 10 | [Cockney Thug](https://open.spotify.com/track/5hHSZZuCCuBlY5eZoNubHq) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Babylon, Vol\. 1](https://open.spotify.com/album/2CNQ67P0mbL0ZECsESspO3) | 4:06 |
 | 11 | [Ginger Pubes](https://open.spotify.com/track/0xp0U9YtEv0u58gr3JZdgE) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/54RmCOwOUlWLkZQbbG1zcq) | 5:09 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 26 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 |
 | 27 | [Slang Like This](https://open.spotify.com/track/2ce4CSWjJh6Dlc9he1gRSb) | [True Tiger](https://open.spotify.com/artist/72CJu74on68a9sLgD0vj2O), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Slang Like This](https://open.spotify.com/album/1EphozsOTPq5pqRhr4jOvp) | 3:54 |
 | 28 | [Heavy](https://open.spotify.com/track/2tRgSZG1RFINaXwueoBAtE) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:33 |
-| 29 | [I Can't Stop](https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lines in Wax](https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr) | 5:03 |
+| 29 | [I Can't Stop](https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop](https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM) | 5:05 |
 | 30 | [Borrowed Time \- VIP](https://open.spotify.com/track/1Vipxiv4wO9SJz5e3K3sXx) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Borrowed Time \(VIP\) / Pornstar](https://open.spotify.com/album/4mZCzGEz2Y7tAn4cNbi1T1) | 4:59 |
 | 31 | [Could This Be Real \(Extended Mix\)](https://open.spotify.com/track/5klQNwm8fCDGGBJwESWFT5) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Could This Be Real](https://open.spotify.com/album/6Qj13zWjyAa7AvKEpWMf6S) | 4:26 |
 | 32 | [The Recluse \- Nero Remix](https://open.spotify.com/track/29Gx4nPeVam4kF3VEHQZS3) | [Plan B](https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au), [Nero](https://open.spotify.com/artist/755YZ2K5SmKoIiwU78GlJ3) | [The Recluse](https://open.spotify.com/album/4DNe1OwgOjZWdqPOK1D3NU) | 4:36 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MCxlNmE1MjI1Njc2NDZiZTcxNDEzOWRmNzczYmIzMDcwNTljNjBkODMw`
+Snapshot ID: `MCw2Yzc4ZmMyNjdmMzU3YWY4NGMzYmYxZDEwYzJiNTI3YzNhNzhkZjY3`

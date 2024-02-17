@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-429 songs - 1 day 0 hr 0 min
+430 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ain't Got No Money](https://open.spotify.com/track/3F8xarcB4wgIwEWTGSzBGr) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Ain't Got No Money](https://open.spotify.com/album/0tTquFeE6IQ0kTSy1xKF3k) | 4:16 | 2020-11-13 | 2022-03-21 |
 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-05-20 |  |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/album/4vSD7Y3Ob3H5nhfgWX8OPf) | 4:03 | 2020-11-13 | 2022-03-26 |
+| [All I Wanna Do](https://open.spotify.com/track/1uyxpsLuJAuXL1gOfRsZuw) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [All I Wanna Do](https://open.spotify.com/album/5o5u0j8BHPApaOvALpmLnR) | 3:08 | 2024-02-16 |  |
 | [All Night](https://open.spotify.com/track/4IsjYlNEEsfPQGODzKyYRQ) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [All Night](https://open.spotify.com/album/1c3y5QNQHjn23qQ8t59qtT) | 3:48 | 2023-08-18 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-08 |  |
 | [All That I Need](https://open.spotify.com/track/46FmoDcQxTdgJnqqTppblI) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [All That I Need](https://open.spotify.com/album/4F5Furcx1SnH2PGX0YbKPM) | 3:20 | 2022-11-18 |  |
@@ -361,7 +362,7 @@
 | [Tango](https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Tango](https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y) | 5:04 | 2021-08-13 | 2023-02-18 |
 | [Tasty](https://open.spotify.com/track/64wAH19hAGbzdmrRoBzAcq) | [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Tasty](https://open.spotify.com/album/2FhDuCjm4ORGS3plmUm8Pv) | 2:55 | 2021-08-06 | 2022-06-29 |
 | [Telepathic Woman](https://open.spotify.com/track/1tb8XxJNsGXG79ynep6Fem) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 4:42 | 2020-11-13 | 2022-03-23 |
-| [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-03-25 |  |
+| [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-03-25 | 2024-02-17 |
 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/36gjfzhQg7lzKskouTyFkX) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/7MHsKlHkBayVBh8UOY8gUr) | 1:55 | 2021-09-21 | 2023-01-25 |
 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ) | 1:55 | 2021-09-21 | 2022-08-09 |
 | [The Pool](https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [The Pool](https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8) | 3:35 | 2023-08-04 |  |

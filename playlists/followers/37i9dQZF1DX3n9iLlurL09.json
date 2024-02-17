@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 84316,
+  "2024-02-17": 84346,
   "date_first_scraped": "2022-09-17",
   "description": "2012 highlights from the home of indie music.",
   "name": "Best of Indie 2012",
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 181759,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/2XOwaU5q0d1xBervr2uIts"
@@ -2219,6 +2219,24 @@
       "duration_ms": 224680,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
+    },
+    {
+      "album": {
+        "name": "Celebration Rock",
+        "url": "https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289150,
+      "name": "The House That Heaven Built",
+      "url": "https://open.spotify.com/track/2ShOBhvAAglIFJ7Be8aJK2"
     },
     {
       "album": {

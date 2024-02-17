@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 146326,
+  "num_followers": 146382,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjc4NDQ5YWRlYTkxNjYzZGMwMDY3Yzg2NjQwNWI0NjYzY2ZjYzQ1",
+  "snapshot_id": "MCxjMTcwOTgzYzA3OGI3MDEyNWExZGNhYWNmMjU0MmY3YjM4OWRjMjYy",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "D\u00edas De Fuego",
         "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 185640,
       "name": "D\u00edas De Fuego",
       "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Pervert Pop Song (Castigame)",
-      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Pervert Pop Song (Castigame)",
+      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "S\u00ed, Yo Soy",
         "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 218840,
       "name": "No",
       "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mtv Unplugged",
-        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 230346,
-      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
-      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+        "name": "Mtv Unplugged",
+        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ"
+      "duration_ms": 230346,
+      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Dancing In The Dark",
-        "url": "https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb"
-      },
-      "artists": [
-        {
-          "name": "Wet Baes",
-          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
-        }
-      ],
-      "duration_ms": 207256,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Vidas Paralelas",
         "url": "https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 237386,
       "name": "Vidas Paralelas",
       "url": "https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb"
+      },
+      "artists": [
+        {
+          "name": "Wet Baes",
+          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
+        }
+      ],
+      "duration_ms": 207256,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "S\u00faper Tigre",
-        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
-      },
-      "artists": [
-        {
-          "name": "S\u00faper Tigre",
-          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
-        }
-      ],
-      "duration_ms": 206673,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/27scONugjs898tPlDCKo3p"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 193840,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/5eROI0UcZNlPtlWhwwOak2"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "S\u00faper Tigre",
+        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
+      },
+      "artists": [
+        {
+          "name": "S\u00faper Tigre",
+          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
+        }
+      ],
+      "duration_ms": 206673,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hombre",
-        "url": "https://open.spotify.com/album/2ymgXDddbq17fstiJMOqQC"
+        "name": "Lo Que Puedes Dar",
+        "url": "https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV"
       },
       "artists": [
         {
-          "name": "Los L\u00e1tigos",
-          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+          "name": "Los Fascinantes",
+          "url": "https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ"
         }
       ],
-      "duration_ms": 263005,
-      "name": "Luces Sensacional",
-      "url": "https://open.spotify.com/track/1PtNq4VXQvrkp8Gq11XryM"
+      "duration_ms": 172500,
+      "name": "Lo Que Puedes Dar",
+      "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

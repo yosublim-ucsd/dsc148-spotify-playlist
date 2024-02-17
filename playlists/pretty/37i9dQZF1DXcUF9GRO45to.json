@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 35683,
+  "num_followers": 35707,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjk4OWI5N2FhZWRjNGJjODFmZjRjNDg0NzhjNjhhMzMwNWY3M2Iz",
+  "snapshot_id": "MCxiNWU5MjVkNzA4ODk1MjcxYjJkZDU4ODI5N2IxZTZkMzkxMGEwODc1",
   "tracks": [
     {
       "added_at": "2024-01-19 09:53:33",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "The Second Take",
-        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
-      },
-      "artists": [
-        {
-          "name": "Do Not Machine",
-          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
-        }
-      ],
-      "duration_ms": 220971,
-      "name": "The Second Take",
-      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "We The People Of The Soil",
         "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233586,
       "name": "A Man Oustanding In His Field",
       "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "The Second Take",
+        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
+      },
+      "artists": [
+        {
+          "name": "Do Not Machine",
+          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
+        }
+      ],
+      "duration_ms": 220971,
+      "name": "The Second Take",
+      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
-      },
-      "artists": [
-        {
-          "name": "Mad Foxes",
-          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Crystal Glass",
-      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Bodysick",
         "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Healing Is Not Linear",
-        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
       },
       "artists": [
         {
-          "name": "COLISION",
-          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+          "name": "Mad Foxes",
+          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
         }
       ],
-      "duration_ms": 188440,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
+      "duration_ms": 179000,
+      "name": "Crystal Glass",
+      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -847,6 +831,22 @@
       "duration_ms": 229429,
       "name": "Like gods we feast",
       "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Healing Is Not Linear",
+        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+      },
+      "artists": [
+        {
+          "name": "COLISION",
+          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -899,8 +899,8 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Can't Wait to Be Fine",
-        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
       },
       "artists": [
         {
@@ -908,25 +908,9 @@
           "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
         }
       ],
-      "duration_ms": 358080,
-      "name": "Can't Wait to Be Fine",
-      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Newspapers",
-        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
-      },
-      "artists": [
-        {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
-        }
-      ],
-      "duration_ms": 188736,
-      "name": "Newspapers",
-      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -947,34 +931,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Guilty Species",
-        "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
+        "name": "Newspapers",
+        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
       },
       "artists": [
         {
-          "name": "Jessica93",
-          "url": "https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg"
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
         }
       ],
-      "duration_ms": 278801,
-      "name": "R.I.P. In Peace",
-      "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Salvation Prayer",
-        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
-      },
-      "artists": [
-        {
-          "name": "You Said Strange",
-          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
-        }
-      ],
-      "duration_ms": 294594,
-      "name": "Cold Crusader",
-      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+      "duration_ms": 188736,
+      "name": "Newspapers",
+      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -995,8 +963,40 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+        "name": "Salvation Prayer",
+        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
+      },
+      "artists": [
+        {
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
+        }
+      ],
+      "duration_ms": 294594,
+      "name": "Cold Crusader",
+      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Guilty Species",
+        "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
+      },
+      "artists": [
+        {
+          "name": "Jessica93",
+          "url": "https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg"
+        }
+      ],
+      "duration_ms": 278801,
+      "name": "R.I.P. In Peace",
+      "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Can't Wait to Be Fine",
+        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
         }
       ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
+      "duration_ms": 358080,
+      "name": "Can't Wait to Be Fine",
+      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Don't Believe, Watch Out",
+        "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
+      },
+      "artists": [
+        {
+          "name": "Pencey Sloe",
+          "url": "https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn"
+        }
+      ],
+      "duration_ms": 322119,
+      "name": "Lust of the Dead",
+      "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "Afterparty - All We Have Is Now",
         "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Don't Believe, Watch Out",
-        "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
       "artists": [
         {
-          "name": "Pencey Sloe",
-          "url": "https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn"
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
         }
       ],
-      "duration_ms": 322119,
-      "name": "Lust of the Dead",
-      "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1091,22 +1107,6 @@
       "duration_ms": 191250,
       "name": "SNAKES",
       "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Sometimes I Wanna Fight",
-        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
-      },
-      "artists": [
-        {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Sometimes I Wanna Fight",
-      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Centaur Desire",
         "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Blue Orchid",
-        "url": "https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB"
-      },
-      "artists": [
-        {
-          "name": "Blue Orchid",
-          "url": "https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j"
-        }
-      ],
-      "duration_ms": 314704,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Teenage Ends",
         "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
       },
@@ -1235,6 +1203,38 @@
       "duration_ms": 135270,
       "name": "I Don't Give A Shit",
       "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Sometimes I Wanna Fight",
+        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
+      },
+      "artists": [
+        {
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Sometimes I Wanna Fight",
+      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Blue Orchid",
+        "url": "https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB"
+      },
+      "artists": [
+        {
+          "name": "Blue Orchid",
+          "url": "https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j"
+        }
+      ],
+      "duration_ms": 314704,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt"
-      },
-      "artists": [
-        {
-          "name": "Birdstone",
-          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -1331,22 +1315,6 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Sitcoms for Aliens",
-        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
-      },
-      "artists": [
-        {
-          "name": "Noiseheads",
-          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1367,6 +1335,38 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt"
+      },
+      "artists": [
+        {
+          "name": "Birdstone",
+          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Sitcoms for Aliens",
+        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
+      },
+      "artists": [
+        {
+          "name": "Noiseheads",
+          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "FRENCH FRIES",
         "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 215636,
       "name": "SO TIRED",
       "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
-      },
-      "artists": [
-        {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1415,34 +1399,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Hungry for Action",
-        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
       "artists": [
         {
-          "name": "Iron Lizards",
-          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
         }
       ],
-      "duration_ms": 164068,
-      "name": "It's About Time !",
-      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Post-Post-",
-        "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
-      },
-      "artists": [
-        {
-          "name": "The Psychotic Monks",
-          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
-        }
-      ],
-      "duration_ms": 454282,
-      "name": "Post-Post-",
-      "url": "https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi"
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1463,6 +1431,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Post-Post-",
+        "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
+      },
+      "artists": [
+        {
+          "name": "The Psychotic Monks",
+          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+        }
+      ],
+      "duration_ms": 454282,
+      "name": "Post-Post-",
+      "url": "https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 284098,
       "name": "Le Squinfus",
       "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Hungry for Action",
+        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
+      },
+      "artists": [
+        {
+          "name": "Iron Lizards",
+          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
+        }
+      ],
+      "duration_ms": 164068,
+      "name": "It's About Time !",
+      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
+        "name": "Slot Logic",
+        "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
       "artists": [
         {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+          "name": "Dewaere",
+          "url": "https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF"
         }
       ],
-      "duration_ms": 177040,
-      "name": "Pop Pop Pop",
-      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
+      "duration_ms": 204866,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Slot Logic",
-        "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
-      },
-      "artists": [
-        {
-          "name": "Dewaere",
-          "url": "https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Miroir",
-        "url": "https://open.spotify.com/album/4UKd6gVT7dWalCUgCIav2A"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
       },
       "artists": [
         {
-          "name": "Bipolar Club",
-          "url": "https://open.spotify.com/artist/6SGmaTmG3ZDt5krt6rklru"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 177193,
-      "name": "Miroir",
-      "url": "https://open.spotify.com/track/69p81RFFWx60N6oECYgI89"
+      "duration_ms": 177040,
+      "name": "Pop Pop Pop",
+      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Ain't No Princess",
+        "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
+      },
+      "artists": [
+        {
+          "name": "Can't Bear This Party!",
+          "url": "https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "So Quarrelsome",
+      "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
     }
   ],
   "unique_name": "French Noise",

@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-328 songs - 18 hr 4 min
+329 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dies Irae feat\. Black Prez](https://open.spotify.com/track/5nafRIDshs3RwVO0sxxgac) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Requiem](https://open.spotify.com/album/1cNI5bMJk11DV8PglRAd3R) | 5:09 | 2022-07-22 |  |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 | 2022-07-29 |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-25 | 2023-07-09 |
+| [DISRESPECT](https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk) | [Bobby Blakdout](https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Gladez](https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [DISRESPECT](https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3) | 2:19 | 2024-02-16 |  |
 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 |  |
 | [DO SUMMIN](https://open.spotify.com/track/2bBTeoD8VGVCZsaYeGGlBw) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [iMinikon](https://open.spotify.com/artist/1JDkC5KMUaF7udEONQIKQo) | [DO SUMMIN](https://open.spotify.com/album/1xqGnAaUclFB1IoNBuOc6I) | 2:23 | 2022-03-11 | 2022-07-28 |
 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 | 2021-11-19 | 2022-01-08 |
@@ -277,7 +278,7 @@
 | [Slime Zone](https://open.spotify.com/track/6fjqwcGl2JcoExcen7i5r8) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 2](https://open.spotify.com/album/7lP2OXIG2kB1Zlgucw3dyJ) | 2:56 | 2022-01-07 | 2022-04-29 |
 | [So Far](https://open.spotify.com/track/5LjoyefinBuAQr2Fj2byyM) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [So Far](https://open.spotify.com/album/6mn4tGxbZ1hcL4S8pfj0l5) | 2:51 | 2021-11-19 | 2022-01-08 |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-11-19 | 2022-01-08 |
-| [Speakerbox \(feat\. Lafa Taylor\)](https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A) | [Into the Sun](https://open.spotify.com/album/4o64zqena2YeCi6q687ekv) | 4:42 | 2022-07-22 |  |
+| [Speakerbox \(feat\. Lafa Taylor\)](https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A) | [Into the Sun](https://open.spotify.com/album/4o64zqena2YeCi6q687ekv) | 4:42 | 2022-07-22 | 2024-02-17 |
 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 |  |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |

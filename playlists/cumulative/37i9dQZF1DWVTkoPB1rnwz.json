@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
@@ -3310,6 +3310,28 @@
       "duration_ms": 171627,
       "name": "Louie's Lullaby",
       "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
+    },
+    {
+      "album": {
+        "name": "Infinite Present",
+        "url": "https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Garcia Garcia",
+          "url": "https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA"
+        },
+        {
+          "name": "Juan Pablo Garcia",
+          "url": "https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227357,
+      "name": "Make Me Feel Loved",
+      "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"
     },
     {
       "album": {

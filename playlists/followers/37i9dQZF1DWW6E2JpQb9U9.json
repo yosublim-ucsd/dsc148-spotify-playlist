@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 108539,
+  "2024-02-17": 108571,
   "date_first_scraped": "2022-05-26",
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
   "name": "Vivo de Rock",
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
@@ -2029,6 +2029,24 @@
       "duration_ms": 244071,
       "name": "Envuelto en Llamas (Live)",
       "url": "https://open.spotify.com/track/1zf4a8hddJfZgxV7hjmyFx"
+    },
+    {
+      "album": {
+        "name": "Sortilegio de Arrabal (En Vivo)",
+        "url": "https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz"
+      },
+      "artists": [
+        {
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244071,
+      "name": "Envuelto en Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH"
     },
     {
       "album": {

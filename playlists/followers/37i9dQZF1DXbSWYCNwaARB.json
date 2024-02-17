@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 844104,
+  "2024-02-17": 844190,
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover:\bYOUNG POSSE(\uc601\ud30c\uc528)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover:\bWhee In (\b\ud718\uc778)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -4623,7 +4623,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 164693,
       "name": "NO MORE (MA BOY)",
       "url": "https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi"
@@ -6383,7 +6383,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 162000,
       "name": "THE GIRLS - BLACKPINK THE GAME OST",
       "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
@@ -6647,6 +6647,24 @@
       "duration_ms": 207600,
       "name": "Uh-Oh",
       "url": "https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL"
+    },
+    {
+      "album": {
+        "name": "ULT",
+        "url": "https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "ULT",
+      "url": "https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj"
     },
     {
       "album": {
@@ -7123,6 +7141,24 @@
       "duration_ms": 193604,
       "name": "Whatta Man (Good man)",
       "url": "https://open.spotify.com/track/754PhkDUWZUkHbM7zfiLKm"
+    },
+    {
+      "album": {
+        "name": "Wheee (Prod. Young K, Sanghyun Nah)",
+        "url": "https://open.spotify.com/album/0ZALZSUmLfGRPriHLcL4PE"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Wheee (Prod. Young K, Sanghyun Nah)",
+      "url": "https://open.spotify.com/track/6SN7iLZdFMGQvI1t7bQKlM"
     },
     {
       "album": {

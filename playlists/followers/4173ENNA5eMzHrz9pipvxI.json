@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 120862,
+  "2024-02-17": 120861,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KSHMR x gritney",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Don Diablo x Mearsy x RBZ",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -2302,6 +2302,28 @@
     },
     {
       "album": {
+        "name": "Best Thing (Mollie Collins Remix)",
+        "url": "https://open.spotify.com/album/4Xm1CbxbmVdw9EkWzq7nRi"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141498,
+      "name": "Best Thing (Mollie Collins Remix)",
+      "url": "https://open.spotify.com/track/5hcQAJjNJvG60ay2TADG8I"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM"
       },
@@ -3375,7 +3397,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147096,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/5WH44mM5Q3oXGSIanJbTPt"
@@ -4283,7 +4305,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 169376,
       "name": "Club Bizarre (Club Mix)",
       "url": "https://open.spotify.com/track/2BguCFLlnybjX8FouFTP4o"
@@ -4498,6 +4520,28 @@
     },
     {
       "album": {
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/3V18tHyBzSTzmOLLMsydeK"
+      },
+      "artists": [
+        {
+          "name": "Draeden",
+          "url": "https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln"
+        },
+        {
+          "name": "Saysha",
+          "url": "https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/6G9vK4N2yvvs5ZXz3dCPBx"
+    },
+    {
+      "album": {
         "name": "Compromise (feat. Adam Jaymes)",
         "url": "https://open.spotify.com/album/6uJdwdGypR9qRV1twItlJd"
       },
@@ -4585,7 +4629,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 175781,
       "name": "Control",
       "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
@@ -4641,6 +4685,24 @@
       "duration_ms": 116402,
       "name": "Cotton Candy Clouds - Sped Up Version",
       "url": "https://open.spotify.com/track/1Ur4teRkXw2I2M3EomviIt"
+    },
+    {
+      "album": {
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
       "album": {
@@ -4827,7 +4889,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 179400,
       "name": "Crusade - Club Edit",
       "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"
@@ -7837,10 +7899,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 226110,
       "name": "Fiiyaa Uppaa",
       "url": "https://open.spotify.com/track/6XHUVKQnUvE5SuBbvrxUy6"
+    },
+    {
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/4GYXFokiQ37XDf1m26cQvg"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/329JBDKFLtiMA5aeKmRi1l"
     },
     {
       "album": {
@@ -8117,7 +8201,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193819,
       "name": "Fly Guy",
       "url": "https://open.spotify.com/track/3PkpK6a2TgzgYuxXH4FQi8"
@@ -10401,7 +10485,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154850,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/5pW3Wm5SMKgALdKrjV5T0E"
@@ -10901,7 +10985,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 118285,
       "name": "If You Don't Like To Party",
       "url": "https://open.spotify.com/track/5dBTOZ3Rn6BIlDt470Btne"
@@ -12978,6 +13062,36 @@
     },
     {
       "album": {
+        "name": "Life\u2019s Too Short (feat. Scarlett)",
+        "url": "https://open.spotify.com/album/3DR0BJBWLEO5Uq8baZu15B"
+      },
+      "artists": [
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Da Brozz",
+          "url": "https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6"
+        },
+        {
+          "name": "Chunky Dip",
+          "url": "https://open.spotify.com/artist/1TmzgTXR9fUhmRuzIgnsV6"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143488,
+      "name": "Life\u2019s Too Short (feat. Scarlett)",
+      "url": "https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W"
+    },
+    {
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/51P7ozOTPYFr4W8exIisHE"
       },
@@ -13578,6 +13692,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Music",
+        "url": "https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "Lost In The Music",
+      "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
+    },
+    {
+      "album": {
         "name": "Lost In The Rhythm",
         "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
       },
@@ -13681,7 +13813,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208062,
       "name": "Love & Dance",
       "url": "https://open.spotify.com/track/3q75So783qdHzJhW77lv1E"
@@ -14729,7 +14861,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 135111,
       "name": "Mary Go Wild (Firebeatz Remix)",
       "url": "https://open.spotify.com/track/51nYwjC41oOgVszBGL6mY8"
@@ -14921,7 +15053,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 219245,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/0MPg3EG04vVQED40bMcZ8v"
@@ -15906,6 +16038,28 @@
     },
     {
       "album": {
+        "name": "My Illusion",
+        "url": "https://open.spotify.com/album/7f6P5PDtSHxWGk4DcgG1PD"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Massi Rocket",
+          "url": "https://open.spotify.com/artist/1qAjEEpWpE4dI2sDPeTwtl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197495,
+      "name": "My Illusion",
+      "url": "https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0"
+    },
+    {
+      "album": {
         "name": "My Life (feat. Joe Killington)",
         "url": "https://open.spotify.com/album/2ozXsht9lh1koItgP8cl9d"
       },
@@ -16640,6 +16794,32 @@
     },
     {
       "album": {
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/4NYL4SD5w2GP3f5Q8EoYZp"
       },
@@ -17171,6 +17351,24 @@
       "duration_ms": 216000,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7Ap8x9Wljva0J0ypsEmEVo"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c"
+      },
+      "artists": [
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE"
     },
     {
       "album": {
@@ -18314,6 +18512,32 @@
     },
     {
       "album": {
+        "name": "Physique (feat. RBZ)",
+        "url": "https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MEARSY",
+          "url": "https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1"
+        },
+        {
+          "name": "RBZ",
+          "url": "https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178130,
+      "name": "Physique (feat. RBZ)",
+      "url": "https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"
+    },
+    {
+      "album": {
         "name": "PH\u00d8NKY DR3AM$",
         "url": "https://open.spotify.com/album/3ZJb4QWWl0yUWEx94X449a"
       },
@@ -19180,6 +19404,28 @@
     },
     {
       "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/5piXyzMAIZuMZ8VaofZjNx"
+      },
+      "artists": [
+        {
+          "name": "Lahos",
+          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
+        },
+        {
+          "name": "Sarazar",
+          "url": "https://open.spotify.com/artist/7fXsYMwApwATorXlTt95LD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/3MvGYvJ8pjFnau0RkcspXK"
+    },
+    {
+      "album": {
         "name": "Red Light, Green Light (Festival Remix)",
         "url": "https://open.spotify.com/album/38vHZnuuXFL4tu6pU092wZ"
       },
@@ -19563,6 +19809,36 @@
       "duration_ms": 169921,
       "name": "Rock My Body (with INNA) [Sam Feldt Remix]",
       "url": "https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ"
+    },
+    {
+      "album": {
+        "name": "Rock My Body (with Sash!) [NOYSE Remix]",
+        "url": "https://open.spotify.com/album/4bCZIZSVSGu8TuJAswZ0L6"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Rock My Body (with Sash!) [NOYSE Remix]",
+      "url": "https://open.spotify.com/track/7pV8lSQ4OM6GyCciYXBdso"
     },
     {
       "album": {
@@ -20129,6 +20405,28 @@
       "duration_ms": 140952,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/6dlOzlmnmNHFUeA0qPeNXS"
+    },
+    {
+      "album": {
+        "name": "Say It Right",
+        "url": "https://open.spotify.com/album/3G61YNQMtrN1LCyiJocIJp"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c"
     },
     {
       "album": {
@@ -23369,7 +23667,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -23585,7 +23883,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 204651,
       "name": "They Not Us",
       "url": "https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa"
@@ -24445,6 +24743,24 @@
     {
       "album": {
         "name": "Underground",
+        "url": "https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz"
+      },
+      "artists": [
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN"
+    },
+    {
+      "album": {
+        "name": "Underground",
         "url": "https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg"
       },
       "artists": [
@@ -24649,7 +24965,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 183111,
       "name": "Vibrate (feat. Jordan Grace)",
       "url": "https://open.spotify.com/track/0x8TgNgKoDDESEcO6YsDDZ"
@@ -25457,6 +25773,28 @@
       "duration_ms": 143100,
       "name": "When I Wake Up",
       "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
+    },
+    {
+      "album": {
+        "name": "When I Wake Up (Club Mix)",
+        "url": "https://open.spotify.com/album/1GcYmXDF41C7moqc4SuW0B"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158795,
+      "name": "When I Wake Up (Club Mix)",
+      "url": "https://open.spotify.com/track/1wH1L0g4zpEv3KSnFix9Lf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-517 songs - 19 hr 46 min
+518 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2024-01-05 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2024-01-05 |  |
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2024-01-05 |  |
+| [in the shadows](https://open.spotify.com/track/26Wu26lCBd5Pf5bMyhlDPP) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [in the shadows](https://open.spotify.com/album/1aJZsbwArORSxptMMAsksU) | 2:29 | 2024-02-09 |  |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2024-01-05 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2024-01-05 |  |
 | [Iron Pan Love](https://open.spotify.com/track/3Gf8p9tWhMqE1pTiCXBoAo) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Iron Pan Love](https://open.spotify.com/album/1FdWrYSVPdYzE1WK9LpDTc) | 2:01 | 2024-01-05 |  |
@@ -295,7 +296,7 @@
 | [Meowtown](https://open.spotify.com/track/6Pm9etykP81ZPhwztUv8LQ) | [Kissa Kat](https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL) | [Meowtown](https://open.spotify.com/album/5rJarXsGwgOGGcUgTiItZn) | 2:28 | 2024-01-18 |  |
 | [Midnight Vibes](https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [Midnight Vibes](https://open.spotify.com/album/2ygtwvjYljWpHxtM5UdwNP) | 2:10 | 2024-01-05 | 2024-02-05 |
 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2024-01-05 |  |
-| [Mindchatter](https://open.spotify.com/track/5vKh3U5WDmo7X8aPcVDIFV) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mindchatter](https://open.spotify.com/album/0H8r0Cq6xlAg0JvqOfiMuT) | 2:05 | 2024-01-05 |  |
+| [Mindchatter](https://open.spotify.com/track/5vKh3U5WDmo7X8aPcVDIFV) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mindchatter](https://open.spotify.com/album/0H8r0Cq6xlAg0JvqOfiMuT) | 2:05 | 2024-01-05 | 2024-02-17 |
 | [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2024-01-05 |  |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2024-01-05 |  |
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2024-01-05 |  |
@@ -461,7 +462,7 @@
 | [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2024-01-05 |  |
 | [Tender Times](https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Tender Times](https://open.spotify.com/album/1ej8XQjJ9AxClxwCqyIZZp) | 2:41 | 2024-02-09 |  |
 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 | 2024-01-05 |  |
-| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2024-01-05 |  |
+| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2024-01-05 |  |
 | [The Jam](https://open.spotify.com/track/7xJqP2LZrVpJhUR6ZukE9q) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The Jam](https://open.spotify.com/album/39V0x4k2jWjPuqF6mSC3AW) | 1:39 | 2024-02-09 |  |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2024-01-05 |  |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2024-01-05 |  |

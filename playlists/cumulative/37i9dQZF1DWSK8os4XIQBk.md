@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Dax
+> The biggest hits in country music\. Cover: Morgan Wallen
 
 624 songs - 1 day 9 hr 48 min
 

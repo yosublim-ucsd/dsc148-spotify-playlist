@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 190680,
       "name": "100",
       "url": "https://open.spotify.com/track/6m4ftKNtuB9zPqdSXAYBLt"
@@ -5606,7 +5606,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 174702,
       "name": "Swing in Spring - Betty Booom Remix",
       "url": "https://open.spotify.com/track/1BT5sygKwiAPBs3kmrzgeT"
@@ -6126,6 +6126,24 @@
       "duration_ms": 191176,
       "name": "Tom's Diner - Electro Swing Mix",
       "url": "https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77"
+    },
+    {
+      "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/5sGOwscsYt5ifyX9Xm0bBa"
+      },
+      "artists": [
+        {
+          "name": "Musique Boutique",
+          "url": "https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177459,
+      "name": "Tom's Diner - Electro Swing Radio Edit",
+      "url": "https://open.spotify.com/track/2D4VwRmOXXdg1XrbtR7CVn"
     },
     {
       "album": {
@@ -6794,6 +6812,24 @@
       "duration_ms": 279200,
       "name": "What Lana Says",
       "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
+    },
+    {
+      "album": {
+        "name": "What's a Girl to Do...",
+        "url": "https://open.spotify.com/album/5eeSdQd3Xp2C9ydSHD1YWy"
+      },
+      "artists": [
+        {
+          "name": "Elle & The Pocket Belles",
+          "url": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162446,
+      "name": "What's a Girl to Do...",
+      "url": "https://open.spotify.com/track/3lh0wQDlbHFOLkdivGl9qS"
     },
     {
       "album": {

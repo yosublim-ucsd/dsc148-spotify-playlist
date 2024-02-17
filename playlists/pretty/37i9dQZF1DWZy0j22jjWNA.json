@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 90920,
+  "num_followers": 90947,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE5YzU3NjQ5MjZlMDUxNDg4ODc2NTFkODU1YTdiMTIwZTA4NTM4",
+  "snapshot_id": "MCxkNzcxOWI2ZTc3Mzc2YjA1ZmYyNTYwOTdiNDI0ZDVjY2VmM2QxYzQ0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/4SzzC6T3TX9kSUB0UpXDvb"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3vbtO7zDgu9VSUO5NyFwK9"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Walk into a Storm",
         "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Love? Songs",
-        "url": "https://open.spotify.com/album/4SzzC6T3TX9kSUB0UpXDvb"
+        "name": "Pilot of My Own Life",
+        "url": "https://open.spotify.com/album/5r2eXQ7rGLwETNwERAY3Fe"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3vbtO7zDgu9VSUO5NyFwK9"
+      "duration_ms": 244480,
+      "name": "Holy Rain",
+      "url": "https://open.spotify.com/track/1wJXXOIONG3DgkJrND4cZh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -823,22 +839,6 @@
       "duration_ms": 188092,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Pilot of My Own Life",
-        "url": "https://open.spotify.com/album/5r2eXQ7rGLwETNwERAY3Fe"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Holy Rain",
-      "url": "https://open.spotify.com/track/1wJXXOIONG3DgkJrND4cZh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "One Wild Life",
+        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "One Wild Life",
-        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
     },
     {
       "added_at": "2020-09-04 04:02:00",

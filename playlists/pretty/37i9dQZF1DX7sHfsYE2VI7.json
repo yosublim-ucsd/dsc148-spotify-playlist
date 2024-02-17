@@ -1,12 +1,12 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 54244,
+  "num_followers": 54271,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDVmZTY4MDE0ZWQzZGEwMWIzOGQ2NTBmY2RiNTVkM2E1ZDVlZGFh",
+  "snapshot_id": "MCxhYzQ5NmI2NjI0YWUwOGI0MzVlMzVhMWFhYjVjNWU3ZDEyMzRjZGYw",
   "tracks": [
     {
       "added_at": "2022-02-28 02:05:58",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "Non Zero Sumness Plus One",
-        "url": "https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD"
-      },
-      "artists": [
-        {
-          "name": "Planet Funk",
-          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "Chase the Sun",
-      "url": "https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 236293,
       "name": "Missing - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
+        "name": "Non Zero Sumness Plus One",
+        "url": "https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD"
+      },
+      "artists": [
+        {
+          "name": "Planet Funk",
+          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "Chase the Sun",
+      "url": "https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
+        "name": "Amplified Heart",
+        "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Missing - Todd Terry Club Mix",
+      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
-        "name": "Amplified Heart",
-        "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Missing - Todd Terry Club Mix",
-      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "In Ghost Colours (UK Version Delux)",
-        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Lights & Music",
-      "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 156293,
       "name": "Home",
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
+        "name": "In Ghost Colours (UK Version Delux)",
+        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Lights & Music",
+      "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
     },
     {
       "added_at": "2022-02-28 02:05:58",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-02-28 02:05:58",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 315585,
-      "name": "Odessa",
-      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
-    },
-    {
-      "added_at": "2022-02-28 02:05:58",
-      "album": {
         "name": "In Ghost Colours (UK Version Delux)",
         "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 294546,
       "name": "Hearts On Fire",
       "url": "https://open.spotify.com/track/4hwGyvMsfyFkCFHlNuawXt"
+    },
+    {
+      "added_at": "2022-02-28 02:05:58",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 315585,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
       "added_at": "2022-02-28 02:05:58",

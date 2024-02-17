@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-2,969 songs - 6 day 19 hr 39 min
+2,970 songs - 6 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2281,7 +2281,8 @@
 | [Talk That Talk \- Remix](https://open.spotify.com/track/09CFAjZHysAhmEToradR2o) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Talk That Talk \(Remix\)](https://open.spotify.com/album/6OLIVv8SpN3wntKKcNiYB8) | 3:08 | 2023-11-20 | 2023-11-27 |
 | [Talk to me](https://open.spotify.com/track/7Ej86eg4BxxunXVWMvi7Jc) | [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS), [Kiwy](https://open.spotify.com/artist/1xoTj6cvmi2tnMXxNhXoCj) | [Talk to me](https://open.spotify.com/album/1oGfabYK4DGkRgjoZsodVj) | 2:50 | 2023-05-22 | 2023-05-30 |
 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-07-24 | 2023-07-31 |
-| [TALKING](https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:05 | 2024-02-11 |  |
+| [TALKING](https://open.spotify.com/track/3qnbLYCLzKvGIQXFyopS2H) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:05 | 2024-02-11 | 2024-02-17 |
+| [TALKING](https://open.spotify.com/track/1eaqMiiUn2P7MnqJK4XeK0) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:05 | 2024-02-11 |  |
 | [TAMAROU \- 2023 Remix](https://open.spotify.com/track/04KiAYckwbH4dmjrI50E1D) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [DJ JAM](https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [GORE\-TEX](https://open.spotify.com/artist/3tFoTCvKyb9SKtLAuN60Mr) | [TAMAROU \(2023 Remix\)](https://open.spotify.com/album/3r7naNQhjDJy51WDhqvOP2) | 2:39 | 2023-10-23 | 2023-10-31 |
 | [Tamashii no Hana](https://open.spotify.com/track/5PQ4jpsId1DzTkPiurKKSk) | [136youngboss](https://open.spotify.com/artist/1n7FY47pC01ERDNNxnMv74), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [ENMA DAIOU](https://open.spotify.com/album/7CYzDvKAmEZ2hbpQ7UMXYL) | 4:41 | 2024-01-07 | 2024-01-15 |
 | [Tanisha \(Pump That\)](https://open.spotify.com/track/24F6ioOJUt4CRPMMjnTPr5) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Tanisha \(Pump That\)](https://open.spotify.com/album/590fvdw3h9vHF3jdEBDoAH) | 2:46 | 2023-03-12 | 2023-03-21 |

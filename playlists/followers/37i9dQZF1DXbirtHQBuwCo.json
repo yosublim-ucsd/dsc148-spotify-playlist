@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 985084,
+  "2024-02-17": 985534,
   "date_first_scraped": "2022-04-20",
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BIBI)",
   "name": "TrenChill K-R&B",
@@ -11505,6 +11505,28 @@
     {
       "album": {
         "name": "The Weekend",
+        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
+    },
+    {
+      "album": {
+        "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
       "artists": [
@@ -12827,7 +12849,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208573,
       "name": "Why",
       "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"

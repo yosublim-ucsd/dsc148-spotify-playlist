@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This week's DEADNOISE.FM playlist is a Valentine's Day ode to your loved ones, including Roadrunner deep cuts and some of our favoritre romance\-inducing tracks
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,743 likes - 42 songs - 2 hr 54 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,744 likes - 42 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

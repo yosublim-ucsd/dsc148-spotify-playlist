@@ -1,12 +1,12 @@
 {
-  "description": "all over the place in a good way. cover: declan mckenna",
-  "num_followers": 1136095,
+  "description": "hana vu",
+  "num_followers": 1136186,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmVhOTlkMGFlMzQxMmRiNzg3NDAxMmE1Yjk4Y2FkNTYyMGI0MTBk",
+  "snapshot_id": "MCw4MWFlNDQ4YTQyNTViN2ExMTI4NzI2YTEyYmU1ZWM5NTYyZTkyNDhl",
   "tracks": [
     {
       "added_at": "2024-02-14 16:29:34",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
+      "added_at": "2024-02-16 05:41:10",
+      "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+    },
+    {
+      "added_at": "2024-01-12 03:47:20",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+    },
+    {
       "added_at": "2024-01-12 03:47:20",
       "album": {
         "name": "take yr time",
@@ -105,20 +137,40 @@
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
-      "added_at": "2024-01-12 03:47:20",
+      "added_at": "2024-02-16 05:41:10",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+        "name": "i don't really feel it anymore",
+        "url": "https://open.spotify.com/album/7hm1Kh2XVchiRA1JLPO9IS"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+      "duration_ms": 120314,
+      "name": "i don't really feel it anymore",
+      "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
+    },
+    {
+      "added_at": "2024-02-16 05:41:10",
+      "album": {
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 323789,
+      "name": "TEXAS BLUE (with Kevin Abstract)",
+      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
     },
     {
       "added_at": "2024-02-15 01:00:08",
@@ -137,6 +189,58 @@
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
+      "added_at": "2024-02-16 05:41:10",
+      "album": {
+        "name": "Soak",
+        "url": "https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 164019,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "duration_ms": 160041,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "SOLAR SONATAS VOL. 1",
+        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "The Celestials!",
+          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
+        }
+      ],
+      "duration_ms": 273604,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
+    },
+    {
       "added_at": "2024-02-08 17:37:34",
       "album": {
         "name": "Deeper Well",
@@ -153,6 +257,22 @@
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "What Happened to the Beach?",
@@ -167,6 +287,38 @@
       "duration_ms": 201197,
       "name": "Mulholland's Dinner and Wine",
       "url": "https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Private Dream",
+        "url": "https://open.spotify.com/album/5fibLuKvZ0N2oiJtixVpiR"
+      },
+      "artists": [
+        {
+          "name": "PROM",
+          "url": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/62NdkufjmvpdASBL8KsyB6"
+    },
+    {
+      "added_at": "2024-02-16 05:41:10",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 259005,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -217,22 +369,6 @@
       "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Your Mother's Name",
@@ -265,40 +401,20 @@
       "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-01-18 19:24:25",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
       "artists": [
         {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 160041,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "SOLAR SONATAS VOL. 1",
-        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "The Celestials!",
-          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
-        }
-      ],
-      "duration_ms": 273604,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2024-01-31 18:29:24",
@@ -351,22 +467,6 @@
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Private Dream",
-        "url": "https://open.spotify.com/album/5fibLuKvZ0N2oiJtixVpiR"
-      },
-      "artists": [
-        {
-          "name": "PROM",
-          "url": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/62NdkufjmvpdASBL8KsyB6"
     },
     {
       "added_at": "2024-02-07 18:18:57",
@@ -529,22 +629,6 @@
       "url": "https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ"
     },
     {
-      "added_at": "2024-02-02 00:59:27",
-      "album": {
-        "name": "Even When The Sun is Dead",
-        "url": "https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 136771,
-      "name": "Even When The Sun is Dead",
-      "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "What's Love (feat. MUNA)",
@@ -595,22 +679,6 @@
       "duration_ms": 202302,
       "name": "Girls That Play",
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
-      "added_at": "2024-01-18 19:24:25",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2024-01-26 05:00:00",

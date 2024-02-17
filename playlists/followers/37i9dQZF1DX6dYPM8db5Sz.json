@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 11100,
+  "2024-02-17": 11097,
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz?si=Oy2r3WQaR4msMS2y1YFXgg\">CON THE ARTIST</a> ",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs?si=Nw1H2JgSQcKFtqcpiTKbGg\">Milky Chance</a> ",
   "name": "Indie GO",
   "tracks": [
     {
@@ -3360,6 +3360,24 @@
     },
     {
       "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "Feeling For You",
+      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
+    },
+    {
+      "album": {
         "name": "FEELING IT",
         "url": "https://open.spotify.com/album/3I3dDA3aaa94LY9eXkk774"
       },
@@ -4006,6 +4024,24 @@
     },
     {
       "album": {
+        "name": "grew a few",
+        "url": "https://open.spotify.com/album/62zTZ1rgv80XnuFnG9Twxm"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191458,
+      "name": "grew a few",
+      "url": "https://open.spotify.com/track/0NTrQwcByWXNKgfEROWhb3"
+    },
+    {
+      "album": {
         "name": "GUILTY",
         "url": "https://open.spotify.com/album/4qxULZELSqlALwdnZDplfN"
       },
@@ -4060,6 +4096,24 @@
     },
     {
       "album": {
+        "name": "Hard to Breathe",
+        "url": "https://open.spotify.com/album/4imQSF0mGYK1mjDJ2tdcfR"
+      },
+      "artists": [
+        {
+          "name": "Zwicky & Jono",
+          "url": "https://open.spotify.com/artist/7hNwRAV7IDRDqI4q3Pcdgz"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Hard to Breathe",
+      "url": "https://open.spotify.com/track/5o4rsNhPl8CsrkUQeyB86o"
+    },
+    {
+      "album": {
         "name": "Harder",
         "url": "https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2"
       },
@@ -4075,7 +4129,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 366011,
       "name": "Harder",
       "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
@@ -6462,6 +6516,24 @@
     },
     {
       "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/2mdQvXvnFaD4aq7IgQlRbL"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/7t5Wr5xqdL3fjUGk9Xzn4J"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/6d27t0lgtkKkjjeJ55fHzq"
       },
@@ -6805,6 +6877,24 @@
       "duration_ms": 144000,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/1D84s1Wi9wDnyiLTrn174x"
+    },
+    {
+      "album": {
+        "name": "Night Bus",
+        "url": "https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153961,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU"
     },
     {
       "album": {
@@ -7542,6 +7632,24 @@
     },
     {
       "album": {
+        "name": "Past days",
+        "url": "https://open.spotify.com/album/2IkMNo1ZNepoPCd2u7ya16"
+      },
+      "artists": [
+        {
+          "name": "EFACT",
+          "url": "https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148696,
+      "name": "Past days",
+      "url": "https://open.spotify.com/track/3R4hurXS5JEjYkAjk0dq6X"
+    },
+    {
+      "album": {
         "name": "Past Midnight (Acoustic)",
         "url": "https://open.spotify.com/album/6ypJ22Tq0udhQseyoPPCIW"
       },
@@ -7611,6 +7719,24 @@
       "duration_ms": 194383,
       "name": "pink & blue",
       "url": "https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt"
+    },
+    {
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
     },
     {
       "album": {
@@ -9256,6 +9382,24 @@
     },
     {
       "album": {
+        "name": "Divina",
+        "url": "https://open.spotify.com/album/6A3jAcuHDo0ZXkYVFOY5Ck"
+      },
+      "artists": [
+        {
+          "name": "James Speechly",
+          "url": "https://open.spotify.com/artist/27vIyx3eOF94LAPd1GdGdo"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/1PoNbA1Kjk3z05uRCS2SKq"
+    },
+    {
+      "album": {
         "name": "I Can't Hide Me Anymore",
         "url": "https://open.spotify.com/album/2pJQo4qVjG6mve8LNkFdv9"
       },
@@ -9824,6 +9968,24 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/3OK3k9dcLAuWV0nNdLBY69"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/0h1mRP0KF58E1vxiYSsgQP"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/71wGwnBWvbl2TloIPK9Oxi"
       },
@@ -9986,6 +10148,24 @@
     },
     {
       "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
+    },
+    {
+      "album": {
         "name": "hopeless&romantic",
         "url": "https://open.spotify.com/album/17zYP01z2IOiCF4nXJRjCd"
       },
@@ -10037,6 +10217,28 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "album": {
+        "name": "The Loudest Thing",
+        "url": "https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF"
+      },
+      "artists": [
+        {
+          "name": "Kris Angelis",
+          "url": "https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "The Loudest Thing",
+      "url": "https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,063 songs - 2 day 11 hr 48 min
+1,064 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Confusión](https://open.spotify.com/track/3aCCiazm1YrVwYFBuGSp9H) | [Hache Theraccoon](https://open.spotify.com/artist/2lorQ3rB2JBFAsJ8OwKBDw) | [Noche Bahía](https://open.spotify.com/album/0VYjaU634QW8kddznBR0p1) | 2:35 | 2023-05-27 | 2023-05-30 |
 | [CONSENTIRTE](https://open.spotify.com/track/5SRi5RHKLeq2KUhcLpRpZc) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN) | [CONSENTIRTE](https://open.spotify.com/album/7sKakAxh41JGIJCeXhVlG9) | 3:06 | 2022-08-15 | 2022-08-30 |
 | [Contigo](https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Contigo](https://open.spotify.com/album/6pbVsKe69AMnOYIT8cZpmG) | 3:02 | 2022-09-23 | 2022-10-09 |
+| [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
 | [Controlla \- Remix](https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq) | [Carriee](https://open.spotify.com/artist/1heYNxgVSVkQoilJIh18dz), [Athzy](https://open.spotify.com/artist/0O0itpNfasVDKjX5O3Pmp3) | [Controlla \(Remix\)](https://open.spotify.com/album/1lgtVG6PaCMalcQMSpYYRV) | 3:26 | 2022-10-24 | 2022-11-12 |
 | [Cool](https://open.spotify.com/track/2Hm8cQ4wTfNfjoBj2lqBdX) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Cool](https://open.spotify.com/album/4U2t9iHOomCLPkn4c9tYi9) | 3:11 | 2022-10-30 | 2022-12-15 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-01 | 2023-07-07 |
@@ -598,7 +599,7 @@
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-06-25 | 2021-10-16 |
 | [MODELITO](https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-05 | 2023-09-18 |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-07-01 | 2023-12-02 |
-| [Mojaita](https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1) | [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [Lh Da Produzza](https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ) | [Mojaita](https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB) | 3:54 | 2023-02-11 |  |
+| [Mojaita](https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1) | [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [Lh Da Produzza](https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ) | [Mojaita](https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB) | 3:54 | 2023-02-11 | 2024-02-17 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-11-24 | 2022-03-27 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-14 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-06 | 2021-11-28 |

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-210 songs - 11 hr 5 min
+211 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 | 2019-10-13 |  |
 | [Halo \- Acoustic](https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Halo \(Acoustic\)](https://open.spotify.com/album/4l2YP0vLmML7jh34CvRzGn) | 3:24 | 2024-02-09 |  |
 | [Happy Together \- Acoustic](https://open.spotify.com/track/40JDOzCppZu1LhPPwtqz82) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Happy Together \(Acoustic\)](https://open.spotify.com/album/5HRc5KePa9umV625Gosec8) | 2:54 | 2023-09-24 |  |
+| [Happy Together \- Acoustic Version](https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Every Season](https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL) | [Happy Together \(Acoustic Version\)](https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL) | 2:46 | 2024-02-16 |  |
 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 | 2019-10-13 |  |
 | [Heal the World \- Acoustic](https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Heal the World \(Acoustic\)](https://open.spotify.com/album/6L1r7oNw89x4Sed9Ebxqnk) | 3:58 | 2020-08-10 | 2023-01-28 |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/08OaKNPulJY5P2czPt7PKY) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heaven Is a Place on Earth](https://open.spotify.com/album/0kkxOv9HJxOquoIxt0QDPm) | 3:13 | 2019-10-13 |  |
@@ -127,7 +128,7 @@
 | [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 | 2023-05-29 |  |
 | [Marry You \- Acoustic](https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Marry You \(Acoustic\)](https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH) | 3:11 | 2023-02-10 | 2023-02-25 |
 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 | 2019-10-13 |  |
-| [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-03-19 |  |
+| [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-03-19 | 2024-02-17 |
 | [Miss You Like Crazy \- Acoustic](https://open.spotify.com/track/3L1mJ12mVnNOT6zgTL0VvX) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Miss You Like Crazy \(Acoustic\)](https://open.spotify.com/album/4hlspzDOaEXqoD3KVql8oK) | 3:23 | 2022-05-14 | 2022-07-03 |
 | [Mr Blue Sky \- Acoustic](https://open.spotify.com/track/2HUQikp6TKzN4lOAaXjqAe) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Mr Blue Sky \(Acoustic\)](https://open.spotify.com/album/0qemjRVIImUJxiEvOo8mfZ) | 3:01 | 2019-10-13 |  |
 | [Mr Brightside \- Acoustic](https://open.spotify.com/track/5RO37qUgxkXi6OgzuFBgFu) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Mr Brightside \(Acoustic\)](https://open.spotify.com/album/5YwjHP3v74JIE4WZslG9hV) | 3:39 | 2020-03-16 |  |

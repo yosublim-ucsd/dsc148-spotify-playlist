@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 16999,
+  "2024-02-17": 16999,
   "date_first_scraped": "2021-12-29",
   "description": "Cool vibes from the African continent.",
   "name": "Afrocentric",
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 138652,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 254117,
       "name": "Badimo (feat. DJ Maphorisa & Boohle)",
       "url": "https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1"
@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Clear / Rinse & Repeat",
+        "url": "https://open.spotify.com/album/646oxcwrISUFht8JJV0N07"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/10UV0GA408i11E6eSloCb4"
+    },
+    {
+      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1165,6 +1183,44 @@
       "duration_ms": 201925,
       "name": "Confirmed",
       "url": "https://open.spotify.com/track/7sWaLgAGXLdAzRdqmwXilZ"
+    },
+    {
+      "album": {
+        "name": "Coup du marteau",
+        "url": "https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3"
+      },
+      "artists": [
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        },
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "PSK",
+          "url": "https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174589,
+      "name": "Coup du marteau",
+      "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
     },
     {
       "album": {
@@ -2847,7 +2903,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
@@ -3385,7 +3441,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 188000,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/0UW8TcUM9JHJB5QrM0Pjx8"
@@ -4403,7 +4459,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 168000,
       "name": "Present",
       "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
@@ -4443,6 +4499,28 @@
       "duration_ms": 187866,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3sEcJ4mGZ9srlXdG7G2HK1"
+    },
+    {
+      "album": {
+        "name": "Queen (Dan Kye Remix)",
+        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327894,
+      "name": "Queen - Dan Kye Remix",
+      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
     },
     {
       "album": {
@@ -4797,7 +4875,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 169031,
       "name": "safe haven",
       "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"

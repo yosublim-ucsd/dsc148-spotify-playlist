@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 32223,
+  "2024-02-17": 32225,
   "date_first_scraped": "2022-10-29",
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
   "name": "This Is G Herbo",
@@ -785,7 +785,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 163480,
       "name": "Focused",
       "url": "https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH"
@@ -2423,7 +2423,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"

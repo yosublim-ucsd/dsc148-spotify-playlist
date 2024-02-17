@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: NAV",
-  "num_followers": 10256,
+  "num_followers": 10271,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjU0NmE0MTdlNmJjNmY4MzE3OWIxOTc2ODIxODlhNGUzNGE1ODQ1",
+  "snapshot_id": "MCxiNzg5ODgzOGEzMmI5NTk5NDU5Mzk3OWZjOTFkZDEyZWFjNzhhMGZk",
   "tracks": [
     {
       "added_at": "2024-02-15 19:43:51",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-02-15 19:43:51",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        },
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 149042,
-      "name": "NIGHTFALL (feat. Dro Kenji)",
-      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
-    },
-    {
-      "added_at": "2024-02-15 19:43:51",
-      "album": {
         "name": "Bionic Man",
         "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 192000,
       "name": "Bionic Man",
       "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
+    },
+    {
+      "added_at": "2024-02-15 19:43:51",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 149042,
+      "name": "NIGHTFALL (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
     },
     {
       "added_at": "2024-02-15 19:43:51",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-15 19:43:51",
       "album": {
+        "name": "The Extravagant Collection",
+        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
+    },
+    {
+      "added_at": "2024-02-15 19:43:51",
+      "album": {
         "name": "Window Shopping (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 160812,
       "name": "Window Shopping (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5RmUd1skWw9kMFlxPgfcYW"
-    },
-    {
-      "added_at": "2024-02-15 19:43:51",
-      "album": {
-        "name": "The Extravagant Collection",
-        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
     },
     {
       "added_at": "2024-02-15 19:43:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-15 19:43:51",
       "album": {
-        "name": "Time & It's Order",
-        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 135221,
-      "name": "Time & It's Order",
-      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
-    },
-    {
-      "added_at": "2024-02-15 19:43:51",
-      "album": {
         "name": "no long talk.",
         "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2024-02-15 19:43:51",
       "album": {
-        "name": "All Time High",
-        "url": "https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Dwayne Carter Flow",
-      "url": "https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5"
-    },
-    {
-      "added_at": "2024-02-15 19:43:51",
-      "album": {
         "name": "30,000 ft",
         "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
       },
@@ -1071,6 +1039,38 @@
       "duration_ms": 157873,
       "name": "30,000 ft",
       "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
+    },
+    {
+      "added_at": "2024-02-15 19:43:51",
+      "album": {
+        "name": "All Time High",
+        "url": "https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Dwayne Carter Flow",
+      "url": "https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5"
+    },
+    {
+      "added_at": "2024-02-15 19:43:51",
+      "album": {
+        "name": "Time & It's Order",
+        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 135221,
+      "name": "Time & It's Order",
+      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
     },
     {
       "added_at": "2024-02-15 19:43:51",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-02-15 19:43:51",
       "album": {
+        "name": "BECAUSE WE'RE ALIVE",
+        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 151310,
+      "name": "KING OF THE TOWN",
+      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
+    },
+    {
+      "added_at": "2024-02-15 19:43:51",
+      "album": {
         "name": "Ready When You Are",
         "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 201904,
       "name": "WYD",
       "url": "https://open.spotify.com/track/1G1BU1nUs5qui6Avug8kR2"
-    },
-    {
-      "added_at": "2024-02-15 19:43:51",
-      "album": {
-        "name": "BECAUSE WE'RE ALIVE",
-        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 151310,
-      "name": "KING OF THE TOWN",
-      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
     },
     {
       "added_at": "2024-02-15 19:43:51",

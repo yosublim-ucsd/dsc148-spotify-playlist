@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631788,
+  "num_followers": 631830,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjZmY2I1ODk5ZjM2NmJlMzE1OTgxMDEzZGU1Zjc0Y2MyNDhmZmQ3",
+  "snapshot_id": "MCw1NDMwNTEzNzIxYTYyZmVmNjEwMGM1MDE4ZDQ1NGRjMWVmZGExOWRi",
   "tracks": [
     {
       "added_at": "2024-01-31 19:26:23",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "From Another View",
         "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 202000,
       "name": "Always Sleepy",
       "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
-      },
-      "artists": [
-        {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
-      },
-      "artists": [
-        {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
-        }
-      ],
-      "duration_ms": 134210,
-      "name": "We Are Forever",
-      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Charcoal",
         "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 329773,
       "name": "Such Owls As You",
       "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+      },
+      "artists": [
+        {
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+        }
+      ],
+      "duration_ms": 134210,
+      "name": "We Are Forever",
+      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Evanescenza",
-        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Calmaz",
-          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Libero",
-      "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 175250,
       "name": "Myriads",
       "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Evanescenza",
+        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Calmaz",
+          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
+        }
+      ],
+      "duration_ms": 186601,
+      "name": "Libero",
+      "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "The Light of Day",
         "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 188940,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "Theta Sleep",
         "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 160345,
       "name": "Precious 432 hz",
       "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Time Capsule",
-        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
-      },
-      "artists": [
-        {
-          "name": "Moments Of Divinity",
-          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
-        }
-      ],
-      "duration_ms": 129274,
-      "name": "Time Capsule",
-      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Would I Bother",
         "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 160941,
       "name": "Would I Bother",
       "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "duration_ms": 129274,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Aion",
         "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
         }
       ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1439,6 +1423,22 @@
       "duration_ms": 168684,
       "name": "Burgeon",
       "url": "https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Winter Night Mist",
-        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 193095,
-      "name": "Winter Night Mist",
-      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Tranquillo",
         "url": "https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 131339,
       "name": "Luna",
       "url": "https://open.spotify.com/track/4WukGsbJZHciloJygVdG63"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 233174,
       "name": "Aragorn",
       "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
     }
   ],
   "unique_name": "DayDreamer",

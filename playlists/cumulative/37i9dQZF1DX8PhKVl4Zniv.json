@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Auntie Mabel",
+        "url": "https://open.spotify.com/album/5m2IkW41GgNYLSjN0b7oqf"
+      },
+      "artists": [
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "Auntie Mabel",
+      "url": "https://open.spotify.com/track/0Ysu2rPehZDiLohbVVw2gH"
+    },
+    {
+      "album": {
         "name": "Immigrance",
         "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge"
       },

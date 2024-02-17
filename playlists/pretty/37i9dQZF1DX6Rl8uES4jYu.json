@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 236354,
+  "num_followers": 236340,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzBiNDI2M2Y0NjhmNDcwM2RiNjBiNjYxMzk2ZmQyMDU0YmQyYjYy",
+  "snapshot_id": "MCw2MjYwZmQyMmRlNWI0NDg0ZmViN2Q2OTczZTQ0NmE2NDlkNjQ4MWVk",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/5o5u0j8BHPApaOvALpmLnR"
+      },
+      "artists": [
+        {
+          "name": "Outasight",
+          "url": "https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO"
+        }
+      ],
+      "duration_ms": 188159,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/1uyxpsLuJAuXL1gOfRsZuw"
+    },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
@@ -1711,22 +1727,6 @@
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
       "added_at": "2022-05-20 04:01:00",

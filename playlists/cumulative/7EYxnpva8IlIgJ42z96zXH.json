@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Bass Keeps Calling",
+        "url": "https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172484,
+      "name": "Bass Keeps Calling",
+      "url": "https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg"
+    },
+    {
+      "album": {
         "name": "Be Like That (Remixes) - EP",
         "url": "https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3"
       },

@@ -4,12 +4,13 @@
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-183 songs - 9 hr 27 min
+186 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [110 Hz \- 123 Hz Alpha Soundscape](https://open.spotify.com/track/3alCs4bLSLEVmq0f8pMy3V) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:00 | 2023-11-24 |  |
 | [4 Hz Theta Drone](https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [4\-8 Hz Theta Drones](https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx) | 3:34 | 2023-11-24 |  |
+| [432 Hz Tellus Heartbeat](https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [432 Hz Tellus Heartbeat](https://open.spotify.com/album/3F6z3CdXwUdmEytOcDOdIf) | 2:45 | 2024-02-16 |  |
 | [528 Hz Tranquil Movement](https://open.spotify.com/track/3Yr2H92JZYghHGHApR2Y3E) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [528 Hz Tranquil Movement](https://open.spotify.com/album/6t5ZI4pjEPPM7TMBLza3Rg) | 2:30 | 2024-01-31 |  |
 | [6 Hz Theta Drone](https://open.spotify.com/track/3Hdoxb4ESR1MfZHil7V7dz) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [4\-8 Hz Theta Drones](https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx) | 3:26 | 2023-11-24 |  |
 | [963 Hz Intuition](https://open.spotify.com/track/5G1cDOqdUzaVatIG1M0Bqf) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Intuition](https://open.spotify.com/album/6ZSSObWQiCdayfLPyMZmIp) | 3:26 | 2024-01-31 |  |
@@ -91,7 +92,8 @@
 | [Brainwave Alpha](https://open.spotify.com/track/3HelXzGbIpG5kefxeTeGXk) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Binaural Alpha Drones](https://open.spotify.com/album/4TBjl8rcL9GjOCeYYq4ee9) | 3:26 | 2023-11-24 |  |
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-11-24 |  |
 | [Clarifying Alpha Frequencies 82\-90 Hz](https://open.spotify.com/track/5ycP8oHkFgBjS3Zei0jzZB) | [Carl Burch](https://open.spotify.com/artist/51FObJDqTsXP89SXrNnUhL) | [Clarifying Alpha Frequencies 82\-90 Hz](https://open.spotify.com/album/3Sxy2dzXHOv4qUfhOwn0ao) | 2:32 | 2023-11-24 |  |
-| [Colors](https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt) | [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Colors](https://open.spotify.com/album/6A9BWzxpAgJyV8LZx6p9ez) | 1:49 | 2023-11-24 |  |
+| [Colors](https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt) | [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Colors](https://open.spotify.com/album/6A9BWzxpAgJyV8LZx6p9ez) | 1:49 | 2023-11-24 | 2024-02-17 |
+| [Cortex Rejuvenation 285 Hz](https://open.spotify.com/track/0ddNn86lIO7EHUlZogHAdN) | [Solfonia Bliss](https://open.spotify.com/artist/5ZCCivqbuWNWLeUWqcJ56h) | [Cortex Rejuvenation 285 Hz](https://open.spotify.com/album/1S6k1X61MbiWNePiaiPWrc) | 3:15 | 2024-02-16 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2023-11-24 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2023-11-24 |  |
 | [Creativity Theta Drone](https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC) | [Arctic Pads](https://open.spotify.com/artist/4AduPPid79418PHGKIodmw) | [Theta Binaural Meditation](https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW) | 3:18 | 2023-11-24 |  |
@@ -163,6 +165,7 @@
 | [Stille \- Alpha Sinus 134Hz \- 141Hz](https://open.spotify.com/track/3ocQGhNuWunmbDK1IYzVBD) | [Blue Triangles](https://open.spotify.com/artist/6brKlPbQVltmtC6MCvfXFK) | [Stille Binaural](https://open.spotify.com/album/34DwcLP6FYLKDbpK0RoN8Y) | 4:06 | 2023-11-24 |  |
 | [Stimulus \- Alpha sinus 95 \- 100hz](https://open.spotify.com/track/1WTzE86eipBlrg5RnzJTm5) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Brain Entrainment](https://open.spotify.com/album/18d1Hr9e7GaU8VEoRK3lkJ) | 4:22 | 2023-11-24 |  |
 | [Stingray Alpha Sinus 147Hz \- 159Hz](https://open.spotify.com/track/3XNII7xuI8iShtoFrPAlA8) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Stingray Alpha Sinus 147Hz \- 159Hz](https://open.spotify.com/album/4pBn8DPYc09epRwTuCjYak) | 3:24 | 2023-11-24 |  |
+| [Suspended in Time 528Hz](https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Suspended in Time 528Hz](https://open.spotify.com/album/3wkXTVe5vEYlmdOg47BgNs) | 3:10 | 2024-02-16 |  |
 | [The Alpha Cycle 110Hz \- 119Hz](https://open.spotify.com/track/6M2rghYZkAl2DgTMtOinuC) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 2:41 | 2023-11-24 |  |
 | [The Power of Now \(Alpha Waves\)](https://open.spotify.com/track/4gbAjIiEDIjEQoPTzQijkP) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 4:06 | 2023-11-24 |  |
 | [Theta Binaural Waves 115Hz \- 120Hz](https://open.spotify.com/track/5Id2FtV8Y0NLZbdSM4UIxF) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Theta Clarity](https://open.spotify.com/album/3lZlpZ3chnybfym66mCft1) | 3:07 | 2023-11-24 |  |

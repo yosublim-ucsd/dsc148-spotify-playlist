@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1519580,
+  "num_followers": 1519701,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2",
+  "snapshot_id": "MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/18Gya3EEn3haiyfbGnkknk"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/4wv5kAIPTucM1bzkijtswa"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
-      },
-      "artists": [
-        {
-          "name": "Eu, Trovador",
-          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2wtiPI88rTbmrbB1zPndhY"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 148669,
       "name": "S\u00f3 Penso Nela - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1XyEfOINM4wt9DVzrQzb6p"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 181327,
-      "name": "Nobre Vagabundo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Aluga-se",
         "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 125955,
       "name": "Aluga-se",
       "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 181327,
+      "name": "Nobre Vagabundo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Espera a Primavera (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 254878,
-      "name": "Espera a Primavera - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 136716,
       "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Espera a Primavera (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 254878,
+      "name": "Espera a Primavera - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "\u00daltimo Romance",
+        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 257701,
+      "name": "\u00daltimo Romance",
+      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Casa de Praia 2 (ac\u00fastico)",
         "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 215340,
       "name": "Amar Amei - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5D0TL90eyFI27ucNfIemko"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "\u00daltimo Romance",
-        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 257701,
-      "name": "\u00daltimo Romance",
-      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
         "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 206375,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Todas as Praias (Ax\u00e9) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz"
     },
     {
       "added_at": "2023-10-13 03:00:00",

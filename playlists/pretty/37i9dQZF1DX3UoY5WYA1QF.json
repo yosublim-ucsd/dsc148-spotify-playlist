@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 92843,
+  "num_followers": 92946,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjYwMTA0MzZjNGJlNDQ1YTZiNWY2NTFjNTYyYjFlNzc2N2Y0YjQ0",
+  "snapshot_id": "MCw4ODE3MWJhMDgxNjU5OGE1NzQwOTQyYzVjY2VjMWI1NGQwOTFhNDQ5",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Lo Mejor De Nosotros",
-        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 213228,
-      "name": "Mas Alto Que Las Aguilas",
-      "url": "https://open.spotify.com/track/12Wt7BjwD9LGbX1tiL6weH"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "En Vivo: Desde Los Cabos",
         "url": "https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 170709,
       "name": "Un Idiota - En Vivo",
       "url": "https://open.spotify.com/track/4xO3YgOwf8mhEHRSnNQZPQ"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 213228,
+      "name": "Mas Alto Que Las Aguilas",
+      "url": "https://open.spotify.com/track/12Wt7BjwD9LGbX1tiL6weH"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "El Homenaje Al Poeta Del Pueblo Joan Sebastian",
-        "url": "https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2"
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
       },
       "artists": [
         {
-          "name": "Conjunto Sol De Ojinaga",
-          "url": "https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8"
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 227998,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA"
+      "duration_ms": 151712,
+      "name": "Aunque Ya Tengas Marido",
+      "url": "https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+        "name": "El Homenaje Al Poeta Del Pueblo Joan Sebastian",
+        "url": "https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "Conjunto Sol De Ojinaga",
+          "url": "https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8"
         }
       ],
-      "duration_ms": 151712,
-      "name": "Aunque Ya Tengas Marido",
-      "url": "https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d"
+      "duration_ms": 227998,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA"
     },
     {
       "added_at": "2023-04-10 22:49:54",

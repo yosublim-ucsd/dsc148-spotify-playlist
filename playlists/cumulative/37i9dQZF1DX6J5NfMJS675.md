@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-637 songs - 2 day 14 hr 10 min
+638 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,8 @@
 | [Shift](https://open.spotify.com/track/4q1Pi82KM83zz1YeueS79n) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All Things Fall](https://open.spotify.com/album/3H3MvHQObCHzt1yeEc9KGQ) | 6:52 | 2020-04-18\* | 2020-04-29 |
 | [Silence](https://open.spotify.com/track/6Rh7Z7HgjzxouMzlXMN75U) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [HLGRMS](https://open.spotify.com/artist/1EtIq8lnoAOKoVf8ryhcmQ) | [Silence](https://open.spotify.com/album/2gwA0bOrpxqNwx8zI9PzRT) | 6:23 | 2022-11-25 | 2023-03-25 |
 | [Silence Your Mind](https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Silence Your Mind](https://open.spotify.com/album/77sRud3gjmLrWPYK2VTCeF) | 4:00 | 2023-03-10 | 2023-07-08 |
-| [Silo](https://open.spotify.com/track/4UoIfUBfZtepuH3APCEg5P) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Silo](https://open.spotify.com/album/6GEfhtPzudN4ADLaiSruVn) | 6:34 | 2024-02-05 |  |
+| [Silo](https://open.spotify.com/track/0IyjF7JOgqSf1joUpAbZWx) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Stand](https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz) | 6:34 | 2024-02-05 |  |
+| [Silo](https://open.spotify.com/track/4UoIfUBfZtepuH3APCEg5P) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Silo](https://open.spotify.com/album/6GEfhtPzudN4ADLaiSruVn) | 6:34 | 2024-02-05 | 2024-02-17 |
 | [Simplicity](https://open.spotify.com/track/4pM9FUA8bvHMc3VuL9GgUT) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Simplicity](https://open.spotify.com/album/6Rtax07UP7eAWbL97dC8fB) | 6:41 | 2022-10-28 | 2023-02-04 |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-04-28 | 2023-08-10 |
 | [Sleeper in Metropolis \- Robin Hirte Remix](https://open.spotify.com/track/4UTbzsggBcjfr6VDuBWLCv) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL), [Robin Hirte](https://open.spotify.com/artist/0q4jQ2ducUDvYaE5vTZQqz) | [Synaesthesia \- Classics Reworked](https://open.spotify.com/album/32xxTp5hqF7W3VwO7qyEWM) | 4:52 | 2021-06-05 | 2021-08-28 |

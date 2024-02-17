@@ -4,12 +4,13 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-75 songs - 6 hr 18 min
+76 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Actual Proof](https://open.spotify.com/track/10ayGc2Uxrz7G1EQbnskUG) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [HBC](https://open.spotify.com/album/177EnulmbDMJdNE5vsrjTU) | 10:15 | 2022-06-01 |  |
 | [Armageddon Blues](https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:11 | 2022-06-01 |  |
+| [Auntie Mabel](https://open.spotify.com/track/0Ysu2rPehZDiLohbVVw2gH) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Auntie Mabel](https://open.spotify.com/album/5m2IkW41GgNYLSjN0b7oqf) | 3:22 | 2024-02-16 |  |
 | [Bad Kids To The Back](https://open.spotify.com/track/3nvREfeASA91U3atMsVO3H) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 5:45 | 2022-06-01 |  |
 | [Barreleye](https://open.spotify.com/track/2Dc1pUBABcfMy42W6vxhC3) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Deep: The Baritone Sessions](https://open.spotify.com/album/2oo8dj4OFcDeioixQgtVgK) | 3:12 | 2022-06-01 |  |
 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 | 2022-06-01 |  |

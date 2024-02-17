@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 7635152,
+  "2024-02-17": 7636359,
   "date_first_scraped": "2020-08-14",
   "description": "Pumping tracks for pumping iron!",
   "name": "Gym Hits",
@@ -345,7 +345,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 150937,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 160222,
       "name": "Angel (with Chrish)",
       "url": "https://open.spotify.com/track/4a6fvRDVxpvJyhRCHm8a0L"
@@ -2361,6 +2361,32 @@
       "duration_ms": 128562,
       "name": "Calabria",
       "url": "https://open.spotify.com/track/1evWpIlEfSZnXtHtpILB6b"
+    },
+    {
+      "album": {
+        "name": "Calabria",
+        "url": "https://open.spotify.com/album/6fxb7EQJRNR3e3f4EtK2ik"
+      },
+      "artists": [
+        {
+          "name": "LUCKY DEMON",
+          "url": "https://open.spotify.com/artist/2Hg8OeRaaAyOMfIXrYGED5"
+        },
+        {
+          "name": "PET3RPUNX",
+          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
+        },
+        {
+          "name": "M-T3CK",
+          "url": "https://open.spotify.com/artist/4mCm9ow3qRnd421ECLiRPY"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Calabria",
+      "url": "https://open.spotify.com/track/5WTtOTUchDpnR0xJQ5eFyv"
     },
     {
       "album": {
@@ -4943,7 +4969,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 132682,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
@@ -5887,6 +5913,28 @@
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "album": {
+        "name": "Head",
+        "url": "https://open.spotify.com/album/5xMYwNDQnYMFmjpAibCJ4W"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Blithe",
+          "url": "https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173413,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/0MpQj2Fd3kVlr5ZoK22jxd"
     },
     {
       "album": {
@@ -10850,6 +10898,32 @@
     },
     {
       "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163147,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -10943,6 +11017,24 @@
       "duration_ms": 214618,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/1n0R2OhsCJSRzPOhzuEUc0"
+    },
+    {
+      "album": {
+        "name": "Pictures Of You",
+        "url": "https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Pictures Of You",
+      "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
     },
     {
       "album": {
@@ -13467,7 +13559,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 124800,
       "name": "Stay By My Side",
       "url": "https://open.spotify.com/track/0yMIZRZLBG7rh3xiHAFR9Z"

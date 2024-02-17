@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/4AZVOff7LIyViuLN7zctnI"
+      },
+      "artists": [
+        {
+          "name": "Start Of Something Good",
+          "url": "https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193811,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/1QRCpFQK9RytODMp2mpdG3"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo"
       },
@@ -474,6 +492,24 @@
       "duration_ms": 233478,
       "name": "Dreamwalking",
       "url": "https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/1r1ROhlKfkqa4ulXennJPg"
+      },
+      "artists": [
+        {
+          "name": "Hans Jacob",
+          "url": "https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/2OcR4AVhkv1aQl51LOrv7L"
     },
     {
       "album": {
@@ -918,6 +954,24 @@
       "duration_ms": 165454,
       "name": "In Rhythm",
       "url": "https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB"
+    },
+    {
+      "album": {
+        "name": "Wave Hands Like Clouds",
+        "url": "https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcdi Siebert",
+          "url": "https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "Inside the Heart",
+      "url": "https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX"
     },
     {
       "album": {
@@ -2078,6 +2132,24 @@
       "duration_ms": 139225,
       "name": "Theias (Nature Sounds)",
       "url": "https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND"
+    },
+    {
+      "album": {
+        "name": "Treetop Dreamers",
+        "url": "https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "Treetop Dreamers",
+      "url": "https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj"
     },
     {
       "album": {

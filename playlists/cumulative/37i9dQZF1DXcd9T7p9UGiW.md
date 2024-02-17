@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover: Luciano and Omah Lay
 
-472 songs - 1 day 1 hr 27 min
+472 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Joko \(feat\. Shaggy\)](https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Joko \(feat\. Shaggy\)](https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py) | 3:05 | 2023-12-08 | 2024-01-13 |
 | [Jumeirah](https://open.spotify.com/track/38xttLsyfUwd284fbNjymm) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jumeirah](https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm) | 2:42 | 2023-05-11 | 2023-05-26 |
 | [JUMPING SHIP](https://open.spotify.com/track/5qaUDvqjsI6lnrtEhQqMle) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:21 | 2021-10-08 | 2023-04-15 |
-| [Jungle Music Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:22 | 2024-02-16 |  |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 |  |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-10 | 2023-03-25 |
 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-12 |  |
 | [Karolina](https://open.spotify.com/track/0NkWxvR0jlPVgQiaBdma3U) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Karolina](https://open.spotify.com/album/2GcjAAeJVgKHCyLWTZLkCV) | 2:49 | 2022-06-23 | 2022-08-26 |

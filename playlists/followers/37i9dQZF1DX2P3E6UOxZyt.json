@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 27539,
+  "2024-02-17": 27542,
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: L\u00dcCY",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: KIRE",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1641,7 +1641,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 182496,
       "name": "leave before u do",
       "url": "https://open.spotify.com/track/0fNLHnZzCjEL1e3VAn4bDG"
@@ -3146,6 +3146,24 @@
     },
     {
       "album": {
+        "name": "Yao",
+        "url": "https://open.spotify.com/album/1IPHlEzyP7VftwQU47YAsJ"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139471,
+      "name": "Yao",
+      "url": "https://open.spotify.com/track/624aGEB7aBIR02KQQYxXAN"
+    },
+    {
+      "album": {
         "name": "Yes No Maybe",
         "url": "https://open.spotify.com/album/4jkzOXlMkapYIEYiTWyChI"
       },
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 177121,
       "name": "Yes No Maybe (feat. \u6843\u5b50A1J)",
       "url": "https://open.spotify.com/track/0P0FuSptrRMuUeeFayaKYk"
@@ -3783,7 +3801,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 186250,
       "name": "\u4f60\u5feb\u7a92\u606f",
       "url": "https://open.spotify.com/track/1LPPhy1a2t74ywwT9SRVMW"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 208833,
       "name": "\u524d\u9762\u8f6c\u4e2a\u5f2f",
       "url": "https://open.spotify.com/track/1R5L6GWG5ir4UoiP7sosEp"
@@ -4489,7 +4507,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 215991,
       "name": "\u554f\u7b54",
       "url": "https://open.spotify.com/track/5LdshHqIHeAT2JsZ1zvIhA"
@@ -4783,7 +4801,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 204800,
       "name": "\u5979\u7e3d\u662f",
       "url": "https://open.spotify.com/track/4pe1L6Aqzcb1N2igoamraU"
@@ -6150,6 +6168,24 @@
     },
     {
       "album": {
+        "name": "\u6392\u968a",
+        "url": "https://open.spotify.com/album/4XeMBwFZbyaTpsoUdn4qFX"
+      },
+      "artists": [
+        {
+          "name": "KUNG \u9f94\u656c\u6587",
+          "url": "https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "\u6392\u968a",
+      "url": "https://open.spotify.com/track/3eZyBeP7MKYSfeapkq5RcL"
+    },
+    {
+      "album": {
         "name": "\u63a7\u5236",
         "url": "https://open.spotify.com/album/1q5bxn0z81TFLdPi4hl29c"
       },
@@ -6461,7 +6497,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 246132,
       "name": "\u6709\u500b\u5ff5\u982d",
       "url": "https://open.spotify.com/track/1EWoavCgg7e5DHyWHSHFLE"
@@ -7206,6 +7242,24 @@
     },
     {
       "album": {
+        "name": "Life Buoy",
+        "url": "https://open.spotify.com/album/1tzRVINQei2GdrfHz6GvzU"
+      },
+      "artists": [
+        {
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247957,
+      "name": "\u721b\u6ce5",
+      "url": "https://open.spotify.com/track/1KUxC7fo15FwoP3GHFhv6h"
+    },
+    {
+      "album": {
         "name": "\u7231\u5230\u4f60\u8bf4",
         "url": "https://open.spotify.com/album/2fBQDI4emhek3kkw5bN4lU"
       },
@@ -7539,7 +7593,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208666,
       "name": "\u7a0d\u6d3e",
       "url": "https://open.spotify.com/track/4MvqTx3EBXvbmepdEKsCDs"
@@ -8305,7 +8359,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153177,
       "name": "\u8df3\u821e\u7684\u732b",
       "url": "https://open.spotify.com/track/7dryI2oKSV5C0ramBteshK"

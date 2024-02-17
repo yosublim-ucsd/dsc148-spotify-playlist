@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375031,
+  "num_followers": 375049,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDFhN2VjZGQ4ZTIxZDNlM2I2ODA1YzRmODdkMmEyNzVkNGI3M2Jl",
+  "snapshot_id": "MCw0ZTE1Mzg1NjVmMWFlMWIxYTg4YTYyODI5MmNhYTc4MjVkYzczZGQ0",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "All-American Cowboy",
-        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
-      },
-      "artists": [
-        {
-          "name": "Henson Cargill",
-          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Skip a Rope",
-      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Phantom 309",
-        "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
       "artists": [
         {
-          "name": "Red Sovine",
-          "url": "https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf"
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Phantom 309",
-      "url": "https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3"
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -723,6 +707,22 @@
       "duration_ms": 144200,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Phantom 309",
+        "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
+      },
+      "artists": [
+        {
+          "name": "Red Sovine",
+          "url": "https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Phantom 309",
+      "url": "https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
+        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 151773,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
+      "duration_ms": 194160,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
-        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
+      "duration_ms": 151773,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
     },
     {
       "added_at": "2023-11-21 21:06:39",

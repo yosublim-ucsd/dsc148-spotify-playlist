@@ -1,13 +1,157 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party \ud83d\udd6f\ufe0f",
-  "num_followers": 833909,
+  "description": "Explore all things indie rock right now. Featuring music from Royel Otis ",
+  "num_followers": 833887,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjE2NTdjOWYzMWJlNTU5ZDA5YjA4N2FiMTAzOWVmNzE0ZjJlNGVl",
+  "snapshot_id": "MCw1MWRlNDIwZTIwNWFiYmFiYjk1NjQ1NzIyM2ViZDBhNTlkNjYyNDA3",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Capricorn / Gen-X Cops",
+        "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Capricorn",
+      "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Brown Paper Bag",
+        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Brain Damage",
+        "url": "https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Brain Damage",
+      "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Where we've been, Where we go from here",
+        "url": "https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 292599,
+      "name": "Get Numb To It!",
+      "url": "https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 175120,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/7HyJAC5Z0JDS7rq7gbK7EW"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Give It Back to Me",
+        "url": "https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Give It Back to Me",
+      "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Common Blue",
+        "url": "https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "duration_ms": 231023,
+      "name": "Common Blue",
+      "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
+    },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
@@ -23,6 +167,70 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "i'll remember you for the same feeling you gave me as i slept",
+        "url": "https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 272876,
+      "name": "Feeling Grey",
+      "url": "https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 196724,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 173207,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "My Peace",
+        "url": "https://open.spotify.com/album/4MdYusrGiv5mLQ6ERXrPdv"
+      },
+      "artists": [
+        {
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "My Peace",
+      "url": "https://open.spotify.com/track/4ftPxD0WFVI6VoySxh05Gd"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -121,6 +329,22 @@
       "url": "https://open.spotify.com/track/2tfuZBeGLj63wrBUnwXiGk"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Obsessive Thoughts",
+      "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "MADRA",
@@ -185,22 +409,6 @@
       "url": "https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Obsessive Thoughts",
-      "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Forever",
@@ -251,22 +459,6 @@
       "duration_ms": 229610,
       "name": "I Wanna Go To The City",
       "url": "https://open.spotify.com/track/1VHNH9fVuA1oLbqFGMYo2t"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "I'm in Love",
-        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 196724,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -501,6 +693,22 @@
       "url": "https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
       "added_at": "2024-01-16 17:19:33",
       "album": {
         "name": "One Bad Day",
@@ -563,22 +771,6 @@
       "duration_ms": 223360,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Wild Days",
-        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 219349,
-      "name": "Wild Days",
-      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -797,22 +989,6 @@
       "url": "https://open.spotify.com/track/373VRQ3zCZuABm0SSZ8OY4"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "why aren't you laughing?",
-        "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 253745,
-      "name": "rot in love",
-      "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "u come near",
@@ -919,22 +1095,6 @@
       "duration_ms": 213002,
       "name": "KPR",
       "url": "https://open.spotify.com/track/1JhA5lyvVDg1fmsqsZdd0Z"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1085,54 +1245,6 @@
       "url": "https://open.spotify.com/track/25cnulf8xul2rIfLxKLyre"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "One Night / Real I\u2019m Told",
-        "url": "https://open.spotify.com/album/7377ZR37x8x2qLVk5iHGcE"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Real I\u2019m Told",
-      "url": "https://open.spotify.com/track/1ZT84SGqCu0So44tSJhG2l"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Tale of A Man",
-        "url": "https://open.spotify.com/album/47fxxzNYoFylPsmR7xvrLy"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 166076,
-      "name": "Tale Of A Man",
-      "url": "https://open.spotify.com/track/1rBmKmG7hM3gp4lpKQCmj1"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Where Are You Later On, Forever?",
-        "url": "https://open.spotify.com/album/3a513I3mLfr7s2rze2CB9f"
-      },
-      "artists": [
-        {
-          "name": "Rebounder",
-          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "Where Are You Later On, Forever?",
-      "url": "https://open.spotify.com/track/0i6iYbKAfDa9i7daY9bC2c"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Superbloomer",
@@ -1211,22 +1323,6 @@
       "duration_ms": 175483,
       "name": "Tarantula Queen",
       "url": "https://open.spotify.com/track/421Zq6CoK8P5R6bdEq26Pg"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Slime",
-        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1345,22 +1441,6 @@
       "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/2luQRtBMAKFkGnBwWToNkJ"
-      },
-      "artists": [
-        {
-          "name": "IAN SWEET",
-          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
-        }
-      ],
-      "duration_ms": 268586,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/3Y7aoI9rr7TqA2ONaIHgB9"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Are You Looking Up / You got it",
@@ -1443,22 +1523,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dramamine",
-        "url": "https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -1491,38 +1555,6 @@
       "duration_ms": 182533,
       "name": "Stick",
       "url": "https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Man",
-        "url": "https://open.spotify.com/album/3i7o97HnEv17tR4u2iBRGx"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 175856,
-      "name": "Man",
-      "url": "https://open.spotify.com/track/28JDHHJpoelV9KZYETycAE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Ultrapure",
-        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1611,22 +1643,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "I'm Only Me When I'm With You",
-        "url": "https://open.spotify.com/album/4XxKXwDS8eG7aOw3cF816M"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I'm Only Me When I'm With You",
-      "url": "https://open.spotify.com/track/3p5rnKolaN8ap6Ykm0A8AK"
     }
   ],
   "unique_name": "Today's Indie Rock",

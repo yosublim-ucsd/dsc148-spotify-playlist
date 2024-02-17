@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 1990s to boost your running session.",
-  "num_followers": 553759,
+  "num_followers": 554004,
   "original_name": "90s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjc0Y2I1NGM2ZjY1MjY0OWViMjA4MDRmYmZhNGZmNWE4NmE4Y2Ji",
+  "snapshot_id": "MCxmODc4MjcxMjk3NmFjMGMyYzExYTRhYTg4ODA3YWRmMzUzNzMzN2M2",
   "tracks": [
     {
       "added_at": "2023-01-03 14:53:32",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Joyride (Extended Version)",
-        "url": "https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N"
+        "name": "Amplified Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP"
+      "duration_ms": 236293,
+      "name": "Missing - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
     }
   ],
   "unique_name": "90s Pop Run",

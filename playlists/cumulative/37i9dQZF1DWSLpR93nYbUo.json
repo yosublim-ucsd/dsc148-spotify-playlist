@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3sAYY8BwWheOrX95uByM7i"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Vylow",
+          "url": "https://open.spotify.com/artist/2aBKB3yaWqkQui4pLuoggI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/7b4SA3hLE3yB53eXPxoqUf"
+    },
+    {
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/5Bk8i6MnmJDnFw0AOHeEHK"
       },
@@ -656,7 +678,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 387692,
       "name": "Destruction - Original Mix",
       "url": "https://open.spotify.com/track/360lFAnAX81dAHRskAIEfg"
@@ -865,6 +887,28 @@
     },
     {
       "album": {
+        "name": "Family Affair",
+        "url": "https://open.spotify.com/album/257A1BeIy7XvZ4ZIsz2OSp"
+      },
+      "artists": [
+        {
+          "name": "LL\u00f8lita",
+          "url": "https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3"
+        },
+        {
+          "name": "Softmal",
+          "url": "https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Family Affair - Radio Edit",
+      "url": "https://open.spotify.com/track/1ASBmHXBjGqEgb2HFoPC19"
+    },
+    {
+      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/79HieAvFWpw92JAN6i3rCq"
       },
@@ -1012,6 +1056,24 @@
       "duration_ms": 193553,
       "name": "Games",
       "url": "https://open.spotify.com/track/6tV7bSrAgUGzstmScPns5d"
+    },
+    {
+      "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/1BfsDHhrqagcEIi8kZaPBP"
+      },
+      "artists": [
+        {
+          "name": "Caique Carvalho",
+          "url": "https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213991,
+      "name": "Get It Right - Radio Edit",
+      "url": "https://open.spotify.com/track/16YKpHtN3VTTVGx331HJ0J"
     },
     {
       "album": {
@@ -1600,7 +1662,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 201840,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6uP5n5DKbRVCoiv2jBJraX"
@@ -1858,7 +1920,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 162240,
       "name": "Never Coming Back",
       "url": "https://open.spotify.com/track/6W6ry3cptNbQPR2jLuKhZO"
@@ -2086,7 +2148,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk"
@@ -2601,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "Summer Of Love (Rework)",
+        "url": "https://open.spotify.com/album/6FNS0SPLrODLqFWJM2avIs"
+      },
+      "artists": [
+        {
+          "name": "Enkode",
+          "url": "https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee"
+        },
+        {
+          "name": "Victor Ventura (BR)",
+          "url": "https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Summer Of Love - Rework",
+      "url": "https://open.spotify.com/track/2uSKAaJBX45hqJCZFCmqXd"
+    },
+    {
+      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5"
       },
@@ -2700,6 +2784,24 @@
       "duration_ms": 150411,
       "name": "Take - Radio Edit",
       "url": "https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf"
+    },
+    {
+      "album": {
+        "name": "Take Another One",
+        "url": "https://open.spotify.com/album/1HclTpHPkgrg9RWZf13xLP"
+      },
+      "artists": [
+        {
+          "name": "Doche",
+          "url": "https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Take Another One",
+      "url": "https://open.spotify.com/track/31Ig4NrUgsQDKbdGNROY45"
     },
     {
       "album": {
@@ -2918,7 +3020,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 185674,
       "name": "There For You - Radio Edit",
       "url": "https://open.spotify.com/track/7e9mhQqRu9dPjTIfffgJaV"
@@ -3073,6 +3175,32 @@
     },
     {
       "album": {
+        "name": "Txe Txe",
+        "url": "https://open.spotify.com/album/5rLXYVNRphtB67A0zsQmi4"
+      },
+      "artists": [
+        {
+          "name": "RED\u00dcKT",
+          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
+        },
+        {
+          "name": "Castelani",
+          "url": "https://open.spotify.com/artist/0aAZdI0nv5BNNmXmdYc3it"
+        },
+        {
+          "name": "Rapham",
+          "url": "https://open.spotify.com/artist/7zv5hsmtCKerwIW7kuD3OM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Txe Txe - Radio Mix",
+      "url": "https://open.spotify.com/track/07Q0oF89Zq3kretcqe63lB"
+    },
+    {
+      "album": {
         "name": "Under the Glow",
         "url": "https://open.spotify.com/album/0lVIqGTK1L22cdO1PcwGft"
       },
@@ -3216,7 +3344,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 151051,
       "name": "Walls",
       "url": "https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc"

@@ -1,191 +1,15 @@
 {
   "description": "Real Rap. All Pressure. Cover: Monaleo",
-  "num_followers": 490034,
+  "num_followers": 490042,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM4OGE4OTE5YWU2ZDI5ZDY4YzI5OGNjY2YzZjY4OWJjNjlkNGU4",
+  "snapshot_id": "MCxlOGFkY2ExNGQyOTYxOTBkYWY4OTE0MmZlMWI5NTlhZWJkMTk4ZmE4",
   "tracks": [
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "No Statements",
-        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "No Statements",
-      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Yeah Glo!",
-        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Show You Sum",
-        "url": "https://open.spotify.com/album/47BA0iMbK2yGOU4a7ACVGJ"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Show You Sum",
-      "url": "https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "FREAKY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 100745,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Somethin' (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149245,
-      "name": "Somethin' (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Yea Yea",
-        "url": "https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv"
-      },
-      "artists": [
-        {
-          "name": "Lady London",
-          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
-        },
-        {
-          "name": "Dreezy",
-          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
-        }
-      ],
-      "duration_ms": 183834,
-      "name": "Yea Yea (with Dreezy)",
-      "url": "https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "SEXT8PE",
-        "url": "https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 170523,
-      "name": "Sexyy & Conceited",
-      "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/1aumKsGmbZbB5Sw3fDsyP9"
-      },
-      "artists": [
-        {
-          "name": "Famous Sally & YB",
-          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
-        }
-      ],
-      "duration_ms": 191934,
-      "name": "Scrilla",
-      "url": "https://open.spotify.com/track/6lTKW4YFNZdlstjWG6IT90"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Blick (feat. NLE Choppa) [Remix]",
         "url": "https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc"
@@ -205,23 +29,151 @@
       "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Real Rap B****",
-        "url": "https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1"
+        "name": "Bitch Duh",
+        "url": "https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x"
       },
       "artists": [
         {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
         }
       ],
-      "duration_ms": 204590,
-      "name": "Hatin on Me",
-      "url": "https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv"
+      "duration_ms": 136235,
+      "name": "Bitch Duh",
+      "url": "https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "FREAKY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Show You Sum",
+        "url": "https://open.spotify.com/album/47BA0iMbK2yGOU4a7ACVGJ"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Show You Sum",
+      "url": "https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Rich off Head",
+        "url": "https://open.spotify.com/album/1ab5IH3YIqRpZFUmHb6SKb"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 128793,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5veyFvjYjwtHaw2LyLPcOp"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Becky (feat. 41)",
+        "url": "https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Becky (feat. 41)",
+      "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "duration_ms": 183834,
+      "name": "Yea Yea (with Dreezy)",
+      "url": "https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "SEXT8PE",
+        "url": "https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Sexyy & Conceited",
+      "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "BACK OUTSIDE (feat. Latto)",
         "url": "https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap"
@@ -241,7 +193,55 @@
       "url": "https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "go!",
+        "url": "https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4"
+      },
+      "artists": [
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "go!",
+      "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Real Rap B****",
+        "url": "https://open.spotify.com/album/24BlqiVfMDly6VLwxA6OA1"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 204590,
+      "name": "Hatin on Me",
+      "url": "https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "No Statements",
+        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "No Statements",
+      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/2DrqcEEEU1hGgWvZslvg12"
@@ -257,23 +257,23 @@
       "url": "https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "WGFU",
-        "url": "https://open.spotify.com/album/3CIcF1MB8lv9BsG11Sn6H6"
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
       },
       "artists": [
         {
-          "name": "Ocean x KungFu",
-          "url": "https://open.spotify.com/artist/1WEXyd2RFcNvcHbCydwP78"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 154630,
-      "name": "WGFU",
-      "url": "https://open.spotify.com/track/3oavB16qEYpGP0yab3DJUu"
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Big 1/Fawk Em",
         "url": "https://open.spotify.com/album/0oiF0O6rXSWONdkSiLtgyx"
@@ -289,7 +289,23 @@
       "url": "https://open.spotify.com/track/67sKZzlcW63EHhl4jvXg7J"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/5tvfvXTui324CIxaAS3ZAB"
+      },
+      "artists": [
+        {
+          "name": "A.R. The Mermaid",
+          "url": "https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l"
+        }
+      ],
+      "duration_ms": 112981,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Rodeo (Remix)",
         "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
@@ -333,23 +349,7 @@
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/75R7GceHeK8bCwv23trU4N"
@@ -365,27 +365,23 @@
       "url": "https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "What It Is (Block Boy) (with Kodak Black)",
-        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 223343,
-      "name": "What It Is (Block Boy) (with Kodak Black)",
-      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
@@ -405,7 +401,59 @@
       "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/7eUS2pFDEjhgd1E7RREd3A"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0RFOCmzJUIYipUwO1rujrm"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "What It Is (Block Boy) (with Kodak Black)",
+        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 223343,
+      "name": "What It Is (Block Boy) (with Kodak Black)",
+      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Don Who Leo",
+        "url": "https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 138495,
+      "name": "Don Who Leo",
+      "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "You Wish + Trashboi",
         "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
@@ -441,23 +489,7 @@
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Don Who Leo",
-        "url": "https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 138495,
-      "name": "Don Who Leo",
-      "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
         "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
@@ -501,7 +533,27 @@
       "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Somethin' (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149245,
+      "name": "Somethin' (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Running Late",
         "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
@@ -537,7 +589,7 @@
       "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "6000 Degrees (AH HA)",
         "url": "https://open.spotify.com/album/4ZjzeyERuwR39NcUmg95S8"
@@ -553,7 +605,7 @@
       "url": "https://open.spotify.com/track/5XFGYtybPWAP90N7gEVpwc"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Hood Rats (with Sukihana)",
         "url": "https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx"
@@ -573,7 +625,23 @@
       "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "No Hesitation",
+        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 133903,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "GEEKALEEK (feat. BIA)",
         "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
@@ -593,7 +661,7 @@
       "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
@@ -613,7 +681,7 @@
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Wassup Gway",
         "url": "https://open.spotify.com/album/0lBc6xsaXgtiFrcy103fEY"
@@ -629,23 +697,7 @@
       "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "No Hesitation",
-        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 133903,
-      "name": "No Hesitation",
-      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Last Laugh",
         "url": "https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng"
@@ -661,27 +713,7 @@
       "url": "https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
-      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Gorgeous Remix (feat. City Girls)",
         "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
         "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
@@ -725,7 +757,27 @@
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
+      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -745,7 +797,7 @@
       "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Throw Dat",
         "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
@@ -761,7 +813,23 @@
       "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 100745,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "N.A.L.B. (feat. chriseanrock)",
         "url": "https://open.spotify.com/album/5G4HL8phOrQCQjEvnYYqsI"
@@ -781,7 +849,7 @@
       "url": "https://open.spotify.com/track/73Sv0RLGr1MsFEykKcIvVR"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "The Grinch Freestyle (feat. Latto)",
         "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
@@ -801,7 +869,7 @@
       "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Tomioka (with Flo Milli) [Remix]",
         "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Princess Diana (with Nicki Minaj) [Versions]",
         "url": "https://open.spotify.com/album/00eK46cfChKfGZcYZcaWSa"
@@ -841,7 +909,7 @@
       "url": "https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Leave Her Alone",
         "url": "https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL"
@@ -863,82 +931,6 @@
       "duration_ms": 147300,
       "name": "Leave Her Alone",
       "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Shiesty (feat. Kaliii & Sexyy Red)",
-        "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
-      },
-      "artists": [
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 216541,
-      "name": "Shiesty (feat. Kaliii & Sexyy Red)",
-      "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "No Angels (with Lola Brooke)",
-      "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140756,
-      "name": "Sexyy Red For President",
-      "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Courtesy Of A Rich Nigga",
-        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
-      },
-      "artists": [
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Courtesy Of A Rich Nigga",
-      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
     }
   ],
   "unique_name": "Pressure",

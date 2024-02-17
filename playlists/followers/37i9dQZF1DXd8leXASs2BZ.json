@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 1894,
+  "2024-02-17": 1897,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
   "name": "+81 Connect FRESH",
@@ -601,7 +601,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195265,
       "name": "blue money",
       "url": "https://open.spotify.com/track/4ICj6bauSMU1Z6KsvQHxCz"
@@ -1273,6 +1273,36 @@
       "duration_ms": 176905,
       "name": "dorobo",
       "url": "https://open.spotify.com/track/6E5m6IFNNFYwIe1sBKgk4y"
+    },
+    {
+      "album": {
+        "name": "NEWNGY",
+        "url": "https://open.spotify.com/album/636b46mgEbu7rXWNhex42L"
+      },
+      "artists": [
+        {
+          "name": "Shinkai East",
+          "url": "https://open.spotify.com/artist/3OssiXL7LArg3yDW0t2wE6"
+        },
+        {
+          "name": "Granzotto Kris",
+          "url": "https://open.spotify.com/artist/5SiluWKCDSSK540EQp4iI3"
+        },
+        {
+          "name": "King Elizabeth",
+          "url": "https://open.spotify.com/artist/7zlRYLpT29xU3A7i7fg5d7"
+        },
+        {
+          "name": "MXVERICK",
+          "url": "https://open.spotify.com/artist/2l2tUR0DA2cUSGkY0fEvTm"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241487,
+      "name": "Drill-Bushi",
+      "url": "https://open.spotify.com/track/50GnXlWs04gVsHaK6pKf2V"
     },
     {
       "album": {
@@ -2442,6 +2472,24 @@
     },
     {
       "album": {
+        "name": "LIVE IN YAMADA",
+        "url": "https://open.spotify.com/album/5I29hyOmpjXpUC56kT3LUc"
+      },
+      "artists": [
+        {
+          "name": "PAZU",
+          "url": "https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159085,
+      "name": "kakattekoi",
+      "url": "https://open.spotify.com/track/5iiFSlhDcZC3fLdfaI90F0"
+    },
+    {
+      "album": {
         "name": "Kick Back",
         "url": "https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR"
       },
@@ -3108,6 +3156,28 @@
     },
     {
       "album": {
+        "name": "COOL DOWN 2",
+        "url": "https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG"
+      },
+      "artists": [
+        {
+          "name": "Miyabi",
+          "url": "https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H"
+        },
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/0S4G7XkIQiKXxoHJgFAhPe"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208211,
+      "name": "No suit",
+      "url": "https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6"
+    },
+    {
+      "album": {
         "name": "CROSS OVA",
         "url": "https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN"
       },
@@ -3255,7 +3325,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 141818,
       "name": "pAinAwAy",
       "url": "https://open.spotify.com/track/2Mo4AbkKX6YIfmkVBPrSzu"
@@ -3389,7 +3459,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 167341,
       "name": "PUFFY",
       "url": "https://open.spotify.com/track/2VNMDF9XndbjbyZasqfcje"
@@ -3687,7 +3757,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 160102,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/3Bpie3D1Q8Kz2fSBi0UKzB"
@@ -3749,6 +3819,28 @@
       "duration_ms": 158104,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/0hg3vVtDKx9unqW6h0QJBy"
+    },
+    {
+      "album": {
+        "name": "Zzz",
+        "url": "https://open.spotify.com/album/6MmsYW0sUIugb1aCwmcUiw"
+      },
+      "artists": [
+        {
+          "name": "18stop",
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
+        },
+        {
+          "name": "Godzilla East",
+          "url": "https://open.spotify.com/artist/4JFKRgo6GaT6wVteHgJ1EV"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Shaker",
+      "url": "https://open.spotify.com/track/1oL9gKTXNeamI1QWdGHxRR"
     },
     {
       "album": {
@@ -4127,6 +4219,28 @@
       "duration_ms": 221538,
       "name": "TETSU",
       "url": "https://open.spotify.com/track/7C56vYddCPWRLR3rAfzFTE"
+    },
+    {
+      "album": {
+        "name": "The first snowfall",
+        "url": "https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK"
+      },
+      "artists": [
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177464,
+      "name": "The first snowfall",
+      "url": "https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o"
     },
     {
       "album": {
@@ -4565,7 +4679,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 182029,
       "name": "YAKINIKU, SUSHI",
       "url": "https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kukon
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,374 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,522 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Hammurabi](https://open.spotify.com/track/60uAqUA7Rkii40E5XCHy3k) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW) | [Hammurabi](https://open.spotify.com/album/1NZZlpCdFvP3bFTp8UuZRt) | 2:30 |
 | 50 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 
-Snapshot ID: `MCxiODVkNWEyNjgzY2E3NDMyYzkzYzAyOWYwMTAzMzRhMjJhZWU5Nzcx`
+Snapshot ID: `MCxjYzdmY2U2ZjA2M2U3NTA3MzU2ZDU3M2NiMzcxY2ExNWNkOWU4MGE1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Changbin, Kim Chang-Wan(\ucc3d\ube48, \uae40\ucc3d\uc644)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Lim Hyunsik(\uc784\ud604\uc2dd)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 137639,
       "name": "COLORFUL ZEBRA",
       "url": "https://open.spotify.com/track/0IlkOqIA3SNgO2zETgFuz5"
@@ -4322,6 +4322,24 @@
       "duration_ms": 220253,
       "name": "L.A.F.S. (feat. C Jamm)",
       "url": "https://open.spotify.com/track/4P9JJXTWztcbX8Lbk0h2cv"
+    },
+    {
+      "album": {
+        "name": "The Young Man and the Deep Sea",
+        "url": "https://open.spotify.com/album/2OvWzoOwfDi6BKee7d3XGC"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/4QXcrw2uElBPXrWcx7RkQ0"
     },
     {
       "album": {

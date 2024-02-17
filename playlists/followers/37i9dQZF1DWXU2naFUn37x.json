@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 881865,
+  "2024-02-17": 881955,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive",
+  "description": "Solo il meglio dello street rap italiano. Cover: Villabanks",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 166451,
       "name": "BIMBO (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB"
@@ -2967,7 +2967,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 181894,
       "name": "DOV'ERI? (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
@@ -4442,7 +4442,7 @@
     },
     {
       "album": {
-        "name": "Il Doc 4 (feat. Ernia, Emis Killa & Niky Savage)",
+        "name": "Il Doc 4 (feat. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker)",
         "url": "https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8"
       },
       "artists": [
@@ -4461,13 +4461,17 @@
         {
           "name": "Niky Savage",
           "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
         }
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216685,
-      "name": "Il Doc 4 (feat. Ernia, Emis Killa & Niky Savage)",
+      "name": "Il Doc 4 (feat. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker)",
       "url": "https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3"
     },
     {
@@ -4710,6 +4714,32 @@
     },
     {
       "album": {
+        "name": "Italie (feat. N\u00e9za, LJK)",
+        "url": "https://open.spotify.com/album/64OH2SM4sU853CEcEwy2Bi"
+      },
+      "artists": [
+        {
+          "name": "Rame",
+          "url": "https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190278,
+      "name": "Italie (feat. N\u00e9za, LJK)",
+      "url": "https://open.spotify.com/track/3eIDxWGKESX3EqI9lxQEys"
+    },
+    {
+      "album": {
         "name": "ERROR 442",
         "url": "https://open.spotify.com/album/3WHbkZf28MHGTiAYH2rnjs"
       },
@@ -4787,6 +4817,24 @@
       "duration_ms": 195958,
       "name": "Jumpman",
       "url": "https://open.spotify.com/track/5a2WsHcBPAKvfzccKSUSgg"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX"
     },
     {
       "album": {
@@ -5342,6 +5390,32 @@
     },
     {
       "album": {
+        "name": "LOS DIABLOS (feat. Artie 5ive & 167 Gang)",
+        "url": "https://open.spotify.com/album/6DFq4pWC0H3MvmwR99Ke5V"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203504,
+      "name": "LOS DIABLOS (feat. Artie 5ive & 167 Gang)",
+      "url": "https://open.spotify.com/track/1azrb8z0x7CvdchfvJX4oR"
+    },
+    {
+      "album": {
         "name": "Lucky Luciano (feat. Emis Killa, Kid Yugi)",
         "url": "https://open.spotify.com/album/2GDzZ9DmKAraikV2f44plr"
       },
@@ -5635,6 +5709,36 @@
       "duration_ms": 152800,
       "name": "Massafghanistan",
       "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
+    },
+    {
+      "album": {
+        "name": "Mattone",
+        "url": "https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg"
     },
     {
       "album": {
@@ -6295,7 +6399,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 225392,
       "name": "NiHao - Red Bull Posse",
       "url": "https://open.spotify.com/track/1PZFIe6MbNx400t7oKDog3"
@@ -10177,7 +10281,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 141139,
       "name": "ZIG ZAG",
       "url": "https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG"

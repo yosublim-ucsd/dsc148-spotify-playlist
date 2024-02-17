@@ -1440,10 +1440,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180306,
       "name": "Fi Lamane",
       "url": "https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A"
+    },
+    {
+      "album": {
+        "name": "Fi Lamane",
+        "url": "https://open.spotify.com/album/3MQV1zsMd4ulsMPTA6iiOY"
+      },
+      "artists": [
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180310,
+      "name": "Fi Lamane",
+      "url": "https://open.spotify.com/track/3VWh76TR16ddPnNbBZdhxZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-448 songs - 1 day 8 hr 7 min
+449 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,13 +323,14 @@
 | [Say Hello](https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Meliha](https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5) | [Say Hello EP](https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ) | 3:27 | 2021-05-07 |  |
 | [Say It's Over](https://open.spotify.com/track/1Mezu0QLswKxKY21bgIzQn) | [REFFEL](https://open.spotify.com/artist/7eBZQrvBsAeuqAasuZM3hS) | [Say It's Over](https://open.spotify.com/album/6ieHyR7Zj4dNBoMpGcRRLI) | 3:59 | 2021-05-07 | 2022-04-21 |
 | [Sendeturm](https://open.spotify.com/track/0VoqjK1Nf9MjeRM60b8GiO) | [PBR Streetgang](https://open.spotify.com/artist/5PDEurVJJvitl9PGDjhPgY) | [Zoot Module](https://open.spotify.com/album/1znAzYbadOJI7CAc1HPZz6) | 3:22 | 2021-05-07 | 2022-07-13 |
+| [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 |  |
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-05-07 | 2024-01-30 |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-02-18 | 2023-06-01 |
 | [Signals](https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Signals](https://open.spotify.com/album/1jfZBmZUZeJsZZNluJL6zY) | 6:17 | 2022-06-17 | 2022-08-17 |
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2021-05-07 | 2023-10-15 |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-02-25 |  |
 | [Sinner \- Edit](https://open.spotify.com/track/3rM7KGUECeqVtYPoELk7ct) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/3rWqxcWVHk2wmB26tfXOWc) | 4:15 | 2021-05-07 | 2022-04-20 |
-| [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:52 | 2023-12-01 |  |
+| [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:52 | 2023-12-01 | 2024-02-17 |
 | [Sky](https://open.spotify.com/track/1IxF42puAtZnjhAB6opO83) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Sky EP](https://open.spotify.com/album/6BMSb7BvMYmjj7iX2aEi1J) | 4:02 | 2021-10-15 | 2022-07-28 |
 | [Skyscrapers \- Hi\-Lo Remix](https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Skyscrapers \(Hi\-Lo Remix\)](https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS) | 4:56 | 2021-10-01 |  |
 | [Sleep Paralysis](https://open.spotify.com/track/350zjwJuEwE2bFz4DziVmn) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Sleep Paralysis EP](https://open.spotify.com/album/6oHphCDP1XLNLvpGn1wzSO) | 5:04 | 2021-05-07 | 2022-06-24 |

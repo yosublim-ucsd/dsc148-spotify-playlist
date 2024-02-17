@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 166030,
+  "2024-02-17": 166099,
   "date_first_scraped": "2022-05-11",
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
   "name": "Math Rock",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 234451,
       "name": "003: Haiyah!",
       "url": "https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3"
@@ -2111,6 +2111,24 @@
       "duration_ms": 165093,
       "name": "The Barnacle Beach",
       "url": "https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v"
+    },
+    {
+      "album": {
+        "name": "Deep Elm Records Sampler 6 - The New Crazy",
+        "url": "https://open.spotify.com/album/6zwUfvVja6ujpQg9hkZkwM"
+      },
+      "artists": [
+        {
+          "name": "Settlefish",
+          "url": "https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "The Barnacle Beach",
+      "url": "https://open.spotify.com/track/6XdQGjYnnVjcDmvVrY10Vg"
     },
     {
       "album": {

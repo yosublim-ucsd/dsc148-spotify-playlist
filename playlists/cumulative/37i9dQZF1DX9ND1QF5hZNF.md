@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-139 songs - 7 hr 19 min
+140 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Part Of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 | 2022-12-20 | 2023-03-04 |
 | [All Alone](https://open.spotify.com/track/7wV5gBT9RMMl7LPRG6swGg) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [All Alone](https://open.spotify.com/album/00bZlz7ywsILgoopfqLVBn) | 2:52 | 2023-06-04 | 2024-01-26 |
 | [All I Need](https://open.spotify.com/track/3ZUbGRsTPyvdlJt91T4akw) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [All I Need](https://open.spotify.com/album/0zAQv1hc37NQG9ElPjP7Ki) | 2:26 | 2023-10-05 |  |
-| [anywhere but here](https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [anywhere but here](https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm) | 2:11 | 2024-02-02 |  |
+| [anywhere but here](https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [anywhere but here](https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm) | 2:11 | 2024-02-02 | 2024-02-17 |
 | [Are You There](https://open.spotify.com/track/3po36dia1jvyPplG3NKlAe) | [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Are You There](https://open.spotify.com/album/3nMBXwSQ408EAaz8Cq9f6j) | 2:49 | 2023-07-03 | 2024-01-26 |
 | [Away From Home](https://open.spotify.com/track/44EgTZXLY0a2NcKaZdnkyL) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Away From Home](https://open.spotify.com/album/5T2CFeH0z9TW9SwostRiQq) | 2:29 | 2022-12-20 | 2023-05-13 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2022-12-20 | 2023-06-05 |
@@ -133,6 +133,7 @@
 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 | 2022-12-20 | 2024-01-06 |
 | [The Journey](https://open.spotify.com/track/7Js278ET3O52ymQd8LU5bq) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Soul Vibrations](https://open.spotify.com/album/1U8SQTNw2R6XgQ4RGfe8kF) | 3:51 | 2023-05-12 |  |
 | [The Way It Is](https://open.spotify.com/track/6pSNRgtbbqRYgpwkVQqi3Z) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [The Way It Is](https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY) | 3:10 | 2022-12-20 | 2023-05-13 |
+| [The Way You Are](https://open.spotify.com/track/6GA2IIhY0nAvcEJeUAHJVp) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Way You Are](https://open.spotify.com/album/3ogCo42IAW95ttl6LwrBUL) | 3:06 | 2024-02-16 |  |
 | [Time For Reason](https://open.spotify.com/track/4s7QgMMyMlol6ccHoSwyyQ) | [Xad](https://open.spotify.com/artist/60fosQLJjKs0sFcKEYKdzG), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Time For Reason](https://open.spotify.com/album/2QfLANVm2mt6wsX041LGhw) | 3:32 | 2022-12-20 | 2023-05-13 |
 | [Tropical Kiss](https://open.spotify.com/track/78waP1PSbA0QPX7GIfD8AE) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Tropical Kiss](https://open.spotify.com/album/25q3qnKmVToMpz6HBlITsC) | 4:53 | 2023-11-20 | 2024-01-26 |
 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 | 2023-05-12 | 2024-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,180 likes - 45 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,227 likes - 45 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 44 | [Canto das Baixas](https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [CHS](https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 4:41 |
 | 45 | [Poetas no Topo 1](https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v) | [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas no Topo 1](https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y) | 6:38 |
 
-Snapshot ID: `Mjg0NjY2NTAsMDAwMDAwMDBhNjFhZjY3Y2UxZWRjODUyZWRiNzZiNTliYjY1YzY1MA==`
+Snapshot ID: `Mjg0NjgyMDksMDAwMDAwMDAwMjRkZmU0ZjMzMjY1YjUyYTRlYjVlZGMyMjJjMDY5OQ==`

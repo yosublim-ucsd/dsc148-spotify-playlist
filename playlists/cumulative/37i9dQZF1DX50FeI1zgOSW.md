@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-221 songs - 12 hr 42 min
+222 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Destination Jaffna](https://open.spotify.com/track/61yCcXrcPPsoOrmCWahK9m) | [Siva Pathmayan](https://open.spotify.com/artist/7JzKRkQOBMUczTAXjPw2w9), [Mahi SR](https://open.spotify.com/artist/684Kq2nF1JGJs9oJ0OwZ9s), [Dayas Mohanathas](https://open.spotify.com/artist/52EbtvgJ1cyG14ZjUG14Mm), [Shadhurshana J](https://open.spotify.com/artist/0nIC9wNsIOBwBfCIJgPZrV) | [Destination Jaffna](https://open.spotify.com/album/1Y5iSPqCC9PtHBFK260axX) | 4:35 | 2023-09-05 | 2024-02-13 |
 | [Doctors' Anthem](https://open.spotify.com/track/0Sy8y9ebd9GZAZspvQEpOI) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Dr\. Nidarshana Pandian](https://open.spotify.com/artist/2kDp4tt7madJAjKX8jX0mv) | [Doctors' Anthem](https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy) | 3:01 | 2023-06-29 | 2023-11-29 |
 | [Dopamine](https://open.spotify.com/track/46uVjOchiOzNChMb36MKN2) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW), [Subash Mouli](https://open.spotify.com/artist/6u7Hv6H979EzkmglgndHKh) | [Dopamine](https://open.spotify.com/album/5uE6rPTznwSR9IXxgUHcpi) | 4:11 | 2023-07-03 | 2024-01-17 |
-| [Dora Bujji](https://open.spotify.com/track/3w4XF8iu5jqt6lXjErVzBc) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4) | [Dora Bujji](https://open.spotify.com/album/6CAGi4chuSIEqJDn32D2G8) | 2:21 | 2023-09-15 |  |
+| [Dora Bujji](https://open.spotify.com/track/3w4XF8iu5jqt6lXjErVzBc) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4) | [Dora Bujji](https://open.spotify.com/album/6CAGi4chuSIEqJDn32D2G8) | 2:21 | 2023-09-15 | 2024-02-17 |
 | [Dry Ice](https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Dry Ice](https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD) | 3:11 | 2023-07-24 | 2024-02-01 |
 | [E.P.K.](https://open.spotify.com/track/0KDtuvWZmi2kmaoKPT4b2c) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [SJ Priya](https://open.spotify.com/artist/4wrd2PhUEH0MIwmWBjyMFJ) | [E.P.K.](https://open.spotify.com/album/08MVHnexosfA3FLAt1zdhE) | 2:26 | 2023-07-27 | 2024-02-10 |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 | 2023-07-25 |
@@ -172,6 +172,7 @@
 | [Shiva Thandavam](https://open.spotify.com/track/2nwc64nkdBuT655QCKopWY) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Shiva Thandavam](https://open.spotify.com/album/2vvjTqC3sGfNBacT2tBTkE) | 3:48 | 2023-11-16 |  |
 | [Shoe Theriyudha](https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm) | [Sumesh Kumar](https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr) | [Shoe Theriyudha](https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk) | 3:34 | 2023-10-06 |  |
 | [Show Time](https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs) | [Mrs Go](https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT), [Debbie Pari](https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Show Time](https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw) | 4:16 | 2024-02-09 |  |
+| [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/track/65TpoCFjxcKOqqeG8HmzPT) | [Nanthaa SRISKANTHARAJAH](https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR), [Srivijay Ragavan](https://open.spotify.com/artist/1sHy3gAbb1pnYM8o9LsLA9) | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/album/0QepAr4SimliR2x459D4k4) | 4:22 | 2024-02-16 |  |
 | [Shy Boi](https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Shy Boi](https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2) | 2:37 | 2023-08-07 | 2023-11-07 |
 | [Sooravali](https://open.spotify.com/track/3vJjFE5dxFhyurohHo6clw) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Sooravali](https://open.spotify.com/album/0eIhUF5BVnbZbuP17RxUQ8) | 4:07 | 2023-03-21 | 2023-07-18 |
 | [Story Rewrite](https://open.spotify.com/track/0bshpuYtyPBYkVUiJxzbtq) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Story Rewrite](https://open.spotify.com/album/4SJTkS0FQtEsam4O81LXnx) | 2:59 | 2023-09-14 | 2024-02-16 |

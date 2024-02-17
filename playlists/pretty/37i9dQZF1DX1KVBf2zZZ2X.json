@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 29047,
+  "num_followers": 29225,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzgyYjUzZjUwZDQ0MTkwYTM3ZGQ4NjEwMGFmNTFiOWMxOWFmOGI1",
+  "snapshot_id": "MCwyMzA1NzI0YWI0YzIyMWZhMjMyM2IxMjdkZmM2NDQ1Yzc3MDMwMjA5",
   "tracks": [
     {
       "added_at": "2024-02-06 14:07:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Masterwort",
-        "url": "https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h"
-      },
-      "artists": [
-        {
-          "name": "Die Kaiserin",
-          "url": "https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV"
-        }
-      ],
-      "duration_ms": 122694,
-      "name": "Masterwort",
-      "url": "https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Open Windows",
         "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 162374,
       "name": "Open Windows",
       "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Masterwort",
+        "url": "https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h"
+      },
+      "artists": [
+        {
+          "name": "Die Kaiserin",
+          "url": "https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV"
+        }
+      ],
+      "duration_ms": 122694,
+      "name": "Masterwort",
+      "url": "https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -996,25 +996,9 @@
           "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Through the Clouds",
-      "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Mystic Nature",
-        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
-      },
-      "artists": [
-        {
-          "name": "Dawe Natauk",
-          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
-        }
-      ],
-      "duration_ms": 202789,
-      "name": "Mystic Nature",
-      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
+      "duration_ms": 229000,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1031,6 +1015,22 @@
       "duration_ms": 174000,
       "name": "Grave",
       "url": "https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Eosphoros T.Merula",
-        "url": "https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC"
-      },
-      "artists": [
-        {
-          "name": "Adam Gallo",
-          "url": "https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo"
-        }
-      ],
-      "duration_ms": 134489,
-      "name": "Eosphoros T.Merula",
-      "url": "https://open.spotify.com/track/5engCD94A1A16P51xvAFiP"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Da Lat",
         "url": "https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 122583,
       "name": "Da Lat",
       "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Eosphoros T.Merula",
+        "url": "https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC"
+      },
+      "artists": [
+        {
+          "name": "Adam Gallo",
+          "url": "https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo"
+        }
+      ],
+      "duration_ms": 134489,
+      "name": "Eosphoros T.Merula",
+      "url": "https://open.spotify.com/track/5engCD94A1A16P51xvAFiP"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
         }
       ],
-      "duration_ms": 229000,
-      "name": "The Long Way Home",
-      "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"
+      "duration_ms": 152000,
+      "name": "Through the Clouds",
+      "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Hygrometer",
-        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
-      },
-      "artists": [
-        {
-          "name": "Vastos Trofeos",
-          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Hygrometer",
-      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Morning Calm",
         "url": "https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "A Cottage in a Storm",
-        "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
+        "name": "Hygrometer",
+        "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
       },
       "artists": [
         {
-          "name": "Birdwalk House",
-          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
+          "name": "Vastos Trofeos",
+          "url": "https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq"
         }
       ],
-      "duration_ms": 166000,
-      "name": "On the Cottage Floor",
-      "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
+      "duration_ms": 146500,
+      "name": "Hygrometer",
+      "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1447,6 +1431,22 @@
       "duration_ms": 182000,
       "name": "Der Goldene Weg Birds",
       "url": "https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "A Cottage in a Storm",
+        "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
+      },
+      "artists": [
+        {
+          "name": "Birdwalk House",
+          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "On the Cottage Floor",
+      "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "Bogha Sound Bath",
+        "url": "https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl"
+      },
+      "artists": [
+        {
+          "name": "Immensitas",
+          "url": "https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Bogha Sound Bath",
+      "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "From the meadow",
         "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 137250,
       "name": "Seranade Of The Silver Falls",
       "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Bogha Sound Bath",
-        "url": "https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl"
-      },
-      "artists": [
-        {
-          "name": "Immensitas",
-          "url": "https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Bogha Sound Bath",
-      "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "The Old Grandfather Clock",
-        "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
+        "name": "Softly Now",
+        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
       },
       "artists": [
         {
-          "name": "Birdwalk House",
-          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Sparrow",
-      "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
+      "duration_ms": 148000,
+      "name": "Softly Now",
+      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Softly Now",
-        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
+        "name": "The Old Grandfather Clock",
+        "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
       },
       "artists": [
         {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+          "name": "Birdwalk House",
+          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Softly Now",
-      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
+      "duration_ms": 192000,
+      "name": "The Sparrow",
+      "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Absence",
-        "url": "https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq"
+        "name": "Harp For The Forest",
+        "url": "https://open.spotify.com/album/3fbbRbIaWZTH3WSIUUMG7o"
       },
       "artists": [
         {
-          "name": "Nel Brim",
-          "url": "https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC"
+          "name": "Nerea Vall\u00e9e",
+          "url": "https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Absence",
-      "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
+      "duration_ms": 185426,
+      "name": "Harp For The Forest",
+      "url": "https://open.spotify.com/track/3utL3Ht0qABfrg6cwRMEMf"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1767,6 +1767,22 @@
       "duration_ms": 168500,
       "name": "Alheimur Nature",
       "url": "https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq"
+      },
+      "artists": [
+        {
+          "name": "Nel Brim",
+          "url": "https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Harp For The Forest",
-        "url": "https://open.spotify.com/album/3fbbRbIaWZTH3WSIUUMG7o"
-      },
-      "artists": [
-        {
-          "name": "Nerea Vall\u00e9e",
-          "url": "https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Harp For The Forest",
-      "url": "https://open.spotify.com/track/3utL3Ht0qABfrg6cwRMEMf"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Arbores",
         "url": "https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr"
       },
@@ -1831,6 +1831,22 @@
       "duration_ms": 157714,
       "name": "Arbores",
       "url": "https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Ocean Birds",
+        "url": "https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Ocean Birds",
+      "url": "https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1867,18 +1883,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Ocean Birds",
-        "url": "https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm"
+        "name": "Carnelian Vibrancy",
+        "url": "https://open.spotify.com/album/0JS8NdxL920Xqe3xFuQ2m6"
       },
       "artists": [
         {
-          "name": "Escix V",
-          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+          "name": "Trancistique",
+          "url": "https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Ocean Birds",
-      "url": "https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ"
+      "duration_ms": 159378,
+      "name": "Carnelian Vibrancy",
+      "url": "https://open.spotify.com/track/0v4uZTELJHnvVSzMQ1wVdU"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1911,22 +1927,6 @@
       "duration_ms": 117073,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/5OMQHzsRygG9YU08n8TLfz"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Carnelian Vibrancy",
-        "url": "https://open.spotify.com/album/0JS8NdxL920Xqe3xFuQ2m6"
-      },
-      "artists": [
-        {
-          "name": "Trancistique",
-          "url": "https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I"
-        }
-      ],
-      "duration_ms": 159378,
-      "name": "Carnelian Vibrancy",
-      "url": "https://open.spotify.com/track/0v4uZTELJHnvVSzMQ1wVdU"
     }
   ],
   "unique_name": "Soft Nature Music",

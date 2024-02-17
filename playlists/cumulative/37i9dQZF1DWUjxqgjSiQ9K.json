@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4MgA2G0NoAMdcFBaK5ZAfw\">Lowsan Melgar</a> y <a href=\"spotify:artist:6KOEJIpphgdK2z7wXfWYvj\">Damaris Guerra</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:39PYJNgoQuBHjE6LEn3ZdE\">Ingrid Rosario</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 747906,
       "name": "Beso Tus Pies - Live",
       "url": "https://open.spotify.com/track/3KBpqzjZpNFeJMixh8qpda"
@@ -2654,6 +2654,32 @@
       "duration_ms": 462607,
       "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/5QzMMnMmAKL82fpNdSIbG9"
+    },
+    {
+      "album": {
+        "name": "Dame A Cristo",
+        "url": "https://open.spotify.com/album/7IioE8MFdDusQ2LIAKOAH4"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375652,
+      "name": "Dame A Cristo",
+      "url": "https://open.spotify.com/track/3NnC0Z3PZQkoLNs883kNKS"
     },
     {
       "album": {
@@ -4812,7 +4838,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 306797,
       "name": "Gracias por la cruz",
       "url": "https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU"
@@ -6695,6 +6721,28 @@
     },
     {
       "album": {
+        "name": "Mi Salvador",
+        "url": "https://open.spotify.com/album/2RBWWPCnOTzoOsxkrElOeZ"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342227,
+      "name": "Mi Salvador",
+      "url": "https://open.spotify.com/track/4gXN01KSnEQ0WEDfhtMHq4"
+    },
+    {
+      "album": {
         "name": "Mi Sanador (The Healing)",
         "url": "https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt"
       },
@@ -7322,7 +7370,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 378492,
       "name": "No Hay Otro Dios",
       "url": "https://open.spotify.com/track/61JeAQp4ND7t2o6GIrzuOr"
@@ -9763,6 +9811,28 @@
     },
     {
       "album": {
+        "name": "Te Necesito Tanto",
+        "url": "https://open.spotify.com/album/2vu6dWoV5QWCyQAQdqlrmd"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237711,
+      "name": "Te Necesito Tanto",
+      "url": "https://open.spotify.com/track/7gDbSsPfuSB7vn2vqZfT6g"
+    },
+    {
+      "album": {
         "name": "Te Seguiremos",
         "url": "https://open.spotify.com/album/6q8Wct06zYF9fj4kv27NPY"
       },
@@ -9946,6 +10016,24 @@
       "duration_ms": 272699,
       "name": "Toda Tuya",
       "url": "https://open.spotify.com/track/5zK75SItxl7ynYsF4O8YPs"
+    },
+    {
+      "album": {
+        "name": "Todo Es Posible",
+        "url": "https://open.spotify.com/album/5izMmQxqLuuP1T5pTbONwP"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Todo Es Posible",
+      "url": "https://open.spotify.com/track/24NGuW6DcoTZxyXofAGSOh"
     },
     {
       "album": {
@@ -11250,7 +11338,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 239294,
       "name": "Yo S\u00e9 Quien Soy",
       "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"

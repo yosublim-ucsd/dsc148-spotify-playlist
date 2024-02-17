@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 11948,
+  "2024-02-17": 11950,
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: minor",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: donny daydream",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 224000,
       "name": "16 x 16",
       "url": "https://open.spotify.com/track/6EGQJoMwWhYyEmEprdMz7m"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 152123,
       "name": "9SHAKE (feat. CotaBoii)",
       "url": "https://open.spotify.com/track/4589vUUzmKfMR0N7Hfqgs9"
@@ -632,6 +632,24 @@
     },
     {
       "album": {
+        "name": "Any any way",
+        "url": "https://open.spotify.com/album/6bxgVxFRZbv16LYikFLB7L"
+      },
+      "artists": [
+        {
+          "name": "Drotoch",
+          "url": "https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Any any way",
+      "url": "https://open.spotify.com/track/6ti4TzNsirstOt93DGpQj7"
+    },
+    {
+      "album": {
         "name": "Apart, so",
         "url": "https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy"
       },
@@ -643,7 +661,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208750,
       "name": "Apart, so",
       "url": "https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 201526,
       "name": "christmas again - demo",
       "url": "https://open.spotify.com/track/3ppJG42jb1mJhCw99gobZd"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 260472,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/2Z66x9wDJt86pFAbXbPR6C"
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 319320,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/6133T1KQNuxGA7oYwRfE4O"
@@ -3666,6 +3684,24 @@
     },
     {
       "album": {
+        "name": "Heart 2 Heart",
+        "url": "https://open.spotify.com/album/5mHw7eEqyDDxAN2aaaE4IC"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192022,
+      "name": "Heart 2 Heart",
+      "url": "https://open.spotify.com/track/7eSZGdeZcWGvnREJVVPeyI"
+    },
+    {
+      "album": {
         "name": "Heart to Heart, Me to You",
         "url": "https://open.spotify.com/album/6ZLyrNiJUGgofL9sLSm6PB"
       },
@@ -3695,7 +3731,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 210706,
       "name": "HEARTACHE",
       "url": "https://open.spotify.com/track/0kukmXMUvUwFyqACRIxl7m"
@@ -3819,7 +3855,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 121379,
       "name": "Hidden \u82e5\u96b1\u82e5\u73fe",
       "url": "https://open.spotify.com/track/1G5bfVZHWfTj3DNrztu3WD"
@@ -4600,6 +4636,24 @@
     },
     {
       "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133791,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/5W8d6Co4CvHGH5WQ2VTGUF"
       },
@@ -4817,7 +4871,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 279989,
       "name": "Just Be A Rock",
       "url": "https://open.spotify.com/track/1s78kLTDtEZLjLwdGMD6Gu"
@@ -5187,10 +5241,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 142758,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/2bHGEJ7DiKvSr6iVg0d3lj"
+    },
+    {
+      "album": {
+        "name": "Let You",
+        "url": "https://open.spotify.com/album/5hNiHudVSlKJY9meRPOIma"
+      },
+      "artists": [
+        {
+          "name": "Big Spoon",
+          "url": "https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170888,
+      "name": "Let You",
+      "url": "https://open.spotify.com/track/7zaLSiaxf17v61FqHjcMhJ"
     },
     {
       "album": {
@@ -5588,6 +5660,24 @@
     },
     {
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/4w22QwWnzc2v7dXTBJ75LW"
+      },
+      "artists": [
+        {
+          "name": "Kai Yannis",
+          "url": "https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258488,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/1hRNqLi5TKj7jHulA9q7pe"
+    },
+    {
+      "album": {
         "name": "lover boy",
         "url": "https://open.spotify.com/album/5gd0orG7lr0NceVcjgUxh9"
       },
@@ -5885,7 +5975,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 283795,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/4xr6fbaNBaI2VJ9BV3vwd6"
@@ -5983,7 +6073,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 207267,
       "name": "MILLION EYES (feat. Jay V.)",
       "url": "https://open.spotify.com/track/4nJkVxLV0QbvuT6wv3FqHY"
@@ -7065,7 +7155,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 228705,
       "name": "one way letter for the sea",
       "url": "https://open.spotify.com/track/765bRZYWOKmvgyDv5KgMHQ"
@@ -7279,7 +7369,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 231093,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
@@ -7857,7 +7947,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 141402,
       "name": "RI$iNG",
       "url": "https://open.spotify.com/track/5n9TmOPEAgi0bLsvEPx30d"
@@ -8305,7 +8395,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 307396,
       "name": "Sit Back",
       "url": "https://open.spotify.com/track/3eRpYdmINHbNdRuKu3g6oB"
@@ -9273,7 +9363,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 165230,
       "name": "technicolor",
       "url": "https://open.spotify.com/track/5aEVLEya6k9h7PeAM5Cyak"
@@ -9565,7 +9655,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 169600,
       "name": "The Worst Way I've Thought",
       "url": "https://open.spotify.com/track/3GEBroZMGDagry9kJz9U9F"
@@ -10231,7 +10321,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147450,
       "name": "WASABI",
       "url": "https://open.spotify.com/track/5xmN2drLtpG3b0Y2QU1Vii"
@@ -10503,6 +10593,24 @@
       "duration_ms": 260781,
       "name": "When I Dream of Grapes Turning Blue",
       "url": "https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt"
+    },
+    {
+      "album": {
+        "name": "when i think of you",
+        "url": "https://open.spotify.com/album/4Wuy8yZITKjUg5nJS7xitX"
+      },
+      "artists": [
+        {
+          "name": "TEANSH",
+          "url": "https://open.spotify.com/artist/323Gqsf7KGFaRchopjSVDD"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "when i think of you",
+      "url": "https://open.spotify.com/track/0AvCI19l8HiGzDeJpLQeqx"
     },
     {
       "album": {
@@ -11727,7 +11835,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 189628,
       "name": "\u4eba\u82e5\u6d77",
       "url": "https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN"
@@ -12095,7 +12203,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206222,
       "name": "\u5168\u4e16\u754c\u6700\u5f8c\u4e00\u6b21\u70ba\u4f60\u4e0b\u7684\u96ea The Last Snow For You",
       "url": "https://open.spotify.com/track/7IVaqrMty9Q5GXMSzTXpnO"
@@ -12421,7 +12529,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 166857,
       "name": "\u53ea\u5f97\u6211\u4e00\u500b\u4eba(feat.MU \u6728)",
       "url": "https://open.spotify.com/track/43Y9A3yEEwdpZhlawhQChk"
@@ -12537,7 +12645,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 145945,
       "name": "\u547c\u5438\u5427\uff011998",
       "url": "https://open.spotify.com/track/1FGzci3b0NduwgwGDJhaJy"
@@ -14079,7 +14187,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 207272,
       "name": "\u6578\u5341\u665a",
       "url": "https://open.spotify.com/track/2PpOyjqnLSkT3iH6ukCG2x"
@@ -14535,7 +14643,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 179200,
       "name": "\u6709\u908a\u500b\u6e05\u695a\u6211\u3002",
       "url": "https://open.spotify.com/track/3maqosSuSnOu478FqXFOfQ"
@@ -15197,7 +15305,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 236000,
       "name": "\u6f38\u7a7a",
       "url": "https://open.spotify.com/track/4M5wtKptoXz2Qfopqmmk03"
@@ -17127,6 +17235,24 @@
       "duration_ms": 151384,
       "name": "\u9f52\u8f2a",
       "url": "https://open.spotify.com/track/4ja3WWwBsUJZEU822cqN6r"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u4e2d\u4e4b\u4eba",
+        "url": "https://open.spotify.com/album/7n8qYOVZF23g0zL9wB9w6i"
+      },
+      "artists": [
+        {
+          "name": "Delta T \u86cb\u64bb\u982d",
+          "url": "https://open.spotify.com/artist/2GWO2az2ehE3ixfMLtdpl4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "\u9f8d\u4e2d\u4e4b\u4eba",
+      "url": "https://open.spotify.com/track/7sdkAMcxgyULaHhzSEs02O"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr"

@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 26891,
+  "2024-02-17": 26927,
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Charlotte Cardin",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Johnny Jane",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 204853,
       "name": "A l'am\u00e9ricaine",
       "url": "https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171186,
       "name": "Baby Vampire",
       "url": "https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea"
@@ -1228,6 +1228,24 @@
     },
     {
       "album": {
+        "name": "L'Atlantique",
+        "url": "https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W"
+      },
+      "artists": [
+        {
+          "name": "Opaline",
+          "url": "https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "L'Atlantique",
+      "url": "https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce"
+    },
+    {
+      "album": {
         "name": "L'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB"
       },
@@ -1829,6 +1847,24 @@
       "duration_ms": 209605,
       "name": "Plus de sens",
       "url": "https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4"
+    },
+    {
+      "album": {
+        "name": "Plus rien \u00e0 perdre",
+        "url": "https://open.spotify.com/album/6VVCYq9xfB0G5aiie7NBAN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "Plus rien \u00e0 perdre",
+      "url": "https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D"
     },
     {
       "album": {

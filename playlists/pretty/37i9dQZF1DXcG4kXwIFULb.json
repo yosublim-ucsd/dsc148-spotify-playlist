@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 148959,
+  "num_followers": 149066,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGNlNjNjMjNmMTU3YTRjNDk2YjVlMjgwMmIyNDMxYWRkZDQ5YmVk",
+  "snapshot_id": "MCxhMzQwM2Q4ZGNiYmIyY2UzNzQyZTNlOTZlNTcyYzM0MjFlNWNmZjJi",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -639,6 +639,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -695,6 +695,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Psyence Fiction",
         "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 533013,
       "name": "Lonely Soul",
       "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -795,6 +795,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        }
+      ],
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -815,38 +831,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
-        {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
-        }
-      ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
-      },
-      "artists": [
-        {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
-        }
-      ],
-      "duration_ms": 328265,
-      "name": "Relaxin' with cherry",
-      "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 272760,
       "name": "Koop Island Blues",
       "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 328265,
+      "name": "Relaxin' with cherry",
+      "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -963,22 +963,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Felt Mountain",
         "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 258026,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 384226,
       "name": "Rodney Yates",
       "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Angel Milk",
         "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 230066,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Melt - Remastered",
-      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Genetic World",
         "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 241560,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Melt - Remastered",
+      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Never, Never, Land",
-        "url": "https://open.spotify.com/album/4cgoTXgEihIObjGZ7XWVvI"
-      },
-      "artists": [
-        {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        }
-      ],
-      "duration_ms": 417653,
-      "name": "In A State",
-      "url": "https://open.spotify.com/track/2HpCmHLndCtXehzHhsJebm"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supreme Beings Of Leisure",
         "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Never, Never, Land",
+        "url": "https://open.spotify.com/album/4cgoTXgEihIObjGZ7XWVvI"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        }
+      ],
+      "duration_ms": 417653,
+      "name": "In A State",
+      "url": "https://open.spotify.com/track/2HpCmHLndCtXehzHhsJebm"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 302542,
       "name": "Return to Air",
       "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
-      },
-      "artists": [
-        {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "C\u00e9U",
         "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Nothing Changes Under The Sun",
-        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
-      },
-      "artists": [
-        {
-          "name": "Blue States",
-          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Apricot Morning",
         "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 284693,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Nothing Changes Under The Sun",
+        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
+      },
+      "artists": [
+        {
+          "name": "Blue States",
+          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
     },
     {
       "added_at": "2020-09-04 01:12:56",

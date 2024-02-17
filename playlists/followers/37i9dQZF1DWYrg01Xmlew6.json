@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 185037,
+  "2024-02-17": 185152,
   "date_first_scraped": "2022-05-12",
   "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
   "name": "Int 'o Rione",
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153277,
       "name": "Fino a quando non muoio (feat. Vaz T\u00e8)",
       "url": "https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X"
@@ -2584,6 +2584,32 @@
     },
     {
       "album": {
+        "name": "Ma che piens' tu?",
+        "url": "https://open.spotify.com/album/5yu6jYHXMmqugqbuw9kaYd"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Garelli",
+          "url": "https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6"
+        },
+        {
+          "name": "Nebbia",
+          "url": "https://open.spotify.com/artist/5ySwuZsGB1USoDuIVW2zyr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134231,
+      "name": "Ma che piens' tu?",
+      "url": "https://open.spotify.com/track/740hWZmeUsZ4Yw3MYlYL9W"
+    },
+    {
+      "album": {
         "name": "Ma Xk\u00e8 A Me?",
         "url": "https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea"
       },
@@ -3017,6 +3043,32 @@
       "duration_ms": 171187,
       "name": "mille femmine",
       "url": "https://open.spotify.com/track/7HLwgSyMRG6zyILMyjptNk"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR",
+        "url": "https://open.spotify.com/album/1t2Gs8S15a0gRh5OqWT0zq"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        },
+        {
+          "name": "Paulbeatzz",
+          "url": "https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5"
+        },
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/43ri3Sg88Uk5PcjmHelD8S"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "MILLION DOLLAR",
+      "url": "https://open.spotify.com/track/4wptW4RfQ1Mtjig4wgcsU0"
     },
     {
       "album": {
@@ -4589,7 +4641,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 122840,
       "name": "Rolex (feat. Lele Blade)",
       "url": "https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K"

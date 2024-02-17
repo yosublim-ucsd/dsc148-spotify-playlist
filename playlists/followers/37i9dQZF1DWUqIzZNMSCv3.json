@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 260554,
+  "2024-02-17": 260689,
   "date_first_scraped": "2021-12-28",
   "description": "Relaxing classical piano.",
   "name": "Classical Piano",
@@ -507,10 +507,32 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 139586,
       "name": "Bagatelle, Op. 1: No. 1, Allegretto",
       "url": "https://open.spotify.com/track/4eEn698j0FkfQZwEo5zaDA"
+    },
+    {
+      "album": {
+        "name": "Consolation: Forgotten Treasures of the Ukranian Soul",
+        "url": "https://open.spotify.com/album/7ktG6OLO0eo77XjVUxXLhE"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Natalya Pasichnyk",
+          "url": "https://open.spotify.com/artist/3uFuyfsnCsn9sAJ7VcZv8v"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139586,
+      "name": "Bagatelle, Op. 1: No. 1, Allegretto",
+      "url": "https://open.spotify.com/track/5tj8ByyN0NBsF7lGAanUee"
     },
     {
       "album": {
@@ -1568,6 +1590,28 @@
     },
     {
       "album": {
+        "name": "Bach Transcriptions",
+        "url": "https://open.spotify.com/album/5s4J0DyaLTxFXjZ5uZQzkm"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99786,
+      "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+      "url": "https://open.spotify.com/track/0B8w4gK6UkA0TA34Epd1Nm"
+    },
+    {
+      "album": {
         "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
         "url": "https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44"
       },
@@ -1583,7 +1627,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 99786,
       "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
       "url": "https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl"

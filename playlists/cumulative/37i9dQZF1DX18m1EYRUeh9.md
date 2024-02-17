@@ -4,11 +4,12 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-197 songs - 13 hr 3 min
+200 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 | 2023-08-10 | 2023-08-18 |
+| [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 | 2024-02-16 |  |
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-21 |  |
 | [A New God Before Us](https://open.spotify.com/track/1GUyaMubKrVoAC3ca6D9Mb) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/0nyzXhNH1TcEghjaiI9pAZ) | 3:32 | 2023-08-10 | 2023-08-24 |
 | [A New God Before Us](https://open.spotify.com/track/1sfMxHmmFFOOCKBqtXyBGw) | [Holy Tongue](https://open.spotify.com/artist/261n3GnAgoCgSmqan7OL7o) | [Deliverance and Spiritual Warfare](https://open.spotify.com/album/1AfM1mYwdvA6mUatRtpGqx) | 3:32 | 2023-08-17 | 2023-08-25 |
@@ -124,6 +125,7 @@
 | [Nothing on Me](https://open.spotify.com/track/4qsv98a7IMkAJQzO1k8hkx) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:44 | 2023-09-14 |  |
 | [Obsessed](https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [SOLAR SONATAS VOL\. 1](https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ) | 4:33 | 2024-02-10 |  |
 | [On Land \- Hugh B Dub](https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA) | [Loose Fit](https://open.spotify.com/artist/0uheKgZvAN1XtSaIsSV3IO), [Hugh B](https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn) | [Remixes and Dubs](https://open.spotify.com/album/44fftVVsXoC0zoDrUPpRSS) | 4:10 | 2023-08-10 | 2023-10-06 |
+| [OPPENHEIMER](https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [OPPENHEIMER](https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu) | 2:21 | 2024-02-16 |  |
 | [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 | 2023-12-12 |  |
 | [Oscillate](https://open.spotify.com/track/2KCj8oBO9PmOgSOqEOyQQK) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz) | [Oscillate](https://open.spotify.com/album/0mTLIPyWBKcuMRXnOj1yH6) | 6:13 | 2023-08-10 | 2023-09-15 |
 | [Otherway](https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS), [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Otherway](https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq) | 2:50 | 2023-09-14 |  |
@@ -162,6 +164,7 @@
 | [Spin Cycle](https://open.spotify.com/track/7EpC6cPzTPMTvx48uZUdZp) | [Joshua Moshe](https://open.spotify.com/artist/2s9dRHHl4Djtu9BTPnfG8e), [Cazeux O.S.L.O](https://open.spotify.com/artist/3DDfeEQnK8m0rNdimIkgNS) | [Spin Cycle](https://open.spotify.com/album/4VOnuPVO8GGwjpkSJh1pNe) | 4:35 | 2023-08-10 | 2023-11-17 |
 | [Stalemate \(Edit\)](https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 6:43 | 2023-10-12 |  |
 | [Stay Soft](https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Softboi](https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1) | 3:19 | 2023-09-07 |  |
+| [Summer Rain](https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Summer Rain](https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62) | 4:19 | 2024-02-16 |  |
 | [Sun Always](https://open.spotify.com/track/775nZtOlg5D8Qr29XLfYQ4) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [Sun Always](https://open.spotify.com/album/2egatdFWAG8YpZG7XwvGej) | 4:20 | 2023-11-09 |  |
 | [Sun Shines Bright](https://open.spotify.com/track/6m5Q3I5OawFTm8PeJJFFvY) | [konradd](https://open.spotify.com/artist/57rpNkknZ8IJXvWuVO9rIt) | [Sun Shines Bright](https://open.spotify.com/album/04uNV1QxaOClUOjirVnokP) | 4:22 | 2023-08-10 | 2023-09-29 |
 | [Sunbursting](https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Sunbursting](https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04) | 3:19 | 2023-08-24 | 2023-11-24 |

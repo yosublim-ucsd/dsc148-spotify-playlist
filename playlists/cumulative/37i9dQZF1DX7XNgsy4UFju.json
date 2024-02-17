@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Giant Rooks",
+  "description": "The best indie tracks of the moment. Cover: Abby Sage",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Adult Swim",
+        "url": "https://open.spotify.com/album/5DpXAgQPCAkbjoNUGICXTb"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170081,
+      "name": "Adult Swim",
+      "url": "https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD"
+    },
+    {
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -918,6 +936,24 @@
       "duration_ms": 228690,
       "name": "Alco",
       "url": "https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po"
+    },
+    {
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198295,
+      "name": "Alesis",
+      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
       "album": {
@@ -2016,7 +2052,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 195576,
       "name": "backup, cash out",
       "url": "https://open.spotify.com/track/37RdWcTw7Y99za5MJ7jnOe"
@@ -3462,7 +3498,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 144752,
       "name": "bumpercar",
       "url": "https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW"
@@ -3520,7 +3556,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 229667,
       "name": "Caesar on a TV Screen",
       "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"
@@ -3752,6 +3788,24 @@
       "duration_ms": 284666,
       "name": "Capelton Hill",
       "url": "https://open.spotify.com/track/3eWpMRfrFCDWT8YIpNOzRU"
+    },
+    {
+      "album": {
+        "name": "Capricorn / Gen-X Cops",
+        "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249560,
+      "name": "Capricorn",
+      "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
     },
     {
       "album": {
@@ -6197,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "doc martens",
+        "url": "https://open.spotify.com/album/5KEZmb7DkdA7juyM1MbRhS"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132119,
+      "name": "doc martens",
+      "url": "https://open.spotify.com/track/5Jk0UP6Kiq5EWZg2i7ltUe"
+    },
+    {
+      "album": {
         "name": "Bekka Ma'iingan",
         "url": "https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD"
       },
@@ -6838,7 +6910,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -7044,6 +7116,24 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/2Ia3kOV9diSvGI5natyvDw"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241608,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq"
     },
     {
       "album": {
@@ -9034,6 +9124,24 @@
       "duration_ms": 212686,
       "name": "GIRLS LIKE US",
       "url": "https://open.spotify.com/track/2dMNfVMVg5sUVkbb9fCbJp"
+    },
+    {
+      "album": {
+        "name": "Give It Back to Me",
+        "url": "https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262600,
+      "name": "Give It Back to Me",
+      "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
     },
     {
       "album": {
@@ -11670,6 +11778,24 @@
       "duration_ms": 242854,
       "name": "I Let My Plant Die",
       "url": "https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE"
+    },
+    {
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/0FCO6m4ANbPLAt9nbfXAVP"
+      },
+      "artists": [
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/3xRhZ0xgJ4pjXh6XLeSX54"
     },
     {
       "album": {
@@ -17644,7 +17770,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192029,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/71GzTECsnCbEDdldAU2PjI"
@@ -20138,7 +20264,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 253745,
       "name": "rot in love",
       "url": "https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe"
@@ -20264,7 +20390,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206167,
       "name": "RUNNIN'",
       "url": "https://open.spotify.com/track/28Wbfb0Q80jaks0CEDxsuZ"
@@ -20408,7 +20534,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 159781,
       "name": "Same Place",
       "url": "https://open.spotify.com/track/06iWqPVbWiaKR05SzCnYYw"
@@ -21741,6 +21867,24 @@
     },
     {
       "album": {
+        "name": "Soak",
+        "url": "https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164019,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl"
+    },
+    {
+      "album": {
         "name": "Soak My Head",
         "url": "https://open.spotify.com/album/3KjZpHN2hLSGk7KFAIgkTA"
       },
@@ -22044,7 +22188,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 260052,
       "name": "Spend That Money Honey",
       "url": "https://open.spotify.com/track/22m6SshBBKQPqD45JzoXb7"
@@ -22138,7 +22282,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 156128,
       "name": "Spotlite",
       "url": "https://open.spotify.com/track/2E2lgZQrewdgFAHoGRp7ob"
@@ -22178,6 +22322,24 @@
       "duration_ms": 207928,
       "name": "Spring Bug",
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
+      "album": {
+        "name": "Desire, I Want To Turn Into You: Everasking Edition",
+        "url": "https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233416,
+      "name": "Spring Is Coming With A Strawberry In The Mouth",
+      "url": "https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF"
     },
     {
       "album": {
@@ -25415,6 +25577,28 @@
     },
     {
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/3nBgzuPmxldbVztZzeIzLD"
+      },
+      "artists": [
+        {
+          "name": "The Techno Hall of Fame",
+          "url": "https://open.spotify.com/artist/3AOmemFQq9BvtPW2Qr6mCI"
+        },
+        {
+          "name": "swim good now",
+          "url": "https://open.spotify.com/artist/0nfObbo5nqn9iWe0cy7Zvt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262349,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/44dhkPjUFfS3BeZQmK8sxc"
+    },
+    {
+      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/2XBVgT51eTQg8brDMYGiET"
       },
@@ -25462,7 +25646,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192390,
       "name": "u come near",
       "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
@@ -26342,7 +26526,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206546,
       "name": "Water Underground",
       "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"

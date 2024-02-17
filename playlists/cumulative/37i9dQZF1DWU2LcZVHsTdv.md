@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-225 songs - 13 hr 49 min
+226 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [The Old Man Said](https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 3:39 | 2022-08-20 |  |
 | [The Old Rugged Cross](https://open.spotify.com/track/436rdO5fgKVH3HhjA0VyFQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:30 | 2021-12-10 |  |
 | [The Other Side](https://open.spotify.com/track/4QpTG5bffatmfaW04SZH16) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [The Other Side](https://open.spotify.com/album/0X38hMX0JsisGGQjBRSNNz) | 3:26 | 2021-12-10 |  |
+| [The Promise Is The Same \(feat\. Lori McKenna\)](https://open.spotify.com/track/6NHRQ75qNCwYDc4kiLeTkn) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Promise Is The Same \(feat\. Lori McKenna\)](https://open.spotify.com/album/1hFwa1bIluhu4cmvQ2aNoH) | 3:32 | 2024-02-16 |  |
 | [The Red Words](https://open.spotify.com/track/0hWful5Iuy2saRJdyOeRzq) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Okie](https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw) | 4:48 | 2021-12-10 |  |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2022-01-14 |  |
 | [The Struggle](https://open.spotify.com/track/0IH6d4yjydoocRdMxaiJpY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [The Struggle](https://open.spotify.com/album/3YC3za841d6jr4Gkgi3Dx4) | 3:43 | 2021-12-10 |  |

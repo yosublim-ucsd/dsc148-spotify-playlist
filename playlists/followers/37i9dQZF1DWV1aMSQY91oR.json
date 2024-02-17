@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 7063,
+  "2024-02-17": 7087,
   "date_first_scraped": "2023-03-09",
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Latto",
   "name": "All New Hip-Hop",
@@ -27095,6 +27095,24 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/61ONDrW4ZxgajZrXRioYdq"
+      },
+      "artists": [
+        {
+          "name": "Pvrx",
+          "url": "https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0vsu7i24ygmPbef9hURNSH"
     },
     {
       "album": {

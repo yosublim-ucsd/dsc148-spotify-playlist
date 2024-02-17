@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Hideout](https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy) | 4:06 |
 | 75 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 |
 
-Snapshot ID: `MCxhY2RiY2E1Yzg0YzBlZjk0NGJkOWZlNjdiOGQxN2NjZmNmZTcxYTNl`
+Snapshot ID: `MCxjMGM1M2FmMWM4MDc3Yzk2OWZmNDFmYzZhOTIyOWI4YmY4ZWZmOGY1`

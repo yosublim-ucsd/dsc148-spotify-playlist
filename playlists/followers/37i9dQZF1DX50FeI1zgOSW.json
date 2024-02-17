@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 7128,
+  "2024-02-17": 7161,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -3446,6 +3446,28 @@
     },
     {
       "album": {
+        "name": "SAALAIYIL MEGANGAL",
+        "url": "https://open.spotify.com/album/2d4AEmwD1z0j5ZJoKvgPuG"
+      },
+      "artists": [
+        {
+          "name": "Manikandan murali",
+          "url": "https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg"
+        },
+        {
+          "name": "Arun vallalar",
+          "url": "https://open.spotify.com/artist/1UX7iBJzXKt56x9tLRtv8Z"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132204,
+      "name": "SAALAIYIL MEGANGAL",
+      "url": "https://open.spotify.com/track/3HdlHwNLuOGzuKhJZxj56t"
+    },
+    {
+      "album": {
         "name": "Scene Podaathadi",
         "url": "https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE"
       },
@@ -3479,7 +3501,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 223992,
       "name": "Sernthom Pirinthom",
       "url": "https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS"
@@ -3607,7 +3629,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 179483,
       "name": "Story Rewrite",
       "url": "https://open.spotify.com/track/0bshpuYtyPBYkVUiJxzbtq"

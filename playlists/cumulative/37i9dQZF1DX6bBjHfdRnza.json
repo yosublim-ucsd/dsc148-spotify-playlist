@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 312000,
       "name": "Blingin'",
       "url": "https://open.spotify.com/track/79ce6h80DxKjnSg7pZId5L"
@@ -21864,7 +21864,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 179076,
       "name": "Mountain Snow",
       "url": "https://open.spotify.com/track/3NZEfp0Mc9G57oBInLYIpV"
@@ -26900,6 +26900,24 @@
       "duration_ms": 304761,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r"
+    },
+    {
+      "album": {
+        "name": "Bloco Vol.2",
+        "url": "https://open.spotify.com/album/6JaLjp89vU788QVDk21Sym"
+      },
+      "artists": [
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296923,
+      "name": "Renata",
+      "url": "https://open.spotify.com/track/58vfSQrGJXVGsqHdagApAn"
     },
     {
       "album": {
@@ -32268,6 +32286,24 @@
       "duration_ms": 140624,
       "name": "The Chillin",
       "url": "https://open.spotify.com/track/6Qq5N8hCU5uyXfZzAUfW04"
+    },
+    {
+      "album": {
+        "name": "The Cycle",
+        "url": "https://open.spotify.com/album/5OVbv5PBbJ97x5sWqcg3eF"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224428,
+      "name": "The Cycle",
+      "url": "https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV"
     },
     {
       "album": {

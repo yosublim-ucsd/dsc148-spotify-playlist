@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 65638,
+  "num_followers": 65642,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjVhZGE0Y2YwYzRjNzFlNjQzMGQzNTdhNDAxOGJlYTgzMTBjZGU3",
+  "snapshot_id": "MCw1MjM5N2E4ZDE3YWIzOGJlMTY4M2UxOTg0ZDkzODFhODUzYjQ4YmRi",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "In Her Eyes",
-        "url": "https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 174401,
-      "name": "In Her Eyes",
-      "url": "https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "In Her Eyes",
+        "url": "https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 174401,
+      "name": "In Her Eyes",
+      "url": "https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -935,22 +935,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Mirada Speed",
-        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
+        "name": "Dime Algo (bonito)",
+        "url": "https://open.spotify.com/album/1ptQkJGdf3wGa331GlN8Nc"
       },
       "artists": [
         {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        },
-        {
-          "name": "Diana Flores",
-          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 227992,
-      "name": "Mirada Speed",
-      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
+      "duration_ms": 192000,
+      "name": "6\u00ba",
+      "url": "https://open.spotify.com/track/01gUmOHTgzy32ZsFMogigO"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -987,34 +983,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Dime Algo (bonito)",
-        "url": "https://open.spotify.com/album/1ptQkJGdf3wGa331GlN8Nc"
+        "name": "Mirada Speed",
+        "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
       "artists": [
         {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "6\u00ba",
-      "url": "https://open.spotify.com/track/01gUmOHTgzy32ZsFMogigO"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
-      },
-      "artists": [
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        },
         {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+          "name": "Diana Flores",
+          "url": "https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe"
         }
       ],
-      "duration_ms": 168613,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
+      "duration_ms": 227992,
+      "name": "Mirada Speed",
+      "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 224353,
       "name": "Vine Hasta Marte",
       "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

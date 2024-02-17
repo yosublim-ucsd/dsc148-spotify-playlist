@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-166 songs - 8 hr 56 min
+167 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 | 2021-12-24 |  |
 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 | 2023-03-22 |  |
 | [Golden](https://open.spotify.com/track/5mjbyyLzQjiCjFvF8jK5BB) | [Boston College Dynamics](https://open.spotify.com/artist/1uSkA36eN1OyZXJxEmbWG1) | [SUPERNOVA](https://open.spotify.com/album/2Ps9g6IWZYiBbjpPPgKMAO) | 3:23 | 2023-05-03 |  |
-| [Golden Hour](https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Golden Hour](https://open.spotify.com/album/0ZnJXzdnInxWoUbGWnhK0i) | 3:35 | 2023-03-22 |  |
+| [Golden Hour](https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Golden Hour](https://open.spotify.com/album/0ZnJXzdnInxWoUbGWnhK0i) | 3:35 | 2023-03-22 | 2024-02-17 |
 | [Good Thing](https://open.spotify.com/track/1Uc8sX7Kb2FzREsu0EmZ8z) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Lost Files](https://open.spotify.com/album/6yteFlMQqBuauZU1UrRaNm) | 3:31 | 2023-05-03 |  |
 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 | 2021-12-24 |  |
 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 | 2021-12-24 |  |
@@ -139,6 +139,7 @@
 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 | 2021-12-24 |  |
 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 | 2021-12-24 |  |
 | [Sing for Myself](https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [Sing for Myself](https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d) | 2:07 | 2022-12-09 |  |
+| [Sleeping In The Cold Below](https://open.spotify.com/track/4ZqqDHKO0vUhiyrHhS4DM2) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Omar Cardona](https://open.spotify.com/artist/5NGEpKKqd2W689g9Ts9wMX) | [Sleeping In The Cold Below](https://open.spotify.com/album/4kPeTuVsq3fOa7YtdG0IRa) | 2:50 | 2024-02-16 |  |
 | [Some Nights](https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn) | [The Pitchforks](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) | [Refraction](https://open.spotify.com/album/353JLV23qo2OALKeG4R73Z) | 4:03 | 2022-12-09 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 | 2021-12-24 |  |
 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 | 2021-12-24 |  |

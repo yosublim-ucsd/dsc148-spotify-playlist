@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,212 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,160 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 23 | [Hold On](https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Hold On](https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt) | 3:06 |
 | 24 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
 | 25 | [LIE BACK HARDER](https://open.spotify.com/track/7ho7R7emSd3bEPb1Rm0BZ6) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [LIE BACK HARDER](https://open.spotify.com/album/4o6p4bcvWaLIxInauE5CvI) | 2:02 |
-| 26 | [Struny](https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Struny](https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB) | 3:57 |
-| 27 | [言不由衷](https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 4:59 |
+| 26 | [言不由衷](https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 4:59 |
+| 27 | [Struny](https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Struny](https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB) | 3:57 |
 | 28 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 |
 | 29 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
 | 30 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 | 49 | [TOKYOITE](https://open.spotify.com/track/6CyZCDqEgRAMjbJrzkpWnT) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [TOKYOITE](https://open.spotify.com/album/3MtWoSQsfhcelBCzUwaLAB) | 2:48 |
 
-Snapshot ID: `MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx`
+Snapshot ID: `MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1`

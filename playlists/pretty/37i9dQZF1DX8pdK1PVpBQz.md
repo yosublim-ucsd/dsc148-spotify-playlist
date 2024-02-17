@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Maina Doe\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,084 likes - 89 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,085 likes - 89 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 88 | [Rain](https://open.spotify.com/track/69DyGnogEVKDWaQ78cQI4Q) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB), [Adrian Eagle](https://open.spotify.com/artist/3GC3e3b4g7rHeLdLUsxJZV) | [Rain](https://open.spotify.com/album/0umx8QFaZl8t8e3fV47AvG) | 2:39 |
 | 89 | [\(GREAT\) DAY OUTSIDE](https://open.spotify.com/track/5tQeIFsTuEYmhihpW0NBqn) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4), [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [\(GREAT\) DAY OUTSIDE](https://open.spotify.com/album/2bELYJAmathf5m3OTPlVh8) | 2:50 |
 
-Snapshot ID: `MCxjODE4Njc2NDk4NjJjYjI1YTIyZWY3ZDNmNmUxN2FmZGZiODMwNGI5`
+Snapshot ID: `MCxlOWZhZDRiY2VlYzQ3MjIxOGU4OTIyODUyMzIwN2RiNzQzMmQ5N2Vh`

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2NoR0KhNZ8oZnC3HoNt2FV.md) - cumulative - [plain](/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV)
 
-### [Hip\-Hop and Play](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
+### [Hip\-Hop and Play: Jason Derulo Takeover](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
 
-> 
+> New album <a href="spotify:album:5yrqPWuCSAo6beZdIBYAUU">Nu Love</a> is now available.
 
-807 songs - 1 day 23 hr 28 min
+811 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ascension \(feat\. Vince Staples\)](https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 2:35 | 2024-01-25 |  |
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2024-01-25 |  |
 | [Ayo Charlie](https://open.spotify.com/track/3fKL9DF6LDZWiAEzQZZuq1) | [Spark Master Tape](https://open.spotify.com/artist/0JXPiLgbGX4n86jsocSkG6) | [Ayo Charlie](https://open.spotify.com/album/5ckAw4611RPsRap9Z9hMls) | 2:56 | 2024-01-25 |  |
+| [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2024-02-16 |  |
 | [B.I.D](https://open.spotify.com/track/4ouEy5ReT2JKndoz8whXep) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [B.I.D](https://open.spotify.com/album/0vpIYf9V0yvngjVTUzC3nR) | 2:44 | 2024-01-25 |  |
 | [Baby Birkin](https://open.spotify.com/track/0BOmhToQ03yOdpzYKMEnAg) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:01 | 2024-01-25 |  |
 | [Baby Girl](https://open.spotify.com/track/6sBB5CBuzKJhDooro1IraE) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 2:49 | 2024-01-25 |  |
@@ -189,6 +190,7 @@
 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2024-01-25 |  |
 | [Don't Get Captured](https://open.spotify.com/track/3PxxBt3BnzhtyPSqDcgQQ9) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels 3](https://open.spotify.com/album/3v2GjFB9V5kHgrOCXn3sI9) | 3:12 | 2024-01-25 |  |
 | [Don't Nobody Want None](https://open.spotify.com/track/4ev6N5UAGRE6A0bRk0o7YQ) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Don't Nobody Want None](https://open.spotify.com/album/0eVg5ER7X59CQXOvt6xv3U) | 2:59 | 2024-01-25 |  |
+| [Down](https://open.spotify.com/track/7K5RRMqYyFJsAEplmYLSBE) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Down](https://open.spotify.com/album/2hnJIZC616Hzbp3d053wPC) | 2:09 | 2024-02-16 |  |
 | [DR BIRDS](https://open.spotify.com/track/77EseIwL4dnUACjF3YmDWz) | [Griselda](https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X) | [WWCD](https://open.spotify.com/album/13PxecK9Bart7ir6STafXP) | 4:25 | 2023-11-30 | 2024-02-07 |
 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 | 2024-01-25 |  |
 | [Drip \(feat\. Migos\)](https://open.spotify.com/track/7jpdFaZYgx93A67hLe8kwc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Drip \(feat\. Migos\)](https://open.spotify.com/album/7dEvauvHDkWOxmVWXt3fm5) | 4:23 | 2024-01-25 |  |
@@ -410,6 +412,7 @@
 | [LAMB TALK](https://open.spotify.com/track/3nmfktGzQJe0B77Ilcce1o) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [L A M B T A L K](https://open.spotify.com/album/6gQnUie7nF03zOG4HTqqbP) | 2:52 | 2024-01-25 |  |
 | [Land of the Free](https://open.spotify.com/track/1YiPIg5DT9EZX2ATruRoQw) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Land of the Free](https://open.spotify.com/album/49hUxaRYpToeJKerE9lNE5) | 4:43 | 2024-01-25 |  |
 | [Last Dayz](https://open.spotify.com/track/0usovqilR2yhLw9zWEaWzk) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Best Of Onyx](https://open.spotify.com/album/5o54azNoSXxJSqiLs071fG) | 3:44 | 2023-11-30 | 2024-02-07 |
+| [Last Night](https://open.spotify.com/track/2Ta6ifieWLIajtXPI8NSra) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:22 | 2024-02-16 |  |
 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/41Gzf3nQARpfE7qr2p6iA6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/5WW8HlWPbTv3Iz8YxXZ1kQ) | 2:59 | 2024-01-25 |  |
 | [Last Time That I Checc'd \(feat\. YG\)](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:45 | 2024-01-25 |  |
 | [Late Nights and Early Mornings](https://open.spotify.com/track/5LHjOchngPbyg9yxfI96pB) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [The Marathon](https://open.spotify.com/album/0hxGA0AAOMvmzYHPzybcOr) | 2:18 | 2024-01-25 |  |
@@ -453,6 +456,7 @@
 | [Luv Me Again](https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Luv Me Again](https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s) | 2:07 | 2024-01-25 |  |
 | [Lyric Ave](https://open.spotify.com/track/4oZtIdoquw0CxOqM3BTzyi) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Lyric Ave](https://open.spotify.com/album/2WU80v2Y0jQ7OsFh7fEztN) | 3:01 | 2024-01-25 |  |
 | [Machine Gun Funk](https://open.spotify.com/track/6yPRbj2WLbVjrvpypybikx) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Notorious V: The King of New York](https://open.spotify.com/album/0mE5FzsEPINYCxeWyJaHPs) | 4:15 | 2023-11-30 | 2024-02-15 |
+| [Mad Love](https://open.spotify.com/track/1fdZOKnkFIcdDxeuSL0Flf) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 3:30 | 2024-02-16 |  |
 | [Made In China](https://open.spotify.com/track/1qowUCis8gYY9KOMuy8fCi) | [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Made In China](https://open.spotify.com/album/7i4rI30ADUcyKCEYTnCZYO) | 2:51 | 2024-01-25 |  |
 | [Made in the USA \(feat\. Bianca Sings\)](https://open.spotify.com/track/4Ub9DREprUNIbhxv4EIzjp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Bianca Sings](https://open.spotify.com/artist/3hTMyEnHbZ2fTRod9AzqEo) | [Made in the USA \(feat\. Bianca Sings\)](https://open.spotify.com/album/7JDE4slZJ4C1av8ByavVoM) | 3:30 | 2024-01-25 |  |
 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 | 2024-01-25 |  |

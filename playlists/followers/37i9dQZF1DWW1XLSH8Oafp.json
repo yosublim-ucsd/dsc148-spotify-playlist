@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 245422,
+  "2024-02-17": 245432,
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring jigitz",
+  "description": "ur on the list bb \ud83e\ude90 featuring Effy, Mall Grab",
   "name": "planet rave",
   "tracks": [
     {
@@ -477,7 +477,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 121359,
       "name": "A While Now",
       "url": "https://open.spotify.com/track/7IoaHWlY2nd7OQl79TVxoM"
@@ -3241,7 +3241,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 102068,
       "name": "CUFFED",
       "url": "https://open.spotify.com/track/7HEk9oKloBPjXmNexeepxe"
@@ -5750,6 +5750,24 @@
     },
     {
       "album": {
+        "name": "Go Ghost",
+        "url": "https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209490,
+      "name": "Go Ghost",
+      "url": "https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v"
+    },
+    {
+      "album": {
         "name": "Googoo Lagoon",
         "url": "https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca"
       },
@@ -6003,6 +6021,24 @@
       "duration_ms": 102007,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "album": {
+        "name": "have your say",
+        "url": "https://open.spotify.com/album/55Eilh0NmQzUhd1bkjmjcv"
+      },
+      "artists": [
+        {
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220301,
+      "name": "have your say",
+      "url": "https://open.spotify.com/track/37iNNxpERmGMu9wFHNZ4Gy"
     },
     {
       "album": {
@@ -7241,6 +7277,28 @@
       "duration_ms": 137806,
       "name": "idol",
       "url": "https://open.spotify.com/track/4cOq1Qx9d5Kxtjd3Tww47b"
+    },
+    {
+      "album": {
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
       "album": {
@@ -10302,6 +10360,28 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164451,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/1p4SbOW5TOG1TngQbaxOQP"
       },
@@ -11517,7 +11597,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 162053,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/7zjXqhQCS40Tl7vT31fBSE"
@@ -13897,7 +13977,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 157495,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6pOf6ARcTJJMcJzWJbitsj"

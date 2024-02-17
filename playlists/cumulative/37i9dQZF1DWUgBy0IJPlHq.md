@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Kacey Musgraves 🌼
 
-537 songs - 1 day 9 hr 5 min
+538 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [12th of June](https://open.spotify.com/track/0TUcn0qBz7kS0VtPyKviPm) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/5szOii0PaRjMwUqV1VJpfH) | 4:54 | 2022-04-01 | 2022-08-06 |
 | [1959](https://open.spotify.com/track/674CK3mooQHsch9JvA9Kvc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:22 | 2022-08-05 | 2022-12-17 |
 | [68](https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/7B9cPzzx0ZuOcGveznlL53) | 3:27 | 2023-04-21 | 2023-09-17 |
-| [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 | 2023-09-15 |  |
+| [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 | 2023-09-15 | 2024-02-17 |
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-17 | 2023-04-22 |
 | [7:28](https://open.spotify.com/track/4vN75DSxzy9YPrYkd4gorU) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [7:28](https://open.spotify.com/album/2DxqBPRu9rPtHbly8A2uVe) | 4:02 | 2021-12-17 | 2022-06-18 |
 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 | 2023-08-25 |  |
@@ -184,6 +184,7 @@
 | [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 | 2022-12-17 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-02-25 | 2022-05-20 |
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2021-12-17 | 2022-05-28 |
+| [Funnel of Love](https://open.spotify.com/track/4oGqIK1jkxV5aRZQCtUBsY) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Funnel of Love](https://open.spotify.com/album/3aBd3KzmK8yarhB0eOSbgg) | 2:23 | 2024-02-16 |  |
 | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/track/4jqAbk5oP2vIWnqmMGWGBt) | [Zachary Williams](https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Dirty Camaro](https://open.spotify.com/album/3ehs5YxrC7X217QCg46MY7) | 3:01 | 2021-12-17 | 2022-01-22 |
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2021-12-17 | 2022-04-09 |
 | [Get Lucky](https://open.spotify.com/track/4ZCko883ozgRWoVX92CySJ) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Get Lucky](https://open.spotify.com/album/1GeMArEzZQYAM09KA8cplb) | 2:45 | 2022-04-29 | 2022-07-16 |

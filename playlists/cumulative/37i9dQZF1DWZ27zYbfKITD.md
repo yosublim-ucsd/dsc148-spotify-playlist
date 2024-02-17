@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-86 songs - 4 hr 9 min
+87 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 | 2022-11-08 |  |
 | [Constellations](https://open.spotify.com/track/12tStCSDB42OcYdY4rWUz8) | [Max LL](https://open.spotify.com/artist/1CNJPN4ay8t8CNNKxnPJiV) | [Jotun \(Original Game Soundtrack\)](https://open.spotify.com/album/0d7oUSnx3NGMUUqyhFiqvR) | 3:00 | 2022-08-05 |  |
 | [Day One \(Interstellar Theme\)](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 | 2022-08-05 |  |
+| [Demon Slayer: Nezuko Theme](https://open.spotify.com/track/1Vvn19lRIPqwZHUgIAHYRF) | [Go Shiina](https://open.spotify.com/artist/5Yk09n2L8j0DIevsAfinE0), [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Demon Slayer: Nezuko Theme](https://open.spotify.com/album/70VqDyo7pa74XlAnCYhQ3K) | 3:51 | 2024-02-16 |  |
 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 | 2022-08-05 |  |
 | [Don't Stare At The Stars Too Long](https://open.spotify.com/track/7FsgnMiteTjVpaBEX9nWRf) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Adolescence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/099yM2SCLUGk2CO78PDYLT) | 1:32 | 2022-10-24 |  |
 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 | 2022-08-05 |  |

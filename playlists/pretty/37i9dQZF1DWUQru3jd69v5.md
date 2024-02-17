@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Kuremino
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,586 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,583 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 41 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 |
 | 42 | [LUNGA VITA AI RE](https://open.spotify.com/track/330qUuctHh9ficSKNwgMnY) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [LUNGA VITA AI RE](https://open.spotify.com/album/0SO48murpsipxQx7y0MKY0) | 3:17 |
 | 43 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/7j5nQHnFsiIn4sGpNMISht) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:35 |
-| 44 | [S0LI](https://open.spotify.com/track/0x3ObDBzWGkZBMdHeU9XxO) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [AURɅ](https://open.spotify.com/artist/5rG9qDNEMkFLFTvDthbnWK) | [S0LI](https://open.spotify.com/album/0GhWMk4O0IicznO78zYudd) | 2:56 |
+| 44 | [S0LI \(feat\. AURɅ\)](https://open.spotify.com/track/0x3ObDBzWGkZBMdHeU9XxO) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [AURɅ](https://open.spotify.com/artist/5rG9qDNEMkFLFTvDthbnWK) | [S0LI \(feat\. AURɅ\)](https://open.spotify.com/album/0GhWMk4O0IicznO78zYudd) | 2:56 |
 | 45 | [La Fortuna](https://open.spotify.com/track/72clshXBMKutidadzudGmc) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [La Fortuna](https://open.spotify.com/album/3C6YvBjWp867BdAC52O19m) | 2:22 |
 | 46 | [IN QUALCHE MODO](https://open.spotify.com/track/4YmiGHuwmxeTbTchs2iIg8) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [IN QUALCHE MODO](https://open.spotify.com/album/4DXx84RVBsxdLy8Rr0oT7i) | 2:18 |
 | 47 | [Cristiano Rollando](https://open.spotify.com/track/5WqOwUM7AfUPURxpO6O3L5) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Cristiano Rollando](https://open.spotify.com/album/1feR86V6FtyF0PWKVZxqEb) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [COSA C'È](https://open.spotify.com/track/4TYfpaSZNmImjl6PGuGsbJ) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [COSA C'È](https://open.spotify.com/album/2u0ZbOSp2KKxMdZPkMlaQq) | 2:21 |
 | 50 | [Normale](https://open.spotify.com/track/0C2qmnrEGUQ8hbcdJcCYUK) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Normale](https://open.spotify.com/album/7L8DyWZigR4lmW5WLRpmCf) | 2:26 |
 
-Snapshot ID: `MCwzYzMzODY5MWQ1MDhlMWI3ZTI3OTk0YWU4MDIzYzlkNGE4MTNjMzQ5`
+Snapshot ID: `MCw1ODU2YjZkNjBkZDQzNmIwMzJkMDY2Y2IwZDBjMzFiZjZmMTYzMWM4`

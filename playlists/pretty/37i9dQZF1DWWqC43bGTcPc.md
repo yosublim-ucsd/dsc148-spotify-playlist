@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,144 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,249 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [唯一](https://open.spotify.com/track/6tbKdk8iLAES9u6Bukve9H) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [T.I.M.E.](https://open.spotify.com/album/425fsE4f3cdMheqvOFM9g4) | 4:13 |
 | 50 | [我們到底算什麼](https://open.spotify.com/track/0EpjQIMmMU3vkajeX1svwa) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ), [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [我們到底算什麼](https://open.spotify.com/album/1JHY6RkRRiAUcDcyhzL4Zv) | 3:48 |
 
-Snapshot ID: `MCw4MzYzMDgzNzAxMzMxODVjODg3ZWUzYWUzYmM4MDE4NDRlZWM2NjY0`
+Snapshot ID: `MCw3ZTM3MDBmNDE5MGRmODMzNGZmOTJhMzk3YWUxMDg5MTI3NDJmNmI2`

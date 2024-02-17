@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 12367,
+  "2024-02-17": 12368,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -596,6 +596,28 @@
     },
     {
       "album": {
+        "name": "DUNKLSCHWARZ",
+        "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
+      },
+      "artists": [
+        {
+          "name": "Dead Dawg",
+          "url": "https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "frida",
+      "url": "https://open.spotify.com/track/2kZ0wV6it5vGEF545GGIJQ"
+    },
+    {
+      "album": {
         "name": "Frieden",
         "url": "https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh"
       },
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
@@ -1302,6 +1324,32 @@
     },
     {
       "album": {
+        "name": "Life Is A Highway (JF Jake X GwnMike Bounce Remix)",
+        "url": "https://open.spotify.com/album/5FzWSOIU5q1MY1dxww8GdG"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/2VVbj8Uyb1MNNyDR018Hgc"
+        },
+        {
+          "name": "JF Jake",
+          "url": "https://open.spotify.com/artist/3EsCwDEOf1InYTQha6aG0V"
+        },
+        {
+          "name": "GwnMike",
+          "url": "https://open.spotify.com/artist/1IPllbr2ptsuPqXKgG4fS0"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229111,
+      "name": "Life Is A Highway - JF Jake X GwnMike Bounce Remix",
+      "url": "https://open.spotify.com/track/5l0zEyTh7dw1NOGZV2Ag6H"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
       },
@@ -1331,7 +1379,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -1593,7 +1641,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -2290,6 +2338,28 @@
     },
     {
       "album": {
+        "name": "Sugar Pie Honey Bunch",
+        "url": "https://open.spotify.com/album/6gA1FTkOKQviWLIa5eie3O"
+      },
+      "artists": [
+        {
+          "name": "STRINGS",
+          "url": "https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs"
+        },
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "Sugar Pie Honey Bunch",
+      "url": "https://open.spotify.com/track/2chkrQeCVft2c9Lcz9Vf0T"
+    },
+    {
+      "album": {
         "name": "Sunglasses at Night",
         "url": "https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM"
       },
@@ -2301,7 +2371,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 170624,
       "name": "Sunglasses at Night",
       "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
@@ -2657,7 +2727,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"

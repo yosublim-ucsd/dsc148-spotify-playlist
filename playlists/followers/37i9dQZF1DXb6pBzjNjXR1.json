@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 18395,
+  "2024-02-17": 18448,
   "date_first_scraped": "2022-10-01",
   "description": "Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors. ",
   "name": "AfroTech Now",
@@ -1252,6 +1252,28 @@
     },
     {
       "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        },
+        {
+          "name": "Caliber AfroFusion",
+          "url": "https://open.spotify.com/artist/1hrAOP0zA7EB9H77zCrYlZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473500,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/6Rvv07VtrQK4ETd28tf5qn"
+    },
+    {
+      "album": {
         "name": "Lotjhani",
         "url": "https://open.spotify.com/album/1oxSBfAPHqet0QQ5qjyqcg"
       },
@@ -1625,6 +1647,32 @@
       "duration_ms": 421692,
       "name": "Nefarious - Atmospheric Mix",
       "url": "https://open.spotify.com/track/2zRynSzo4zMUtpvgodmeBl"
+    },
+    {
+      "album": {
+        "name": "Ngi Catchile",
+        "url": "https://open.spotify.com/album/215XVZ6wU0YthExKUQrjtt"
+      },
+      "artists": [
+        {
+          "name": "Kutullo Nawa",
+          "url": "https://open.spotify.com/artist/6UbwKv2PBQAuZyYOpb9JXK"
+        },
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        },
+        {
+          "name": "Lezza",
+          "url": "https://open.spotify.com/artist/5QaT4FQ28PPSlFzInj9nAI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369168,
+      "name": "Ngi Catchile",
+      "url": "https://open.spotify.com/track/2ev93e5KpcBdt8s9L5CIfg"
     },
     {
       "album": {
@@ -2007,6 +2055,28 @@
       "duration_ms": 197419,
       "name": "Reasons - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/3YDXkxKDCMXP1o6MAqk3S0"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Rite",
+      "url": "https://open.spotify.com/track/0irc8BoY8OzrzQXpPSBQ6S"
     },
     {
       "album": {
@@ -3003,6 +3073,24 @@
       "duration_ms": 439633,
       "name": "Yaze Yamnandi",
       "url": "https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y"
+    },
+    {
+      "album": {
+        "name": "Yeke Yeke",
+        "url": "https://open.spotify.com/album/68RTKjwNZTsLZgpVrPmZOM"
+      },
+      "artists": [
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386052,
+      "name": "Yeke Yeke",
+      "url": "https://open.spotify.com/track/0Y1QOhcLVKIKyYvMeW11jj"
     },
     {
       "album": {

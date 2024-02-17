@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 116608,
+  "2024-02-17": 116648,
   "date_first_scraped": "2023-05-19",
   "description": "Hindi hai, Indie hai! Cover- Utsavi Jha",
   "name": "hIndies",
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 244290,
       "name": "Khoya Rahun",
       "url": "https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh"
@@ -2411,6 +2411,24 @@
       "duration_ms": 200237,
       "name": "Raaton",
       "url": "https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB"
+    },
+    {
+      "album": {
+        "name": "Raaton Mein Ojhal",
+        "url": "https://open.spotify.com/album/3dpOjEIxsKy5hn3DzbcEvs"
+      },
+      "artists": [
+        {
+          "name": "Antara Ansuna",
+          "url": "https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230307,
+      "name": "Raaton Mein Ojhal",
+      "url": "https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z"
     },
     {
       "album": {

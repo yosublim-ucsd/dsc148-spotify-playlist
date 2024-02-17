@@ -1,12 +1,12 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Andr\u00e9 3000",
-  "num_followers": 42463,
+  "num_followers": 42578,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTNmOTBkMmNiNzg5Mzk0ODU3YjA2NzY3N2MyMjYwZTVmY2RiNmUy",
+  "snapshot_id": "MCw5YmI4Njc5N2EwMWJlMTFhNzc3MjY4YjEwNGVhMWJmODY0NTUxOTdl",
   "tracks": [
     {
       "added_at": "2024-01-12 00:22:54",
@@ -63,34 +63,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Yesterday's Price",
-        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Joshua Karpeh",
-          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        },
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 315561,
-      "name": "Yesterday's Price",
-      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "Frisco Blues",
         "url": "https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF"
       },
@@ -103,6 +75,22 @@
       "duration_ms": 247800,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
+    },
+    {
+      "added_at": "2024-02-16 23:03:19",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 259005,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -147,6 +135,38 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 349224,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ"
+    },
+    {
+      "added_at": "2024-02-16 23:03:19",
+      "album": {
+        "name": "80 Summers",
+        "url": "https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "duration_ms": 200875,
+      "name": "80 Summers",
+      "url": "https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
         "name": "concentrate",
         "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
       },
@@ -177,20 +197,20 @@
       "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
     },
     {
-      "added_at": "2024-01-12 00:22:54",
+      "added_at": "2024-02-16 23:03:19",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY"
+        "name": "OPPENHEIMER",
+        "url": "https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu"
       },
       "artists": [
         {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 349224,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ"
+      "duration_ms": 141333,
+      "name": "OPPENHEIMER",
+      "url": "https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO"
     },
     {
       "added_at": "2024-02-10 01:46:17",
@@ -213,6 +233,34 @@
       "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
     },
     {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Yesterday's Price",
+        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 315561,
+      "name": "Yesterday's Price",
+      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
+    },
+    {
       "added_at": "2024-02-10 01:46:17",
       "album": {
         "name": "Orion",
@@ -227,6 +275,22 @@
       "duration_ms": 206285,
       "name": "Jag vill ha allt",
       "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
+    },
+    {
+      "added_at": "2024-01-12 00:22:54",
+      "album": {
+        "name": "Synapse Confusion",
+        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
+      },
+      "artists": [
+        {
+          "name": "igloo",
+          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
+        }
+      ],
+      "duration_ms": 339132,
+      "name": "Hello,,Dawn,Unknown",
+      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -303,22 +367,6 @@
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Synapse Confusion",
-        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
-      },
-      "artists": [
-        {
-          "name": "igloo",
-          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
-        }
-      ],
-      "duration_ms": 339132,
-      "name": "Hello,,Dawn,Unknown",
-      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
     },
     {
       "added_at": "2024-01-12 00:22:54",

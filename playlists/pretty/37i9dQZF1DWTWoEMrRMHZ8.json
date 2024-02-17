@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
-  "num_followers": 345694,
+  "num_followers": 345712,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjhiMGNiMGM0MjJiMDc1MWJiZTY0ZDYxNzM1MmRmZjM2YWFlZmUx",
+  "snapshot_id": "MCw0ZWJlNDcxZDYwNGI3NDg3YjQ0YmFhNWRlOTVkMzFmMzZmMWFmMjdj",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Pecadinho",
         "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 126000,
       "name": "Pecadinho",
       "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Quero Voc\u00ea",
         "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 149517,
       "name": "Quero Voc\u00ea",
       "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "N\u00e3o vejo a hora",
         "url": "https://open.spotify.com/album/4iuOtGlTt5485mrjYelXSA"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 196602,
       "name": "N\u00e3o vejo a hora",
       "url": "https://open.spotify.com/track/6Wn7IS6IfsbhmmhZJmurKf"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Belezas S\u00e3o Coisas Acesas por Dentro",
+        "url": "https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH"
+      },
+      "artists": [
+        {
+          "name": "Filipe Catto",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "duration_ms": 286052,
+      "name": "Esot\u00e9rico",
+      "url": "https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 290141,
       "name": "Pra Lhe Dizer",
       "url": "https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Belezas S\u00e3o Coisas Acesas por Dentro",
-        "url": "https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH"
-      },
-      "artists": [
-        {
-          "name": "Filipe Catto",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 286052,
-      "name": "Esot\u00e9rico",
-      "url": "https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "O Meu Guri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "O Meu Guri",
-      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "O Meu Guri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "O Meu Guri",
+      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
         "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Sambur\u00e1",
-        "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
-      },
-      "artists": [
-        {
-          "name": "Os Fugitivos",
-          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Absurdo",
-      "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Caixas",
         "url": "https://open.spotify.com/album/0lasXYU6iEWxpf8OZTCgXe"
       },
@@ -1779,22 +1763,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "A Vida N\u00e3o \u00c9 Bela",
-        "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
+        "name": "Sambur\u00e1",
+        "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
       },
       "artists": [
         {
-          "name": "Arthur Nogueira",
-          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
-        },
-        {
-          "name": "Lucca Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/5Pg64pCF0TA6lZmDz23CXZ"
+          "name": "Os Fugitivos",
+          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
         }
       ],
-      "duration_ms": 159683,
-      "name": "As Solid\u00f5es",
-      "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
+      "duration_ms": 244500,
+      "name": "Absurdo",
+      "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1823,6 +1803,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "A Vida N\u00e3o \u00c9 Bela",
+        "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nogueira",
+          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
+        },
+        {
+          "name": "Lucca Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/5Pg64pCF0TA6lZmDz23CXZ"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "As Solid\u00f5es",
+      "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Curado ou Distra\u00eddo",
         "url": "https://open.spotify.com/album/01pNyNl24FihKAxwGDQC70"
       },
@@ -1835,22 +1835,6 @@
       "duration_ms": 244682,
       "name": "Um Objeto no C\u00e9u",
       "url": "https://open.spotify.com/track/7KjKUsjJkHo5MGa0UxZkpT"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Dentro de Mim Mora um Anjo",
-        "url": "https://open.spotify.com/album/73T1TmkFsh2GACqwI9HGPJ"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "Dentro de Mim Mora um Anjo",
-      "url": "https://open.spotify.com/track/38GXK1MFIadtntHhd2oYrf"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1871,6 +1855,22 @@
       "duration_ms": 190773,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Dentro de Mim Mora um Anjo",
+        "url": "https://open.spotify.com/album/73T1TmkFsh2GACqwI9HGPJ"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "Dentro de Mim Mora um Anjo",
+      "url": "https://open.spotify.com/track/38GXK1MFIadtntHhd2oYrf"
     },
     {
       "added_at": "2024-01-19 03:01:00",

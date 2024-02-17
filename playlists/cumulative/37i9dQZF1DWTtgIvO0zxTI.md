@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-151 songs - 8 hr 5 min
+152 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Vaticano](https://open.spotify.com/track/6yJtb1FFa1fQ1V4p1Bx7w5) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Vaticano](https://open.spotify.com/album/5imyvG8HR56AqU6UKnEIgs) | 2:55 | 2022-03-11 |  |
 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 | 2022-03-11 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-08 |  |
-| [Vuela](https://open.spotify.com/track/08WtcbUnNVB4J2DCre8LHZ) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Rain City](https://open.spotify.com/album/3R6sgv6rk66P3zIJ4SNKOg) | 3:18 | 2023-03-17 |  |
+| [Vuela](https://open.spotify.com/track/08WtcbUnNVB4J2DCre8LHZ) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Rain City](https://open.spotify.com/album/3R6sgv6rk66P3zIJ4SNKOg) | 3:18 | 2023-03-17 | 2024-02-17 |
+| [Vuela](https://open.spotify.com/track/4jlcQuKeMDR3uw6twSZMNG) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Rain City](https://open.spotify.com/album/20wRg2neepG9O7TuzYwmNx) | 3:18 | 2024-01-26 |  |
 | [Vuela](https://open.spotify.com/track/5atvVaX7LAya8JS7acZJz6) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vuela](https://open.spotify.com/album/56lXsTpyHxdhdmEF09AGT4) | 3:18 | 2022-03-11 | 2023-04-13 |
 | [Xocolate](https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Xocolate](https://open.spotify.com/album/5nBvx0AU9yBm7toxNo8aBN) | 3:56 | 2023-07-28 | 2023-08-12 |
 | [XQ TAN DIFERENTE \(≠\)](https://open.spotify.com/track/1N1YQPsLuEP2k6bZEmNWew) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [XQ TAN DIFERENTE \(≠\)](https://open.spotify.com/album/4cotdPZq0krUEWJmljpnGN) | 3:00 | 2023-12-08 |  |

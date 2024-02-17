@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> all over the place in a good way\. cover: declan mckenna
+> hana vu
 
-2,615 songs - 5 day 20 hr 52 min
+2,620 songs - 5 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [as if](https://open.spotify.com/track/0NICuOfe93ZLYQa1lItx0f) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 3:11 | 2023-11-29 | 2024-01-11 |
 | [as if](https://open.spotify.com/track/1cFZRfy12JX983GcY15Dlr) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [as if](https://open.spotify.com/album/1sZaaGRLEQBvZHndCJetGM) | 3:11 | 2023-04-28 | 2023-11-18 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-08 | 2022-05-28 |
+| [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 |  |
 | [assignment song](https://open.spotify.com/track/7H6AsxHIdLMI67idvxldl0) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [assignment song](https://open.spotify.com/album/1taf11KZqMV6DYvp9uqTr8) | 3:42 | 2021-08-26 | 2021-08-28 |
 | [Asthma \- Billy Lemos Remix](https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Asthma \(Billy Lemos Remix\)](https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn) | 2:03 | 2023-01-06 | 2023-03-18 |
 | [Astral Plane](https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 4:41 | 2024-01-10 |  |
@@ -718,7 +719,7 @@
 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 | 2022-09-02 | 2022-09-24 |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-07-17 | 2021-07-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 |  |
-| [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 |  |
+| [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 | 2024-02-17 |
 | [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 | 2024-02-08 |
 | [Ever Again](https://open.spotify.com/track/2E5e4J3nm1LMHkqTS21Dlq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:24 | 2021-01-29 | 2021-02-06 |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2019-07-30\* | 2020-11-27 |
@@ -1092,6 +1093,7 @@
 | [I Don't Have To Try](https://open.spotify.com/track/21zXru0J6n2em6MC61dVYE) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:17 | 2021-05-15 | 2021-05-22 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2020-10-10 | 2020-12-18 |
 | [I Don't Like Ur Friends](https://open.spotify.com/track/7aBFj2AV3YyGHP65r7yQGi) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Don't Like Ur Friends](https://open.spotify.com/album/5Uh9LkuBZbs6ZtehQMq2jd) | 3:32 | 2020-06-29 | 2021-01-12 |
+| [i don't really feel it anymore](https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/7hm1Kh2XVchiRA1JLPO9IS) | 2:00 | 2024-02-16 |  |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2020-12-18 | 2021-05-12 |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-08-23 | 2019-11-14 |
 | [I Don't Wanna Wait For Summer](https://open.spotify.com/track/7tNFwpyOhE2ndLtRic9SYf) | [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [I Don't Wanna Wait For Summer](https://open.spotify.com/album/2IrajvmCIELd7kXyhZVwI9) | 2:13 | 2020-06-13 | 2020-07-29 |
@@ -2046,6 +2048,7 @@
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 | 2023-07-12 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-01-14 | 2022-05-24 |
 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-08-08 | 2022-09-24 |
+| [Soak](https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Soak](https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M) | 2:44 | 2024-02-16 |  |
 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 | 2023-07-27 | 2023-11-18 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 | 2020-05-14 |
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-06-12 | 2021-08-14 |
@@ -2182,6 +2185,7 @@
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2019-08-02 | 2019-09-27 |
 | [Summer Love](https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh) | 3:55 | 2022-09-02 | 2022-11-30 |
 | [Summer Love](https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq) | 3:55 | 2022-09-02 | 2022-12-08 |
+| [Summer Rain](https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Summer Rain](https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62) | 4:19 | 2024-02-16 |  |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-26 | 2023-10-11 |
 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 | 2019-07-30\* | 2020-04-20 |
 | [Sun Bleached Flies](https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:36 | 2023-03-10 | 2023-04-01 |
@@ -2274,6 +2278,7 @@
 | [Tenant](https://open.spotify.com/track/1PFIHtyj9US4ZIRkH34hxU) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Tenant](https://open.spotify.com/album/0Yhnyh1KDspkwYXjZKKxP4) | 3:54 | 2020-04-08 | 2021-01-15 |
 | [Tennessee](https://open.spotify.com/track/7iXZAgKNXrBmzcaNvM2Xkq) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [Tennessee](https://open.spotify.com/album/1sAbkkkEZAQAySsYVn1I7a) | 2:43 | 2020-05-07 | 2020-06-09 |
 | [Texas](https://open.spotify.com/track/08qq38gqUu5e6jZSPT69GM) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Texas](https://open.spotify.com/album/4MxwYytep1ODnRn3g2qg0m) | 2:51 | 2022-11-10 | 2023-01-19 |
+| [TEXAS BLUE \(with Kevin Abstract\)](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 |  |
 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 | 2022-05-20 | 2022-07-30 |
 | [That Funny Feeling](https://open.spotify.com/track/7uCq4vBPffjaTMlE8EQzJD) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 5:01 | 2021-08-05 | 2021-09-25 |
 | [That I Won't Do](https://open.spotify.com/track/3mZnzp5DzIxmnSYrUBME8b) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [That I Won't Do](https://open.spotify.com/album/1YrYPr2CJZztg9s3RdUdNo) | 2:42 | 2021-11-13 | 2022-01-08 |

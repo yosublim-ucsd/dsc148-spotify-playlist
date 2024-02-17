@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-541 songs - 1 day 6 hr 32 min
+542 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Isa](https://open.spotify.com/track/1VfRIkOyn0FsGifUEQAncZ) | [Brado](https://open.spotify.com/artist/1M1PSV5yWI8L9PvwQDVQCR) | [Isa](https://open.spotify.com/album/5vxvzqew5XqasjVjbY8Jr1) | 2:54 | 2023-01-20 | 2023-03-18 |
 | [Isso Não Se Faz](https://open.spotify.com/track/6Quaofku66oYyMJ3m2bgyg) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Niska: Uma Mensagem para Os Tempos de Emergência](https://open.spotify.com/album/1DMLwp6NXaU3CxjPHL8el2) | 3:56 | 2022-01-14 | 2022-02-12 |
 | [Jangada](https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb) | [mamguá](https://open.spotify.com/artist/68muZlHFoo6eQf8FMChxRi) | [Este é um disco sobre amor](https://open.spotify.com/album/6Z0DDEnCHnOCGmPT78etYH) | 3:26 | 2022-03-18 | 2022-04-09 |
+| [Jaz uma Flor](https://open.spotify.com/track/4DFvldKpbj7dAclJSsxj3x) | [Moldrin](https://open.spotify.com/artist/3r6zGJ8POTGaVYelmIc0jf) | [Jaz uma Flor](https://open.spotify.com/album/1CeY970vJdP7gbt8HfXRTp) | 2:04 | 2024-02-16 |  |
 | [juízo](https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B) | [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [juízo](https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ) | 2:51 | 2023-08-18 |  |
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 | 2022-07-23 |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 | 2022-07-09 |

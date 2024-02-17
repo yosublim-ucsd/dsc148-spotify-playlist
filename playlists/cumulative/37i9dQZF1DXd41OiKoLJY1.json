@@ -19663,6 +19663,24 @@
     },
     {
       "album": {
+        "name": "Lifeless Bride",
+        "url": "https://open.spotify.com/album/2Tu1uNrx7pJNLYY4sMwtoi"
+      },
+      "artists": [
+        {
+          "name": "Jinji",
+          "url": "https://open.spotify.com/artist/0kyrxsWE8RiAyczmTcrjt1"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Lifeless Bride",
+      "url": "https://open.spotify.com/track/372YvM94VasUh1nMRqZ3L3"
+    },
+    {
+      "album": {
         "name": "LIFESTYLE",
         "url": "https://open.spotify.com/album/6lPLjqTGGXcEYzlCjos8Qo"
       },

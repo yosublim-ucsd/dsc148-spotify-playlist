@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,213 songs - 3 day 4 hr 21 min
+1,214 songs - 3 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [SURVIVE](https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [SURVIVE](https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV) | 3:54 | 2023-04-11 | 2023-07-05 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 | 2023-07-12 |
+| [Taikutsu Escape](https://open.spotify.com/track/7kwj5TKesYwBUdkRQl5zO0) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [Taikutsu Escape](https://open.spotify.com/album/4TkmEa7eX7INv4foLN9m9t) | 4:07 | 2024-02-15 |  |
 | [Tailwind](https://open.spotify.com/track/5zF2p0QeKLWGjcmF8D25ik) | [Kanae](https://open.spotify.com/artist/14iTK9oNk2bqL8k5rUQLll) | [Tailwind](https://open.spotify.com/album/3jAeeZ772d3RsqCsOkmiGd) | 3:51 | 2023-10-03 | 2023-10-13 |
 | [Tailwind](https://open.spotify.com/track/3cco1SyVp3QgkOsrVnVGhA) | [Katagiri](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS) | [Tailwind](https://open.spotify.com/album/47L5KBCqVmyFBLr7MU2C2M) | 4:02 | 2023-10-03 | 2023-10-13 |
 | [tailwind](https://open.spotify.com/track/4eWA4UcHed1NTE8kdTVL7U) | [katagiri](https://open.spotify.com/artist/0ncQh2zi1V4dWyYO1XdQKn) | [tailwind](https://open.spotify.com/album/3OUb3n5zuO0taxE6h29fl6) | 4:02 | 2023-10-03 | 2023-10-05 |
@@ -1182,7 +1183,7 @@
 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 | 2023-07-13 | 2023-10-06 |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2022-12-27 | 2023-01-02 |
 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 | 2022-08-16 | 2022-10-04 |
-| [退屈ESCAPE](https://open.spotify.com/track/0RCmHdQwnpvwTIUWkaNm8D) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [退屈ESCAPE](https://open.spotify.com/album/0rYRwWeV1vfYVcXwgx63Wj) | 4:07 | 2024-02-15 |  |
+| [退屈ESCAPE](https://open.spotify.com/track/0RCmHdQwnpvwTIUWkaNm8D) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [退屈ESCAPE](https://open.spotify.com/album/0rYRwWeV1vfYVcXwgx63Wj) | 4:07 | 2024-02-15 | 2024-02-17 |
 | [逆光 \- replica \-](https://open.spotify.com/track/3LZwKI90sFbwjJMMSfyPp7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:57 | 2023-11-14 | 2024-01-07 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-10-12 |
 | [逆夢](https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 5:08 | 2023-11-28 | 2024-01-10 |

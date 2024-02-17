@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BIBI)",
-  "num_followers": 985084,
+  "num_followers": 985534,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzJmNjg1YTEwMDhiODdlYTY3NTZiMDAwNzU5M2U1MTY4OTE3NzI5",
+  "snapshot_id": "MCw0MjQ1YmVmMjdmZDAxZDE5OTdiOWM0M2QzNmE5OTg2M2M4MmIxZjZk",
   "tracks": [
     {
       "added_at": "2024-02-13 09:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "Dawn Defibrillation, Vol.1",
         "url": "https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7"
       },
@@ -1151,26 +1171,6 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) Class Mission",
-        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
         "name": "Spring in Winter",
         "url": "https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 168870,
       "name": "Winter blossom (feat. Ashley Alisha & nobody likes you pat)",
       "url": "https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) Class Mission",
+        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -1223,26 +1243,6 @@
       "duration_ms": 194320,
       "name": "Wishing On You",
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
     }
   ],
   "unique_name": "TrenChill K-R&B",

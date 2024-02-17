@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Maë Defays
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,748 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,794 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 17 | [V.E\. Swing](https://open.spotify.com/track/54xfUT8y18L2fGNbnJdxU9) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh) | [V.E\. Swing](https://open.spotify.com/album/17tVXEx7wzWdVOlAX1jyu8) | 4:24 |
 | 18 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 |
 | 19 | [Reach Out I'll Be There](https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Reach Out I'll Be There](https://open.spotify.com/album/2iAQxZSo3JEQ4Zqm3VeLrK) | 3:40 |
-| 20 | [Cloud Message](https://open.spotify.com/track/7FiSFsAWu6sm9ojpzPs4Sz) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Cloud Message](https://open.spotify.com/album/044dgnwqHNq3tdND5t2SDp) | 7:05 |
+| 20 | [Cloud Message](https://open.spotify.com/track/7FiSFsAWu6sm9ojpzPs4Sz) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Cloud Message](https://open.spotify.com/album/044dgnwqHNq3tdND5t2SDp) | 7:05 |
 | 21 | [Is Anything Wrong](https://open.spotify.com/track/0sHdyXmF9Q3Mh5ojcRoFDB) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Little Song Lines](https://open.spotify.com/album/5zsokd1sGZ5efqwOacYTBM) | 3:35 |
 | 22 | [Coldwater Canyon](https://open.spotify.com/track/4BlyDxNj9bJIgle61DLymF) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Coldwater Canyon](https://open.spotify.com/album/1kthPgmCXmZxthHJAQ1GYS) | 3:39 |
 | 23 | [Zouky Monky](https://open.spotify.com/track/4dK0I1ti80QHlForO8k2Zr) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Leonardo Montana](https://open.spotify.com/artist/3gDlpPLEXHWNlCZ3CO0Sx7) | [Zouky Monky](https://open.spotify.com/album/6yJUGPQdoU2Vdxzw2Yn5oX) | 5:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [In Heaven](https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Clap!](https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi) | 3:18 |
 | 50 | [Feelings \(Pour toi\)](https://open.spotify.com/track/5V4QQ6HBYAayI204oBnLM1) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 4:20 |
 
-Snapshot ID: `MCxjYTFmZDgzOWZjNDEyYjQ3NTBjZGZjMDdlMDYwNTI4YmQzY2RlN2Yw`
+Snapshot ID: `MCwyZTJiYTEwZDY4Y2UzYjEzNzY5NzNlOWViNDk2MGE2NzhiYWFkMzlk`

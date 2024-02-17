@@ -2706,10 +2706,36 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
+    },
+    {
+      "album": {
+        "name": "CARNIVAL",
+        "url": "https://open.spotify.com/album/5jMfrCmk4I3jjuju47YQj5"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/22UmqSLFADtxHCcZ67RzKp"
     },
     {
       "album": {
@@ -8581,6 +8607,28 @@
     },
     {
       "album": {
+        "name": "Ticket To The Moon",
+        "url": "https://open.spotify.com/album/0l28wIuO28UHBjHH4JSOdk"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Eben-Ezer",
+          "url": "https://open.spotify.com/artist/5BztywuaE9glEItjlAuNfJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148456,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/066JufxuaAPBsT6raHbMEc"
+    },
+    {
+      "album": {
         "name": "IT'S ONLY YOU",
         "url": "https://open.spotify.com/album/62HQu8Qo6VfzQhMyuoRoYd"
       },
@@ -8596,7 +8644,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 148456,
       "name": "IT'S ONLY YOU",
       "url": "https://open.spotify.com/track/2HCVVmUd0OyuC7nHPj0Ee5"
@@ -18616,6 +18664,24 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "album": {

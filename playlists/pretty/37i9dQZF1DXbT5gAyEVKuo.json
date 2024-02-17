@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 78769,
+  "num_followers": 78804,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTViOGM5MTAxZTJkMzIyMGNmZGU2ZDYyMWYzM2ViNWY3NDE4Njhj",
+  "snapshot_id": "MCxiZGRlYjI0ZWYwNzYxYmYzZDM4MmFlNjk4MDY1ZDY5YWUxNDYxMmVk",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live In Washington",
-        "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 388626,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "As We Worship Live",
         "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 292600,
       "name": "As We Worship",
       "url": "https://open.spotify.com/track/6yORqP4FcmePh187fTnLsz"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Live In Washington",
+        "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 388626,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Your Great Name (Live) - Single",
-        "url": "https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Your Great Name (Live)",
-      "url": "https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Nothing Like Your Presence",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 246173,
       "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/1HVYkNyIsnwwPZeYzGGsja"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "20th Century Masters - The Millennium Collection: The Best Of Richard Smallwood",
         "url": "https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 267053,
       "name": "The Lord's Prayer - Live",
       "url": "https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "The Best Of Gospel Superfest (Live)",
-        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf"
     }
   ],
   "unique_name": "Gospel Live",

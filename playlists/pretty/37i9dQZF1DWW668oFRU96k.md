@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Oaks x Third Party x Declan J Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,417 likes - 93 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,426 likes - 93 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 |
 | 3 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 |
 | 4 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
-| 5 | [One, Two & 3](https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [One, Two, & 3](https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn) | 3:26 |
+| 5 | [One, Two, & 3](https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [One, Two, & 3](https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn) | 3:26 |
 | 6 | [Better World](https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Chris Moody](https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui) | [Better World](https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh) | 3:06 |
 | 7 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 |
 | 8 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 92 | [Moving Up](https://open.spotify.com/track/6Ylvcc2BJUPWwHJah0enmC) | [Grimix](https://open.spotify.com/artist/29NIvby6mXbv2rirvtYr6a), [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [Moving Up](https://open.spotify.com/album/0ftQDgwETeCrZrUWtmum5E) | 2:22 |
 | 93 | [Get Up \- Radio Edit](https://open.spotify.com/track/2v79qSIDtGycjfqaWiwYep) | [Stevie Krash](https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS) | [Get Up \(Radio Edit\)](https://open.spotify.com/album/1uTWPsNgB7oebim4Z5YQxc) | 3:09 |
 
-Snapshot ID: `MCw3YWM0NmJmNWVlNDFlMDViMGQwMjRiMWMzMDlkZDcwNjBmYjk3MDEw`
+Snapshot ID: `MCw3YzU2NWI2NTU3YjFkMzY1MzNkNjlhZjdiNmQ3Y2U3MGI1NzBlOTU1`

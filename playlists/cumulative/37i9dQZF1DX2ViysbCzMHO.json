@@ -878,7 +878,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 185815,
       "name": "Coulda Loved You Longer - Acoustic",
       "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 178356,
       "name": "For What It\u2019s Worth - Acoustic",
       "url": "https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 179680,
       "name": "Girls Like You - Stripped",
       "url": "https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 184213,
       "name": "How It Oughta Be - Acoustic",
       "url": "https://open.spotify.com/track/6d8IG8GblIOXUWMdtQt2jj"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 174965,
       "name": "Hush Little Baby (Acoustic)",
       "url": "https://open.spotify.com/track/6m28U7MG4KdMU5Y9z1zgI3"
@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "No Caller ID.",
+        "url": "https://open.spotify.com/album/0LRkpQ6fa1zF2ttXJ9UFUj"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "No Caller ID (Emo Cowgirl Live Sessions)",
+      "url": "https://open.spotify.com/track/04lZeAyWs7Seg9HtM43XTH"
+    },
+    {
+      "album": {
         "name": "No Daylight",
         "url": "https://open.spotify.com/album/0Olp5J32pg0Gcq1GDDUzKj"
       },
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 226440,
       "name": "Standing Room Only - Acoustic",
       "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188661,
       "name": "Tell You Everything - Not Put Together",
       "url": "https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc"
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"

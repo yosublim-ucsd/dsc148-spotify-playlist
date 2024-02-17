@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 352628,
+  "2024-02-17": 352632,
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Khali",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Chanceko",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -43,6 +43,28 @@
       "duration_ms": 158313,
       "name": ".BOURBIER.",
       "url": "https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT"
+    },
+    {
+      "album": {
+        "name": ".Libre. (vide)",
+        "url": "https://open.spotify.com/album/3TL8QvEJVBhtiGL9L3S3Io"
+      },
+      "artists": [
+        {
+          "name": "Furlax",
+          "url": "https://open.spotify.com/artist/4bmXnAfcFe859ozMNFpFok"
+        },
+        {
+          "name": "Advm",
+          "url": "https://open.spotify.com/artist/6BSFL5j2A7WVhwPGAuLEQV"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233696,
+      "name": ".Libre. (vide)",
+      "url": "https://open.spotify.com/track/6Mb2Xc7MFCI51Lc3aqTwIE"
     },
     {
       "album": {
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158260,
       "name": "De moins en moins",
       "url": "https://open.spotify.com/track/10CpduevjmNyjSDzmZfKCD"
@@ -2643,7 +2665,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 152598,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
@@ -2745,6 +2767,28 @@
       "duration_ms": 181181,
       "name": "ID\u00c9ALEMENT",
       "url": "https://open.spotify.com/track/5fAfsSObe2skdyhzbX7hjJ"
+    },
+    {
+      "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/3JJ3JA8Wv6HnLfxAKOCxG7"
+      },
+      "artists": [
+        {
+          "name": "Chanceko",
+          "url": "https://open.spotify.com/artist/0rIcS71BzqNgTQl8yjiprz"
+        },
+        {
+          "name": "Shabzbeatz",
+          "url": "https://open.spotify.com/artist/1bFuPprBXHUij0aVMMCHn3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113160,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/2lIYPLyflIuOaES0DPb8QC"
     },
     {
       "album": {
@@ -2875,7 +2919,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147986,
       "name": "J'connais",
       "url": "https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr"
@@ -4090,6 +4134,24 @@
     },
     {
       "album": {
+        "name": "M\u00eame endroit",
+        "url": "https://open.spotify.com/album/4jhFORYq9OfAOesOgVPZGF"
+      },
+      "artists": [
+        {
+          "name": "RVZ",
+          "url": "https://open.spotify.com/artist/6QQSZZB94LcSTNd1hrTw5z"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "M\u00eame endroit",
+      "url": "https://open.spotify.com/track/0ct2OyqqdMHxkur8pLQgxh"
+    },
+    {
+      "album": {
         "name": "M\u00d6DI",
         "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
       },
@@ -4955,7 +5017,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 206066,
       "name": "Qu'est-ce tu veux qu'j'te dise?",
       "url": "https://open.spotify.com/track/4eNjjnFNBCy2V2bm0Plw4s"
@@ -5604,6 +5666,24 @@
     },
     {
       "album": {
+        "name": "Si demain je t'aime",
+        "url": "https://open.spotify.com/album/4EzklkyTSK2FUQD8C0bxZc"
+      },
+      "artists": [
+        {
+          "name": "Eline",
+          "url": "https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166315,
+      "name": "Si demain je t'aime",
+      "url": "https://open.spotify.com/track/6v7vxXFrKUFhDSFDlryU8D"
+    },
+    {
+      "album": {
         "name": "Si tu savais",
         "url": "https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K"
       },
@@ -5615,7 +5695,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 145485,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e"
@@ -6089,6 +6169,24 @@
       "duration_ms": 197441,
       "name": "Tout peut s'effacer",
       "url": "https://open.spotify.com/track/04lh5nf7uhCtzdD60ZtXHk"
+    },
+    {
+      "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C"
+      },
+      "artists": [
+        {
+          "name": "Giacomo",
+          "url": "https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143297,
+      "name": "Tranch\u00e9es",
+      "url": "https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9"
     },
     {
       "album": {

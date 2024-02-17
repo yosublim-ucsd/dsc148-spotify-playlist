@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/2sFyxrmHQhW31IcVLVEwnv"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180415,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0lDODiEwlOVoueiogf1Wi0"
+    },
+    {
+      "album": {
         "name": "Better Than Real Life",
         "url": "https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng"
       },
@@ -1900,6 +1918,32 @@
       "duration_ms": 147391,
       "name": "Full Time Job",
       "url": "https://open.spotify.com/track/4gtkHMuEMhysN6ZitUSRBf"
+    },
+    {
+      "album": {
+        "name": "Get Get Get Down",
+        "url": "https://open.spotify.com/album/4SKS4Jk1Z9snk2SKoZeUqT"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152894,
+      "name": "Get Get Get Down",
+      "url": "https://open.spotify.com/track/1Z6F3N7RbvhzTH1qd9df8m"
     },
     {
       "album": {
@@ -3503,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
+    },
+    {
+      "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/08LqESIqk21nFUdAJczMUK"
       },
@@ -4074,6 +4136,24 @@
       "duration_ms": 220648,
       "name": "Remind Me - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/072KYf7DhC2wXSqJY3kdJE"
+    },
+    {
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "album": {

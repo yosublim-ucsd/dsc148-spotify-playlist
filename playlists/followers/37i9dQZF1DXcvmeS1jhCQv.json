@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 73276,
+  "2024-02-17": 73284,
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: SPIDER",
+  "description": "New tunes from Ireland for your discovery. Cover: F3miii",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 181268,
       "name": "21",
       "url": "https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC"
@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Chelsea Bakery",
+        "url": "https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc"
+      },
+      "artists": [
+        {
+          "name": "Fizzy Orange",
+          "url": "https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177437,
+      "name": "Chelsea Bakery",
+      "url": "https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t"
+    },
+    {
+      "album": {
         "name": "Cherry Delight",
         "url": "https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy"
       },
@@ -364,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Don't Understand Why",
+        "url": "https://open.spotify.com/album/55XRl8sZvsT8glN2yEfTef"
+      },
+      "artists": [
+        {
+          "name": "TOUCAN",
+          "url": "https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196467,
+      "name": "Don't Understand Why",
+      "url": "https://open.spotify.com/track/4McagilwKb0abKxmNG6aYZ"
+    },
+    {
+      "album": {
         "name": "Cathexis",
         "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
       },
@@ -411,7 +447,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 191103,
       "name": "Endless Nights",
       "url": "https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu"
@@ -537,7 +573,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193888,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6vAznmmD372DjfKqP1kKEf"
@@ -717,10 +753,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 238613,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
+    },
+    {
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "album": {
@@ -753,10 +807,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 177453,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ"
+    },
+    {
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/2qOO0fQwkuPCBVY1Owvdsj"
+      },
+      "artists": [
+        {
+          "name": "Niamh Regan",
+          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232936,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/3ULrypzl0UPwpNoToJoMJy"
     },
     {
       "album": {
@@ -771,7 +843,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 198847,
       "name": "Make Me Smile",
       "url": "https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV"
@@ -926,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Of Land and Sea",
+        "url": "https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Of Land and Sea",
+      "url": "https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw"
+    },
+    {
+      "album": {
         "name": "Only Human",
         "url": "https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr"
       },
@@ -1017,6 +1107,24 @@
       "duration_ms": 175038,
       "name": "Plans",
       "url": "https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/704xBAoF4PQXfM188RR020"
+      },
+      "artists": [
+        {
+          "name": "wxlfcut",
+          "url": "https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188055,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5"
     },
     {
       "album": {
@@ -1215,7 +1323,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 184111,
       "name": "straight out the oven !",
       "url": "https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac"
@@ -1276,6 +1384,24 @@
     },
     {
       "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP"
+      },
+      "artists": [
+        {
+          "name": "Stella and the Dreaming",
+          "url": "https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267679,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6"
+    },
+    {
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/4H1qLDeGdpoQFdpZjiX5MR"
       },
@@ -1327,7 +1453,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 145635,
       "name": "Tree Sap",
       "url": "https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM"
@@ -1505,6 +1631,24 @@
       "duration_ms": 216610,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ"
+    },
+    {
+      "album": {
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv"

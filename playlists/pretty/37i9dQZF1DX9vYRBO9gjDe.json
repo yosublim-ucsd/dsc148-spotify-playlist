@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30022\u670813\u65e5\u4ed8\u3002",
-  "num_followers": 290654,
+  "num_followers": 290681,
   "original_name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDllN2I5NDhlNDdkZDk2ZGIxYmM0ZTg3MTFhOGFiOGVhNmRlNjBm",
+  "snapshot_id": "MCw4Mzc5MTc3Y2IwN2ZjMDM5NGZkMmYzYWJjYzE1YjllMjg3NzU5ZTY1",
   "tracks": [
     {
       "added_at": "2024-02-14 16:48:40",
@@ -407,10 +407,14 @@
     {
       "added_at": "2024-02-14 16:48:40",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
+        "name": "CARNIVAL",
+        "url": "https://open.spotify.com/album/5jMfrCmk4I3jjuju47YQj5"
       },
       "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
@@ -422,7 +426,7 @@
       ],
       "duration_ms": 264324,
       "name": "CARNIVAL",
-      "url": "https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp"
+      "url": "https://open.spotify.com/track/22UmqSLFADtxHCcZ67RzKp"
     },
     {
       "added_at": "2024-02-14 16:48:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,976 likes - 69 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,076 likes - 69 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 55 | [Beta Sinus 201 Hz \- L 230 Hz](https://open.spotify.com/track/0hLcX0NrcLCoNPINrc7mQR) | [Mayor Deseo](https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g) | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi) | 2:17 |
 | 56 | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/4BXh6etJ4wKucRbT5oU6kG) | [Beta Gamma](https://open.spotify.com/artist/6zycKAX0nUJe4naz7BthZk) | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/album/0bGcqwRtvhRkBEzAbipJqM) | 2:22 |
 | 57 | [Beta Sinus 200 Hz \- 230 Hz](https://open.spotify.com/track/0JFS1JaEgZ0FxHSFtVGp1M) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Isotopic Dreams](https://open.spotify.com/album/1pOEjhIpPgMEvYvbaf1o6J) | 3:25 |
-| 58 | [Pure Beta Binaural beat \- Increased Concentration](https://open.spotify.com/track/31sVwkyXHzYVmvIWPeGMp3) | [Miracle Tone](https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC) | [Binaural Beats \- Brainwave Symphony](https://open.spotify.com/album/5YdEDCuKxG6ZaGBMoNNB9y) | 5:11 |
+| 58 | [Pure Beta Binaural Beat \- Increased Concentration](https://open.spotify.com/track/3Xu94JRuFVpuLoqH9JR579) | [Miracle Tone](https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC) | [Binaural Beats \- Brainwave Symphony](https://open.spotify.com/album/2dntuBkASZkAZgOOZ3Gfqn) | 5:11 |
 | 59 | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt) | [Merpell](https://open.spotify.com/artist/4VY6NUpEqaG1ouNyNgR2VN) | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2) | 2:04 |
 | 60 | [Beta Sinus 150 Hz \- 158 Hz](https://open.spotify.com/track/61QjtzlyMeRCpB97Du46vo) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Synchrophonic](https://open.spotify.com/album/7cvHCFG1pBFTERjISA6675) | 3:40 |
 | 61 | [Binaural Beta Sinus Drone IIII](https://open.spotify.com/track/57QUuHrWZz08HialRptMC4) | [The Entrainment](https://open.spotify.com/artist/1in2vhhcCXymghyzFTXL2n) | [Beta Brainwaves For Focus And Thinking](https://open.spotify.com/album/5rYq946bYO7Z7Gs7TITbG3) | 3:34 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 68 | [Beta Time 86,4 hz \-84,1 hz](https://open.spotify.com/track/2pGVCr1MRiSC5a4EeG7iOn) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:57 |
 | 69 | [Binaural Beta Sinus Beats](https://open.spotify.com/track/2lVAIA4kdj8ecjNwzrHj6q) | [Erwin Oscár](https://open.spotify.com/artist/1w1y7dpUPIsZovT5YAHG3v) | [Binaural Brain Waves](https://open.spotify.com/album/4S6iWJHAR9R5lNsH9kJbVI) | 2:39 |
 
-Snapshot ID: `MCxlODJmYjZlZTExYmI4MGRkZTI5ZjZkZTAyNDNlOGVjMDljMGFlNjU2`
+Snapshot ID: `MCxhMjBlZWM2NDUwNGE5NjQwZGNhMjJiOTM1NTUxYWVmNTE0OGY5OWJh`

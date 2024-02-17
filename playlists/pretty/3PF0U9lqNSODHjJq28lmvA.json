@@ -6,239 +6,271 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "OTEwLDQ2NWY5ZGRkZDhmOGEyNGZmZjQ3NTE2NDhlZDJkNjIwZGQ0ZDVjNDI=",
+  "snapshot_id": "OTEyLDE5YWI0OTY1N2NmZWIwZTUyY2ExMDkwM2U3YTYyZGJkZjBmOTRhMGI=",
   "tracks": [
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "AUTO HYMN",
-        "url": "https://open.spotify.com/album/2ihCyjtqk4cx16NixhfK3x"
+        "name": "Kronos / Rhea",
+        "url": "https://open.spotify.com/album/70YFnR9XFzVNrsDbYGQU45"
       },
       "artists": [
         {
-          "name": "ANGEL_TECH",
-          "url": "https://open.spotify.com/artist/5tpblY6P5QwlKCv5nfLESc"
+          "name": "Aidoneus",
+          "url": "https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5"
+        }
+      ],
+      "duration_ms": 298916,
+      "name": "Kronos / Rhea",
+      "url": "https://open.spotify.com/track/4SvG1IieuLm2jRUcm1dvot"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/6XsVDzEB9eR1GhfQ0uo5a6"
+      },
+      "artists": [
+        {
+          "name": "Fara Bros",
+          "url": "https://open.spotify.com/artist/663RhjA583DAmfdQRN61A0"
+        }
+      ],
+      "duration_ms": 153007,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/5SuohCyQqo9RJPehzpxyJi"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "Ser Dig",
+        "url": "https://open.spotify.com/album/4pw6of0huMyevx7dQQCDYr"
+      },
+      "artists": [
+        {
+          "name": "Mazar",
+          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "Ser Dig",
+      "url": "https://open.spotify.com/track/064w99SXZ4k1opi2Mgil9q"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "Catlover",
+        "url": "https://open.spotify.com/album/74zBESEXRGnBwmEmiTz4pE"
+      },
+      "artists": [
+        {
+          "name": "Klara LaFleur",
+          "url": "https://open.spotify.com/artist/4OTNHZSytsoMujGoXj32Xi"
+        }
+      ],
+      "duration_ms": 146374,
+      "name": "Catlover",
+      "url": "https://open.spotify.com/track/0R5s2wgNzZRissEBgYeX8S"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "8000",
+        "url": "https://open.spotify.com/album/1WTZ2kPT6WhuKcQa0IKWsy"
+      },
+      "artists": [
+        {
+          "name": "FARINHATE",
+          "url": "https://open.spotify.com/artist/5woVfxExQZkeJHpRVlUw1T"
+        }
+      ],
+      "duration_ms": 172103,
+      "name": "8000",
+      "url": "https://open.spotify.com/track/7ullBv0gK5ozenY8TEGRp0"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "ADIOS",
+        "url": "https://open.spotify.com/album/6pwhWFajblRFthFzqpF6bC"
+      },
+      "artists": [
+        {
+          "name": "TmmyX",
+          "url": "https://open.spotify.com/artist/3UXkp40sWTRzgSTWBpJUBK"
         },
         {
-          "name": "Metagirl",
-          "url": "https://open.spotify.com/artist/4APBjeJK2gYxq3gaitb2tQ"
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
         }
       ],
-      "duration_ms": 100331,
-      "name": "WEAPON OF GOD",
-      "url": "https://open.spotify.com/track/2Truyk5azQYJush49awirl"
+      "duration_ms": 132266,
+      "name": "ADIOS",
+      "url": "https://open.spotify.com/track/4UjBMWADHwdbpR8evvFkeo"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "Tyhm\u00e4 Rakkauslaulu",
-        "url": "https://open.spotify.com/album/4jP8iqel3z99ZXlKh80Hwq"
+        "name": "Kreisverkehr",
+        "url": "https://open.spotify.com/album/6kFJpEnOemsO0NRQqHPpxw"
       },
       "artists": [
         {
-          "name": "Monotonia",
-          "url": "https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N"
+          "name": "Luka Blau",
+          "url": "https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG"
         }
       ],
-      "duration_ms": 221824,
-      "name": "Tyhm\u00e4 Rakkauslaulu",
-      "url": "https://open.spotify.com/track/7MQW4V8GHgJ3V9T2ixqAuf"
+      "duration_ms": 213920,
+      "name": "Kreisverkehr",
+      "url": "https://open.spotify.com/track/4vEyhP94A2MjBGg3xAXlp3"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "Stuff",
-        "url": "https://open.spotify.com/album/0o9mn5rLlNZzS3DDAssN8P"
+        "name": "Feet on the Ground",
+        "url": "https://open.spotify.com/album/5pvtO1ZF69WD688RZ6oNtP"
       },
       "artists": [
         {
-          "name": "Lasse Gidbo",
-          "url": "https://open.spotify.com/artist/0XBd3HKhpiyMWaaVZ1g2Lf"
+          "name": "Chris Forrest & The Big Mercy",
+          "url": "https://open.spotify.com/artist/0z8JNAFneDEX0wWuXQSwS3"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Running on empty",
-      "url": "https://open.spotify.com/track/2Rz2Mj45ivp8copL3HWvRY"
+      "duration_ms": 240674,
+      "name": "Feet on the Ground",
+      "url": "https://open.spotify.com/track/1YLKD7JoVI2EPhvT7PBcbv"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "The Metal Dream",
-        "url": "https://open.spotify.com/album/2gTAYAPBqDjw3DVZJsxsgV"
+        "name": "HIMLA FINA VISOR - klassiska barnl\u00e5tar",
+        "url": "https://open.spotify.com/album/6Q0TPO1osbX8ib8an4nnen"
       },
       "artists": [
         {
-          "name": "Oskviggen",
-          "url": "https://open.spotify.com/artist/5D9XxObij0RMDAsjmIdtXL"
+          "name": "Kalle & Paula",
+          "url": "https://open.spotify.com/artist/6Qjf3sEH055QF4Rhup5Ld8"
         }
       ],
-      "duration_ms": 184740,
-      "name": "Brother from another mother",
-      "url": "https://open.spotify.com/track/4q66GNC9HhCg5YQ5ULhX2D"
+      "duration_ms": 98500,
+      "name": "Hjulen p\u00e5 bussen",
+      "url": "https://open.spotify.com/track/6VHAi4f9nG0f4NGPbmoEpS"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "Super General II",
-        "url": "https://open.spotify.com/album/0d9Ee1nGrBkAclOCfHg3DT"
+        "name": "I Used To Dream",
+        "url": "https://open.spotify.com/album/518bMcrr7aumvw8YMFDanY"
       },
       "artists": [
         {
-          "name": "Red Rum Fi Dead",
-          "url": "https://open.spotify.com/artist/7FyEYJ25vLqM2d1P49GmPi"
+          "name": "Stranger Mountain",
+          "url": "https://open.spotify.com/artist/5wOeYfLziE535UkJVkYiVZ"
         }
       ],
-      "duration_ms": 301232,
-      "name": "Super General II",
-      "url": "https://open.spotify.com/track/3lgpY0ERqH12RkGv7A02Mj"
+      "duration_ms": 270130,
+      "name": "I Used To Dream",
+      "url": "https://open.spotify.com/track/7GmdvaFoDD84btv8MUySIR"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "Storm och l\u00e4ngtan",
-        "url": "https://open.spotify.com/album/4DyYCTjQ4pCaa2hnI9MNCC"
+        "name": "I'm on my way home",
+        "url": "https://open.spotify.com/album/0PWEWkPnYYWgjW22u3Owsj"
       },
       "artists": [
         {
-          "name": "Ministeriet",
-          "url": "https://open.spotify.com/artist/2zE2gMxUYaIBkXZvs5S3GL"
+          "name": "Joakim Ehn",
+          "url": "https://open.spotify.com/artist/6JXkZs2hovW43f9xuVIb95"
         }
       ],
-      "duration_ms": 193957,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/3VxYi4nwrNokCJylO8qZ1C"
+      "duration_ms": 203592,
+      "name": "We're already free",
+      "url": "https://open.spotify.com/track/6WiR9fQpWfUEXJbYTQDZit"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/1TD6yuamN2sBh8rylXf1uQ"
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/4MFLPlvWw2Sh4nDbaLpo6d"
       },
       "artists": [
         {
-          "name": "Abstlab",
-          "url": "https://open.spotify.com/artist/4bWZ5DMtsappMmu5uElBQs"
+          "name": "YFELIAN",
+          "url": "https://open.spotify.com/artist/0j84bWaXwQARXLgX4QOvSZ"
         }
       ],
-      "duration_ms": 368450,
-      "name": "Binary",
-      "url": "https://open.spotify.com/track/5eSrZcrzcUUbHSmYI7aLPv"
+      "duration_ms": 187189,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/4DcNIFlTApwRhYxs3NMq5P"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "Que't petin",
-        "url": "https://open.spotify.com/album/2j7YsMtX9AjGAJuWe9zqNq"
+        "name": "L\u00e4gre seriesystemen",
+        "url": "https://open.spotify.com/album/5vDF63ZLf67zURKb2ahKb6"
       },
       "artists": [
         {
-          "name": "NEVE",
-          "url": "https://open.spotify.com/artist/7p0U8Q716l3KfEvPBpnV6x"
-        }
-      ],
-      "duration_ms": 201336,
-      "name": "Que't petin",
-      "url": "https://open.spotify.com/track/4gdT9exf0szavkVyoBsrcc"
-    },
-    {
-      "added_at": "2024-02-09 17:04:59",
-      "album": {
-        "name": "Get a Ride",
-        "url": "https://open.spotify.com/album/6R2aMqamw4d5VUtb7m4Zht"
-      },
-      "artists": [
-        {
-          "name": "Thick",
-          "url": "https://open.spotify.com/artist/6MiydowNxqcB5HmAzvbk7w"
-        }
-      ],
-      "duration_ms": 190369,
-      "name": "Get a Ride",
-      "url": "https://open.spotify.com/track/3rqIVXORWCvFZbLJ2YiqO0"
-    },
-    {
-      "added_at": "2024-02-09 17:04:59",
-      "album": {
-        "name": "Oh Touch Me",
-        "url": "https://open.spotify.com/album/0mUmsGWVNzr7rKbgo8gFz5"
-      },
-      "artists": [
-        {
-          "name": "Mary Syll",
-          "url": "https://open.spotify.com/artist/0hqGeIfmk6AC459Q9AL9lw"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Oh Touch Me",
-      "url": "https://open.spotify.com/track/5FR9uids7LL86YyAERluYU"
-    },
-    {
-      "added_at": "2024-02-09 17:04:59",
-      "album": {
-        "name": "Feel My Pain",
-        "url": "https://open.spotify.com/album/5wYBTGa7Np3fXJaswPnIsB"
-      },
-      "artists": [
-        {
-          "name": "Clench Your Fist",
-          "url": "https://open.spotify.com/artist/66HPhWDNuhGlU8oXXGU4yQ"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Feel My Pain",
-      "url": "https://open.spotify.com/track/3Uw1wW9oNtXkz2HKLCw8OJ"
-    },
-    {
-      "added_at": "2024-02-09 17:04:59",
-      "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/3nrYRrmngpKNyEEo4CtdwJ"
-      },
-      "artists": [
-        {
-          "name": "Florian Voss",
-          "url": "https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW"
-        }
-      ],
-      "duration_ms": 184824,
-      "name": "Break Through",
-      "url": "https://open.spotify.com/track/2EMBSdQZHHPUOnRascXPKP"
-    },
-    {
-      "added_at": "2024-02-09 17:04:59",
-      "album": {
-        "name": "Hj\u00e4rtattack",
-        "url": "https://open.spotify.com/album/5tXieCU2OKxeEOXzeOJONe"
-      },
-      "artists": [
-        {
-          "name": "Max Prime",
-          "url": "https://open.spotify.com/artist/1qvpGLy0igBxx6B7jE9pr9"
+          "name": "John Dohlsten",
+          "url": "https://open.spotify.com/artist/2ncTZc04kZfqq6hXN9i9vd"
         },
         {
-          "name": "Lawrence Short",
-          "url": "https://open.spotify.com/artist/7egYjFgbOtVNxztIpieqzB"
+          "name": "Victor Dohlsten",
+          "url": "https://open.spotify.com/artist/1oTMguIyaYdKezbCVkLqee"
         }
       ],
-      "duration_ms": 182352,
-      "name": "Hj\u00e4rtattack",
-      "url": "https://open.spotify.com/track/5te6Ktaz2iM9iQcBUZJxp2"
+      "duration_ms": 174583,
+      "name": "L\u00e4gre seriesystemen",
+      "url": "https://open.spotify.com/track/4VkDd2Nu5lchhO3mbK8l95"
     },
     {
-      "added_at": "2024-02-09 17:04:59",
+      "added_at": "2024-02-16 14:05:46",
       "album": {
-        "name": "We Will Not Forgive This",
-        "url": "https://open.spotify.com/album/31a38XBIW03x0bBVIMYhPw"
+        "name": "Cephalopod",
+        "url": "https://open.spotify.com/album/15uzTPHFf2qTprW7kRJxHq"
       },
       "artists": [
         {
-          "name": "HEADSIC",
-          "url": "https://open.spotify.com/artist/3mYqzm5V2R3QHd2dDVn27y"
+          "name": "DEVANEE",
+          "url": "https://open.spotify.com/artist/2vcG0QctH5iJLl95tNd7hE"
         }
       ],
-      "duration_ms": 255986,
-      "name": "We Will Not Forgive This",
-      "url": "https://open.spotify.com/track/52zd8rkIQbZS6LsC1hxGjx"
+      "duration_ms": 320000,
+      "name": "Horse Case Scenario",
+      "url": "https://open.spotify.com/track/5BHeHqRRVzmVqJswTbsfwV"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "Vie mut kotiin t\u00e4\u00e4lt\u00e4 / Mit\u00e4 meist\u00e4 j\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0HkzoFSdGrwyM8Ec4Alhcv"
+      },
+      "artists": [
+        {
+          "name": "Nuutinen",
+          "url": "https://open.spotify.com/artist/5TKaHSBrrmjHyh5qzQcXJz"
+        }
+      ],
+      "duration_ms": 256014,
+      "name": "Vie mut kotiin t\u00e4\u00e4lt\u00e4",
+      "url": "https://open.spotify.com/track/2gWrYAMh7zEBwgooYBhkgm"
+    },
+    {
+      "added_at": "2024-02-16 14:05:46",
+      "album": {
+        "name": "No Punkrock In My Car",
+        "url": "https://open.spotify.com/album/5V07vriJBQjD0BD62mfGUQ"
+      },
+      "artists": [
+        {
+          "name": "No Real Purpose",
+          "url": "https://open.spotify.com/artist/1nlw9RuDhuXPrYiFlLqsWr"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "No Punkrock In My Car",
+      "url": "https://open.spotify.com/track/575batnvPMiTOHCDmjrE7g"
     }
   ],
   "unique_name": "Independent Music Friday",

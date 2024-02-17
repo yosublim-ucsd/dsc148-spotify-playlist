@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 87663,
+  "2024-02-17": 87661,
   "date_first_scraped": "2023-12-08",
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
   "name": "Nana Nen\u00ea",
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 111374,
       "name": "As Sweet As Can Be",
       "url": "https://open.spotify.com/track/0H4l3pTfyVhyDOXHtqpZyT"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 130194,
       "name": "Floating Clouds",
       "url": "https://open.spotify.com/track/6dvM9hnnSGiKAwkLV5bz9K"
@@ -3106,6 +3106,24 @@
     },
     {
       "album": {
+        "name": "Knackle Back",
+        "url": "https://open.spotify.com/album/2wOW8e8QozWcb89PDhVlaw"
+      },
+      "artists": [
+        {
+          "name": "Ishaq Love",
+          "url": "https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102860,
+      "name": "Knackle Back",
+      "url": "https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8"
+    },
+    {
+      "album": {
         "name": "La la la la long",
         "url": "https://open.spotify.com/album/07KU1zdxHxTzSuLrFMbVh8"
       },
@@ -4345,6 +4363,24 @@
       "duration_ms": 120161,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn"
+    },
+    {
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/1vn3NrQ9bwV2aGirQBf9ul"
+      },
+      "artists": [
+        {
+          "name": "Anna Moen",
+          "url": "https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ode to Joy",
+      "url": "https://open.spotify.com/track/25tRQuOg6OMbxUp7u78lBV"
     },
     {
       "album": {
@@ -6008,6 +6044,24 @@
     },
     {
       "album": {
+        "name": "The Bear Is Sleeping",
+        "url": "https://open.spotify.com/album/6JoL5P9tKPa3MeOCtkLDcj"
+      },
+      "artists": [
+        {
+          "name": "Lena Terne",
+          "url": "https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "The Bear Is Sleeping",
+      "url": "https://open.spotify.com/track/5QVYYQYcZyrJuycojIfR3h"
+    },
+    {
+      "album": {
         "name": "Everything Will Be Alright",
         "url": "https://open.spotify.com/album/3IhAfPTYNaUczXs2LWBU2e"
       },
@@ -6073,7 +6127,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 88000,
       "name": "The Frog and the Panda Bear",
       "url": "https://open.spotify.com/track/0JPJXVfmlm7ObdFgicspTz"
@@ -6458,6 +6512,24 @@
     },
     {
       "album": {
+        "name": "Tiny Toes, Big Adventures",
+        "url": "https://open.spotify.com/album/6cELU85y4SnUfN695Jf8px"
+      },
+      "artists": [
+        {
+          "name": "Joanna Chakri",
+          "url": "https://open.spotify.com/artist/65ulszLTrkBaeZZympVqpA"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83675,
+      "name": "Tiny Toes, Big Adventures",
+      "url": "https://open.spotify.com/track/30Uc7VRqNQQjdaqJJRY9HC"
+    },
+    {
+      "album": {
         "name": "To the moon",
         "url": "https://open.spotify.com/album/5Qy9gFeRYngO7HpwLtzIzv"
       },
@@ -6757,7 +6829,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 139442,
       "name": "Weightless Sleep",
       "url": "https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Effy, Mall Grab
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,422 likes - 150 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,432 likes - 150 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [BUTTERFLIES](https://open.spotify.com/track/7khx13eqI5VDKQ85GdNXra) | [ASTRO](https://open.spotify.com/artist/5kZk6YdVhp9mtEyzhDxRqj) | [LOS ANGELES](https://open.spotify.com/album/3skv0HZ13vko9f3oyjRs8A) | 2:15 |
 | 150 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 
-Snapshot ID: `MCwwYjRiNzg1NmJmYTY0NWUyZmE0ZjczMDgyM2U2ZDUyZDUzNDAyODNk`
+Snapshot ID: `MCw2MGZlMjBiOTE5ZDcxNzFlNmQyY2ZlMDhlNTY3NDMyMjM2ZmM4ZjQx`

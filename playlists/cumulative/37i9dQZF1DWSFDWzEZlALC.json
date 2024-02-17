@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Angst Frisst Demokratie",
+        "url": "https://open.spotify.com/album/25ARIqSRuh7EaQnUqyltMt"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "Angst Frisst Demokratie",
+      "url": "https://open.spotify.com/track/7Ezm243VCLVAPGr6bQqgIn"
+    },
+    {
+      "album": {
         "name": "Art und Weise",
         "url": "https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 178066,
       "name": "blue",
       "url": "https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Zolita",
+  "description": "make it pop! cover: Nicky Youre",
   "name": "soda",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 123005,
       "name": "Be With Me",
       "url": "https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177653,
       "name": "Cross Bridges",
       "url": "https://open.spotify.com/track/1lPZNd1xq4kSClrag6Q8Nx"
@@ -3986,7 +3986,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 168359,
       "name": "Essence (feat. Super Computer)",
       "url": "https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52"
@@ -5130,7 +5130,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176650,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/6xmC6hWdB1AB9diRWOvPqF"
@@ -5426,7 +5426,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 155752,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/0TQs4rjJaFVamfCFTWKuRN"
@@ -6209,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185166,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
+    },
+    {
+      "album": {
         "name": "How A Man Dies",
         "url": "https://open.spotify.com/album/1lToLshywdyoNMqRqUWDHg"
       },
@@ -6962,7 +6980,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 134060,
       "name": "I WRITE SONGS ABOUT YOU",
       "url": "https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc"
@@ -7656,7 +7674,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186267,
       "name": "JUST OK",
       "url": "https://open.spotify.com/track/6tOj8Alw82fL4GnwaV9z7V"
@@ -9062,7 +9080,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 155721,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
@@ -9228,6 +9246,24 @@
       "duration_ms": 200037,
       "name": "Middle Of A Breakup",
       "url": "https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8"
+    },
+    {
+      "album": {
+        "name": "Middle Of The Night",
+        "url": "https://open.spotify.com/album/01rdnuF8355WShHCdipdtG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161782,
+      "name": "Middle Of The Night",
+      "url": "https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2"
     },
     {
       "album": {
@@ -10397,6 +10433,24 @@
     },
     {
       "album": {
+        "name": "old change",
+        "url": "https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114062,
+      "name": "old change",
+      "url": "https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC"
+    },
+    {
+      "album": {
         "name": "OLDER",
         "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
       },
@@ -10982,7 +11036,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 175326,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w"
@@ -11704,6 +11758,24 @@
       "duration_ms": 218524,
       "name": "Rush",
       "url": "https://open.spotify.com/track/6DwesuBTzYmdAjTynjuKEd"
+    },
+    {
+      "album": {
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S"
     },
     {
       "album": {
@@ -12692,7 +12764,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 196666,
       "name": "SOS",
       "url": "https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3"
@@ -12728,7 +12800,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 163454,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/7DZW8lVDFRy8feObANUuW8"
@@ -14340,7 +14412,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206666,
       "name": "Think That You're Lonely",
       "url": "https://open.spotify.com/track/2GA5B8SPVzJzcUM0BskVXW"
@@ -15856,7 +15928,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 194618,
       "name": "wreck",
       "url": "https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx"

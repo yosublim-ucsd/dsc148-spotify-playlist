@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-92 songs - 5 hr 48 min
+93 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 | 2022-06-21 | 2023-10-24 |
 | [Koi wa Question](https://open.spotify.com/track/3vfAwYTAn0ZnQEPpVGsQUp) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [Yume Catalog + Single Collection](https://open.spotify.com/album/6l4mUfoN9qk4Mmwy41WSMg) | 3:11 | 2022-06-21 |  |
 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 | 2022-06-21 |  |
-| [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 | 2022-06-21 |  |
+| [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 | 2022-06-21 | 2024-02-17 |
 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 | 2022-06-21 |  |
 | [My Neighbor Totoro \- Ending Theme Song](https://open.spotify.com/track/5Oki7wvBpSuo3OcRq9jHVg) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Soundtrack Collection](https://open.spotify.com/album/2Dn4ABFUYJbrlMF7K12RT3) | 4:17 | 2022-06-21 | 2022-11-13 |
 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [QUARTERBACK](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 | 2021-10-07 | 2022-07-29 |
@@ -90,6 +90,7 @@
 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 | 2022-06-21 |  |
 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 | 2021-10-07 | 2022-07-29 |
 | [正調 おそ松節](https://open.spotify.com/track/6iq0zO56ijjOVpbcP44e3v) | [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [芸道40年記念 細川たかし全集 心のこり〜艶歌船](https://open.spotify.com/album/4Y5hOPaaQBHbXJQsKyebom) | 3:42 | 2021-10-07 |  |
+| [水の星へ愛をこめて](https://open.spotify.com/track/2dzF7OvfbI8Cu3NGnNT1Ix) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/6eCYVaZelUiLzRxbrqmnjo) | 3:39 | 2022-06-21 |  |
 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2021-10-07 | 2023-06-11 |
 | [燃えてヒーロー](https://open.spotify.com/track/177W3nNOUxB9eT32Qe6inf) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト　沖田浩之](https://open.spotify.com/album/6XhYUm32PBkWZ6usgF5hce) | 3:00 | 2022-06-21 |  |
 | [燃えてヒーロー](https://open.spotify.com/track/3Z2elIIIrjRbAIL1kkPz2I) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト 沖田浩之](https://open.spotify.com/album/4so0PTeYuLdKE7vDdxrsFe) | 3:00 | 2021-10-07 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-297 songs - 15 hr 24 min
+298 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Tacones Rojos \- Tiësto Remix](https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 3:22 | 2022-08-08 | 2023-05-27 |
 | [Tambor](https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Tambor](https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd) | 2:15 | 2023-09-01 |  |
 | [Tambores](https://open.spotify.com/track/513aXTciNa0BQLuIMOnCFD) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F) | [Tambores](https://open.spotify.com/album/0I8TwN5AKnSyEl9kB9yoEW) | 3:29 | 2023-03-03 | 2023-06-17 |
+| [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-16 |  |
 | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/track/4ZIeiVDTTYvbZE4BhehQv5) | [Antonio Sagrero](https://open.spotify.com/artist/5DAKth4Evz4tQcA6Lc1sVv), [Abbsolut](https://open.spotify.com/artist/6kb3XQy1RIqL58U53r46Bf), [Jose Blanco](https://open.spotify.com/artist/7L7ur1XM3DRiorgEQGto9k), [Jeferson Miranda](https://open.spotify.com/artist/4iwxOwHQxgKj6CdEMCz079) | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/album/1NYZLGlVu2gisqlDamXJKK) | 5:01 | 2022-03-22 | 2022-04-29 |
 | [Tequila](https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Lazy Bear](https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9) | [Tequila](https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC) | 2:19 | 2022-03-22 | 2022-04-29 |
 | [The Club](https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW) | 2:26 | 2022-06-06 | 2023-05-27 |

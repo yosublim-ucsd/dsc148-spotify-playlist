@@ -4,10 +4,11 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-149 songs - 7 hr 50 min
+152 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A New Day \(by a Forest Stream\)](https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Forest Sunrise](https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5) | 3:44 | 2024-02-16 |  |
 | [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 | 2022-05-25 | 2023-12-05 |
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-05-25 |  |
 | [Adwarmance \- The Wetlands](https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [The Wetlands](https://open.spotify.com/album/2eBxYJQfDK8XNK4IwQ9uCD) | 3:40 | 2022-05-25 | 2023-06-17 |
@@ -41,6 +42,7 @@
 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 | 2022-05-25 |  |
 | [Daybreak](https://open.spotify.com/track/5SnupCBChxbPv1rbzioIZK) | [Durma](https://open.spotify.com/artist/72SIhdZeLV1y5237YHyZot) | [Daybreak](https://open.spotify.com/album/2woY9tcBKK07rYw96yOTXD) | 3:29 | 2022-05-25 |  |
 | [Days Off](https://open.spotify.com/track/1wy3AxABAmIuF735t91GAM) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 2:39 | 2022-05-25 |  |
+| [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-16 |  |
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-01-16 |  |
 | [Depths of the Andaman](https://open.spotify.com/track/4mAz6ncZQSDOBshABwyPOa) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Depths of the Andaman](https://open.spotify.com/album/4nod12TTbsMj6l4yrEFzkh) | 3:16 | 2022-05-25 |  |
 | [Designer of Dreams](https://open.spotify.com/track/4rzLabiZZiwJghfwPDn6H9) | [Dream Design](https://open.spotify.com/artist/5QoS65KDcb9ygxrwK5d6Bc) | [Designer of Dreams](https://open.spotify.com/album/6JXO48KpeVsnIFwDYx2exI) | 2:54 | 2022-05-25 |  |
@@ -142,6 +144,7 @@
 | [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 | 2022-07-22 |  |
 | [The Bird's World](https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [The Bird's World](https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW) | 3:16 | 2022-05-25 |  |
 | [The Bliss Of Nature](https://open.spotify.com/track/28lD0XCgpWglPM2cuqRTv6) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [The Bliss Of Nature](https://open.spotify.com/album/62xIZlAEHbL6K9x7B1G50A) | 3:26 | 2022-09-02 |  |
+| [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-02-16 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-05-25 |  |
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2022-05-25 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2022-05-25 | 2023-09-09 |

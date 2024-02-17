@@ -2383,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Bubble Bath",
+        "url": "https://open.spotify.com/album/1xuThITWHkINezQf4Xkj2v"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176880,
+      "name": "Bubble Bath",
+      "url": "https://open.spotify.com/track/20YR9nQbpzkgu8unaM5daZ"
+    },
+    {
+      "album": {
         "name": "bubblegum",
         "url": "https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY"
       },
@@ -5390,7 +5408,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188352,
       "name": "evergreen",
       "url": "https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA"
@@ -6466,7 +6484,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 227386,
       "name": "French Class",
       "url": "https://open.spotify.com/track/1bdwgXMkdnVcIIVxLUksnd"
@@ -9138,6 +9156,24 @@
       "duration_ms": 242854,
       "name": "I Let My Plant Die",
       "url": "https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE"
+    },
+    {
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/0FCO6m4ANbPLAt9nbfXAVP"
+      },
+      "artists": [
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/3xRhZ0xgJ4pjXh6XLeSX54"
     },
     {
       "album": {
@@ -16658,6 +16694,24 @@
       "duration_ms": 178000,
       "name": "so simple",
       "url": "https://open.spotify.com/track/5b7MYbOXA9FRKvyElEBaLF"
+    },
+    {
+      "album": {
+        "name": "Soak",
+        "url": "https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164019,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 194752,
+  "2024-02-17": 194787,
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine & Neyna.  ",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Djodje.  ",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 238790,
       "name": "Bela",
       "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 227685,
       "name": "J\u00e1 Deu",
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
@@ -5801,6 +5801,24 @@
     {
       "album": {
         "name": "Super Mulher",
+        "url": "https://open.spotify.com/album/6BUcd3hi6l2lqurfbFYZlC"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "Super Mulher",
+      "url": "https://open.spotify.com/track/4huF3o48HSf9nBBEiroPKu"
+    },
+    {
+      "album": {
+        "name": "Super Mulher",
         "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
       },
       "artists": [
@@ -6033,6 +6051,24 @@
       "duration_ms": 210971,
       "name": "Tempo Sabi",
       "url": "https://open.spotify.com/track/3FqWcsHQVo5aFBVUBJ465y"
+    },
+    {
+      "album": {
+        "name": "Tentason",
+        "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166913,
+      "name": "Tentason",
+      "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
     },
     {
       "album": {

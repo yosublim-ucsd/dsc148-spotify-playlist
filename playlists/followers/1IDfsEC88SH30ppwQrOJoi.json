@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 14594,
+  "2024-02-17": 14595,
   "date_first_scraped": "2023-11-08",
   "description": "High energy, club songs from around the world! Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
   "name": "Ultra Club Hits",
@@ -597,6 +597,32 @@
       "duration_ms": 184761,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/7knm6v9UY1EJ2s5xjSGk7e"
+      },
+      "artists": [
+        {
+          "name": "Goldistic",
+          "url": "https://open.spotify.com/artist/7001FsssrtApPHEqAMg22Y"
+        },
+        {
+          "name": "Zamu",
+          "url": "https://open.spotify.com/artist/6Zvo1qESlk0v2vgUhGtBRf"
+        },
+        {
+          "name": "CyberFox",
+          "url": "https://open.spotify.com/artist/0cjCwMkEJEyqdmYXTa6zBm"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1v5QAFDP7deRYWIwNMuw5l"
     },
     {
       "album": {

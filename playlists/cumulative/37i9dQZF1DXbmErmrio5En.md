@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-385 songs - 17 hr 4 min
+388 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,11 +212,13 @@
 | [like it used to](https://open.spotify.com/track/2YOIz8tWo8JBzkcLvw50qZ) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [like it used to](https://open.spotify.com/album/766jC2izPwFKPRGZqo9q3E) | 2:23 | 2023-08-04 | 2023-09-22 |
 | [loggedbackin](https://open.spotify.com/track/7lcwojBCnyni5eWsTKA5om) | [login](https://open.spotify.com/artist/5JZPSVFMUk4HGDdx68lN77) | [loggedbackin](https://open.spotify.com/album/2P2aPdNmCUdg3MnZxPs9Fn) | 1:59 | 2023-08-16 | 2023-09-16 |
 | [lol.](https://open.spotify.com/track/2b1jwf7qPlVHcXLB8jkOp9) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lol.](https://open.spotify.com/album/4JsRJhklpfdlHCrMEvAEJK) | 2:46 | 2023-04-07 | 2023-09-22 |
+| [lose myself in you](https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [lose myself in you](https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS) | 3:18 | 2024-02-16 |  |
 | [losemymind](https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [losemymind](https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu) | 2:27 | 2023-02-24 | 2023-10-13 |
 | [loser](https://open.spotify.com/track/07FL8cDV9O80vETGlPbTrn) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [for the hell of it](https://open.spotify.com/album/5tuRJA0jYlArO69f7lhCCK) | 1:57 | 2023-12-01 |  |
 | [losin' it](https://open.spotify.com/track/3izUvtPn0LV3ncLaALAjjh) | [forest](https://open.spotify.com/artist/4OekPdF1oZS9OlbCQuwTlz) | [Bloom To Death](https://open.spotify.com/album/6ct86pPO357pAhxA3SrA3x) | 3:24 | 2023-07-28 | 2023-08-09 |
 | [Losin' It](https://open.spotify.com/track/2e8oOYeyZnYDZOOsNOR8mj) | [Frozzy](https://open.spotify.com/artist/4XYJlpSr1IeffnUoLBKYXh) | [Losin' It](https://open.spotify.com/album/6lG8rMM0hzrMdJK1NMq2a0) | 3:21 | 2023-08-04 |  |
 | [love actually](https://open.spotify.com/track/3gAKZ4Oc2u5wXsQVor2ytS) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL), [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [love actually](https://open.spotify.com/album/1fUur5inyyEv2409GWO4SF) | 2:17 | 2023-12-08 |  |
+| [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LUVsick! \(feat\. ThxSoMch\)](https://open.spotify.com/album/1vEvFrtPycQbyVVqKtxUUb) | 2:32 | 2024-02-16 |  |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 | 2023-03-08 |
 | [made me to be](https://open.spotify.com/track/7z9NzImkZmheXOZLrVF7HD) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:53 | 2023-06-23 | 2023-07-15 |
 | [magic](https://open.spotify.com/track/5UV9TNBGn3jOT9zajKF8GI) | [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [mutations // magic](https://open.spotify.com/album/0TOqNHOmPQsAge8xtK3mL3) | 2:07 | 2023-08-04 | 2023-09-22 |
@@ -282,6 +284,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 | 2023-03-08 |
 | [run](https://open.spotify.com/track/4K8xpTfr5k0dwaModQtgH8) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [run](https://open.spotify.com/album/2jcKI96BUu7wwH5N2vqM1K) | 2:15 | 2023-04-28 | 2023-05-20 |
 | [sad robots don't cry](https://open.spotify.com/track/6x2F4nkIWUUMk6srvRY18j) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [sad robots don't cry](https://open.spotify.com/album/4ljBWMt8up9mKlkEcsz2pc) | 2:27 | 2023-06-23 | 2023-08-02 |
+| [save the moment](https://open.spotify.com/track/02i4JamlRdngS1J98lS3Tk) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz), [jauntsen](https://open.spotify.com/artist/1DumLcL0fDrQQwXQQiaBo5) | [save the moment](https://open.spotify.com/album/7hOFTuUAqD388giLszUqpJ) | 3:57 | 2024-02-16 |  |
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 | 2023-04-15 |
 | [SECRETS](https://open.spotify.com/track/2ygzRCfZKc4fySuSzIXsfW) | [cxldface](https://open.spotify.com/artist/1iJd70hmuFd2Xw38LM94hm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [SECRETS](https://open.spotify.com/album/01yVqF6VTPmg6hiVcRDcln) | 2:07 | 2023-05-31 | 2023-08-02 |
 | [Send My Love](https://open.spotify.com/track/19peDv7OzX8XnQx6nAomoM) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Send My Love](https://open.spotify.com/album/3vhMcEy0QNZ0S7uE7yu30K) | 2:33 | 2023-02-24 | 2023-09-22 |

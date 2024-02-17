@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/326321?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,093 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,149 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [PRISM](https://open.spotify.com/track/7wryKXi7wLao15N9xF4nBz) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY) | [PRISM](https://open.spotify.com/album/1Z85WxxpU155AIWOHxTrM5) | 2:59 |
 | 80 | [綺麗](https://open.spotify.com/track/1VEsvrQw1j2hVBcqb13m0Y) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [綺麗](https://open.spotify.com/album/4AMhTOFnpqZVUJ8mesBEUj) | 3:56 |
 
-Snapshot ID: `MCwwNzdjYmYyNjcxMjRmZTU2ZjIzYjRhMGUzZjMyMjBhNTJlZGVhMzM1`
+Snapshot ID: `MCw3YjM2ZjM3YWEzYmY1OTVjMjMzNmNlZDMwZTljNDI1YzAxNTRlZGYx`

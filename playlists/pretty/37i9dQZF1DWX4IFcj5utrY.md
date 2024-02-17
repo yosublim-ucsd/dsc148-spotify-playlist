@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,615 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,646 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 15 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
 | 16 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 |
 | 17 | [The Cure & The Cause \- Atmos Blaq Remix](https://open.spotify.com/track/0ohdPNEvFGQNaMpeAx7VnL) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [The Cure & The Cause \(Atmos Blaq Remix\)](https://open.spotify.com/album/1KCpufTAncrsZE9pPMGafl) | 4:10 |
-| 18 | [Step & Clap](https://open.spotify.com/track/1vXJLNokop0LTWMTzAtrjR) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Bohemian Dusk EP](https://open.spotify.com/album/7nBVn9mZAROFAgKAi2cK5O) | 6:57 |
+| 18 | [Step & Clap](https://open.spotify.com/track/2mqcozGNbNMZ6VpLyARu5H) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 6:57 |
 | 19 | [Rule The World \(Everybody\)](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rule The World \(Everybody\)](https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ) | 2:52 |
 | 20 | [Yes God \- Mörda, Thakzin, Mhaw Keys Remix](https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [KG Smallz](https://open.spotify.com/artist/0AiHL2WtZP5LOxzr28uZjK), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mhaw Keys](https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK), [Dearson](https://open.spotify.com/artist/1Xainl2EtdL0XRLDO0tUSD) | [Yes God \(Mörda, Thakzin, Mhaw Keys Remix\)](https://open.spotify.com/album/1lKbAHZVjunVFeZMEuwFLS) | 7:00 |
 | 21 | [Escape](https://open.spotify.com/track/3f50wWrt5z4Jl6mTNffb9p) | [Maxxteen](https://open.spotify.com/artist/7bfVIpfABU122Nj5tDFnTS), [Nautica](https://open.spotify.com/artist/1o2JBdhhkXydmQlMkr2BGx) | [Escape](https://open.spotify.com/album/5qg7NaOPem8DEfFEMTZmgb) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Life As You Know It](https://open.spotify.com/track/1YSr5YbdrChZR7yzyjRTXn) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [LAYKI EP](https://open.spotify.com/album/4CJn4LY3EgQKL3gwQDNfYI) | 6:14 |
 | 50 | [Hey Sister](https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86) | [Hey Sister](https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W) | 6:23 |
 
-Snapshot ID: `MCxiZGNlYjg1MGUxNDQ3NjUzOWM1MTVjN2JiMGQ0MDU3NDc5N2FhNWVk`
+Snapshot ID: `MCw2YWQ4OGM0Y2E5MjVlNWRhY2ViYmY4YjM2MTFhNjkwODEyY2ZhZDE2`

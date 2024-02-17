@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-134 songs - 12 hr 29 min
+135 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 | 2023-05-02 |  |
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-12-20 |  |
 | [Gorgeous \(Extended Disco Mix\)](https://open.spotify.com/track/587tcic4xEmMXlsZ6qsMwK) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Gorgeous](https://open.spotify.com/album/1YLtfeGp5fuqWTfXncvyt1) | 5:06 | 2022-12-20 |  |
-| [Heaven \- Nicolas Jaar Remix](https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Remix Crusades \(2007\-2013\)](https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A) | 5:17 | 2022-12-20 |  |
+| [Heaven \- Nicolas Jaar Remix](https://open.spotify.com/track/35rmKx3LkkRYNOWkVejZlO) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Remix Crusades](https://open.spotify.com/album/4GKIgPXABhsfzTRoi1f36b) | 5:17 | 2023-11-20 |  |
+| [Heaven \- Nicolas Jaar Remix](https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Remix Crusades \(2007\-2013\)](https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A) | 5:17 | 2022-12-20 | 2024-02-17 |
 | [Hiriza](https://open.spotify.com/track/39RCxlfSmKmGCJ5XzrfMGB) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Omar Hayat](https://open.spotify.com/artist/6CNB6WbUT0xyr4SsORJYUh) | [A Day In Essaouira](https://open.spotify.com/album/2i8W94b7HDbxCc4dD9isYA) | 6:38 | 2023-05-04 |  |
 | [Hope](https://open.spotify.com/track/1BTFbMjnu87NPOmjNjDT4f) | [Guti](https://open.spotify.com/artist/2r5GDEgYazyOCSj5xi67MM) | [Hope EP](https://open.spotify.com/album/6y8QCJsupQ5TN3gjGaA0LQ) | 6:16 | 2022-12-20 |  |
 | [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 | 2022-12-20 | 2023-11-06 |

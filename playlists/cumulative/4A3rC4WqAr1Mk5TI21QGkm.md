@@ -4,7 +4,7 @@
 
 > 
 
-229 songs - 13 hr 14 min
+230 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Doyalike](https://open.spotify.com/track/7tgPcN1pnoT4x2NM83ziHG) | [Lucif3r](https://open.spotify.com/artist/7kHQG1bBlsxX5Xe28FqOMG) | [Doyalike](https://open.spotify.com/album/29fXhbUfpOrnIwkIJs2UrM) | 2:16 | 2022-07-14 |  |
 | [East Coast](https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 4:37 | 2022-04-19 |  |
 | [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 | 2022-05-30 |  |
+| [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 | 2024-02-16 |  |
 | [Evil Zero](https://open.spotify.com/track/1WoY4X6vgdYHv5zJVO0th4) | [Scoped](https://open.spotify.com/artist/3e1LBn6TnaswAdYexRRUlj) | [Evil Zero](https://open.spotify.com/album/2lrdd8Y5C9OQKtQbREstOP) | 1:54 | 2022-03-28 |  |
 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2023-11-08 |  |
 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2023-05-30 |  |

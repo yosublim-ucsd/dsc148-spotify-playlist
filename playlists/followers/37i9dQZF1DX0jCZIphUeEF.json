@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 12810,
+  "2024-02-17": 12838,
   "date_first_scraped": "2022-08-02",
   "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Amine K's track IDs",
@@ -3127,6 +3127,28 @@
     {
       "album": {
         "name": "Work",
+        "url": "https://open.spotify.com/album/0aDkBfUB8gFSgwPHisSCXZ"
+      },
+      "artists": [
+        {
+          "name": "Nhan Solo",
+          "url": "https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU"
+        },
+        {
+          "name": "Dilby",
+          "url": "https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357375,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/4rKh5rBrrqorXtzro6nQ6q"
+    },
+    {
+      "album": {
+        "name": "Work",
         "url": "https://open.spotify.com/album/5twrWSneyeEXOLYmiFeR8N"
       },
       "artists": [
@@ -3141,7 +3163,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 357375,
       "name": "Work - Original Mix",
       "url": "https://open.spotify.com/track/4YmERu15RPaCWUAEBWtpBA"

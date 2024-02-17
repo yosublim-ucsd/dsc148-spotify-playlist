@@ -2,9 +2,9 @@
 
 ### [Pop Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWWmaH4Rc6HPY)
 
-> ¡Y regresaron las guitarras! Siddhartha y Leiva en portada.
+> ¡Y regresaron las guitarras! Jay de la Cueva en portada.
 
-95 songs - 5 hr 1 min
+99 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-10-06 |  |
 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 | 2023-10-06 |  |
 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 | 2023-10-06 |  |
+| [Perdóname](https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Perdóname](https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF) | 3:36 | 2024-02-16 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2023-10-06 |  |
 | [Porcelana](https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Porcelana](https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu) | 3:44 | 2024-01-19 |  |
 | [Preciosa](https://open.spotify.com/track/2S1Dc2AkgxkB7oL83DHQ1g) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Preciosa](https://open.spotify.com/album/3CGHjkOWArelcA3wMqGL8K) | 2:34 | 2023-10-06 |  |
@@ -88,6 +89,7 @@
 | [Sangre](https://open.spotify.com/track/7kCPx2PxgEhgGqnkooHjWJ) | [Klave](https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [Sangre](https://open.spotify.com/album/6G4SKtAQSPClzjEiK2VTDe) | 2:08 | 2023-10-06 |  |
 | [Si No Nos Dejan](https://open.spotify.com/track/0PHBBmzBnMref1AnnPtacI) | [LEZ](https://open.spotify.com/artist/0lRFpCZjD0HuFYJIOND5xh) | [Si No Nos Dejan](https://open.spotify.com/album/2sDUHUNZb8NsHTE30cqxo7) | 4:18 | 2023-10-06 |  |
 | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f) | 3:20 | 2023-10-06 |  |
+| [SI TÚ Y YO FUÉRAMOS NOVIOS](https://open.spotify.com/track/5ugWUmQG1yWRMteLgetjnC) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [SI TÚ Y YO FUÉRAMOS NOVIOS](https://open.spotify.com/album/5bpYVf42BYGE1GJhsh5oB0) | 3:28 | 2024-02-16 |  |
 | [Silencio](https://open.spotify.com/track/7Kx5fBl9Kv8YeyBoUSRMfI) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH) | [Silencio](https://open.spotify.com/album/5iPnFsmW83aqC1wIN1xnzZ) | 5:57 | 2023-10-06 |  |
 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 | 2024-01-19 |  |
 | [SOS](https://open.spotify.com/track/5Qk8KQvhDdLXMEHgoajoQw) | [Ali Abellán](https://open.spotify.com/artist/0a18ktjMgJiky88B6D4ToL), [Pedra](https://open.spotify.com/artist/3ZhkodXDO6GmH3CltQvySr) | [SOS](https://open.spotify.com/album/12MWLXnV3tpOWEfb7tJmFt) | 3:15 | 2023-10-06 |  |
@@ -99,8 +101,10 @@
 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 | 2024-01-19 |  |
 | [Trebol](https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Trebol](https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7) | 2:42 | 2023-10-06 |  |
 | [tu msj </3](https://open.spotify.com/track/497fZBvcAz16YKhoMPYnlP) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [tu msj </3](https://open.spotify.com/album/6sUGlx9tJ3kETwd1FMPuqd) | 2:35 | 2023-10-06 |  |
+| [Tú y yo \(feat\. Anni B Sweet\)](https://open.spotify.com/track/3nP5l62C8gQrjsSlj93Xyv) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw) | [Tú y yo / Los días que no vivimos](https://open.spotify.com/album/10O1J89NyFyaMPY0fArs6P) | 3:42 | 2024-02-16 |  |
 | [Un Parque](https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj) | [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Un Parque](https://open.spotify.com/album/627VLg40KgocbJfDXnQ8U1) | 3:05 | 2023-10-06 |  |
 | [Una Historia Sin Final](https://open.spotify.com/track/3OPy2J3WaJDKmkzAvV7Kbo) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Una Historia Sin Final](https://open.spotify.com/album/00ZYICR61FOAcHsb9hK5l5) | 3:36 | 2023-11-24 |  |
+| [Volví a Nacer](https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Volví a Nacer](https://open.spotify.com/album/3mZM9DPndY7FCsT4navL4s) | 3:47 | 2024-02-16 |  |
 | [YO VISTO ASÍ](https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:11 | 2023-10-06 |  |
 | [Érase Una Vez \(Pero Ya No\)](https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Érase Una Vez \(Pero Ya No\) \[De "EQSB" Soundtrack\]](https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM) | 3:09 | 2023-10-06 |  |
 

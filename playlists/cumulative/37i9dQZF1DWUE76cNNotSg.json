@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 208392,
       "name": "1999",
       "url": "https://open.spotify.com/track/0X5VFFweUxjPgyOqM3edeT"
@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225625,
+      "name": "Crocodile",
+      "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
+    },
+    {
+      "album": {
         "name": "Cruel World (Jim-E Stack Remix)",
         "url": "https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS"
       },
@@ -2111,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "album": {
         "name": "On The Quiet",
         "url": "https://open.spotify.com/album/30SJ2QrjkUMXGrfX0dOGxq"
       },
@@ -2232,6 +2272,24 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE"
+    },
+    {
+      "album": {
+        "name": "FEEL LIKE",
+        "url": "https://open.spotify.com/album/0sC3IlGqlMYCUbSY5XY0oJ"
+      },
+      "artists": [
+        {
+          "name": "happytree",
+          "url": "https://open.spotify.com/artist/5UBfVxzuki4jF6yfZ8Omo2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116275,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/5z2tSkCgcqRj1Zei6F3BTf"
     },
     {
       "album": {
@@ -2450,7 +2508,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 245785,
       "name": "Foolish Man",
       "url": "https://open.spotify.com/track/6n3CPzeJyiypaxOQZAKuxt"
@@ -8428,7 +8486,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 234228,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL"

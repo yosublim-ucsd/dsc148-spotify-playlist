@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,366 songs - 2 day 12 hr 0 min
+1,367 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,8 @@
 | [HIT](https://open.spotify.com/track/6cxsZBG6pyWdwFvsuvRLcN) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [HIT](https://open.spotify.com/album/5H1qCWg1kaLodR8GAPlhkr) | 2:29 | 2022-07-14 | 2022-09-23 |
 | [Hitta Hem](https://open.spotify.com/track/577AWkjiOVpmf2Ir2UemJT) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Hitta Hem](https://open.spotify.com/album/7A2aIyc3nbnn1JoMCDiinS) | 2:24 | 2024-01-04 |  |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-10-19 |  |
-| [Hjärta Till Is](https://open.spotify.com/track/1WzTOTQCJvZJfZhf4cAa6u) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/1U6RDxP0HsRlgXN9YErYp1) | 2:57 | 2024-02-13 |  |
+| [Hjärta Till Is](https://open.spotify.com/track/1WzTOTQCJvZJfZhf4cAa6u) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/1U6RDxP0HsRlgXN9YErYp1) | 2:57 | 2024-02-13 | 2024-02-17 |
+| [Hjärta Till Is](https://open.spotify.com/track/6dJ2Cv1IiReRjDq33X32H3) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:57 | 2024-02-15 |  |
 | [Hold Me Down](https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Hold Me Down](https://open.spotify.com/album/0XqSpgSZzeCS9PwW7qWwV5) | 2:28 | 2022-12-15 | 2023-03-04 |
 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 | 2023-12-14 |  |
 | [Homicide](https://open.spotify.com/track/1Vnuzbfuj8WCwK5QWEBKZD) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [Homicide](https://open.spotify.com/album/2XIuHPp2PdrbKjD6COSolz) | 2:48 | 2023-05-25 | 2023-06-09 |

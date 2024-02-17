@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 161310,
+  "2024-02-17": 161327,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Sigourney K",
+  "description": "De nieuwste Nederlandse pop! Cover: BENR",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -25,6 +25,24 @@
       "duration_ms": 171496,
       "name": "1 Laatste Keer",
       "url": "https://open.spotify.com/track/5dRfb6MQJmJyO6jsstRekk"
+    },
+    {
+      "album": {
+        "name": "1 Minuut",
+        "url": "https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "1 Minuut",
+      "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
     },
     {
       "album": {
@@ -119,7 +137,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154000,
       "name": "2 Glazen Wijn",
       "url": "https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 144109,
       "name": "Adem In",
       "url": "https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 126062,
       "name": "Birkin",
       "url": "https://open.spotify.com/track/3290xz17jucVOEtGhgEHyi"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158476,
       "name": "Cheffen",
       "url": "https://open.spotify.com/track/1raZ0KuZsWD6YVjkbBdBh9"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 143437,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 217983,
       "name": "Dat Heb Jij Gedaan",
       "url": "https://open.spotify.com/track/2oQBdzjJXIcO2t2kYbwmVc"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211998,
       "name": "De Tijd Gaat Mooie Dingen Doen",
       "url": "https://open.spotify.com/track/3uMtq20Rh0Bb2rodXPNhzQ"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 173425,
       "name": "Een Beetje Meer",
       "url": "https://open.spotify.com/track/77UIVVbNb6GW3h0gwwiUeK"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193600,
       "name": "Eigen Schuld",
       "url": "https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK"
@@ -3018,6 +3036,24 @@
     },
     {
       "album": {
+        "name": "Friemelen",
+        "url": "https://open.spotify.com/album/2lFmg47ABA7R8D8Q2iXkMo"
+      },
+      "artists": [
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108489,
+      "name": "Friemelen",
+      "url": "https://open.spotify.com/track/2dkw6pe4LbTcJCxlxfsXvW"
+    },
+    {
+      "album": {
         "name": "Gebruiksaanwijzing",
         "url": "https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP"
       },
@@ -3047,7 +3083,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 140476,
       "name": "Geef Die Pizza",
       "url": "https://open.spotify.com/track/2PdCgMQFFylXFSil7233VL"
@@ -4343,7 +4379,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 149700,
       "name": "In Het Licht",
       "url": "https://open.spotify.com/track/1OhdiixXL81GSl6G5SLgf2"
@@ -4700,6 +4736,24 @@
     },
     {
       "album": {
+        "name": "Kompas",
+        "url": "https://open.spotify.com/album/7hICsdZV6OfJa32dQdcBDS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188615,
+      "name": "Kompas",
+      "url": "https://open.spotify.com/track/00B3jzuH5ezYsmBKwcps1Z"
+    },
+    {
+      "album": {
         "name": "Koning Liefde",
         "url": "https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ"
       },
@@ -4733,6 +4787,24 @@
       "duration_ms": 132500,
       "name": "Kop In The Sand",
       "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
+    },
+    {
+      "album": {
+        "name": "KROKODILLENTRANEN",
+        "url": "https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh"
+      },
+      "artists": [
+        {
+          "name": "Gianski",
+          "url": "https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "KROKODILLENTRANEN",
+      "url": "https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq"
     },
     {
       "album": {
@@ -4985,7 +5057,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154538,
       "name": "Lege Dansvloer",
       "url": "https://open.spotify.com/track/5dqs0pwFjsXJzg5aWKDDD8"
@@ -5065,6 +5137,24 @@
       "duration_ms": 215804,
       "name": "Leuk Zolang Het Duurt",
       "url": "https://open.spotify.com/track/3fCW3J2VNOqUVSGtpSVxun"
+    },
+    {
+      "album": {
+        "name": "Leuker Als Je High Bent",
+        "url": "https://open.spotify.com/album/5IauvUhxaKVAcwfISQ2I2S"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170938,
+      "name": "Leuker Als Je High Bent",
+      "url": "https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7"
     },
     {
       "album": {
@@ -5217,7 +5307,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 201031,
       "name": "Maken of Breken",
       "url": "https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ"
@@ -5253,7 +5343,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 218250,
       "name": "Mama Kijk Ik Kan Het Zelf",
       "url": "https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9"
@@ -5645,7 +5735,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 174690,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB"
@@ -5939,7 +6029,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193150,
       "name": "niet mijn taak.",
       "url": "https://open.spotify.com/track/6OhPXfXm7AdHl0BfK1T1j2"
@@ -6051,7 +6141,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 175397,
       "name": "Nooit Alleen (Dit Is Wat Mijn Mama Zei) - Radio Edit",
       "url": "https://open.spotify.com/track/42TrRURvbB6SD5fjSR71PB"
@@ -6699,7 +6789,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 202339,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/3n3Y9thrEHlvXBWKEbU27n"
@@ -6905,7 +6995,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 233051,
       "name": "September",
       "url": "https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh"
@@ -7183,7 +7273,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 160800,
       "name": "Stel Dat",
       "url": "https://open.spotify.com/track/2Yyv8SThjKpwURXlw2wO1G"
@@ -7375,7 +7465,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193531,
       "name": "Stoel In De Hemel",
       "url": "https://open.spotify.com/track/6rJNM9Ep8bENSG3vkr2mst"
@@ -8470,6 +8560,24 @@
     },
     {
       "album": {
+        "name": "Warme Herinneringen",
+        "url": "https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "Warme Herinneringen",
+      "url": "https://open.spotify.com/track/2zzI148jQvqo4zm2m3h2X7"
+    },
+    {
+      "album": {
         "name": "Wat Als De Storm Komt",
         "url": "https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q"
       },
@@ -8673,7 +8781,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171932,
       "name": "Waterdicht",
       "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"

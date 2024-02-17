@@ -2,7 +2,7 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> Country hits that will have you singing every word\. Cover: Luke Combs
+> Country hits that will have you singing every word\. Cover: Chris Stapleton
 
 295 songs - 16 hr 0 min
 

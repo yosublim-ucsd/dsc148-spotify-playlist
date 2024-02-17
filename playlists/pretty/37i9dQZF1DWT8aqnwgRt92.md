@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,420,040 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,420,618 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 78 | [果てのない旅](https://open.spotify.com/track/558Rz2INvrgzVBEBdUFLZk) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [果てのない旅](https://open.spotify.com/album/4HaR7cxuaOgD7hnst95Wgw) | 2:41 |
 | 79 | [Green jade](https://open.spotify.com/track/3cGLkrUEaEWIMCNVMpCtt2) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [Green jade](https://open.spotify.com/album/6UIQ9fd4GiywsQ0Tg9MOvB) | 3:39 |
 | 80 | [遊歩](https://open.spotify.com/track/642mV6IqqtzGZ2SmIv5Jtt) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [遊歩](https://open.spotify.com/album/5cC2wqULeAw93vRHUh5mtk) | 3:09 |
-| 81 | [退屈ESCAPE](https://open.spotify.com/track/0RCmHdQwnpvwTIUWkaNm8D) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [退屈ESCAPE](https://open.spotify.com/album/0rYRwWeV1vfYVcXwgx63Wj) | 4:07 |
+| 81 | [Taikutsu Escape](https://open.spotify.com/track/7kwj5TKesYwBUdkRQl5zO0) | [出雲天花\(CV:内田真礼\)](https://open.spotify.com/artist/40t7MWYZLou0Eeg0AV0Yea) | [Taikutsu Escape](https://open.spotify.com/album/4TkmEa7eX7INv4foLN9m9t) | 4:07 |
 | 82 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 83 | [ストレイト](https://open.spotify.com/track/46Qfr2EcTsB0H7I1h2XLoc) | [syh](https://open.spotify.com/artist/3bKQgwripMGjcjH3hTjRkW) | [ストレイト](https://open.spotify.com/album/5FigjD6aBPtmy4pHivXAdk) | 2:16 |
 | 84 | [ステゴロ](https://open.spotify.com/track/4WRPyGX4Ihz78H0Vg3hH98) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ステゴロ](https://open.spotify.com/album/5lf1lZAzjWi5X1VeU5poUt) | 2:41 |
 | 85 | [Muchauman no Theme](https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [Muchauman no Theme](https://open.spotify.com/album/4JT0mrCRYo1tE1pUNsqIQe) | 0:34 |
 
-Snapshot ID: `MCxlM2E4MGViZTUyYjY4ZjIzNjZjNTUxYmIwMTgyM2QwMTAyMDQzOGIx`
+Snapshot ID: `MCw4YTVkOWJlNTVjZWIzZDNmNWMzNjFkYWQ1MDc3NjdiNjNiMzEyOTEy`

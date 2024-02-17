@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,583 songs - 10 day 9 hr 32 min
+6,584 songs - 10 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2483,7 +2483,7 @@
 | [Herbstlich](https://open.spotify.com/track/0pN2sz6wJ4kjRlhqImZleX) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Herbstlich](https://open.spotify.com/album/4n4vKBDi58fD9lDpl7ATqs) | 1:58 | 2023-10-06 | 2024-01-12 |
 | [Here it comes](https://open.spotify.com/track/1i9IEMxZMBYrogefdaPKr6) | [vort vort](https://open.spotify.com/artist/46mWoMwui62bv2s52HiSO8) | [Here it comes](https://open.spotify.com/album/43GsetiksIOLISslp1OvBh) | 1:42 | 2022-10-28 |  |
 | [Herewego](https://open.spotify.com/track/2j6oIWdY822loY4xJ8Gs55) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/3WGY5BhjFW0DkTnLszBHP0) | 2:16 | 2019-07-13 | 2020-01-04 |
-| [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 | 2024-02-16 |  |
+| [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 | 2024-02-16 | 2024-02-17 |
 | [Hey Chuck](https://open.spotify.com/track/1ZjyCYFu9OtCY54IQr6eqh) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Hey Chuck](https://open.spotify.com/album/0MZcUZFDi9vST595VC1YaB) | 1:57 | 2021-01-19 | 2022-01-14 |
 | [Hey Now](https://open.spotify.com/track/6SPgOxBRjbliqObVYwO6qs) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Hey Now](https://open.spotify.com/album/04IPVzmlgi07XK6XtaXETb) | 2:05 | 2022-11-25 | 2023-01-20 |
 | [Hibernatin'](https://open.spotify.com/track/5OVaUtrMhYUAN6KC5YED0M) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Hibernatin'](https://open.spotify.com/album/5A9EtkpNRrhLj0x7L0dnbw) | 2:00 | 2023-01-20 | 2023-03-25 |
@@ -4005,6 +4005,7 @@
 | [Noozy](https://open.spotify.com/track/5QKMn9YhcBQQcgvVznQ9dG) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Noozy](https://open.spotify.com/album/2wOKoGU489kREuaYsf5UWq) | 2:40 | 2023-09-29 |  |
 | [Nord Wav.](https://open.spotify.com/track/3RWJXGq6eDKlvaSGeh8KA6) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Nord Wav.](https://open.spotify.com/album/5DXvX66DplfBovPB6KFtmK) | 2:30 | 2023-01-06 | 2023-10-27 |
 | [Normal Day](https://open.spotify.com/track/5nntPu5WRXxckE0CnWU5gF) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Normal Day](https://open.spotify.com/album/1NWjOAZg42WIxuanNbRvUF) | 2:16 | 2022-07-08 | 2022-10-21 |
+| [North Shore Roadtrip](https://open.spotify.com/track/1XBiRNZvpa4L55OgyQDPkR) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [North Shore Roadtrip](https://open.spotify.com/album/5VvJJ5Ya3LFhWBbGnRcltM) | 1:54 | 2024-02-16 |  |
 | [North Wing](https://open.spotify.com/track/0epWzoHL7bQh4ER3OWwrEe) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [North Wing](https://open.spotify.com/album/3DSMJrhxMK1iPHOAxfyFwk) | 2:34 | 2020-02-10 | 2021-08-28 |
 | [Northern Lights](https://open.spotify.com/track/5ie0eCg6MnIAXVyqg8VGGy) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Northern Lights](https://open.spotify.com/album/7fuQgnBnwhQOPUjkJtWUCX) | 2:00 | 2022-08-19 | 2022-11-25 |
 | [Nos Usamos](https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nos Usamos](https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND) | 4:29 | 2021-01-16 | 2022-03-21 |
@@ -5724,7 +5725,7 @@
 | [The Conqueror](https://open.spotify.com/track/73GEWgVKErUlQV4tkOa9zS) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Wild Waters](https://open.spotify.com/album/4HdTzFhYyU2Kh3JMvtV7jA) | 2:32 | 2022-11-18 | 2022-11-25 |
 | [The Daily Grind](https://open.spotify.com/track/0nwIq9DvzxXgVP8ZpH2vxw) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [The Daily Grind](https://open.spotify.com/album/4klkzzBAkPZ3HetJv78Kc2) | 1:38 | 2022-07-15 | 2022-11-11 |
 | [the dark side](https://open.spotify.com/track/7ymG0YQtuSiSVJSBQ3E8jy) | [mooncycles](https://open.spotify.com/artist/1GHcBsNa2yLrpyqIwbt869) | [eclipse](https://open.spotify.com/album/6dIE7p3E7WVxmecbH4cYrA) | 2:00 | 2021-01-25 | 2022-03-12 |
-| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
+| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
 | [The DM](https://open.spotify.com/track/4pWvIpbjPTZBmHYyqLH1XF) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [The DM](https://open.spotify.com/album/2by905nR6qUYTeNauAHxFl) | 3:34 | 2021-08-15 | 2022-03-11 |
 | [The Dream](https://open.spotify.com/track/5p5vO6dL6FTTMcVG0wg5eq) | [8een](https://open.spotify.com/artist/5w2ieLY23rQE5oyxL2w4De) | [Afterlife](https://open.spotify.com/album/3blJDBkDrhssHFiEYy9ya7) | 2:57 | 2021-08-29 | 2022-04-08 |
 | [The Dream](https://open.spotify.com/track/1C4bLgUJIKJroNvSU0hz1R) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/7rsBjk8VfQyU2OHtxlB0eu) | 2:38 | 2019-05-26\* | 2019-11-08 |

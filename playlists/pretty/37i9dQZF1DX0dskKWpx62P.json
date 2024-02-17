@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 41294,
+  "num_followers": 41322,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzg0ZDc5ZGNlZjVkMzJlMmI5Y2FkMDBiODQ2ODA5NTA1YmVjNDBh",
+  "snapshot_id": "MCxlNmU4NmRkNzAyNDY4NjJiYmYxMjc2OWIwODUwNDgxZGFjMGEyMjg4",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Macho",
-        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
+        "name": "Papito Por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
       },
       "artists": [
         {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Huaylash Macho",
-      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
+      "duration_ms": 274506,
+      "name": "Cerveza, Cerveza",
+      "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -383,50 +383,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Papito Por Qu\u00e9 Me Dejaste..!",
-        "url": "https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc"
+        "name": "Huaylash Macho",
+        "url": "https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz"
       },
       "artists": [
         {
-          "name": "Wendy Sulca",
-          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
         }
       ],
-      "duration_ms": 274506,
-      "name": "Cerveza, Cerveza",
-      "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Challwaschallay",
-      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
-      },
-      "artists": [
-        {
-          "name": "Max Castro",
-          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
-        }
-      ],
-      "duration_ms": 361573,
-      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
-      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+      "duration_ms": 219653,
+      "name": "Huaylash Macho",
+      "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -447,6 +415,38 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+      },
+      "artists": [
+        {
+          "name": "Max Castro",
+          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+        }
+      ],
+      "duration_ms": 361573,
+      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
+      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Challwaschallay",
+      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Los Errantes",
         "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 192973,
       "name": "Chuquibambinita",
       "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Wistu Vida",
-        "url": "https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU"
-      },
-      "artists": [
-        {
-          "name": "Duo Retama",
-          "url": "https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75"
-        }
-      ],
-      "duration_ms": 388813,
-      "name": "Flor de Retama",
-      "url": "https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -495,18 +479,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Pio Pio",
-        "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
+        "name": "Wistu Vida",
+        "url": "https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU"
       },
       "artists": [
         {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+          "name": "Duo Retama",
+          "url": "https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75"
         }
       ],
-      "duration_ms": 219653,
-      "name": "El Pio, Pio",
-      "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+      "duration_ms": 388813,
+      "name": "Flor de Retama",
+      "url": "https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Huaylash Pio Pio",
+        "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "El Pio, Pio",
+      "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Mi Linda Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 171866,
       "name": "Profesorita",
       "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Mi Linda Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
         }
       ],
-      "duration_ms": 340584,
-      "name": "La Cornuda",
-      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
+      "duration_ms": 382876,
+      "name": "Soy Provinciano",
+      "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks"
         }
       ],
-      "duration_ms": 382876,
-      "name": "Soy Provinciano",
-      "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
+      "duration_ms": 340584,
+      "name": "La Cornuda",
+      "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Mensajes Andinos",
         "url": "https://open.spotify.com/album/4DBGVbYysli4Ir4J1cjvXI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 220053,
       "name": "Siwarquinticha",
       "url": "https://open.spotify.com/track/5AXFzmnW21Atxa2zM92VsA"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Carrito del Gobierno",
+      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
     },
     {
       "added_at": "2022-02-04 14:45:56",

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Grae
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Levin
 
-622 songs - 1 day 9 hr 4 min
+625 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-01-26 |  |
 | [Clean Cut](https://open.spotify.com/track/2M6MKfoKhOgIvkrg9NLbNT) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Clean Cut](https://open.spotify.com/album/0M2aQZBpqbnfi2M48AJpq1) | 3:11 | 2023-01-20 | 2023-02-25 |
 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-11-10 |  |
+| [clocks](https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt) | [Alayna Grace](https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1) | [clocks](https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60) | 3:10 | 2024-02-16 |  |
 | [Clockwork](https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Clockwork](https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF) | 2:42 | 2023-03-31 | 2023-08-19 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-09-29 |  |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-09-01 | 2023-10-06 |
@@ -274,7 +275,7 @@
 | [I Don't Care](https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD) | 3:03 | 2023-02-03 | 2023-02-25 |
 | [I Don't Do Anything](https://open.spotify.com/track/5sEw7zJzxgMzmLqE3Ov4XT) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 3:09 | 2023-04-28 | 2023-05-06 |
 | [I Don't Sing My Songs](https://open.spotify.com/track/6shIbEKPwnukg40ZQKGcBP) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 3:45 | 2023-04-28 | 2023-08-12 |
-| [I Don’t Know](https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 2](https://open.spotify.com/album/1709msvR4Y09McKNriJjfG) | 3:08 | 2023-11-10 |  |
+| [I Don’t Know](https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 2](https://open.spotify.com/album/1709msvR4Y09McKNriJjfG) | 3:08 | 2023-11-10 | 2024-02-17 |
 | [I Don’t Need To](https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Situationships](https://open.spotify.com/album/7uBpnSHqqg4IEveWTBcbHL) | 3:04 | 2023-03-31 | 2023-08-19 |
 | [I Get What I Want](https://open.spotify.com/track/0pkmyS5YR3IkGwOCBfXsfi) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [I Get What I Want](https://open.spotify.com/album/6ykoHY56yECTvi6bxyzhdU) | 3:27 | 2023-02-24 | 2023-07-22 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-01-14 | 2022-09-10 |
@@ -292,6 +293,7 @@
 | [I Wanna Love Me](https://open.spotify.com/track/51TKMs2c7yIXWPxakttfUQ) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [this is my love life](https://open.spotify.com/album/5ytlpIs7TWZrclE8WQDDiK) | 2:46 | 2023-06-16 | 2023-12-30 |
 | [I Want You](https://open.spotify.com/track/1q32AhBbgDPdBr5VyCRHq6) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [What Was, Not Now](https://open.spotify.com/album/0izGGxTiCAzk9Sgu8loZTe) | 3:30 | 2022-01-14 | 2022-07-02 |
 | [I'm Good](https://open.spotify.com/track/0d0lVRztdBmdkL04WORCPP) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [how to get through a breakup](https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX) | 3:20 | 2022-10-14 | 2022-12-24 |
+| [I'm Here](https://open.spotify.com/track/28KyfWtoqhvAJ7tKXOxdlx) | [Rachel Levin](https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH) | [I'm Here](https://open.spotify.com/album/1lDD4tijRLgtRoZbp0F8jr) | 2:20 | 2024-02-16 |  |
 | [I'm in a Rut](https://open.spotify.com/track/0W5JUrUOQmQbTmUOQwk7vx) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [I'm in a Rut](https://open.spotify.com/album/2JQiACEDZjhS8MmaCgqo6n) | 2:58 | 2022-04-15 | 2022-09-03 |
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-02 | 2023-03-04 |
 | [I'm not there yet](https://open.spotify.com/track/5wPkADSHUuNOwVQ21QOlZs) | [MALINDA](https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU) | [I'm not there yet](https://open.spotify.com/album/01cipgct2Fs6B4erVHVbB6) | 3:40 | 2022-10-14 | 2022-12-24 |
@@ -529,6 +531,7 @@
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-14 | 2022-03-18 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/3tAQPcaksoaVhCEMoPxZEJ) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/album/1WAwuDACzHQWEef9ULmE4C) | 2:34 | 2022-01-14 | 2022-02-19 |
 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 | 2022-08-12 | 2022-11-12 |
+| [Sunlight](https://open.spotify.com/track/710qfjtXZ5epd7pl9KdpTY) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT) | [Sunlight](https://open.spotify.com/album/7LGzfSHsRiIXq2M47vwWZg) | 3:09 | 2024-02-16 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-08-06 |
 | [Super Glue](https://open.spotify.com/track/3lqCa64sI3KAbXNBNweNuf) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Super Glue](https://open.spotify.com/album/2uFLfUj0fJMwV0ZCWGiFGv) | 2:21 | 2022-01-14 | 2022-02-12 |
 | [Surprise](https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Surprise](https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93) | 3:27 | 2023-02-10 | 2023-09-02 |
@@ -598,7 +601,7 @@
 | [What Did I Do?](https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [What Did I Do?](https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I) | 3:35 | 2022-01-14 | 2022-09-10 |
 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 | 2022-09-09 | 2022-12-24 |
 | [What If I Still Miss You?](https://open.spotify.com/track/34h9Wr114K0EjlFsjITrMW) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [What If I Still Miss You?](https://open.spotify.com/album/2UPFK2Xdq6ZyDUVLj3aEc5) | 3:20 | 2023-02-24 | 2023-03-25 |
-| [What You'll Never Say](https://open.spotify.com/track/6kvEvPFpC7v5aJeA6FREpR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Autumn Leaves](https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR) | 3:40 | 2023-11-10 |  |
+| [What You'll Never Say](https://open.spotify.com/track/6kvEvPFpC7v5aJeA6FREpR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Autumn Leaves](https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR) | 3:40 | 2023-11-10 | 2024-02-17 |
 | [what's the matter with you](https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [what's the matter with you](https://open.spotify.com/album/30rzHPzFWkagAe2AiPKOBY) | 3:16 | 2022-10-14 | 2023-02-04 |
 | [When All The Love Is Gone](https://open.spotify.com/track/5dfPvmSrPuhS8j7SKwCOC3) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [When All The Love Is Gone](https://open.spotify.com/album/50tEgzs9IIHisH2Rd7gKhK) | 2:49 | 2022-12-02 | 2023-02-04 |
 | [When It Ends](https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [When It Ends](https://open.spotify.com/album/1omEOMchSWNS0JW7jcLWAU) | 3:49 | 2022-01-14 | 2022-06-25 |
@@ -620,7 +623,7 @@
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-01-14 | 2022-10-01 |
 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 | 2023-08-11 | 2023-12-14 |
 | [You Are](https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock](https://open.spotify.com/album/0umWCbaDIHnRU7Q989s0nd) | 3:39 | 2023-12-01 | 2024-02-06 |
-| [You Are](https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:39 | 2024-02-02 |  |
+| [You Are](https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:39 | 2024-02-02 | 2024-02-17 |
 | [You Just Didn't Like Me That Much](https://open.spotify.com/track/08uFpUUmJVfmF2tdUBejfg) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [You Just Didn't Like Me That Much](https://open.spotify.com/album/4nkYKsTD0UIctyKKAvLwgp) | 2:36 | 2022-10-28 | 2022-12-24 |
 | [You Look Like You Can't Swim](https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [You Look Like You Can't Swim](https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n) | 2:48 | 2023-07-14 | 2023-12-14 |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-22 | 2022-08-13 |

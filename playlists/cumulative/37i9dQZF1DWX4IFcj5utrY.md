@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-983 songs - 3 day 17 hr 18 min
+984 songs - 3 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,7 +780,8 @@
 | [Stars](https://open.spotify.com/track/4UX07P3m9B78LvAyzNKxk4) | [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Nobuhle](https://open.spotify.com/artist/4PmzNF4U54l7yVubziJ10U) | [Stars](https://open.spotify.com/album/19nRvSIzgMPFSJf6UzX6Q5) | 6:14 | 2022-07-21 | 2022-11-01 |
 | [Stay](https://open.spotify.com/track/4ap850TGe0elGsFLwhZ5M7) | [Casis](https://open.spotify.com/artist/4jQIsGDULZsAonE9ZTQgj1), [Courtney Jade](https://open.spotify.com/artist/16jlPDke7rbiAt4L0ewBg5) | [Stay](https://open.spotify.com/album/4hB8AtFy63sIqRGgl206qk) | 4:39 | 2022-04-22 | 2022-04-29 |
 | [Steeldrum](https://open.spotify.com/track/1j27kaooLZUv8F6bHoL4gZ) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Steeldrum](https://open.spotify.com/album/4y2BAR2Brc4rrVHgF1bCcQ) | 8:48 | 2021-11-11 | 2022-01-07 |
-| [Step & Clap](https://open.spotify.com/track/1vXJLNokop0LTWMTzAtrjR) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Bohemian Dusk EP](https://open.spotify.com/album/7nBVn9mZAROFAgKAi2cK5O) | 6:57 | 2024-02-15 |  |
+| [Step & Clap](https://open.spotify.com/track/1vXJLNokop0LTWMTzAtrjR) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Bohemian Dusk EP](https://open.spotify.com/album/7nBVn9mZAROFAgKAi2cK5O) | 6:57 | 2024-02-15 | 2024-02-17 |
+| [Step & Clap](https://open.spotify.com/track/2mqcozGNbNMZ6VpLyARu5H) | [Dj Vitoto](https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 6:57 | 2024-02-15 |  |
 | [Stingy](https://open.spotify.com/track/5jVDjYaYHP0silwrtOM0Rh) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Road Trip](https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58) | 5:22 | 2022-06-30 | 2022-08-26 |
 | [Stomp Your Feet](https://open.spotify.com/track/1GBXxdxLD1wmjvXC716sZ7) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [TorQue MuziQ](https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK) | [Stomp Your Feet](https://open.spotify.com/album/7pAvUrQXAxW1RD0WME0n0c) | 3:30 | 2022-07-28 | 2022-09-02 |
 | [Strange Pattens](https://open.spotify.com/track/2WPTYHFM48KQFGMJVSwUGS) | [Hypesoul](https://open.spotify.com/artist/4jyzeXKboAkzAeKgUSHrZu) | [Yin Yang Africa](https://open.spotify.com/album/6nnTxW3tz27e9SLrg5qKXM) | 5:36 | 2022-12-31 | 2023-01-20 |

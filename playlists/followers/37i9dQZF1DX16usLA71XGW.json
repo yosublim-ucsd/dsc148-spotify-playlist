@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 5091,
+  "2024-02-17": 5103,
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Liboi",
+  "description": "East Africa queens in their music bag. Cover: NJERI",
   "name": "Malkia",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 199655,
       "name": "Bayi",
       "url": "https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR"
@@ -201,10 +201,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 224857,
       "name": "Colours",
       "url": "https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh"
+    },
+    {
+      "album": {
+        "name": "Consistency",
+        "url": "https://open.spotify.com/album/2ECQyI2DuXhoTyF3EoCWNN"
+      },
+      "artists": [
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Consistency",
+      "url": "https://open.spotify.com/track/5JHlLFvkzyPW6dnmFANKM6"
     },
     {
       "album": {
@@ -1410,6 +1428,32 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm"
+      },
+      "artists": [
+        {
+          "name": "NJERI",
+          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
+        },
+        {
+          "name": "Decster",
+          "url": "https://open.spotify.com/artist/05TcgZxV0IVzDs2KpLNif5"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6VGzZ2vC7zeR73nkoYvOKf"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf"
+    },
+    {
+      "album": {
         "name": "Pen & Paper",
         "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
       },
@@ -2085,10 +2129,28 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 184826,
       "name": "Want It All",
       "url": "https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M"
+    },
+    {
+      "album": {
+        "name": "Wawili",
+        "url": "https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190689,
+      "name": "Wawili",
+      "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
     },
     {
       "album": {

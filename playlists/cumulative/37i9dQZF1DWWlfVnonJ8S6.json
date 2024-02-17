@@ -438,6 +438,32 @@
     {
       "album": {
         "name": "Bulleya (Lofi Flip)",
+        "url": "https://open.spotify.com/album/2M40B1pCJuUtvaZjZwpwjh"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158412,
+      "name": "Bulleya - Lofi Flip",
+      "url": "https://open.spotify.com/track/4F26LTirAGihs1JHE9eq3U"
+    },
+    {
+      "album": {
+        "name": "Bulleya (Lofi Flip)",
         "url": "https://open.spotify.com/album/1hFnubioESvCLAnGhKGv7S"
       },
       "artists": [

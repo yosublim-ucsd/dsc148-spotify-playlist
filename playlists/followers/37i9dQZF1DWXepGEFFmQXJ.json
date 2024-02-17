@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 378531,
+  "2024-02-17": 378632,
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Kacey Musgraves",
+  "description": "The cream of today's Country crop. Cover: Chayce Beckham",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -363,7 +363,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 190468,
       "name": "Ain't That The Way",
       "url": "https://open.spotify.com/track/5IF3W8ogC5kVT0N5wi7J5i"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185110,
       "name": "Ain't The One",
       "url": "https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ"
@@ -1892,6 +1892,24 @@
     },
     {
       "album": {
+        "name": "Country's Cool Again",
+        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Country's Cool Again",
+      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+    },
+    {
+      "album": {
         "name": "Dirty Laundry",
         "url": "https://open.spotify.com/album/0XynqriTSlKemlhDUu28jd"
       },
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 191250,
       "name": "Dress",
       "url": "https://open.spotify.com/track/4GRvesPS6gPU8AV2RUgECk"
@@ -3527,6 +3545,24 @@
       "duration_ms": 194199,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/3dxV4eUBtvui9zXQVJvQna"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Poison (Deluxe)",
+        "url": "https://open.spotify.com/album/7xY5v6aZvo4YZBOZSJbrDa"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "Happy Hurts",
+      "url": "https://open.spotify.com/track/79odnhnVWU9uEE3XAQhTo3"
     },
     {
       "album": {
@@ -5402,6 +5438,24 @@
     },
     {
       "album": {
+        "name": "Matching Tattoos",
+        "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180181,
+      "name": "Matching Tattoos",
+      "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
+    },
+    {
+      "album": {
         "name": "Maybe So",
         "url": "https://open.spotify.com/album/2g8yKSxKrrzekwUWSzeH2U"
       },
@@ -6105,7 +6159,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 190314,
       "name": "On One Hand",
       "url": "https://open.spotify.com/track/0HsgQEjBv4P0cwx8VsIC8b"
@@ -6997,7 +7051,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
@@ -7931,6 +7985,28 @@
       "duration_ms": 180123,
       "name": "Startin' Something",
       "url": "https://open.spotify.com/track/5ncsghcdHl3odHvkIl8y3P"
+    },
+    {
+      "album": {
+        "name": "Stay in Your Lane",
+        "url": "https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z"
+      },
+      "artists": [
+        {
+          "name": "Bronson Diamond",
+          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209417,
+      "name": "Stay in Your Lane",
+      "url": "https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid"
     },
     {
       "album": {
@@ -9880,6 +9956,24 @@
     },
     {
       "album": {
+        "name": "Wish You Would",
+        "url": "https://open.spotify.com/album/4OfR09T3NTuBIQDflZrvzP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186417,
+      "name": "Wish You Would",
+      "url": "https://open.spotify.com/track/4BEZbKzHuYdT7zM6zCesSG"
+    },
+    {
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -10129,7 +10223,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 239936,
       "name": "Young, Dumb & Wild",
       "url": "https://open.spotify.com/track/6LgGes1HTttobYY4ic74kN"

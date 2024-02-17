@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 233116,
       "name": "2 MINUTES // SMOG CITY",
       "url": "https://open.spotify.com/track/2nm8qZvJwIsudW5eKS6pUB"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186598,
       "name": "Andaaz-E-Karam",
       "url": "https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 154733,
       "name": "Miracle feat. Nimra Gilani",
       "url": "https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Turbo (Deluxe)",
+        "url": "https://open.spotify.com/album/5AqK0sYFr4bVWAtVKTmXcz"
+      },
+      "artists": [
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Tarka",
+      "url": "https://open.spotify.com/track/10tUxnculTXzMGFAcj3ZNr"
+    },
+    {
+      "album": {
         "name": "Maybe, It's Love",
         "url": "https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 147428,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap"

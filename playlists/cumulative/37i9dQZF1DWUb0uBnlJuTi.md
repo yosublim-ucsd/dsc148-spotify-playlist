@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-381 songs - 1 day 5 hr 18 min
+382 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Souly](https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa), [Adrian Bauer](https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Funky Times](https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX) | 3:32 | 2021-06-25 |  |
 | [SP's Galaxy](https://open.spotify.com/track/5cgtYVTPaQgJPWCo1pOj7P) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SP's Galaxy](https://open.spotify.com/album/4N3b8w28hUX5cxYL9rVgVG) | 2:45 | 2022-07-22 | 2022-08-17 |
 | [Spanish Joint](https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Geoff Clapp](https://open.spotify.com/artist/5Ezil114d4umN4hJDu8teY) | [Sam Fribush Organ Trio, Vol\. I: Riverboat](https://open.spotify.com/album/4i0SSxtyDqXRF5YwtqRPWR) | 4:24 | 2021-03-05 |  |
-| [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 | 2021-08-02 |  |
+| [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 | 2021-08-02 | 2024-02-17 |
 | [Special \- Kaidi Tatham Remix](https://open.spotify.com/track/1JuVwINfrWOukcSzvuGncL) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD), [Muhsinah](https://open.spotify.com/artist/2xMBRdUYQjgJezQ8lNGQq5), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Special \(Kaidi Tatham Remixes\)](https://open.spotify.com/album/5iUhl0eSMl6JnKYxuIETZs) | 4:40 | 2023-12-01 |  |
 | [Spiky Boi](https://open.spotify.com/track/2VvUwV9PDrli8uapBKPQOv) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 1:59 | 2023-05-19 |  |
 | [Spiky Boi](https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Spiky Boi](https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t) | 1:59 | 2023-05-19 | 2023-08-24 |
@@ -300,6 +300,7 @@
 | [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 | 2021-02-05 | 2023-03-05 |
 | [Sure Shot](https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 4:01 | 2020-10-09 | 2023-08-11 |
 | [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 | 2021-04-09 |  |
+| [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 | 2024-02-16 |  |
 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 |  |
 | [Sweet Solitude](https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Et Le Funk Mystique](https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk) | 4:01 | 2022-07-29 |  |
 | [Swimming in the Sky](https://open.spotify.com/track/6rIdd2UpgitHNdHMLtpkxU) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Swimming in the Sky](https://open.spotify.com/album/5E1rqqb3M4LxkHBGxPB3VQ) | 4:54 | 2024-01-12 |  |

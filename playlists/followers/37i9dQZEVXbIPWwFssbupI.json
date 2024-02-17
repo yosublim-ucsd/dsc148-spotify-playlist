@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 842312,
+  "2024-02-17": 842347,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - France.",
   "name": "Top 50 - France",
@@ -7923,7 +7923,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -29353,7 +29353,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 126478,
       "name": "Sport Billy",
       "url": "https://open.spotify.com/track/2nNgg0Sq1mi8uxOItcCVjo"

@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Grae",
-  "num_followers": 93926,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Levin",
+  "num_followers": 94028,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDg5YmI5MjM1YjA0MTk0NzgwMTcxMmYzOTY1NTJiN2E3YTFhN2Y4",
+  "snapshot_id": "MCw0MGMxMzBkNDgwNjMwZGIyMzMzZDU0MTJmNzBjNDgxZGQ1ZDQ1NDE4",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/1lDD4tijRLgtRoZbp0F8jr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Levin",
+          "url": "https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH"
+        }
+      ],
+      "duration_ms": 140224,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/28KyfWtoqhvAJ7tKXOxdlx"
+    },
+    {
+      "added_at": "2024-02-09 05:50:45",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
+    },
     {
       "added_at": "2024-02-09 05:50:45",
       "album": {
@@ -23,6 +55,54 @@
       "duration_ms": 148978,
       "name": "Enough of Me",
       "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "clocks",
+        "url": "https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60"
+      },
+      "artists": [
+        {
+          "name": "Alayna Grace",
+          "url": "https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "clocks",
+      "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
+    },
+    {
+      "added_at": "2024-02-09 05:50:45",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "added_at": "2024-02-09 05:50:45",
+      "album": {
+        "name": "unfamiliar, like i used to",
+        "url": "https://open.spotify.com/album/4suJEX0wCdoExjzxVZFkso"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "like i used to",
+      "url": "https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3"
     },
     {
       "added_at": "2024-02-09 05:50:45",
@@ -61,6 +141,22 @@
       "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7LGzfSHsRiIXq2M47vwWZg"
+      },
+      "artists": [
+        {
+          "name": "Maisy Kay",
+          "url": "https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT"
+        }
+      ],
+      "duration_ms": 189271,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/710qfjtXZ5epd7pl9KdpTY"
+    },
+    {
       "added_at": "2024-02-09 05:50:45",
       "album": {
         "name": "House Of Lies",
@@ -79,22 +175,6 @@
     {
       "added_at": "2024-02-09 05:50:45",
       "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
-      },
-      "artists": [
-        {
-          "name": "Livingston",
-          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
         "name": "Half of forever",
         "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
       },
@@ -107,22 +187,6 @@
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
-        "name": "unfamiliar, like i used to",
-        "url": "https://open.spotify.com/album/4suJEX0wCdoExjzxVZFkso"
-      },
-      "artists": [
-        {
-          "name": "Savanna Leigh",
-          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "like i used to",
-      "url": "https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3"
     },
     {
       "added_at": "2024-02-09 05:50:45",
@@ -703,22 +767,6 @@
     {
       "added_at": "2024-02-09 05:50:45",
       "album": {
-        "name": "Knock, Knock",
-        "url": "https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC"
-      },
-      "artists": [
-        {
-          "name": "Heather Russell",
-          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
-        }
-      ],
-      "duration_ms": 219922,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
         "name": "Stop Looking at Me Like That",
         "url": "https://open.spotify.com/album/22ok0HtUav7MN1otSm48Jw"
       },
@@ -815,38 +863,6 @@
     {
       "added_at": "2024-02-09 05:50:45",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 176321,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
-        "name": "Autumn Leaves",
-        "url": "https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 220787,
-      "name": "What You'll Never Say",
-      "url": "https://open.spotify.com/track/6kvEvPFpC7v5aJeA6FREpR"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
-    },
-    {
-      "added_at": "2024-02-09 05:50:45",
-      "album": {
-        "name": "Comedy & Tragedy: Act 2",
-        "url": "https://open.spotify.com/album/1709msvR4Y09McKNriJjfG"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "I Don\u2019t Know",
-      "url": "https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm"
     },
     {
       "added_at": "2024-02-09 05:50:45",

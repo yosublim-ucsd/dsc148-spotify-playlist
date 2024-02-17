@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 46323,
+  "num_followers": 46332,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTJhMDQyMTM1YWMwNTU4YjZiNDczYWUxZjQ5MWU3MjU4ZDQ3Njc3",
+  "snapshot_id": "MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3",
   "tracks": [
     {
       "added_at": "2023-12-01 15:59:50",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "All The Boys",
-        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "All The Boys",
-      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "All The Boys",
+        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "All The Boys",
+      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 159239,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 189520,
       "name": "Dear Body",
       "url": "https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 159239,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
     },
     {
       "added_at": "2023-12-01 15:59:50",

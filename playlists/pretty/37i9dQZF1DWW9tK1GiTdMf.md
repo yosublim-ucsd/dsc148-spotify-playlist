@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bnkr44 in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,632 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,655 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 68 | [OGNI VOLTA CHE](https://open.spotify.com/track/07hBXO23Q8jkOQkzvZjPPi) | [Figlio d'Arte](https://open.spotify.com/artist/4g50InsFufwu6IejKiNmIj) | [OGNI VOLTA CHE](https://open.spotify.com/album/09ssavVZzTYSM1MQXtZHBq) | 2:28 |
 | 69 | [HOLLIWOOD 3000](https://open.spotify.com/track/1uHvkOZBk3k5hd4huHocOo) | [didettagli](https://open.spotify.com/artist/7tQVVoWSMYuWR5jBqRmsBL) | [HOLLIWOOD 3000](https://open.spotify.com/album/0aWjphDAxNE6loH1szXBO3) | 2:31 |
 
-Snapshot ID: `MCw1NmQ0OGJmNTBjMTYyNzUwMzNlYTYzMTc2NjFjNDQ2MWY2ZTZmYzUz`
+Snapshot ID: `MCxjYmUxNGJiNTFlNTRlOTlhOGM3YmFiMTI5NmRlYjgxZTVjZjI5NDll`

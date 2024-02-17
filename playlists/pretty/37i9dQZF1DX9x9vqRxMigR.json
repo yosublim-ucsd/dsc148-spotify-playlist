@@ -1,12 +1,12 @@
 {
   "description": "Learn more at <a href=\"https://folk.org/programs/conference/\">folk.org</a>.  Cover: Rainbow Girls",
-  "num_followers": 16595,
+  "num_followers": 16593,
   "original_name": "Folk Alliance 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmNiNjVjYzY2NjNiYzAzMmY1YmUwOWFmMDA3NTI3ZGRjNTUzNWVi",
+  "snapshot_id": "MCxjNjBmY2M2NTI1NTA3Y2NiM2NjYjMxNTFjNDQwMTA0YWQzZDZiYzRm",
   "tracks": [
     {
       "added_at": "2024-02-15 16:55:41",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
+        "name": "Familiar Strangers",
+        "url": "https://open.spotify.com/album/0CQIE73g3bRZ84Q5VxvsyZ"
+      },
+      "artists": [
+        {
+          "name": "Amrita Soon",
+          "url": "https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz"
+        }
+      ],
+      "duration_ms": 236916,
+      "name": "Familiar Strangers",
+      "url": "https://open.spotify.com/track/4jzrwjpEFlO7hIB6FWv1DM"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
         "name": "Hallelujah I'm a Dreamer",
         "url": "https://open.spotify.com/album/2yFqFxcz5E8ZkxnSS5aDoy"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Familiar Strangers",
-        "url": "https://open.spotify.com/album/0CQIE73g3bRZ84Q5VxvsyZ"
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/3v7kp4qhLJFMf0fAYljYEL"
       },
       "artists": [
         {
-          "name": "Amrita Soon",
-          "url": "https://open.spotify.com/artist/0amxkyGtZNA3pn83mkrtNz"
+          "name": "The Accidentals",
+          "url": "https://open.spotify.com/artist/5JqJWTzD2wSWAp7UmFSP5x"
         }
       ],
-      "duration_ms": 236916,
-      "name": "Familiar Strangers",
-      "url": "https://open.spotify.com/track/4jzrwjpEFlO7hIB6FWv1DM"
+      "duration_ms": 204602,
+      "name": "Eastern Standard Time",
+      "url": "https://open.spotify.com/track/5H5k730A6tcxGozXfz6jp2"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/3v7kp4qhLJFMf0fAYljYEL"
-      },
-      "artists": [
-        {
-          "name": "The Accidentals",
-          "url": "https://open.spotify.com/artist/5JqJWTzD2wSWAp7UmFSP5x"
-        }
-      ],
-      "duration_ms": 204602,
-      "name": "Eastern Standard Time",
-      "url": "https://open.spotify.com/track/5H5k730A6tcxGozXfz6jp2"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Viendras-tu pleurer?",
         "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "Garden Through the War",
+        "url": "https://open.spotify.com/album/6oytZb9rK8iEFAfXs1bMoX"
+      },
+      "artists": [
+        {
+          "name": "Mia Kelly",
+          "url": "https://open.spotify.com/artist/3QvVwM4jqnOtzctJZr2Bch"
+        }
+      ],
+      "duration_ms": 233355,
+      "name": "Garden Through the War",
+      "url": "https://open.spotify.com/track/4nPJr4CDbh1be6LJaoQGpJ"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Covenhoven",
-        "url": "https://open.spotify.com/album/1dGHr95p8sbBxGamhRp0P1"
-      },
-      "artists": [
-        {
-          "name": "Covenhoven",
-          "url": "https://open.spotify.com/artist/4LIT8mdtAtzP41gXEEyQFG"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "Young at Heart",
-      "url": "https://open.spotify.com/track/20Ecl51K31i9fpFgF8d0zE"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7CqSFGjqdus3l2P3F3D7cd"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 245399,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/31eu3MQRIFaqJ8fZEONmzE"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "Covenhoven",
+        "url": "https://open.spotify.com/album/1dGHr95p8sbBxGamhRp0P1"
+      },
+      "artists": [
+        {
+          "name": "Covenhoven",
+          "url": "https://open.spotify.com/artist/4LIT8mdtAtzP41gXEEyQFG"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "Young at Heart",
+      "url": "https://open.spotify.com/track/20Ecl51K31i9fpFgF8d0zE"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Garden Through the War",
-        "url": "https://open.spotify.com/album/6oytZb9rK8iEFAfXs1bMoX"
-      },
-      "artists": [
-        {
-          "name": "Mia Kelly",
-          "url": "https://open.spotify.com/artist/3QvVwM4jqnOtzctJZr2Bch"
-        }
-      ],
-      "duration_ms": 233355,
-      "name": "Garden Through the War",
-      "url": "https://open.spotify.com/track/4nPJr4CDbh1be6LJaoQGpJ"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Bible Belt Baby",
         "url": "https://open.spotify.com/album/2D7jJO9e71QFrHu2J9TqjV"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 187224,
       "name": "What Did You Drag Me Into?",
       "url": "https://open.spotify.com/track/4ynRov1rFev91tIEXa3i9O"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "The Runner",
+        "url": "https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP"
+      },
+      "artists": [
+        {
+          "name": "Anna Smyrk",
+          "url": "https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm"
+        }
+      ],
+      "duration_ms": 176369,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "The Willow Collection",
-        "url": "https://open.spotify.com/album/1RW1ZwwHbVvkB7uT6FYhwj"
-      },
-      "artists": [
-        {
-          "name": "Cassie and Maggie",
-          "url": "https://open.spotify.com/artist/2A7ZtTC1bMYuE8jxpxBS9v"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Seileach",
-      "url": "https://open.spotify.com/track/0QygANVyTJAIhSU32X6Cqz"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Minor Gold",
         "url": "https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 175573,
       "name": "Way With Words",
       "url": "https://open.spotify.com/track/6a2GoiH5H27p56HUJYEQ8f"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "The Willow Collection",
+        "url": "https://open.spotify.com/album/1RW1ZwwHbVvkB7uT6FYhwj"
+      },
+      "artists": [
+        {
+          "name": "Cassie and Maggie",
+          "url": "https://open.spotify.com/artist/2A7ZtTC1bMYuE8jxpxBS9v"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Seileach",
+      "url": "https://open.spotify.com/track/0QygANVyTJAIhSU32X6Cqz"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -863,22 +879,6 @@
       "duration_ms": 186220,
       "name": "The Beginning Of The End",
       "url": "https://open.spotify.com/track/44LKUkizNm5YokjjZkMm0P"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
-        "name": "The Runner",
-        "url": "https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP"
-      },
-      "artists": [
-        {
-          "name": "Anna Smyrk",
-          "url": "https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm"
-        }
-      ],
-      "duration_ms": 176369,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Every Generation",
-        "url": "https://open.spotify.com/album/7rlBO7UKOWd1TpE8Uu484C"
+        "name": "Nada Nuevo Bajo el Sol",
+        "url": "https://open.spotify.com/album/0oheEoja31fb3jN7bLaHR5"
       },
       "artists": [
         {
-          "name": "St. Catherine's Child",
-          "url": "https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK"
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
         }
       ],
-      "duration_ms": 305920,
-      "name": "Every Generation",
-      "url": "https://open.spotify.com/track/3k1MXKPGZeylh4TvX9OB20"
+      "duration_ms": 430573,
+      "name": "Mabiche",
+      "url": "https://open.spotify.com/track/600N8rv4sDQpzOg3Ci493h"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Nada Nuevo Bajo el Sol",
-        "url": "https://open.spotify.com/album/0oheEoja31fb3jN7bLaHR5"
+        "name": "Every Generation",
+        "url": "https://open.spotify.com/album/7rlBO7UKOWd1TpE8Uu484C"
       },
       "artists": [
         {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+          "name": "St. Catherine's Child",
+          "url": "https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK"
         }
       ],
-      "duration_ms": 430573,
-      "name": "Mabiche",
-      "url": "https://open.spotify.com/track/600N8rv4sDQpzOg3Ci493h"
+      "duration_ms": 305920,
+      "name": "Every Generation",
+      "url": "https://open.spotify.com/track/3k1MXKPGZeylh4TvX9OB20"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Partner In Crime",
-        "url": "https://open.spotify.com/album/6UWbdJ23MCgMk32JU5Liqf"
-      },
-      "artists": [
-        {
-          "name": "Alana Wilkinson",
-          "url": "https://open.spotify.com/artist/6sKZ3bRAQB69mvmRlsFEwP"
-        }
-      ],
-      "duration_ms": 294951,
-      "name": "Partner In Crime",
-      "url": "https://open.spotify.com/track/0qptWZ1uKgJTijVbXcdRRL"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Small Towns",
         "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
+        "name": "Partner In Crime",
+        "url": "https://open.spotify.com/album/6UWbdJ23MCgMk32JU5Liqf"
+      },
+      "artists": [
+        {
+          "name": "Alana Wilkinson",
+          "url": "https://open.spotify.com/artist/6sKZ3bRAQB69mvmRlsFEwP"
+        }
+      ],
+      "duration_ms": 294951,
+      "name": "Partner In Crime",
+      "url": "https://open.spotify.com/track/0qptWZ1uKgJTijVbXcdRRL"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
         "name": "Espiral",
         "url": "https://open.spotify.com/album/0svcrktGkmq74X7HVQCkon"
       },
@@ -1251,6 +1251,26 @@
       "duration_ms": 358295,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/6cs1RTQI7xBYJZ4PyTaTsM"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "Still Moving",
+        "url": "https://open.spotify.com/album/2EKoX05Cj9AKOVWUY3vhSE"
+      },
+      "artists": [
+        {
+          "name": "Justin Adams",
+          "url": "https://open.spotify.com/artist/1pUaMnPZv6VdjKjZ2b5B0Z"
+        },
+        {
+          "name": "Mauro Durante",
+          "url": "https://open.spotify.com/artist/05SxaycC6mQpGMP2AEwEZM"
+        }
+      ],
+      "duration_ms": 246747,
+      "name": "Dark Road Down",
+      "url": "https://open.spotify.com/track/09C9cH5qRM9PLlBqQbdLqH"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1339,26 +1359,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Still Moving",
-        "url": "https://open.spotify.com/album/2EKoX05Cj9AKOVWUY3vhSE"
-      },
-      "artists": [
-        {
-          "name": "Justin Adams",
-          "url": "https://open.spotify.com/artist/1pUaMnPZv6VdjKjZ2b5B0Z"
-        },
-        {
-          "name": "Mauro Durante",
-          "url": "https://open.spotify.com/artist/05SxaycC6mQpGMP2AEwEZM"
-        }
-      ],
-      "duration_ms": 246747,
-      "name": "Dark Road Down",
-      "url": "https://open.spotify.com/track/09C9cH5qRM9PLlBqQbdLqH"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "You Reap What You Sow",
         "url": "https://open.spotify.com/album/0y3Y27cqMyJCVvekHmvxBw"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Inner Child Work, Pt. 2",
-        "url": "https://open.spotify.com/album/6y0vtTs5x68BwW0kFVq4n6"
-      },
-      "artists": [
-        {
-          "name": "Alicia Blue",
-          "url": "https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG"
-        }
-      ],
-      "duration_ms": 232180,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/59E337kmS6PoGZmwKk7fvK"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Back on the Road to You",
         "url": "https://open.spotify.com/album/5zZmdzb42vFVPUJvZppkeh"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 264952,
       "name": "There Goes a Brooklyn Girl",
       "url": "https://open.spotify.com/track/5T5vODZbP7XjWK4Uv7kzwJ"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "Inner Child Work, Pt. 2",
+        "url": "https://open.spotify.com/album/6y0vtTs5x68BwW0kFVq4n6"
+      },
+      "artists": [
+        {
+          "name": "Alicia Blue",
+          "url": "https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG"
+        }
+      ],
+      "duration_ms": 232180,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/59E337kmS6PoGZmwKk7fvK"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "55",
-        "url": "https://open.spotify.com/album/2JHXN9HK8ybi1pcwj2jZjx"
-      },
-      "artists": [
-        {
-          "name": "Ellis Paul",
-          "url": "https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4dnXLKc78c4lKrSJLcd9EF"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Plight o\u2019 Sheep",
         "url": "https://open.spotify.com/album/6gmdBSE5aqFdwfgMPR2znB"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/2JHXN9HK8ybi1pcwj2jZjx"
+      },
+      "artists": [
+        {
+          "name": "Ellis Paul",
+          "url": "https://open.spotify.com/artist/6zbmVVtvsmXRGWGgfjlE35"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4dnXLKc78c4lKrSJLcd9EF"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
         "name": "Even the Sparrow",
         "url": "https://open.spotify.com/album/14vpEuPbTOHx5T3Y89xWNN"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 299306,
       "name": "Bird Song",
       "url": "https://open.spotify.com/track/2i96MbZhEcAZEzhiXqXyZI"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
-        "name": "Stranger in the Barn",
-        "url": "https://open.spotify.com/album/655Rd52vVI0tFUt3Q0rOSQ"
-      },
-      "artists": [
-        {
-          "name": "Ismay",
-          "url": "https://open.spotify.com/artist/77sFDwywxshHFqKu6rVXIp"
-        }
-      ],
-      "duration_ms": 227243,
-      "name": "Stranger in the Barn",
-      "url": "https://open.spotify.com/track/4JSYO2n2PcB04sfRuqr2LE"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
+        "name": "Stranger in the Barn",
+        "url": "https://open.spotify.com/album/655Rd52vVI0tFUt3Q0rOSQ"
+      },
+      "artists": [
+        {
+          "name": "Ismay",
+          "url": "https://open.spotify.com/artist/77sFDwywxshHFqKu6rVXIp"
+        }
+      ],
+      "duration_ms": 227243,
+      "name": "Stranger in the Barn",
+      "url": "https://open.spotify.com/track/4JSYO2n2PcB04sfRuqr2LE"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
         "name": "Whiskeytown",
         "url": "https://open.spotify.com/album/1tndh3EH7dQdnd8qgkmiPs"
       },
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
+        "name": "Circumstance",
+        "url": "https://open.spotify.com/album/3SjjFeU2K48fbLOy50satR"
+      },
+      "artists": [
+        {
+          "name": "Alice Howe",
+          "url": "https://open.spotify.com/artist/4G9FK6kbQ0hT2s7Cwoh9oO"
+        }
+      ],
+      "duration_ms": 206847,
+      "name": "Somebody's New Lover Now",
+      "url": "https://open.spotify.com/track/228PC47OfelkYRgXttSjWc"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
         "name": "It's Never Too Late for Sea Shanties",
         "url": "https://open.spotify.com/album/3CaMMIyoxZsvnOSj4PjrmB"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 295573,
       "name": "Something in the Stars",
       "url": "https://open.spotify.com/track/1n2kRJqaNEz7wGtvWJj2gh"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
-        "name": "Circumstance",
-        "url": "https://open.spotify.com/album/3SjjFeU2K48fbLOy50satR"
-      },
-      "artists": [
-        {
-          "name": "Alice Howe",
-          "url": "https://open.spotify.com/artist/4G9FK6kbQ0hT2s7Cwoh9oO"
-        }
-      ],
-      "duration_ms": 206847,
-      "name": "Somebody's New Lover Now",
-      "url": "https://open.spotify.com/track/228PC47OfelkYRgXttSjWc"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Pretty Strange",
-        "url": "https://open.spotify.com/album/1qfWkC06s6s8dSXGSNsYW9"
-      },
-      "artists": [
-        {
-          "name": "Eliza Mary Doyle",
-          "url": "https://open.spotify.com/artist/5U4LzaIp64XHxQ5eBSFNOi"
-        }
-      ],
-      "duration_ms": 133635,
-      "name": "Them Boys",
-      "url": "https://open.spotify.com/track/5ArTJ4o8EZcc6ZV9cpl5kR"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/5oQFdazEXRvagGYBNPlvX7"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 216959,
       "name": "Second City",
       "url": "https://open.spotify.com/track/4i96ikbfClbwrMDFdUBxLW"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "Pretty Strange",
+        "url": "https://open.spotify.com/album/1qfWkC06s6s8dSXGSNsYW9"
+      },
+      "artists": [
+        {
+          "name": "Eliza Mary Doyle",
+          "url": "https://open.spotify.com/artist/5U4LzaIp64XHxQ5eBSFNOi"
+        }
+      ],
+      "duration_ms": 133635,
+      "name": "Them Boys",
+      "url": "https://open.spotify.com/track/5ArTJ4o8EZcc6ZV9cpl5kR"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
+        "name": "In the Clay",
+        "url": "https://open.spotify.com/album/5tnCaNkyk5k8xzFwyrUR6C"
+      },
+      "artists": [
+        {
+          "name": "Basset",
+          "url": "https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "In the Clay",
+      "url": "https://open.spotify.com/track/3FDPMyU1bqaiXjM1mE7ged"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/5ggnDDpZa11EvVrt2oB3Bi"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 233583,
       "name": "Dingi Do",
       "url": "https://open.spotify.com/track/72sN8axRC8SS0hDYY7QnnJ"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
-        "name": "In the Clay",
-        "url": "https://open.spotify.com/album/5tnCaNkyk5k8xzFwyrUR6C"
-      },
-      "artists": [
-        {
-          "name": "Basset",
-          "url": "https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "In the Clay",
-      "url": "https://open.spotify.com/track/3FDPMyU1bqaiXjM1mE7ged"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -1979,22 +1979,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Janus",
-        "url": "https://open.spotify.com/album/4EVW0pVOwwPd5Koc1QHjLe"
+        "name": "De Fez a Jerez",
+        "url": "https://open.spotify.com/album/5Uc7zChkh1myi4q8piOKTx"
       },
       "artists": [
         {
-          "name": "Paula Boggs Band",
-          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
-        },
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+          "name": "Seffarine",
+          "url": "https://open.spotify.com/artist/00eQhQca3xEnYrBdhM1fVn"
         }
       ],
-      "duration_ms": 189386,
-      "name": "King Brewster",
-      "url": "https://open.spotify.com/track/0hpDuI1fnzN56YKXzyCasu"
+      "duration_ms": 283973,
+      "name": "Une Autre Chance",
+      "url": "https://open.spotify.com/track/4P01Sl55h3Slm1hx3nqtP2"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -2019,18 +2015,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "De Fez a Jerez",
-        "url": "https://open.spotify.com/album/5Uc7zChkh1myi4q8piOKTx"
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3"
       },
       "artists": [
         {
-          "name": "Seffarine",
-          "url": "https://open.spotify.com/artist/00eQhQca3xEnYrBdhM1fVn"
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Une Autre Chance",
-      "url": "https://open.spotify.com/track/4P01Sl55h3Slm1hx3nqtP2"
+      "duration_ms": 183662,
+      "name": "Girls Like Me",
+      "url": "https://open.spotify.com/track/2JYgjlSNLH3e4fk60n6G0y"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -2051,18 +2047,22 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3"
+        "name": "Janus",
+        "url": "https://open.spotify.com/album/4EVW0pVOwwPd5Koc1QHjLe"
       },
       "artists": [
         {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+          "name": "Paula Boggs Band",
+          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
+        },
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         }
       ],
-      "duration_ms": 183662,
-      "name": "Girls Like Me",
-      "url": "https://open.spotify.com/track/2JYgjlSNLH3e4fk60n6G0y"
+      "duration_ms": 189386,
+      "name": "King Brewster",
+      "url": "https://open.spotify.com/track/0hpDuI1fnzN56YKXzyCasu"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Taste of Tentrees",
-        "url": "https://open.spotify.com/album/2kRmrQiyNduxwicJO9I2d3"
-      },
-      "artists": [
-        {
-          "name": "Gordie Tentrees",
-          "url": "https://open.spotify.com/artist/0r4BPbWwDK8cgTnSR5FnFN"
-        }
-      ],
-      "duration_ms": 190903,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/67DO800HqOrGLpHn3WCfJV"
-    },
-    {
-      "added_at": "2024-02-15 16:55:41",
-      "album": {
         "name": "The Callows",
         "url": "https://open.spotify.com/album/4XYtEpC1u3a3cqXsZQnI9x"
       },
@@ -2167,18 +2151,34 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Namolio",
-        "url": "https://open.spotify.com/album/2QzgM3YKtsiTTkx92woXZ0"
+        "name": "Mai",
+        "url": "https://open.spotify.com/album/1XGjH1AhTk0F5pE39MnXR5"
       },
       "artists": [
         {
-          "name": "Jausm\u0117",
-          "url": "https://open.spotify.com/artist/5zu8H4DMzOHQKS4Vp4clm6"
+          "name": "Georgia Ruth",
+          "url": "https://open.spotify.com/artist/1cC7AosLJ1N2p9g9KFAkdU"
         }
       ],
-      "duration_ms": 296280,
-      "name": "Ateik pas Mane",
-      "url": "https://open.spotify.com/track/5VNxmpTSrSLZWlT1allWle"
+      "duration_ms": 211760,
+      "name": "Close for Comfort",
+      "url": "https://open.spotify.com/track/3REuelGippg9nlEr7q3cL7"
+    },
+    {
+      "added_at": "2024-02-15 16:55:41",
+      "album": {
+        "name": "Taste of Tentrees",
+        "url": "https://open.spotify.com/album/2kRmrQiyNduxwicJO9I2d3"
+      },
+      "artists": [
+        {
+          "name": "Gordie Tentrees",
+          "url": "https://open.spotify.com/artist/0r4BPbWwDK8cgTnSR5FnFN"
+        }
+      ],
+      "duration_ms": 190903,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/67DO800HqOrGLpHn3WCfJV"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Mai",
-        "url": "https://open.spotify.com/album/1XGjH1AhTk0F5pE39MnXR5"
+        "name": "Namolio",
+        "url": "https://open.spotify.com/album/2QzgM3YKtsiTTkx92woXZ0"
       },
       "artists": [
         {
-          "name": "Georgia Ruth",
-          "url": "https://open.spotify.com/artist/1cC7AosLJ1N2p9g9KFAkdU"
+          "name": "Jausm\u0117",
+          "url": "https://open.spotify.com/artist/5zu8H4DMzOHQKS4Vp4clm6"
         }
       ],
-      "duration_ms": 211760,
-      "name": "Close for Comfort",
-      "url": "https://open.spotify.com/track/3REuelGippg9nlEr7q3cL7"
+      "duration_ms": 296280,
+      "name": "Ateik pas Mane",
+      "url": "https://open.spotify.com/track/5VNxmpTSrSLZWlT1allWle"
     },
     {
       "added_at": "2024-02-15 16:55:41",
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2024-02-15 16:55:41",
       "album": {
-        "name": "Songs from Home",
-        "url": "https://open.spotify.com/album/1MTtVcR6x4KrYq0bBa26tw"
+        "name": "Long Live",
+        "url": "https://open.spotify.com/album/4xHRo8ftEhDMOwNgMkVRS2"
       },
       "artists": [
         {
-          "name": "Polky",
-          "url": "https://open.spotify.com/artist/4Y7Hjp3Yft1NplrshNVAHV"
+          "name": "Susan Werner",
+          "url": "https://open.spotify.com/artist/22t90SdeLXy0hg1eoiLokC"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Kopanitsa",
-      "url": "https://open.spotify.com/track/59QyO26yXFn58nXyLWbpvX"
+      "duration_ms": 240143,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/1Y3rXQOrZLE0IA5XYnXCmW"
     }
   ],
   "unique_name": "Folk Alliance 2024",

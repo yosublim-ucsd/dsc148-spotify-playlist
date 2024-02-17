@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 178897,
+  "2024-02-17": 179104,
   "date_first_scraped": "2021-12-30",
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
   "name": "Feel Good Jazz",
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 334626,
       "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
@@ -2401,6 +2401,24 @@
       "duration_ms": 249480,
       "name": "Stompin' At The Savoy - 1956 Version",
       "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
+    },
+    {
+      "album": {
+        "name": "Stop This World",
+        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Stop This World",
+      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
     },
     {
       "album": {

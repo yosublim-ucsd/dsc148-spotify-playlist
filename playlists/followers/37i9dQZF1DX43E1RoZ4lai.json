@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 25746,
+  "2024-02-17": 25773,
   "date_first_scraped": "2022-06-20",
   "description": "The best jazz pianists today. Cover: Aaron Diehl",
   "name": "Jazz Piano Today",
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 333421,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 250000,
       "name": "DAN DA DAN ~Nikujiru Juicy~",
       "url": "https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga"

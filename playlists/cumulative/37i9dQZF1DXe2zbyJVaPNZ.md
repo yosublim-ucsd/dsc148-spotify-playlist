@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-200 songs - 12 hr 58 min
+203 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Beyond Infinity](https://open.spotify.com/track/07Ugt4jjKXkCfmVZEbQ55a) | [SerenitySounds](https://open.spotify.com/artist/5IxUd3eKUM5TboSJkc5cVQ) | [Beyond Infinity](https://open.spotify.com/album/1NbO4sSRArJd0qqUKM1LWD) | 4:37 | 2022-11-11 |  |
 | [Billions and Billions](https://open.spotify.com/track/34jk6E3JeCxxDscKMtDKcU) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [A Moment of Stillness](https://open.spotify.com/album/4Lm6SgVaPvXDRQOSpqfafA) | 5:14 | 2022-08-05 |  |
 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 | 2022-10-14 |  |
+| [Blissful Drift](https://open.spotify.com/track/0g6As2M9UUFkaXWE0eTbY9) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Blissful Drift](https://open.spotify.com/album/78PL8SM08sW5MmRZ77p76o) | 3:02 | 2024-02-17 |  |
 | [Blue Airglow](https://open.spotify.com/track/2mugkR92BaadnDA00Y01uV) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Blue Airglow](https://open.spotify.com/album/5xF8V7En6VnqmL3IIO7ZER) | 3:53 | 2022-08-05 | 2023-10-05 |
 | [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 | 2022-11-22 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2022-08-05 | 2023-01-21 |
@@ -79,7 +80,7 @@
 | [Gas 1](https://open.spotify.com/track/6orzHW7VBmbb5bsjn4nLKY) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Nah Und Fern](https://open.spotify.com/album/3KSzqblPw5mdapzJsVU6cy) | 6:27 | 2022-08-05 | 2023-08-19 |
 | [Generations](https://open.spotify.com/track/0MdnqrAaVgPLbmagC85x7X) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Generations](https://open.spotify.com/album/7oM93ACHpvgcjy5MtmRRDC) | 2:54 | 2022-08-05 |  |
 | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/track/60OkaddPGoz4Wx3NkTgpnn) | [Abeo Abara](https://open.spotify.com/artist/0BIybKZiOMOMdUmCKZsY0O) | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/album/0Li6vZK0i0e1wkTK8Xo24R) | 2:32 | 2022-11-11 |  |
-| [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 | 2022-08-19 |  |
+| [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 | 2022-08-19 | 2024-02-17 |
 | [Havasu](https://open.spotify.com/track/66V97mH6dRUB1O4KsK328B) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Havasu](https://open.spotify.com/album/51OEnFQxXRMJBemtp0qSLV) | 3:12 | 2022-08-05 |  |
 | [Healing Mind](https://open.spotify.com/track/1VjVARByjHVPoKM4LUmSY9) | [Meditación Maestro](https://open.spotify.com/artist/5N7UeskN33MFFsoLfWWdUE) | [Meditación Curación](https://open.spotify.com/album/3CpQigghVY6fn92zAA3bFW) | 2:41 | 2023-01-13 |  |
 | [Hills](https://open.spotify.com/track/1PZbzrqct1Hh4FkBkAH85N) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Hills](https://open.spotify.com/album/2Qoz4wkyZ0mXLwsdSryAZ0) | 2:33 | 2023-10-13 |  |
@@ -110,6 +111,7 @@
 | [Lazy Day](https://open.spotify.com/track/5UKNlerIjVt1DKTFvVuCsv) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Lazy Day](https://open.spotify.com/album/2tUw2L7aIETEh9UegbTLwS) | 3:48 | 2023-07-07 |  |
 | [Leading Light](https://open.spotify.com/track/36M8Y3KGOqj9VutRdQ12oE) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Leading Light](https://open.spotify.com/album/0S30lEmZbJzxzJuSnn83OR) | 3:33 | 2023-10-13 |  |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-08-05 |  |
+| [Lucid Dreamers](https://open.spotify.com/track/1qKvAMy5gfGnFYhBhMKhu3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Lucid Dreamers](https://open.spotify.com/album/3pXR6uhV1B3695tckU59iL) | 3:21 | 2024-02-17 |  |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 | 2022-08-05 |  |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/1H0BgYKS69p9fITJ4vWrXF) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [An Introduction to Hammock](https://open.spotify.com/album/6rixSK0uFTufD1gXvnB9ir) | 5:10 | 2022-10-14 | 2022-11-14 |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-09-08 |  |
@@ -158,6 +160,7 @@
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-08-05 |  |
 | [Shinseki Main](https://open.spotify.com/track/1pHqS0YdK8x3UXlUqJAOzp) | [Purple Decades](https://open.spotify.com/artist/08lg5wRQNrKKJZzvWTynlv) | [Journey Test](https://open.spotify.com/album/45P14PPyN1or3llI8OH0jN) | 3:43 | 2023-03-24 |  |
 | [Signal](https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Signal](https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6) | 4:04 | 2022-10-14 |  |
+| [Silencia](https://open.spotify.com/track/3PD9nIMhKtMPsF0NMs3b5P) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Silencia](https://open.spotify.com/album/1YV4ZPNv69uBKR1SBnjPAP) | 3:05 | 2024-02-17 |  |
 | [Sitbo](https://open.spotify.com/track/7sgYlzStOf9WsVIqZnPpVO) | [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Cosy Day](https://open.spotify.com/artist/2ed9vzBREoh6FugHtBfGXr), [Dreaming Phase](https://open.spotify.com/artist/5rfPDQ04f9uM3M0yNNY8qO) | [Sitbo](https://open.spotify.com/album/5VkAaQhHCPUDix3RlW1TzG) | 2:27 | 2023-11-17 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-19 |  |
 | [Snoozy Bliss](https://open.spotify.com/track/1vsJH9KHxzOtxvNiutXn9a) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:23 | 2023-01-13 |  |

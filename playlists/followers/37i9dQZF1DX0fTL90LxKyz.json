@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 56766,
+  "2024-02-17": 56785,
   "date_first_scraped": "2023-04-01",
   "description": "Go hard or go home!",
   "name": "Drill Work",
@@ -567,6 +567,24 @@
     {
       "album": {
         "name": "Lagga",
+        "url": "https://open.spotify.com/album/3ycrGoY6xf0Y2npCyyiEtU"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Lagga",
+      "url": "https://open.spotify.com/track/4HYAiH7u0Ef4zRzhD7VUJ5"
+    },
+    {
+      "album": {
+        "name": "Lagga",
         "url": "https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog"
       },
       "artists": [
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 237500,
       "name": "Step Out.",
       "url": "https://open.spotify.com/track/2oLgGxj5Hk9LqZggVDg1VW"

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-288 songs - 14 hr 5 min
+291 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2021-12-23 | 2023-05-06 |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-06-16 |  |
 | [Ashes to Dawn](https://open.spotify.com/track/5P08ISI8K0fUqHuJJZoYlq) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Ashes to Dawn](https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN) | 1:52 | 2022-01-07 | 2023-07-29 |
+| [Astral Meadows](https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Astral Meadows](https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF) | 2:48 | 2024-02-16 |  |
 | [At Day's End](https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [At Day's End](https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG) | 2:53 | 2022-08-15 |  |
 | [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-03-03 |  |
 | [Be Here Now](https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM) | [Star River](https://open.spotify.com/artist/4dK4vT6WMq0uXkxfYolQXf) | [Feeling Calm](https://open.spotify.com/album/6qjVLVgVfP7EpvFREJWlwP) | 3:21 | 2021-12-23 | 2022-09-03 |
@@ -61,6 +62,7 @@
 | [Coucher](https://open.spotify.com/track/0gBwjXf71aUxndZSzrJ6Ej) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Coucher](https://open.spotify.com/album/5GaPY7G2NrAsOG6M0y5d4y) | 3:13 | 2022-11-11 |  |
 | [Crayons Part 2](https://open.spotify.com/track/7eyhf1p0OTrZ804PusfMvl) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/6Aih1IKbgXvDw8Tc3sMsRn) | 2:09 | 2021-12-23 | 2022-07-29 |
 | [Crayons Part 2](https://open.spotify.com/track/19vWPaRELzfUUlA4e9c7RB) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Dear Dawn](https://open.spotify.com/album/65IrZAMOiYuxHlrbxFYwGJ) | 2:10 | 2022-07-22 | 2023-07-14 |
+| [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-16 |  |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-03-03 |  |
 | [Desear](https://open.spotify.com/track/4a20vranOH3ic2txQ463jc) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [In Dreams](https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm) | 3:07 | 2023-07-14 |  |
@@ -247,6 +249,7 @@
 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 | 2021-12-23 | 2022-09-03 |
 | [Stundtals](https://open.spotify.com/track/1PqHlGhw8e7fcLN3Q6bPVp) | [Maja Vang](https://open.spotify.com/artist/3bbpr6K017bEFjyDUCNMkQ) | [Stundtals](https://open.spotify.com/album/0s0XQEm1Sqa4PJc06Hv0pR) | 3:05 | 2023-12-01 |  |
 | [Suaimhneas](https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Suaimhneas](https://open.spotify.com/album/08kGIhtbc1fnU0od3JgMiD) | 3:31 | 2021-12-23 | 2023-06-17 |
+| [Sublime Worlds](https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Sublime Worlds](https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o) | 2:26 | 2024-02-16 |  |
 | [Subtext](https://open.spotify.com/track/1Sb4GB5blfCNXXGhoEs7kw) | [Tate Simpson](https://open.spotify.com/artist/72hVwc8RNTlWPEUHZcldGb) | [Subtext](https://open.spotify.com/album/0qPrGyQdOETTLbds4REzx1) | 3:24 | 2021-12-23 | 2023-08-25 |
 | [Sumire](https://open.spotify.com/track/7j5U7NtYQbqbgTuEmznPnh) | [Josephe Cressac](https://open.spotify.com/artist/2sEVgwrqZxHDJIfV62TXbW) | [Sumire](https://open.spotify.com/album/2QgVDh8p6bSVBjGyBE6cKh) | 2:48 | 2021-12-23 | 2022-09-03 |
 | [Sunflower Sunset](https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 3:25 | 2021-12-23 | 2023-01-14 |

@@ -1,13 +1,69 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 136655,
+  "num_followers": 136664,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQ2ZWY5NWJmOWU1Mzc3MjA0ZTcwNTk3ZTgxNjE0NTNiMGE2N2Qz",
+  "snapshot_id": "MCwyZTU1Y2Y5OGZmNWQyNDA5YWQwOTA3MDVjZGY2M2UxMzE1OGU5YWQy",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/7GNqqFENHq8xEVVvTlLWY3"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Seven Eyes",
+          "url": "https://open.spotify.com/artist/0M6umUTp0QgXZP8ECTwybz"
+        }
+      ],
+      "duration_ms": 241749,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/1nZZKucdf7A34DtHVsyPi6"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "A Seasonal Thing...Winter",
+        "url": "https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "duration_ms": 280624,
+      "name": "Wonder in the Waiting",
+      "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Pennies from Heaven",
+        "url": "https://open.spotify.com/album/1i6vhg06WXON1YfBE9gOHj"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH"
+    },
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
@@ -23,6 +79,22 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Tight",
+        "url": "https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 115679,
+      "name": "Tight",
+      "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -59,6 +131,30 @@
       "duration_ms": 222461,
       "name": "Somebody In Love",
       "url": "https://open.spotify.com/track/1prgxQ2WwyuOzPSRVk37IL"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/32ri97wp9PulmfQDySP2qv"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        }
+      ],
+      "duration_ms": 215750,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/7nuIJx8e9xk5LBieo9ZvZk"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -107,22 +203,6 @@
       "duration_ms": 288664,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Tight",
-        "url": "https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 115679,
-      "name": "Tight",
-      "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -193,26 +273,6 @@
       "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
     },
     {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Almost Like Being in Love",
-        "url": "https://open.spotify.com/album/0Nh59ZpVKxw8TM7nHNEOYk"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        },
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Almost Like Being in Love",
-      "url": "https://open.spotify.com/track/3qizV4OtxenPpgi4GIGR2U"
-    },
-    {
       "added_at": "2024-01-19 05:01:00",
       "album": {
         "name": "Lift Up",
@@ -275,22 +335,6 @@
       "duration_ms": 229133,
       "name": "Stop This World",
       "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Seconds and Circles",
-        "url": "https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        }
-      ],
-      "duration_ms": 223624,
-      "name": "Seconds and Circles",
-      "url": "https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -395,22 +439,6 @@
       "duration_ms": 136552,
       "name": "Crazy he calls me",
       "url": "https://open.spotify.com/track/0HReCEWkXg1NYwJq9bHULE"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "A Seasonal Thing...FALL",
-        "url": "https://open.spotify.com/album/7laOkKYaNpecWsqlsThiVg"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 200618,
-      "name": "I Always Fall For You",
-      "url": "https://open.spotify.com/track/0NzIxQZjn7iaHMVVbwwFKR"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1143,22 +1171,6 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
-    },
-    {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Simply Falling",
-        "url": "https://open.spotify.com/album/74T1wuXtwHkyRKt9rprUDA"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 218679,
-      "name": "Simply Falling",
-      "url": "https://open.spotify.com/track/1ssJNXZibBxgDu9uIJ2ZQC"
     },
     {
       "added_at": "2023-05-19 04:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with P.O.D. and Tatiana Shmayluk from Jinger.",
+  "description": "n\u00fc-metal revival is happening here and now with UnityTX.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186384,
       "name": "BLACK_WAVE",
       "url": "https://open.spotify.com/track/5rYoxMOnrq09FDTgkS1dMU"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 163280,
       "name": "Operator",
       "url": "https://open.spotify.com/track/5p1bCl7HEcsst4eF48z0Bm"
@@ -1342,6 +1342,24 @@
       "duration_ms": 211504,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/1esltG8upzhcpAQkhCwddG"
+    },
+    {
+      "album": {
+        "name": "READY ROCK",
+        "url": "https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166369,
+      "name": "READY ROCK",
+      "url": "https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS"
     },
     {
       "album": {
@@ -2060,6 +2078,42 @@
       "duration_ms": 191470,
       "name": "Z0mbie",
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
+    },
+    {
+      "album": {
+        "name": "A Digital Nowhere",
+        "url": "https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4"
+    },
+    {
+      "album": {
+        "name": "\u0442\u0432\u043e\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0431\u0443\u0434\u0435 \u0437\u0440\u0443\u0439\u043d\u043e\u0432\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/0CSpi5vbJgxPR1zeeOFGT9"
+      },
+      "artists": [
+        {
+          "name": "Burned Time Machine",
+          "url": "https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "\u0442\u0432\u043e\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0431\u0443\u0434\u0435 \u0437\u0440\u0443\u0439\u043d\u043e\u0432\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/4xilakhsg8Sofck34wpRvV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX"

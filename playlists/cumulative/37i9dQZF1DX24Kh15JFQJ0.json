@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 181493,
       "name": "If the World Had a Front Porch",
       "url": "https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC"
@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Out Here In It",
+        "url": "https://open.spotify.com/album/3vyCg3vcncW4aHqwj2TIYG"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205528,
+      "name": "Out Here In It",
+      "url": "https://open.spotify.com/track/0ZnuzApPoaClW97IZNlqNG"
+    },
+    {
+      "album": {
         "name": "Out of My Mind (Country)",
         "url": "https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn"
       },
@@ -4220,7 +4238,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 315647,
       "name": "Take It to the Bank",
       "url": "https://open.spotify.com/track/4bP7A6zIgLqCr6c99dktyv"
@@ -4490,6 +4508,28 @@
       "duration_ms": 247739,
       "name": "There Is No Arizona 2.0",
       "url": "https://open.spotify.com/track/0748ETcSWmM6C5YlbRhoFK"
+    },
+    {
+      "album": {
+        "name": "There's No Me...Without You (with Carole King)",
+        "url": "https://open.spotify.com/album/2iyEcY3FRWdM0N9B0xeWx4"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        },
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226938,
+      "name": "There's No Me...Without You",
+      "url": "https://open.spotify.com/track/1wsXDq84XjC5bpaomBn1P6"
     },
     {
       "album": {
@@ -4876,7 +4916,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197087,
       "name": "When the Cowboys Gone",
       "url": "https://open.spotify.com/track/72U86afw7ZhxeNsPo76bxf"

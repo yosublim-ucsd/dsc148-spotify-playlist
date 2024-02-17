@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,870 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,923 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 56 | [Singing in the Rain](https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Singing in the Rain \(Original Film Soundtrack\)](https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm) | 2:55 |
 | 57 | [Daily Battles \(feat\. Joe Farnsworth, Russell Hall, Isaiah J\. Thompson & Jerry Weldon\) \- Jazz Arrangement](https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9), [Jerry Weldon](https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT) | [Daily Battles \(From Motherless Brooklyn: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB) | 3:24 |
 | 58 | [Opening \(Spirit of Adventure\)](https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2), [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Dug Days \(Original Soundtrack\)](https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM) | 0:52 |
-| 59 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |
-| 60 | [Dreamsville](https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Music From Peter Gunn](https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2) | 3:57 |
+| 59 | [Dreamsville](https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Music From Peter Gunn](https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2) | 3:57 |
+| 60 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |
 | 61 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
 | 62 | [Mine](https://open.spotify.com/track/1V43BO81I2LLHjy25en933) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Zubin Mehta](https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Manhattan: Original Motion Picture Soundtrack](https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA) | 2:55 |
 | 63 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [The Feeling of Love, Pt\. 1](https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liaisons Dangereuses](https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb) | 7:15 |
 | 100 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
 
-Snapshot ID: `MCw0ZDQwZDg4MGM1YjRiYTc0NTg2OGYwNmJjODg0MmJiNDE5M2IxMzE4`
+Snapshot ID: `MCw2YWM2NzAwOGZiNTNiYmE1MjMyNWUzZmUyZGFhNWYwZmI0YmFlMzU0`

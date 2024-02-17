@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 30032,
+  "2024-02-17": 30063,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "Hip-Hop Haryanvi",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 219376,
       "name": "Aage Haryanvi",
       "url": "https://open.spotify.com/track/5jjm6KyGodrzZU9a3K8xrt"
@@ -1967,6 +1967,28 @@
       "duration_ms": 163835,
       "name": "Jaat Warriors",
       "url": "https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY"
+    },
+    {
+      "album": {
+        "name": "Jaat Warriors",
+        "url": "https://open.spotify.com/album/6IarN2HJWcunKkPf46tsU9"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        },
+        {
+          "name": "PRNCE SIDHU",
+          "url": "https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163861,
+      "name": "Jaat Warriors",
+      "url": "https://open.spotify.com/track/34A6afqf198Tg75CSQ5csO"
     },
     {
       "album": {

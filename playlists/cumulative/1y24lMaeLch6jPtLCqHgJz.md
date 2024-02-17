@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-286 songs - 14 hr 42 min
+288 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Memories](https://open.spotify.com/track/2c2Nne1QtjxR8sIc6ShuAV) | [AN3M](https://open.spotify.com/artist/5kpb3keizgJ6qq8QkPIBHv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Memories](https://open.spotify.com/album/0SCtOAO2qV1sAA0AFy46G2) | 3:13 | 2022-07-29 | 2023-07-14 |
 | [Memory](https://open.spotify.com/track/3mZ9iEe21mY35SIRm6D3gP) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Memory](https://open.spotify.com/album/2FukjkZdxYfvZUDBkFymVh) | 2:42 | 2022-07-29 | 2022-10-15 |
 | [Metro](https://open.spotify.com/track/7LT6ZkZ1cji0dWV7IBym2F) | [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS) | [Metro](https://open.spotify.com/album/6kfBbwPaccFAcsEEKTum9O) | 2:49 | 2023-07-27 |  |
+| [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2024-02-16 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/6dorGUM2FmYewXKxmgwoU6) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Songs That Get Drunk Girls Excited](https://open.spotify.com/album/7bURoh97mlJTalbKOGNWBU) | 3:12 | 2024-01-09 |  |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-06-02 |  |
 | [Monday \(Feat\. Philip Strand\)](https://open.spotify.com/track/1AvK4RTschGx3fDiYfSwbO) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Monday \(Feat\. Philip Strand\)](https://open.spotify.com/album/2lLZpQTUZcsOUhImIwkYR1) | 2:42 | 2023-03-24 | 2023-08-11 |
@@ -294,5 +295,6 @@
 | [You're Still Home \- Blackcode Remode](https://open.spotify.com/track/2bHcXgMCCTxXVHteDvQCF6) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [You're Still Home](https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e) | 2:26 | 2022-12-01 |  |
 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 | 2022-07-29 | 2022-08-27 |
 | [Your Body \- KAAZE Mix](https://open.spotify.com/track/3lGF0nr4zSBFF1IIedjdwh) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Your Body](https://open.spotify.com/album/1e5Y7EcUjZhAuMJYQMVSD1) | 2:53 | 2022-09-29 | 2023-07-29 |
+| [Your Love](https://open.spotify.com/track/68LkCIP3WWHNOiezuG9EAD) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Your Love](https://open.spotify.com/album/7ynfpnl2FL5RPvtq6L5IJj) | 3:55 | 2024-02-16 |  |
 
 \*This playlist was first scraped on 2022-08-16. Prior content cannot be recovered.

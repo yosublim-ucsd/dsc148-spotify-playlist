@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Bad Coffee & Liquor Club",
+        "url": "https://open.spotify.com/album/1dHJm91fNNgxinlcwSH0gi"
+      },
+      "artists": [
+        {
+          "name": "rosemances",
+          "url": "https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bad Coffee & Liquor Club",
+      "url": "https://open.spotify.com/track/4JA1QRKFcsDZiV1p8vySQf"
+    },
+    {
+      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
       },
@@ -11258,12 +11276,12 @@
           "url": "https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w"
         },
         {
-          "name": "Ryanleeisgod",
-          "url": "https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB"
-        },
-        {
           "name": "P1us",
           "url": "https://open.spotify.com/artist/7BD6B8s3JDIRfDQwgHmaD0"
+        },
+        {
+          "name": "Ryanleeisgod",
+          "url": "https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB"
         }
       ],
       "date_added": "2024-01-11",
@@ -12779,7 +12797,7 @@
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 284492,
+      "duration_ms": 284028,
       "name": "\u5594\u5662 Oh-Oh",
       "url": "https://open.spotify.com/track/1ReldBgmsvcKMU5nTRUYAu"
     },

@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 80076,
+  "2024-02-17": 80100,
   "date_first_scraped": "2022-10-01",
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Asa",
   "name": "Afro Indie",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 196162,
       "name": "A Long Way",
       "url": "https://open.spotify.com/track/3NZ4hG7YSIJAYUQ6ZOOl0w"
@@ -101,6 +101,24 @@
       "duration_ms": 323163,
       "name": "Afande",
       "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
+    },
+    {
+      "album": {
+        "name": "african boy",
+        "url": "https://open.spotify.com/album/52PJmIYBmqtSl3J5Y1TzEM"
+      },
+      "artists": [
+        {
+          "name": "Earlwin",
+          "url": "https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179409,
+      "name": "african boy",
+      "url": "https://open.spotify.com/track/5L3mMovfagNF3F6cXErnEG"
     },
     {
       "album": {
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 199029,
       "name": "My Ability",
       "url": "https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R"
@@ -3165,6 +3183,24 @@
       "duration_ms": 389120,
       "name": "Too Many Bags - Kaidi's Remix",
       "url": "https://open.spotify.com/track/66lnFWtNlxv3MQbF7QNQoy"
+    },
+    {
+      "album": {
+        "name": "Too Young To Go",
+        "url": "https://open.spotify.com/album/4TsZGn6aEpy14f2dufhmbI"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Too Young To Go",
+      "url": "https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz"
     },
     {
       "album": {

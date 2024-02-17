@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Shay Lia
 
-1,233 songs - 2 day 16 hr 29 min
+1,234 songs - 2 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,7 +876,8 @@
 | [Rambos Freestyle](https://open.spotify.com/track/5fuRS0HBZK8BMUfl78KxvW) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Rambos Freestyle](https://open.spotify.com/album/2ZDoHDHsljfAybBnH9ptdN) | 2:08 | 2022-02-02 | 2023-09-07 |
 | [Read The Room](https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Read The Room](https://open.spotify.com/album/66hA0bftjpanygAoCYZhou) | 2:46 | 2022-03-08 | 2022-04-07 |
 | [Reality Bites](https://open.spotify.com/track/0fxLLGYZcQKkb1rJCh8DrI) | [Mise En Scene](https://open.spotify.com/artist/4r7GGIhQom0s0FVrXcWtrK) | [Reality Bites](https://open.spotify.com/album/3g17ItSCwGOLvQ99LuipH5) | 3:31 | 2023-05-03 | 2023-06-08 |
-| [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 | 2024-02-07 |  |
+| [Really Mean It](https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 3:14 | 2024-02-07 |  |
+| [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 | 2024-02-07 | 2024-02-17 |
 | [Rebound](https://open.spotify.com/track/3maqVYkwbQv9bYcOzLN4u7) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Rebound](https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG) | 3:37 | 2022-09-07 | 2022-10-06 |
 | [Recharge My Heart](https://open.spotify.com/track/7ltvazcssAldoNhI5W6bYc) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Recharge My Heart](https://open.spotify.com/album/4mJOcfahsF3JULnHQiVUWV) | 2:41 | 2022-11-09 | 2022-12-01 |
 | [Recovering People Pleaser](https://open.spotify.com/track/0id6M2eREx4sxecXvAf9VP) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Recovering People Pleaser](https://open.spotify.com/album/4i5pTzsjVzLTtAU00WrgrL) | 3:22 | 2023-02-01 | 2023-03-02 |

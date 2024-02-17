@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 320006,
+  "2024-02-17": 320023,
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Oualid",
+  "description": "Motion & good vibes! Cover: Broederliefde",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 182312,
       "name": "Backshot",
       "url": "https://open.spotify.com/track/56l8pvbVqjn1vL0a6Os1aE"
@@ -2579,7 +2579,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 132843,
       "name": "BLEM",
       "url": "https://open.spotify.com/track/6f2YimjXDHyQCQqual85BA"
@@ -3451,7 +3451,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 200769,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
@@ -4512,6 +4512,24 @@
     },
     {
       "album": {
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/09IFfWicVoOYZm1YIWKlIE"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151902,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/5QHAXFwbq9NVQWsHSSF9Qs"
+    },
+    {
+      "album": {
         "name": "Designed By The Divine",
         "url": "https://open.spotify.com/album/01LTzLbVvIoPJVNwWVPMiD"
       },
@@ -4999,7 +5017,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154800,
       "name": "Don't Cost A Thing",
       "url": "https://open.spotify.com/track/6oP4rs0MTo9Lk3JseiaS4F"
@@ -6735,10 +6753,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
+        "name": "Grey (feat. Aitch)",
+        "url": "https://open.spotify.com/album/7cNzYOvsIKo8wSpwubBwJK"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169109,
+      "name": "Grey (feat. Aitch)",
+      "url": "https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e"
     },
     {
       "album": {
@@ -9089,7 +9129,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 123200,
       "name": "Laat Maar Waaien",
       "url": "https://open.spotify.com/track/7xPjXgKwxv3rirBjWdYUS4"
@@ -9913,6 +9953,24 @@
       "duration_ms": 195643,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/62CnxWBWZuAku9mNg6Plof"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
       "album": {
@@ -12908,6 +12966,24 @@
     },
     {
       "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/5H4i3DJh5BULFvepD8zx5u"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/4DWpR1NKXKrDFgecb7zGFr"
+    },
+    {
+      "album": {
         "name": "TURBULENTIE",
         "url": "https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw"
       },
@@ -13693,6 +13769,24 @@
       "duration_ms": 142381,
       "name": "Por De Tra",
       "url": "https://open.spotify.com/track/1mTnMaj9PPE9t0t5rlcYlY"
+    },
+    {
+      "album": {
+        "name": "Porfotto",
+        "url": "https://open.spotify.com/album/58Ebu4NvLqJtgrXe8t3B3G"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146935,
+      "name": "Porfotto",
+      "url": "https://open.spotify.com/track/2IyhJLITOeAnoGfHOXwiaX"
     },
     {
       "album": {
@@ -15901,10 +15995,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 136944,
       "name": "SVR",
       "url": "https://open.spotify.com/track/3alTbH23JtB8wSVFM70tve"
+    },
+    {
+      "album": {
+        "name": "Sweet Melanin (Valentine\u2019s Edition)",
+        "url": "https://open.spotify.com/album/1Yo9IOy3vA4koBYYNlZrwp"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "MELL",
+          "url": "https://open.spotify.com/artist/0oU4JPyGHFpmq8oNyfkrk7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183357,
+      "name": "Sweet Melanin (Valentine\u2019s Edition)",
+      "url": "https://open.spotify.com/track/3yZzxgXgdUjJwhaeTZsXpP"
     },
     {
       "album": {

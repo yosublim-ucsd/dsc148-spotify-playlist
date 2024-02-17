@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 151787,
+  "num_followers": 151843,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
+  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Blue Jean Blues (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Blue Jean Blues (2005 Remaster)",
-      "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/6IDAk9jqeYwhL1mYEjcRnr"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/3wOblrCpqJoMd38NW9qF8i"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "In London",
         "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 313840,
       "name": "Ghetto Woman",
       "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/6IDAk9jqeYwhL1mYEjcRnr"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/3wOblrCpqJoMd38NW9qF8i"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Love Letter To The Blues - Bonus Track",
-      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 373933,
       "name": "Same Old Blues Again (2007 - Remaster)",
       "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Connor Selby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Love Letter To The Blues - Bonus Track",
+      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Siftin' Thru Ashes",
-        "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
-      },
-      "artists": [
-        {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
-        }
-      ],
-      "duration_ms": 396320,
-      "name": "Lights Are On, But Nobody's Home",
-      "url": "https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Siftin' Thru Ashes",
+        "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "duration_ms": 396320,
+      "name": "Lights Are On, But Nobody's Home",
+      "url": "https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
-      },
-      "artists": [
-        {
-          "name": "Jantso Jokelin",
-          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
-        }
-      ],
-      "duration_ms": 219915,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Someday You'll Have These Blues",
         "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 247040,
       "name": "Beaumont Blues",
       "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
+      },
+      "artists": [
+        {
+          "name": "Jantso Jokelin",
+          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
+        }
+      ],
+      "duration_ms": 219915,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
     },
     {
       "added_at": "2023-10-05 08:53:30",

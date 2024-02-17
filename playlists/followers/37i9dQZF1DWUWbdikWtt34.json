@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 191256,
+  "2024-02-17": 191314,
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Kresya Della",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 272640,
       "name": "Dalan Liyane",
       "url": "https://open.spotify.com/track/3o9aRNDVtfpw4JtramprZx"
@@ -629,6 +629,24 @@
       "duration_ms": 286884,
       "name": "Disitu Aku Merasa Sedih",
       "url": "https://open.spotify.com/track/2n5utIK3llw4Y10fQ6laKC"
+    },
+    {
+      "album": {
+        "name": "Ditikam Cinta",
+        "url": "https://open.spotify.com/album/06yiibXjrtnrbWCCNjvcVB"
+      },
+      "artists": [
+        {
+          "name": "Kresya Della",
+          "url": "https://open.spotify.com/artist/0FkYDky9lfX1KkylPcqEu1"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "Ditikam Cinta",
+      "url": "https://open.spotify.com/track/02k03yFtDFPU4dOXYwoteY"
     },
     {
       "album": {
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 270733,
       "name": "Kartonyono Medot Janji",
       "url": "https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 329459,
       "name": "LDR ( layang dungo restu )",
       "url": "https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 297172,
       "name": "Menepi Cover",
       "url": "https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 274285,
       "name": "Milik Orang",
       "url": "https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 320913,
       "name": "Tak Mungkin Kembali",
       "url": "https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz"

@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 75870,
+  "2024-02-17": 75908,
   "date_first_scraped": "2022-02-11",
   "description": "The soft sound of a Jazz piano trio to help you relax and unwind.",
   "name": "Relaxing Jazz Piano",
@@ -3885,7 +3885,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 374482,
       "name": "In Retrospect",
       "url": "https://open.spotify.com/track/6UHuxAIKGI29WwdX7fRYDn"
@@ -10143,7 +10143,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 175263,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/1r6ox6z1nsDOH0GNKVBsvO"

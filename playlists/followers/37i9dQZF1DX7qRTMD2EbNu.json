@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 17987,
+  "2024-02-17": 18001,
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover:  Beeztrap KOTM",
+  "description": "Hottest bars coming live from the 233.  Cover:  Strongman",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -431,7 +431,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 201702,
       "name": "Afrafranto",
       "url": "https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
@@ -1035,6 +1035,24 @@
       "duration_ms": 190394,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3mHz3yqx958dVb2BlLoePR"
+    },
+    {
+      "album": {
+        "name": "Balotteli X",
+        "url": "https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD"
+      },
+      "artists": [
+        {
+          "name": "Kreptismenace",
+          "url": "https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104470,
+      "name": "Balotteli X",
+      "url": "https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH"
     },
     {
       "album": {
@@ -2660,6 +2678,28 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1jnLZzBfLVy6VC3VgraOYn"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Nuna",
+          "url": "https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT"
+        },
+        {
+          "name": "Vacs",
+          "url": "https://open.spotify.com/artist/2d8bfdQy488Ppx30WvzO2x"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197829,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6JKx5fvU8Qc782hH0tOIBz"
+    },
+    {
+      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -3280,6 +3320,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Love",
+        "url": "https://open.spotify.com/album/6jnOt0QzZo0WM6Yz1Re9w6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173274,
+      "name": "Ghetto Love",
+      "url": "https://open.spotify.com/track/22RIwUFhAGJkKJC2Lq9uP6"
+    },
+    {
+      "album": {
         "name": "Gimme Grace",
         "url": "https://open.spotify.com/album/1Y5UvC1xVYr7ejO8AUws02"
       },
@@ -3321,6 +3379,28 @@
       "duration_ms": 182099,
       "name": "GIRLS XXX",
       "url": "https://open.spotify.com/track/5UQsNzxfaIWuY0tT2pnZuh"
+    },
+    {
+      "album": {
+        "name": "Giwa",
+        "url": "https://open.spotify.com/album/4LW20V5XK2LHZPiSOxnzLT"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "SlickzMadeThat",
+          "url": "https://open.spotify.com/artist/6CR459ICiPc6teRID8u4u3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110013,
+      "name": "Giwa",
+      "url": "https://open.spotify.com/track/7b8W63ncQ0qnlGWJSsQvlG"
     },
     {
       "album": {
@@ -3471,7 +3551,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 186000,
       "name": "GORILLA",
       "url": "https://open.spotify.com/track/6H2082xvhunVM8YSQYiW27"
@@ -3950,6 +4030,28 @@
     },
     {
       "album": {
+        "name": "Jungle Music Pt.1",
+        "url": "https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "Jungle Music Pt.1",
+      "url": "https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu"
+    },
+    {
+      "album": {
         "name": "Just Wana Live",
         "url": "https://open.spotify.com/album/0GucHYqlUx2g3J3By4CeA0"
       },
@@ -4373,7 +4475,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
@@ -5224,6 +5326,32 @@
     },
     {
       "album": {
+        "name": "Mrs Sativa",
+        "url": "https://open.spotify.com/album/3xFHiV8Qx0bUNZ76iO9tvQ"
+      },
+      "artists": [
+        {
+          "name": "Halfco Baby",
+          "url": "https://open.spotify.com/artist/5Z1tk0XItnDFfbknQ6bF9U"
+        },
+        {
+          "name": "Zan",
+          "url": "https://open.spotify.com/artist/3qJXMb1WeIhBNu1qifUiPn"
+        },
+        {
+          "name": "Benty",
+          "url": "https://open.spotify.com/artist/3gJSud2qrIBrwHCKHP6A0S"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263067,
+      "name": "Mrs Sativa",
+      "url": "https://open.spotify.com/track/5ARd8VUjVywyr4eSh6cBLA"
+    },
+    {
+      "album": {
         "name": "Muntashi",
         "url": "https://open.spotify.com/album/6U0FDsijUBOM1IrraXxBeK"
       },
@@ -5406,6 +5534,36 @@
     },
     {
       "album": {
+        "name": "No Go Go",
+        "url": "https://open.spotify.com/album/0up3cENYdB9bLN3fWqICga"
+      },
+      "artists": [
+        {
+          "name": "Isolirium",
+          "url": "https://open.spotify.com/artist/1PvBL0xHCwNYbhRnfkuinf"
+        },
+        {
+          "name": "Dr. Pushkin",
+          "url": "https://open.spotify.com/artist/7hujJAta8Q5KMgvwOfqXsF"
+        },
+        {
+          "name": "Ataman Nikita",
+          "url": "https://open.spotify.com/artist/43hMrB8pbLJqwGzSkAMFdY"
+        },
+        {
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173945,
+      "name": "No Go Go",
+      "url": "https://open.spotify.com/track/4rS1Qms4p6GBVreXZvvpAb"
+    },
+    {
+      "album": {
         "name": "No Luck",
         "url": "https://open.spotify.com/album/38JcKfrL4JsWbUIDoafZCN"
       },
@@ -5425,6 +5583,28 @@
       "duration_ms": 140125,
       "name": "No Luck",
       "url": "https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ"
+    },
+    {
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1Ox2kUReJXvoBgK2xJYFiu"
+      },
+      "artists": [
+        {
+          "name": "Kojo Trap",
+          "url": "https://open.spotify.com/artist/3LKI86pr57MINaTNab74qI"
+        },
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/49ki3oqWJdFEJaEbMCC9SC"
     },
     {
       "album": {
@@ -6269,7 +6449,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 189172,
       "name": "Pergamos (Hidden Manna) Freestyle",
       "url": "https://open.spotify.com/track/17H8JYgt6Tt9ChcktiIL9o"
@@ -6957,6 +7137,24 @@
       "duration_ms": 206499,
       "name": "Sei Mu",
       "url": "https://open.spotify.com/track/2ZXHy4DKMIcl3yst89Jv20"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/3nfQ4lDpQIoe7pZalkT04t"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138959,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4iHFJCBANWahRAsY6i6DLP"
     },
     {
       "album": {
@@ -8687,6 +8885,36 @@
       "duration_ms": 209143,
       "name": "Yao",
       "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
+    },
+    {
+      "album": {
+        "name": "YAO (GHRemix)",
+        "url": "https://open.spotify.com/album/2UJpteBDin8uFHbdMilxEY"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "QV",
+          "url": "https://open.spotify.com/artist/2rHI4HvSo8u9tz0yijGX13"
+        },
+        {
+          "name": "Alorman",
+          "url": "https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8"
+        },
+        {
+          "name": "Ronzy",
+          "url": "https://open.spotify.com/artist/6DZUlTXJJAtKFPtcq6rmfE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "YAO - GHremix",
+      "url": "https://open.spotify.com/track/2KUQ1nkI5HLAq39rp0kQRg"
     },
     {
       "album": {

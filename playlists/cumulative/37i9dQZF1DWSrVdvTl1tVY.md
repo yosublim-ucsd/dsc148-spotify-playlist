@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Zac Samuel
 
-739 songs - 1 day 19 hr 17 min
+740 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [Vente](https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Vente](https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA) | 3:02 | 2023-11-17 |  |
 | [Verde](https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Verde](https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF) | 4:52 | 2022-11-04 | 2023-04-14 |
 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 | 2023-05-05 | 2023-10-27 |
+| [Vibrate](https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Vibrate / On The Ground](https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI) | 2:14 | 2024-02-16 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-02 | 2023-10-07 |
 | [Voices](https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Voices](https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz) | 3:40 | 2023-02-03 | 2023-07-21 |
 | [Voices](https://open.spotify.com/track/58jkrdRSuprEZJJ9V21BpM) | [James iD](https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS) | [Voices](https://open.spotify.com/album/4udoGwIaDyavjgzFNu0Dcy) | 3:31 | 2022-04-08 | 2022-07-07 |
@@ -717,7 +718,7 @@
 | [Want U](https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Want U](https://open.spotify.com/album/7yAV9Ts9PwX544kUEHBhlv) | 3:59 | 2021-12-17 | 2022-04-15 |
 | [Watching](https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Watching](https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47) | 2:41 | 2022-08-25 | 2022-12-03 |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-07 | 2023-04-07 |
-| [Waves](https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Waves](https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE) | 2:39 | 2023-09-29 |  |
+| [Waves](https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Waves](https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE) | 2:39 | 2023-09-29 | 2024-02-17 |
 | [We Bring It](https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [We Bring It](https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y) | 6:08 | 2022-09-15 | 2023-02-04 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-01-19 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2021-12-17 | 2022-04-02 |

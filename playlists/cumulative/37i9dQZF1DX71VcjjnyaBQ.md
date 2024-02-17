@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-192 songs - 16 hr 35 min
+193 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Night Creatures](https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1) | [The Jazz Seekers](https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH) | 4:47 | 2021-12-21 | 2024-01-18 |
 | [No Problem](https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt) | [Tristan Mélia Trio](https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz) | [No Problem](https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz) | 7:02 | 2021-12-21 | 2023-01-16 |
 | [Nothing Happens Here](https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Nothing Happens Here](https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K) | 4:14 | 2024-02-09 |  |
+| [Oh My](https://open.spotify.com/track/4tW55Nq7uPwHkYWqNx8e6t) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Oh My](https://open.spotify.com/album/2rFOE5zMg2b6nydeMZyIyY) | 4:17 | 2024-02-09 |  |
 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 | 2023-11-17 |  |
 | [On The Second Day](https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [On the Second Day](https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff) | 4:32 | 2021-12-21 |  |
 | [Oscarlypso](https://open.spotify.com/track/7uslfUYQ7fOwaKLBwUw7B0) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [World Jazz](https://open.spotify.com/album/0kuMIGBvbeMDfP7raCXh91) | 7:46 | 2021-12-21 | 2022-06-01 |
@@ -137,7 +138,7 @@
 | [Riders On The Storm](https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 5:33 | 2022-01-07 |  |
 | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [RoundAgain \(feat\. Brad Mehldau, Christian McBride, Brian Blade\)](https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm) | 6:00 | 2022-06-30 |  |
 | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/6R2vR6b0jLJaJCZUvyp5Ax) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/2lp2FIQT23ZWBwH3bPuvY5) | 6:00 | 2021-12-21 | 2022-07-29 |
-| [Root of the Matter](https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [Root of the Matter](https://open.spotify.com/album/0M1fHUbSgAwWO4OhlSITof) | 5:17 | 2023-11-22 |  |
+| [Root of the Matter](https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [Root of the Matter](https://open.spotify.com/album/0M1fHUbSgAwWO4OhlSITof) | 5:17 | 2023-11-22 | 2024-02-17 |
 | [Saving All My Love for You](https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj) | [Atlantic Five Jazz Band](https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA) | [The Pop Jazz Sessions](https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg) | 5:23 | 2022-09-22 |  |
 | [Sconsolato](https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM) | [Nathan Davis](https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO) | [Best of 1965\-76](https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv) | 3:28 | 2021-12-21 | 2024-01-18 |
 | [Sister Rosa](https://open.spotify.com/track/2ZuGfHsOmBicZnGSMwREbG) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 6:25 | 2021-12-21 | 2022-10-26 |

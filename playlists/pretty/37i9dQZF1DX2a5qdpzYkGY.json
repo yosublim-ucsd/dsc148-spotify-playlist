@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjk5OTdjY2I3MDFhMDkzZDRiYjI4Njk3ZDllN2NiZjUzNGE5NjZl",
+  "snapshot_id": "MCxkNDRjN2QxMDM0Zjk2YTYyYzQ1NzUyNjc0ZTg0ZTQ0NTk0MzgwZmQ2",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
+      "added_at": "2022-01-07 01:26:10",
+      "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+    },
+    {
       "added_at": "2023-12-12 19:48:08",
       "album": {
         "name": "Cape Cod Cottage",
@@ -439,22 +455,6 @@
       "duration_ms": 148556,
       "name": "Discovery at the Beach",
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
-    },
-    {
-      "added_at": "2022-01-07 01:26:10",
-      "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2022-09-12 20:14:58",

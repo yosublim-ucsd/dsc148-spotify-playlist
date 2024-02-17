@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
-  "num_followers": 66726,
+  "num_followers": 66886,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2RlMmI3NzRkNDdmNjE5YmRkZWNlY2FiZGNlYjY4YmY4YTY0ODFi",
+  "snapshot_id": "MCxiM2E3NGU5NjNhZmNhZjA0NzhlNmU1ZWYzMjEyMTE2NjQyNmRhZmYx",
   "tracks": [
     {
       "added_at": "2023-12-30 10:49:01",
@@ -722,6 +722,10 @@
         {
           "name": "Bheems Ceciroleo",
           "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Janakirao Ramana",
+          "url": "https://open.spotify.com/artist/4syBj6PRvC9jyIFX8j23kZ"
         }
       ],
       "duration_ms": 130287,

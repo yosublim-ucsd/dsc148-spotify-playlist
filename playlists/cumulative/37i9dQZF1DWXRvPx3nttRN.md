@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-406 songs - 22 hr 53 min
+409 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [How Good It Is](https://open.spotify.com/track/4XGlpZw4XyOAisQrpodzPn) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:14 | 2022-04-22 |  |
 | [How Good It Is](https://open.spotify.com/track/5VKrO93IhbQt0iAI5rBHwm) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [How Good It Is](https://open.spotify.com/album/6ayd7VAaIVJ9OB86f8Uryk) | 3:14 | 2021-03-12 | 2022-07-29 |
 | [Human Nature](https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl) | [Justin Morgan](https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw) | [Human Nature](https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB) | 3:56 | 2021-03-12 |  |
+| [I Believe \- Acoustic Version](https://open.spotify.com/track/3FBDk1IjgCmlCli9w21AkN) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 4:35 | 2024-02-16 |  |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/1h96m1Pp8b4FvPspAVeP54) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/album/4lmgLCJB6sr6XilpYTHWfN) | 3:05 | 2022-04-22 | 2023-02-14 |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3Rdk2p3vdG9xA6CMJ9YatO) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/album/0Z4PY4MaLiH7NNMsCPwhFh) | 3:05 | 2022-12-29 |  |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/601i9ltmAT6TZiS0Ctrv2P) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/album/0D0ec9gxxSevODrsTIKERP) | 3:05 | 2021-03-12 | 2022-07-29 |
@@ -236,6 +237,7 @@
 | [No Promises \- Acoustic](https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S) | 3:52 | 2022-04-22 |  |
 | [Nothin' On You](https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY) | 4:03 | 2021-03-12 | 2023-01-08 |
 | [Nothin' On You](https://open.spotify.com/track/62q1hnohI2uDDZDtsnqWah) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/36GxxUcP4g5cL3Kdfi5xAG) | 4:03 | 2022-12-29 |  |
+| [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 | 2024-02-16 |  |
 | [Novocaine \- Acoustic](https://open.spotify.com/track/1KZu4lCJJ4eCBUm9GgqHIL) | [TigerSwan](https://open.spotify.com/artist/2S0zyCV2F3fecOxuKHzM3i) | [Novocaine \(Acoustic\)](https://open.spotify.com/album/3YeIPHSRWUD5hDEJaB7oOZ) | 2:52 | 2021-03-12 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 | 2022-04-22 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/24DUTosxSiZ6X1h1jMMmKX) | 2:58 | 2021-03-12 | 2022-07-29 |
@@ -404,6 +406,7 @@
 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 | 2021-03-12 | 2022-07-29 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2022-04-22 |  |
 | [You Come First \- Acoustic Version](https://open.spotify.com/track/07ybeC5DaFdryi4P2Bw1VN) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [You Come First \(Acoustic Version\)](https://open.spotify.com/album/5nOrUm1tHVgM6PqzEN1MLN) | 2:47 | 2021-03-12 |  |
+| [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-16 |  |
 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/1LiIBHklUkG2BVhsW3KgOh) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Akustiska Hits våren 2021](https://open.spotify.com/album/64hSNLpBDqKRFGri9PhBhu) | 3:44 | 2022-04-22 | 2022-11-13 |
 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA) | 3:44 | 2022-04-22 |  |
 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 | 2021-03-12 | 2022-07-29 |

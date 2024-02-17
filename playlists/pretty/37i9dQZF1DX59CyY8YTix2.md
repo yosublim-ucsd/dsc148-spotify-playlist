@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: サバシスター\(saba sister\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,462 likes - 69 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,573 likes - 69 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 39 | [Giv U Reaction](https://open.spotify.com/track/2qEuMzBMCKIcZry0CoiqdE) | [downward](https://open.spotify.com/artist/0z9hI6Rl1OlXxC2lMrSHNa) | [Giv U Reaction](https://open.spotify.com/album/6hrBxvlQJiLdNqMVcE4SVz) | 2:57 |
 | 40 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 |
 | 41 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 |
-| 42 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
+| 42 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
 | 43 | [ROCK](https://open.spotify.com/track/4bNzOJKdaVYpZDDQRMXxV5) | [The Yeahs](https://open.spotify.com/artist/4YsLjdELeqkCzYp3O3y1bW) | [ROCK](https://open.spotify.com/album/1NjmRXQvmmj2LOojYlMeRh) | 3:21 |
-| 44 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
+| 44 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 |
 | 45 | [First cry](https://open.spotify.com/track/0cmZamCm6EgaUCCFgoON3u) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [First cry](https://open.spotify.com/album/2lZOIg02ilktCBks5hjr5r) | 3:51 |
 | 46 | [ANTS](https://open.spotify.com/track/0KWem3KlGq98EfpzR9qzPL) | [pile of hex](https://open.spotify.com/artist/6Fi3SNqlAYsmyLlMhQO9CX) | [LIQUESCENCE](https://open.spotify.com/album/30az4c7jsmWtd1pa56WL5O) | 2:57 |
 | 47 | [baby baby baby](https://open.spotify.com/track/2UPcE23mGIle9amKtht1va) | [in sea hole](https://open.spotify.com/artist/2KLnNZUP9ocNkgB9afmZpR) | [baby baby baby](https://open.spotify.com/album/1OggP8WTszY0RApyCOOZyy) | 4:05 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 68 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
 | 69 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
 
-Snapshot ID: `MCw1MmRlMjQ2NDAzOWY2MzA1MGY2NDE0NjZkM2JhYWEyMWZmNzcxZmE5`
+Snapshot ID: `MCxlMjZmNjM3MWRlOTNiODY1Yjk1YmRmMDBiNGY1MjVmMjNhYWExNGNh`

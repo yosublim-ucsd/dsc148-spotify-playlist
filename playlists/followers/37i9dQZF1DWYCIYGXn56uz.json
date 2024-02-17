@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 383978,
+  "2024-02-17": 384022,
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Alfa",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: CLARA",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -4010,6 +4010,24 @@
     },
     {
       "album": {
+        "name": "Non ti voglio pi\u00f9 vedere",
+        "url": "https://open.spotify.com/album/6Md7blnVhuI5fsbVuVkKWD"
+      },
+      "artists": [
+        {
+          "name": "Ethos",
+          "url": "https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Non ti voglio pi\u00f9 vedere",
+      "url": "https://open.spotify.com/track/4wlfHVP0BJALiYR1EpUTtk"
+    },
+    {
+      "album": {
         "name": "Non \u00e8 abbastanza",
         "url": "https://open.spotify.com/album/78Hk7mg4eWrYauEPYI8yIn"
       },
@@ -4853,6 +4871,24 @@
       "duration_ms": 141818,
       "name": "Radar",
       "url": "https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S"
+    },
+    {
+      "album": {
+        "name": "PRIMO",
+        "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "RAGAZZI FUORI",
+      "url": "https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz"
     },
     {
       "album": {
@@ -6241,6 +6277,24 @@
       "duration_ms": 196000,
       "name": "Urlare",
       "url": "https://open.spotify.com/track/1SZH869hNrHGJTKo7LMCzW"
+    },
+    {
+      "album": {
+        "name": "Non so chi ha creato il mondo ma so che era innamorato",
+        "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160260,
+      "name": "Vabbe' ciao",
+      "url": "https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG"
     },
     {
       "album": {

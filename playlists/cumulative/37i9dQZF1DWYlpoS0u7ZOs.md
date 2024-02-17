@@ -4,7 +4,7 @@
 
 > A new wave of rock music\. Cover: Sick Love
 
-312 songs - 16 hr 51 min
+314 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,10 +104,12 @@
 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 | 2023-09-21 | 2023-11-18 |
 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-07-28 | 2023-09-30 |
 | [Freakshow](https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6) | 2:24 | 2023-01-13 | 2023-03-11 |
+| [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 | 2024-02-16 |  |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-06-09 |
 | [Gaslighter](https://open.spotify.com/track/0CvJWXoFSiPHYpLiQK1PBf) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu) | 3:44 | 2023-01-13 | 2023-03-25 |
 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-09-21 | 2024-02-09 |
 | [Geisha](https://open.spotify.com/track/02wRK11rA8xRXBWAoI42iP) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Geisha](https://open.spotify.com/album/3GunDz6ntvuNGQcFHPtMiW) | 3:17 | 2023-03-24 | 2023-07-29 |
+| [Glue](https://open.spotify.com/track/21rQgTvx0rD9kOdFMRGQjC) | [About Bunny](https://open.spotify.com/artist/5Ywb0MRsHQdzngYBTZyuf9) | [Glue](https://open.spotify.com/album/6W8AJFYRwG0vCbf3qC3Pfj) | 2:42 | 2024-02-16 |  |
 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 | 2023-01-27 | 2023-06-09 |
 | [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 | 2023-03-24 | 2023-10-13 |
 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 | 2023-03-10 | 2023-04-02 |

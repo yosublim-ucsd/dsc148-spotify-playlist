@@ -4,7 +4,7 @@
 
 > when bass music was life
 
-61 songs - 4 hr 42 min
+63 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Heavy](https://open.spotify.com/track/2tRgSZG1RFINaXwueoBAtE) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:33 | 2022-08-31 |  |
 | [Hypest Hype](https://open.spotify.com/track/5BGTfgBLQAhfFXIGSFsFz5) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:29 | 2022-08-31 |  |
 | [I <3 U SO \- Skream's Made Zdar Feel Like He Was 20 Again Remix](https://open.spotify.com/track/4vSsMRGjCez8mriReBzGD1) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 4:48 | 2022-08-31 |  |
-| [I Can't Stop](https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lines in Wax](https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr) | 5:03 | 2022-08-31 |  |
+| [I Can't Stop](https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lines in Wax](https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr) | 5:03 | 2022-08-31 | 2024-02-17 |
+| [I Can't Stop](https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop](https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM) | 5:05 | 2022-08-31 |  |
 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 | 2022-08-31 |  |
 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 | 2022-08-31 |  |
 | [Innocence](https://open.spotify.com/track/31BPnapcrlqpPxMx2GRabp) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 5:08 | 2022-08-31 |  |
@@ -60,7 +61,8 @@
 | [Starry Eyed \- Jakwob Remix](https://open.spotify.com/track/4ZIm2UpFU9vP3LURrjOMwL) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71) | [Starry Eyed \(Remixes\)](https://open.spotify.com/album/1ytQtvRshj5i8NFNH8Tse9) | 4:35 | 2022-08-31 |  |
 | [Sunlight](https://open.spotify.com/track/0Ix7doBgImhoWJfDnwezP1) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Evolution Theory](https://open.spotify.com/album/5WahIyl6daGLtfLn8AIJjR) | 3:46 | 2022-08-31 |  |
 | [Superbad](https://open.spotify.com/track/3LK9g77hd41jzbGh1Etj44) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Superbad](https://open.spotify.com/album/2uRfUkQA3RfQ3BxqDZvhwt) | 3:42 | 2022-08-31 |  |
-| [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 | 2022-08-31 |  |
+| [Sweet Shop](https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/6Eb8vvrHeNeIN5upuYS3Io) | 4:35 | 2022-08-31 |  |
+| [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 | 2022-08-31 | 2024-02-17 |
 | [Talk To Frank](https://open.spotify.com/track/1xdFikiMqVodcpMlPHShjv) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [The Breakout Trilogy](https://open.spotify.com/album/5TlGaV04CYkDDkIhL95OZR) | 5:00 | 2022-08-31 |  |
 | [Tap Ho](https://open.spotify.com/track/28GuES6B6nq33i7GcU3IhU) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61) | [Tap Ho / Don't Play](https://open.spotify.com/album/60VDmIBeYmGlLP2VocOdiD) | 4:35 | 2022-08-31 |  |
 | [Tarantula \- Original Mix](https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Tenor Fly](https://open.spotify.com/artist/37uswdRBtJ0qyXas292Uo0), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [Fresh](https://open.spotify.com/artist/5OrqQQfSZjmgoFMhMdhffs) | [Hold Your Colour](https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU) | 5:31 | 2022-08-31 |  |

@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Absolutely!",
+        "url": "https://open.spotify.com/album/3hMTyoSx31EbQ5TKx883f5"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        },
+        {
+          "name": "Kyle Schroeder",
+          "url": "https://open.spotify.com/artist/0bMyCP9f8RvsY6Oe8LkiRC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "Absolutely!",
+      "url": "https://open.spotify.com/track/1HNnwy8YxzS3lQo062OJ0n"
+    },
+    {
+      "album": {
         "name": "Affirmation (feat. Tony Terry)",
         "url": "https://open.spotify.com/album/1h53j1u4uzF4QQOc6r33WN"
       },
@@ -661,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/6XFpzBsUMzIzIGs1shA3Sr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jackson",
+          "url": "https://open.spotify.com/artist/2W7GdChFwdxmp6mF69KO4W"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254923,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/0RbZ0AtXAl4tOJjbalq9v1"
+    },
+    {
+      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
       },
@@ -960,6 +1000,24 @@
       "duration_ms": 245000,
       "name": "Bridges - Radio Edit",
       "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
+    },
+    {
+      "album": {
+        "name": "Brother to Brother",
+        "url": "https://open.spotify.com/album/1dd1qS6eGynRg0gveEkPPv"
+      },
+      "artists": [
+        {
+          "name": "Greg Manning",
+          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273232,
+      "name": "Brother to Brother",
+      "url": "https://open.spotify.com/track/1T4fHkHBTsJmzN3QroEnq1"
     },
     {
       "album": {
@@ -1784,7 +1842,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 215913,
       "name": "Dirty Martini",
       "url": "https://open.spotify.com/track/5SM7Y1qawtGkIVqjqHNZrM"
@@ -1868,7 +1926,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
@@ -2265,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Feel Flows",
+        "url": "https://open.spotify.com/album/5waUq656AW2oTIsSaYFPnz"
+      },
+      "artists": [
+        {
+          "name": "Gentleman Professional",
+          "url": "https://open.spotify.com/artist/0LXqQL6oACVpXh9S49sn5h"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Feel Flows",
+      "url": "https://open.spotify.com/track/1zrMpVPjvooyqOsjPZZrlC"
+    },
+    {
+      "album": {
         "name": "Feel Like Making Love / Night Crawler",
         "url": "https://open.spotify.com/album/3prD0xRzK9E4AGjtjC0gNU"
       },
@@ -2436,6 +2512,24 @@
       "duration_ms": 262640,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/2e8uLf2PwWsjqf4NFMN2Xh"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259305,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/4zVo95cjwpGFBFtyODKJcc"
     },
     {
       "album": {
@@ -2737,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Get On It",
+        "url": "https://open.spotify.com/album/0pCwzuO8g4CzYmrkIXhaJX"
+      },
+      "artists": [
+        {
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240795,
+      "name": "Get On It",
+      "url": "https://open.spotify.com/track/5vDEodWFzseVwZLH8sTdo2"
+    },
+    {
+      "album": {
         "name": "Gift to the World",
         "url": "https://open.spotify.com/album/0AiFnIPpeIMFWpCBZJmX8y"
       },
@@ -2972,7 +3084,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 268538,
       "name": "Hello Beautiful - radio single",
       "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
@@ -4832,7 +4944,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 240640,
       "name": "Nine 2 Five",
       "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
@@ -5718,7 +5830,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 240640,
       "name": "Secret Sauce",
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
@@ -6461,6 +6573,24 @@
     },
     {
       "album": {
+        "name": "Straighten Up",
+        "url": "https://open.spotify.com/album/6qPWVg4MxBEIFoG2O8XdnG"
+      },
+      "artists": [
+        {
+          "name": "Gino Rosaria",
+          "url": "https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234589,
+      "name": "Straighten Up",
+      "url": "https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/26iW490GVru2pH1WWU2Lln"
       },
@@ -6740,7 +6870,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 256264,
       "name": "Sunrise Boulevard",
       "url": "https://open.spotify.com/track/2DU4A4bsnRYrf5xcKn1Hbo"
@@ -8086,7 +8216,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 256234,
       "name": "Your Love Is Good",
       "url": "https://open.spotify.com/track/2Fc4A3KX4CHF7TC8JSvU6G"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=z9IvQnCmTVesshTJLRVaoA">Venom</a>,  <a href="https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj?si=2e\_svoWtSnS6jKFCv1STkQ">Shishiliza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,671 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,739 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Khuphuka](https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:43 |
 | 50 | [Thandaza](https://open.spotify.com/track/6vR8F8fp42rA8ecAlimsuw) | [DeeTheGeneral](https://open.spotify.com/artist/6rJUmLA6tYddLv09w8ec6t), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Thandaza](https://open.spotify.com/album/088OsBlXpMBHglE3f9vUTI) | 6:05 |
 
-Snapshot ID: `MCxiNTJjYzYzYTY1MmExNmNlZGU1OTdiYjkxOGJjZGVjZjU5NDQ5NWFm`
+Snapshot ID: `MCxlYTI5Nzc0YmE5MjRlMTliN2ViYTEyZmJhNzAxNzlkMDJiODU5NDEx`

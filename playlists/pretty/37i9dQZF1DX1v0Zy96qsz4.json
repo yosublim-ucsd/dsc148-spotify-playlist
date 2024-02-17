@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 8269,
+  "num_followers": 8282,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTRjNDZmZjk2Mzc4MmJkMmZjOWRjN2Y2ZTg2MWNlNDliMTI3NjI3",
+  "snapshot_id": "MCw1MTdjNTM1Yzk4MTllYTcxMDdkOWJmZDVmMzg4YTA5MWY5OGI0ZjFj",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -763,30 +763,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+        "name": "Amazing (feat. DJ Khaled)",
+        "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
       },
       "artists": [
         {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
           "name": "DJ Khaled",
           "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 258982,
-      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
-      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+      "duration_ms": 160017,
+      "name": "Amazing (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
     },
     {
       "added_at": "2022-10-02 02:05:19",
@@ -819,22 +811,30 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "Amazing (feat. DJ Khaled)",
-        "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
           "name": "DJ Khaled",
           "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 160017,
-      "name": "Amazing (feat. DJ Khaled)",
-      "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
+      "duration_ms": 258982,
+      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
+      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
     },
     {
       "added_at": "2022-10-02 02:05:19",

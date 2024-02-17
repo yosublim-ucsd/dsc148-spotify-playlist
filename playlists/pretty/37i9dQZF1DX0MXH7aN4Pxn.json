@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 675607,
+  "num_followers": 675613,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTU2NzZmNmM4MGUwNTM5N2QyNmY0Y2ViZDM1ZGU2MmJjNGRkOGMw",
+  "snapshot_id": "MCw0ZGNlN2MxNzcxN2MxNmI2YTg1MTA3M2NlMTM5MDg5NGUxYThiZDE0",
   "tracks": [
     {
       "added_at": "2024-02-14 11:37:11",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 154083,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
       },
@@ -1271,42 +1287,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Magnetic Man",
-        "url": "https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr"
-      },
-      "artists": [
-        {
-          "name": "Magnetic Man",
-          "url": "https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL"
-        },
-        {
-          "name": "Angela Hunte",
-          "url": "https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "I Need Air (feat. Angela Hunte)",
-      "url": "https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Magnetic Man",
+        "url": "https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Man",
+          "url": "https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL"
+        },
+        {
+          "name": "Angela Hunte",
+          "url": "https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "I Need Air (feat. Angela Hunte)",
+      "url": "https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1515,58 +1515,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "9TS (90s Baby)",
-        "url": "https://open.spotify.com/album/2v6p3jVRtDCO5OHPIjJKpN"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 282580,
-      "name": "9TS (90s Baby)",
-      "url": "https://open.spotify.com/track/09rXkNUrCM97FSm74J4jOr"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/14epDZDRMsXMcwuxF9RcZU"
-      },
-      "artists": [
-        {
-          "name": "Dansson",
-          "url": "https://open.spotify.com/artist/5cV7mrWWeFiDSykEYAqxXI"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 162428,
-      "name": "Shake That - Radio Edit",
-      "url": "https://open.spotify.com/track/0IRAwx9pi1H9yKph1L5NXm"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 153412,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "My Head is A Jungle - MK Remix / Radio Edit",
         "url": "https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W"
       },
@@ -1587,6 +1535,58 @@
       "duration_ms": 206007,
       "name": "My Head is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "9TS (90s Baby)",
+        "url": "https://open.spotify.com/album/2v6p3jVRtDCO5OHPIjJKpN"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 282580,
+      "name": "9TS (90s Baby)",
+      "url": "https://open.spotify.com/track/09rXkNUrCM97FSm74J4jOr"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 153412,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/14epDZDRMsXMcwuxF9RcZU"
+      },
+      "artists": [
+        {
+          "name": "Dansson",
+          "url": "https://open.spotify.com/artist/5cV7mrWWeFiDSykEYAqxXI"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 162428,
+      "name": "Shake That - Radio Edit",
+      "url": "https://open.spotify.com/track/0IRAwx9pi1H9yKph1L5NXm"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "When Friday Comes",
+        "url": "https://open.spotify.com/album/4Lv8mRC2cxayjHbmOQSZmL"
+      },
+      "artists": [
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 181944,
+      "name": "When Friday Comes",
+      "url": "https://open.spotify.com/track/3yDbJlEJuWjTMPUrM9z9TH"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Tic Tacs (JAKKOB Remix)",
         "url": "https://open.spotify.com/album/3667AW7fmvUul08gOsR0L7"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 179076,
       "name": "Tic Tacs - JAKKOB Remix",
       "url": "https://open.spotify.com/track/1THLb2bASzBj3HNpeW4QwG"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "When Friday Comes",
-        "url": "https://open.spotify.com/album/4Lv8mRC2cxayjHbmOQSZmL"
-      },
-      "artists": [
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 181944,
-      "name": "When Friday Comes",
-      "url": "https://open.spotify.com/track/3yDbJlEJuWjTMPUrM9z9TH"
     },
     {
       "added_at": "2024-02-14 11:37:11",

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2029462,
+  "num_followers": 2029649,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ0OTUsOGY2YjA0NzU1ZGRkZjJiNDllZWI0NDE1MDFiNWViN2JkMzhjZTc1OA==",
+  "snapshot_id": "MTQ1MDksOGNiZDIzY2M3N2MzMGY1ZmJhNjdkNWUyZTE2MTBlMDQ1YzIzNTMwNg==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -465,6 +465,26 @@
       "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
     },
     {
+      "added_at": "2024-02-16 22:26:21",
+      "album": {
+        "name": "Compute",
+        "url": "https://open.spotify.com/album/3f4xGG4tcOW0Xy14lSYdTG"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "duration_ms": 263610,
+      "name": "Compute",
+      "url": "https://open.spotify.com/track/0Y45CwcVePrBc7Cfj0kz5f"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "obsessed",
@@ -507,30 +527,6 @@
       "duration_ms": 250285,
       "name": "Blue KNY Factory Remix - KNY Factory Remix",
       "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 132682,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -701,6 +697,22 @@
       "url": "https://open.spotify.com/track/2GYjSu8UPhlOHDIjmc4ltN"
     },
     {
+      "added_at": "2024-02-02 20:11:19",
+      "album": {
+        "name": "Montagem Euphoria Game",
+        "url": "https://open.spotify.com/album/1M7M3rVXKfP2zk23fvlVPD"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 81379,
+      "name": "Montagem Euphoria Game",
+      "url": "https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Light",
@@ -759,26 +771,6 @@
     {
       "added_at": "2024-01-29 22:53:51",
       "album": {
-        "name": "NOVA",
-        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 206727,
-      "name": "I Wanna Know",
-      "url": "https://open.spotify.com/track/4ToogKQq58R9TvO40qRuxi"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
         "name": "Solitude Velocity - Slowed + Loop",
         "url": "https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo"
       },
@@ -815,22 +807,6 @@
       "duration_ms": 197052,
       "name": "7-DS - Vanic Remix",
       "url": "https://open.spotify.com/track/2dS7SiN4vrHTtdEfGlTLtS"
-    },
-    {
-      "added_at": "2024-02-02 20:11:19",
-      "album": {
-        "name": "Montagem Euphoria Game",
-        "url": "https://open.spotify.com/album/1M7M3rVXKfP2zk23fvlVPD"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 81379,
-      "name": "Montagem Euphoria Game",
-      "url": "https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN"
     },
     {
       "added_at": "2024-02-02 20:11:24",
@@ -997,6 +973,26 @@
       "url": "https://open.spotify.com/track/6xQpnKc8pxK1cfM6DAgySh"
     },
     {
+      "added_at": "2024-02-16 18:52:49",
+      "album": {
+        "name": "Quiet in the Backseat",
+        "url": "https://open.spotify.com/album/3YA5f5g1PcuDczlfY9oZJj"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Maybe It's a Ghost",
+      "url": "https://open.spotify.com/track/5Qx3oA5TH3jS8xN3zuJrru"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "it's been so long",
@@ -1123,6 +1119,26 @@
       "duration_ms": 165120,
       "name": "Karma Is A Bitch Like You - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0aTVZx2UxqpK81Zqjguf2N"
+    },
+    {
+      "added_at": "2024-02-16 22:02:10",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/67Vv0WIob1W67obkI8P0B9"
+      },
+      "artists": [
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        },
+        {
+          "name": "Lister",
+          "url": "https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/3OKrYET176YDfFvbEA05hr"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1393,6 +1409,26 @@
       "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
     },
     {
+      "added_at": "2024-02-16 18:52:44",
+      "album": {
+        "name": "Quiet in the Backseat",
+        "url": "https://open.spotify.com/album/3YA5f5g1PcuDczlfY9oZJj"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        }
+      ],
+      "duration_ms": 315483,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/5bMy00AZuGFqiWqps87HWB"
+    },
+    {
       "added_at": "2024-02-07 17:37:59",
       "album": {
         "name": "Feel Alive",
@@ -1555,22 +1591,6 @@
     {
       "added_at": "2024-01-29 22:53:51",
       "album": {
-        "name": "into my mind",
-        "url": "https://open.spotify.com/album/7HadDhMBFHTLa9XeBAZF2g"
-      },
-      "artists": [
-        {
-          "name": "die together in venus",
-          "url": "https://open.spotify.com/artist/2WgxR4bpsyz811ERN8EW4V"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "into my mind",
-      "url": "https://open.spotify.com/track/6eVTcRMXYg2Sug6docgeNo"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
         "name": "Brain Tickler",
         "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
       },
@@ -1583,30 +1603,6 @@
       "duration_ms": 144134,
       "name": "Brain Tickler",
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "For The Most Part",
-        "url": "https://open.spotify.com/album/0M2ZFWs4sdIc9SOGuJSjfq"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        },
-        {
-          "name": "SadBois",
-          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
-        },
-        {
-          "name": "VNDETTA",
-          "url": "https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5"
-        }
-      ],
-      "duration_ms": 218028,
-      "name": "For The Most Part",
-      "url": "https://open.spotify.com/track/67VgKO83J9P12AiLW5IjN4"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1971,30 +1967,6 @@
       "duration_ms": 141098,
       "name": "Ur Perfect I Hate It",
       "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0BQIqS7CzTfYAQY5H9DU5S"
-      },
-      "artists": [
-        {
-          "name": "Highup",
-          "url": "https://open.spotify.com/artist/5vGy6auivb3qywR2zZQvU8"
-        },
-        {
-          "name": "DJ SODA",
-          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
-        }
-      ],
-      "duration_ms": 135454,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4T49o23TlFgm1AEEz4uIhM"
     },
     {
       "added_at": "2024-01-29 22:53:51",

@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 16778,
+  "2024-02-17": 16793,
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=fKODYe_8T1yTmzhm70J3Cw\">Fokofpolisiekar</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JGUrPgDPS06jZsY-1v2IvQ\">VOLK</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -511,6 +511,24 @@
       "duration_ms": 260945,
       "name": "Awake",
       "url": "https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7"
+    },
+    {
+      "album": {
+        "name": "Baby Fourie",
+        "url": "https://open.spotify.com/album/1IZjQX1rvxFn5IgujegAHJ"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Baby Fourie",
+      "url": "https://open.spotify.com/track/241w9ZhajUhUxkHq13EKDe"
     },
     {
       "album": {
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 134219,
       "name": "COKEHEAD",
       "url": "https://open.spotify.com/track/31rtGzjxNxjaMlI1ylfrKH"
@@ -2705,7 +2723,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 260000,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/7oOH86S0Di0Ur6N8XgPG6P"
@@ -3395,6 +3413,24 @@
       "duration_ms": 224266,
       "name": "Hounds Loose",
       "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
+    },
+    {
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/6BhXX5CX1bco1cqRxmuvE8"
+      },
+      "artists": [
+        {
+          "name": "Kryye",
+          "url": "https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114833,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/2JBODRI2LlpMv9piEYXSwI"
     },
     {
       "album": {
@@ -6535,7 +6571,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 195605,
       "name": "Stamp Daai Voete",
       "url": "https://open.spotify.com/track/6PItFXT4T7IVQNtxLx3w3H"

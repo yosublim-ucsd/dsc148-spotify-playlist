@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Changbin, Kim Chang\-Wan\(창빈, 김창완\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lim Hyunsik\(임현식\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-564 songs - 1 day 10 hr 40 min
+565 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Classic \(feat\. MRCH\)](https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW) | [moneto](https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Classic](https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8) | 3:40 | 2022-08-01 | 2022-08-13 |
 | [coii \- Single Version](https://open.spotify.com/track/1f7c2QDWM7KWVQMXmarNbF) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [co\-isolation](https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5) | 5:02 | 2023-10-27 | 2023-11-10 |
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2022-09-30 | 2022-10-08 |
-| [COLORFUL ZEBRA](https://open.spotify.com/track/0IlkOqIA3SNgO2zETgFuz5) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [COLORFUL ZEBRA](https://open.spotify.com/album/1iQg4tgsJJ2Jbl5GguMgM6) | 2:17 | 2024-01-31 |  |
+| [COLORFUL ZEBRA](https://open.spotify.com/track/0IlkOqIA3SNgO2zETgFuz5) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [COLORFUL ZEBRA](https://open.spotify.com/album/1iQg4tgsJJ2Jbl5GguMgM6) | 2:17 | 2024-01-31 | 2024-02-17 |
 | [Colors of](https://open.spotify.com/track/4mGo0G3WCny26CJRiCyXUU) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Colors of](https://open.spotify.com/album/6a3yd7PCqC4GYDJQlAWPb3) | 3:29 | 2022-08-01 | 2022-08-13 |
 | [Colors of You](https://open.spotify.com/track/35nhfxiAlFeNvKWTQUR5kp) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [In Dreams, In Dreams](https://open.spotify.com/album/4gqNvoIBouPkzQAAusZb6f) | 4:30 | 2022-07-08 | 2022-07-16 |
 | [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 | 2023-04-06 |
@@ -240,6 +240,7 @@
 | [Knight \(Knight for Fight\)](https://open.spotify.com/track/1GgqaOfzfi0Aa3xWfcFATl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Tales Runner \[Multiverse and Dimension Authority\] O.S.T PART\. 1 Knight \(Knight for Fight\)](https://open.spotify.com/album/2a1E4ATdnm2vvhrliXtg6g) | 3:05 | 2022-12-22 | 2023-01-11 |
 | [kyrie](https://open.spotify.com/track/28cZrg5bm25e5LcZJL8gFi) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 2:59 | 2022-05-03 | 2022-05-12 |
 | [L.A.F.S\. \(feat\. C Jamm\)](https://open.spotify.com/track/4P9JJXTWztcbX8Lbk0h2cv) | [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [L.A.F.S.](https://open.spotify.com/album/6IhxtYo7lqjgsns4QYr4gG) | 3:40 | 2022-04-22 | 2022-07-29 |
+| [La Mar](https://open.spotify.com/track/4QXcrw2uElBPXrWcx7RkQ0) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [The Young Man and the Deep Sea](https://open.spotify.com/album/2OvWzoOwfDi6BKee7d3XGC) | 4:37 | 2024-02-16 |  |
 | [Lack of love](https://open.spotify.com/track/77iYFyHq2TNcGDbn1cW2y7) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [On your mark](https://open.spotify.com/album/3M6ElKBthezpD7HUs4eLJl) | 3:40 | 2022-04-12 | 2022-07-27 |
 | [Landed](https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 3:55 | 2022-04-12 | 2022-07-22 |
 | [Last Hope](https://open.spotify.com/track/0vrbIBeWT2knGYgkKyJJ9D) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:54 | 2022-06-09 | 2022-06-15 |

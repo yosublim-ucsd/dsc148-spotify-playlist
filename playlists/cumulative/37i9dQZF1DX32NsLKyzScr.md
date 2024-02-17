@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,053 songs - 2 day 9 hr 15 min
+1,054 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [Shake It](https://open.spotify.com/track/1Eh1KT8TVoRISpnphcMG5W) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Shake It](https://open.spotify.com/album/0glqj5fGTpYXiAibo9MP9s) | 3:04 | 2020-09-21\* | 2021-01-23 |
 | [Shapes \- Oliver Smith Remix \(Mixed\)](https://open.spotify.com/track/4G8P3HXG8O3gRUcy5nv1NP) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Mat Zo Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/11y5JIlnyXqKjzkenVTfU5) | 6:25 | 2020-09-21\* | 2020-11-03 |
 | [Shine](https://open.spotify.com/track/6dm4tlxk2CbSV9grb2hILi) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Shine](https://open.spotify.com/album/015OdKtK69kpEuN3jHTAw0) | 3:06 | 2020-09-21\* | 2020-10-10 |
+| [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 |  |
 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 | 2022-03-11 | 2022-12-03 |
 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 | 2023-02-10 | 2023-04-04 |
 | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ) | 2:57 | 2022-11-11 | 2023-02-11 |
@@ -1040,7 +1041,7 @@
 | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5) | 2:54 | 2022-08-12 | 2023-04-01 |
 | [WOW](https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH) | 2:28 | 2020-09-21\* | 2021-01-23 |
 | [Written In The Stars](https://open.spotify.com/track/4UGvqi9PIjHesEpPOO7Hl8) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Written In The Stars](https://open.spotify.com/album/0eAGUifEmo2I00dISfJyJe) | 3:10 | 2021-09-11 | 2022-03-12 |
-| [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 | 2023-05-01 |  |
+| [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 | 2023-05-01 | 2024-02-17 |
 | [You](https://open.spotify.com/track/2lecxeZxPiK58oaDMmP7Mi) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Melo.Kids](https://open.spotify.com/artist/67zbXa7VOBhfFhM5n6AM33) | [You](https://open.spotify.com/album/5dfdcajtUfUpXPmfkno29R) | 2:24 | 2020-09-21\* | 2021-01-05 |
 | [You & I](https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [You & I](https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU) | 2:48 | 2021-08-14 | 2022-03-12 |
 | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/track/6Q0Dzn2dGVvq0KPKjl2BPC) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/album/7FjEeMfveCJGI0IAyqNFGm) | 3:25 | 2021-10-23 | 2022-01-05 |

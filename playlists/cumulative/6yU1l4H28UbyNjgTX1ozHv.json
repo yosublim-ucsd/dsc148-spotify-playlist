@@ -1135,6 +1135,28 @@
     },
     {
       "album": {
+        "name": "Happy Together (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        },
+        {
+          "name": "Every Season",
+          "url": "https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166842,
+      "name": "Happy Together - Acoustic Version",
+      "url": "https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX"
+    },
+    {
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -2226,7 +2248,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 224170,
       "name": "Mirrors - Acoustic",
       "url": "https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY"

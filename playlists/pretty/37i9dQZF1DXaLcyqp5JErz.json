@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 545066,
+  "num_followers": 545270,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGUzOTU0ZDNlOGUzN2M1YzFhMjMyYmY5OWVmZjFhYTRiZWVmN2Iw",
+  "snapshot_id": "MCxlZWQ1MDk0ZTgyOTg5NGFlNTkwZThjOTNlMzVkNTRjY2FmYTIwMzc3",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Deus de Promessas",
         "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "O Melhor de Deus Esta Por Vir",
-        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
-      },
-      "artists": [
-        {
-          "name": "Voz da Verdade",
-          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "O Escudo",
-      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Deserto",
-        "url": "https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn"
     },
     {
       "added_at": "2023-10-13 16:02:51",

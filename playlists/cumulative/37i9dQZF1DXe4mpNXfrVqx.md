@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Azzy
 
-176 songs - 7 hr 45 min
+177 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,9 +151,10 @@
 | [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 | 2023-05-06 |
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 |  |
-| [QUEEN](https://open.spotify.com/track/6jAKucqBZTsUImOlZQvBnS) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [QUEEN](https://open.spotify.com/album/7qeWEAZSxFvAkW2IaMOrQV) | 3:10 | 2023-11-10 |  |
+| [QUEEN](https://open.spotify.com/track/6jAKucqBZTsUImOlZQvBnS) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [QUEEN](https://open.spotify.com/album/7qeWEAZSxFvAkW2IaMOrQV) | 3:10 | 2023-11-10 | 2024-02-17 |
 | [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 | 2023-03-25 |
+| [queviagem](https://open.spotify.com/track/05HQd9j0Dz2Cnn4HHKZDQ0) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [queviagem](https://open.spotify.com/album/4YAGa94QIPXFlQBByJvxa0) | 2:36 | 2024-02-16 |  |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 | 2022-11-12 |
 | [Remember](https://open.spotify.com/track/1CXIJfsvPU8TQYmi6LGmNn) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Remember](https://open.spotify.com/album/0u6DBct3cUq9S9xEtTiv47) | 2:01 | 2022-08-05 | 2022-09-03 |
 | [Respeita as Minas](https://open.spotify.com/track/12eokSUVGbuNJpYZE07W8b) | [Somos um Só Banca](https://open.spotify.com/artist/6NH95N14iT8vk07LI7JoxL), [Liz Mc](https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt), [MC Brendah](https://open.spotify.com/artist/1zcVZK6ImeqEX9vOJkSEaw), [Nubia Chris](https://open.spotify.com/artist/5IWKMNYQ8H9IuRCWOtBB1Z), [Andressa MC](https://open.spotify.com/artist/5rQZxNji6HtjNrQOeOVjas) | [Respeita as Minas](https://open.spotify.com/album/071sm1lfCvgoKA0kstQJUg) | 4:06 | 2022-03-18 | 2022-04-23 |

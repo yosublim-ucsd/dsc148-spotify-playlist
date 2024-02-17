@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/3NXtqHHDsZPWBzSI22foTn"
+      },
+      "artists": [
+        {
+          "name": "PB999",
+          "url": "https://open.spotify.com/artist/4EPlOOPkq9xBAwQWV3ibom"
+        },
+        {
+          "name": "mekesu",
+          "url": "https://open.spotify.com/artist/5Jz8VtL4TocWu1LzGrDr3z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/3rV9lzOTFC6YPnLO8zu7MY"
+    },
+    {
+      "album": {
         "name": "Cmg S2",
         "url": "https://open.spotify.com/album/63I8QR1hLJWNVYoZLgZl0H"
       },

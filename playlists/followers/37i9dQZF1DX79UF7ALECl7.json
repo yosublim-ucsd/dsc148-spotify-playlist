@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 121149,
+  "2024-02-17": 121153,
   "date_first_scraped": "2022-09-17",
   "description": "Have some chill house with your coffee\n",
   "name": "Coffee Club",
@@ -483,6 +483,28 @@
       "duration_ms": 485006,
       "name": "Blues On",
       "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
+    },
+    {
+      "album": {
+        "name": "Bring On Up Our Love",
+        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Bring On Up Our Love",
+      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
     },
     {
       "album": {

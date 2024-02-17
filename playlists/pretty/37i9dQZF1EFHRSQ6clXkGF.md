@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 42 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051 likes - 42 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 26 | [The Ways of the Wind](https://open.spotify.com/track/6ftLDMtJi6FuV0OadnBome) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/69rTTwmGtmD0kChPaxN5Zq) | 4:31 |
 | 27 | [Ladies' Man](https://open.spotify.com/track/6gk3nMocQXCGIwbSrdAFq1) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [redisCOVERed](https://open.spotify.com/album/361B52mkiwOy22cpp2zElU) | 3:31 |
 | 28 | [Le grand parking](https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [La Fleur Aux Dents](https://open.spotify.com/album/4v4KFFVfqx1cUgJ0ZFoV71) | 2:13 |
-| 29 | [Eastern Rain](https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [What We Did On Our Holidays](https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5) | 3:34 |
-| 30 | [Soul Is A Star](https://open.spotify.com/track/2hPgxAvHEOtg4CWRgX1onW) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 3:17 |
+| 29 | [Soul Is A Star](https://open.spotify.com/track/2hPgxAvHEOtg4CWRgX1onW) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 3:17 |
+| 30 | [Eastern Rain](https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [What We Did On Our Holidays](https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5) | 3:34 |
 | 31 | [Gift of the Magi \- Live](https://open.spotify.com/track/1vAl4ZjV9Wn1Aaioqg4NsA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 5:37 |
 | 32 | [Come to the Sunshine \- Live](https://open.spotify.com/track/5wEPxKa8wMRXb4IsdOMy5h) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 3:03 |
 | 33 | [Blank is](https://open.spotify.com/track/2Oh0FyjVferSXwboHIKqeG) | [Irma Schultz\-Keller](https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd) | [Sånger för December \(CDON\)](https://open.spotify.com/album/7wAWwTPLFIvGDBoyDzlguE) | 4:12 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 41 | [Captain O'Kane/River](https://open.spotify.com/track/3HgFxy7BIHKjb0uDysU9WM) | [Banshee In The Kitchen](https://open.spotify.com/artist/3OnauhYf1tNeiecYoI8Y9x) | [Invite the Light](https://open.spotify.com/album/4zgvZlVrERYdIcLnn9fEdX) | 6:40 |
 | 42 | [Last Time I Saw Richard](https://open.spotify.com/track/58MZivql2RjFPtMppY7N9a) | [Kevin Sandbloom](https://open.spotify.com/artist/3AeCqchDnjbQYA68wWTXIK) | [Still Blue](https://open.spotify.com/album/68DoM5Dt9XUpisi6Btf4hG) | 2:54 |
 
-Snapshot ID: `Mjg0Njc1MDAsMDAwMDAwMDA0MTdlYThhNDE5MjBmYzBlOWIxYTdkMjU5NDg5YWJmZA==`
+Snapshot ID: `Mjg0Njg5NDAsMDAwMDAwMDBlZjA5OGU2YjJhZWU4Y2UwODg3ZDJhOThkZmM5Y2I0OA==`

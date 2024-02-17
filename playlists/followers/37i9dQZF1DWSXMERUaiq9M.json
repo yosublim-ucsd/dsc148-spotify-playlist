@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 219104,
+  "2024-02-17": 219406,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -469,7 +469,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 194558,
       "name": "Buurman Uit Berlijn - Radio Edit",
       "url": "https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr"
@@ -788,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/2wgeOQ6OX7pmrX1quVlO3h"
+      },
+      "artists": [
+        {
+          "name": "Elon Bass",
+          "url": "https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3L8eDRWkchHU0AGv91cTQE"
+    },
+    {
+      "album": {
         "name": "Day 'N' Night",
         "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
       },
@@ -1011,6 +1029,24 @@
       "duration_ms": 190005,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
+    },
+    {
+      "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd"
     },
     {
       "album": {
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 288400,
       "name": "Goldener Raver (1995 Remix) - Rave Mix",
       "url": "https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw"
@@ -1895,10 +1931,28 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 213937,
       "name": "In The City (Charli XCX & Sam Smith) - DJ HEARTSTRING REMIX",
       "url": "https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/5u6OdIduUpROG052H662kO"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211541,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ"
     },
     {
       "album": {
@@ -3274,6 +3328,28 @@
     },
     {
       "album": {
+        "name": "Rapide (Feat. Boby Cornelius)",
+        "url": "https://open.spotify.com/album/1VAx7TSKvAotcxvC9qiZq8"
+      },
+      "artists": [
+        {
+          "name": "DREAM DJ TEAM",
+          "url": "https://open.spotify.com/artist/78HKXj2z44JthdgoqT9ElL"
+        },
+        {
+          "name": "Boby Cornelius",
+          "url": "https://open.spotify.com/artist/1gRzKks0ok55INcBtuvmb4"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337600,
+      "name": "Rapide (Feat. Boby Cornelius)",
+      "url": "https://open.spotify.com/track/5KOoIgOLXhdqC70suGkoYW"
+    },
+    {
+      "album": {
         "name": "Rave Alert",
         "url": "https://open.spotify.com/album/7vGBqOTTqBdXQ5603uhBNJ"
       },
@@ -3837,7 +3913,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 169329,
       "name": "Tell Me Daddy",
       "url": "https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh"

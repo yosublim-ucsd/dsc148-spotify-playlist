@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 36824,
+  "2024-02-17": 36829,
   "date_first_scraped": "2021-12-28",
   "description": "Explore the unforgettable melodies of the greatest LGBTQIA+ composers. Cover: Nico Muhly",
   "name": "Classically Queer",
@@ -903,6 +903,32 @@
     {
       "album": {
         "name": "Britten: Frank Bridge Variations - Lachrymae - Elegy for Strings - Simple Symphony - Two Portraits",
+        "url": "https://open.spotify.com/album/7phnIy6R4WJBnbFkDWF9bd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Camerata Nordica",
+          "url": "https://open.spotify.com/artist/4Khs7leCaYNvhuVmupy8rt"
+        },
+        {
+          "name": "Terje Tonnesen",
+          "url": "https://open.spotify.com/artist/1Z2JA4BB4ZeXOFWf20uW9Q"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480040,
+      "name": "Simple Symphony, Op. 4: III. Sentimental Sarabande",
+      "url": "https://open.spotify.com/track/3qkGsTIYfsTY2aU4fOg27V"
+    },
+    {
+      "album": {
+        "name": "Britten: Frank Bridge Variations - Lachrymae - Elegy for Strings - Simple Symphony - Two Portraits",
         "url": "https://open.spotify.com/album/30N6sukDkhcrt23XqvQ8yx"
       },
       "artists": [
@@ -921,7 +947,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 480040,
       "name": "Simple Symphony, Op. 4: III. Sentimental Sarabande",
       "url": "https://open.spotify.com/track/5KFkQswOEMS2SfiXof3HbK"

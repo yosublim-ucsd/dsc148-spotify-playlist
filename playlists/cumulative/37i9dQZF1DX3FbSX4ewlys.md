@@ -2,7 +2,7 @@
 
 ### [noventeras](https://open.spotify.com/playlist/37i9dQZF1DX3FbSX4ewlys)
 
-> Son los 90 y prendes la radio.
+> la generación del discman y el walkman
 
 119 songs - 7 hr 57 min
 

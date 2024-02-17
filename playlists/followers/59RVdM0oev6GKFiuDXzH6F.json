@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 4181,
+  "2024-02-17": 4183,
   "date_first_scraped": "2023-02-16",
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
   "name": "Tech House & Clubbing 2024",
@@ -119,7 +119,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 167809,
       "name": "Act A Fool",
       "url": "https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A"
@@ -5386,6 +5386,36 @@
     },
     {
       "album": {
+        "name": "Life\u2019s Too Short (feat. Scarlett)",
+        "url": "https://open.spotify.com/album/3DR0BJBWLEO5Uq8baZu15B"
+      },
+      "artists": [
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Da Brozz",
+          "url": "https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6"
+        },
+        {
+          "name": "Chunky Dip",
+          "url": "https://open.spotify.com/artist/1TmzgTXR9fUhmRuzIgnsV6"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143488,
+      "name": "Life\u2019s Too Short (feat. Scarlett)",
+      "url": "https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W"
+    },
+    {
+      "album": {
         "name": "Lifting Me",
         "url": "https://open.spotify.com/album/0LhKJWaazGA3jJoSike5z5"
       },
@@ -5565,7 +5595,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 289619,
       "name": "Living For The Weekend",
       "url": "https://open.spotify.com/track/1ufKXTZZodQ8LiVe4op3xN"
@@ -5873,6 +5903,24 @@
       "duration_ms": 158095,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/0BsSe6UOLAyHjB0v6lgPmY"
+    },
+    {
+      "album": {
+        "name": "Lost In The Music",
+        "url": "https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "Lost In The Music",
+      "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
     },
     {
       "album": {
@@ -6794,6 +6842,28 @@
     },
     {
       "album": {
+        "name": "My Illusion",
+        "url": "https://open.spotify.com/album/7f6P5PDtSHxWGk4DcgG1PD"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Massi Rocket",
+          "url": "https://open.spotify.com/artist/1qAjEEpWpE4dI2sDPeTwtl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197495,
+      "name": "My Illusion",
+      "url": "https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0"
+    },
+    {
+      "album": {
         "name": "Jack The House 4",
         "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
       },
@@ -6976,6 +7046,32 @@
     },
     {
       "album": {
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
+    },
+    {
+      "album": {
         "name": "No Cap",
         "url": "https://open.spotify.com/album/5flngZlwDlfT1t4c172wyy"
       },
@@ -7151,6 +7247,24 @@
       "duration_ms": 125585,
       "name": "NYC BABY",
       "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c"
+      },
+      "artists": [
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE"
     },
     {
       "album": {
@@ -7894,6 +8008,32 @@
     },
     {
       "album": {
+        "name": "Physique (feat. RBZ)",
+        "url": "https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MEARSY",
+          "url": "https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1"
+        },
+        {
+          "name": "RBZ",
+          "url": "https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178130,
+      "name": "Physique (feat. RBZ)",
+      "url": "https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"
+    },
+    {
+      "album": {
         "name": "Pills",
         "url": "https://open.spotify.com/album/7mWEltJZJ16efLQawS02y0"
       },
@@ -8378,6 +8518,28 @@
     },
     {
       "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/5piXyzMAIZuMZ8VaofZjNx"
+      },
+      "artists": [
+        {
+          "name": "Lahos",
+          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
+        },
+        {
+          "name": "Sarazar",
+          "url": "https://open.spotify.com/artist/7fXsYMwApwATorXlTt95LD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/3MvGYvJ8pjFnau0RkcspXK"
+    },
+    {
+      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst"
       },
@@ -8517,6 +8679,36 @@
       "duration_ms": 196776,
       "name": "RITE",
       "url": "https://open.spotify.com/track/1FbHbL75bXCnSYBchhcwgd"
+    },
+    {
+      "album": {
+        "name": "Rock My Body (with Sash!) [NOYSE Remix]",
+        "url": "https://open.spotify.com/album/4bCZIZSVSGu8TuJAswZ0L6"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Rock My Body (with Sash!) [NOYSE Remix]",
+      "url": "https://open.spotify.com/track/7pV8lSQ4OM6GyCciYXBdso"
     },
     {
       "album": {
@@ -8667,7 +8859,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 139047,
       "name": "Samduck",
       "url": "https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR"
@@ -9914,6 +10106,32 @@
     },
     {
       "album": {
+        "name": "That Sound (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166472,
+      "name": "That Sound (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
+    },
+    {
+      "album": {
         "name": "That's Right (Radio Edit)",
         "url": "https://open.spotify.com/album/6poGx69phipDgwz2D1ZuTO"
       },
@@ -10795,6 +11013,24 @@
     {
       "album": {
         "name": "Underground",
+        "url": "https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz"
+      },
+      "artists": [
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN"
+    },
+    {
+      "album": {
+        "name": "Underground",
         "url": "https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg"
       },
       "artists": [
@@ -11227,7 +11463,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 259160,
       "name": "What U Gonna Do",
       "url": "https://open.spotify.com/track/44mKiQ3epElrrroYMXeECm"
@@ -11309,6 +11545,28 @@
       "duration_ms": 195937,
       "name": "When I See It (feat. The Vic)",
       "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
+    },
+    {
+      "album": {
+        "name": "When I Wake Up (Club Mix)",
+        "url": "https://open.spotify.com/album/1GcYmXDF41C7moqc4SuW0B"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158795,
+      "name": "When I Wake Up (Club Mix)",
+      "url": "https://open.spotify.com/track/1wH1L0g4zpEv3KSnFix9Lf"
     },
     {
       "album": {

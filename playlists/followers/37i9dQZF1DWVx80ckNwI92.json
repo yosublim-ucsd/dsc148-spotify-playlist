@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 6238,
+  "2024-02-17": 6243,
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: Digital Sangoma",
+  "description": "The future of African Indie and Alternative. Cover: Muzi",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -770,6 +770,24 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/4l3Pg8zLXgDcAy9Wg6KSFM"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/0HfF5OJzi9b2wOkRefDCzr"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/2MLMkg33gAHRjwHDRvw2Cn"
       },
@@ -959,6 +977,24 @@
       "duration_ms": 208301,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V"
+    },
+    {
+      "album": {
+        "name": "ilikeyou",
+        "url": "https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ"
+      },
+      "artists": [
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "ilikeyou",
+      "url": "https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq"
     },
     {
       "album": {
@@ -1677,6 +1713,28 @@
       "duration_ms": 177384,
       "name": "Pretty Lil Psycho",
       "url": "https://open.spotify.com/track/5sYN77e1LaHtO54ZtlUl4I"
+    },
+    {
+      "album": {
+        "name": "Queen (Dan Kye Remix)",
+        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327894,
+      "name": "Queen - Dan Kye Remix",
+      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
     },
     {
       "album": {

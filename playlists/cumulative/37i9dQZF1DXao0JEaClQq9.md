@@ -2,9 +2,9 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: Caroline Polachek + Weyes Blood
+> Modern heavenly sounds\. Cover: Caroline Polachek
 
-564 songs - 1 day 11 hr 24 min
+567 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2022-06-03 |  |
 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 | 2023-01-25 | 2023-07-04 |
 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-27 | 2023-03-16 |
+| [AA BOUQUET FOR YOUR 180 FACE](https://open.spotify.com/track/0RIo4eYBgbStfy3lnAOJDE) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [AA BOUQUET FOR YOUR 180 FACE](https://open.spotify.com/album/2FF6OrtvLpIv24eHBVZzDt) | 3:11 | 2024-02-16 |  |
 | [Addict](https://open.spotify.com/track/6LEG349yBthHmCjGMfd3g8) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:26 | 2021-06-03 | 2022-04-23 |
 | [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-20 | 2022-06-04 |
 | [Afar](https://open.spotify.com/track/3FBt3GWqhqSzkCnzki3uPQ) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Afar](https://open.spotify.com/album/3JHxLksSAKuZzYFhgHHEcB) | 3:35 | 2022-07-15 | 2022-07-23 |
@@ -74,7 +75,7 @@
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-24 | 2022-06-03 |
 | [Black Out Days](https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:47 | 2021-06-03 | 2022-04-18 |
 | [Blank Page](https://open.spotify.com/track/1nHBcM8ybbbhVvqjh8V6zR) | [Rozie Ramati](https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H) | [Blank Page](https://open.spotify.com/album/6tbEI2KuY6cZse2FNXOaKO) | 2:31 | 2024-02-09 |  |
-| [Bleed](https://open.spotify.com/track/4Slq5M8UGESA29hiRrJVnX) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Bleed](https://open.spotify.com/album/2iV95XXxTVrimsvXQ1xSP5) | 3:49 | 2024-01-12 |  |
+| [Bleed](https://open.spotify.com/track/4Slq5M8UGESA29hiRrJVnX) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Bleed](https://open.spotify.com/album/2iV95XXxTVrimsvXQ1xSP5) | 3:49 | 2024-01-12 | 2024-02-17 |
 | [Bloody Knees](https://open.spotify.com/track/42an9KHriXNtzVUaWZXWx0) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Bloody Knees](https://open.spotify.com/album/5MDXH585QZdQK1eyuXwXzn) | 1:55 | 2021-06-03 | 2022-06-01 |
 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 | 2022-11-11 |  |
 | [Blue Atlanta](https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Blue Atlanta](https://open.spotify.com/album/3sNsCFbYYDe2te2R8xRrAE) | 3:20 | 2022-06-03 | 2022-07-27 |
@@ -202,6 +203,7 @@
 | [gemstone](https://open.spotify.com/track/6cuH8SCJf51zqFNQam4TvJ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [gemstone](https://open.spotify.com/album/3sEjlfHS2SUceS23TTy7in) | 2:54 | 2021-07-19 | 2022-04-21 |
 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2023-04-28 |  |
 | [Get My Shit Together](https://open.spotify.com/track/1Z6zf9Wo5OOi0rXnN8VwTs) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [WDYWTBWYGU](https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu) | 3:10 | 2022-06-03 | 2022-06-11 |
+| [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-02-16 |  |
 | [ghost](https://open.spotify.com/track/0mIZJApcnV5qnNgdfljoHf) | [xxsagexx](https://open.spotify.com/artist/4g1ExmNRjpmwlalG0VzAbH) | [ghost](https://open.spotify.com/album/6d4lsPM1Iaj2ph9HWscfjb) | 2:06 | 2022-01-28 | 2022-04-21 |
 | [girl of my dreams](https://open.spotify.com/track/1yf64DXlkiJ8oMSoUxZzLr) | [Dxvid](https://open.spotify.com/artist/5jSt4R2f03LpayhdOZrC7r) | [girl of my dreams](https://open.spotify.com/album/1HZ8JNnJYVHUoUUJpM6ldD) | 3:42 | 2022-04-22 | 2022-08-03 |
 | [Girl of My Dreams](https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Girl of My Dreams](https://open.spotify.com/album/11rLG3oF7eWzP079JDQUg3) | 3:42 | 2022-04-22 | 2022-09-10 |
@@ -375,6 +377,7 @@
 | [Only Living For You](https://open.spotify.com/track/2uV2U719oryrhBsj3jTqNT) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 4:01 | 2022-11-11 | 2023-01-18 |
 | [Only Seeing God When I Come](https://open.spotify.com/track/246uGXcZCyt1LU51g4tF0h) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Only Seeing God When I Come](https://open.spotify.com/album/153LnNx4K13kgByWnP0yHK) | 3:20 | 2021-09-10 | 2022-07-29 |
 | [Open Air](https://open.spotify.com/track/2fTdcqOWwVKEePZ79k9rZM) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [TDJ002](https://open.spotify.com/album/2GVbh9Pr7iFbXCRV2oyU4L) | 4:11 | 2021-06-11 | 2022-04-18 |
+| [OPPENHEIMER](https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [OPPENHEIMER](https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu) | 2:21 | 2024-02-16 |  |
 | [Orange Juice](https://open.spotify.com/track/3s4QIE9CMkTRCufw1q0evm) | [Rozie Ramati](https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Orange Juice](https://open.spotify.com/album/3A4lKPEUMRhl9D2sYFP3Gi) | 2:55 | 2022-04-08 | 2022-04-23 |
 | [Ossature](https://open.spotify.com/track/6wKBs0H45e7YZqXxgYizqv) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Ossature](https://open.spotify.com/album/67pHzx4hDdALeMnatGIowU) | 3:45 | 2021-10-08 | 2022-04-23 |
 | [p i x e l a t e d](https://open.spotify.com/track/1vJcfFEpGBI1l2LNWnTUPJ) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 0:58 | 2021-06-03 | 2022-07-22 |
@@ -422,7 +425,7 @@
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2021-06-03 | 2022-06-04 |
 | [Rosyln](https://open.spotify.com/track/0GmvJ42jViP2XSRxIqmC3x) | [Always Never](https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf) | [Rosyln](https://open.spotify.com/album/2dCOCpk5QcmLsrt1yoBbMz) | 4:22 | 2022-06-03 | 2022-06-07 |
 | [Runner](https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 3:36 | 2021-06-03 | 2022-07-29 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-03-14 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-03-14 | 2024-02-17 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2021-06-03 | 2023-03-18 |
 | [SADIST](https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 3:19 | 2022-11-11 | 2022-12-28 |
 | [Saving Grace](https://open.spotify.com/track/2ULM1nq5MSVp0QE1anwcbT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Running on Mercy](https://open.spotify.com/album/1HJ9fWCIDXrORYph9y3D4b) | 2:59 | 2021-06-03 | 2022-04-21 |
@@ -545,7 +548,7 @@
 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 | 2022-06-03 |  |
 | [Wake Me When It's Over](https://open.spotify.com/track/3O8NWZbe8d0BL39RjThOkp) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [Wake Me When It's Over / Untouch](https://open.spotify.com/album/1J7y8NKIyxW7p8hitgrcuw) | 4:39 | 2021-06-03 | 2022-07-25 |
 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 | 2021-06-03 | 2022-06-24 |
-| [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-14 |  |
+| [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-14 | 2024-02-17 |
 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 | 2023-05-19 |  |
 | [Wannabe](https://open.spotify.com/track/36ODdTjOflEHu6vGHSpNYu) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/3OBMJU0p7YKR46QkDnNLTC) | 3:49 | 2021-10-22 | 2022-04-23 |
 | [Water Me Down](https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Water Me Down](https://open.spotify.com/album/4kcsdigEl9ascAJ6a2b2g9) | 4:32 | 2021-06-03 | 2022-06-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Marstein",
-  "num_followers": 27356,
+  "num_followers": 27370,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjlmMjQ5MTg1ZmJiZmE4YzI5MmFkZTk2MzgyNDgzN2VlZWQ1YTRi",
+  "snapshot_id": "MCxlYjhlMTJiNTNkYmQwMmI5ZTU1ZDE0MjkyNTFiYmM4N2I1ZWFiNjhh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 116420,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 123149,
       "name": "MANDANA",
       "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "1,2 & Mer",
+        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "1,2 & Mer",
+      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "1,2 & Mer",
-        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
-      },
-      "artists": [
-        {
-          "name": "BABY MALA",
-          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "1,2 & Mer",
-      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 137861,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Vidunderbarn",
         "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
       },
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "MEST ELSKET & Hatet",
-        "url": "https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Martin Hazy",
-          "url": "https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b"
-        }
-      ],
-      "duration_ms": 193851,
-      "name": "Snop",
-      "url": "https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Distrikt 4",
         "url": "https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 126000,
       "name": "Distrikt 4",
       "url": "https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "MEST ELSKET & Hatet",
+        "url": "https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Martin Hazy",
+          "url": "https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b"
+        }
+      ],
+      "duration_ms": 193851,
+      "name": "Snop",
+      "url": "https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Ryktet sier (ft. Arif Murakami)",
-        "url": "https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "Ryktet sier (ft. Arif Murakami)",
-      "url": "https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "SIPPER",
         "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Ryktet sier (ft. Arif Murakami)",
+        "url": "https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Ryktet sier (ft. Arif Murakami)",
+      "url": "https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv"
     }
   ],
   "unique_name": "100 (2)",

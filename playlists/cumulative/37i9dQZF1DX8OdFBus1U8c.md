@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
 
-141 songs - 7 hr 32 min
+142 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 | 2022-06-23 |  |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2022-08-10 |  |
 | [Maniyara](https://open.spotify.com/track/0EkUvVzuPWBrg5ZYy07rab) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Maniyara](https://open.spotify.com/album/0yykuYb8HTFMNUFG7lMi7s) | 2:20 | 2023-09-18 |  |
-| [Minni](https://open.spotify.com/track/306XOjGf2EDuTNv77HdPme) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Minni](https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU) | 3:16 | 2022-06-23 |  |
+| [Minni](https://open.spotify.com/track/306XOjGf2EDuTNv77HdPme) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Minni](https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU) | 3:16 | 2022-06-23 | 2024-02-17 |
 | [Mumbai Rap \(Mujhko Ishq Karne Ke\) \- From "Voice Of Sathyanathan"](https://open.spotify.com/track/7zrOxUbSWdajYF99jCLRRZ) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sushant Sudhakaran](https://open.spotify.com/artist/0vlkuxwsSVsEfvzs0usXIX) | [Mumbai Rap \(Mujhko Ishq Karne Ke\) \(From "Voice Of Sathyanathan"\)](https://open.spotify.com/album/289YdJjFtfGVDBi484yu8z) | 1:26 | 2023-08-09 | 2023-09-26 |
 | [Naadan Vibe](https://open.spotify.com/track/1J3twcdCruJqB86PgaVc8s) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Naadan Vibe](https://open.spotify.com/album/2c4rz8wBZvKMJnKN2H1ZYx) | 2:53 | 2021-12-03 |  |
 | [Naade Naattaare \- From "Operation Java"](https://open.spotify.com/track/1hSuT0E6wuhRAlRBOYTSBM) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Naade Naattaare \(From "Operation Java"\)](https://open.spotify.com/album/0OCtowut5VsLDJ0O6PFbpm) | 4:04 | 2022-04-18 |  |
@@ -146,6 +146,7 @@
 | [Voice of Voiceless](https://open.spotify.com/track/2zMoJSaDqs4CqmYY2xsYce) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/75UW4S2HXK13WcZGF0jpJc) | 3:06 | 2022-10-25 | 2023-05-14 |
 | [Voice of Voiceless](https://open.spotify.com/track/6y6nB7wQRliOl0t31XL22I) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2HvVxyx0u34l5CnXjqGZw5) | 3:06 | 2022-10-25 |  |
 | [Vyadhi](https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vyadhi](https://open.spotify.com/album/1baVHC4hgzvbHqvCc7Hbpn) | 2:04 | 2022-06-23 | 2024-02-13 |
+| [Waste Bins](https://open.spotify.com/track/6veJB3wjtm5dAdQfhTIWUi) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [GOTHAM S](https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI) | [Waste Bins](https://open.spotify.com/album/6jo8MjrOC9NjkYFwjA2FHb) | 3:40 | 2024-02-16 |  |
 | [Wish](https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:03 | 2022-06-23 | 2024-02-13 |
 | [Workil Aanu Karyam](https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Workil Aanu Karyam](https://open.spotify.com/album/4xkntbV9pfipF2v9hrfLRG) | 4:57 | 2022-06-23 | 2023-09-12 |
 | [Zone](https://open.spotify.com/track/66WHMvBjGEOu72hMQ8rXA8) | [SWAT](https://open.spotify.com/artist/69OLk01c5cxpeLmuAiMRL1), [sleepy](https://open.spotify.com/artist/4lcdVsKp56wTjk4DCl1Iev) | [Zone](https://open.spotify.com/album/6SDpQiS8uKzTHbw97Z4kx1) | 1:31 | 2023-11-10 | 2024-02-13 |

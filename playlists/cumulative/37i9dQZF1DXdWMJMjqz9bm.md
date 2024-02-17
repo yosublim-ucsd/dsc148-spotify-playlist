@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-615 songs - 1 day 4 hr 9 min
+620 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Desert Sun](https://open.spotify.com/track/5PILoHCrMiK6zwkGdeMOXX) | [Nabes](https://open.spotify.com/artist/107Qkrj4miJTEjTZx8Ie3c) | [Desert Sun](https://open.spotify.com/album/1SgsIlnJvwMSWJLjjAQwiS) | 2:48 | 2021-11-16 | 2022-02-26 |
 | [Diamonds](https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Diamonds](https://open.spotify.com/album/0IzUNWsQuZPVncXMMx25AN) | 3:00 | 2022-10-07 | 2022-11-30 |
 | [did too much](https://open.spotify.com/track/6T01MjAHwJ0ULAcrLDPLnm) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [did too much](https://open.spotify.com/album/4dmhVSlRg4wCRnRFQJTs2c) | 2:17 | 2022-04-01 | 2022-07-13 |
+| [DIFFERENT](https://open.spotify.com/track/5DhjNETdTrHToT8yDbjG2r) | [Stay Over](https://open.spotify.com/artist/2WYklsnVBJ99Jhou8xbu6m), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [DIFFERENT](https://open.spotify.com/album/7jzNj1vlghcgJDaAZCGDC5) | 3:01 | 2024-02-16 |  |
 | [digital gf](https://open.spotify.com/track/5vXkAnl3w8PadChqmfLZFJ) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/6pVtFoRe5MnaTC751A2paD) | 2:43 | 2022-09-07 | 2022-10-15 |
 | [dimples](https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [dimples](https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS) | 2:40 | 2022-04-22 | 2022-05-20 |
 | [dirty laundry](https://open.spotify.com/track/0qgZvYWLIqDn0tXimF8gPa) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 2:45 | 2022-04-04 | 2022-04-09 |
@@ -245,6 +246,7 @@
 | [harvey dent](https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [harvey dent](https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc) | 2:31 | 2023-05-05 |  |
 | [HATED US](https://open.spotify.com/track/07mp614wVP17UQqEJ4577F) | [Kyaru](https://open.spotify.com/artist/1V7RdASCLJSbBzeum0fLkQ), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv) | [HATED US](https://open.spotify.com/album/1dwxT4qdc4nvgcGTjWHP60) | 2:46 | 2023-07-14 |  |
 | [Hazel Eyes](https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Hazel Eyes](https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2) | 2:18 | 2023-02-17 |  |
+| [Heartbreak Milkshake](https://open.spotify.com/track/3Klxo1C5XO8U2l6ez0HB6u) | [Aze](https://open.spotify.com/artist/71JJal5W3D0YNB3IUPfIE3) | [Heartbreak Milkshake](https://open.spotify.com/album/7BAQ06lcT73SVjXA1iCcyt) | 2:40 | 2024-02-16 |  |
 | [Helium Balloon](https://open.spotify.com/track/5TmWbWEMCwzfeFWOt9AmGI) | [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Helium Balloon](https://open.spotify.com/album/4YZLWuNbv1nSZcejTR8Kko) | 3:11 | 2022-02-04 | 2022-07-02 |
 | [Here](https://open.spotify.com/track/64rXwox33vcb7IKEPWZjeD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/2bGtxkYsnt72Vl7GejjZYD) | 2:16 | 2022-02-18 | 2022-06-18 |
 | [High 4 U](https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [High 4 U](https://open.spotify.com/album/2eqnG7Avs0kQlpL3bN93so) | 2:42 | 2022-07-12 | 2023-07-01 |
@@ -256,6 +258,7 @@
 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 | 2022-02-04 | 2022-05-07 |
 | [Hot Mess](https://open.spotify.com/track/5I09fLEG5XjN8Z2y2Rrg8W) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Hot Mess](https://open.spotify.com/album/32LiRs2ZIh4FsjX7kREnDD) | 2:17 | 2021-11-16 | 2022-02-19 |
 | [Hot Tub](https://open.spotify.com/track/0QwtPubre27rt1YnJBKeNb) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Hot Tub](https://open.spotify.com/album/6vX4foju7dMy5UTqjwB6rZ) | 2:39 | 2022-02-04 | 2022-03-26 |
+| [House On Fire](https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [House On Fire](https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9) | 3:05 | 2024-02-16 |  |
 | [How Does It Feel](https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [A Gift And A Curse](https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ) | 2:09 | 2022-12-16 | 2023-01-14 |
 | [How's Life?](https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V) | [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [How's Life?](https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB) | 2:35 | 2022-01-28 | 2022-03-17 |
 | [I Can't Stop Talking to God](https://open.spotify.com/track/4wK4CFin4FpwfVq1tVHigg) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [I Can't Stop Talking to God](https://open.spotify.com/album/4Xvq7y0cey3nUNUEJIj4GL) | 2:23 | 2022-07-11 | 2022-08-04 |
@@ -396,6 +399,7 @@
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-11-30 |
 | [Oh My!](https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Oh My!](https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD) | 3:11 | 2022-07-22 | 2022-11-30 |
 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 | 2022-01-26 | 2022-03-26 |
+| [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 | 2024-02-16 |  |
 | [OLD NEWS](https://open.spotify.com/track/3uY6ip9RD3AB7lWJHSWAp9) | [Heath240](https://open.spotify.com/artist/1ojvdyodoMexNXR8my5FOo) | [OLD NEWS](https://open.spotify.com/album/0zVNdC56TzBMNX4k6v8JbQ) | 2:29 | 2022-09-23 | 2022-10-22 |
 | [on life](https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [on life](https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy) | 2:12 | 2023-01-13 |  |
 | [On My Own](https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [On My Own](https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r) | 2:50 | 2022-01-14 | 2022-03-26 |
@@ -466,6 +470,7 @@
 | [Ruby](https://open.spotify.com/track/7MljuHS2zehnQXikZ2R1J1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Ruby](https://open.spotify.com/album/1blmgrdzwfAKML3bek7xfg) | 2:29 | 2023-10-13 | 2024-01-23 |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-11-16 | 2022-02-26 |
 | [Runnin' the Road](https://open.spotify.com/track/1vK0W3jWBR44lEh2dDWvSF) | [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [Runnin' the Road](https://open.spotify.com/album/3dzOG2QNNV9MOY1l2eqHMT) | 2:54 | 2022-04-15 | 2022-04-23 |
+| [S.A.D](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 | 2024-02-16 |  |
 | [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal Tamer](https://open.spotify.com/artist/5qApOyCrlrukY4oYmYGeCo) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:40 | 2022-07-11 | 2022-10-15 |
 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 | 2023-06-09 |  |
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2022-09-27 | 2022-11-12 |

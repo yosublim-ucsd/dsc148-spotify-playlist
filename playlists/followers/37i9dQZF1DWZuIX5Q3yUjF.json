@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 13226,
+  "2024-02-17": 13227,
   "date_first_scraped": "2022-05-11",
   "description": "Il meglio dell'R&B italiano. Cover: sigarettewest",
   "name": "anima R&B",
@@ -2564,6 +2564,42 @@
     },
     {
       "album": {
+        "name": "fantasia",
+        "url": "https://open.spotify.com/album/5kPW3P97lIDEzoajnkRV3P"
+      },
+      "artists": [
+        {
+          "name": "petra",
+          "url": "https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195523,
+      "name": "fantasia",
+      "url": "https://open.spotify.com/track/0yN25EpN0006BUnUEdO01L"
+    },
+    {
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/4hOe683WF5YBF1S90jWQ5i"
+      },
+      "artists": [
+        {
+          "name": "Ale",
+          "url": "https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/5DTlezILqdaiyQmTyahTrk"
+    },
+    {
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6"
       },
@@ -3095,7 +3131,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 166529,
       "name": "GangstaBaby (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL"
@@ -5657,7 +5693,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 140724,
       "name": "Non ti credo",
       "url": "https://open.spotify.com/track/0fzky2CPINj0Y3QiTMGUqs"
@@ -6173,6 +6209,32 @@
       "duration_ms": 136105,
       "name": "Paradiso & Inferno",
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
+    },
+    {
+      "album": {
+        "name": "NEI LETTI DEGLI ALTRI",
+        "url": "https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182786,
+      "name": "PARADISO (feat. chiello & Tedua)",
+      "url": "https://open.spotify.com/track/5Fe5PbzxeP8d8edSisAsqk"
     },
     {
       "album": {
@@ -6841,7 +6903,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193333,
       "name": "Rester\u00f2",
       "url": "https://open.spotify.com/track/2x1OhhXXw3wrmXXSNioXk4"

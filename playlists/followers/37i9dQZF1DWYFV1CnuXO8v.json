@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 119393,
+  "2024-02-17": 119586,
   "date_first_scraped": "2023-02-14",
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
   "name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171130,
       "name": "Ana Eshtaret",
       "url": "https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc"
@@ -4597,6 +4597,24 @@
       "duration_ms": 205160,
       "name": "\u0641\u0631\u0642 \u0641\u064a \u0627\u0644\u0623\u062d\u0633\u0627\u0633",
       "url": "https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif"
+    },
+    {
+      "album": {
+        "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/090FJL1hXb1Bxvf5cj6JZr"
+      },
+      "artists": [
+        {
+          "name": "Samara Now",
+          "url": "https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277798,
+      "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
+      "url": "https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Don Diablo x Mearsy x RBZ",
-  "num_followers": 120862,
+  "num_followers": 120861,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzM3OCwyZDUwYmM2YWU1ZmY2YWQxMTNmYjI1NjljYTNjMTc2YzA3ZDNkM2Ew",
+  "snapshot_id": "NzM4MSxkYmVkYjY5NjY2NGEwNzI1OTRhNTQ0YWFjYjY4NjM3NDNmMWYxMzcz",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:29",
@@ -31,6 +31,30 @@
       "duration_ms": 178130,
       "name": "Physique (feat. RBZ)",
       "url": "https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"
+    },
+    {
+      "added_at": "2024-02-16 00:01:29",
+      "album": {
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
     },
     {
       "added_at": "2024-02-16 00:01:29",
@@ -119,30 +143,6 @@
       "duration_ms": 197495,
       "name": "My Illusion",
       "url": "https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Nikes On",
-        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Nikes On",
-      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
     },
     {
       "added_at": "2024-02-16 00:01:29",

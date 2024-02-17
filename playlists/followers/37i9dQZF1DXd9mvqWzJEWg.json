@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 65034,
+  "2024-02-17": 65142,
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx?si=DpnRVn6sSeqJZxCg6bvkUQ\">Vanger Boyz</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=kZqsSRa1TZeEyUsnO2bRPQ\">Omagoqa</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -675,10 +675,28 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 265000,
       "name": "DC",
       "url": "https://open.spotify.com/track/71XLWOzvU2qpNrZ3ULyKvP"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Delhi Distortion",
+      "url": "https://open.spotify.com/track/1MBl3clwm40XL2jQFYmXue"
     },
     {
       "album": {
@@ -961,7 +979,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 305072,
       "name": "Gqom ' Xtreme",
       "url": "https://open.spotify.com/track/1TI3reDiHzJYv5SOLTxVs7"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 381022,
       "name": "Mvela kancane",
       "url": "https://open.spotify.com/track/3CpwqI9HC7JquiJLzKN19K"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 362834,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/03WpImRRBMoMSI8Ch8aayl"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 309315,
       "name": "Non Greater",
       "url": "https://open.spotify.com/track/44udvR3dQhCTNEL8gpxPdo"
@@ -2257,6 +2275,24 @@
       "duration_ms": 337972,
       "name": "Noyana (feat. Professor & Lasoulmates)",
       "url": "https://open.spotify.com/track/3amtOic2gDqmTvrKKVwlN4"
+    },
+    {
+      "album": {
+        "name": "London Drop",
+        "url": "https://open.spotify.com/album/5inlKjJ5F6jzQpqz6xF3YI"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326754,
+      "name": "Nsimbi",
+      "url": "https://open.spotify.com/track/17bC5ZzVgHLuQwo3n16AjL"
     },
     {
       "album": {
@@ -2291,6 +2327,24 @@
       "duration_ms": 291625,
       "name": "Nyuku",
       "url": "https://open.spotify.com/track/70oBGpSx7rM1zIxIEI3VmK"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289070,
+      "name": "Obastedi",
+      "url": "https://open.spotify.com/track/4LJ9i225PBAQD1ZBonGzYM"
     },
     {
       "album": {
@@ -2827,7 +2881,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 367090,
       "name": "Sikilidi",
       "url": "https://open.spotify.com/track/23luTVNXuCGC05B59KV7gO"
@@ -2936,6 +2990,24 @@
     },
     {
       "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370684,
+      "name": "Sub 6",
+      "url": "https://open.spotify.com/track/3X9aRFxMqPaf94Mf5I8cgg"
+    },
+    {
+      "album": {
         "name": "Super Thing",
         "url": "https://open.spotify.com/album/0EMCAw8NQI9trHjTV6iP3M"
       },
@@ -3031,6 +3103,28 @@
       "duration_ms": 248973,
       "name": "The Denator",
       "url": "https://open.spotify.com/track/4ohSro2ooN3RrKC6UQEDUH"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317862,
+      "name": "The Howl",
+      "url": "https://open.spotify.com/track/3gKptquYKagXYsHqI0tVOj"
     },
     {
       "album": {
@@ -3785,6 +3879,28 @@
       "duration_ms": 345648,
       "name": "Yamemeza",
       "url": "https://open.spotify.com/track/5rpINlgn8w5yZxz1hVdXVg"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "Que DJ",
+          "url": "https://open.spotify.com/artist/6US33OdDB5JmPMRDo16547"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301624,
+      "name": "Yini Ukusha",
+      "url": "https://open.spotify.com/track/6rhCovB1BU0nkuPbDPs2PM"
     },
     {
       "album": {

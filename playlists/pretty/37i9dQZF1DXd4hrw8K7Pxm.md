@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,891 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,899 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 28 | [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 |
 | 29 | [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 |
 | 30 | [Fight Song](https://open.spotify.com/track/0IrhV0bATs87xuR8OF0wtB) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Fight Song](https://open.spotify.com/album/1BiEHzeJtADPwVNOKBwKtc) | 4:00 |
-| 31 | [Stand By You](https://open.spotify.com/track/3gN2OgbNwTw9ponnQPqluD) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Alex Goot & Friends, Vol\. 5](https://open.spotify.com/album/5n0qNWPYxRmZXplN2IPIrd) | 2:26 |
+| 31 | [Stand By You](https://open.spotify.com/track/6PSxRCFSv2zv5T9VfKKjeX) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Alex Goot & Friends, Vol\. 5](https://open.spotify.com/album/5Zn8fPUMHeYleRBoKry3Jb) | 2:26 |
 | 32 | [Mad World](https://open.spotify.com/track/3NLNJmeYni9nIaj1fVw5w9) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Mad World \(From “The Passion: New Orleans” Television Soundtrack\)](https://open.spotify.com/album/6SpRAqA3ThG3dysfcIZe4Y) | 2:52 |
 | 33 | [Blank Space](https://open.spotify.com/track/112HnbIN8JpmeNDDOgTSv0) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Wishes \(Deluxe Version\)](https://open.spotify.com/album/3CV2SCBs7wAUoQbmnjQbwa) | 4:07 |
 | 34 | [Imagine](https://open.spotify.com/track/4xVtiYLS2q1r6bY1Wio7Tu) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Imagine](https://open.spotify.com/album/3GLIXA3lo0L8S5LBfX7UzX) | 3:35 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
 
-Snapshot ID: `MCxlZjdhNTkyNmUxYzAyZTIzZDU3OGZlNTM1MzgxYzc3M2QxZGNmNDgz`
+Snapshot ID: `MCw4MmUzZDJkYWM5MWMwYmNkZjQ5ODNhNjY5Mjg2NDE4NDBhY2Y3YTQy`

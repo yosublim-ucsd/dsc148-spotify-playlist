@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Elle laisse (Radio Edit)",
+        "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208493,
+      "name": "Elle laisse - Radio Edit",
+      "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
@@ -3211,7 +3229,7 @@
     },
     {
       "album": {
-        "name": "Stay Cool",
+        "name": "Stay cool",
         "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
       },
       "artists": [
@@ -3224,7 +3242,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207982,
-      "name": "Stay Cool",
+      "name": "Stay cool",
       "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
     },
     {

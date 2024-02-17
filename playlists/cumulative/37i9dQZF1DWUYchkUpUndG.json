@@ -5709,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203301,
+      "name": "Come and See",
+      "url": "https://open.spotify.com/track/26BKIXc2m5k6FXeg0ogER4"
+    },
+    {
+      "album": {
         "name": "Come My Way",
         "url": "https://open.spotify.com/album/5VU9KWhqhEY3XGUIYfts5C"
       },
@@ -16154,7 +16172,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 102339,
       "name": "I'm Aware",
       "url": "https://open.spotify.com/track/1QHLjZpe2dzcDa897lLoAE"
@@ -28055,6 +28073,24 @@
     },
     {
       "album": {
+        "name": "Praise Jam Medley",
+        "url": "https://open.spotify.com/album/2edC1ACu2J0yhn9D4W4piD"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Praise Jam Medley",
+      "url": "https://open.spotify.com/track/4Y6GdcIoFSptK1woFKn2K3"
+    },
+    {
+      "album": {
         "name": "Praise On",
         "url": "https://open.spotify.com/album/6Zmqt5umPQib2KGfkdaVVy"
       },
@@ -30792,7 +30828,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 303647,
       "name": "Silifuze Elobandla(Acts 2:42-47)",
       "url": "https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y"
@@ -36153,6 +36189,32 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/4R1guqEe2Wp1An5msTocjE"
+      },
+      "artists": [
+        {
+          "name": "Yxung Bxss",
+          "url": "https://open.spotify.com/artist/763CAHv5CJbNzymMTlHlMV"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190208,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zyME6MLRd6ugNQjnp1QSL"
+    },
+    {
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
       },
@@ -37870,7 +37932,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 217365,
       "name": "YAHWEH (Afro Culture)",
       "url": "https://open.spotify.com/track/17E2UfGUSSw6TfQmSSCSX8"

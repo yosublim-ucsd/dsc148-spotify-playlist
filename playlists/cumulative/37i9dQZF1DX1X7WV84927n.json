@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Atreyu",
+  "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: FEVER 333",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "10,000 Volts",
+        "url": "https://open.spotify.com/album/56EuOSiYmNoJH22peRBwdf"
+      },
+      "artists": [
+        {
+          "name": "Ace Frehley",
+          "url": "https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204378,
+      "name": "10,000 Volts",
+      "url": "https://open.spotify.com/track/4eJdMXViYA7SYKD499AvNF"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/2D1yPT0KNYrBOwrlsJdyiP"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 216771,
       "name": "1987",
       "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
@@ -310,6 +328,24 @@
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
+    },
+    {
+      "album": {
+        "name": "The Art Of Survival (Deluxe)",
+        "url": "https://open.spotify.com/album/24zUDdtHXjMPPFvNBK3yqg"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1"
     },
     {
       "album": {
@@ -1447,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "album": {
         "name": "Control Freak",
         "url": "https://open.spotify.com/album/1jZrWW2rs034fmRaxPSo3R"
       },
@@ -1658,6 +1712,24 @@
       "duration_ms": 194730,
       "name": "Dead Don\u2019t Die",
       "url": "https://open.spotify.com/track/5fcfRUBheqJ4l8JwzP15gP"
+    },
+    {
+      "album": {
+        "name": "Deadman's Trigger",
+        "url": "https://open.spotify.com/album/2KXdyYAiLtrZVHsKQYJS54"
+      },
+      "artists": [
+        {
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207985,
+      "name": "Deadman's Trigger",
+      "url": "https://open.spotify.com/track/3kHkDyrxBg1VtbUstO7OpT"
     },
     {
       "album": {
@@ -2315,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258325,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
+    },
+    {
+      "album": {
         "name": "Somewhere Between the Power Lines and Palm Trees",
         "url": "https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL"
       },
@@ -2326,7 +2416,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Everything Turns Around",
       "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
@@ -3110,7 +3200,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 178963,
       "name": "H8 MY SELF",
       "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
@@ -3427,6 +3517,42 @@
     },
     {
       "album": {
+        "name": "She Reaches Out To She Reaches Out To She",
+        "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263432,
+      "name": "House Of Self-Undoing",
+      "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
+    },
+    {
+      "album": {
+        "name": "How Dare You",
+        "url": "https://open.spotify.com/album/3L5bRcNkenGGOdSvmPRZ0Q"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223763,
+      "name": "How Dare You",
+      "url": "https://open.spotify.com/track/4S0Q8MNy4zBBP6PnsCFcrw"
+    },
+    {
+      "album": {
         "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
         "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
       },
@@ -3478,7 +3604,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 220101,
       "name": "Hunger Games",
       "url": "https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g"
@@ -4217,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "STONE (Deluxe)",
+        "url": "https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377560,
+      "name": "Last Word",
+      "url": "https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG"
+    },
+    {
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW"
       },
@@ -4434,7 +4578,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 167861,
       "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
       "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
@@ -4542,7 +4686,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 232593,
       "name": "Loyal to the Lie",
       "url": "https://open.spotify.com/track/7AIj2haVhqsX2MDDZ8cEmn"
@@ -5160,7 +5304,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 195583,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
@@ -5482,7 +5626,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 280206,
       "name": "One of Those Days (feat. Eric Clapton)",
       "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
@@ -5934,7 +6078,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 166666,
       "name": "QUIT!!",
       "url": "https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n"
@@ -6010,6 +6154,24 @@
       "duration_ms": 184146,
       "name": "Ready for a Good Time",
       "url": "https://open.spotify.com/track/5rX16XklyqZnUBM9fF59qc"
+    },
+    {
+      "album": {
+        "name": "READY ROCK",
+        "url": "https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166369,
+      "name": "READY ROCK",
+      "url": "https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS"
     },
     {
       "album": {
@@ -6566,7 +6728,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 213874,
       "name": "September Rain",
       "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
@@ -6638,7 +6800,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 210567,
       "name": "Shake Your City",
       "url": "https://open.spotify.com/track/5tVcVrv04rJlQxrbZ5sDzK"
@@ -6933,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Speaking of the Devil",
+        "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225189,
+      "name": "Speaking of the Devil",
+      "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
+    },
+    {
+      "album": {
         "name": "Spillways [Feat. Joe Elliott]",
         "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
       },
@@ -7222,7 +7402,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 213066,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
@@ -7406,6 +7586,24 @@
       "duration_ms": 221360,
       "name": "The Bitch in Black",
       "url": "https://open.spotify.com/track/6ayIpjL4MRM2xqlu81cW9q"
+    },
+    {
+      "album": {
+        "name": "Lucifer V",
+        "url": "https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "The Dead Don't Speak",
+      "url": "https://open.spotify.com/track/6xZ6FoqmIpWuDR8wsi1Wvw"
     },
     {
       "album": {
@@ -8651,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238534,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
@@ -8980,10 +9196,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 309888,
       "name": "War Pigs",
       "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
+    },
+    {
+      "album": {
+        "name": "WARZ0NE",
+        "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158175,
+      "name": "WARZ0NE",
+      "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
     },
     {
       "album": {
@@ -9168,7 +9402,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 290301,
       "name": "What Would You Do? [Feat. Gavin Rossdale]",
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
@@ -9323,6 +9557,24 @@
     },
     {
       "album": {
+        "name": "WOOF",
+        "url": "https://open.spotify.com/album/4HYSMe6MMCetdMKuhP289K"
+      },
+      "artists": [
+        {
+          "name": "FKA Rayne",
+          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109484,
+      "name": "WOOF",
+      "url": "https://open.spotify.com/track/4PnVXS31zYQrMu8pLHUKRp"
+    },
+    {
+      "album": {
         "name": "Yoko Ono",
         "url": "https://open.spotify.com/album/3DeZIvWYBmBjQbr2iksMkk"
       },
@@ -9338,6 +9590,24 @@
       "duration_ms": 211906,
       "name": "Yoko Ono",
       "url": "https://open.spotify.com/track/3WVIyZblxhQXk6M6PaO3Hy"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230124,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"
     },
     {
       "album": {

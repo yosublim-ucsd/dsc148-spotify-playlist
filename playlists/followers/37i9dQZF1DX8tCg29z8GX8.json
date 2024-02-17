@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 13511,
+  "2024-02-17": 13522,
   "date_first_scraped": "2022-08-06",
   "description": "mate- Bus stop!",
   "name": "Troski Rhythms",
@@ -389,7 +389,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 163013,
       "name": "Another Vibe (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3"
@@ -1588,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221767,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl"
+    },
+    {
+      "album": {
         "name": "Chop Life",
         "url": "https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh"
       },
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 158771,
       "name": "Denge II",
       "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
@@ -3102,6 +3120,28 @@
     },
     {
       "album": {
+        "name": "Hot Topic",
+        "url": "https://open.spotify.com/album/3naCf1TqximOxSi71EyBMc"
+      },
+      "artists": [
+        {
+          "name": "A-Star",
+          "url": "https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189027,
+      "name": "Hot Topic",
+      "url": "https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O"
+    },
+    {
+      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -3791,7 +3831,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -4945,7 +4985,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 156479,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
@@ -6268,6 +6308,24 @@
     },
     {
       "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "album": {
         "name": "Question",
         "url": "https://open.spotify.com/album/0dNd0KrpiWWxqOicr7uReD"
       },
@@ -6803,6 +6861,24 @@
       "duration_ms": 148392,
       "name": "Shakira (feat. Prince Bright)",
       "url": "https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/3nfQ4lDpQIoe7pZalkT04t"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138959,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4iHFJCBANWahRAsY6i6DLP"
     },
     {
       "album": {

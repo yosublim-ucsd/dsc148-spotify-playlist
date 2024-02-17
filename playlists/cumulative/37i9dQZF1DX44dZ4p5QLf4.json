@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1ZJRQkOGD04iBxQsL23Lzx"
+      },
+      "artists": [
+        {
+          "name": "ROSEYE",
+          "url": "https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy"
+        },
+        {
+          "name": "Hessel Du Mark",
+          "url": "https://open.spotify.com/artist/4NvjzlewQiiQArGcgQFPBK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246624,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/6ExaJyKDD0Jaq7KTTe3b1Q"
+    },
+    {
+      "album": {
         "name": "Actually, I Can.",
         "url": "https://open.spotify.com/album/4JXNlrGjAQUvx4qFA5Yban"
       },
@@ -2270,7 +2292,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 183050,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
@@ -3888,7 +3910,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 312727,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U"
@@ -4340,7 +4362,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 169213,
       "name": "Mood Right",
       "url": "https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l"
@@ -5207,6 +5229,28 @@
     },
     {
       "album": {
+        "name": "RASTA PASTA (ft. Masego)",
+        "url": "https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250769,
+      "name": "RASTA PASTA (ft. Masego)",
+      "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
+    },
+    {
+      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
@@ -5752,7 +5796,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 242431,
       "name": "Show Her The Way",
       "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
@@ -6038,6 +6082,28 @@
       "duration_ms": 255094,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
+    },
+    {
+      "album": {
+        "name": "Somedays",
+        "url": "https://open.spotify.com/album/1zopJzaNTErG0DT8yEE1s0"
+      },
+      "artists": [
+        {
+          "name": "Beau Zwart",
+          "url": "https://open.spotify.com/artist/0yuIEVxJaq3DUSo0ShzdZm"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155311,
+      "name": "Somedays",
+      "url": "https://open.spotify.com/track/7mhNOMlEyc3X6kT2p8q12H"
     },
     {
       "album": {
@@ -6810,7 +6876,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 203064,
       "name": "TEARS OF JOY",
       "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
@@ -7349,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/4slHeZBdhKur4Jij21y6fC"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/3QCrMKfBozmS6fjxpztX6d"
+    },
+    {
+      "album": {
         "name": "HOUSE OF GROOVE",
         "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
       },
@@ -7670,6 +7754,24 @@
       "duration_ms": 189187,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"
+    },
+    {
+      "album": {
+        "name": "We Know",
+        "url": "https://open.spotify.com/album/7xCQBtsHg1X5NGghnLbf9u"
+      },
+      "artists": [
+        {
+          "name": "SHAKUAR",
+          "url": "https://open.spotify.com/artist/5BJ63BTcojgcTXv1GNWHmS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321124,
+      "name": "We Know",
+      "url": "https://open.spotify.com/track/5V1uCsPeliBCfFSWMsPAjz"
     },
     {
       "album": {

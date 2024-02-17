@@ -4,7 +4,7 @@
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
-551 songs - 1 day 4 hr 43 min
+552 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 | 2022-06-03 | 2023-02-05 |
 | [Love You More](https://open.spotify.com/track/34bLgJhWEFbqEja22qgxY3) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [Sean Brizz](https://open.spotify.com/artist/3QPu8SW0TO1wTGQ130aPF4) | [Love You More](https://open.spotify.com/album/0FVE35UnbGCX74c9JIV4qk) | 3:00 | 2023-12-08 |  |
 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 | 2023-12-15 |  |
+| [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-02-16 |  |
 | [Lovesong](https://open.spotify.com/track/5J7tiBvvtXxxHZD7ceZePv) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Lovesong](https://open.spotify.com/album/0WOuw3ufp3rFTEdVadQr05) | 3:38 | 2022-06-24 | 2022-11-19 |
 | [Low Lonely](https://open.spotify.com/track/2E1AtawI6vlQXXd7nPYTe8) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E), [Badscandal](https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy) | [Low Lonely](https://open.spotify.com/album/5ZWToPBs4v62ulSfqRkiOR) | 3:14 | 2023-04-14 | 2023-07-29 |
 | [Luna Love](https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Rosa Lee Luna](https://open.spotify.com/artist/4MlvtEvliivbWOQV9Q2CfD) | [Luna Love](https://open.spotify.com/album/5qDyPsc30jRYLHYtVOkSVV) | 3:27 | 2023-12-08 |  |

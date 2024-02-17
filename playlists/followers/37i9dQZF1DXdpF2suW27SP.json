@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 175751,
+  "2024-02-17": 175797,
   "date_first_scraped": "2022-07-17",
-  "description": "Deejay Telio entra na zona. ",
+  "description": "Dillaz entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -582,6 +582,28 @@
     },
     {
       "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Al\u00f4",
+      "url": "https://open.spotify.com/track/6vBuEFImAx36hDYiYqBtkZ"
+    },
+    {
+      "album": {
         "name": "Amar De Cor",
         "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
@@ -997,7 +1019,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192642,
       "name": "BAGD\u00c1",
       "url": "https://open.spotify.com/track/4v2502SGdDDWt9Ka33KqX8"
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
@@ -2574,6 +2596,24 @@
     },
     {
       "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242970,
+      "name": "DIRE\u00c7\u00c3O PARIS",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/3K8LvFUKsMj3seejRF6M0W"
       },
@@ -2875,6 +2915,28 @@
       "duration_ms": 271900,
       "name": "Eqlibrio",
       "url": "https://open.spotify.com/track/3DBE7Y8iUKvBiTemUAVBxr"
+    },
+    {
+      "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185210,
+      "name": "Equil\u00edbrio",
+      "url": "https://open.spotify.com/track/3UHFYeLV41C0WjN6nn7sKd"
     },
     {
       "album": {
@@ -3200,6 +3262,36 @@
     },
     {
       "album": {
+        "name": "Falam Muito",
+        "url": "https://open.spotify.com/album/1jMs35PYU2TPYu3nvzL1Pz"
+      },
+      "artists": [
+        {
+          "name": "Beatoven",
+          "url": "https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa"
+        },
+        {
+          "name": "Dr Flow Semeia",
+          "url": "https://open.spotify.com/artist/6xbIsNa7MZqXzaG0kxiZIj"
+        },
+        {
+          "name": "Sir Scratch",
+          "url": "https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i"
+        },
+        {
+          "name": "Tekilla",
+          "url": "https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211394,
+      "name": "Falam Muito",
+      "url": "https://open.spotify.com/track/53mcQ80KjiD78AfkQ7fwJA"
+    },
+    {
+      "album": {
         "name": "FAMA",
         "url": "https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI"
       },
@@ -3269,7 +3361,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 166523,
       "name": "Faya",
       "url": "https://open.spotify.com/track/0wL9hQUzatIoqv6lcxT2M1"
@@ -3925,7 +4017,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153333,
       "name": "Guardado",
       "url": "https://open.spotify.com/track/41mSs2SjEencvFY907sq8q"
@@ -4136,6 +4228,32 @@
     },
     {
       "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6n724oU1bAC0bwZAoGqpqH"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279855,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/5MTWcFSTZgTT035W9E8oDy"
+    },
+    {
+      "album": {
         "name": "Ilustre Desconhecido",
         "url": "https://open.spotify.com/album/6MUR4xZWGeYamjJkANAXZO"
       },
@@ -4169,6 +4287,24 @@
       "duration_ms": 200851,
       "name": "Impressionanti",
       "url": "https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA"
+    },
+    {
+      "album": {
+        "name": "INCOMODA",
+        "url": "https://open.spotify.com/album/6YvCWfI7d359D5k7DocfIC"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196709,
+      "name": "INCOMODA",
+      "url": "https://open.spotify.com/track/2muGXaGyDvLDSxDLQ8saH0"
     },
     {
       "album": {
@@ -4613,7 +4749,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192452,
       "name": "Lidar",
       "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
@@ -4689,7 +4825,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 208068,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
@@ -6825,7 +6961,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 228400,
       "name": "Pengthing",
       "url": "https://open.spotify.com/track/7rvZT1EjAl9acJHSxKfY5W"
@@ -8250,6 +8386,24 @@
     },
     {
       "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/2BuOnofjiUV6BjZIedcrC5"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/0RvCPkkRftz2xdUMXAylLW"
+    },
+    {
+      "album": {
         "name": "Lil Mood 2 EP",
         "url": "https://open.spotify.com/album/6AcaiEnn57E1qNcINAMTb9"
       },
@@ -8849,6 +9003,24 @@
       "duration_ms": 180574,
       "name": "Tropa do Madruga",
       "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
+    },
+    {
+      "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226005,
+      "name": "Trovador",
+      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
     },
     {
       "album": {
@@ -9453,7 +9625,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 202760,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu"

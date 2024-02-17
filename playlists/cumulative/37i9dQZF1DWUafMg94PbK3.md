@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-107 songs - 3 hr 43 min
+108 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Choo Choo Train](https://open.spotify.com/track/3CetOnQ4zzhKZsvgv1QMBn) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:56 | 2019-10-29 | 2022-07-29 |
 | [Choo Choo Train](https://open.spotify.com/track/2dIpzVC9RzJIYca6fGcPTT) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:20 | 2019-10-29 |  |
 | [Choo Choo Train](https://open.spotify.com/track/1V04M7wFRFxzDlcjChlLsh) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Wiggle It!](https://open.spotify.com/album/6Ir95G9kmDceHbOPeZUM9U) | 2:23 | 2019-10-29 | 2022-07-29 |
-| [Choo Choo Train \(Racing Down the Track\)](https://open.spotify.com/track/1BGZnICVFkZ86rAGXXsiun) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/1jcYEBq6kXnpggjH5lTpUF) | 1:56 | 2019-10-29 |  |
+| [Choo Choo Train \(Racing Down the Track\)](https://open.spotify.com/track/1BGZnICVFkZ86rAGXXsiun) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/1jcYEBq6kXnpggjH5lTpUF) | 1:56 | 2019-10-29 | 2024-02-17 |
 | [Choo Choo Train \(Racing Down the Track\)](https://open.spotify.com/track/3G7kqyZU8mwmgU5gyH05Nw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [All About Engines, Trucks, Boats & More](https://open.spotify.com/album/5jB7tvvJXYW3hUysJpoNpE) | 1:56 | 2019-10-29 | 2022-11-13 |
+| [Counting Fire Trucks](https://open.spotify.com/track/2TRQB9SRzixkgYpseXmEkv) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Counting Firetrucks](https://open.spotify.com/album/4PHcqtf0HqrSSuRsTeLzQu) | 1:45 | 2024-02-16 |  |
 | [Down by the Station](https://open.spotify.com/track/1yHQcqSfL3pg0GQmpPR685) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Timeless Toddler Tunes](https://open.spotify.com/album/3YcNvdnYrIE0nqk6Z3y8tN) | 0:55 | 2019-10-29 |  |
 | [Down By The Station](https://open.spotify.com/track/3DcZOEsFLmt0TrIrsUQaPo) | [Sugar Kane Music](https://open.spotify.com/artist/0LcU9494FJKkEgn9k8m53K) | [50 Timeless Toddler Tunes](https://open.spotify.com/album/12lQAeYVZz31w5z6X8DTo7) | 0:55 | 2019-10-29 | 2022-07-29 |
 | [Drive The Fire Truck](https://open.spotify.com/track/061nNfQ0LAsTyN9fqxF3sd) | [Old Town School of Folk Music](https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8) | [Songs for Wiggleworms](https://open.spotify.com/album/361VyP0uvGvbL8WdMnjAHt) | 0:30 | 2019-10-29 | 2022-07-29 |

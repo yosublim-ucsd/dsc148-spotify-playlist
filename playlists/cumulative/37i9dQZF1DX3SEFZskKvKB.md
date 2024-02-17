@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-128 songs - 7 hr 12 min
+131 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Espejos](https://open.spotify.com/track/784ubxHoYpDpUEQc8d69oP) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Fugaces II](https://open.spotify.com/album/1KWOCiqjUpYRjP5vGFziZe) | 3:19 | 2022-05-26 |  |
 | [Essence of Life](https://open.spotify.com/track/63y6PepwrdwXegkLQSZj91) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:29 | 2022-05-26 |  |
 | [Ethnic Sounds for Relaxation Therapy](https://open.spotify.com/track/06HSF17B09XBUXMmErI6x3) | [Sound Therapy Revolution](https://open.spotify.com/artist/2s7e38wOIyFHzTRnMLH3QJ) | [African Music and Sun Energy: Insomnia Healing and Anxiety Symptoms with New Age Music Therapy](https://open.spotify.com/album/2fWii6GXDFVFuaJITHaik5) | 5:24 | 2022-05-26 |  |
+| [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 | 2024-02-17 |  |
 | [Finding Yourself](https://open.spotify.com/track/0am5MUkNemEW7Qg2rHHUgL) | [Sacral Chakra Universe](https://open.spotify.com/artist/2gAgKO7EJvvO3GthZ6VuJA) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 3:22 | 2022-05-26 | 2022-07-09 |
 | [Flute & Mandolina Drums](https://open.spotify.com/track/6Szj4YddACfggy7YAaVber) | [Jonathan Mare](https://open.spotify.com/artist/7izr0NDpuVabUtCfZAv2Bx) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 4:42 | 2022-05-26 |  |
 | [Focus in Drishti](https://open.spotify.com/track/7I2xcrO6qz5dXAD9NJwcw3) | [Cling](https://open.spotify.com/artist/45cyu48KZ9TCcORA7W4Apw) | [Focus in Drishti](https://open.spotify.com/album/0wMknnXvOp0dXLRE5fhbta) | 2:57 | 2023-04-28 |  |
@@ -51,6 +52,7 @@
 | [Fuji](https://open.spotify.com/track/31W8m9tads0D5ARBlKi7nt) | [Takano Marise](https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM) | [Fuji](https://open.spotify.com/album/06aTTkyS7arBbMekxtFQsr) | 1:51 | 2022-05-26 | 2023-04-07 |
 | [Garden Of Rhythm](https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:11 | 2022-05-26 |  |
 | [Ghostly Dome](https://open.spotify.com/track/5XoPvzUlpMqUwbd7vzFPWp) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Ghostly Dome](https://open.spotify.com/album/6wAt1Jv6LDK1D23tqgW8h8) | 2:39 | 2022-10-14 |  |
+| [Greet the Energy Self](https://open.spotify.com/track/7ANNj93G5eBbDOvBoACE4x) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Greet the Energy Self](https://open.spotify.com/album/2nYhiBRBxxAfpJtP8PfxKZ) | 2:09 | 2024-02-17 |  |
 | [Harmony of the Elements](https://open.spotify.com/track/31q1XqoqpW818uPGceQChi) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Harmony of the Elements & Silver Spring](https://open.spotify.com/album/1Q8xSFkxaWPDBaQBBmrDpi) | 3:39 | 2022-12-20 |  |
 | [Healing Drums](https://open.spotify.com/track/1JnMcSLVT3QlZYuovCk8dL) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:24 | 2022-05-26 |  |
 | [Healing Forest](https://open.spotify.com/track/3IHG0LxWiwcRQRDJZBYmPB) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Healing Forest](https://open.spotify.com/album/6f6O581b2i2giL3jRJ8sVb) | 3:08 | 2023-02-25 |  |
@@ -105,6 +107,7 @@
 | [Song of Peace](https://open.spotify.com/track/4XxhiwOmf12vK6iRcmDlXE) | [Jonathan Mantras](https://open.spotify.com/artist/2yppMEsQtj8KqFq1EBiNz7) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:26 | 2022-05-26 |  |
 | [Soul Temple](https://open.spotify.com/track/6bfArGOr96N9kVviRvdjgV) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Inner Sanctum](https://open.spotify.com/album/0plusPTJbziOVYoqGEHQV7) | 3:42 | 2022-05-26 |  |
 | [Spadina Ave](https://open.spotify.com/track/1zQZnHwMSlP1eov6Lr4fTM) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Spadina Ave](https://open.spotify.com/album/0AYKKATiUEWrX0mPzXZF8U) | 3:09 | 2023-08-10 |  |
+| [Sparrow Song](https://open.spotify.com/track/1aVJxI2dZXD6TQ3zHVIDhl) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sparrow Song](https://open.spotify.com/album/2KSKfnP1uoUSJOLlS1uWTx) | 2:06 | 2024-02-17 |  |
 | [Spiritual Path](https://open.spotify.com/track/1KNdr7UncDZWfiKA9R5Udt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:17 | 2022-05-26 |  |
 | [Spring](https://open.spotify.com/track/6YQhvOxkbiEyfQ8HJOGcUA) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Spring](https://open.spotify.com/album/0VFBbJdgBmDMSVrs94cPSq) | 2:50 | 2022-05-26 |  |
 | [Sundran Outdoor](https://open.spotify.com/track/5Mm6wKongnMc6ruflc3KyB) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Sundran Outdoor](https://open.spotify.com/album/5zqIbFcQtKwaiZCGaZMqWD) | 2:58 | 2022-05-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 43,574 likes - 122 songs - 13 hr 10 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 43,581 likes - 122 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 93 | [Red River Revel](https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Brian Blade Fellowship](https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl) | 9:31 |
 | 94 | [Homeward Bound \(For Ana Grace\)](https://open.spotify.com/track/571bRbvBcnGkamrEdFSav6) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 9:13 |
 | 95 | [lamplight](https://open.spotify.com/track/0rRtkc4eUbH2v6qBtw00l4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 3:37 |
-| 96 | [The Bluest Eye](https://open.spotify.com/track/4WAJmXMCoEf29VgK8j2wWA) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [12 Stars](https://open.spotify.com/album/3DFIvcm119lRoa5NxyiBDC) | 7:22 |
+| 96 | [The Solitary Seeker](https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [The Solitary Seeker](https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN) | 6:08 |
 | 97 | [Grace And Mercy](https://open.spotify.com/track/6AFJ6v57ZevcNCR2mJHDKf) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 6:49 |
 | 98 | [>>>>>>>>>>>Mocean](https://open.spotify.com/track/7jPfshwQln5K26tGgteUra) | [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [A Wall Becomes A Bridge](https://open.spotify.com/album/6x36FYMhcxlEjJB97ikwA3) | 5:51 |
 | 99 | [Sway](https://open.spotify.com/track/0sFGeDQs250HkU7D23uFqr) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Flight](https://open.spotify.com/album/4pMOMICZbcyAT4bk4GUWb9) | 6:17 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 121 | [For Generations](https://open.spotify.com/track/6Y8m5bnihvGZUZ2rsDse6T) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 3:43 |
 | 122 | [We Shall Overcome](https://open.spotify.com/track/6uJoMrYURJ8TYEiuGO2R2w) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Valentine](https://open.spotify.com/album/379ITOn61QlGYoHwkdTVQ2) | 6:25 |
 
-Snapshot ID: `NDQwLDJiY2U1MjE2MzJkNmEzZWUwZTkyNTk0ZWFiNWU1OTkwZWVhN2NkYzQ=`
+Snapshot ID: `NDQyLGM0ZGEwZDUwMWQ5NzRlZjgwNzI1ZWY5ZjRmYzA4OTc1YjgzMDZjMTk=`

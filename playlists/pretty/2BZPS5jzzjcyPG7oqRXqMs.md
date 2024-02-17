@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Christian Soundtracks \| Musicals Mix \| Musical Soundtracks \| Musical Bops \| Christian TV Bops \| Journey to Bethlehem \| Musical Theatre Mix \| Christian Music 2024 \| The Chosen \| Movie Musicals Mix \| Musical Theatre Musicals Mix \| Theatre Bops 2024 \| Christian Movies
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,723 likes - 109 songs - 6 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,721 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 108 | [For Every Mountain \- Remix](https://open.spotify.com/track/4ySaUNWfWMRBuHJXKgQ5XJ) | [Kingdom Business Cast](https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn), [Tytist](https://open.spotify.com/artist/2kQKQZOPjlvy0bz2BbE9w3) | [Kingdom Business 2 \(Music from the BET+ Original TV Series\)](https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky) | 2:40 |
 | 109 | [When You Believe](https://open.spotify.com/track/0w1dqIds7K9sQna7dSCdan) | [Alexia Khadime](https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY), [Christine Allado](https://open.spotify.com/artist/3dl5JxBCHHKpXS8DPFSEpN), [Mia Lakha](https://open.spotify.com/artist/16OPzi7kd5bfNEoK8MLdqi), [Luke Brady](https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng), [The Prince of Egypt Original Cast Ensemble](https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe) | [The Prince of Egypt \(Original Cast Recording\)](https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71) | 4:34 |
 
-Snapshot ID: `MzM2MywzZWE1ZDkyOTZjMDM2ZDFlZTBmZjdhZjA5NTc3OGYwOGQ2YmEyN2E2`
+Snapshot ID: `MzM2Nyw1YmJkNWYyM2U0YWM3YmU5NzY1ZDliMzkyZWM5N2MzMjQ3NTI0MTg3`

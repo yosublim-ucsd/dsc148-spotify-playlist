@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 34455,
+  "2024-02-17": 34538,
   "date_first_scraped": "2022-07-01",
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: Jungeli",
   "name": "Biso Na Biso",
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 172228,
       "name": "Ch\u00e9rie Coco",
       "url": "https://open.spotify.com/track/7v8Ft7doJW1S6HRcZnLT79"
@@ -1399,6 +1399,24 @@
       "duration_ms": 221202,
       "name": "Delta force",
       "url": "https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q"
+    },
+    {
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/6mMhB9sJE16rioPmpxRbud"
+      },
+      "artists": [
+        {
+          "name": "Teevii",
+          "url": "https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189873,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/6lMQd3dNLrCpY5a8yTLGbe"
     },
     {
       "album": {

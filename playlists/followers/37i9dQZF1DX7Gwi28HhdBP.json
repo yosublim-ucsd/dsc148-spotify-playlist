@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 86772,
+  "2024-02-17": 86889,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw\">  \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c </a>",
   "name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
@@ -1259,6 +1259,24 @@
       "duration_ms": 188689,
       "name": "El Leila Eid",
       "url": "https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS"
+    },
+    {
+      "album": {
+        "name": "El Mal3ab Wase3",
+        "url": "https://open.spotify.com/album/587Jslmgif2pEcpKCSkULK"
+      },
+      "artists": [
+        {
+          "name": "Reda El Bahrawy",
+          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221104,
+      "name": "El Mal3ab Wase3",
+      "url": "https://open.spotify.com/track/6aXn3QBR6fm087bEIqm85z"
     },
     {
       "album": {
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 391558,
       "name": "Ya Sater El Str",
       "url": "https://open.spotify.com/track/2Uki6DNgj6ib30tTVf6abo"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 199523,
       "name": "\u0627\u0644\u062c\u062f\u0639",
       "url": "https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3"
@@ -4149,6 +4167,28 @@
       "duration_ms": 186644,
       "name": "\u0642\u0634\u0637\u0647 \u0628\u0627\u0644\u0632\u0628\u0627\u062f\u064a \u0627\u0644\u0644\u064a\u062b\u064a \u0648\u0644\u0648\u0631\u062f\u064a\u0627\u0646\u0627",
       "url": "https://open.spotify.com/track/6uX3nXbXFbuFKNL9rPF0yv"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0635\u0641 \u062c\u0628\u0647\u0629",
+        "url": "https://open.spotify.com/album/09qfPbrrLB2DpcLZBZQoaW"
+      },
+      "artists": [
+        {
+          "name": "Omar Kamal",
+          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        },
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213084,
+      "name": "\u0642\u0635\u0641 \u062c\u0628\u0647\u0629",
+      "url": "https://open.spotify.com/track/14GPK0VJX6y5xJPgB9ZfCK"
     },
     {
       "album": {

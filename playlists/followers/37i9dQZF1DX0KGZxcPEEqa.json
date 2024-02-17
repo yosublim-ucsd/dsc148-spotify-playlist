@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 191505,
+  "2024-02-17": 191541,
   "date_first_scraped": "2022-05-09",
   "description": "Digging deep into the history of 10s pop: Cover: Ariana Grande.",
   "name": "Deep Dive: 10s Pop",
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 259133,
       "name": "Bloodsport '15",
       "url": "https://open.spotify.com/track/7EHv6Eb7nQOXhO0BW5gytT"
@@ -5991,6 +5991,24 @@
     {
       "album": {
         "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/7iiXSRiQJch2XontyEzOcG"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/03rhu2vIylSFLUagt7wi5D"
+    },
+    {
+      "album": {
+        "name": "I Will Never Let You Down",
         "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
       },
       "artists": [
@@ -9877,6 +9895,24 @@
     {
       "album": {
         "name": "Poison",
+        "url": "https://open.spotify.com/album/3TAFRSorFqoO2jUSg6Pv4H"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202906,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/0a9prteLVxECPDuLR9y3cy"
+    },
+    {
+      "album": {
+        "name": "Poison",
         "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
       },
       "artists": [
@@ -13577,7 +13613,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 207200,
       "name": "What I Did for Love (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,131 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,191 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 71 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/2iWHVKISSU9axCE6sncM0M) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [In Silence \(Remixes\)](https://open.spotify.com/album/4raE2IqKCFUNF8KJwzhLXa) | 11:15 |
 | 72 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/0twDKQyNGVsQ6uvIauUG2i) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/4jXF49oY4Zm486fVk4Dd0U) | 8:44 |
 | 73 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 |
-| 74 | [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Time Is The Healer](https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY) | 7:56 |
-| 75 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/02xAj0E4O1XXVL3sMu4eOW) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/4UlMJrQXkFCB3e33eCH87v) | 3:16 |
+| 74 | [ResuRection \(Radio Edit\)](https://open.spotify.com/track/02xAj0E4O1XXVL3sMu4eOW) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [ResuRection Legacy](https://open.spotify.com/album/4UlMJrQXkFCB3e33eCH87v) | 3:16 |
+| 75 | [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Time Is The Healer](https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY) | 7:56 |
 | 76 | [4 Elements](https://open.spotify.com/track/6RuojdtUR7zkIuJqMxaij5) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance Classics, Vol.2](https://open.spotify.com/album/4MZ7o3YmVjt9QaTHJiSf80) | 7:02 |
 | 77 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
 | 78 | [Barber's Adagio for Strings \- Ferry Corsten Remix](https://open.spotify.com/track/34I6VPdSlptoTmX6HcY7tv) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Visiones De Futuro: Electrónica Progresiva](https://open.spotify.com/album/0Q2wVtiz8sVR2zSk5sxL0e) | 6:35 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MCwwNGE4MWQyOTNjODBmN2IzMmJmNmVjZmRjMWE1Y2NjY2FhNDFlZTVh`
+Snapshot ID: `MCxlZDI3MTcxNWVjZWU0YmE0NGQ1YjlkMTAxNTExMzgxODJhZjU0MDMy`

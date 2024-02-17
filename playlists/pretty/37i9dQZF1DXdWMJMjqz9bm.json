@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Arden Jones",
-  "num_followers": 216667,
+  "num_followers": 216678,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMThjMDE5ZmMxMDFhNmM0YzA2ZDBmOGEzODNmZGEwNDcwMGYxNTY3",
+  "snapshot_id": "MCw4Y2E4NmNhMmRiZGY5NWY5NGYyZmQzMzFhMzNmY2JmMWEzMmQzOTVh",
   "tracks": [
+    {
+      "added_at": "2024-02-16 20:53:32",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
+    },
     {
       "added_at": "2024-01-12 19:08:26",
       "album": {
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/4MOjkGH2sVPELfgpZ5AvwK"
     },
     {
+      "added_at": "2024-02-16 20:53:32",
+      "album": {
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 149253,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S"
+    },
+    {
       "added_at": "2024-01-12 05:08:00",
       "album": {
         "name": "Fishnets",
@@ -127,6 +159,26 @@
       "duration_ms": 143402,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7"
+    },
+    {
+      "added_at": "2024-02-16 20:53:32",
+      "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/7jzNj1vlghcgJDaAZCGDC5"
+      },
+      "artists": [
+        {
+          "name": "Stay Over",
+          "url": "https://open.spotify.com/artist/2WYklsnVBJ99Jhou8xbu6m"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 181538,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/5DhjNETdTrHToT8yDbjG2r"
     },
     {
       "added_at": "2024-01-12 05:08:00",
@@ -221,6 +273,22 @@
       "url": "https://open.spotify.com/track/7vCS01P8zDV8nvxqaOZ5AO"
     },
     {
+      "added_at": "2024-02-16 20:53:32",
+      "album": {
+        "name": "Heartbreak Milkshake",
+        "url": "https://open.spotify.com/album/7BAQ06lcT73SVjXA1iCcyt"
+      },
+      "artists": [
+        {
+          "name": "Aze",
+          "url": "https://open.spotify.com/artist/71JJal5W3D0YNB3IUPfIE3"
+        }
+      ],
+      "duration_ms": 160401,
+      "name": "Heartbreak Milkshake",
+      "url": "https://open.spotify.com/track/3Klxo1C5XO8U2l6ez0HB6u"
+    },
+    {
       "added_at": "2024-01-12 05:08:00",
       "album": {
         "name": "Happy",
@@ -259,6 +327,22 @@
       "duration_ms": 169073,
       "name": "No Way Jose",
       "url": "https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl"
+    },
+    {
+      "added_at": "2024-02-16 20:53:32",
+      "album": {
+        "name": "old change",
+        "url": "https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "duration_ms": 114062,
+      "name": "old change",
+      "url": "https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC"
     },
     {
       "added_at": "2024-01-22 15:57:19",

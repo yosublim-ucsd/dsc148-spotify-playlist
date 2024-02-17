@@ -4,7 +4,7 @@
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-104 songs - 6 hr 16 min
+105 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Shine](https://open.spotify.com/track/4dRac7S17nsePwSE3MqbK6) | [Diamond Dealer](https://open.spotify.com/artist/0al2BDNahdKMbU3Nriry1w), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Shine](https://open.spotify.com/album/1778oIDqxkMmObBkq8O6cF) | 3:51 | 2023-09-05 | 2023-11-11 |
 | [Shuffle And Swing](https://open.spotify.com/track/52cpPpeVyUYK9OivAqOlgJ) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Shuffle And Swing](https://open.spotify.com/album/4qhhEaeNoOYGAcVDov4U8j) | 6:41 | 2023-09-05 | 2023-09-30 |
 | [Since \- Don Rimini Deep Mix](https://open.spotify.com/track/55osGD02FGA8u1IAhkLt48) | [Wouter S](https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR), [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM) | [Since \(Don Rimini Remixes\)](https://open.spotify.com/album/5emeek19G51hLqwav3nLtB) | 3:02 | 2023-09-05 |  |
-| [Smile on Your Face](https://open.spotify.com/track/2gylXTJdglDW1xLZduyiDu) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Smile on Your Face](https://open.spotify.com/album/1HaTzDpV9QSaxmAZRZlpGF) | 2:55 | 2023-12-01 |  |
+| [Smile on Your Face](https://open.spotify.com/track/2gylXTJdglDW1xLZduyiDu) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Smile on Your Face](https://open.spotify.com/album/1HaTzDpV9QSaxmAZRZlpGF) | 2:55 | 2023-12-01 | 2024-02-17 |
+| [Smile on Your Face](https://open.spotify.com/track/7nNf5ay9ozxPZEJba65iQm) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Smile on Your Face](https://open.spotify.com/album/2Pb0Cq9JzebMQ8nJJUUINT) | 2:55 | 2024-01-05 |  |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-09-05 | 2023-09-30 |
 | [Stereofunk](https://open.spotify.com/track/3SAR52lwPeSJ8VUybShs9y) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Stereofunk](https://open.spotify.com/album/0pBH1S9LXrBqlp47qsQrQ2) | 5:21 | 2023-11-23 |  |
 | [Sweet Lies](https://open.spotify.com/track/3BW3HN3slcmHuuiXvLbfTi) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweet Lies](https://open.spotify.com/album/60OqSPmJkHe7CQIN8JYcen) | 3:10 | 2023-09-05 | 2023-09-16 |

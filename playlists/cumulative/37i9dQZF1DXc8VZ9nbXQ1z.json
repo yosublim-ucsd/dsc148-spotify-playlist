@@ -2883,6 +2883,46 @@
     },
     {
       "album": {
+        "name": "Gold & Green",
+        "url": "https://open.spotify.com/album/4ttOVF1S3faOhnJVVIZVza"
+      },
+      "artists": [
+        {
+          "name": "Trey Mirror",
+          "url": "https://open.spotify.com/artist/2rnoTsgsrF3cPszkdu6fDw"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/2O5umHWHJ3tXW7Zefb0oCA"
+    },
+    {
+      "album": {
+        "name": "Gold & Green",
+        "url": "https://open.spotify.com/album/4ttOVF1S3faOhnJVVIZVza"
+      },
+      "artists": [
+        {
+          "name": "Trey Mirror",
+          "url": "https://open.spotify.com/artist/2rnoTsgsrF3cPszkdu6fDw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385573,
+      "name": "Gold & Green",
+      "url": "https://open.spotify.com/track/0Vzjy2tT7KkwScyJ4efjSV"
+    },
+    {
+      "album": {
         "name": "Gorah",
         "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
       },
@@ -3147,6 +3187,32 @@
     },
     {
       "album": {
+        "name": "Hey Hey (Da Capo & Kitty Amor Remix)",
+        "url": "https://open.spotify.com/album/321dq5Ag24Jcz5e2AXHd9O"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222769,
+      "name": "Hey Hey - Da Capo & Kitty Amor Remix",
+      "url": "https://open.spotify.com/track/6vQAEYaF1CTSPMlhZsyWCe"
+    },
+    {
+      "album": {
         "name": "Hit Me Up",
         "url": "https://open.spotify.com/album/3ekMEKekhQ8TBLH7UugFZ1"
       },
@@ -3384,6 +3450,24 @@
       "duration_ms": 451376,
       "name": "Humanity",
       "url": "https://open.spotify.com/track/3zrqE5m8m6ZTNeGenxJ0Wl"
+    },
+    {
+      "album": {
+        "name": "Worries of Betrayal",
+        "url": "https://open.spotify.com/album/0mcFgwZsqnh40pK9llRoJy"
+      },
+      "artists": [
+        {
+          "name": "DJ NAHH",
+          "url": "https://open.spotify.com/artist/3hunruCNd05udCVHOLBhbs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325824,
+      "name": "Hurt Beings",
+      "url": "https://open.spotify.com/track/4rSb2gKoVZhVNbyjk8cGfB"
     },
     {
       "album": {
@@ -5958,10 +6042,32 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 365874,
       "name": "Na Wose (Afro Tech)",
       "url": "https://open.spotify.com/track/0dOOopRdJiUzy2xPdGh1TD"
+    },
+    {
+      "album": {
+        "name": "Na Wose (Afro Mixes)",
+        "url": "https://open.spotify.com/album/0rIQEJCVJCw4X7GA0yTYxN"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Na Wose (Afro Tech) - Radio Edit",
+      "url": "https://open.spotify.com/track/7yLxYyvuAJWcLpJmFre49S"
     },
     {
       "album": {
@@ -9560,7 +9666,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Understanding",
       "url": "https://open.spotify.com/track/1nd25x1poJ365yzR76yacq"

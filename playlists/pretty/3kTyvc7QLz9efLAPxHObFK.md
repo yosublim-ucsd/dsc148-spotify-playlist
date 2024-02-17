@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,141 songs - 2 day 15 hr 58 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,143 songs - 2 day 16 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1149,5 +1149,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1139 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 |
 | 1140 | [Breathe \- Radio Edit](https://open.spotify.com/track/2BuW3Ie1a2JxKcmiTgyX2S) | [KimSize](https://open.spotify.com/artist/0lx6sUv47x7B44muGCbVCY) | [Breathe \(Radio Edit\)](https://open.spotify.com/album/0M9GMif3wxDpqEFTRYCTGr) | 3:40 |
 | 1141 | [STRAIGHT TO YOUR FACE](https://open.spotify.com/track/5AlV3eQBdoXAg1dVzdUu15) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2), [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [STRAIGHT TO YOUR FACE](https://open.spotify.com/album/7jBJVHPvgGmfxQs3BG5W0v) | 2:37 |
+| 1142 | [Close Your Eyes](https://open.spotify.com/track/24qnpPIyJS3Fln8QxQbHkw) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Close Your Eyes](https://open.spotify.com/album/5UrK2k95i2woPaGkV3ILgs) | 3:15 |
+| 1143 | [Turn It Up](https://open.spotify.com/track/5ZWHce6qfANIfSxluat1n3) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4), [TRD](https://open.spotify.com/artist/4CWIqZRmIbMeKlr3jjE0vz), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [AI](https://open.spotify.com/album/4SVDTsXjIw3X3PO37une5v) | 2:35 |
 
-Snapshot ID: `MTE4NCxlZTRhMzZiZDNkMDk4MGI4MTYwNjM0MjVhNGZjYjgxNDA5MjliNzAw`
+Snapshot ID: `MTE4NiwyNjBiMzI4OTcyNmQwNWI1OTBhNmU3YmFmMzE3ZGZmYTNhZDFmMjIx`

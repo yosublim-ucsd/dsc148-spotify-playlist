@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 113465,
+  "2024-02-17": 113499,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
@@ -209,6 +209,24 @@
       "duration_ms": 194198,
       "name": "Abyssal Zone",
       "url": "https://open.spotify.com/track/7x5gRQJ6LJQ0MRXzUFlCVr"
+    },
+    {
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7"
     },
     {
       "album": {
@@ -5006,6 +5024,28 @@
     },
     {
       "album": {
+        "name": "Raikanekko",
+        "url": "https://open.spotify.com/album/2YgkWhVFqqqkYzuzEyEDnd"
+      },
+      "artists": [
+        {
+          "name": "Risa Yuzuki",
+          "url": "https://open.spotify.com/artist/5VGrNkixNGpKM2OBwEtHtl"
+        },
+        {
+          "name": "nyankobrq",
+          "url": "https://open.spotify.com/artist/5kO6DdAXbdge94JpKnyOdA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225759,
+      "name": "Raikanekko",
+      "url": "https://open.spotify.com/track/4E7pE5AghmisqgNazzJUQv"
+    },
+    {
+      "album": {
         "name": "Under Mentality",
         "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
       },
@@ -5903,7 +5943,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 383937,
       "name": "Simily",
       "url": "https://open.spotify.com/track/1RzRvI6EcXR5ahb1xUMtBc"
@@ -6011,7 +6051,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 276493,
       "name": "Socchoku",
       "url": "https://open.spotify.com/track/2VsfT97ZOE60ghEsNaufAQ"
@@ -14165,7 +14205,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 194164,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
@@ -15617,6 +15657,24 @@
       "duration_ms": 218466,
       "name": "\u6065\u3055\u3089\u3057",
       "url": "https://open.spotify.com/track/0hPclHnMZKlhUpkiB1jnnE"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u304f\u3041\u306a\u3044",
+        "url": "https://open.spotify.com/album/2YTL1eKDiSO1hIGGhgHC2h"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u66f4\u304b\u3057\u3055\u3093\u306f\u767d\u663c\u5922\u3092\u898b\u308b",
+          "url": "https://open.spotify.com/artist/3Tekc5GNuIH1o2psFvYPJk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281363,
+      "name": "\u60aa\u304f\u3041\u306a\u3044",
+      "url": "https://open.spotify.com/track/3zF2FesG8CbLBPNu8ZVgYp"
     },
     {
       "album": {

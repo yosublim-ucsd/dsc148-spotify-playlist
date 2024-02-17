@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,901 likes - 145 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,930 likes - 145 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [World Nursery Rhyme Week with Little Baby Bum](https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW) | 2:10 |
-| 2 | [Baa Baa Black Sheep](https://open.spotify.com/track/0dF7HP4wDwxCtID3mXpdYX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:27 |
+| 1 | [Muffin Man](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon Dance Party](https://open.spotify.com/artist/51Lx4oj0jlay4n73B2K9uZ) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
+| 2 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [World Nursery Rhyme Week with Little Baby Bum](https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW) | 2:10 |
 | 3 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/3hW0KHABBsresOUik93KF6) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:33 |
-| 4 | [The Muffin Man \- 2012 Version](https://open.spotify.com/track/6au6Hv9BgciDSxHx85k7ut) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:02 |
+| 4 | [Baa Baa Black Sheep](https://open.spotify.com/track/0dF7HP4wDwxCtID3mXpdYX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:27 |
 | 5 | [Here We Go Round the Mulberry Bush](https://open.spotify.com/track/6BTJgawbBehqDKdiA8kgMz) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Fun Music with Toddlers, Vol\. 2](https://open.spotify.com/album/1MXEzNumdAiE6awlv6E5nj) | 2:06 |
 | 6 | [What Dinosaurs Do In The Morning](https://open.spotify.com/track/4WmFFVyReDjC4SpjuQDDEb) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue’s Clues & You Nursery Rhymes Vol\. 4](https://open.spotify.com/album/0NcoBxWnMK987oCOpMqgWT) | 3:17 |
 | 7 | [The Runaway Train](https://open.spotify.com/track/18FFz5c0nFx5Fka1sjmj2f) | [Nursery Rhymes ABC](https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum) | [Nursery Rhymes ABC : Children's Music for Learning and Fun!](https://open.spotify.com/album/1uuqNKPgAF3DeJbZXjovws) | 2:26 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 144 | [Little Tommy Tucker \- 2014 Version](https://open.spotify.com/track/11aKEebWD67zKSPNGW2BxM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:51 |
 | 145 | [Wee Willie Winkie](https://open.spotify.com/track/4X8FTylLFUBFVI7islILP4) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:17 |
 
-Snapshot ID: `MCwxZGMzY2ZmYmMwMjZjY2VkMTI2NmQyNTI2YzFkZTgyOTdkZTBlMTYw`
+Snapshot ID: `MCw2MDZlNGQzNmVlODFjNWZhOTk0NjRkMGRkNTY5Y2IyZjAyNmI0YmIx`

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: ScHoolboy Q\)
 
-1,834 songs - 3 day 20 hr 54 min
+1,835 songs - 3 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1331,6 +1331,7 @@
 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 | 2022-06-09 | 2022-07-15 |
 | [Rome](https://open.spotify.com/track/3rhSiVVcD04GFBW0k6gkQC) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rome](https://open.spotify.com/album/1U04RT9MW5HAD1R43qjBkR) | 2:28 | 2023-09-28 | 2023-10-23 |
 | [ROOF](https://open.spotify.com/track/1CW4G9j2I53c3M43hPHZKV) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [ROOF](https://open.spotify.com/album/6lhhza8UEKg1sTKPMHr7E3) | 3:00 | 2023-04-06 | 2023-05-19 |
+| [Rooftop \(옥탑\)](https://open.spotify.com/track/7kdbbVFmNzsTGpQRTrBtCl) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Worlds Apart](https://open.spotify.com/album/1NGVSYnU5H1g0IWOEyuYNq) | 2:37 | 2024-02-15 |  |
 | [Rope \(Feat\. Donutman, Huiii, Ralph\)](https://open.spotify.com/track/3LoXA0p7viXWSRLqa0HfR0) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc), [Huiii](https://open.spotify.com/artist/2YwO6LFXtZZ6gUIaVCWV35), [Ralph](https://open.spotify.com/artist/1KU1q0ewulRmgcsdeopHUb) | [Just Like Smoke](https://open.spotify.com/album/4UPjOBFxtrthOUY3TPOSWR) | 3:05 | 2022-11-10 | 2022-12-09 |
 | [ROSE STREET](https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ROSE STREET](https://open.spotify.com/album/7CndERmuISXqBYNk7poimm) | 2:33 | 2022-03-31 | 2022-04-08 |
 | [ROSETTA \(Feat\. MILLI\)](https://open.spotify.com/track/3Kf4pY9LwV1cptb4HDNFyk) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 3:08 | 2023-11-09 | 2024-01-26 |

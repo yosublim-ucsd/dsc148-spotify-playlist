@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Nokz78
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,755 likes - 83 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,762 likes - 83 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Better Days](https://open.spotify.com/track/7DeLJ82yL0mcIQRVdViP9x) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB) | [Better Days](https://open.spotify.com/album/3a0xUiQGwGUTMJKcd7B2Yp) | 2:19 |
 | 2 | [3am](https://open.spotify.com/track/1LYGpC6P9t7VARZxap9Kcx) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [3am](https://open.spotify.com/album/7HKTDmDebceTzrFxiCAO1m) | 3:29 |
 | 3 | [TTS](https://open.spotify.com/track/3YkyeN7q0Q98ZfLaDPzylv) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [TTS](https://open.spotify.com/album/6n7hYBuGwbLeZ4zPviOqpw) | 2:16 |
-| 4 | [Next Up Australia \- S1\-E6](https://open.spotify.com/track/64SsCEM4LdmB4uc2SxxbBn) | [Dibz](https://open.spotify.com/artist/0y5XzfgkyNOEO0zAWuDWQ9), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E6](https://open.spotify.com/album/0oXCK5cmxHUNRdjhJSGdFU) | 2:20 |
+| 4 | [Next Up Australia \- S1\-E6](https://open.spotify.com/track/64SsCEM4LdmB4uc2SxxbBn) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E6](https://open.spotify.com/album/0oXCK5cmxHUNRdjhJSGdFU) | 2:20 |
 | 5 | [Better Than Most](https://open.spotify.com/track/0CvxXvBvBGPs8A6OZEpVS2) | [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Better Than Most](https://open.spotify.com/album/39u8TJkDuEz6ULN1WxYxfE) | 2:32 |
 | 6 | [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 |
 | 7 | [LAST OF US](https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk) | [Bad1](https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb), [20th Boys](https://open.spotify.com/artist/1bxhFpPAizVxyxzeaOhZZf) | [LAST OF US](https://open.spotify.com/album/3UOeS1PgE1qamKzVf4iG51) | 3:14 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 82 | [Make Money Take Money](https://open.spotify.com/track/6eqDigsr1Lv1Le1SaLxLr0) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [Make Money Take Money](https://open.spotify.com/album/6j1wEMMomneG373mhyztns) | 3:06 |
 | 83 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 
-Snapshot ID: `MCwxNWY3YzVlYjRlYzc1MWRhYzM0ZjdlODJhMTRmZTA1MDI4NGQ3OWFh`
+Snapshot ID: `MCw4NmIwM2MyM2FhMDUzM2EzMTYzZGUxNmZlYjEzYThlZTlhMWZiNzM1`

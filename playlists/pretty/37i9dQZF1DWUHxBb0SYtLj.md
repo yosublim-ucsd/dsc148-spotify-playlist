@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,013 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,018 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Corona](https://open.spotify.com/track/4h0n6lMdF9vWrNTfiNUBD3) | [AuRORA](https://open.spotify.com/artist/4MNMNUDNnxNQyg8uHU0gQV), [iLL Papi](https://open.spotify.com/artist/1xFWY11ZQ1aBUIgIa7c7By) | [Corona](https://open.spotify.com/album/12Qg04jmiRAUwxLXtF5UjR) | 3:42 |
 | 50 | [Censura](https://open.spotify.com/track/1T1KvyxFWb2RB9tBKexrfA) | [Elex](https://open.spotify.com/artist/4j4Lzob5lrhowmGN5HKZWe) | [Censura](https://open.spotify.com/album/2T0YHycMgCWMWoMhXXbznt) | 2:49 |
 
-Snapshot ID: `MCw5Y2M0YTUzZDA3ZGQ5ZmRiMjU2Yjg1MjM3MGUwYmU3YTE5OTI4Nzcy`
+Snapshot ID: `MCxiZmNjYTUwYTI2NzU4MWQzNWE0Yjg3OGNhYTRlNjQ0NTFhODI5YWMz`

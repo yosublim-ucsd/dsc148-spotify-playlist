@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,603 songs - 3 day 5 hr 13 min
+1,604 songs - 3 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1273,6 +1273,7 @@
 | [SORE](https://open.spotify.com/track/6R14BaW5Y3KGmlX68pkTbl) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [SORE](https://open.spotify.com/album/0X7rdj2hW0RtyIhRI7alGN) | 2:58 | 2022-03-30 | 2022-07-01 |
 | [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 | 2023-07-22 |
 | [Sorry](https://open.spotify.com/track/4dN2Z5ncmkmOhzsaoqDHtS) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [Petite League](https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4) | [Keep It Simple, Stupid!](https://open.spotify.com/album/31T0jT90WLFd2SQecMTrD9) | 3:06 | 2022-06-17 | 2022-11-05 |
+| [SOULCRUSHER](https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SOULCRUSHER](https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC) | 2:51 | 2024-02-13 |  |
 | [SOUND OF METAL \(feat\. Devon Again\)](https://open.spotify.com/track/69FgjXjGkVsqUb30ijMH2W) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q), [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [SOUND OF METAL \(feat\. Devon Again\)](https://open.spotify.com/album/3C58S7vtfqn8CDQ6Bq0v90) | 3:10 | 2023-08-18 | 2023-09-23 |
 | [Space Junk](https://open.spotify.com/track/5FpKr3xHQuBCf8vf10047b) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Space Junk](https://open.spotify.com/album/0beTY9GHvN0GEk1C2zJCeS) | 2:09 | 2023-06-16 | 2023-07-22 |
 | [spawn](https://open.spotify.com/track/4MCpzM2jmfXrxpQ5GOYK1M) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [insignia's manor](https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a) | 1:47 | 2021-11-05 | 2022-03-01 |
@@ -1575,7 +1576,7 @@
 | [Wrong with u](https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Wrong with u](https://open.spotify.com/album/7EYr5e6Qg0RBzLHMhWgZul) | 2:32 | 2021-09-23 | 2022-02-05 |
 | [WTF](https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k) | [Madhouse](https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY) | [WTF](https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p) | 1:45 | 2022-06-24 | 2022-08-06 |
 | [Wurli](https://open.spotify.com/track/1BgN9D0eR6ziZ4P9Sme9S6) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/3qMCj0wb90BFH8nthDNMVY) | 2:30 | 2020-10-13\* | 2021-05-03 |
-| [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-09-29 |  |
+| [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-09-29 | 2024-02-17 |
 | [WYHA?](https://open.spotify.com/track/1QBIT5tcrOiV6RZyoAoEqW) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Don't Like You](https://open.spotify.com/album/3ddX99qlb0sLriLWtiOsnE) | 3:13 | 2022-04-01 | 2022-04-10 |
 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 | 2023-08-18 |  |
 | [Y DON'T U](https://open.spotify.com/track/5RWp0wbRWI5rC8qemJ42h8) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Y DON'T U](https://open.spotify.com/album/4SBtXdAgxEp5ZWOAXKRBDU) | 2:12 | 2021-05-29 | 2022-08-06 |

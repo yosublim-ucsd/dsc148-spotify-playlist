@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-285 songs - 21 hr 5 min
+286 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [all the things i got](https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06) | 2:25 | 2022-06-27 | 2024-02-01 |
 | [Alone](https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Alone](https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU) | 3:45 | 2020-10-18\* |  |
 | [Amelia](https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f) | 3:13 | 2023-07-21 | 2024-02-05 |
+| [Amelia](https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO) | 3:13 | 2024-01-31 |  |
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 | 2023-07-17 |
 | [Amor](https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Umut Kilic](https://open.spotify.com/artist/4LTPqfgIAxjjCcPtszxBiT) | [Amor](https://open.spotify.com/album/2sXEo5lJtkMIFLgyS5Oxwx) | 3:00 | 2021-11-05 | 2022-09-05 |
 | [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 |  |
@@ -43,7 +44,7 @@
 | [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Kənan Bayramlı](https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9) | [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf) | 3:34 | 2023-10-05 |  |
 | [Be Mine](https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Be Mine](https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe) | 3:30 | 2022-06-27 | 2023-03-18 |
 | [Bedouin](https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Bedouin](https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG) | 6:34 | 2023-08-25 | 2023-10-24 |
-| [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [DJ Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 | 2021-10-22 |  |
+| [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [DJ Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 | 2021-10-22 | 2024-02-17 |
 | [Beirut](https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb) | 4:20 | 2022-06-27 | 2023-06-10 |
 | [Beirut](https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/1mABpSoBrD4rFpeQhdNSwc) | 4:20 | 2020-10-18\* | 2022-07-29 |
 | [Belly Dance](https://open.spotify.com/track/5AFR7DK2GL4HtFTiiJRXYv) | [Game Chasers](https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS) | [Belly Dance](https://open.spotify.com/album/52IqDznKi2rWHJMVJ6uMZM) | 3:14 | 2022-06-27 | 2023-03-18 |

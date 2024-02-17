@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 8687,
+  "num_followers": 8699,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzMzZTcxMjVkNTZkZWI1ODczYTYxNDY1NDI2ZGMxMDUzNDFiOGM0",
+  "snapshot_id": "MCw3NTIzZjU5OWQ3Y2FkMTk2NmUyZmZkZTcwNGJiOGMxZjQ2ODY1ODhj",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
         }
       ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Replica",
-        "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 230759,
-      "name": "Submersible",
-      "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Book of Life",
-        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
-      },
-      "artists": [
-        {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
-        }
-      ],
-      "duration_ms": 264683,
-      "name": "Fog",
-      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Book of Life",
+        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "duration_ms": 264683,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
-      },
-      "artists": [
-        {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
-        }
-      ],
-      "duration_ms": 250341,
-      "name": "We Search for the Lights",
-      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Balsams",
         "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 435722,
       "name": "Eye on the Sparrow",
       "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "duration_ms": 250341,
+      "name": "We Search for the Lights",
+      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -963,6 +963,30 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "FRKWYS Vol. 15: serenitatem",
+        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        },
+        {
+          "name": "Satsuki Shibano",
+          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
+        }
+      ],
+      "duration_ms": 407999,
+      "name": "Atelier",
+      "url": "https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Atomos",
         "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 298697,
       "name": "Chonchos",
       "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "FRKWYS Vol. 15: serenitatem",
-        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Yoshio Ojima",
-          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
-        },
-        {
-          "name": "Satsuki Shibano",
-          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
-        }
-      ],
-      "duration_ms": 407999,
-      "name": "Atelier",
-      "url": "https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Loom Dream",
-        "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
-      },
-      "artists": [
-        {
-          "name": "Leif",
-          "url": "https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D"
-        }
-      ],
-      "duration_ms": 455925,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 362609,
       "name": "To All It",
       "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Loom Dream",
+        "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
+      },
+      "artists": [
+        {
+          "name": "Leif",
+          "url": "https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D"
+        }
+      ],
+      "duration_ms": 455925,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Fire Light",
         "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 207529,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Wiltzie",
-          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
-        }
-      ],
-      "duration_ms": 134382,
-      "name": "Bridgets' Theme",
-      "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 199517,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
+      },
+      "artists": [
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
+        }
+      ],
+      "duration_ms": 134382,
+      "name": "Bridgets' Theme",
+      "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "We Will Always Be",
         "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 364253,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-06-07 15:21:34",

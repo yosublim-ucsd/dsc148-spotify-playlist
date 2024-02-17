@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 166012,
+  "2024-02-17": 166059,
   "date_first_scraped": "2022-05-30",
   "description": "Take a deep breath and relax.",
   "name": "Breathe",
@@ -75,6 +75,24 @@
       "duration_ms": 196800,
       "name": "432 Hz Peace",
       "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
+    },
+    {
+      "album": {
+        "name": "528 Hz Astral Flux",
+        "url": "https://open.spotify.com/album/02ZWlhIvqRw8FdwlmgXJIr"
+      },
+      "artists": [
+        {
+          "name": "Sage Tranquility Hz",
+          "url": "https://open.spotify.com/artist/4Hjn3TNiu6uNl4CVIJIC46"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "528 Hz Astral Flux",
+      "url": "https://open.spotify.com/track/6KzPzPhuqJoNWKh5toD7Ub"
     },
     {
       "album": {
@@ -407,6 +425,24 @@
       "duration_ms": 147808,
       "name": "Astral",
       "url": "https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46"
+    },
+    {
+      "album": {
+        "name": "Beyond the Sunrise",
+        "url": "https://open.spotify.com/album/7yR28ZTUP4Kg3ob20qYRcs"
+      },
+      "artists": [
+        {
+          "name": "Carl Borden",
+          "url": "https://open.spotify.com/artist/191IVNBGVBToo7fHB4LHaS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324336,
+      "name": "At First Light",
+      "url": "https://open.spotify.com/track/2nSsFPv6DacvSeeffwHw41"
     },
     {
       "album": {
@@ -911,6 +947,24 @@
       "duration_ms": 166285,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0pSQEKwbzBJEshxkmaw23h"
+      },
+      "artists": [
+        {
+          "name": "Inner Oasis",
+          "url": "https://open.spotify.com/artist/0KXkOnI2jbPjGUYNtOzy2s"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160150,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/6CWQhbc0inw5cmmiKiAZEX"
     },
     {
       "album": {
@@ -2714,6 +2768,24 @@
     },
     {
       "album": {
+        "name": "The Searching Mind",
+        "url": "https://open.spotify.com/album/7kbqP0XONQcJm2Bw985mHn"
+      },
+      "artists": [
+        {
+          "name": "Suraj Ives",
+          "url": "https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203718,
+      "name": "The Searching Mind",
+      "url": "https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk"
+    },
+    {
+      "album": {
         "name": "Tramonto",
         "url": "https://open.spotify.com/album/2pOZVs9uO37Uk63vlU7ZIG"
       },
@@ -2729,6 +2801,24 @@
       "duration_ms": 133000,
       "name": "Tramonto",
       "url": "https://open.spotify.com/track/3smLYiUCcqOwOVmYroTDN7"
+    },
+    {
+      "album": {
+        "name": "Beyond the Sunrise",
+        "url": "https://open.spotify.com/album/7yR28ZTUP4Kg3ob20qYRcs"
+      },
+      "artists": [
+        {
+          "name": "Carl Borden",
+          "url": "https://open.spotify.com/artist/191IVNBGVBToo7fHB4LHaS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278639,
+      "name": "Walk with Me (A Beautiful Journey)",
+      "url": "https://open.spotify.com/track/695Ck5SYVFtgey5l0FY1Fh"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "\u00e9 o puro suco do ver\u00e3o brasileiroooo / Grupo Menos \u00e9 Mais",
+  "description": "\u00e9 o puro suco do ver\u00e3o brasileiroooo / Dilsinho",
   "name": "PURO SUCO DO VER\u00c3O",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 221538,
       "name": "Baile do Bruxo",
       "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 123705,
       "name": "Tengo - Remix",
       "url": "https://open.spotify.com/track/6TUitrhhy4eTX5wsZqc9vz"
@@ -4852,6 +4852,24 @@
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
+    },
+    {
+      "album": {
+        "name": "Fazendo Arte (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/0zSKtOQ6feKHL4hj10IhAn"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160511,
+      "name": "Toalha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1VDhTcn63fpKlNYLTJLXU6"
     },
     {
       "album": {
@@ -5170,6 +5188,28 @@
       "duration_ms": 179040,
       "name": "Voando Pro Par\u00e1",
       "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
+    },
+    {
+      "album": {
+        "name": "Voando pro Par\u00e1 (Pedro Sampaio Remix Oficial)",
+        "url": "https://open.spotify.com/album/6tTI9rL3T0OMQA4faqeJxZ"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Voando pro Par\u00e1 - Pedro Sampaio Remix Oficial",
+      "url": "https://open.spotify.com/track/1We7bGhumJU39MO8ZPFV22"
     },
     {
       "album": {

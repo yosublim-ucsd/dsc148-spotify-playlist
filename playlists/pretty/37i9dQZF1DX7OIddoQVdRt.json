@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 624647,
+  "num_followers": 624726,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmIzOGQwMTc0MWUwYzMyNDc3NGRjZWU3NDBmMzk3YTA2ODhiMmM5",
+  "snapshot_id": "MCwwNzY0N2IzZjU0NDQ0OGEyZTcyYjdjZTlhMzZlYmNmYzlmMGM2MDg1",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 254163,
+      "name": "Do You Believe In Love?",
+      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "I Am (Radio Edit)",
         "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
+        "name": "Only One Night Tho (Radio Edit / Live)",
+        "url": "https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs"
       },
       "artists": [
         {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 254163,
-      "name": "Do You Believe In Love?",
-      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
+      "duration_ms": 230000,
+      "name": "Only One Night Tho - Radio Edit / Live",
+      "url": "https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -915,22 +931,6 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Only One Night Tho (Radio Edit / Live)",
-        "url": "https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Only One Night Tho - Radio Edit / Live",
-      "url": "https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": "2024-02-02 06:37:59",

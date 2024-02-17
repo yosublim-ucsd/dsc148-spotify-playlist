@@ -9196,7 +9196,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 113841,
       "name": "it's all gone now",
       "url": "https://open.spotify.com/track/3ixV1YHgkybTtqZlgREtca"
@@ -10243,6 +10243,24 @@
     },
     {
       "album": {
+        "name": "Let's stay here forever",
+        "url": "https://open.spotify.com/album/7f6G4nEcP8zfHdFE61MABP"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Let's stay here forever",
+      "url": "https://open.spotify.com/track/5M4NSsW6J63KGMHc1y0c6c"
+    },
+    {
+      "album": {
         "name": "leyawiin",
         "url": "https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte"
       },
@@ -10290,7 +10308,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 123634,
       "name": "Life",
       "url": "https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV"
@@ -14902,7 +14920,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 109470,
       "name": "Press Start",
       "url": "https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx"

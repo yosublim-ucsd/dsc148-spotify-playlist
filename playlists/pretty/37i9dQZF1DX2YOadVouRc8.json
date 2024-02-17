@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 21962,
+  "num_followers": 21985,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjRhMjdhOWU1NmMxODM3M2FhNDM1ZTc4ODA4M2NmOWFhMTA3ZmMy",
+  "snapshot_id": "MCxlOWM5MzUwMTM3ZTg4YjNjYmMxMTVjNWQ0ZjQyN2M3YjhmNWEzYzA3",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "SUPARO (Remix)",
         "url": "https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 161226,
       "name": "SUPARO - Remix",
       "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Mr O\u00falala",
-        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Mr O\u00falala",
+        "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Push (feat. Omah Lay)",
-        "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "I Made It (feat. Bobby Shmurda & Bien)",
         "url": "https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 268303,
       "name": "I Made It (feat. Bobby Shmurda & Bien)",
       "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Push (feat. Omah Lay)",
+        "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 162787,
+      "name": "Push (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "I Dey Slide",
+        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        }
+      ],
+      "duration_ms": 202491,
+      "name": "I Dey Slide",
+      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 158064,
       "name": "4ever",
       "url": "https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "I Dey Slide",
-        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
-      },
-      "artists": [
-        {
-          "name": "Yung Dada",
-          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
-        }
-      ],
-      "duration_ms": 202491,
-      "name": "I Dey Slide",
-      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
     },
     {
       "added_at": "2024-02-16 00:01:00",

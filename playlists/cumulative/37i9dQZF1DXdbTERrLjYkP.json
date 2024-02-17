@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Grae",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Levin",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -2012,6 +2012,24 @@
       "duration_ms": 190119,
       "name": "Cleveland",
       "url": "https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY"
+    },
+    {
+      "album": {
+        "name": "clocks",
+        "url": "https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60"
+      },
+      "artists": [
+        {
+          "name": "Alayna Grace",
+          "url": "https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "clocks",
+      "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
     },
     {
       "album": {
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188168,
       "name": "I Don\u2019t Know",
       "url": "https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm"
@@ -5142,6 +5160,24 @@
       "duration_ms": 200278,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/0d0lVRztdBmdkL04WORCPP"
+    },
+    {
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/1lDD4tijRLgtRoZbp0F8jr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Levin",
+          "url": "https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/28KyfWtoqhvAJ7tKXOxdlx"
     },
     {
       "album": {
@@ -9439,6 +9475,24 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7LGzfSHsRiIXq2M47vwWZg"
+      },
+      "artists": [
+        {
+          "name": "Maisy Kay",
+          "url": "https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189271,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/710qfjtXZ5epd7pl9KdpTY"
+    },
+    {
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -10704,7 +10758,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 220787,
       "name": "What You'll Never Say",
       "url": "https://open.spotify.com/track/6kvEvPFpC7v5aJeA6FREpR"
@@ -11104,7 +11158,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 219922,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB"

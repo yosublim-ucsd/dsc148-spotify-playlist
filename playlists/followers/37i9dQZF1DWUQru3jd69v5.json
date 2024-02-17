@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 224586,
+  "2024-02-17": 224583,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: N\u00e9za",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kuremino",
   "name": "Raptopia",
   "tracks": [
     {
@@ -794,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Addosso",
+        "url": "https://open.spotify.com/album/2KfRdmJYAVdbQfAZSj5QUs"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161706,
+      "name": "Addosso",
+      "url": "https://open.spotify.com/track/3Vvfh3Bx0A8dtK31QPzhI9"
+    },
+    {
+      "album": {
         "name": "ADIOS (feat. Yunes LaGrintaa)",
         "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
       },
@@ -1510,6 +1528,24 @@
     },
     {
       "album": {
+        "name": "BAD VIBES",
+        "url": "https://open.spotify.com/album/5IKOlaej16focqUMUgrnir"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BAD VIBES",
+      "url": "https://open.spotify.com/track/7dQifG3HCZODIup1leoDxY"
+    },
+    {
+      "album": {
         "name": "BAG VUITTON",
         "url": "https://open.spotify.com/album/2eoMLNSTUfQpOS9mthYgd6"
       },
@@ -2041,6 +2077,28 @@
       "duration_ms": 157808,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA"
+    },
+    {
+      "album": {
+        "name": "BENVENUTI AL SUD",
+        "url": "https://open.spotify.com/album/6YKa44glcmthCXmhbnjwZh"
+      },
+      "artists": [
+        {
+          "name": "Mando",
+          "url": "https://open.spotify.com/artist/4GvngXAxZMchFmLkDaZOAc"
+        },
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "BENVENUTI AL SUD (feat. Welo)",
+      "url": "https://open.spotify.com/track/4Pjc3S88QuUBUczici7iEH"
     },
     {
       "album": {
@@ -3928,6 +3986,24 @@
     },
     {
       "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/26zwJDIo8VieGT4GnbPKL5"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99740,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/6WWfb81U4yyBWgfJEkYD6L"
+    },
+    {
+      "album": {
         "name": "Closed",
         "url": "https://open.spotify.com/album/6rl4eAiplgEOlHAXS5URCh"
       },
@@ -4473,6 +4549,24 @@
       "duration_ms": 139000,
       "name": "Crack In Casa 24/7",
       "url": "https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu"
+    },
+    {
+      "album": {
+        "name": "Cristiano Rollando",
+        "url": "https://open.spotify.com/album/1feR86V6FtyF0PWKVZxqEb"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126196,
+      "name": "Cristiano Rollando",
+      "url": "https://open.spotify.com/track/5WqOwUM7AfUPURxpO6O3L5"
     },
     {
       "album": {
@@ -6099,7 +6193,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 191489,
       "name": "Federico",
       "url": "https://open.spotify.com/track/4ERrFf4AtLQAcLlsgtv29z"
@@ -7685,6 +7779,24 @@
       "duration_ms": 129285,
       "name": "Hammamet (feat. Security & Kira)",
       "url": "https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH"
+    },
+    {
+      "album": {
+        "name": "Hangar",
+        "url": "https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Hangar",
+      "url": "https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC"
     },
     {
       "album": {
@@ -9694,6 +9806,28 @@
     },
     {
       "album": {
+        "name": "LE D\u00c8LIRE",
+        "url": "https://open.spotify.com/album/4fkoLmJ6Acd6y7ktodaGwP"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        },
+        {
+          "name": "Sik2s",
+          "url": "https://open.spotify.com/artist/2eoTidiwC0icCGx7kHzJO9"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210408,
+      "name": "LE D\u00c8LIRE",
+      "url": "https://open.spotify.com/track/48q2j9cxSJlygyWD3Do6L4"
+    },
+    {
+      "album": {
         "name": "LEBLOCK",
         "url": "https://open.spotify.com/album/2RXAXFkxyPxoK6mz2QtNNS"
       },
@@ -11679,7 +11813,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 90000,
       "name": "MONSTERS",
       "url": "https://open.spotify.com/track/3Nl2zvIGAlPkb8GfDVptJZ"
@@ -12416,6 +12550,42 @@
     },
     {
       "album": {
+        "name": "No Stop",
+        "url": "https://open.spotify.com/album/4O6Rk4CLWUNmuiZv1qwCkJ"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126164,
+      "name": "No Stop",
+      "url": "https://open.spotify.com/track/6enSx9neDjRa51R39HvXzz"
+    },
+    {
+      "album": {
+        "name": "NO TIME",
+        "url": "https://open.spotify.com/album/61Z6kau8ly1XLa6NTdia1h"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "NO TIME",
+      "url": "https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5"
+    },
+    {
+      "album": {
         "name": "No Way",
         "url": "https://open.spotify.com/album/3bcuFWLhPtnu5K5PVa364S"
       },
@@ -12431,6 +12601,28 @@
       "duration_ms": 137684,
       "name": "No Way",
       "url": "https://open.spotify.com/track/1p3CfTqbZS8D8eZMf4ISyy"
+    },
+    {
+      "album": {
+        "name": "Non ci basta",
+        "url": "https://open.spotify.com/album/2ch95H0nbpGZ3JbannmLnV"
+      },
+      "artists": [
+        {
+          "name": "Poli Ok",
+          "url": "https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Non ci basta",
+      "url": "https://open.spotify.com/track/0pOLk0GIHU3INPdYt1Bjn7"
     },
     {
       "album": {
@@ -13081,7 +13273,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 127001,
       "name": "ORMAI",
       "url": "https://open.spotify.com/track/3M7tqi0Ebb4AoSEhuYaY1f"
@@ -13481,7 +13673,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 168990,
       "name": "Parano",
       "url": "https://open.spotify.com/track/7ly9Z69O3UgtkrmeD2zchQ"
@@ -14583,7 +14775,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 114473,
       "name": "PUFF PUFF",
       "url": "https://open.spotify.com/track/0L1rcUkyecGibap8cKOBRv"
@@ -15548,6 +15740,28 @@
     },
     {
       "album": {
+        "name": "S0LI",
+        "url": "https://open.spotify.com/album/0GhWMk4O0IicznO78zYudd"
+      },
+      "artists": [
+        {
+          "name": "Luciennn",
+          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
+        },
+        {
+          "name": "AUR\u0245",
+          "url": "https://open.spotify.com/artist/5rG9qDNEMkFLFTvDthbnWK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "S0LI",
+      "url": "https://open.spotify.com/track/0x3ObDBzWGkZBMdHeU9XxO"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
       },
@@ -15763,7 +15977,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 130500,
       "name": "SCAM (feat. Taxi B, Vaporstef)",
       "url": "https://open.spotify.com/track/7H54bkr1FvctDBLwD2Alzv"
@@ -16571,7 +16785,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 187030,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1nj59fUqMaCfpYDhyc29F9"
@@ -16809,6 +17023,32 @@
       "duration_ms": 156857,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t"
+    },
+    {
+      "album": {
+        "name": "Statt ferm",
+        "url": "https://open.spotify.com/album/68nhHDerY9JEnrIk2j5NoG"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "NENNO",
+          "url": "https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla"
+        },
+        {
+          "name": "Ed Mars",
+          "url": "https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134329,
+      "name": "Statt ferm",
+      "url": "https://open.spotify.com/track/6yPNbFCaMfEhoCYGgOrg5x"
     },
     {
       "album": {
@@ -17342,6 +17582,28 @@
     },
     {
       "album": {
+        "name": "TALENTO DELLA ZONA (feat. Uzi Lvke)",
+        "url": "https://open.spotify.com/album/0OXJGNjaUiCxGpf46bKRsu"
+      },
+      "artists": [
+        {
+          "name": "Helmi sa7bi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        },
+        {
+          "name": "Uzi Lvke",
+          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "TALENTO DELLA ZONA (feat. Uzi Lvke)",
+      "url": "https://open.spotify.com/track/0RyKx7vPPetX0620k1k1t9"
+    },
+    {
+      "album": {
         "name": "Talento Sprecato",
         "url": "https://open.spotify.com/album/257YVgPWCh958qWgByDl1l"
       },
@@ -17741,7 +18003,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 111600,
       "name": "Tommaso",
       "url": "https://open.spotify.com/track/1jbEcjGF1iIcUbenA52p6L"
@@ -18945,7 +19207,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 153579,
       "name": "Vita Nuova",
       "url": "https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1"
@@ -19087,6 +19349,28 @@
       "duration_ms": 140571,
       "name": "Walkie Talkie",
       "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
+    },
+    {
+      "album": {
+        "name": "Walter White",
+        "url": "https://open.spotify.com/album/0bjfbfgm2hQte6OBSAwg90"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Walter White",
+      "url": "https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC"
     },
     {
       "album": {

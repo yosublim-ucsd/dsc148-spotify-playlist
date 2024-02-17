@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 128677,
+  "num_followers": 128768,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODRjYjJjMTM3NWYwYTI5Yjg0N2ViMzE3ZWI3MGRmMTg1ZTYzZTY3",
+  "snapshot_id": "MCxlZDA2ZmU1MDIyYzQ0OTNlOWYzNGRiY2IwNGY5NTIzMjEzOTJhMzM1",
   "tracks": [
     {
       "added_at": "2023-02-02 20:54:30",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-02-02 20:54:30",
       "album": {
+        "name": "First Offense",
+        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
+    },
+    {
+      "added_at": "2023-02-02 20:54:30",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 220533,
       "name": "The Model - 2009 Remaster",
       "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
-    },
-    {
-      "added_at": "2023-02-02 20:54:30",
-      "album": {
-        "name": "First Offense",
-        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
-      },
-      "artists": [
-        {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
     },
     {
       "added_at": "2023-02-02 20:54:30",

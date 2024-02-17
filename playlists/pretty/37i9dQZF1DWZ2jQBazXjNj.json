@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 60484,
+  "num_followers": 60603,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzNkMGJiOGFjNjZhY2FiYzI4NzAxMDU4MjJmMGE1MWE5MzcwYTM5",
+  "snapshot_id": "MCxhNzg5MjU1OWE1ODZlYThjNGJlYTNmMGZiMDI5YjU2N2MwYTQzMWU3",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Convencido",
         "url": "https://open.spotify.com/album/5jpPKL9NiWm7hVlLU6uHkb"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 212220,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/750Jft4koW1yoribM3DtzT"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mi Prioridad",
-        "url": "https://open.spotify.com/album/2wRNM7YNOR7zENTETHmvlT"
-      },
-      "artists": [
-        {
-          "name": "Sentido",
-          "url": "https://open.spotify.com/artist/1QkMDNXXlWHy3IWWl5ceSI"
-        }
-      ],
-      "duration_ms": 211954,
-      "name": "Mi Prioridad",
-      "url": "https://open.spotify.com/track/0KbWUzBCw2N11HhYPsHeag"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Las M\u00e1s Pedidas (Cover)",
         "url": "https://open.spotify.com/album/3s0zPWQXnBr6hjCwnTw0SK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 210649,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor - Cover",
       "url": "https://open.spotify.com/track/33BVSng7vUV8EYhKetJkbe"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mi Prioridad",
+        "url": "https://open.spotify.com/album/2wRNM7YNOR7zENTETHmvlT"
+      },
+      "artists": [
+        {
+          "name": "Sentido",
+          "url": "https://open.spotify.com/artist/1QkMDNXXlWHy3IWWl5ceSI"
+        }
+      ],
+      "duration_ms": 211954,
+      "name": "Mi Prioridad",
+      "url": "https://open.spotify.com/track/0KbWUzBCw2N11HhYPsHeag"
     },
     {
       "added_at": "2024-02-02 05:00:00",

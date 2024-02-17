@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 95012,
+  "2024-02-17": 95177,
   "date_first_scraped": "2023-03-06",
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
   "name": "Corridos de Caballos",
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 191961,
       "name": "El Rengo del Gallo Giro",
       "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 210800,
       "name": "Mi Potrillo",
       "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"

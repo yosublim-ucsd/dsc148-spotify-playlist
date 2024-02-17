@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 125480,
+  "2024-02-17": 125527,
   "date_first_scraped": "2022-01-21",
   "description": "Peaceful ambient for mind body connection.",
   "name": "Hatha Yoga",
@@ -165,6 +165,24 @@
       "duration_ms": 125997,
       "name": "Aspettami",
       "url": "https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF"
+    },
+    {
+      "album": {
+        "name": "Astral Meadows",
+        "url": "https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF"
+      },
+      "artists": [
+        {
+          "name": "Delta Shores",
+          "url": "https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168766,
+      "name": "Astral Meadows",
+      "url": "https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx"
     },
     {
       "album": {
@@ -1263,6 +1281,24 @@
       "duration_ms": 200853,
       "name": "Healing Energy",
       "url": "https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU"
+    },
+    {
+      "album": {
+        "name": "Healing Harmonies 417 Hz",
+        "url": "https://open.spotify.com/album/3HDiWPOXPaPpjiZxkxI1Dq"
+      },
+      "artists": [
+        {
+          "name": "Anthropological",
+          "url": "https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Healing Harmonies 417 Hz",
+      "url": "https://open.spotify.com/track/5qhfbYu1bTIWC5P2kfy9g2"
     },
     {
       "album": {
@@ -2634,6 +2670,24 @@
     },
     {
       "album": {
+        "name": "Sacred Alchemy",
+        "url": "https://open.spotify.com/album/2x5CIkNAszdckZInOtl4zn"
+      },
+      "artists": [
+        {
+          "name": "Lucia Lopez",
+          "url": "https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Sacred Alchemy",
+      "url": "https://open.spotify.com/track/7rJMMlb0WFlfTt96o9nmWN"
+    },
+    {
+      "album": {
         "name": "Unni",
         "url": "https://open.spotify.com/album/35Gv91ojzEtJl0iXz41X58"
       },
@@ -3225,6 +3279,24 @@
       "duration_ms": 295714,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
+    },
+    {
+      "album": {
+        "name": "Sublime Worlds",
+        "url": "https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o"
+      },
+      "artists": [
+        {
+          "name": "Lofty Escape",
+          "url": "https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Sublime Worlds",
+      "url": "https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA"
     },
     {
       "album": {

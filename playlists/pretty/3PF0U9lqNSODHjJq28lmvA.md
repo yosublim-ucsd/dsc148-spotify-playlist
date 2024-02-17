@@ -4,23 +4,25 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,298 likes - 14 songs - 49 min 46 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,298 likes - 16 songs - 52 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WEAPON OF GOD](https://open.spotify.com/track/2Truyk5azQYJush49awirl) | [ANGEL\_TECH](https://open.spotify.com/artist/5tpblY6P5QwlKCv5nfLESc), [Metagirl](https://open.spotify.com/artist/4APBjeJK2gYxq3gaitb2tQ) | [AUTO HYMN](https://open.spotify.com/album/2ihCyjtqk4cx16NixhfK3x) | 1:40 |
-| 2 | [Tyhmä Rakkauslaulu](https://open.spotify.com/track/7MQW4V8GHgJ3V9T2ixqAuf) | [Monotonia](https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N) | [Tyhmä Rakkauslaulu](https://open.spotify.com/album/4jP8iqel3z99ZXlKh80Hwq) | 3:41 |
-| 3 | [Running on empty](https://open.spotify.com/track/2Rz2Mj45ivp8copL3HWvRY) | [Lasse Gidbo](https://open.spotify.com/artist/0XBd3HKhpiyMWaaVZ1g2Lf) | [Stuff](https://open.spotify.com/album/0o9mn5rLlNZzS3DDAssN8P) | 2:54 |
-| 4 | [Brother from another mother](https://open.spotify.com/track/4q66GNC9HhCg5YQ5ULhX2D) | [Oskviggen](https://open.spotify.com/artist/5D9XxObij0RMDAsjmIdtXL) | [The Metal Dream](https://open.spotify.com/album/2gTAYAPBqDjw3DVZJsxsgV) | 3:04 |
-| 5 | [Super General II](https://open.spotify.com/track/3lgpY0ERqH12RkGv7A02Mj) | [Red Rum Fi Dead](https://open.spotify.com/artist/7FyEYJ25vLqM2d1P49GmPi) | [Super General II](https://open.spotify.com/album/0d9Ee1nGrBkAclOCfHg3DT) | 5:01 |
-| 6 | [Monument](https://open.spotify.com/track/3VxYi4nwrNokCJylO8qZ1C) | [Ministeriet](https://open.spotify.com/artist/2zE2gMxUYaIBkXZvs5S3GL) | [Storm och längtan](https://open.spotify.com/album/4DyYCTjQ4pCaa2hnI9MNCC) | 3:13 |
-| 7 | [Binary](https://open.spotify.com/track/5eSrZcrzcUUbHSmYI7aLPv) | [Abstlab](https://open.spotify.com/artist/4bWZ5DMtsappMmu5uElBQs) | [Reboot](https://open.spotify.com/album/1TD6yuamN2sBh8rylXf1uQ) | 6:08 |
-| 8 | [Que't petin](https://open.spotify.com/track/4gdT9exf0szavkVyoBsrcc) | [NEVE](https://open.spotify.com/artist/7p0U8Q716l3KfEvPBpnV6x) | [Que't petin](https://open.spotify.com/album/2j7YsMtX9AjGAJuWe9zqNq) | 3:21 |
-| 9 | [Get a Ride](https://open.spotify.com/track/3rqIVXORWCvFZbLJ2YiqO0) | [Thick](https://open.spotify.com/artist/6MiydowNxqcB5HmAzvbk7w) | [Get a Ride](https://open.spotify.com/album/6R2aMqamw4d5VUtb7m4Zht) | 3:10 |
-| 10 | [Oh Touch Me](https://open.spotify.com/track/5FR9uids7LL86YyAERluYU) | [Mary Syll](https://open.spotify.com/artist/0hqGeIfmk6AC459Q9AL9lw) | [Oh Touch Me](https://open.spotify.com/album/0mUmsGWVNzr7rKbgo8gFz5) | 3:15 |
-| 11 | [Feel My Pain](https://open.spotify.com/track/3Uw1wW9oNtXkz2HKLCw8OJ) | [Clench Your Fist](https://open.spotify.com/artist/66HPhWDNuhGlU8oXXGU4yQ) | [Feel My Pain](https://open.spotify.com/album/5wYBTGa7Np3fXJaswPnIsB) | 3:51 |
-| 12 | [Break Through](https://open.spotify.com/track/2EMBSdQZHHPUOnRascXPKP) | [Florian Voss](https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW) | [Break Through](https://open.spotify.com/album/3nrYRrmngpKNyEEo4CtdwJ) | 3:04 |
-| 13 | [Hjärtattack](https://open.spotify.com/track/5te6Ktaz2iM9iQcBUZJxp2) | [Max Prime](https://open.spotify.com/artist/1qvpGLy0igBxx6B7jE9pr9), [Lawrence Short](https://open.spotify.com/artist/7egYjFgbOtVNxztIpieqzB) | [Hjärtattack](https://open.spotify.com/album/5tXieCU2OKxeEOXzeOJONe) | 3:02 |
-| 14 | [We Will Not Forgive This](https://open.spotify.com/track/52zd8rkIQbZS6LsC1hxGjx) | [HEADSIC](https://open.spotify.com/artist/3mYqzm5V2R3QHd2dDVn27y) | [We Will Not Forgive This](https://open.spotify.com/album/31a38XBIW03x0bBVIMYhPw) | 4:15 |
+| 1 | [Kronos / Rhea](https://open.spotify.com/track/4SvG1IieuLm2jRUcm1dvot) | [Aidoneus](https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5) | [Kronos / Rhea](https://open.spotify.com/album/70YFnR9XFzVNrsDbYGQU45) | 4:58 |
+| 2 | [Quiéreme](https://open.spotify.com/track/5SuohCyQqo9RJPehzpxyJi) | [Fara Bros](https://open.spotify.com/artist/663RhjA583DAmfdQRN61A0) | [Quiéreme](https://open.spotify.com/album/6XsVDzEB9eR1GhfQ0uo5a6) | 2:33 |
+| 3 | [Ser Dig](https://open.spotify.com/track/064w99SXZ4k1opi2Mgil9q) | [Mazar](https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF) | [Ser Dig](https://open.spotify.com/album/4pw6of0huMyevx7dQQCDYr) | 2:09 |
+| 4 | [Catlover](https://open.spotify.com/track/0R5s2wgNzZRissEBgYeX8S) | [Klara LaFleur](https://open.spotify.com/artist/4OTNHZSytsoMujGoXj32Xi) | [Catlover](https://open.spotify.com/album/74zBESEXRGnBwmEmiTz4pE) | 2:26 |
+| 5 | [8000](https://open.spotify.com/track/7ullBv0gK5ozenY8TEGRp0) | [FARINHATE](https://open.spotify.com/artist/5woVfxExQZkeJHpRVlUw1T) | [8000](https://open.spotify.com/album/1WTZ2kPT6WhuKcQa0IKWsy) | 2:52 |
+| 6 | [ADIOS](https://open.spotify.com/track/4UjBMWADHwdbpR8evvFkeo) | [TmmyX](https://open.spotify.com/artist/3UXkp40sWTRzgSTWBpJUBK), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [ADIOS](https://open.spotify.com/album/6pwhWFajblRFthFzqpF6bC) | 2:12 |
+| 7 | [Kreisverkehr](https://open.spotify.com/track/4vEyhP94A2MjBGg3xAXlp3) | [Luka Blau](https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG) | [Kreisverkehr](https://open.spotify.com/album/6kFJpEnOemsO0NRQqHPpxw) | 3:33 |
+| 8 | [Feet on the Ground](https://open.spotify.com/track/1YLKD7JoVI2EPhvT7PBcbv) | [Chris Forrest & The Big Mercy](https://open.spotify.com/artist/0z8JNAFneDEX0wWuXQSwS3) | [Feet on the Ground](https://open.spotify.com/album/5pvtO1ZF69WD688RZ6oNtP) | 4:00 |
+| 9 | [Hjulen på bussen](https://open.spotify.com/track/6VHAi4f9nG0f4NGPbmoEpS) | [Kalle & Paula](https://open.spotify.com/artist/6Qjf3sEH055QF4Rhup5Ld8) | [HIMLA FINA VISOR \- klassiska barnlåtar](https://open.spotify.com/album/6Q0TPO1osbX8ib8an4nnen) | 1:38 |
+| 10 | [I Used To Dream](https://open.spotify.com/track/7GmdvaFoDD84btv8MUySIR) | [Stranger Mountain](https://open.spotify.com/artist/5wOeYfLziE535UkJVkYiVZ) | [I Used To Dream](https://open.spotify.com/album/518bMcrr7aumvw8YMFDanY) | 4:30 |
+| 11 | [We're already free](https://open.spotify.com/track/6WiR9fQpWfUEXJbYTQDZit) | [Joakim Ehn](https://open.spotify.com/artist/6JXkZs2hovW43f9xuVIb95) | [I'm on my way home](https://open.spotify.com/album/0PWEWkPnYYWgjW22u3Owsj) | 3:23 |
+| 12 | [Narcissistic](https://open.spotify.com/track/4DcNIFlTApwRhYxs3NMq5P) | [YFELIAN](https://open.spotify.com/artist/0j84bWaXwQARXLgX4QOvSZ) | [Narcissistic](https://open.spotify.com/album/4MFLPlvWw2Sh4nDbaLpo6d) | 3:07 |
+| 13 | [Lägre seriesystemen](https://open.spotify.com/track/4VkDd2Nu5lchhO3mbK8l95) | [John Dohlsten](https://open.spotify.com/artist/2ncTZc04kZfqq6hXN9i9vd), [Victor Dohlsten](https://open.spotify.com/artist/1oTMguIyaYdKezbCVkLqee) | [Lägre seriesystemen](https://open.spotify.com/album/5vDF63ZLf67zURKb2ahKb6) | 2:54 |
+| 14 | [Horse Case Scenario](https://open.spotify.com/track/5BHeHqRRVzmVqJswTbsfwV) | [DEVANEE](https://open.spotify.com/artist/2vcG0QctH5iJLl95tNd7hE) | [Cephalopod](https://open.spotify.com/album/15uzTPHFf2qTprW7kRJxHq) | 5:20 |
+| 15 | [Vie mut kotiin täältä](https://open.spotify.com/track/2gWrYAMh7zEBwgooYBhkgm) | [Nuutinen](https://open.spotify.com/artist/5TKaHSBrrmjHyh5qzQcXJz) | [Vie mut kotiin täältä / Mitä meistä jää](https://open.spotify.com/album/0HkzoFSdGrwyM8Ec4Alhcv) | 4:16 |
+| 16 | [No Punkrock In My Car](https://open.spotify.com/track/575batnvPMiTOHCDmjrE7g) | [No Real Purpose](https://open.spotify.com/artist/1nlw9RuDhuXPrYiFlLqsWr) | [No Punkrock In My Car](https://open.spotify.com/album/5V07vriJBQjD0BD62mfGUQ) | 2:54 |
 
-Snapshot ID: `OTEwLDQ2NWY5ZGRkZDhmOGEyNGZmZjQ3NTE2NDhlZDJkNjIwZGQ0ZDVjNDI=`
+Snapshot ID: `OTEyLDE5YWI0OTY1N2NmZWIwZTUyY2ExMDkwM2U3YTYyZGJkZjBmOTRhMGI=`

@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. LUNA KI",
-  "num_followers": 124825,
+  "num_followers": 124832,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQ4MTdmZTI3NmE3NDdmYzk2MDJlOWFmMmFmZWRjYWIxYzdhYTlm",
+  "snapshot_id": "MCw5MWZhZmM5NGNhNzc3YmQ0YzQwYmJhZWQ4MmFiZDk1YzEyYTFmYTZh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "CHICA BONITA",
+        "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 97876,
+      "name": "CHICA BONITA",
+      "url": "https://open.spotify.com/track/4jCoSP8cmfPBFvFFXkIUjT"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "QU\u00c9 M\u00c1S DA",
         "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 153333,
       "name": "QU\u00c9 M\u00c1S DA",
       "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "CHICA BONITA",
-        "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 97876,
-      "name": "CHICA BONITA",
-      "url": "https://open.spotify.com/track/4jCoSP8cmfPBFvFFXkIUjT"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "gaZzZzZ",
+        "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
+      },
+      "artists": [
+        {
+          "name": "CONDY",
+          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 157237,
+      "name": "gaZzZzZ",
+      "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "RUIDO",
         "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 201624,
       "name": "RUIDO",
       "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "gaZzZzZ",
-        "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
-      },
-      "artists": [
-        {
-          "name": "CONDY",
-          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 157237,
-      "name": "gaZzZzZ",
-      "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "Cuervo",
+        "url": "https://open.spotify.com/album/0VmKHCgvkdtfqN6UVD9Ymd"
+      },
+      "artists": [
+        {
+          "name": "Cma",
+          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Cuervo",
+      "url": "https://open.spotify.com/track/6WMkvjCMSdAGT0IDotkiTm"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "POP!",
         "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 147682,
       "name": "HOY ES UN MAL D\u00cdA",
       "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Cuervo",
-        "url": "https://open.spotify.com/album/0VmKHCgvkdtfqN6UVD9Ymd"
-      },
-      "artists": [
-        {
-          "name": "Cma",
-          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Cuervo",
-      "url": "https://open.spotify.com/track/6WMkvjCMSdAGT0IDotkiTm"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/3RHI1mKX9P9BBhbuNsDm3m"
+      },
+      "artists": [
+        {
+          "name": "Rizhko",
+          "url": "https://open.spotify.com/artist/5dcPKEdPkE750rjAecbwVa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/4TvtHvd8lChNJ01aRWStUn"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "quiero estar muerto pero no me quiero matar",
         "url": "https://open.spotify.com/album/4nrcVGPlo3A0YCwzU4Yznb"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 133643,
       "name": "quiero estar muerto pero no me quiero matar",
       "url": "https://open.spotify.com/track/0ZRe0ADfPMjmX6lIXle2Q7"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/3RHI1mKX9P9BBhbuNsDm3m"
-      },
-      "artists": [
-        {
-          "name": "Rizhko",
-          "url": "https://open.spotify.com/artist/5dcPKEdPkE750rjAecbwVa"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/4TvtHvd8lChNJ01aRWStUn"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "no me hables\u30fb\uff9f\u2606\u2727",
-        "url": "https://open.spotify.com/album/2aTY48jWWDcS4PyzGKUrlU"
-      },
-      "artists": [
-        {
-          "name": "conan kid",
-          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
-        },
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "no me hables\u30fb\uff9f\u2606\u2727",
-      "url": "https://open.spotify.com/track/1ZGLr46gjJCEvqwknQb8Tr"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "estr333s",
         "url": "https://open.spotify.com/album/2zfh7YFIZ8fVusC4diAAVE"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 140585,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "no me hables\u30fb\uff9f\u2606\u2727",
+        "url": "https://open.spotify.com/album/2aTY48jWWDcS4PyzGKUrlU"
+      },
+      "artists": [
+        {
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "no me hables\u30fb\uff9f\u2606\u2727",
+      "url": "https://open.spotify.com/track/1ZGLr46gjJCEvqwknQb8Tr"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "demasiadas cosas",
-        "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
-      },
-      "artists": [
-        {
-          "name": "Pink Kardashian",
-          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
-        },
-        {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "demasiadas cosas",
-      "url": "https://open.spotify.com/track/1RosTL2gSHjVBwZY5I8jTR"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "demasiadas cosas",
+        "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
+      },
+      "artists": [
+        {
+          "name": "Pink Kardashian",
+          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+        },
+        {
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "demasiadas cosas",
+      "url": "https://open.spotify.com/track/1RosTL2gSHjVBwZY5I8jTR"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "mverdeme^^",
+        "url": "https://open.spotify.com/album/5G4Ms7zrknpfzkYQJBKkYT"
+      },
+      "artists": [
+        {
+          "name": "Foxer",
+          "url": "https://open.spotify.com/artist/1RSESghlgt1M8GJG2TGfiZ"
+        }
+      ],
+      "duration_ms": 120636,
+      "name": "mverdeme^^",
+      "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "Cuando Te Veo Pasar",
         "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 114081,
       "name": "Un Grito",
       "url": "https://open.spotify.com/track/6y4rsutCVbl9hJbWDwNYA5"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "mverdeme^^",
-        "url": "https://open.spotify.com/album/5G4Ms7zrknpfzkYQJBKkYT"
-      },
-      "artists": [
-        {
-          "name": "Foxer",
-          "url": "https://open.spotify.com/artist/1RSESghlgt1M8GJG2TGfiZ"
-        }
-      ],
-      "duration_ms": 120636,
-      "name": "mverdeme^^",
-      "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "PURGATORIO",
-        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        }
-      ],
-      "duration_ms": 118904,
-      "name": "MICPAPALOTL",
-      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "GUAPO",
         "url": "https://open.spotify.com/album/1z1A6QmxA6t9DbUFsBZ8bT"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 152202,
       "name": "GUAPO",
       "url": "https://open.spotify.com/track/7Mlbm8PnW1HhyosWntcqdG"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "PURGATORIO",
+        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        }
+      ],
+      "duration_ms": 118904,
+      "name": "MICPAPALOTL",
+      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "fireflies",
-        "url": "https://open.spotify.com/album/2FzGhykxlK1KEzrREIxB9f"
-      },
-      "artists": [
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "fireflies",
-      "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "SOLO PIENSO EN TI",
         "url": "https://open.spotify.com/album/1rOpIJuHiW72vtZSWOFv5g"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 165330,
       "name": "SOLO PIENSO EN TI",
       "url": "https://open.spotify.com/track/5J99jbR3wtSGDZrHODOpbc"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "fireflies",
+        "url": "https://open.spotify.com/album/2FzGhykxlK1KEzrREIxB9f"
+      },
+      "artists": [
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "fireflies",
+      "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
     },
     {
       "added_at": "2024-02-15 23:01:00",

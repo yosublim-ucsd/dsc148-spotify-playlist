@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Gettomasa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,110 likes - 63 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,126 likes - 63 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [TOXIC B \(pidämustkii\)](https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [CAKE](https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h) | 2:58 |
 | 63 | [Vahinko](https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:34 |
 
-Snapshot ID: `MCw4MzM2NjlhOWI2MzgzODg4NzllMDZiZWRkNmE5YzcwYWM1M2U5ZWM1`
+Snapshot ID: `MCwxZWE3ZDZlM2I0Njc3N2U5OWViNjljM2JhNjY4ZTczZDBkMGY0ZjBk`

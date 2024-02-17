@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: donny daydream
 
-903 songs - 2 day 3 hr 4 min
+904 songs - 2 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Award Shows](https://open.spotify.com/track/5OUvyy5qQQDoOTKK8rpbWm) | [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw), [BENNY HÀN](https://open.spotify.com/artist/7CIF5uo4zR9UBwKS7lfQHb) | [Award Shows](https://open.spotify.com/album/21ur6W5JzSLC8Rc4yicXqc) | 3:00 | 2022-08-04 | 2022-11-04 |
 | [Baby If I Were An Android](https://open.spotify.com/track/6T4M2QS50qXTwxCKucI9F5) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Baby If I Were An Android](https://open.spotify.com/album/6cDptgXegkhuujPJ003bsf) | 4:24 | 2023-07-27 | 2023-11-03 |
 | [Baby Toof \(Demo\)](https://open.spotify.com/track/3glZWaY1rWHXUmC43ZaCmZ) | [Velvet Elvis](https://open.spotify.com/artist/2M9MLexyTDC0WWMZFelLuE) | [Baby Toof \(Demo\)](https://open.spotify.com/album/4njotXVY7z8G894rzXP0TJ) | 3:52 | 2024-02-08 |  |
+| [Bad Coffee & Liquor Club](https://open.spotify.com/track/4JA1QRKFcsDZiV1p8vySQf) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [Bad Coffee & Liquor Club](https://open.spotify.com/album/1dHJm91fNNgxinlcwSH0gi) | 2:48 | 2024-02-15 |  |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-03-18 |
 | [Balenciaga Store Girl](https://open.spotify.com/track/2IU51LT4SmBPJIi7oBVZKz) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Balenciaga Store Girl](https://open.spotify.com/album/0bqoYF1b2TFurEuhzG5oCh) | 2:56 | 2023-11-02 | 2024-01-05 |
 | [bandaid](https://open.spotify.com/track/0lIAm02QM3kruSx08BaJOc) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV), [Jessica Oh](https://open.spotify.com/artist/1545Lqks1a2K8J41pueQCb) | [bandaid](https://open.spotify.com/album/5t1JNivEUa8zdGbi8qd8Yz) | 2:51 | 2022-05-26 | 2022-07-29 |
@@ -598,7 +599,7 @@
 | [☆all the stars☆](https://open.spotify.com/track/0j6DVSQ2ARp02tE4c6oYHJ) | [dexie3003](https://open.spotify.com/artist/50lC8oVWNQLdsrGNKAdNj8) | [☆all the stars☆](https://open.spotify.com/album/6rRb4TA1kkJyOl3iDxMXDb) | 2:57 | 2024-01-18 |  |
 | [☆唾棄你的墳墓☆](https://open.spotify.com/track/591OPlLbos1WhaqkDBk9l0) | [LilCodyIsDead!](https://open.spotify.com/artist/4gy2G9kSw6lGDo358odR8u) | [☆唾棄你的墳墓☆](https://open.spotify.com/album/3pyyDvmbotKzAn5iFd9NAa) | 3:06 | 2023-06-15 | 2023-09-01 |
 | [一](https://open.spotify.com/track/7Mezzdeav8wLVkRxHemrjR) | [xxtilldawn](https://open.spotify.com/artist/0N5VSbyA9QKuM3WlA7dMP6), [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U) | [一](https://open.spotify.com/album/6gmpKCBL3dJQwsUjyfTAcq) | 4:49 | 2023-07-20 | 2023-11-03 |
-| [一刻的永久，亦是一刻的念頭](https://open.spotify.com/track/2VccOfWCrlCTVNDlXolNN3) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB), [P1us](https://open.spotify.com/artist/7BD6B8s3JDIRfDQwgHmaD0) | [一刻的永久，亦是一刻的念頭](https://open.spotify.com/album/3c545YPXD2KtITsafLFYsJ) | 3:12 | 2024-01-11 |  |
+| [一刻的永久，亦是一刻的念頭](https://open.spotify.com/track/2VccOfWCrlCTVNDlXolNN3) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [P1us](https://open.spotify.com/artist/7BD6B8s3JDIRfDQwgHmaD0), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [一刻的永久，亦是一刻的念頭](https://open.spotify.com/album/3c545YPXD2KtITsafLFYsJ) | 3:12 | 2024-01-11 |  |
 | [一圈](https://open.spotify.com/track/0euVgrqM2KLX4MF3AI3OR9) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [一圈](https://open.spotify.com/album/04v5MzEvR5kcChMMClQHkY) | 3:58 | 2022-05-26 | 2022-06-10 |
 | [一小節人生 \(All in One版本\)](https://open.spotify.com/track/7rI1kprxWhRIYwznrw6Ogs) | [SENZA A Cappella](https://open.spotify.com/artist/2CQcJ2puP32r60KacgJdyW) | [一小節人生 \(All in One版本\)](https://open.spotify.com/album/1VrTm7fF5MDYvIvkL28NGA) | 4:18 | 2024-01-05 |  |
 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2023-01-19 | 2023-05-26 |

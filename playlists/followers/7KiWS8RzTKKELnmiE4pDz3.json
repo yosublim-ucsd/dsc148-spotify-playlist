@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 1,
+  "2024-02-17": 1,
   "date_first_scraped": "2023-02-09",
   "description": "",
   "name": "main ",
@@ -2363,6 +2363,24 @@
       "duration_ms": 154935,
       "name": "Count Up",
       "url": "https://open.spotify.com/track/14DzT6SHiJpd807lo41KK4"
+    },
+    {
+      "album": {
+        "name": "Counterfeit",
+        "url": "https://open.spotify.com/album/40FEBKHuLtVrh8s06x3fek"
+      },
+      "artists": [
+        {
+          "name": "Spree Wilson",
+          "url": "https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216052,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/0nKvSEAxTM0CeWllXv0Ay8"
     },
     {
       "album": {

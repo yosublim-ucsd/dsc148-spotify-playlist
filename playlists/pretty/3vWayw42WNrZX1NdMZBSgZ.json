@@ -1,13 +1,37 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; ",
-  "num_followers": 54673,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Polim\u00e1 Westcoast &quot;MARGIELA&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;",
+  "num_followers": 54674,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDM0MSxlNWYyYTBiMDFmNTI4NDFjYjlhZDI0ZmM2NzI1ZDUzOWE2YzIzOTZi",
+  "snapshot_id": "NDM0NCw1YTZiMGU1Y2Q2ZTgyZmFkZDg2MjM5MjZlNzlhYTBkZWE5OTZkOGJl",
   "tracks": [
+    {
+      "added_at": "2024-02-16 15:19:19",
+      "album": {
+        "name": "MARGIELA",
+        "url": "https://open.spotify.com/album/4UeWLjvIntpCSBKIPdeyUH"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "MARGIELA",
+      "url": "https://open.spotify.com/track/6i1tqqAjSy1HgNwZEHTkwS"
+    },
     {
       "added_at": "2024-02-09 05:21:30",
       "album": {

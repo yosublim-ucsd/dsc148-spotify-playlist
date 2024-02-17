@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9gPDOAK0Yqv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9gPDOAK0Yqv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9gPDOAK0Yqv)
 
-### [Tunnel Vision](https://open.spotify.com/playlist/37i9dQZF1DX9gPDOAK0Yqv)
+### [Melodic Techno Elements](https://open.spotify.com/playlist/37i9dQZF1DX9gPDOAK0Yqv)
 
 > A hypnotic journey through Melodic Techno.
 
-442 songs - 1 day 13 hr 0 min
+443 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bring Back the Rave \- Two Are Remix](https://open.spotify.com/track/4mNVJqsTlFSmpEbSMs0tiC) | [Ziger](https://open.spotify.com/artist/33L8FupX5olugmSnrRpYUQ), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD) | [Bring Back the Rave](https://open.spotify.com/album/39In5xBDAxfLF64uVTODdO) | 7:00 | 2024-01-26 | 2024-02-10 |
 | [Brutalism](https://open.spotify.com/track/4szHVkwccA5hCKk3GA0Tle) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:27 | 2022-11-23 | 2023-02-04 |
 | [Burning](https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Burning](https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ) | 3:08 | 2023-08-04 | 2023-09-08 |
+| [C'mon](https://open.spotify.com/track/0Q1E0uHQHHlczjjbctXzmK) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [C’mon](https://open.spotify.com/album/5geoajQzkydKB0wfCkT4Hh) | 3:50 | 2024-02-16 |  |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 |  |
 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 | 2022-12-02 | 2023-01-21 |
 | [Chant](https://open.spotify.com/track/4daZhPGurT3004o6mc0ugU) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Chant](https://open.spotify.com/album/6akYo6V8wGbrleyeMMI5na) | 7:20 | 2023-05-23 | 2023-06-01 |
@@ -320,7 +321,7 @@
 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 | 2023-12-15 | 2024-02-02 |
 | [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 | 2024-02-13 |
-| [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 |  |
+| [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 | 2024-02-17 |
 | [Ritam](https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Ritam](https://open.spotify.com/album/1hWSLGSfK9PN83cRuTAXRK) | 4:52 | 2023-09-15 | 2023-11-16 |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |

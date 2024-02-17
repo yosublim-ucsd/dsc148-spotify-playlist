@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-327 songs - 22 hr 17 min
+328 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Day Dream](https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Day Dream](https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2) | 5:21 | 2023-03-15 |  |
 | [Denial](https://open.spotify.com/track/1OkXIIQaL1cvZi9tQZac8c) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Denial](https://open.spotify.com/album/4HkV28pa9pdLyGUHhtin2g) | 2:53 | 2022-09-27 | 2022-10-26 |
 | [Desperado](https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Desperado](https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa) | 3:59 | 2023-05-30 |  |
-| [Devil May Care](https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [Devil May Care](https://open.spotify.com/album/3rotHV6RMQaDfiekV9OlkK) | 3:31 | 2022-01-20 |  |
+| [Devil May Care](https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [Devil May Care](https://open.spotify.com/album/3rotHV6RMQaDfiekV9OlkK) | 3:31 | 2022-01-20 | 2024-02-17 |
 | [Disclosure](https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Disclosure](https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ) | 4:47 | 2022-01-20 |  |
 | [Do I Love You](https://open.spotify.com/track/7fGcPsneoxIweHKdc14vlw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:48 | 2022-01-20 | 2022-02-18 |
 | [Do Nothing 'Til You Hear From Me](https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:23 | 2022-01-20 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [Just a Word](https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 3:53 | 2022-02-10 |  |
 | [Just The Way You Are](https://open.spotify.com/track/6oqlcJf6qJFiMgytmW4RfA) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:46 | 2022-01-20 |  |
 | [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 | 2023-08-25 | 2023-09-08 |
+| [Keep Me From The Cold](https://open.spotify.com/track/4gVLzEtFpDafndD1HYxLmU) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/0gyFNKLHDxHubN3Yf10A7K) | 4:43 | 2024-02-09 |  |
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2022-01-20 | 2022-07-29 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/5drAbDDU9sm6qQ41mD5VwH) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:09 | 2022-01-20 | 2022-02-18 |
 | [L\-O\-V\-E](https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 2:08 | 2022-07-14 |  |

@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-92 songs - 5 hr 32 min
+93 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [Someone Like You](https://open.spotify.com/track/7enqj4wDuXUnZiW0t0Fxbi) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 3](https://open.spotify.com/album/6P2Be2yAYKOFa0lMrsegyx) | 4:36 | 2020-10-16 | 2022-07-29 |
 | [Sorry](https://open.spotify.com/track/36eJpXzNjDktQDqr88mtQ3) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Sorry](https://open.spotify.com/album/38CdD0Vt4B0gVCAYcGv5gX) | 3:12 | 2020-10-16 |  |
 | [Sorry](https://open.spotify.com/track/7GgfdituLOQ7pCA7Klexyj) | [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Sorry](https://open.spotify.com/album/1DpSC3PnlOplevOBkKXWpP) | 3:12 | 2020-10-16 | 2022-07-29 |
-| [Stand By You](https://open.spotify.com/track/3gN2OgbNwTw9ponnQPqluD) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Alex Goot & Friends, Vol\. 5](https://open.spotify.com/album/5n0qNWPYxRmZXplN2IPIrd) | 2:26 | 2020-10-16 |  |
+| [Stand By You](https://open.spotify.com/track/3gN2OgbNwTw9ponnQPqluD) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Alex Goot & Friends, Vol\. 5](https://open.spotify.com/album/5n0qNWPYxRmZXplN2IPIrd) | 2:26 | 2020-10-16 | 2024-02-17 |
 | [Stand By You](https://open.spotify.com/track/4Ejcw0qIiDjuaMtB5WDiBD) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Stand By You](https://open.spotify.com/album/7iOk9OEVUPZszbWtP7OTn1) | 2:26 | 2020-10-16 | 2022-07-29 |
+| [Stand By You](https://open.spotify.com/track/6PSxRCFSv2zv5T9VfKKjeX) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Alex Goot & Friends, Vol\. 5](https://open.spotify.com/album/5Zn8fPUMHeYleRBoKry3Jb) | 2:26 | 2020-10-16 |  |
 | [Stay / Animal Mashup](https://open.spotify.com/track/6uKLfHHDYjHAcnV3T4RW4v) | [Jessica Rotter](https://open.spotify.com/artist/6jQAFXkB1ciNf4PLUfIvdF), [Emily Colombier](https://open.spotify.com/artist/300ulIFHhN4g5WXS056phX) | [Stay / Animal Mashup](https://open.spotify.com/album/3j3qcNrYG0Qsoys4NXZGSs) | 4:24 | 2020-10-16 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2020-10-16 |  |
 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2020-10-16 | 2023-12-23 |

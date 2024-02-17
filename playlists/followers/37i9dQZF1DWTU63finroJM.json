@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 59031,
+  "2024-02-17": 59039,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
   "name": "RADAR Global ",
@@ -8435,7 +8435,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 161612,
       "name": "idk",
       "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
@@ -13239,6 +13239,24 @@
       "duration_ms": 141000,
       "name": "Normalde",
       "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
+    },
+    {
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9"
+      },
+      "artists": [
+        {
+          "name": "Korby",
+          "url": "https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167909,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy"
     },
     {
       "album": {

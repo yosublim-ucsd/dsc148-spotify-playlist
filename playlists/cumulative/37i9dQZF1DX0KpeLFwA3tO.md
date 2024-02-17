@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Stand Atlantic
 
-1,602 songs - 3 day 7 hr 59 min
+1,603 songs - 3 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,8 @@
 | [Habitual](https://open.spotify.com/track/2G7KOokR015FKnTp75gujf) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Feel the Void](https://open.spotify.com/album/1Nz4Ufkp2AZRR1giNkbp5J) | 3:54 | 2022-03-18 | 2022-04-22 |
 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-04 | 2022-04-22 |
 | [Halfway](https://open.spotify.com/track/5Elhn0sv6jPtyaBxXwHYDM) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Halfway](https://open.spotify.com/album/5mAmP7fI9tN4hokOx94sxc) | 2:29 | 2023-08-24 | 2023-09-29 |
-| [Hall & Oates](https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU) | 2:23 | 2024-02-16 |  |
+| [Hall & Oates](https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU) | 2:23 | 2024-02-16 | 2024-02-17 |
+| [Hall & Oates](https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 2:23 | 2024-02-16 |  |
 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 | 2022-05-20 | 2022-07-22 |
 | [Halo](https://open.spotify.com/track/5jHRIIaMnuT8eVaA9C5o4R) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 3:31 | 2023-11-10 | 2024-01-19 |
 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 | 2023-03-30 | 2023-10-06 |

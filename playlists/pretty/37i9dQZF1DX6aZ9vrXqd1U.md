@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,048 likes - 131 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,224 likes - 131 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 52 | [The Witch From Mercury](https://open.spotify.com/track/47g10NHlNL36PGYO0aBSNc) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam THE WITCH FROM MERCURY Original Motion Picture Soundtrack \(Incomplete Edition\)](https://open.spotify.com/album/52nq1ArZDp9FEFKbmvoIz3) | 4:59 |
 | 53 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 |
 | 54 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック](https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx) | 4:51 |
-| 55 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 |
+| 55 | [水の星へ愛をこめて](https://open.spotify.com/track/2dzF7OvfbI8Cu3NGnNT1Ix) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/6eCYVaZelUiLzRxbrqmnjo) | 3:39 |
 | 56 | [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 |
 | 57 | [Line of sight](https://open.spotify.com/track/4VPs7Et6NVMWS9mN3qy52r) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/6PU1DYveee3igu6cw4a9Bc) | 3:36 |
 | 58 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
@@ -100,14 +100,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 90 | [MEN OF DESTINY](https://open.spotify.com/track/0h8nMNEoNIjOKAN7XTKtLZ) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [MEN OF DESTINY](https://open.spotify.com/album/4zZ6FlBnUujPNsSeeKsNVf) | 4:03 |
 | 91 | [明日へ](https://open.spotify.com/track/0b1eJt5F6yI2u0T0LF0Ly3) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:18 |
 | 92 | [MAGIC](https://open.spotify.com/track/2mSrfjmPtLLsROCmqzjceV) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/4MPUghtsFa9IEJSoViVL9j) | 4:45 |
-| 93 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 |
+| 93 | [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 |
 | 94 | [merry\-go\-round](https://open.spotify.com/track/4S0VjlSeynqtyeRRXzIyuR) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY 2001\-2011](https://open.spotify.com/album/2l8d2WWpeZ5qwlsrCTeSpR) | 4:04 |
 | 95 | [Itsuka Sora ni Todoite](https://open.spotify.com/track/6oMv7PFkrX8GpMeWmhu8t7) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [Itsuka Sora ni Todoite](https://open.spotify.com/album/2j2K7EVhtxWhYC2Xcrb72U) | 3:52 |
 | 96 | [CENTURY COLOR](https://open.spotify.com/track/1gzTPfpOuQFs4G9kUdsAX1) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/2NnLGNv8l4TVDw8lxNMMk8) | 3:10 |
 | 97 | [It's Just Love!](https://open.spotify.com/track/78jURUkHQSxcbcZcZgVUQ9) | [Rumi Ohishi](https://open.spotify.com/artist/0jhJcinlYTtXpMvgqBhO7L) | [It's Just Love!](https://open.spotify.com/album/02MQbrGo7J9wUzIavyyMNP) | 3:57 |
 | 98 | [BLAZING](https://open.spotify.com/track/7veiuBU6DKOWOAUwkIAptI) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Linkage Ring](https://open.spotify.com/album/7moLeMntkra4cH3ACSMsjE) | 3:55 |
 | 99 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 |
-| 100 | [Kimi wo Mitsumete \-The time I'm seeing you\-](https://open.spotify.com/track/5HadYBJYIzaqxxrIEyPpS3) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Kimi wo Mitsumete \- The time I'm seeing you\-](https://open.spotify.com/album/2wXUyRN798oGDFYvynJxPW) | 4:36 |
+| 100 | [君をみつめて \-The time I'm seeing you\-](https://open.spotify.com/track/5stdxieAT6CTIM87bP1H2V) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [SINGLE BEST COLLECTION](https://open.spotify.com/album/2eqNcaWGR52GfEpc0X3NOs) | 4:36 |
 | 101 | [BROKEN MIRROR](https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [EMBRACE](https://open.spotify.com/album/0hbSoP9XsJKWshAbUH9rKG) | 6:20 |
 | 102 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 |
 | 103 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 130 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ななみ](https://open.spotify.com/artist/7CORvdMKsZAngZc3kK2GaR) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 |
 | 131 | [Hoshizora no Believe](https://open.spotify.com/track/3cST7z20txQesotATAQQ7l) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Hoshizora no Believe](https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1) | 3:30 |
 
-Snapshot ID: `MCw3MTMwMzg3OWNkYzBmNTJhNGVmNGFlYjIwYjhlZmYzMDlmZjkzZGEy`
+Snapshot ID: `MCwzNTUyN2MxNzFhOTdkMDk4MjJjMWRmYTRhM2QzZTBjMWFjMWIyNmM3`

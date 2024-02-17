@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 161100,
       "name": "En un and\u00e9n",
       "url": "https://open.spotify.com/track/6VvLhvvOANxka9yA5XT48s"
@@ -1623,6 +1623,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Ella Necesita",
+        "url": "https://open.spotify.com/album/0qdohDjeEdi0ytJlNjPckw"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166853,
+      "name": "Lo Que Ella Necesita",
+      "url": "https://open.spotify.com/track/3dd1fU9pusWGfo0yFEwPg2"
+    },
+    {
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
       },
@@ -1779,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "Media o Miedo",
+        "url": "https://open.spotify.com/album/5wDlYdvmY5L4ROFqAQxWpp"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        },
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166464,
+      "name": "Media o Miedo",
+      "url": "https://open.spotify.com/track/6Pq1aPTWL99N6YztoaGnJx"
+    },
+    {
+      "album": {
         "name": "Mesero",
         "url": "https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79"
       },
@@ -1816,6 +1860,28 @@
       "duration_ms": 158190,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
+    },
+    {
+      "album": {
+        "name": "Mi Enfermedad y Mi Cura",
+        "url": "https://open.spotify.com/album/6TbsjMPhPMhWxeU1anIyF0"
+      },
+      "artists": [
+        {
+          "name": "Osmar P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1UJF2zIrXPQIdoc7169icD"
+        },
+        {
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190948,
+      "name": "Mi Enfermedad y Mi Cura",
+      "url": "https://open.spotify.com/track/5pnT7hp3moJGw6pNAM8V6D"
     },
     {
       "album": {
@@ -2004,7 +2070,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 153500,
       "name": "NI UNA L\u00c1GRIMA M\u00c1S",
       "url": "https://open.spotify.com/track/5v4bZeKS5BLHbIFL53FzXP"
@@ -2842,7 +2908,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177654,
       "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
       "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"

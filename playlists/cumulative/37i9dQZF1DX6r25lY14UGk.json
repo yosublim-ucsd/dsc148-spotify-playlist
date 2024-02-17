@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "ABC Hop",
+        "url": "https://open.spotify.com/album/3ya0heF7LIzAz5B0nCZmyO"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191284,
+      "name": "ABC Hop",
+      "url": "https://open.spotify.com/track/0SweSPRBxWZGqnTbgTqPPG"
+    },
+    {
+      "album": {
         "name": "AnceStars",
         "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
       },
@@ -216,7 +234,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 148000,
       "name": "Baby Beluga",
       "url": "https://open.spotify.com/track/60jGG2mIHoFvhQup1L6Lsz"
@@ -274,7 +292,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 123058,
       "name": "Bark to the Beat (with blackbear) [From PAW Patrol: The Mighty Movie]",
       "url": "https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 216666,
       "name": "Better Place (From TROLLS Band Together)",
       "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
@@ -530,7 +548,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 97706,
       "name": "Bubble Bubble (Be Like A Bubble!)",
       "url": "https://open.spotify.com/track/0le8XTVpDL4h2owSnmGHcv"
@@ -588,7 +606,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 100425,
       "name": "Bunnies in the Bath (Counting Song)",
       "url": "https://open.spotify.com/track/67ChEt45DPQz14yabjm1iD"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 243630,
       "name": "Can I Have This Dance",
       "url": "https://open.spotify.com/track/5NILdwF8RA28VxOeqPpEcg"
@@ -693,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Counting Firetrucks",
+        "url": "https://open.spotify.com/album/4PHcqtf0HqrSSuRsTeLzQu"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105075,
+      "name": "Counting Fire Trucks",
+      "url": "https://open.spotify.com/track/2TRQB9SRzixkgYpseXmEkv"
+    },
+    {
+      "album": {
         "name": "Crayon Kids",
         "url": "https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y"
       },
@@ -726,7 +762,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 118893,
       "name": "Dance Mode",
       "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
@@ -744,7 +780,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
@@ -1139,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Fairy Song",
+        "url": "https://open.spotify.com/album/5cKfeRe5c1nIiAfgdZQ4WP"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105410,
+      "name": "Fairy Song",
+      "url": "https://open.spotify.com/track/25xdfiK2QQy8v5I5a4PyGZ"
+    },
+    {
+      "album": {
         "name": "You Are Magic",
         "url": "https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx"
       },
@@ -1168,7 +1222,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 183370,
       "name": "Feelin' Good",
       "url": "https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt"
@@ -1336,7 +1390,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 136000,
       "name": "Girl Power",
       "url": "https://open.spotify.com/track/0ZSnI6GdVoAsobvDC906P0"
@@ -1672,10 +1726,46 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 107637,
       "name": "Happy Dance",
       "url": "https://open.spotify.com/track/0k1rBoFbEGVTyZd1GVbEW5"
+    },
+    {
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/6c8yq8A5bpHkBtGQdAY2Xc"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173267,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/2DdxnRvilAPgD0RGzd7FYs"
+    },
+    {
+      "album": {
+        "name": "Happy Whale (Shake Your Tail)",
+        "url": "https://open.spotify.com/album/11dBLNSaUvwal4ISFQRlD9"
+      },
+      "artists": [
+        {
+          "name": "Orange Splosh",
+          "url": "https://open.spotify.com/artist/4VwmJfQjttfbV8RuPPPUe5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100519,
+      "name": "Happy Whale (Shake Your Tail)",
+      "url": "https://open.spotify.com/track/4PdUr73v2I1rLJIV9qEURu"
     },
     {
       "album": {
@@ -1894,10 +1984,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 79800,
       "name": "Hold On To Hope",
       "url": "https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/3cN7jPYAA3oxyEOu0Or6sr"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180709,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2Nwn4dQ20bDNcxLXF59Kn9"
     },
     {
       "album": {
@@ -2089,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Tell Your Tale - Vol.4",
+        "url": "https://open.spotify.com/album/2YUJk2Hj0JmRKl2fpQY13e"
+      },
+      "artists": [
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Is This A Dream?",
+      "url": "https://open.spotify.com/track/6gBe3w57udxzCBv7RQnDub"
+    },
+    {
+      "album": {
         "name": "Kids Sing Classic Pop Hits!",
         "url": "https://open.spotify.com/album/3INw0axhrXHJHIfo9arjrF"
       },
@@ -2176,7 +2302,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 163003,
       "name": "JJ Says",
       "url": "https://open.spotify.com/track/44pkcxAxTC6FQPjANGSdQ1"
@@ -2248,7 +2374,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176941,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
@@ -2482,6 +2608,24 @@
       "duration_ms": 192866,
       "name": "Little Bee",
       "url": "https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2"
+    },
+    {
+      "album": {
+        "name": "Plim Plim Nursery Rhymes Vol. 7",
+        "url": "https://open.spotify.com/album/7GaoK6WjY23hpckDSRlTKm"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127701,
+      "name": "Little Bee",
+      "url": "https://open.spotify.com/track/19FeiLU74l2KTrSEkfQsJI"
     },
     {
       "album": {
@@ -2730,7 +2874,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 155710,
       "name": "Mom the Bounty Hunter (from the Netflix Series \"My Dad the Bounty Hunter\")`",
       "url": "https://open.spotify.com/track/5HVSXWiAEQEGKZyQOgVCCc"
@@ -2788,6 +2932,24 @@
       "duration_ms": 123545,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1Exwbhd8aIXcL2UKIn0NxG"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance, Party!, Vol. 3",
+        "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon Dance Party",
+          "url": "https://open.spotify.com/artist/51Lx4oj0jlay4n73B2K9uZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146229,
+      "name": "Muffin Man",
+      "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
     },
     {
       "album": {
@@ -2900,7 +3062,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 63900,
       "name": "No Stoppin' Us Meow",
       "url": "https://open.spotify.com/track/0mbrix0W8DYTHTctadxZsK"
@@ -2922,6 +3084,24 @@
       "duration_ms": 185173,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi"
+    },
+    {
+      "album": {
+        "name": "On the Move",
+        "url": "https://open.spotify.com/album/4vzFMB6EvSuh9olOOKVjtV"
+      },
+      "artists": [
+        {
+          "name": "Little Ditto",
+          "url": "https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48735,
+      "name": "On the Move",
+      "url": "https://open.spotify.com/track/6K5XchlE2N9Vg6mZhd9d0B"
     },
     {
       "album": {
@@ -3044,7 +3224,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 214373,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
@@ -3080,7 +3260,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
@@ -3152,7 +3332,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 91480,
       "name": "Princess Power Theme Song (from the Netflix Series)",
       "url": "https://open.spotify.com/track/4DN9DvOpgOZqqVrbN7xyHj"
@@ -3192,7 +3372,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197233,
       "name": "Rainbow Shoppe",
       "url": "https://open.spotify.com/track/13RAj3aWpN54mfkSRwZW3W"
@@ -3258,7 +3438,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186093,
       "name": "Rock On",
       "url": "https://open.spotify.com/track/6Z2nmTZ1xS2Gujt5apa7HZ"
@@ -3276,7 +3456,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 93888,
       "name": "Round Robin",
       "url": "https://open.spotify.com/track/7qcIZzAjD9wtmZpnLUT7nO"
@@ -3294,7 +3474,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192773,
       "name": "Same and Different Superhero Song",
       "url": "https://open.spotify.com/track/6I3qx7AQFL5qIsuDBSbbLs"
@@ -3586,7 +3766,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192506,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
@@ -3782,7 +3962,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 166873,
       "name": "Take A Deep Breath",
       "url": "https://open.spotify.com/track/58IaCPTc9RebTlyBwjbBxb"
@@ -3840,6 +4020,28 @@
       "duration_ms": 105349,
       "name": "Telephone - 25th Anniversary Remaster",
       "url": "https://open.spotify.com/track/2KLNR3Wrv45QryscGNnYhY"
+    },
+    {
+      "album": {
+        "name": "Bebefinn 2 (Pt. 1)",
+        "url": "https://open.spotify.com/album/5zkXGUq7DdG7QAFpHweSvQ"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        },
+        {
+          "name": "Bebefinn",
+          "url": "https://open.spotify.com/artist/0HOIrKyqmmjsxXIhuIx1Q3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Ten in a Bed",
+      "url": "https://open.spotify.com/track/3KNAuymmvlnpImEZqDYlNx"
     },
     {
       "album": {
@@ -3912,7 +4114,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 127827,
       "name": "The Cheesy Grand Finale - from \u201cHenry Danger The Musical\u201d / Sped Up",
       "url": "https://open.spotify.com/track/1k59Dyt0ANypN7LgTDDKDJ"
@@ -4122,7 +4324,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 237574,
       "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
       "url": "https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF"
@@ -4166,7 +4368,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205480,
       "name": "This Wish - From \"Wish\"",
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
@@ -4238,7 +4440,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 126039,
       "name": "Train Is Coming",
       "url": "https://open.spotify.com/track/0q55KH1lfm7yIgOLJws9ui"

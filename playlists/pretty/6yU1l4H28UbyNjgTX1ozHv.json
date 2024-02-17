@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9089,
+  "num_followers": 9088,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTEyNCw0ZmMxMzAxOTlmNjBhMThjNDJlNjJhMGEzMDdiNmU0YzQwYTM0MzA3",
+  "snapshot_id": "MTEyNiwzZTdmMmZhOGU4YTMzOGYwZTEzZjBkOTJjOWNjMTJkZWRkNTBlYjYz",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -1841,22 +1841,6 @@
       "url": "https://open.spotify.com/track/5YXTMX6nkvtg0kSJpZmVTw"
     },
     {
-      "added_at": "2021-03-19 10:03:52",
-      "album": {
-        "name": "Mirrors (Acoustic)",
-        "url": "https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 224170,
-      "name": "Mirrors - Acoustic",
-      "url": "https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY"
-    },
-    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
         "name": "Human (Remixes)",
@@ -2043,6 +2027,26 @@
       "duration_ms": 292186,
       "name": "Magnetised - Acoustic",
       "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
+    },
+    {
+      "added_at": "2024-02-16 19:38:39",
+      "album": {
+        "name": "Happy Together (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        },
+        {
+          "name": "Every Season",
+          "url": "https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL"
+        }
+      ],
+      "duration_ms": 166842,
+      "name": "Happy Together - Acoustic Version",
+      "url": "https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX"
     },
     {
       "added_at": "2021-04-08 19:14:17",

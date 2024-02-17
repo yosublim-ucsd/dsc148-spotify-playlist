@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 255976,
+  "2024-02-17": 256014,
   "date_first_scraped": "2021-12-21",
   "description": "Chill tunes to soundtrack your gaming session.",
   "name": "Chill Gaming",
@@ -1129,6 +1129,24 @@
       "duration_ms": 379452,
       "name": "Dustism",
       "url": "https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ"
+      },
+      "artists": [
+        {
+          "name": "Kilgore Doubtfire",
+          "url": "https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280749,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
     },
     {
       "album": {
@@ -3841,7 +3859,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 82526,
       "name": "The Lonely Tree Corecore Depressed",
       "url": "https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap"

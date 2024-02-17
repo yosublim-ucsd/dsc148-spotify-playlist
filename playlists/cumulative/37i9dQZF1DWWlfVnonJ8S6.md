@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-171 songs - 9 hr 48 min
+172 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bheegi Si Bhaagi Si \- Lofi Flip](https://open.spotify.com/track/01iMTLk72XWI6pCH2QZ3sR) | [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Bheegi Si Bhaagi Si \(Lofi Flip\)](https://open.spotify.com/album/1NsWZDKI3671SS425q0G53) | 3:06 | 2022-07-18 |  |
 | [Bin Tere \- Lofi Flip](https://open.spotify.com/track/2VL0QXrNHXEctCBkybDSJT) | [Silent Ocean](https://open.spotify.com/artist/1rpoUNG0STk0Vw4BNVaP17), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Bin Tere \(Lofi Flip\)](https://open.spotify.com/album/2z1etWcRYBOUQnU7Oohl5U) | 3:33 | 2022-05-27 |  |
 | [Boondein Ye Barse \- Lofi](https://open.spotify.com/track/1pelGFBc8UiG8FKVHkYjsx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Boondein Ye Barse \- Lofi](https://open.spotify.com/album/4qYzHtTjU0S3rRXkasO1jS) | 4:02 | 2022-05-27 |  |
+| [Bulleya \- Lofi Flip](https://open.spotify.com/track/4F26LTirAGihs1JHE9eq3U) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Bulleya \(Lofi Flip\)](https://open.spotify.com/album/2M40B1pCJuUtvaZjZwpwjh) | 2:38 | 2024-02-16 |  |
 | [Bulleya \- Lofi Flip](https://open.spotify.com/track/1zrCQPL78lQEDvDTeA5thf) | [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Bulleya \(Lofi Flip\)](https://open.spotify.com/album/1hFnubioESvCLAnGhKGv7S) | 3:15 | 2022-08-29 |  |
 | [Chaap Tilak \- Lofi Version](https://open.spotify.com/track/5fxrCaC39UI84ae9rbqHyr) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Chaap Tilak \(Lofi Version\)](https://open.spotify.com/album/0STXXZ9vbuxSm85BIbwoQ1) | 3:08 | 2022-05-27 |  |
 | [Chal Dil Mere \- Lo\-Fi Mix](https://open.spotify.com/track/1zFdFJ5WaNy2Y1vYClfTIi) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Chal Dil Mere \(Lo\-Fi Mix\)](https://open.spotify.com/album/6MsGzuZqI04z7zUNWiftxd) | 3:37 | 2023-05-19 |  |

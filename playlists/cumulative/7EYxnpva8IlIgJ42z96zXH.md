@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-813 songs - 1 day 18 hr 53 min
+814 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-08-04 | 2023-12-14 |
 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 | 2022-11-28 | 2023-01-13 |
 | [Bang Bang](https://open.spotify.com/track/50v0Mz0cnt4FY0LFPi5SGV) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Bang Bang](https://open.spotify.com/album/1PaLCo1VpjKVBKQ3NR5tDN) | 2:23 | 2021-01-23 | 2021-02-01 |
+| [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 | 2024-02-16 |  |
 | [Be Like That \(feat\. Swae Lee & Khalid\) \[MOTi Remix\]](https://open.spotify.com/track/4aezIwJxnp1tmzUUnuUON8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Be Like That \(Remixes\) \- EP](https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3) | 3:15 | 2020-11-03\* | 2021-01-15 |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-07-05 | 2023-12-14 |
 | [Be Somebody](https://open.spotify.com/track/0QWxPJXzawrzBTzgiC6HtW) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Be Somebody](https://open.spotify.com/album/2xIk20jt5wjwHaf3gUVMOk) | 3:44 | 2021-03-14 | 2021-04-17 |

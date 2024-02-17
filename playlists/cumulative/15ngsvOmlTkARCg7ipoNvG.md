@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,678 songs - 1 day 11 hr 3 min
+1,682 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [May Flowers Arr\. For Cello And Felt Piano](https://open.spotify.com/track/124nqGkhHy8FFLuGbiveTO) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [May Flowers Arr\. For Cello And Felt Piano](https://open.spotify.com/album/144o9AoqqDSuCTogKQCmBE) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [May Flowers Arr\. For Solo Piano](https://open.spotify.com/track/1jWIfEiEH00PI158O3QLqk) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [May Flowers](https://open.spotify.com/album/4PZnRcygNbU615jcPeTpcx) | 1:01 | 2023-05-14 | 2024-01-30 |
 | [Maybe Someday](https://open.spotify.com/track/7J1wx91FrkBkPsTupLTJym) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:30 | 2022-01-12 | 2024-01-30 |
+| [Meadow \- Cello Version](https://open.spotify.com/track/2kWPYv0BqtWySFMH8mvGEF) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dreaming Of Spring Revisited \(Cello Version\)](https://open.spotify.com/album/7fv92xtC8fBziyWGy6U92Z) | 1:00 | 2024-02-16 |  |
 | [Meadows](https://open.spotify.com/track/053iOzuMkMvARAHcuF6nJx) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Blue](https://open.spotify.com/album/66uTGKCnvVcGTqMDHy439T) | 1:53 | 2022-01-12 | 2024-01-30 |
 | [Melancholic Moment \- Strings Version](https://open.spotify.com/track/3tApqv72ZIdIItTnXT5woL) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Two Trios \(Strings Version\)](https://open.spotify.com/album/0ATNTO1K6lvvxRmj3MzHG9) | 1:14 | 2024-02-09 | 2024-02-13 |
 | [Mellow Days \- Cello Version](https://open.spotify.com/track/5YmHoOQvEZ5ne4MRptqQpv) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Mellow Days](https://open.spotify.com/album/2VT3hLh8i11KBPQ4yjr98o) | 1:02 | 2024-02-09 | 2024-02-13 |
@@ -1277,6 +1278,7 @@
 | [Shoreline Light](https://open.spotify.com/track/1VEnY2NHbvyRafSKpTGpGc) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Love And Light](https://open.spotify.com/album/7JN0UxwNpKDr5von6mV6hm) | 1:04 | 2022-01-12 |  |
 | [Short Embrace \- Strings Version](https://open.spotify.com/track/6ME5EmG6rZ0El4YCLCI9Fh) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Silent Sunset, Vol\. 2 \(Strings Version\)](https://open.spotify.com/album/3LQhrHUYb4EsaVfYxK3fju) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Si Bheag Si Mhor Arr\. For Cello And Harp](https://open.spotify.com/track/5iBuy5uyPlhhDmYzQB8rDQ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Si Bheag Si Mhor Arr\. For Cello And Harp](https://open.spotify.com/album/4JvZ6lYlFBrldf7jRzMJnN) | 1:07 | 2024-02-09 | 2024-02-13 |
+| [Silencing](https://open.spotify.com/track/25jt0kMcHJ66ttPKGqOcaS) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Light](https://open.spotify.com/album/5C2zmwAubUVPf7sNfzUZC5) | 1:00 | 2024-02-16 |  |
 | [Silent](https://open.spotify.com/track/2Pft0rIi1i51fjZGLLwhUV) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Silent](https://open.spotify.com/album/4vOCQGO9u596LNVthstXxv) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Silent Again](https://open.spotify.com/track/4WX5QgpbbbRfVojJkptHy1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:22 | 2022-01-12 |  |
 | [Silent and Steady](https://open.spotify.com/track/7FU55Mml35jYHLo7ccVhDx) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [By the Shore](https://open.spotify.com/album/1UKtBO6uCXhhM4pXRwwmSw) | 1:27 | 2022-01-15 | 2024-01-30 |
@@ -1356,6 +1358,7 @@
 | [Spring Sun](https://open.spotify.com/track/7uwwThNv4jACx8G2HBicP1) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Spring Warmth Again \- Cello Version](https://open.spotify.com/track/7MQhI8USlPbgNtamZs5SV7) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spring Warmth Again \(Cello Version\)](https://open.spotify.com/album/2UXnDLSHUF8Il2sKg23Wfl) | 1:00 | 2022-07-15 |  |
 | [Springtime Serenade \- Piano Version](https://open.spotify.com/track/4sDMgmdCGm0pnYb7NGuRAs) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Springtime Serenade \(Piano Version\)](https://open.spotify.com/album/10gZyaNfOYTkxZPsfcbOLv) | 3:00 | 2022-01-12 | 2024-02-13 |
+| [Stability](https://open.spotify.com/track/7roDSXiPANfzVC8BAtpazE) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Light](https://open.spotify.com/album/5C2zmwAubUVPf7sNfzUZC5) | 1:00 | 2024-02-16 |  |
 | [Stained Blue Windows](https://open.spotify.com/track/3mosxpcwbtA2hjVB9IXC8U) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Stained Glass](https://open.spotify.com/track/04zrIJnAGFidz3dgCQswti) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:28 | 2022-01-12 |  |
 | [Stained Glass](https://open.spotify.com/track/70QgzXi0kwgXkdvh7x0qDc) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:14 | 2022-01-12 |  |
@@ -1365,6 +1368,7 @@
 | [Starlight \- Cello Version](https://open.spotify.com/track/2Ehn3ffEFWFjMnZ0tRx1kW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Starlight \(Cello Version\)](https://open.spotify.com/album/3R23khyyllqyiq6Icw4zV4) | 1:01 | 2023-01-06 |  |
 | [Starlight \- Strings Version](https://open.spotify.com/track/4W8jgtKSmnrY06iN4u5udj) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Starlight \(Strings Version\)](https://open.spotify.com/album/7yADM221ORuVmTUXqj585l) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Starry Night](https://open.spotify.com/track/1mlwBOEGtzJzmaPWalhqSy) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:01 | 2022-05-25 |  |
+| [Stars \- Cello Version](https://open.spotify.com/track/6PyKETcMKPQyPOS9nTcemw) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dreaming Of Spring Revisited \(Cello Version\)](https://open.spotify.com/album/7fv92xtC8fBziyWGy6U92Z) | 1:00 | 2024-02-16 |  |
 | [Stars in My Dreams](https://open.spotify.com/track/4IUlrZ3gBk49DmrBohg5AW) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 1:45 | 2022-01-12 | 2024-01-30 |
 | [Stay](https://open.spotify.com/track/0nJpXrkQBTXouGDl6NVEHe) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:13 | 2022-01-12 |  |
 | [Staying](https://open.spotify.com/track/6mPhDJ23EcTSySV5GjWWfy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:05 | 2022-01-20 |  |

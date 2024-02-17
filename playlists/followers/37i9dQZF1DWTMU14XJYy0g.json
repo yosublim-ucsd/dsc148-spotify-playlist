@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 503290,
+  "2024-02-17": 503309,
   "date_first_scraped": "2022-06-30",
   "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Conociendo Rusia",
   "name": "Rock Argentino",
@@ -149,6 +149,28 @@
       "duration_ms": 227746,
       "name": "Alejado de la Red",
       "url": "https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU"
+    },
+    {
+      "album": {
+        "name": "All\u00ed Donde Sol\u00edamos Gritar",
+        "url": "https://open.spotify.com/album/5FgUTMgWFhaxcL3MJUxwqx"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219716,
+      "name": "All\u00ed Donde Sol\u00edamos Gritar",
+      "url": "https://open.spotify.com/track/6wBASLUGaAzhBh5q0iu6VR"
     },
     {
       "album": {
@@ -1317,7 +1339,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 136747,
       "name": "El Universo",
       "url": "https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Isaac Dunbar
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,375 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,399 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [Alligator](https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Alligator](https://open.spotify.com/album/2XXEJZqcwdc9iZLLmOPJPc) | 3:10 |
 | 100 | [QUE PASÓ](https://open.spotify.com/track/6HAPQ70OHzZ5QRfeoBUHkf) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [QUE PASÓ](https://open.spotify.com/album/5aFewLfeXMZKYFFYcPejso) | 2:25 |
 
-Snapshot ID: `MCxjNDY3YzE1Zjg2Yjg4MGJkMTIyZWViZDg4YjdlYmY0YmM1ZjRkMDI5`
+Snapshot ID: `MCxhNGNjNzg0MDUxNDJhZjIyYjFiYzYxNzRmZmViNzk1ZWMxNDI2MDc0`

@@ -4,7 +4,7 @@
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-95 songs - 5 hr 54 min
+96 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Kryzysowa narzeczona](https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [Lady Pank](https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN) | 4:00 | 2023-02-03 |  |
 | [Księżniczka](https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Komponując siebie](https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh) | 3:04 | 2023-02-03 |  |
 | [List](https://open.spotify.com/track/427wJVMJuEPYdxjwDhFiBY) | [Kamil Bednarek](https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE) | [Oddycham](https://open.spotify.com/album/754tuVtUml3dvC0YysRpZK) | 4:50 | 2023-02-03 | 2023-03-08 |
+| [List](https://open.spotify.com/track/43npy0Y0oKKfkTvafdGcQC) | [Kamil Bednarek](https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE) | [Oddycham](https://open.spotify.com/album/5WZh3xSvUB8c16EAm4a5NT) | 4:50 | 2024-02-09 |  |
 | [Lubię być z nią](https://open.spotify.com/track/5SOFAkRZQqDn0NveCTkGxU) | [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Lubię być z nią](https://open.spotify.com/album/6Skq4o76kzCQ0dCrkVAX0a) | 3:51 | 2023-02-03 |  |
 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 | 2023-02-03 |  |
 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 | 2023-02-03 |  |
@@ -74,7 +75,7 @@
 | [Piosenka księżycowa \(Acoustic Version\)](https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW) | [Varius Manx / Kasia Stankiewicz](https://open.spotify.com/artist/1B3OoaIxfCpdui7lvW2Yu2) | [ENT](https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt) | 4:01 | 2023-02-14 |  |
 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 | 2023-02-03 |  |
 | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82) | 3:30 | 2023-02-03 |  |
-| [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 | 2023-02-03 |  |
+| [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 | 2023-02-03 | 2024-02-17 |
 | [Prowadz mnie](https://open.spotify.com/track/5d2WnlqT8zmD4WjZrwH5jh) | [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Samotna w Wielkim Miescie](https://open.spotify.com/album/3nTHYaPt2iLWUF93RTfPC5) | 4:14 | 2023-09-01 |  |
 | [Przypływy \(feat\. Ralph Kaminski\)](https://open.spotify.com/track/5X1UbhvapToZSZuxEo8V7O) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Pogłos](https://open.spotify.com/album/38VbM2pFAykoCv0xhBuCt2) | 4:35 | 2023-02-03 | 2023-04-22 |
 | [Prócz Ciebie, Nic](https://open.spotify.com/track/2KtSYjhcujuunRR3wyogzu) | [Krzysztof Kiljański](https://open.spotify.com/artist/1QT9ikfzDS8KIZYkfeVKJV), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [In The Room \(Special Edition\)](https://open.spotify.com/album/4qdRkpj5uK429KPoT9Cwnq) | 3:37 | 2023-02-03 |  |

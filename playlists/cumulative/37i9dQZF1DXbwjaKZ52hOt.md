@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-319 songs - 9 hr 34 min
+320 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Miss Muffet](https://open.spotify.com/track/1cOCwJS3D30eOXBtd2Tt8X) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 3:07 | 2022-02-25 |  |
 | [Mr Polly Had a Dolly](https://open.spotify.com/track/0L9ZzvJozKo4PMVQZM2pwY) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes 2](https://open.spotify.com/album/7xZOZLJ8wsOCqd1K9OqYjG) | 1:12 | 2022-02-25 | 2022-07-29 |
 | [Mr Polly Had a Dolly](https://open.spotify.com/track/7iKvaBav9HiDbEP0iKlG0D) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Wiggles Nursery Rhymes 2](https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4) | 1:12 | 2022-02-25 |  |
+| [Muffin Man](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon Dance Party](https://open.spotify.com/artist/51Lx4oj0jlay4n73B2K9uZ) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 | 2024-02-16 |  |
 | [Muffin Man](https://open.spotify.com/track/3xP01FeZSZSLwimehmsmnW) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:33 | 2022-02-25 |  |
 | [Mulberry Bush](https://open.spotify.com/track/0Osu1KG7BWIL1FJPs0XRCK) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:53 | 2022-02-25 |  |
 | [Oh, Susanna](https://open.spotify.com/track/5KjxaoU48spAgx7gONScfR) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:26 | 2022-02-25 |  |
@@ -280,7 +281,7 @@
 | [The More We Get Together](https://open.spotify.com/track/0AVLdFhZInmvfFt4ilSY91) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Happy, Happy, Happy!](https://open.spotify.com/album/1OB7Vix9Iv9RwB25cHbXTE) | 1:44 | 2022-02-25 |  |
 | [The More We Get Together](https://open.spotify.com/track/1rm119CQsq9Rwve29NCrJB) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:35 | 2022-02-25 | 2024-01-05 |
 | [The More We Sing Together](https://open.spotify.com/track/2KpOMq1ZwVXb3TMyJK1bkF) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 1:08 | 2022-02-25 |  |
-| [The Muffin Man \- 2012 Version](https://open.spotify.com/track/6au6Hv9BgciDSxHx85k7ut) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:02 | 2022-02-25 |  |
+| [The Muffin Man \- 2012 Version](https://open.spotify.com/track/6au6Hv9BgciDSxHx85k7ut) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:02 | 2022-02-25 | 2024-02-17 |
 | [The Old Grey Mare](https://open.spotify.com/track/0Bfc0fBGr5Us52BFcOoGYS) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 0:29 | 2022-02-25 |  |
 | [The Panda Bear Went Over the Mountain](https://open.spotify.com/track/1yclYKAPqjC3F7IuOsyGfL) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [The Panda Bear Went Over the Mountain](https://open.spotify.com/album/2c0sLs2WkcQs9HHmoDbpxS) | 1:59 | 2022-02-25 | 2022-11-13 |
 | [The Panda Bear Went Over the Mountain](https://open.spotify.com/track/5sebSH7kwKBxPZBx6yCguI) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhyme Favourites](https://open.spotify.com/album/3sflnnIcjphLNWZR8OGnJB) | 1:59 | 2022-02-25 | 2022-07-29 |

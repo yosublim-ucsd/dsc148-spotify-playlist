@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-112 songs - 7 hr 31 min
+113 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [India Style](https://open.spotify.com/track/2Dr4gu3NnRA8vyikJMp1pw) | [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Mama India](https://open.spotify.com/album/0Qb4ObiRkJ17EvkYXa10ak) | 6:45 | 2023-10-27 |  |
 | [Inteha\-e\-Ishq \- Stereo Munk Reinterpretation](https://open.spotify.com/track/5yqM3cyY9lQLNOflyHArSG) | [Adnan Qureshi](https://open.spotify.com/artist/3F4hn6cXw4bc2RDWrAWMrL), [STEREO MUNK](https://open.spotify.com/artist/3r7gMVTtZJajmfLVhYH3Pj) | [Inteha\-e\-Ishq \(Stereo Munk Reinterpretation\)](https://open.spotify.com/album/3YZ8rrcC76UkReoBpeG2N2) | 6:30 | 2023-08-18 |  |
 | [Intro](https://open.spotify.com/track/4K0iKx3E9aJD2scXitC4XR) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 1:49 | 2023-10-03 | 2023-12-09 |
+| [Ishq Hua \(Love Happened\)](https://open.spotify.com/track/5ocxKvCTMUeqjrECZaSgOt) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Ishq Hua \(Love Happened\)](https://open.spotify.com/album/0lz6TWytsI9SKtENs2A4ue) | 2:54 | 2024-02-16 |  |
 | [Jaipur \- Paul Arcane Remix](https://open.spotify.com/track/5gAQFNZfsa2cZELFVIGdvb) | [Aneesh Gera](https://open.spotify.com/artist/71r2VlqG6rIgUtMS8ugZIP), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Jaipur](https://open.spotify.com/album/5TVhrNGLGRo02hs916Bmx5) | 4:05 | 2023-08-18 | 2023-12-15 |
 | [Jhanak Jhanak](https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 4:23 | 2023-10-27 |  |
 | [Jhoom](https://open.spotify.com/track/5AQAurxb48jq21Aqq5lsuW) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Jhoom](https://open.spotify.com/album/0ojrFb00OSynZHJrxNforx) | 5:47 | 2023-08-18 |  |

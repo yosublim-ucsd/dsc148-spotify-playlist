@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 251200,
       "name": "Another One",
       "url": "https://open.spotify.com/track/5YtIeVlxDt8riaDmOhiDqq"
@@ -3643,6 +3643,32 @@
     },
     {
       "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/4OTVrwP6x0I5TEZvnoNz0p"
+      },
+      "artists": [
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        },
+        {
+          "name": "Vaance",
+          "url": "https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu"
+        },
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196344,
+      "name": "Forever Now",
+      "url": "https://open.spotify.com/track/4mKr1vziKTFOHjQknnHjUS"
+    },
+    {
+      "album": {
         "name": "Forever With U",
         "url": "https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ"
       },
@@ -5186,7 +5212,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 224516,
       "name": "I Love You Enough To Let You Go",
       "url": "https://open.spotify.com/track/6MSjU24zzBgu6wRHsR4eRI"
@@ -5376,7 +5402,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
@@ -5680,6 +5706,28 @@
       "duration_ms": 168827,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/0FpXOnJP3OtKU5zGKUtrdu"
+    },
+    {
+      "album": {
+        "name": "Just A Mirage",
+        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "ILLUSIO",
+          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Just A Mirage",
+      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
       "album": {
@@ -6054,6 +6102,24 @@
       "duration_ms": 270000,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF"
+    },
+    {
+      "album": {
+        "name": "Lilo",
+        "url": "https://open.spotify.com/album/0oDaIt2EiKHfXEqlWIN1l6"
+      },
+      "artists": [
+        {
+          "name": "Severo",
+          "url": "https://open.spotify.com/artist/5HqJR4LXclbZPAwQ636j84"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266285,
+      "name": "Lilo",
+      "url": "https://open.spotify.com/track/3l03Y52XlVxMbtz5bsEzNZ"
     },
     {
       "album": {
@@ -6626,6 +6692,24 @@
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/6kRox5GbU9QFlqSzwZYc5j"
+      },
+      "artists": [
+        {
+          "name": "Heuse",
+          "url": "https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214339,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/5qAL96n2U89Nhuo0EjwiDq"
     },
     {
       "album": {
@@ -7210,7 +7294,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 187324,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/4raQPHDejveEM7pt1Vbm0q"
@@ -7274,6 +7358,32 @@
       "duration_ms": 237488,
       "name": "On Air",
       "url": "https://open.spotify.com/track/5c6dqKOdbyDFvJ43vSQBxO"
+    },
+    {
+      "album": {
+        "name": "On Forever",
+        "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Saint Raymond",
+          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209556,
+      "name": "On Forever",
+      "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
     },
     {
       "album": {
@@ -7520,6 +7630,28 @@
       "duration_ms": 157062,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/7fmijESG18W7PcwEUdVKmh"
+    },
+    {
+      "album": {
+        "name": "Owe Me Love",
+        "url": "https://open.spotify.com/album/0fqntVZUrEWGLrHwNDwp1Q"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Hannah Avison",
+          "url": "https://open.spotify.com/artist/51iAmfBcr2WFpPopXyX4vr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Owe Me Love",
+      "url": "https://open.spotify.com/track/34zwJfTEJbDXDD4gSwUar8"
     },
     {
       "album": {
@@ -9810,7 +9942,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176842,
       "name": "This Feeling (feat. Britt Lari)",
       "url": "https://open.spotify.com/track/1eZKh4L2bIPxrWIOf9NUUw"
@@ -9880,6 +10012,28 @@
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
+    },
+    {
+      "album": {
+        "name": "Time Traveling",
+        "url": "https://open.spotify.com/album/09pkbf91DaLiK3f9vKPJR5"
+      },
+      "artists": [
+        {
+          "name": "Cyazon",
+          "url": "https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Time Traveling",
+      "url": "https://open.spotify.com/track/6CEz0HCIEk7Yu7wEJFNhaH"
     },
     {
       "album": {
@@ -10080,7 +10234,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 174400,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT"
@@ -10796,10 +10950,36 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 250400,
       "name": "Worlds Away",
       "url": "https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm"
+    },
+    {
+      "album": {
+        "name": "Worlds Away (yetep Remix)",
+        "url": "https://open.spotify.com/album/6HIILItHPNh4q46jHSXuFy"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291463,
+      "name": "Worlds Away - yetep Remix",
+      "url": "https://open.spotify.com/track/2FIMqlUhjUpMmuyBIccbwK"
     },
     {
       "album": {

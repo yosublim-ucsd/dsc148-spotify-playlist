@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-194 songs - 16 hr 59 min
+197 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Collective Awareness](https://open.spotify.com/track/4tmUIDjEgDYpeJdB64shy8) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Collective Awareness](https://open.spotify.com/album/5s95lm3vSea3jSw2tRQGIf) | 6:37 | 2024-01-26 |  |
 | [Concrete Material](https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf) | [Joni Raikaslehto InFusion](https://open.spotify.com/artist/3uf19Vh8oCP8iEHrtbzvlL) | [Prog Fu!](https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7) | 7:55 | 2022-09-02 | 2023-09-15 |
 | [Corona](https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i) | [Aaro Laitinen Quintet](https://open.spotify.com/artist/38NWfEYiJBllcdL6vE4Wb0) | [Corona](https://open.spotify.com/album/04MAdee5JJQdLMfESDGYbX) | 7:15 | 2022-10-28 | 2023-02-18 |
+| [Cross The Line](https://open.spotify.com/track/2LCbdDcsz1sZExRYD4uQof) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Cross The Line](https://open.spotify.com/album/4niGj2NO2LC8DGOB7c33L4) | 4:26 | 2024-02-16 |  |
 | [Cross\-Atlantic Connection](https://open.spotify.com/track/7jkmwQVtug8tB9RzPMY6pH) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jukka Eskola](https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St) | [Cross\-Atlantic Connection](https://open.spotify.com/album/3Drx9aUm2Oerolurx12WBr) | 5:58 | 2023-11-16 |  |
 | [Dead Sea](https://open.spotify.com/track/1QnoRhFiXxkKCZ9AK4lvrg) | [Jussi Fredriksson Trio](https://open.spotify.com/artist/5o52BOj8untw6hOzTjmRsi) | [Dead Sea](https://open.spotify.com/album/5kApCMPzvKjtUDRX4Fv7nb) | 6:32 | 2022-09-02 | 2022-09-23 |
 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 | 2022-09-02 | 2024-01-20 |
@@ -80,6 +81,7 @@
 | [I´ll Be Seeing You](https://open.spotify.com/track/5vPBcZIGc4sttgZR9kM3VR) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 5:15 | 2022-09-02 | 2023-09-15 |
 | [James Joyce](https://open.spotify.com/track/3dKu05TTOPTIynjKJPPGHd) | [Agenttiluola Kollektiivi](https://open.spotify.com/artist/5tXLdKpj4diwWZPNlICuTD) | [James Joyce](https://open.spotify.com/album/7ysu4h0ASdqVhNl7GlLmxP) | 4:22 | 2023-12-08 |  |
 | [Jasmiinin kukka](https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP) | [Ilkka Arola Sound Tagine](https://open.spotify.com/artist/5sb3EcTfz8Kkx1Zs8Vt429) | [Blue & Golden](https://open.spotify.com/album/07uM6sL7Usdi3pHcwQunsc) | 7:05 | 2022-09-02 | 2023-12-09 |
+| [Jazz Cats](https://open.spotify.com/track/5hsjBC5Br4GTfCyvEuwTw9) | [The Dowser](https://open.spotify.com/artist/451jzR99dEfzTv6tQ4FTQ4) | [Jazz Cats](https://open.spotify.com/album/4Hk6zrdl6KikUjtvusKenR) | 2:02 | 2024-02-16 |  |
 | [Judy](https://open.spotify.com/track/0sUahCQC99u2oydAwo1OtW) | [Anni Kiviniemi Trio](https://open.spotify.com/artist/7pbZ2vbzXkOEPrCBA8Hvz3) | [Eir](https://open.spotify.com/album/0eNjznsErSmBEn2Iq8Q9Fu) | 3:50 | 2024-01-12 |  |
 | [Junassa](https://open.spotify.com/track/2hPQcgfs8FPUEtFmqRRqaV) | [Emmi U\. Trio](https://open.spotify.com/artist/74HYOIncyX3SywhTMIYq1y) | [Junassa](https://open.spotify.com/album/43RH8KMHg3VtQrOWH4aDgY) | 4:23 | 2023-03-03 | 2023-11-24 |
 | [Just Make It Fast](https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd) | [Markus Holkko](https://open.spotify.com/artist/6l1wgkfbI4ICpgO0Spqmed) | [East Side Up!](https://open.spotify.com/album/1HQSyUWkSc5PrsCMnLMTDz) | 3:46 | 2022-09-02 | 2023-08-26 |
@@ -191,6 +193,7 @@
 | [Vanhatie](https://open.spotify.com/track/2CKL9mnBSVyp25XD262LMM) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Liesu](https://open.spotify.com/album/5n86VY1BoK0gQB8YZw21Pp) | 6:44 | 2023-10-13 | 2024-01-20 |
 | [Veden alla \- 2023](https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Viileässä virrassa](https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k) | 5:40 | 2023-03-29 |  |
 | [Vertigo](https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Vertigo](https://open.spotify.com/album/2gHx8geEkqUEXmlAGy0hLw) | 1:14 | 2023-09-08 | 2023-11-17 |
+| [Waiting That Life](https://open.spotify.com/track/0n4a21KErDwuqOPHCanu6u) | [Adele Sauros](https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3), [Toomas Keski\-Säntti](https://open.spotify.com/artist/6Nv4OPkMMv7s5Kush2Flp3), [Vesa Ojaniemi](https://open.spotify.com/artist/4MwN0AjsejfkObw8iYyN3F), [Tuomas Timonen](https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj) | [Waiting That Life](https://open.spotify.com/album/1bZ6a3FMyCqgaQ9PiqlHbg) | 7:43 | 2024-02-16 |  |
 | [Wallbreaker](https://open.spotify.com/track/2a1QyKbVm0QjDk7TAczeM6) | [TRI\-](https://open.spotify.com/artist/3pDqn9WMu3VpFKOTKMxMFi), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Arttu Huopainen](https://open.spotify.com/artist/6jJP71guHdMoczUV1XNZE7), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [Wallbreaker](https://open.spotify.com/album/1q8qoE8xtbEML7WnO5qAzW) | 4:49 | 2023-05-08 | 2023-05-27 |
 | [Well You Needn't](https://open.spotify.com/track/1hsPPlUwPFJEsSiaUwv6uz) | [Markus Niittynen](https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn), [Arttu Huopainen](https://open.spotify.com/artist/5cIaKrqiTvvun23Rx8oXc8), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [New Trio](https://open.spotify.com/album/59puCqIkLQKOoIch2vUwTB) | 6:05 | 2024-01-26 |  |
 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 | 2022-09-02 | 2023-02-18 |

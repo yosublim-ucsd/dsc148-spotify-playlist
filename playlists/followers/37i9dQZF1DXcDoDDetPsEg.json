@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 766280,
+  "2024-02-17": 766321,
   "date_first_scraped": "2022-02-25",
   "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. ",
   "name": "Who We Be",
@@ -199,6 +199,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "2089",
+        "url": "https://open.spotify.com/album/2AyEwRKdDEBDOgC6ZPfNfo"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "2089",
+      "url": "https://open.spotify.com/track/397lYGVTrCexKsTg8kSnvE"
     },
     {
       "album": {
@@ -1177,6 +1195,24 @@
       "duration_ms": 209693,
       "name": "Back2Roadz",
       "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
+    },
+    {
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/5niMHtwj8tiOzWqn3hYIeT"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143916,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/6W5rO5aAoL9FYVN1wnnmmX"
     },
     {
       "album": {
@@ -5962,6 +5998,28 @@
     },
     {
       "album": {
+        "name": "G Check (feat. Rambow)",
+        "url": "https://open.spotify.com/album/3CvvOEeQwVEq7OhIailxDx"
+      },
+      "artists": [
+        {
+          "name": "Swarmz",
+          "url": "https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ"
+        },
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "G Check (feat. Rambow)",
+      "url": "https://open.spotify.com/track/1vwvTNbWpXwX5GgP3aiE5s"
+    },
+    {
+      "album": {
         "name": "G Lock",
         "url": "https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE"
       },
@@ -6757,10 +6815,32 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
+        "name": "Grey (feat. Aitch)",
+        "url": "https://open.spotify.com/album/7cNzYOvsIKo8wSpwubBwJK"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169109,
+      "name": "Grey (feat. Aitch)",
+      "url": "https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e"
     },
     {
       "album": {
@@ -7988,6 +8068,24 @@
     },
     {
       "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/6hpyQ2dUVBY8f2g4GumI9w"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198429,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6KCYee1OzhVGlxwcUEyEiw"
+    },
+    {
+      "album": {
         "name": "If Only You Knew",
         "url": "https://open.spotify.com/album/0fTq2g9l88dQHVtr97c0XK"
       },
@@ -8368,6 +8466,24 @@
     },
     {
       "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/1eQkw4ryuKuU5vQzZaVgja"
+      },
+      "artists": [
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135063,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/02TFifnyJGfFahV6SF1Y96"
+    },
+    {
+      "album": {
         "name": "Is It A Crime? EP",
         "url": "https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7"
       },
@@ -8463,6 +8579,28 @@
       "duration_ms": 200440,
       "name": "It's Crazy - Single Version",
       "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
+    },
+    {
+      "album": {
+        "name": "IT'S ONLY YOU",
+        "url": "https://open.spotify.com/album/62HQu8Qo6VfzQhMyuoRoYd"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Eben-Ezer",
+          "url": "https://open.spotify.com/artist/5BztywuaE9glEItjlAuNfJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148456,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/2HCVVmUd0OyuC7nHPj0Ee5"
     },
     {
       "album": {
@@ -9868,6 +10006,24 @@
     },
     {
       "album": {
+        "name": "Love Me How",
+        "url": "https://open.spotify.com/album/1vo86IKNOT899kXoqcfhlz"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150386,
+      "name": "Love Me How",
+      "url": "https://open.spotify.com/track/3mi5y0lctEWa5BlpweVsYD"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -9879,7 +10035,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -11516,6 +11672,28 @@
     },
     {
       "album": {
+        "name": "Night Gown",
+        "url": "https://open.spotify.com/album/6TXBvvbagTmmw06T7ARWAR"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "Night Gown",
+      "url": "https://open.spotify.com/track/3S7FiiGtWszlNExNbYvEix"
+    },
+    {
+      "album": {
         "name": "No Difference",
         "url": "https://open.spotify.com/album/1aYRvV3ymnKsWaZKlBaXU2"
       },
@@ -11561,6 +11739,24 @@
       "duration_ms": 176470,
       "name": "No Games",
       "url": "https://open.spotify.com/track/5AGhBP57akSYR9rW7NPsoy"
+    },
+    {
+      "album": {
+        "name": "NO HANDS",
+        "url": "https://open.spotify.com/album/1hqGOiYJDb1UaCb5UYNoEd"
+      },
+      "artists": [
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133069,
+      "name": "NO HANDS",
+      "url": "https://open.spotify.com/track/0rLRVibIjrOoi2j2SzRTuV"
     },
     {
       "album": {
@@ -11627,6 +11823,24 @@
       "duration_ms": 223480,
       "name": "No One Else (feat. Fridayy)",
       "url": "https://open.spotify.com/track/6PpJ215wBUqB31xLLWKq66"
+    },
+    {
+      "album": {
+        "name": "No Peace, No Time",
+        "url": "https://open.spotify.com/album/7pGe7AEbeMjk4IaBjvyrB7"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "No Peace, No Time",
+      "url": "https://open.spotify.com/track/66Be4ATVoOu2JiyS2QFich"
     },
     {
       "album": {
@@ -11863,6 +12077,24 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
+        "name": "Episode 1: Lost",
+        "url": "https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165610,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ"
     },
     {
       "album": {
@@ -12205,7 +12437,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
@@ -15048,6 +15280,28 @@
     },
     {
       "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/1Jkf7g6nVVDqUxev11BWl6"
+      },
+      "artists": [
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Sexyy Red (feat. Headie One)",
+      "url": "https://open.spotify.com/track/0f5ZTJ6BcOEijnrR11edbr"
+    },
+    {
+      "album": {
         "name": "SHAQ & KOBE",
         "url": "https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA"
       },
@@ -15703,6 +15957,24 @@
       "duration_ms": 98906,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0l35DM2goE5pl5AVSdWuZg"
+    },
+    {
+      "album": {
+        "name": "Sorrys & Ferraris",
+        "url": "https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167915,
+      "name": "Sorrys & Ferraris",
+      "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
     },
     {
       "album": {
@@ -17027,7 +17299,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
@@ -18217,7 +18489,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 120000,
       "name": "Welcome to E9",
       "url": "https://open.spotify.com/track/2ro147cSsJeFgdjBjOGGLZ"
@@ -18879,7 +19151,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"

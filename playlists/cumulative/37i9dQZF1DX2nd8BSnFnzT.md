@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Dead Fish
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, Supercombo
 
-429 songs - 1 day 0 hr 1 min
+430 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,11 +146,12 @@
 | [Eu Gosto de Rock And Roll](https://open.spotify.com/track/6oqWo4Ee1SjF1vxGhZfzMd) | [Violúdico](https://open.spotify.com/artist/5ma4JYFEJuYk7jp1XwJIF7) | [Eu Gosto de Rock And Roll](https://open.spotify.com/album/4Q0S08HoIFK30C3pGCB0jr) | 3:40 | 2022-04-15 | 2022-04-29 |
 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 | 2023-11-24 |  |
 | [Eu Não Matei Joana D’Arc](https://open.spotify.com/track/3dmf5saG9vX9CnB9Ldbq9d) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N), [Os Eremitas da Montanha](https://open.spotify.com/artist/1CboKfy0paRZ5qnGHBS58u) | [Antologia Politicamente Incorreta dos Anos 80 pelo Rock](https://open.spotify.com/album/4wZppJaGUTOErkatEfLKYT) | 3:59 | 2022-05-13 | 2022-05-20 |
+| [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 |  |
 | [EU NÃO TÔ LEGAL](https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [SUCESSO A QUALQUER CUSTO](https://open.spotify.com/album/6iVwmn3dr07JEPqNXtVwPr) | 2:27 | 2023-08-18 | 2024-01-27 |
 | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/track/6W0lFjQTyYyHkszNlUWtrd) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/3gIYxv8J959nvOH0MtCQeM) | 2:50 | 2023-11-03 | 2024-02-03 |
 | [Eu te amo você \- Live Sala de Estar](https://open.spotify.com/track/4fCuJF71M3gcecekJPODWO) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/6hrkcSV4mybnW4dbJd04hd) | 2:50 | 2023-09-15 | 2023-11-04 |
 | [Eu Tive Uma Visão \- Versão Grunge](https://open.spotify.com/track/0DhoQiPl1nw5IcMolkengo) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Eu Tive Uma Visão \(Versão Grunge\)](https://open.spotify.com/album/2n1pE8HLpzG8ySHt19WBXU) | 2:39 | 2022-03-11 | 2022-03-18 |
-| [Fala na Cara](https://open.spotify.com/track/0aPH5FHJaLkbHftmYyeWHj) | [Giovanna Moraes](https://open.spotify.com/artist/1NYYWX3yvMjUMkXRkgVKxb) | [Fala na Cara](https://open.spotify.com/album/14qtdt0FYJWQX00R2hBlun) | 3:46 | 2023-04-14 |  |
+| [Fala na Cara](https://open.spotify.com/track/0aPH5FHJaLkbHftmYyeWHj) | [Giovanna Moraes](https://open.spotify.com/artist/1NYYWX3yvMjUMkXRkgVKxb) | [Fala na Cara](https://open.spotify.com/album/14qtdt0FYJWQX00R2hBlun) | 3:46 | 2023-04-14 | 2024-02-17 |
 | [Farofada Rock 'N Roll](https://open.spotify.com/track/4dVpdccbklkJ6lC1hffbJN) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Farofada Rock 'N Roll](https://open.spotify.com/album/34oikwHIkR0WhLmuPALBhx) | 3:34 | 2022-02-04 | 2022-04-09 |
 | [Fascista](https://open.spotify.com/track/5Fv2X9NcDca6NMTRHLEIma) | [Escambau](https://open.spotify.com/artist/5A9wuZoMAlH0P2eFN7Fd7u) | [Leite de Pedra](https://open.spotify.com/album/1rygfNkdmlHaTmk40kL49E) | 3:02 | 2022-09-23 | 2022-10-15 |
 | [Fauna Abisal \- Ale Zastras Remix](https://open.spotify.com/track/7Cz8xM8YGkVr2Xyug1bbE4) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Fauna Abisal \(Ale Zastras Remix\)](https://open.spotify.com/album/5UWBCwK8gOgNl8BJDZzSJE) | 3:20 | 2022-08-26 | 2022-09-10 |

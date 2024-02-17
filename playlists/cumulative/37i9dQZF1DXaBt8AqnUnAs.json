@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 164500,
       "name": "Capa da Vogue",
       "url": "https://open.spotify.com/track/4YkJOE0aOTx8PayhVQIZpG"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 203520,
       "name": "Confusa",
       "url": "https://open.spotify.com/track/2egdO5Dpe4yk0b4S26knYa"
@@ -2212,6 +2212,28 @@
       "duration_ms": 191562,
       "name": "C\u00ea t\u00e1 bem (Remix)",
       "url": "https://open.spotify.com/track/5WZ5MJyJTUgPC0oSVRzxHX"
+    },
+    {
+      "album": {
+        "name": "C\u00ednica",
+        "url": "https://open.spotify.com/album/3AhVSS7sPyC5ulsKrc7yta"
+      },
+      "artists": [
+        {
+          "name": "fallkee",
+          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
+        },
+        {
+          "name": "Ozaru",
+          "url": "https://open.spotify.com/artist/4mEiOyDai3zpHDhQhszrbA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "C\u00ednica",
+      "url": "https://open.spotify.com/track/2slrmlJB2JjiprvssrlOFx"
     },
     {
       "album": {
@@ -3005,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "Entrelinhas",
+        "url": "https://open.spotify.com/album/7HpTtpF2qHbeexPpKKCChH"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127619,
+      "name": "Entrelinhas",
+      "url": "https://open.spotify.com/track/1Qo9f6GlALIdQegwygAPDH"
+    },
+    {
+      "album": {
         "name": "Diversoficando",
         "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
       },
@@ -3038,7 +3078,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 179580,
       "name": "Erro Favorito",
       "url": "https://open.spotify.com/track/2fQWs6gIMQpVzXZ0WEMolk"
@@ -3590,7 +3630,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 121263,
       "name": "Farsante",
       "url": "https://open.spotify.com/track/7vNJ1h8VPDNGB5v7XJZcdk"
@@ -4489,6 +4529,28 @@
     },
     {
       "album": {
+        "name": "Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6NzOjC8Cd7kuldD5GqPDOl"
+      },
+      "artists": [
+        {
+          "name": "West Reis",
+          "url": "https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp"
+        },
+        {
+          "name": "Doode",
+          "url": "https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228687,
+      "name": "Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2pKBHF2hqzaKNeY4HNnUos"
+    },
+    {
+      "album": {
         "name": "Essa Minha Vida Bandida",
         "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
@@ -5112,7 +5174,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 124044,
       "name": "Lugar Nenhum",
       "url": "https://open.spotify.com/track/3KlVA8HwJl2jXWYOo1eki4"
@@ -5895,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "Meu Momento",
+        "url": "https://open.spotify.com/album/2wDliZps23Ka36k39RMCj0"
+      },
+      "artists": [
+        {
+          "name": "Eusoares085",
+          "url": "https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "Meu Momento",
+      "url": "https://open.spotify.com/track/00pGD07VqcwPNU5gs6jvor"
+    },
+    {
+      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -6000,6 +6080,24 @@
       "duration_ms": 228000,
       "name": "Mil Vezes",
       "url": "https://open.spotify.com/track/0bxeaDbEOFn4ljflfOkBUK"
+    },
+    {
+      "album": {
+        "name": "Milvezes",
+        "url": "https://open.spotify.com/album/39OuaB6IgtVL8HHKz7I6HQ"
+      },
+      "artists": [
+        {
+          "name": "Pivete Nobre",
+          "url": "https://open.spotify.com/artist/26bQwhpZ9s1feRnvyLLV1D"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117942,
+      "name": "Milvezes",
+      "url": "https://open.spotify.com/track/5SN36nvRWZQi3t5BTIliTA"
     },
     {
       "album": {
@@ -7623,6 +7721,28 @@
     },
     {
       "album": {
+        "name": "Pessoas Iguais",
+        "url": "https://open.spotify.com/album/1SaYFtgo6GaShStDJ5MdBu"
+      },
+      "artists": [
+        {
+          "name": "AyooFire",
+          "url": "https://open.spotify.com/artist/3afrxPx91AYaJpxGnMHyu0"
+        },
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168764,
+      "name": "Pessoas Iguais",
+      "url": "https://open.spotify.com/track/4ziFfHW8bkkTnyEufroCqz"
+    },
+    {
+      "album": {
         "name": "O Que Vem Depois",
         "url": "https://open.spotify.com/album/0A4L7nluxjOflqGHupldFF"
       },
@@ -8108,7 +8228,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 166947,
       "name": "qqtacontecendo",
       "url": "https://open.spotify.com/track/5koSMHZ0PsMG1WA08JeqNf"
@@ -8939,6 +9059,32 @@
     },
     {
       "album": {
+        "name": "Sem Sacanagem",
+        "url": "https://open.spotify.com/album/1r1GmWCwnsziSr1gtnGbZk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        },
+        {
+          "name": "Samp MC",
+          "url": "https://open.spotify.com/artist/3z9s1VbtllLyCDuJY4U5Dr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220055,
+      "name": "Sem Sacanagem",
+      "url": "https://open.spotify.com/track/3OMUAcIgDjL5TMgaaINDkF"
+    },
+    {
+      "album": {
         "name": "Adega de Amores L\u00edcitos, Vol. 2",
         "url": "https://open.spotify.com/album/0YLzqHJqfVWv5mBhJ9C36i"
       },
@@ -9366,7 +9512,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 156000,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/0nNYbrbitdEFOOdDaWfAca"
@@ -9900,7 +10046,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 168942,
       "name": "Tentei",
       "url": "https://open.spotify.com/track/5H5NDGbhsRO5JD0aS6IPkQ"
@@ -10447,6 +10593,28 @@
     },
     {
       "album": {
+        "name": "Viagem Cara",
+        "url": "https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV"
+      },
+      "artists": [
+        {
+          "name": "Souffran",
+          "url": "https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn"
+        },
+        {
+          "name": "tal do dias",
+          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "Viagem Cara",
+      "url": "https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1"
+    },
+    {
+      "album": {
         "name": "OWL",
         "url": "https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS"
       },
@@ -10510,7 +10678,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 158241,
       "name": "Vida Eu Penso Na Gente Ainda",
       "url": "https://open.spotify.com/track/5qV0rG1Tdj5mpL9ssoLxrj"
@@ -10918,7 +11086,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 178186,
       "name": "\u00daltima Noite (Papatracks#11)",
       "url": "https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK"

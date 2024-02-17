@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,007 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,014 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 50 | [Trago a Trago](https://open.spotify.com/track/48r5CHCLJ23EKEGZnUBqXZ) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Trago a Trago](https://open.spotify.com/album/4nk2O7Zm0bqMTNYBScPHJ0) | 2:17 |
 | 51 | [LA LLORONA](https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [LA LLORONA](https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ) | 4:01 |
 | 52 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 |
-| 53 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 |
-| 54 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
-| 55 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 |
-| 56 | [Where Have U Been](https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Xime Glo](https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue) | [Where Have U Been](https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5) | 3:42 |
+| 53 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
+| 54 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 |
+| 55 | [Where Have U Been](https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Xime Glo](https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue) | [Where Have U Been](https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5) | 3:42 |
+| 56 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 |
 | 57 | [Someone Else's Love](https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8) | [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Someone Else's Love](https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK) | 2:54 |
 | 58 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
 | 59 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 70 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
 | 71 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 |
 | 72 | [In You Arms](https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [ML3NNON](https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [In You Arms](https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr) | 2:34 |
-| 73 | [X\-Control](https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Eclipse](https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ) | 6:13 |
-| 74 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
+| 73 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
+| 74 | [X\-Control](https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Eclipse](https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ) | 6:13 |
 | 75 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
 | 76 | [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 |
 | 77 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Baby 'O](https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Baby 'O](https://open.spotify.com/album/4hwb8VxXw7wek68HBzxEYk) | 4:15 |
 | 90 | [Filosofía](https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Johan](https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS) | [Filosofía](https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np) | 3:00 |
 
-Snapshot ID: `MCxmNDQ5MTBmZDNhZDNlOGZiYTA1NGQwNzljZmY3NTg2OTE1YWFjYTYx`
+Snapshot ID: `MCw4ZmFhOWEwNDJjNzdmY2VkY2U1OGZmNTViMGY0MGI0OTk4NGRhYTky`

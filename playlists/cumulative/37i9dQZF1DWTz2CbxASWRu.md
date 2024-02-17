@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-411 songs - 1 day 6 hr 19 min
+412 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 | 2023-07-10 |  |
 | [African Herbsman \- King Kooba Remix](https://open.spotify.com/track/3YlwHcEnUv8Qpq9f5WdEAZ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [King Kooba](https://open.spotify.com/artist/3qstZNojf2jobRgYg9Oe8D) | [Roots, Rock, Remixed: The Complete Sessions](https://open.spotify.com/album/2i89WN8gz7w7utOWGfs8oD) | 4:03 | 2023-07-10 |  |
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2023-07-10 |  |
+| [Aguaepanela Fantástica](https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Entre Bacanería y Barbarie](https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU) | 4:15 | 2024-01-19 |  |
 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 | 2023-07-10 | 2024-02-10 |
 | [Aguas de Marco \(Joga Bossa\)](https://open.spotify.com/track/4lvYLcBHmGa85G72iszpSH) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 3:21 | 2023-07-10 |  |
 | [Aguepanela Fantástica](https://open.spotify.com/track/1DWWEfGFpnYgXqvEpWYvL1) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Entre Bacanería y Barbarie](https://open.spotify.com/album/0UN2gJDs4nipm2ZJ0yyogL) | 4:15 | 2024-01-19 | 2024-02-12 |
@@ -128,7 +129,7 @@
 | [Dooyo](https://open.spotify.com/track/09GZlaxVlta1K5USLQ0FoG) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 3:49 | 2023-07-10 |  |
 | [Dreamworld](https://open.spotify.com/track/2MlqQ8PDprEVB3VRrKP48v) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Grown Backwards \(Deluxe Edition\)](https://open.spotify.com/album/2ZU2JtWIAnRUgBDoom4GG4) | 5:03 | 2023-12-15 | 2024-01-14 |
 | [Drume negrita](https://open.spotify.com/track/4SDJ1j1yDow7XtZkd3KG1f) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Mambo Sinuendo](https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj) | 4:59 | 2023-07-10 |  |
-| [Dunia](https://open.spotify.com/track/2z0uvX4r1dxtUXQ4ZPlxkz) | [Yohann Le Ferrand Yeko](https://open.spotify.com/artist/3y07qo45MpNyhqm6LULsb3), [Tina](https://open.spotify.com/artist/1nmKkJDDGhnTAk2RW094D5) | [Dunia](https://open.spotify.com/album/417uYyIQaYK9xlMLISTwLi) | 4:00 | 2023-07-10 |  |
+| [Dunia](https://open.spotify.com/track/2z0uvX4r1dxtUXQ4ZPlxkz) | [Yohann Le Ferrand Yeko](https://open.spotify.com/artist/3y07qo45MpNyhqm6LULsb3), [Tina](https://open.spotify.com/artist/1nmKkJDDGhnTAk2RW094D5) | [Dunia](https://open.spotify.com/album/417uYyIQaYK9xlMLISTwLi) | 4:00 | 2023-07-10 | 2024-02-17 |
 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 | 2023-07-10 |  |
 | [Eko Ile](https://open.spotify.com/track/0UsSyf5UyhfbmvD20roRan) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Afrodisiac](https://open.spotify.com/album/45HI1dpu375NsO8F84kwWK) | 6:41 | 2023-07-10 |  |
 | [Eko Ile](https://open.spotify.com/track/0VRPHLUhnbdoPvGUVRhsfL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Afrodisiac](https://open.spotify.com/album/2cBh3ze0atDVhWhFUDoikD) | 6:41 | 2023-07-10 | 2023-09-22 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "80 Summers",
+        "url": "https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200875,
+      "name": "80 Summers",
+      "url": "https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q"
+    },
+    {
+      "album": {
         "name": "KOKOROKO",
         "url": "https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 185263,
       "name": "Best For You and Me",
       "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 151666,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/7rcIHCRo0d6CZtpwC0cznD"
@@ -1872,6 +1890,24 @@
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+    },
+    {
+      "album": {
+        "name": "Quiet Music for Young People",
+        "url": "https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165620,
+      "name": "When We Met",
+      "url": "https://open.spotify.com/track/5371Ggebpdqasbsq2w4clU"
     },
     {
       "album": {

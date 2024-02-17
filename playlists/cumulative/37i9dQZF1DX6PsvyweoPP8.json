@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/2VBRJj31iJqjnL1E9cJmCl"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119850,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/15nEGocLKRlUe4ijzRDVDt"
+    },
+    {
+      "album": {
         "name": "Diaba",
         "url": "https://open.spotify.com/album/2iXy7A5rSBqTbMToGiWb5i"
       },

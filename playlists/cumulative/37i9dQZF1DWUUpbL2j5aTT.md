@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-110 songs - 6 hr 50 min
+112 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Circulator](https://open.spotify.com/track/1CGS1ivLi4e7ejfr7Qrgi0) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Circulator](https://open.spotify.com/album/2qoGsSpsx5vYo5RdGLQ2eU) | 2:30 | 2023-11-17 | 2023-12-09 |
 | [Closer \- Radio Edit](https://open.spotify.com/track/57YS2mQSZ2tvUMTbFlHvyC) | [Bruno Motta](https://open.spotify.com/artist/6rRHgYbcaw2xKpo7LjyGiK), [Only Fusion](https://open.spotify.com/artist/5T5Wm4YyqAy4DERFkdS3qi) | [Closer](https://open.spotify.com/album/4BXdb3T0TG7EiFldBaImfU) | 4:30 | 2023-07-21 | 2023-10-21 |
 | [Come Back](https://open.spotify.com/track/6XKAsu3Hu56kN6ighNsxiL) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Come Back](https://open.spotify.com/album/3r7PkLLbdscNV61NrOOOBe) | 3:17 | 2023-11-10 |  |
+| [Copacabana](https://open.spotify.com/track/5qKaYsAdFthZXLLXzb6IeI) | [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq) | [Copacabana](https://open.spotify.com/album/1JGww9B0CZCeHq50uLGmDf) | 3:45 | 2024-02-16 |  |
 | [Cornetera](https://open.spotify.com/track/77llNe4mjR1Vesm3zoohku) | [Cityburn](https://open.spotify.com/artist/567HOJYjplPqcqvqGfBLUm) | [Cornetera](https://open.spotify.com/album/6kUsuX5ifNBUdFQPARiE6u) | 5:54 | 2023-07-21 |  |
 | [Cosmic Witch \(feat\. Anané\) \- Mochakk Remix](https://open.spotify.com/track/6DFsOKG0Xlf441cChjW8lV) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Cosmic Witch \(feat\. Anané\) \[Mochakk Remix\]](https://open.spotify.com/album/38fWBTKNq37hFnBRCruAVm) | 4:00 | 2023-07-21 |  |
 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 | 2023-07-21 |  |
@@ -68,6 +69,7 @@
 | [Look at the Light \- Edit](https://open.spotify.com/track/093g7O9zhvt13iQ42onrJI) | [Peter Mac](https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc) | [Look At The Light](https://open.spotify.com/album/5m7cc0QqabgapOwriWbQYu) | 3:56 | 2023-07-21 |  |
 | [Love Is Coming Home](https://open.spotify.com/track/7h1wSUHZzCnHjnJcFtoYdW) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Love Is Coming Home](https://open.spotify.com/album/26UlGeXQUOdzSptEKzo7Tp) | 2:54 | 2023-12-01 |  |
 | [Macaw](https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ) | [Macaw](https://open.spotify.com/album/21vjXg1CCyd4LCZZjZ5k2n) | 6:00 | 2023-07-21 |  |
+| [Maraca](https://open.spotify.com/track/6oQD5Y9trs6HNySNS4il16) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT) | [Maraca](https://open.spotify.com/album/5LbHfbp49BgdvYVqFwiaau) | 4:03 | 2024-02-16 |  |
 | [Master & Slave \- Mallover 2022 Remix](https://open.spotify.com/track/7vAkYFMtaga6xhAXhOc4Ni) | [Las Bibas From Vizcaya](https://open.spotify.com/artist/7GhwmwtgLfAAsjIHMEqhDg), [Zambianco](https://open.spotify.com/artist/1IrpwLy7avbOmU7WQN1jbO), [Mallover](https://open.spotify.com/artist/6TNjSsZPG5XaYEwBG8dQOM) | [Master & Slave \(Mallover 2022 Remix\)](https://open.spotify.com/album/7zhSFO8CcvpHJ5e8CNtkCI) | 2:39 | 2023-07-21 | 2023-11-25 |
 | [Memories](https://open.spotify.com/track/2HvljoRzNkP6xYpeeiomJK) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Memories](https://open.spotify.com/album/3fSCXfh3vkKd7tc74TztDO) | 3:33 | 2023-08-04 |  |
 | [Mind Girl](https://open.spotify.com/track/3llBeIDq8E6Zd3x87xMMzW) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Mind Girl](https://open.spotify.com/album/7DVYOA8UK7VWHMv9w3fKRw) | 3:15 | 2023-11-17 |  |

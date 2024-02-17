@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-240 songs - 11 hr 1 min
+241 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 | 2024-01-30 |  |
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-02-01 |
 | [NIGHT DŌTONBORI](https://open.spotify.com/track/1McTNSOavmfiO6XrNmspqJ) | [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d), [Yuki Namba](https://open.spotify.com/artist/1JWIHaz1I1QsNp3e789p4J) | [Ambivert Pt\. 2](https://open.spotify.com/album/3hBY8A9UHCpHn7maPbPveH) | 2:23 | 2023-12-07 | 2023-12-20 |
-| [No suit](https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6) | [Miyabi](https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H), [18stop](https://open.spotify.com/artist/0S4G7XkIQiKXxoHJgFAhPe) | [COOL DOWN 2](https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG) | 3:28 | 2024-02-15 |  |
+| [No suit](https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6) | [Miyabi](https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [COOL DOWN 2](https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG) | 3:28 | 2024-02-15 |  |
 | [Nothinn](https://open.spotify.com/track/04A61F4f7hNFgFsQ9F9sHf) | [AUDIO RADICAL](https://open.spotify.com/artist/7nBpQt0rbbHHTfQY9bd9d7), [chaochao](https://open.spotify.com/artist/4Urb32vb8QFDAJpoMdOVD5), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [CROSS OVA](https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN) | 3:22 | 2023-12-07 |  |
 | [One Love](https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [F4MILY](https://open.spotify.com/album/4jjKrBZLorZUgnxVc4qWvs) | 3:04 | 2023-12-07 |  |
 | [Orange](https://open.spotify.com/track/3musRzfTUQwhZGOJFqQcZy) | [Fruits Garage](https://open.spotify.com/artist/6NrIKELDIWhKgWCiUPLk7Y) | [marché](https://open.spotify.com/album/7JlZkYIwo88ohorC4l1kwl) | 3:07 | 2023-12-07 | 2024-02-09 |
@@ -185,7 +185,8 @@
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-13 |  |
 | [Scarlet](https://open.spotify.com/track/7tb84qAWR15yAfVAyvCZRJ) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD) | [DuskAlwaysWithU](https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV) | 2:24 | 2023-12-07 |  |
 | [SEA SIDE DREAM](https://open.spotify.com/track/1JNJCxwHFX2YRWzc2oCa44) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [SEA SIDE DREAM](https://open.spotify.com/album/7LpRawMaKw2ZQWLbcf0XkR) | 3:27 | 2024-01-23 |  |
-| [Sea Side Wave](https://open.spotify.com/track/3EYx1oD5mLtTeKJeBw7EwJ) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:04 | 2024-02-13 |  |
+| [Sea Side Wave](https://open.spotify.com/track/10Mqe0r0tcO2zMqx3C3HQz) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/22DYFzz5Fjsb8jS0yAkE1F) | 2:04 | 2024-02-15 |  |
+| [Sea Side Wave](https://open.spotify.com/track/3EYx1oD5mLtTeKJeBw7EwJ) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:04 | 2024-02-13 | 2024-02-17 |
 | [seaside boiz](https://open.spotify.com/track/0OHWUJxSTDN6Q4TnaBzSz3) | [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK), [IC¥ BOI](https://open.spotify.com/artist/0k448qMVtcDB7G7AVrQyRS) | [Zero e.p.](https://open.spotify.com/album/6vRvbwnb8kC9Ps6h3VBlC1) | 3:12 | 2024-02-13 |  |
 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 | 2023-12-07 |  |
 | [Selfish](https://open.spotify.com/track/3Bpie3D1Q8Kz2fSBi0UKzB) | [¥oung Flag](https://open.spotify.com/artist/0axWR0RBWlULo5yCbalnWV), [S\-Liam](https://open.spotify.com/artist/3LH7yvrRzh0ZoHkOmU3vpu) | [REAL TALK](https://open.spotify.com/album/6v22Aa0LMQUSWXHteBhOx0) | 2:40 | 2024-01-16 | 2024-02-16 |

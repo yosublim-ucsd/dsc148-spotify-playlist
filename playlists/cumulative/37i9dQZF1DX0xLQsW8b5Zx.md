@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-190 songs - 8 hr 28 min
+191 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 | 2022-05-06 |  |
 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 | 2022-05-06 |  |
 | [Favourite Song](https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra) | [Guitar Tom and the High Cats](https://open.spotify.com/artist/7Dsd8yjfeZeKq7jAWqXJK1) | [Favourite Song](https://open.spotify.com/album/3jaVPMuVvrHGn5VoBCGGxT) | 2:29 | 2022-05-06 | 2022-11-13 |
+| [Fire Bug](https://open.spotify.com/track/0t3d4mJOfYTCjlG83IJ1IY) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO) | 2:17 | 2023-10-27 |  |
 | [Fire Bug](https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ) | 2:17 | 2022-09-02 | 2023-12-25 |
 | [Flat Land Boogie](https://open.spotify.com/track/2ePTK5ui0pSGTAbN6nVt44) | [Wayne Hancock](https://open.spotify.com/artist/5rTfve7qtpGUq2PVVmyFVS) | [Best Of](https://open.spotify.com/album/0B40FLtnKfxwhjDRBBmSq5) | 3:29 | 2022-05-06 | 2022-05-22 |
 | [Forever](https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:41 | 2022-05-06 | 2022-11-13 |
@@ -152,7 +153,7 @@
 | [Rock'n'Roll](https://open.spotify.com/track/1aOsvbDBO3yzjQtnahkGG6) | [PatC Miller And The Tailshakers](https://open.spotify.com/artist/0xKxb8ktWxhoAiEGBNJ7CG) | [Come On Roll](https://open.spotify.com/album/4IbYvsIRqmfWO5XxMEkvlJ) | 2:51 | 2022-07-05 | 2022-07-10 |
 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 | 2022-05-06 | 2022-11-14 |
 | [Rockabilly Banjo](https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have The Rumble](https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o) | 3:13 | 2022-05-06 | 2022-07-28 |
-| [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 |  |
+| [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 | 2024-02-17 |
 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 | 2022-09-02 |  |
 | [Rockabilly Music](https://open.spotify.com/track/19BdP6aAgXHPLIciPpp2se) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [Hollywood Cats](https://open.spotify.com/album/4p0KnYi1AI7t7VnK3nPptK) | 1:56 | 2022-05-06 | 2022-07-25 |
 | [Rockabilly Music](https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [The Hollywood Cats](https://open.spotify.com/album/1VdfOWvihZbRkJGy34NXkk) | 1:56 | 2022-09-02 | 2022-11-13 |

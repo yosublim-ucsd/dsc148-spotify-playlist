@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-246 songs - 15 hr 40 min
+247 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Grinding Ft\. High Tara](https://open.spotify.com/track/4IPxS7dJ0SA53mtPFsLp9Y) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [High Tara](https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI) | [Grinding Ft\. High Tara](https://open.spotify.com/album/252OND8QbuRLZHoLs3FWVa) | 3:53 | 2022-08-05 | 2022-10-15 |
 | [Growth](https://open.spotify.com/track/0lAkiJWqxmKPUKnoxDkxMY) | [UNKNWN](https://open.spotify.com/artist/5wZEqM64b8lzsEvDTPclv9) | [Growth](https://open.spotify.com/album/0n9dmrg2RZ3k28kPWjSDOh) | 2:10 | 2021-09-17 | 2022-04-16 |
 | [Guilty \- Kid Drama Remix](https://open.spotify.com/track/3E3BxEaJub80EI97LeJNHt) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4) | [Taygeta Code Remixes, Pt\. 2](https://open.spotify.com/album/40VS5gb1v9lAZZ6lBNqDaV) | 6:07 | 2021-12-08 | 2022-04-16 |
+| [Hang On](https://open.spotify.com/track/5P9L6Lwn554rAghcirqSb7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Hang On](https://open.spotify.com/album/1g5FALWbfCBmpiVqFvWiKO) | 3:30 | 2024-02-17 |  |
 | [Harrier](https://open.spotify.com/track/54Bndjd2POuVatVLeDLrqL) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H), [Mize](https://open.spotify.com/artist/31uPFWR7sBQ3dcZ8y8zOzY) | [Prometheus](https://open.spotify.com/album/0WY7RIobcQZrXAHtyY5n8z) | 3:45 | 2021-09-25 | 2022-04-16 |
 | [Havana](https://open.spotify.com/track/2JOuajm5j2G1DBmXxjxgpV) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Havana / Shaking](https://open.spotify.com/album/7un3dvUIOGZmVmNKYGyWGN) | 3:39 | 2022-09-17 | 2022-10-17 |
 | [Head Rearranger](https://open.spotify.com/track/7HSnE5WcCrebbcZWTnTiPg) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Gallery Of Sound](https://open.spotify.com/album/78h5TmDIvJ6rBgLA3zOhoS) | 3:18 | 2023-06-09 | 2024-01-14 |

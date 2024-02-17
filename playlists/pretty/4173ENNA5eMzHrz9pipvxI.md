@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Don Diablo x Mearsy x RBZ
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,862 likes - 26 songs - 1 hr 12 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,861 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Physique \(feat\. RBZ\)](https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [RBZ](https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL) | [Physique \(feat\. RBZ\)](https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ) | 2:58 |
-| 2 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |
-| 3 | [Say It Right](https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Say It Right](https://open.spotify.com/album/3G61YNQMtrN1LCyiJocIJp) | 2:55 |
-| 4 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
-| 5 | [Underground](https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Underground](https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz) | 3:31 |
-| 6 | [My Illusion](https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Massi Rocket](https://open.spotify.com/artist/1qAjEEpWpE4dI2sDPeTwtl) | [My Illusion](https://open.spotify.com/album/7f6P5PDtSHxWGk4DcgG1PD) | 3:17 |
-| 7 | [Nikes On](https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes On](https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH) | 2:35 |
+| 2 | [Nikes On](https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes On](https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH) | 2:35 |
+| 3 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |
+| 4 | [Say It Right](https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Say It Right](https://open.spotify.com/album/3G61YNQMtrN1LCyiJocIJp) | 2:55 |
+| 5 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
+| 6 | [Underground](https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Underground](https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz) | 3:31 |
+| 7 | [My Illusion](https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Massi Rocket](https://open.spotify.com/artist/1qAjEEpWpE4dI2sDPeTwtl) | [My Illusion](https://open.spotify.com/album/7f6P5PDtSHxWGk4DcgG1PD) | 3:17 |
 | 8 | [Finally](https://open.spotify.com/track/329JBDKFLtiMA5aeKmRi1l) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Finally](https://open.spotify.com/album/4GYXFokiQ37XDf1m26cQvg) | 2:38 |
 | 9 | [All Night](https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [gritney](https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d) | [All Night](https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ) | 3:15 |
 | 10 | [Move It](https://open.spotify.com/track/2lfNpKFme8VsEUAddq1zOG) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/21rVLnpqNomTcw2e1gTkg2) | 2:41 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 25 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 |
 | 26 | [1001 Nights](https://open.spotify.com/track/1xB46SSVfV5wXqrbz4NSUN) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [1001 Nights](https://open.spotify.com/album/0OMnm0euox8G0i7TeaZKl5) | 3:00 |
 
-Snapshot ID: `NzM3OCwyZDUwYmM2YWU1ZmY2YWQxMTNmYjI1NjljYTNjMTc2YzA3ZDNkM2Ew`
+Snapshot ID: `NzM4MSxkYmVkYjY5NjY2NGEwNzI1OTRhNTQ0YWFjYjY4NjM3NDNmMWYxMzcz`

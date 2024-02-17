@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "ZARAMAY en la casa del Trap Argentino.",
+  "description": "Muerejoven en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 153600,
       "name": "Sin Seguro",
       "url": "https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 138397,
       "name": "SUBID\u00d3N",
       "url": "https://open.spotify.com/track/1ssssn5yKcbad3IDFHMON4"
@@ -5062,6 +5062,24 @@
       "duration_ms": 194484,
       "name": "TODO AUTOMATICO",
       "url": "https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT"
+    },
+    {
+      "album": {
+        "name": "TODOMAL",
+        "url": "https://open.spotify.com/album/5rw89PPLx8jwrynGPo6SuO"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140518,
+      "name": "TODOMAL",
+      "url": "https://open.spotify.com/track/0oMe5gc2xivlK9w6Ndth1l"
     },
     {
       "album": {
@@ -5702,6 +5720,24 @@
       "duration_ms": 206470,
       "name": "Vigente",
       "url": "https://open.spotify.com/track/0EJjw2F8pprvoeTynVr5C6"
+    },
+    {
+      "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
     },
     {
       "album": {

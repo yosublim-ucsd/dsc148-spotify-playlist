@@ -1,18 +1,18 @@
 {
   "description": "A playlist of all our songs released so far. Our new album Faith Crisis Pt 1 is out February 16! <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
-  "num_followers": 2816,
-  "original_name": "Middle Kids - Complete Collection",
+  "num_followers": 2826,
+  "original_name": "Faith Crisis Pt 1",
   "owner": {
     "name": "middle_kids_official",
     "url": "https://open.spotify.com/user/middle_kids_official"
   },
-  "snapshot_id": "OTgsZDE5ZWRjZWE2NDQ3ZDY5ZWQ4OGQ4MzFkZDk1MDA4ZjgzODMzNGJmOA==",
+  "snapshot_id": "MTE1LGRhY2Q4NDVjNDk1YzJkNWM2MzU3OGY5Mjg1MmEyMjg2MDY3ZWQzM2I=",
   "tracks": [
     {
-      "added_at": "2024-01-10 21:06:50",
+      "added_at": "2024-02-16 19:53:47",
       "album": {
-        "name": "Terrible News",
-        "url": "https://open.spotify.com/album/70zACGm4dI32ax2vGKB37m"
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
       },
       "artists": [
         {
@@ -20,15 +20,95 @@
           "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Terrible News",
-      "url": "https://open.spotify.com/track/2uyO1FusmMcWZjb7vW1MUb"
+      "duration_ms": 105270,
+      "name": "Petition",
+      "url": "https://open.spotify.com/track/500MCzxLwSSy5gXP9KIRCw"
     },
     {
-      "added_at": "2023-11-30 00:26:22",
+      "added_at": "2024-02-16 19:53:47",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/5mCgcfrf4MYYZBPUWW2z3n"
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/6qAhqNDJjcqfOHZiz7xZkl"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 196916,
+      "name": "The Blessings",
+      "url": "https://open.spotify.com/track/1xRZ8mzrpL7q5G7aU6PYt4"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 74582,
+      "name": "The Blessings Interlude",
+      "url": "https://open.spotify.com/track/2saxTZrsyMsc0Hq337Xcd3"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 200457,
+      "name": "Bootleg Firecracker",
+      "url": "https://open.spotify.com/track/0bq8IO9XsMPyGle50aDRkT"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/2AXKuCbNVIFHBdVHeRoGOG"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
       },
       "artists": [
         {
@@ -38,7 +118,107 @@
       ],
       "duration_ms": 230217,
       "name": "Bend",
-      "url": "https://open.spotify.com/track/1fbPnleK6PXE6hCRTtOJyw"
+      "url": "https://open.spotify.com/track/3Evc9pXwrrIU484uOxQNgg"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Go To Sleep On Me",
+      "url": "https://open.spotify.com/track/0AGAY1i1j6x6ywkEYynDSt"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Terrible News",
+      "url": "https://open.spotify.com/track/4VyhSamAmpdiAIXgOgVUow"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 174484,
+      "name": "Philosophy",
+      "url": "https://open.spotify.com/track/0IAG0VI6pp6rxsJTY3Dvuy"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Your Side, Forever",
+      "url": "https://open.spotify.com/track/0cC6Q4rwZIDAqa2SsCj0NT"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 94126,
+      "name": "Your Side Interlude",
+      "url": "https://open.spotify.com/track/3FcgXAkSkAh6s3PKs0BVHR"
+    },
+    {
+      "added_at": "2024-02-16 19:53:47",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        },
+        {
+          "name": "Dave Le\u2019aupepe",
+          "url": "https://open.spotify.com/artist/2hZim6SlX56ihBJRZnma62"
+        }
+      ],
+      "duration_ms": 190715,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/5wN2jQWIrCGjWT5bOL2WFg"
     },
     {
       "added_at": "2023-11-10 01:29:05",
@@ -55,54 +235,6 @@
       "duration_ms": 169663,
       "name": "Driving Home For Christmas",
       "url": "https://open.spotify.com/track/0925QFUNbnMnKAxJYvrA1g"
-    },
-    {
-      "added_at": "2023-10-18 07:50:32",
-      "album": {
-        "name": "Dramamine",
-        "url": "https://open.spotify.com/album/6dUKX72wa2AEqAAb7psXIs"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/0z0xgpdkvzjJdylAlILbzE"
-    },
-    {
-      "added_at": "2023-05-30 07:00:37",
-      "album": {
-        "name": "Bootleg Firecracker",
-        "url": "https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 200457,
-      "name": "Bootleg Firecracker",
-      "url": "https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC"
-    },
-    {
-      "added_at": "2023-07-26 08:41:27",
-      "album": {
-        "name": "Highlands",
-        "url": "https://open.spotify.com/album/4Pib10N1DbpntGSE2qv8aW"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I"
     },
     {
       "added_at": "2023-09-20 20:40:08",
@@ -681,6 +813,6 @@
       "url": "https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B"
     }
   ],
-  "unique_name": "Middle Kids - Complete Collection",
+  "unique_name": "Faith Crisis Pt 1",
   "url": "https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ"
 }

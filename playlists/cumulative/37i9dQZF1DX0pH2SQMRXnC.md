@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-683 songs - 1 day 15 hr 25 min
+684 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Horrorshow](https://open.spotify.com/track/7j3yHIUcCQzuQv3fiQp4BN) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Horrorshow](https://open.spotify.com/album/1Dv5tHT8KndXXPwubxunDS) | 3:25 | 2022-05-23 | 2022-05-30 |
 | [How Far Can You Go](https://open.spotify.com/track/4tlvXAbJi9rEZfbtjevLn5) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Final Day](https://open.spotify.com/artist/5ADZt1NEbf0ImRvacK9kDl) | [How Far Can You Go](https://open.spotify.com/album/6QQ9fTIQWHmnwqER7TeWWA) | 3:30 | 2024-02-14 |  |
 | [Human Error](https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN) | [Human Error](https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5) | 2:22 | 2023-02-23 | 2024-02-11 |
+| [Human Error](https://open.spotify.com/track/3OBRKvtaxmh64E15OgIuif) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj) | [Human Error](https://open.spotify.com/album/7x441M6ZTvLgD4Z4BD5Vf1) | 2:22 | 2024-02-14 |  |
 | [Hunters Lullaby 2020](https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY) | [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic) | [Hunters Lullaby 2020](https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv) | 2:53 | 2022-07-22 |  |
 | [Hunters Lullaby 2020](https://open.spotify.com/track/1bBulMudM0DHxcYHnEXEiq) | [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic) | [Hunters Lullaby 2020](https://open.spotify.com/album/0i5gJYigY7VPKGQ9nvxuyt) | 2:53 | 2021-12-16 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/6eyuU00bw19YhHGhvbLKcr) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [We Rule The Night](https://open.spotify.com/album/0PWPBGsa0h5E6YVVGLRV38) | 4:55 | 2021-12-16 | 2022-07-29 |
@@ -683,7 +684,7 @@
 | [WKND!](https://open.spotify.com/track/76e9eoJxKRoQhutO5CvDqX) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [WKND!](https://open.spotify.com/album/60ghuelB3S5nXjgOXn8Gh0) | 3:55 | 2022-08-18 |  |
 | [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-16 | 2023-10-18 |
 | [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-16 |  |
-| [Wolves](https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Wolves](https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn) | 4:30 | 2021-12-16 |  |
+| [Wolves](https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Wolves](https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn) | 4:30 | 2021-12-16 | 2024-02-17 |
 | [World Renowned](https://open.spotify.com/track/6LNfKW19l2ETXWiOlguLf7) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [World Renowned](https://open.spotify.com/album/2uinWwpikeoeBKG0dsOeZs) | 3:15 | 2021-12-16 | 2022-07-17 |
 | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9) | 3:08 | 2023-11-09 |  |
 | [XTC](https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [XTC](https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj) | 2:39 | 2023-06-30 | 2023-11-12 |

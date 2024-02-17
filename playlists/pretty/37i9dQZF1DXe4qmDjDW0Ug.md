@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,361 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Addio](https://open.spotify.com/track/1My0WdX6NNKCjN1BuP44o8) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Addio](https://open.spotify.com/album/1edy6Z8uDoMpdyElVk7bLx) | 4:05 |
 | 50 | [Love Ballad](https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Browneyed Soul](https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j) | 5:01 |
 
-Snapshot ID: `MCw0NmFkNjdhY2YzOTU5NTRhNmMxMDVkMTk4OGI4ZWI5NDJkNzVmODY3`
+Snapshot ID: `MCw0ZGVhZTg5MDQ4MGU2ZTJlNWUxNDI5Mzg2YTc4ZDIyYjE0MzJmNWFl`

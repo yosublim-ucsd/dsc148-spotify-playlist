@@ -1,13 +1,45 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 974891,
+  "num_followers": 974874,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmZjOTEyNzY1YTI0ZDJmNmFkM2FjNGJhOTViZjJkNDc0MjIxNDE2",
+  "snapshot_id": "MCwwOTc4MDU4MzRlZDI1MGI5NDlhNWU0YTUxMjYzOWQ2MTE4ODYwZTE1",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "LOVE NEVER FELT LIKE THIS",
+      "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 338195,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7"
+    },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+    },
+    {
       "added_at": "2024-02-01 05:00:00",
       "album": {
         "name": "Turn the Lights Back On",
@@ -39,6 +87,54 @@
       "duration_ms": 238939,
       "name": "Turn the Lights Back On",
       "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Nu King",
+        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 179998,
+      "name": "U + I",
+      "url": "https://open.spotify.com/track/7I3SL3UA8YUP7eVSZQNFz9"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Shape of Your Heart",
+        "url": "https://open.spotify.com/album/5FWCQmkZYZMw7dDbcJLnER"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Wells",
+          "url": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
+        }
+      ],
+      "duration_ms": 206534,
+      "name": "Shape of Your Heart",
+      "url": "https://open.spotify.com/track/0f1E6odUPkerrBdVUFMnTw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Don't Let Me Let You Go",
+        "url": "https://open.spotify.com/album/2jWlfS0VBAOhiadMo0Dlgh"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 218405,
+      "name": "Don't Let Me Let You Go",
+      "url": "https://open.spotify.com/track/1UfCol96gYdamSjGtJtg7p"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -283,8 +379,8 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Really Mean It",
-        "url": "https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn"
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
       },
       "artists": [
         {
@@ -294,7 +390,7 @@
       ],
       "duration_ms": 194262,
       "name": "Really Mean It",
-      "url": "https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC"
+      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -559,22 +655,6 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1045,22 +1125,6 @@
       "url": "https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 205531,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
-    },
-    {
       "added_at": "2023-10-13 04:01:00",
       "album": {
         "name": "Mirror (Deluxe)",
@@ -1349,54 +1413,6 @@
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/7DYab8h54P3zoSRHvtz2KW"
-      },
-      "artists": [
-        {
-          "name": "Busby Marou",
-          "url": "https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO"
-        }
-      ],
-      "duration_ms": 195224,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7aZKi11FXlc8v1tbr4Pekw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "ok with it",
-        "url": "https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165793,
-      "name": "ok with it",
-      "url": "https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "I'm trying",
-        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "I'm trying",
-      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Silly Me",
@@ -1631,22 +1647,6 @@
       "duration_ms": 154285,
       "name": "What is Love (feat. End of the World)",
       "url": "https://open.spotify.com/track/608iVMdcMUb8Hz3rmFqUL7"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "you don't love me anymore",
-        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "you don't love me anymore",
-      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
     },
     {
       "added_at": "2023-09-08 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Ivandro escolhe as músicas, ele decide!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,198 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,216 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [Honesto \(Faroeste\)](https://open.spotify.com/track/6uGGjOmsyH4iSpG3tZfW6W) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [BELLA SAINT](https://open.spotify.com/artist/4smL5IyxleZm2uUsmj7fpI) | [Honesto \(Faroeste\)](https://open.spotify.com/album/72BJO5d7IEQaJjLiX0n4NA) | 3:40 |
 | 80 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 
-Snapshot ID: `MCxlNzBjNzgxNDQxY2E5ZTY3MTg3OTRkOGFhYzEzMGY2NzhjOTA5YjRj`
+Snapshot ID: `MCw1YTYwMmY5ZDZjMzBmZGIxNmUyNzk5MDk1YTBiZjE5ODY1MjJmNWU1`

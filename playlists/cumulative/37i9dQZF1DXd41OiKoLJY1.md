@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Alexis Gildore Artwork: Isu Kim
 
-2,067 songs - 5 day 2 hr 27 min
+2,068 songs - 5 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,6 +1033,7 @@
 | [Lia](https://open.spotify.com/track/7d2drbGf972RBdYfgkpdy5) | [Persii Dijor](https://open.spotify.com/artist/4o19E9lVTAB2PJafVLsorO) | [Lia](https://open.spotify.com/album/5XwBLmExD09sEE4h7nyYdp) | 3:10 | 2022-02-10 | 2022-04-01 |
 | [Libak!!!](https://open.spotify.com/track/7rg09sHXnHorvYXi3xgoGk) | [Vince Lucero](https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq) | [Libak!!!](https://open.spotify.com/album/3iKZdHKAjKJKhNGXHHKWbi) | 2:55 | 2023-06-29 | 2023-07-21 |
 | [Lies Right](https://open.spotify.com/track/2nAqkahSnYFjNkLwbvS2AY) | [Cosmo Iso](https://open.spotify.com/artist/60hDJ4a0wGQz7hDTPdOara), [Allyssa Mendoza](https://open.spotify.com/artist/047Eze7PVutYABSzrfXJUo) | [Lies Right](https://open.spotify.com/album/46UPftBNFoZFDZhCfjTxtp) | 4:29 | 2022-09-08 | 2022-11-25 |
+| [Lifeless Bride](https://open.spotify.com/track/372YvM94VasUh1nMRqZ3L3) | [Jinji](https://open.spotify.com/artist/0kyrxsWE8RiAyczmTcrjt1) | [Lifeless Bride](https://open.spotify.com/album/2Tu1uNrx7pJNLYY4sMwtoi) | 3:30 | 2024-02-15 |  |
 | [LIFESTYLE](https://open.spotify.com/track/5xClbPvDeUdvh6THn7XTCi) | [Ludacr1t](https://open.spotify.com/artist/5jCQP9Cf49cPaa120Yi4cD), [Middas](https://open.spotify.com/artist/0owJAVoC3bHFIfkKvb1qoo) | [LIFESTYLE](https://open.spotify.com/album/6lPLjqTGGXcEYzlCjos8Qo) | 2:42 | 2022-10-13 | 2022-12-01 |
 | [Lifestyle](https://open.spotify.com/track/6eStfOmzMQYwvIHUHsyI7a) | [SL!CKG](https://open.spotify.com/artist/1shlr6AxmzQTYKtniY5U1w), [N.Koala](https://open.spotify.com/artist/0abAfpXlI4XfmrxompjNzZ) | [Lifestyle](https://open.spotify.com/album/2A83acuLQi6wJHjN8EuqiD) | 3:22 | 2023-06-22 | 2023-07-07 |
 | [Ligaw](https://open.spotify.com/track/0WFdaLaZtuyKernfZM3mW3) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49) | [Ligaw](https://open.spotify.com/album/5eK1EC9xArtD3zWqZi8tA6) | 3:04 | 2024-01-11 | 2024-02-09 |

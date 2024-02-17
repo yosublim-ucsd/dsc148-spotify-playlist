@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-1,563 songs - 3 day 10 hr 9 min
+1,564 songs - 3 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,7 +1117,8 @@
 | [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 | 2023-05-26 | 2023-08-19 |
 | [Real Thing \(feat\. Elohim\)](https://open.spotify.com/track/5wb8h2gUzyhmCwOtGp29z4) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Real Thing \(feat\. Elohim\)](https://open.spotify.com/album/6BelAZUC4yUO1wVouRJNmN) | 3:05 | 2021-12-24 | 2022-01-01 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 | 2022-04-09 |
-| [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 | 2024-01-19 |  |
+| [Really Mean It](https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 3:14 | 2024-01-19 |  |
+| [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 | 2024-01-19 | 2024-02-17 |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-10-20 | 2023-12-02 |
 | [reason](https://open.spotify.com/track/4Ec5sEqxjEC2mrX9JSAuIP) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [reason](https://open.spotify.com/album/6BAf0M7T4Bin94QE2n5jeP) | 2:22 | 2023-07-07 | 2023-08-12 |
 | [Reasons](https://open.spotify.com/track/4kPV7Tx30Ph0tQ4XrhgYCh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Reasons](https://open.spotify.com/album/5QWym2ctJvsr8pDCS38F9Y) | 2:42 | 2021-01-23 | 2021-07-17 |

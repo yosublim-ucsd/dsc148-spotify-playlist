@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 951597,
+  "2024-02-17": 952073,
   "date_first_scraped": "2021-12-28",
   "description": "Bollywood crooner's essential songs.",
   "name": "This Is Arijit Singh",
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho",
       "url": "https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 289333,
       "name": "Channa Mereya (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
@@ -825,6 +825,32 @@
       "duration_ms": 290548,
       "name": "Daayre",
       "url": "https://open.spotify.com/track/0OQzbOu5JGo2LgtwJI04zO"
+    },
+    {
+      "album": {
+        "name": "Rustom (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78QGeq3kPu6bBNpYXUAR60"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207751,
+      "name": "Dekha Hazaro Dafaa",
+      "url": "https://open.spotify.com/track/190P8pyw8J4gr6ygwUlG3z"
     },
     {
       "album": {
@@ -899,6 +925,32 @@
       "duration_ms": 239835,
       "name": "Dil Haareya",
       "url": "https://open.spotify.com/track/7IAQHk6RJXzBm07yJHFoXf"
+    },
+    {
+      "album": {
+        "name": "Gadar 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304133,
+      "name": "Dil Jhoom",
+      "url": "https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7"
     },
     {
       "album": {
@@ -995,7 +1047,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 213632,
       "name": "Enna Sona",
       "url": "https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO"
@@ -1547,6 +1599,28 @@
       "duration_ms": 280281,
       "name": "Khairiyat",
       "url": "https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20"
+    },
+    {
+      "album": {
+        "name": "Chhichhore",
+        "url": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Khairiyat (Bonus Track)",
+      "url": "https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk"
     },
     {
       "album": {
@@ -2184,6 +2258,28 @@
     },
     {
       "album": {
+        "name": "Kedarnath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341823,
+      "name": "Qaafirana",
+      "url": "https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff"
+    },
+    {
+      "album": {
         "name": "Raat Akeli Thi (From \"Merry Christmas\")",
         "url": "https://open.spotify.com/album/40ALq3h2KYRC5fTkgBz8uv"
       },
@@ -2675,7 +2771,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 346290,
       "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
@@ -2837,7 +2933,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 272869,
       "name": "Tu Har Lamha",
       "url": "https://open.spotify.com/track/2EPOgSRhA90xWGVtNZwEv8"
@@ -3087,6 +3183,28 @@
       "duration_ms": 313600,
       "name": "Yaariyan (reprise)",
       "url": "https://open.spotify.com/track/2pvaCuTrMVS6byOHCIQyHj"
+    },
+    {
+      "album": {
+        "name": "Raees (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Zaalima",
+      "url": "https://open.spotify.com/track/1J9vyEntJ79CppvgUxJs75"
     },
     {
       "album": {

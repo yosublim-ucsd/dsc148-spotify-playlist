@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 455,
+  "num_followers": 456,
   "original_name": "Dominique's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTQyMzg1ZmY0YmFkYjFjNTliNzBjODExNGNlYzgxODczZTgzN2U5",
+  "snapshot_id": "MCxhOTYyMDBjN2M1YjJiYjM3ZTkyZmE2MDhiMGYxYWI0ZTE1OGMyNGZl",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 315598,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 315598,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Pray It Away",
-        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 156073,
-      "name": "Pray It Away",
-      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "With A Lot O' Soul",
         "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 149493,
       "name": "(I Know) I'm Losing You",
       "url": "https://open.spotify.com/track/6y8o4V2R2dSt2ijgL8C72W"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Pray It Away",
+        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "Pray It Away",
+      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
     },
     {
       "added_at": "2023-06-01 04:00:00",

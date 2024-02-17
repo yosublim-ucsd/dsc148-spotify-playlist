@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 904212,
+  "num_followers": 904160,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx",
+  "snapshot_id": "MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Struny",
-        "url": "https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB"
-      },
-      "artists": [
-        {
-          "name": "Jana Kirschner",
-          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
-        }
-      ],
-      "duration_ms": 237597,
-      "name": "Struny",
-      "url": "https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 299560,
       "name": "\u8a00\u4e0d\u7531\u8877",
       "url": "https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Struny",
+        "url": "https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB"
+      },
+      "artists": [
+        {
+          "name": "Jana Kirschner",
+          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+        }
+      ],
+      "duration_ms": 237597,
+      "name": "Struny",
+      "url": "https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV"
     },
     {
       "added_at": "2024-02-07 13:26:59",

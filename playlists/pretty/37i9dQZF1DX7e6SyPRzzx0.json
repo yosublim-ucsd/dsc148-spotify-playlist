@@ -1,13 +1,33 @@
 {
-  "description": "Open that sh*t up! Cover: Rich Amiri",
-  "num_followers": 52584,
+  "description": "Cover: Yeat",
+  "num_followers": 52656,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTg5NTVjOGViY2U5NGY0YTlhNzY2NzQxMGM4Mzc3OWYwYTk5NjRk",
+  "snapshot_id": "MCxmNGE2NDhmMGFmMDk0ZjYxNDBiMTJmY2MyMjZjZWU2OTdhYzQ1MWRk",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Stand On It (with Future)",
+      "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
+    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -49,6 +69,22 @@
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
+    },
+    {
       "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "Osama Season",
@@ -63,6 +99,70 @@
       "duration_ms": 57029,
       "name": "X & Sex",
       "url": "https://open.spotify.com/track/4EwwfFCckvI9uM0nEVVDa0"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150401,
+      "name": "Fighting My Demons",
+      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "kingtut",
+        "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "kingtut",
+      "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 97769,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/1pDbGAAH5GQ8U0KG4fI77H"
+    },
+    {
+      "added_at": "2024-02-16 20:57:41",
+      "album": {
+        "name": "lonely boy (deluxe edition)",
+        "url": "https://open.spotify.com/album/436V8ojzFS3ZadTeK3GPVZ"
+      },
+      "artists": [
+        {
+          "name": "Scrim",
+          "url": "https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "#scrimjustwannahavefun",
+      "url": "https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -83,58 +183,6 @@
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 97769,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/1pDbGAAH5GQ8U0KG4fI77H"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150401,
-      "name": "Fighting My Demons",
-      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -173,22 +221,6 @@
       "url": "https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "kingtut",
-        "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "kingtut",
-      "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
-    },
-    {
       "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "If Looks Could Kill",
@@ -203,6 +235,26 @@
       "duration_ms": 194213,
       "name": "if looks could kill",
       "url": "https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -271,22 +323,6 @@
       "duration_ms": 175716,
       "name": "Lyfe",
       "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "lonely boy",
-        "url": "https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB"
-      },
-      "artists": [
-        {
-          "name": "Scrim",
-          "url": "https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy"
-        }
-      ],
-      "duration_ms": 143108,
-      "name": "maserati slick",
-      "url": "https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -647,6 +683,22 @@
       "duration_ms": 137142,
       "name": "buku (feat. SoFaygo)",
       "url": "https://open.spotify.com/track/7wiTIiyRb0dtjCCIm4RMSJ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "lonely boy",
+        "url": "https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB"
+      },
+      "artists": [
+        {
+          "name": "Scrim",
+          "url": "https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy"
+        }
+      ],
+      "duration_ms": 143108,
+      "name": "maserati slick",
+      "url": "https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS"
     },
     {
       "added_at": "2023-12-01 03:00:00",

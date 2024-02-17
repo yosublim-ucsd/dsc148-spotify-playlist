@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 11127,
+  "num_followers": 11141,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODY1MmE2ZmY3NmE0OWYxOTFhYzBmZDhhMzBlNjgyYTMzYjkzOGZm",
+  "snapshot_id": "MCw4NDEzZDhjYjRkZGI2MGNlNmY2MjZkMzg3NDI5Y2VkMzE3MDYwZjU0",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Thunder In Madeira",
-        "url": "https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f"
-      },
-      "artists": [
-        {
-          "name": "Traveling Sounds",
-          "url": "https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Rainy Forest",
-      "url": "https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 273819,
       "name": "Pouring River & Forest Sounds",
       "url": "https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Thunder In Madeira",
+        "url": "https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f"
+      },
+      "artists": [
+        {
+          "name": "Traveling Sounds",
+          "url": "https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Rainy Forest",
+      "url": "https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN"
     },
     {
       "added_at": "2023-06-19 12:57:37",

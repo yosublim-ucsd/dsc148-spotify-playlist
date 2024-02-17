@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55169,
+  "num_followers": 55189,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmI4ZWE0MjQ2NGEzMDIxODUyMDQzNTRlMjhiZDk4ZmZkNTliODEy",
+  "snapshot_id": "MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "DEJAVU PRIMAVERA",
-        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "DESLIGA O TELEFONE",
-      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "\u00cdn.ti.mo",
         "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 187954,
       "name": "PFP (para fazer pretinhos)",
       "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "DEJAVU PRIMAVERA",
+        "url": "https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "DESLIGA O TELEFONE",
+      "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 200281,
       "name": "Perfeita Demais",
       "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-02-02 03:01:00",

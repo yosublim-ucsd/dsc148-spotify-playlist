@@ -4,7 +4,7 @@
 
 > 
 
-1,141 songs - 2 day 15 hr 58 min
+1,143 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Climax](https://open.spotify.com/track/6w1hZzdWXvb08Q5N1ZTbYF) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 2:33 | 2022-08-10 |  |
 | [Climax \- Extended Mix](https://open.spotify.com/track/1AJPtcPDWsSEsuJSxGFLp6) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:37 | 2022-08-11 |  |
 | [CLOSE TO ME](https://open.spotify.com/track/4NExSqYRMs8F8sjvZStZBQ) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [CLOSE TO ME](https://open.spotify.com/album/6CqJuCUJXzJIpEfZ2jdLJo) | 3:01 | 2023-09-06 |  |
+| [Close Your Eyes](https://open.spotify.com/track/24qnpPIyJS3Fln8QxQbHkw) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Close Your Eyes](https://open.spotify.com/album/5UrK2k95i2woPaGkV3ILgs) | 3:15 | 2024-02-16 |  |
 | [Cocaïne Bear](https://open.spotify.com/track/4JX4MNQP4oyQPGcO2H0gAD) | [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [I Am Frenchcore 13](https://open.spotify.com/album/4lvMC9qCt7b9SgzVpxAzya) | 4:09 | 2023-06-24 |  |
 | [Collab One](https://open.spotify.com/track/1z9Q3Z9yroCb4RyMpsXNN3) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Collab One](https://open.spotify.com/album/6MXNCYHBITJDdVtbNMquJp) | 2:52 | 2023-05-01 |  |
 | [Colorful Beat](https://open.spotify.com/track/2hMi08697bmdUVXOxabQ88) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Yume\(CV:Oda Karin\)](https://open.spotify.com/artist/0IzBLBBVUBC37eOywLJnJq), [Yu\(CV:Takatsuki Miyuu\)](https://open.spotify.com/artist/3EV38xC3L5KAeKyQjhoEv3) | [Colorful Beat](https://open.spotify.com/album/7Eb3aFzgBo2pap0rpMMfQ3) | 2:16 | 2023-11-13 |  |
@@ -1030,6 +1031,7 @@
 | [Tripping On Acid](https://open.spotify.com/track/5imuHEsTDGKVU58cn3Layx) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [Rave Therapy](https://open.spotify.com/album/6LHiJy9NdPEiu37X1qxT3u) | 2:34 | 2023-08-07 |  |
 | [Tripping on Mushrooms \- Alaguan Remix](https://open.spotify.com/track/4MjWhtAQaWJbWb0UcqqpHZ) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/3qYt5zzf9B414wKsDhrtaO), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Tripping on Mushrooms \(Alaguan Remix\)](https://open.spotify.com/album/3AsORzxrS1qXlYsFrokdWK) | 3:06 | 2022-04-01 |  |
 | [True Hero](https://open.spotify.com/track/12efilBeQdVXyKSAO6OT00) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [SUPER DREAM ZONE](https://open.spotify.com/album/27aqHsyJkGQsfw1MSiQSmz) | 2:16 | 2022-09-28 |  |
+| [Turn It Up](https://open.spotify.com/track/5ZWHce6qfANIfSxluat1n3) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4), [TRD](https://open.spotify.com/artist/4CWIqZRmIbMeKlr3jjE0vz), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [AI](https://open.spotify.com/album/4SVDTsXjIw3X3PO37une5v) | 2:35 | 2024-02-16 |  |
 | [Turn It Up](https://open.spotify.com/track/42bRSZobB5PrsvFYAXKeqe) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [Turn It Up](https://open.spotify.com/album/7xH1EHJrCwB8emBDvx0A6g) | 2:58 | 2023-10-24 |  |
 | [Turn It Up Loud](https://open.spotify.com/track/2U7SWa52sIDpIFrjrfMrT7) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Turn It Up Loud](https://open.spotify.com/album/3jHhdNMPtIDZSVp7DcF6pQ) | 4:09 | 2022-08-14 |  |
 | [Tutti Rutti](https://open.spotify.com/track/1p1oRgpvthwtOAtt48r1Dy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Hungry Beats](https://open.spotify.com/artist/4120OK88Qq7ipIhxGHpHEY) | [Tutti Rutti](https://open.spotify.com/album/4lJQbfLroaRc6EK8cXxE02) | 2:13 | 2022-09-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: ReoNa",
-  "num_followers": 153083,
+  "num_followers": 153157,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U3MDQwN2ViOWNlMWU4M2JiZmFhMmRlYzZmNDkyMWI4YzdlNjJi",
+  "snapshot_id": "MCw5M2FhZWM0NmExOWU5MDVmMDY1ZjRlZTY0NDQwYzExNzkwYmRhZjg5",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "TAILWIND",
-        "url": "https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F"
-      },
-      "artists": [
-        {
-          "name": "TrySail",
-          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
-        }
-      ],
-      "duration_ms": 274146,
-      "name": "adrenaline!!!",
-      "url": "https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "SARIGIWA NO ROMANTICS",
         "url": "https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 276160,
       "name": "SARIGIWA NO ROMANTICS",
       "url": "https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "TAILWIND",
+        "url": "https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "duration_ms": 274146,
+      "name": "adrenaline!!!",
+      "url": "https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "Y\u263au & I",
-        "url": "https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO"
-      },
-      "artists": [
-        {
-          "name": "Mai Kuraki",
-          "url": "https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9"
-        }
-      ],
-      "duration_ms": 209766,
-      "name": "Y\u263au & I",
-      "url": "https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "Gotoubun no Hanayome ~Arigatou no Hana~",
         "url": "https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI"
       },
@@ -843,18 +827,42 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "\u30b7\u30e5\u30ac\u30fc\u30b9\u30dd\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg"
+        "name": "Y\u263au & I",
+        "url": "https://open.spotify.com/album/6rTLAKWlNYHIDTdJW7lgdO"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "Mai Kuraki",
+          "url": "https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9"
         }
       ],
-      "duration_ms": 230019,
-      "name": "\u30b7\u30e5\u30ac\u30fc\u30b9\u30dd\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq"
+      "duration_ms": 209766,
+      "name": "Y\u263au & I",
+      "url": "https://open.spotify.com/track/657ejjdXyOZakkC1S1cgKV"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj"
+      },
+      "artists": [
+        {
+          "name": "Kanako Kishi",
+          "url": "https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k"
+        },
+        {
+          "name": "Mashiro Uchida",
+          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
+        },
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "duration_ms": 161166,
+      "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
     }
   ],
   "unique_name": "EQUAL Anime",

@@ -4,11 +4,12 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-160 songs - 15 hr 23 min
+161 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#7](https://open.spotify.com/track/65dEGtv5Yb6WjxBIGdNEXg) | [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [\#7](https://open.spotify.com/album/5g6wIyqWZk0c2YJ4NpHd1a) | 6:15 | 2023-08-14 |  |
+| [\#9 Venus The Living Myth](https://open.spotify.com/track/5vA1ZAu2uVXoUbaK1fid2N) | [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Marshall Allen](https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58) | [\#9 Venus The Living Myth](https://open.spotify.com/album/4d4LXLXh5JK0vPFNpxRyc4) | 6:30 | 2024-02-16 |  |
 | [1 Year After](https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/0YXx0QiakZPw1TsJ255jIK) | 9:39 | 2021-04-02 |  |
 | [1 Year After](https://open.spotify.com/track/2ESNUCUGGow1e3l8Aaer3s) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/6seJG4OX3qA8i6mWsGT3BZ) | 9:39 | 2021-04-02 | 2022-07-29 |
 | [9mm](https://open.spotify.com/track/6kpFlaIqCSmq6SlAnuVJdO) | [Zoocrü](https://open.spotify.com/artist/6SfbOmjyTe87v7Wgzib1aV) | [9mm](https://open.spotify.com/album/67ZNEbV7U3AyvMgrK5D7vu) | 5:28 | 2021-02-12 |  |

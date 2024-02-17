@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Ishq Hua (Love Happened)",
+        "url": "https://open.spotify.com/album/0lz6TWytsI9SKtENs2A4ue"
+      },
+      "artists": [
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174382,
+      "name": "Ishq Hua (Love Happened)",
+      "url": "https://open.spotify.com/track/5ocxKvCTMUeqjrECZaSgOt"
+    },
+    {
+      "album": {
         "name": "Jaipur",
         "url": "https://open.spotify.com/album/5TVhrNGLGRo02hs916Bmx5"
       },

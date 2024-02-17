@@ -1,8 +1,8 @@
 {
-  "2024-02-16": 74737,
+  "2024-02-17": 74892,
   "date_first_scraped": "2023-05-02",
-  "description": "M\u00fasica ambient con sonidos relajantes de agua, lluvia y aves.",
-  "name": "Relajaci\u00f3n natural",
+  "description": "Ambient with the soothing sounds of water, rain and birds. ",
+  "name": "Nature Relaxation",
   "tracks": [
     {
       "album": {
@@ -579,6 +579,24 @@
       "duration_ms": 218000,
       "name": "Dedication To Calm",
       "url": "https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1"
+    },
+    {
+      "album": {
+        "name": "Deep Forest",
+        "url": "https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155738,
+      "name": "Deep Forest",
+      "url": "https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV"
     },
     {
       "album": {
@@ -1234,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Wave Hands Like Clouds",
+        "url": "https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcdi Siebert",
+          "url": "https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "Inside the Heart",
+      "url": "https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX"
+    },
+    {
+      "album": {
         "name": "Invitado De La Naturaleza",
         "url": "https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk"
       },
@@ -1249,6 +1285,24 @@
       "duration_ms": 213172,
       "name": "Invitado De La Naturaleza",
       "url": "https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN"
+    },
+    {
+      "album": {
+        "name": "Janai",
+        "url": "https://open.spotify.com/album/24itL7dI8Nnws6rpTFrLv1"
+      },
+      "artists": [
+        {
+          "name": "Arch",
+          "url": "https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Janai",
+      "url": "https://open.spotify.com/track/0FE4eD4T4bDvdrItF6xnZ1"
     },
     {
       "album": {
@@ -2300,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "Spa Rituals",
+        "url": "https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb"
+      },
+      "artists": [
+        {
+          "name": "Ayivah",
+          "url": "https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151654,
+      "name": "Spa Rituals",
+      "url": "https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP"
+    },
+    {
+      "album": {
         "name": "Sub Nubibus",
         "url": "https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3"
       },
@@ -2661,6 +2733,24 @@
       "duration_ms": 165690,
       "name": "Verdure",
       "url": "https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U"
+    },
+    {
+      "album": {
+        "name": "Vibo Nuovo",
+        "url": "https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Vibo Nuovo",
+      "url": "https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md"
     },
     {
       "album": {

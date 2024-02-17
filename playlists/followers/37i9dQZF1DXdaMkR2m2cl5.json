@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 73595,
+  "2024-02-17": 73602,
   "date_first_scraped": "2021-12-28",
   "description": "Soft, smoky undertones of singer-songwriter sounds give way to lingering notes of rich, earthy chamber folk. Cover: Glen Hansard.",
   "name": "Folk Feast",
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
@@ -2741,6 +2741,24 @@
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS"
+    },
+    {
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv"
     },
     {
       "album": {

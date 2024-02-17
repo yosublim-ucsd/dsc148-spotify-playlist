@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 239298,
+  "2024-02-17": 239329,
   "date_first_scraped": "2022-12-28",
   "description": "Les meilleurs titres du moment en version acoustique.",
   "name": "Hit Acoustique",
@@ -129,6 +129,24 @@
       "duration_ms": 201280,
       "name": "beau-papa (acoustique)",
       "url": "https://open.spotify.com/track/0wRFR5cUtBNArgtw4F1rw1"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love (Acoustic)",
+        "url": "https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163598,
+      "name": "Bitter Sweet Love - Acoustic",
+      "url": "https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ"
     },
     {
       "album": {
@@ -959,7 +977,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 147358,
       "name": "If We Ever Broke Up - Acoustic",
       "url": "https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR"
@@ -981,6 +999,24 @@
       "duration_ms": 225077,
       "name": "In the Stars - (French Version) [Acoustique]",
       "url": "https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe"
+    },
+    {
+      "album": {
+        "name": "Is It Love (Orchestral Version)",
+        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249062,
+      "name": "Is It Love - Orchestral Version",
+      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
     },
     {
       "album": {

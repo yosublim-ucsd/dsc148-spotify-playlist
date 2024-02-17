@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 297881,
+  "2024-02-17": 298164,
   "date_first_scraped": "2022-04-30",
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Tu Jhoothi Main Makkaar",
   "name": "Happy Vibes ",
@@ -1968,6 +1968,32 @@
     },
     {
       "album": {
+        "name": "Khushiyaan Bator Lo (From \"Shaitaan\")",
+        "url": "https://open.spotify.com/album/1BQiuiocCw4L2e4GOWwedq"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212218,
+      "name": "Khushiyaan Bator Lo - From \"Shaitaan\"",
+      "url": "https://open.spotify.com/track/3FC5VtP1akOK3cY12vCGrz"
+    },
+    {
+      "album": {
         "name": "KHUSHNUMA",
         "url": "https://open.spotify.com/album/53reH3lAMM8LSxsEgYukWT"
       },
@@ -2281,7 +2307,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"

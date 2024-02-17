@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 33 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 33 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlIoeoZqkmB.md) - [plain]
 | 27 | [Turn the World](https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Turn the World](https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F) | 4:03 |
 | 28 | [スクラップアート](https://open.spotify.com/track/4aH955P1E3svLs4NPNAewA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/42jpClLjVy7znnAmzNUJfI) | 3:33 |
 | 29 | [LAST DANCE](https://open.spotify.com/track/1vixbHotMIpTHSeUyMwvxu) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [LAST DANCE](https://open.spotify.com/album/1FHQUEsJ5mUHT2pMmecvkN) | 3:45 |
-| 30 | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/track/3NKoasBeBI1XBlau8zr8bD) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL WIND\~Hohoemi wa Hikaru\-Kaze no Naka\~](https://open.spotify.com/album/6c5jjGBbSPmrTVIL6nHdbH) | 4:45 |
+| 30 | [ETERNAL WIND ～ほほえみは光る風の中～](https://open.spotify.com/track/17aPi5ECRAHKv1514TS5vK) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [ETERNAL SONGS Ⅱ](https://open.spotify.com/album/5OCkvfHPhvPTSwuBjz5fAg) | 4:45 |
 | 31 | [嵐の中で輝いて](https://open.spotify.com/track/7wNP6adsYPuAfE6kpVrCP9) | [Chihiro Yonekura](https://open.spotify.com/artist/4vhezQRmmI48a5uigqV180) | [25 YEARS AFTER ～All Time Best～](https://open.spotify.com/album/2rLAVu5MHjRFXR3pWzzC3S) | 4:16 |
 | 32 | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/track/6PXtQia2OqJtH2H9N03YG1) | [RISE（Extreme Hearts）葉山陽和役　野口瑠璃子](https://open.spotify.com/artist/6hhlKgWCQeLPXZgcdvQ6Bi) | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/album/3xeWasd9ESalVLqht4r1L0) | 1:43 |
 | 33 | [SUNRISE\(ver.RISE\)](https://open.spotify.com/track/1W9CD10txny7JOhZoyrUJ3) | [RISE\(葉山陽和\(CV.野口瑠璃子\)](https://open.spotify.com/artist/6VJ01ToSd28Lr9NcsdP0dU), [小鷹咲希\(CV.岡咲美保\)](https://open.spotify.com/artist/6V2ZGs5KhUWjl6d1aAYDde), [前原純華\(CV.優木かな\)](https://open.spotify.com/artist/5BWX5JNIdKaCXuiHDH1l8b), [橘 雪乃\(CV.福原綾香\)](https://open.spotify.com/artist/5cvEB9jDl8ILH5GKPefBwX), [小日向理瀬\(CV.小澤亜李\)\)](https://open.spotify.com/artist/7yRuqeYigTvl5ejYnYZSSn) | [SUNRISE\(ver.RISE\)](https://open.spotify.com/album/7KXacsct0862UliD8sOIPl) | 4:56 |
 
-Snapshot ID: `MCwxY2E1MjM2ZTdlNTYwNTM1NGY5M2EyNDRkMTEwNGIyZjFlYjc4ZWM4`
+Snapshot ID: `MCwxMjMzYWU5ZjA5OWI0ZTBlODYzODU0OWI5NWQwZDNlMDI5YTBmMTY1`

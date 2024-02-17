@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33012,
+  "num_followers": 33017,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl",
+  "snapshot_id": "MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "DLIT (die Liebe ist tot)",
+        "url": "https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "DLIT (die Liebe ist tot)",
+      "url": "https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "3 Uhr Nachts",
         "url": "https://open.spotify.com/album/5XxpVT8U1rWLKHeXZtlCqg"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 242671,
       "name": "F\u00fchrerschein",
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "DLIT (die Liebe ist tot)",
-        "url": "https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "DLIT (die Liebe ist tot)",
-      "url": "https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/1xR4W0zwF5GsH3FHsswIxS"
-      },
-      "artists": [
-        {
-          "name": "Haiyti",
-          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
-        },
-        {
-          "name": "SHOKI",
-          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
-        }
-      ],
-      "duration_ms": 147796,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/6t83LKUuq89PAcpT45VE60"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "find mich",
         "url": "https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 124850,
       "name": "find mich",
       "url": "https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/1xR4W0zwF5GsH3FHsswIxS"
+      },
+      "artists": [
+        {
+          "name": "Haiyti",
+          "url": "https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90"
+        },
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        }
+      ],
+      "duration_ms": 147796,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6t83LKUuq89PAcpT45VE60"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Like I Was Never Here",
-        "url": "https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 218100,
-      "name": "Like I Was Never Here",
-      "url": "https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 145840,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Like I Was Never Here",
+        "url": "https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 218100,
+      "name": "Like I Was Never Here",
+      "url": "https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -611,38 +611,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Boo'd Up",
-        "url": "https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ"
-      },
-      "artists": [
-        {
-          "name": "zara",
-          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
-        }
-      ],
-      "duration_ms": 114937,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Schleudertrauma",
-        "url": "https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO"
-      },
-      "artists": [
-        {
-          "name": "linna",
-          "url": "https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J"
-        }
-      ],
-      "duration_ms": 161806,
-      "name": "Schleudertrauma",
-      "url": "https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Parasol",
         "url": "https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 174356,
       "name": "No Good",
       "url": "https://open.spotify.com/track/4fSumqfqyd2NrqI0HoRxWE"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Boo'd Up",
+        "url": "https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ"
+      },
+      "artists": [
+        {
+          "name": "zara",
+          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
+        }
+      ],
+      "duration_ms": 114937,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Schleudertrauma",
+        "url": "https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO"
+      },
+      "artists": [
+        {
+          "name": "linna",
+          "url": "https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J"
+        }
+      ],
+      "duration_ms": 161806,
+      "name": "Schleudertrauma",
+      "url": "https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Sie tanzt allein",
-        "url": "https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ"
-      },
-      "artists": [
-        {
-          "name": "SHARI",
-          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Sie tanzt allein",
-      "url": "https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "SCHWARZLICHT",
         "url": "https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 142988,
       "name": "SCHWARZLICHT",
       "url": "https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Sie tanzt allein",
+        "url": "https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ"
+      },
+      "artists": [
+        {
+          "name": "SHARI",
+          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Sie tanzt allein",
+      "url": "https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu"
     },
     {
       "added_at": "2024-02-14 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,894 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,897 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 43 | [Victory Royale](https://open.spotify.com/track/2MqNyhJOdEhWpOmdpDVZN3) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74), [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx) | [Victory Royale](https://open.spotify.com/album/28fup0xuStDyTjR7kKp8Pq) | 1:21 |
 | 44 | [cuz u just memories](https://open.spotify.com/track/0kKcamlEotnUhruCyvFG3p) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [cuz u just memories](https://open.spotify.com/album/3FkLIyoMGYCSAJxeIfw5cs) | 2:04 |
 | 45 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
-| 46 | [No suit](https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6) | [Miyabi](https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H), [18stop](https://open.spotify.com/artist/0S4G7XkIQiKXxoHJgFAhPe) | [COOL DOWN 2](https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG) | 3:28 |
+| 46 | [No suit](https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6) | [Miyabi](https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [COOL DOWN 2](https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG) | 3:28 |
 | 47 | [Oretatigakininaru](https://open.spotify.com/track/1RzEhKm9w4yUd0djV9Q7vJ) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Chaochao](https://open.spotify.com/artist/2wTbreIopS4qmQMvWZxtlJ), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/0CXdVXLHiJGG5LhsfSqhBg) | 3:23 |
 | 48 | [Skrrrby Doo \- Delux](https://open.spotify.com/track/2Q8i83kzoXTCNPqx4DBcuu) | [Playsson](https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Real Trap 2 \(Delux\)](https://open.spotify.com/album/5pqqxStYqI2WwipOMtt0xe) | 2:12 |
 | 49 | [Weak self tudo kill](https://open.spotify.com/track/0jhIDDoBSGDEASKYz29Cvx) | [Mateu$](https://open.spotify.com/artist/5RtERHSgI7w2G6hyVAMO9n) | [Weak self tudo kill](https://open.spotify.com/album/4An4TKXHjJzXOczBin3Zq3) | 2:50 |
-| 50 | [Sea Side Wave](https://open.spotify.com/track/3EYx1oD5mLtTeKJeBw7EwJ) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj) | 2:04 |
+| 50 | [Sea Side Wave](https://open.spotify.com/track/10Mqe0r0tcO2zMqx3C3HQz) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/22DYFzz5Fjsb8jS0yAkE1F) | 2:04 |
 | 51 | [Deep Inside](https://open.spotify.com/track/3RMlPlFIBtplMhm1r3Yp5z) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [Ry\-lax](https://open.spotify.com/artist/6BpKACmMhqNkkSSihR8cDI) | [Deep Inside](https://open.spotify.com/album/7hxrB01zm8NgOnCrLpSPqn) | 3:56 |
 | 52 | [New World](https://open.spotify.com/track/5d0901OV306utjv7ALii1O) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/3gcX6aWX8a6ZDbPtlVYvXA) | 2:43 |
 | 53 | [Depressed & Pills](https://open.spotify.com/track/4FStzexb85m932TwWU9KQl) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Nia Varan](https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS) | [Depressed & Pills](https://open.spotify.com/album/3fqPHtHoAbYJSPWcrISn2a) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Still Tippin' Freestyle](https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Montiago](https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA), [San Quintin](https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz), [Huncho Bandz](https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB), [DaeDae3K](https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6) | [Still Tippin' Freestyle](https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg) | 3:23 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCwwYTE5MmU1NzRmZTg3ZGRlODliMGQ1ZDMwNjhkZWFhM2UzYjI0MTIy`
+Snapshot ID: `MCw2ZTJlOWJlZjJjOGVlYzNmMGJlYTNkY2JhMjJlYTE5ODlmNTVjMjVi`

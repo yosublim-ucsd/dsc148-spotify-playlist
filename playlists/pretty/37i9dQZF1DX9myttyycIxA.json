@@ -1,13 +1,173 @@
 {
-  "description": "Underground indie rock gems. Cover: Madi Diaz",
-  "num_followers": 293940,
+  "description": "Underground indie rock gems. Cover: Lime Garden",
+  "num_followers": 293941,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDZlNjhiMmRkNGRhYWQ2NmQwZDJlNDRkOWQ2YjA0ZWZmMjE0NmU4",
+  "snapshot_id": "MCwyNGRlYTFjNTY0YTBhMjQ0YWUwYTkyMWQxN2YxMmM4Yzg0MDZmMzk0",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Pop Star",
+        "url": "https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "Pop Star",
+      "url": "https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Give It Back to Me",
+        "url": "https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Give It Back to Me",
+      "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 178180,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Here Hair / Hard Hair",
+        "url": "https://open.spotify.com/album/03fQcyzWD57NgUkIwFuVmD"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 280416,
+      "name": "Here Hair",
+      "url": "https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Compliment",
+        "url": "https://open.spotify.com/album/03HhnvM8QBxTsqXE2on8DK"
+      },
+      "artists": [
+        {
+          "name": "Omni",
+          "url": "https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9"
+        }
+      ],
+      "duration_ms": 236859,
+      "name": "Compliment",
+      "url": "https://open.spotify.com/track/5KtPXXwn4EOZQIjCMZne7P"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-02-13 21:22:41",
+      "album": {
+        "name": "Synthetic Flowers For A Romantic Comedy",
+        "url": "https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A"
+      },
+      "artists": [
+        {
+          "name": "Flora Rose",
+          "url": "https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL"
+        }
+      ],
+      "duration_ms": 279984,
+      "name": "The Brown Eyed Driver",
+      "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
+    },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
@@ -41,20 +201,20 @@
       "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"
     },
     {
-      "added_at": "2024-02-13 21:22:41",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Synthetic Flowers For A Romantic Comedy",
-        "url": "https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A"
+        "name": "Inaka",
+        "url": "https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B"
       },
       "artists": [
         {
-          "name": "Flora Rose",
-          "url": "https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL"
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
         }
       ],
-      "duration_ms": 279984,
-      "name": "The Brown Eyed Driver",
-      "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
+      "duration_ms": 185115,
+      "name": "Inaka",
+      "url": "https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -337,6 +497,26 @@
       "url": "https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ"
     },
     {
+      "added_at": "2023-12-08 17:28:54",
+      "album": {
+        "name": "Drive Baby",
+        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 158460,
+      "name": "Drive Baby",
+      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "TV on TV",
@@ -383,22 +563,6 @@
       "duration_ms": 163775,
       "name": "Her Garden",
       "url": "https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Almuatin",
-        "url": "https://open.spotify.com/album/08viFcrlyEHRK04mH0zRsy"
-      },
-      "artists": [
-        {
-          "name": "Deerhoof",
-          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
-        }
-      ],
-      "duration_ms": 184801,
-      "name": "Almuatin",
-      "url": "https://open.spotify.com/track/3q8NkyunIl3nVwv48deAv0"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -567,22 +731,6 @@
       "duration_ms": 173941,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/62NdrxSg8YAdnnPikjZN8N"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Milk thistle",
-        "url": "https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8"
-      },
-      "artists": [
-        {
-          "name": "60 juno",
-          "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Milk thistle",
-      "url": "https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -787,26 +935,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Drive Baby",
-        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 158460,
-      "name": "Drive Baby",
-      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Laced",
         "url": "https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr"
       },
@@ -903,22 +1031,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Morning Ritual",
-        "url": "https://open.spotify.com/album/5qshGdKKt0bR3lBLJDhmoc"
-      },
-      "artists": [
-        {
-          "name": "Chartreuse",
-          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
-        }
-      ],
-      "duration_ms": 229649,
-      "name": "Never To Be Real",
-      "url": "https://open.spotify.com/track/6cYArVpkURcyDOS5pzbjK9"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Do This Right",
         "url": "https://open.spotify.com/album/2snbrz5sj2bTWvprCmx6dH"
       },
@@ -963,22 +1075,6 @@
       "duration_ms": 198520,
       "name": "27",
       "url": "https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
-      },
-      "artists": [
-        {
-          "name": "Theo Bleak",
-          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Raining All The Time",
-      "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1223,22 +1319,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "my little tony",
-        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Jesse",
         "url": "https://open.spotify.com/album/1z1QZIgQgVOby69R7KjA1Q"
       },
@@ -1283,22 +1363,6 @@
       "duration_ms": 179780,
       "name": "shoelaces",
       "url": "https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Pools of Colour",
-        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
-      },
-      "artists": [
-        {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
-        }
-      ],
-      "duration_ms": 191277,
-      "name": "Death Drive",
-      "url": "https://open.spotify.com/track/0OT4qBesl43phNlvSCLiTM"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1367,22 +1431,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Around Around Around",
-        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 321460,
-      "name": "Around Around Around",
-      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "soup",
         "url": "https://open.spotify.com/album/5v1u1hfWKKRn9NdG41Gomr"
       },
@@ -1427,22 +1475,6 @@
       "duration_ms": 160437,
       "name": "Hang Up The Lights",
       "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/0qiKuGeaGlsWoPtrFcwiDc"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 191167,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0SOUQwfAlpvurIBdPurgrd"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1495,22 +1527,6 @@
       "duration_ms": 171428,
       "name": "BOTTOM FEEDER",
       "url": "https://open.spotify.com/track/4XBr4XoYKUe1ayGgnNtLyh"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6AQymuAGSvGCXV30K5nHDx"
-      },
-      "artists": [
-        {
-          "name": "Dogs on Shady Lane",
-          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
-        }
-      ],
-      "duration_ms": 270744,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/4gnrM7X1H8sDjyGSv6Y9az"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Hello Mary",
-        "url": "https://open.spotify.com/album/0Dhff2G19pJvrdOSPLgp4f"
-      },
-      "artists": [
-        {
-          "name": "Hello Mary",
-          "url": "https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn"
-        }
-      ],
-      "duration_ms": 235840,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 188000,
       "name": "rainwater on the windowsill",
       "url": "https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "You don't even know who I am",
-        "url": "https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 244022,
-      "name": "You don't even know who I am",
-      "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"
     }
   ],
   "unique_name": "undercurrents",

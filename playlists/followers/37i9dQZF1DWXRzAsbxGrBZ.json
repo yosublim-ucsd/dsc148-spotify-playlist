@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 44962,
+  "2024-02-17": 45111,
   "date_first_scraped": "2022-10-01",
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
   "name": "Deep House Session",
@@ -108,6 +108,50 @@
     },
     {
       "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Ziyon",
+          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330730,
+      "name": "Another Day (feat. Ziyon)",
+      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
+    },
+    {
+      "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239995,
+      "name": "AWA - Ralf GUM Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
+    },
+    {
+      "album": {
         "name": "Awesome God",
         "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
       },
@@ -145,7 +189,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 482979,
       "name": "BAUHAUS",
       "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
@@ -639,7 +683,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 402782,
       "name": "Gotsom",
       "url": "https://open.spotify.com/track/09bP5tNmOMja2JVmz9iNgY"

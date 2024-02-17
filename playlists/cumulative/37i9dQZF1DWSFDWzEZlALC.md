@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-533 songs - 1 day 1 hr 45 min
+534 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Alles unter groß ist mir zu klein](https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Alles unter groß ist mir zu klein](https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB) | 2:37 | 2023-10-05 | 2023-11-24 |
 | [Anders heute](https://open.spotify.com/track/4iqXXctrIcTJuJoZh3HAoz) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Anders heute](https://open.spotify.com/album/0BbRx8BkRL5s4H7Sv27B6s) | 3:37 | 2023-02-13 | 2023-02-15 |
 | [Anfangen Anzufangen](https://open.spotify.com/track/3RDUMFPvbK27yEHavWmn7w) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Anfangen Anzufangen](https://open.spotify.com/album/63NUEyzXHPu7AuZ0mQggWN) | 3:15 | 2023-05-25 | 2023-11-24 |
+| [Angst Frisst Demokratie](https://open.spotify.com/track/7Ezm243VCLVAPGr6bQqgIn) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Angst Frisst Demokratie](https://open.spotify.com/album/25ARIqSRuh7EaQnUqyltMt) | 2:51 | 2024-02-16 |  |
 | [Art und Weise](https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Art und Weise](https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK) | 3:29 | 2023-06-01 | 2023-06-23 |
 | [Au Revoir](https://open.spotify.com/track/4R1iDijT9onBwaZvWafYy1) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Die Zweiten Schritte](https://open.spotify.com/album/1o1Cyi9v2PK4rvVzt4ZWRZ) | 3:01 | 2023-06-15 | 2023-11-24 |
 | [Auch Im Bentley Wird Geweint](https://open.spotify.com/track/3yT2EVsl1w9gmlESu5MBtf) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW), [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs) | [Auch Im Bentley Wird Geweint](https://open.spotify.com/album/4LrYnp2qZOMvhwf7XVGOMT) | 3:15 | 2023-02-02 | 2023-04-21 |
@@ -76,7 +77,7 @@
 | [Blaues Licht](https://open.spotify.com/track/0UEXA9stQx2gRsXq0bWDx4) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Blaues Licht](https://open.spotify.com/album/2HvRjltv3Dr5FshGA8ygWz) | 2:59 | 2023-02-02 | 2023-05-05 |
 | [Bleib doch noch](https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Bleib doch noch](https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS) | 2:41 | 2023-02-16 | 2023-08-18 |
 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 | 2023-12-08 |  |
-| [blue](https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [blue](https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl) | 2:58 | 2023-08-31 |  |
+| [blue](https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [blue](https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl) | 2:58 | 2023-08-31 | 2024-02-17 |
 | [Blume](https://open.spotify.com/track/4VyFbOZL9Ovx3DDopa4gcc) | [Pannakotta](https://open.spotify.com/artist/0KZvih5KsKy0qUMUDAEPfD) | [Blume](https://open.spotify.com/album/0SB8TsQKJGqw2LJ3eaBOJ3) | 2:58 | 2023-03-16 | 2023-04-14 |
 | [Blumen](https://open.spotify.com/track/4KQlhvy3r7aMWvgdEhgZ7J) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Blumen](https://open.spotify.com/album/1X9eaaWut0AynswrNo2zXC) | 2:55 | 2023-02-02 | 2023-02-14 |
 | [Bothmer Schloss](https://open.spotify.com/track/44kwjttT281ppk7hKBqXvV) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Bothmer Schloss](https://open.spotify.com/album/5uzWUjRAUuHKiVjl3IUKxc) | 2:26 | 2023-03-30 | 2023-09-29 |

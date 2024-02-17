@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1JGww9B0CZCeHq50uLGmDf"
+      },
+      "artists": [
+        {
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/5qKaYsAdFthZXLLXzb6IeI"
+    },
+    {
+      "album": {
         "name": "Cornetera",
         "url": "https://open.spotify.com/album/6kUsuX5ifNBUdFQPARiE6u"
       },
@@ -1242,6 +1260,24 @@
       "duration_ms": 360000,
       "name": "Macaw",
       "url": "https://open.spotify.com/track/3IYIYvGLrVkeIcp2pSwNG2"
+    },
+    {
+      "album": {
+        "name": "Maraca",
+        "url": "https://open.spotify.com/album/5LbHfbp49BgdvYVqFwiaau"
+      },
+      "artists": [
+        {
+          "name": "nocapz.",
+          "url": "https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Maraca",
+      "url": "https://open.spotify.com/track/6oQD5Y9trs6HNySNS4il16"
     },
     {
       "album": {

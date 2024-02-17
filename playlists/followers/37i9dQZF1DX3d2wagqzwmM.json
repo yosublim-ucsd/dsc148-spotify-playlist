@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 485759,
+  "2024-02-17": 486118,
   "date_first_scraped": "2022-04-20",
   "description": "Big rooms and big sounds. Cover: Maddix",
   "name": "Big Room Dance",
@@ -447,7 +447,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 210400,
       "name": "Baby, We Go Fast",
       "url": "https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec"
@@ -3467,6 +3467,24 @@
     {
       "album": {
         "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142352,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
       "artists": [
@@ -4161,6 +4179,24 @@
       "duration_ms": 163636,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd"
+    },
+    {
+      "album": {
+        "name": "Lost In The Music",
+        "url": "https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179045,
+      "name": "Lost In The Music",
+      "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
     },
     {
       "album": {
@@ -7103,7 +7139,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 233587,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"

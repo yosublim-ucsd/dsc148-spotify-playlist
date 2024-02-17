@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 182170,
+  "num_followers": 182240,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzQzMzEyODhiY2JjZTIxNGNkMWQ1ODY2NTkzNjExNjQyOGI2YTdj",
+  "snapshot_id": "MCw1ZGQ3ZTBhZGE0ZjUyM2Q3OWFlMWYxNmZiNDYzYTViOWE4NmFjNDY2",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "atr/cal (Piano Solo)",
-        "url": "https://open.spotify.com/album/2dFYwEwAWrNp2iOylWskYx"
-      },
-      "artists": [
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 179439,
-      "name": "After the Rain - Piano Solo",
-      "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "TREE",
         "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 278400,
       "name": "TREE",
       "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "atr/cal (Piano Solo)",
+        "url": "https://open.spotify.com/album/2dFYwEwAWrNp2iOylWskYx"
+      },
+      "artists": [
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "After the Rain - Piano Solo",
+      "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+        "name": "All I Hear Is Birds (Focus Rework)",
+        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Desire Path",
-      "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
+      "duration_ms": 248506,
+      "name": "All I Hear Is Birds - Focus Rework",
+      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -867,22 +871,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "All I Hear Is Birds (Focus Rework)",
-        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        },
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 248506,
-      "name": "All I Hear Is Birds - Focus Rework",
-      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+      "duration_ms": 243599,
+      "name": "Desire Path",
+      "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 107626,
-      "name": "Washed Out",
-      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Intention II",
-        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
       "artists": [
         {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Loving Kindness",
-      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+      "duration_ms": 165701,
+      "name": "Like We Were Dreaming All This Time, Pt. 1",
+      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+        "name": "Intention II",
+        "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
       },
       "artists": [
         {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
         }
       ],
-      "duration_ms": 165701,
-      "name": "Like We Were Dreaming All This Time, Pt. 1",
-      "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
+      "duration_ms": 317000,
+      "name": "Loving Kindness",
+      "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
         "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 221538,
       "name": "Introducing - Zazenkai Escape Ambient Re-Work",
       "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "The Notional Pastures Of Imaginary Softwoods",
         "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 140453,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "The Long Night in Winter Light",
-        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
-      },
-      "artists": [
-        {
-          "name": "Tomo-Nakaguchi",
-          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
-        }
-      ],
-      "duration_ms": 235063,
-      "name": "Twilight Glow Of The Sky",
-      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1575,6 +1559,22 @@
       "duration_ms": 295394,
       "name": "After the Flood",
       "url": "https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "The Long Night in Winter Light",
+        "url": "https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3"
+      },
+      "artists": [
+        {
+          "name": "Tomo-Nakaguchi",
+          "url": "https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ"
+        }
+      ],
+      "duration_ms": 235063,
+      "name": "Twilight Glow Of The Sky",
+      "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1623,6 +1623,22 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/2UVs5lDKzxXMj3S4VVHqZP"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/2UVs5lDKzxXMj3S4VVHqZP"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
       },
       "artists": [
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
+      "duration_ms": 398413,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/3i9W2kQtshKD8LRUdLsp23"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1711,22 +1727,6 @@
       "duration_ms": 209742,
       "name": "waves (slowed) - Slowed",
       "url": "https://open.spotify.com/track/3Q8bEu2sxcF5RTI9GaSHfK"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 398413,
-      "name": "Invitation",
-      "url": "https://open.spotify.com/track/3i9W2kQtshKD8LRUdLsp23"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1751,18 +1751,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+        "name": "Movement VII",
+        "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
-      "duration_ms": 127766,
-      "name": "whateverness",
-      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+      "duration_ms": 197777,
+      "name": "Movement VII",
+      "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1783,6 +1787,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "whateverness",
+      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Westwind",
         "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 142012,
       "name": "Westwind",
       "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Movement VII",
-        "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "Movement VII",
-      "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
     }
   ],
   "unique_name": "Ambient X",

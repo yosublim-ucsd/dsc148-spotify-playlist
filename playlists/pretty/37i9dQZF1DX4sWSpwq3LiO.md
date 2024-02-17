@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,243,035 likes - 201 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,244,259 likes - 201 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 200 | [La Paix Intérieure](https://open.spotify.com/track/7e9rtvEfKg3QkMkZrZtTnW) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [La Paix Intérieure](https://open.spotify.com/album/5HoExt3JRs5BfsuFyN4QDa) | 2:07 |
 | 201 | [We were the hook](https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [We were the hook](https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb) | 2:07 |
 
-Snapshot ID: `MCw1YmZhODNhNzIwZmE5NWMyNWQ5ZmY2YmNlMDJiZjU1ZWJmM2Y5OTcw`
+Snapshot ID: `MCwxZTBmNjRjYmIxMzVkZmU0OTAxODliNTgyZjA0NGQ1NzM3ZDg1YmE3`

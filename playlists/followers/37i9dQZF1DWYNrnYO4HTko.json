@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 956,
+  "2024-02-17": 957,
   "date_first_scraped": "2022-07-12",
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the <a href=\"https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82\">songwriter's</a> own covers. ",
   "name": "Otis Redding: Covered",
@@ -1874,6 +1874,28 @@
     },
     {
       "album": {
+        "name": "S.O.S. 2: Soul On A Mission",
+        "url": "https://open.spotify.com/album/1N66oKqT9D350GFwDfKfqE"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Huey Lewis",
+          "url": "https://open.spotify.com/artist/2OU0OH164ypvP4G3AYynXs"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/41yOeaVMkpWJhSCw5obdwB"
+    },
+    {
+      "album": {
         "name": "Proud Mary (With Bonus Tracks)",
         "url": "https://open.spotify.com/album/2OdL2aP3MSdZnUAzShPRol"
       },
@@ -1907,7 +1929,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 152386,
       "name": "These Arms of Mine (feat. Huey Lewis)",
       "url": "https://open.spotify.com/track/4XiDLc8PRfXHuHySYKUuSV"

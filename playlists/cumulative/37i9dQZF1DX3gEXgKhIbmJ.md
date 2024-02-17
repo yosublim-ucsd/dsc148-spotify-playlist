@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-135 songs - 5 hr 25 min
+136 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Camisa 10](https://open.spotify.com/track/13kyuo0MazfwJ6f45PbHhm) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [DJ Guizin do Trem](https://open.spotify.com/artist/3jB6PVFo2v0NFhe6dk0HTA) | [Camisa 10](https://open.spotify.com/album/48UOun63WhfNSwhihpg0eJ) | 2:00 | 2023-09-15 | 2023-09-30 |
 | [CARRO FORTE](https://open.spotify.com/track/2cuUfb5YarPPcBamUHKt6R) | [Warlxck](https://open.spotify.com/artist/4iV1rJ9FrLBJwq0jf7Zsgo), [Offneres](https://open.spotify.com/artist/32BXOPLTCqAjCm0cdtfdWJ), [Shairone](https://open.spotify.com/artist/0ftb2QFySqVPdr8XucAWnz) | [CARRO FORTE](https://open.spotify.com/album/12yuuQcgDTeKooWSpENkPm) | 2:28 | 2024-01-05 | 2024-01-27 |
 | [Cima](https://open.spotify.com/track/3rtvLFrO8JHibwMdyI1B8s) | [Thu6](https://open.spotify.com/artist/4XxLfZ4TYG3ZnvKBA6PkjK) | [Cima](https://open.spotify.com/album/1Hvq1leSqiuDNj3MV9f7Jy) | 2:30 | 2023-09-15 | 2023-10-28 |
+| [Club](https://open.spotify.com/track/3rV9lzOTFC6YPnLO8zu7MY) | [PB999](https://open.spotify.com/artist/4EPlOOPkq9xBAwQWV3ibom), [mekesu](https://open.spotify.com/artist/5Jz8VtL4TocWu1LzGrDr3z) | [Club](https://open.spotify.com/album/3NXtqHHDsZPWBzSI22foTn) | 1:49 | 2024-02-16 |  |
 | [Cmg S2](https://open.spotify.com/track/7s1dYgSJQQ9W6FSuJxXg96) | [caslit](https://open.spotify.com/artist/5A1L5i1xx4Mfng9ACEG7ZI) | [Cmg S2](https://open.spotify.com/album/63I8QR1hLJWNVYoZLgZl0H) | 2:34 | 2024-01-26 |  |
 | [colar lápis lazúli](https://open.spotify.com/track/7u8WNxsxm39P0WCG8EHvv3) | [CamelDiseaseBoy](https://open.spotify.com/artist/5JwHCZsvyht8vXO9n5Tp10) | [O Âmago e a Carne](https://open.spotify.com/album/2cIvdaB6QTibpep7wYCu7T) | 1:53 | 2023-09-15 | 2023-11-18 |
 | [Crack The Code](https://open.spotify.com/track/1iuv7Z4ELFsAnIdbfyDGlp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 1:17 | 2023-11-24 | 2023-12-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 100606,
+  "num_followers": 100714,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWJmMTY3YzFkOTVjMDMzY2I2MmNhNDg4MTM2OGZiZjU1ZTQ0ODJl",
+  "snapshot_id": "MCwyYmI1OTFhZjE1YTQ5MGQwYjQxZGMzYzBmNGU1YzUyOGYxN2Q0ZjE0",
   "tracks": [
     {
       "added_at": "2023-12-19 21:24:26",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-12-19 21:24:26",
       "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2023-12-19 21:24:26",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 231846,
       "name": "Dance To This (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW"
-    },
-    {
-      "added_at": "2023-12-19 21:24:26",
-      "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2023-12-19 21:24:26",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-19 21:24:26",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2023-12-19 21:24:26",
-      "album": {
         "name": "Emotion (Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 251327,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
+    },
+    {
+      "added_at": "2023-12-19 21:24:26",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2023-12-19 21:24:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-19 21:24:26",
       "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/469RmLzEsicj8VSn9aIuKV"
-    },
-    {
-      "added_at": "2023-12-19 21:24:26",
-      "album": {
         "name": "Half Written Story",
         "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+    },
+    {
+      "added_at": "2023-12-19 21:24:26",
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/469RmLzEsicj8VSn9aIuKV"
     },
     {
       "added_at": "2023-12-19 21:24:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-19 21:24:26",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Lohan",
-          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
-    },
-    {
-      "added_at": "2023-12-19 21:24:26",
-      "album": {
         "name": "Break the Rules",
         "url": "https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
+    },
+    {
+      "added_at": "2023-12-19 21:24:26",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
     },
     {
       "added_at": "2023-12-19 21:24:26",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-19 21:24:26",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
-      },
-      "artists": [
-        {
-          "name": "Kate Winslet",
-          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
-        }
-      ],
-      "duration_ms": 243039,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
-    },
-    {
-      "added_at": "2023-12-19 21:24:26",
-      "album": {
         "name": "Christina Milian",
         "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 241920,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
+    },
+    {
+      "added_at": "2023-12-19 21:24:26",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
+      },
+      "artists": [
+        {
+          "name": "Kate Winslet",
+          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
+        }
+      ],
+      "duration_ms": 243039,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
     },
     {
       "added_at": "2023-12-19 21:24:26",

@@ -670,6 +670,24 @@
     {
       "album": {
         "name": "I'll Do It",
+        "url": "https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK"
+      },
+      "artists": [
+        {
+          "name": "lilster",
+          "url": "https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213252,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo"
+    },
+    {
+      "album": {
+        "name": "I'll Do It",
         "url": "https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q"
       },
       "artists": [
@@ -710,32 +728,6 @@
       "duration_ms": 213185,
       "name": "I'll Do It (feat. iGodzilla)",
       "url": "https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T"
-    },
-    {
-      "album": {
-        "name": "I'll Do It",
-        "url": "https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK"
-      },
-      "artists": [
-        {
-          "name": "2kMay",
-          "url": "https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt"
-        },
-        {
-          "name": "lilster",
-          "url": "https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM"
-        },
-        {
-          "name": "iGodzilla",
-          "url": "https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez"
-        }
-      ],
-      "date_added": "2024-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213252,
-      "name": "I'll Do It (feat. iGodzillla)",
-      "url": "https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo"
     },
     {
       "album": {
@@ -884,7 +876,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 245718,
       "name": "Long Way To Go To Die",
       "url": "https://open.spotify.com/track/7ECRCvKNHUEUH7vEPD9P4I"
@@ -906,6 +898,24 @@
       "duration_ms": 250232,
       "name": "Long Way To Go To Die",
       "url": "https://open.spotify.com/track/4tLY4kxlciE804P2NqY9jy"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250232,
+      "name": "Long Way To Go To Die",
+      "url": "https://open.spotify.com/track/61pOzVtdfhaNQnSIc93pSo"
     },
     {
       "album": {

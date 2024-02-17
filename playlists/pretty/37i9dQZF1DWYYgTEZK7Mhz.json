@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 26637,
+  "num_followers": 26656,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDM5YzIzMzRhMWMxNmQ4ZjQ2ZmQ3ZmEzM2RlNzUxYzE1MDM1Yjk2",
+  "snapshot_id": "MCwwMWNiMGUxNjRiOGRhNjE4YTgyNjE0ZmQwMTU1MGRjYjJlZDE4ZTJj",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Nell'aria",
-        "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
-      },
-      "artists": [
-        {
-          "name": "Marcella Bella",
-          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Nell'aria",
-      "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
         "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 223453,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Nell'aria",
+        "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
+      },
+      "artists": [
+        {
+          "name": "Marcella Bella",
+          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Nell'aria",
+      "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Donna Felicita'",
-        "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
-      },
-      "artists": [
-        {
-          "name": "I Nuovi Angeli",
-          "url": "https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX"
-        }
-      ],
-      "duration_ms": 127333,
-      "name": "Donna Felicita'",
-      "url": "https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "40 Grandi Successi",
         "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 165015,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Donna Felicita'",
+        "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
+      },
+      "artists": [
+        {
+          "name": "I Nuovi Angeli",
+          "url": "https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "Donna Felicita'",
+      "url": "https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF"
     },
     {
       "added_at": "2023-06-05 07:42:38",

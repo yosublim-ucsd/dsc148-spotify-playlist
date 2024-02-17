@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Jonas Saalbach, Guzy
 
-3,096 songs - 11 day 10 hr 5 min
+3,097 songs - 11 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2377,7 +2377,8 @@
 | [Silhouette](https://open.spotify.com/track/38e50yunt7UDHHjCO2Pk2y) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Silhouette](https://open.spotify.com/album/0RevyVYNVfrV19T055kbyU) | 4:09 | 2023-10-26 | 2023-11-17 |
 | [Silius \- Alfa Romero Remix](https://open.spotify.com/track/0wj0giVxSGWzlnWhdC8EUh) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Silius EP](https://open.spotify.com/album/1kvDBa5nOhlshFg5rwaItu) | 6:35 | 2022-11-11 | 2022-11-25 |
 | [Silly Walk](https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Silly Walk](https://open.spotify.com/album/6Xn6Y3yj1Q2z1LMApgvatr) | 3:21 | 2023-07-20 | 2023-08-11 |
-| [Silo](https://open.spotify.com/track/4UoIfUBfZtepuH3APCEg5P) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Silo](https://open.spotify.com/album/6GEfhtPzudN4ADLaiSruVn) | 6:34 | 2024-02-01 |  |
+| [Silo](https://open.spotify.com/track/0IyjF7JOgqSf1joUpAbZWx) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Stand](https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz) | 6:34 | 2024-02-15 |  |
+| [Silo](https://open.spotify.com/track/4UoIfUBfZtepuH3APCEg5P) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Silo](https://open.spotify.com/album/6GEfhtPzudN4ADLaiSruVn) | 6:34 | 2024-02-01 | 2024-02-17 |
 | [Silver Moon Dial](https://open.spotify.com/track/6tRFihAZXh56lxvhZv7SXM) | [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Two Is Not a Number](https://open.spotify.com/album/2ztx954HDf9gVZ4VpVQFYj) | 5:40 | 2023-10-12 | 2023-10-27 |
 | [Silvi's Dream \(Damiano Von Erckert Remix\)](https://open.spotify.com/track/2jhJWC3JT5FGrlc3b7tBVq) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Damiano von Erckert](https://open.spotify.com/artist/28Y1hMhuru402KjzFJDegi) | [Catharsis Remixes](https://open.spotify.com/album/1GckkNpv8X6BclYXb4T7zC) | 7:00 | 2023-08-17 | 2023-09-01 |
 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 | 2023-06-16 | 2023-06-30 |

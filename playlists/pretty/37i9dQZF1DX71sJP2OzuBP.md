@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,304 likes - 106 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,310 likes - 106 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 82 | [潜意识](https://open.spotify.com/track/3q8jhLC6TAPJxijRnmyFDv) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [潜意识](https://open.spotify.com/album/1l5tA3wDHWO8Iy0dr1e6Xa) | 3:31 |
 | 83 | [任性](https://open.spotify.com/track/67mW5GPTpEMBBS6KInmsYP) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [Lennerd](https://open.spotify.com/artist/1k262uxFEei0Hjh3Z4WRdd) | [任性](https://open.spotify.com/album/6pwZo1wiIsDC557Di6vZ9z) | 2:53 |
 | 84 | [趕不走的你](https://open.spotify.com/track/0vFIIyIU9ivCuVV4giU8jU) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [趕不走的你](https://open.spotify.com/album/7vO1kneh8tZbj2lvnuh4ja) | 4:41 |
-| 85 | [This is Love \- Netflix Series "Let's Talk About CHU" Theme Song](https://open.spotify.com/track/1k7Pxj6aSKLUB0omOSQGNP) | [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [This is Love](https://open.spotify.com/album/1Uew3P4b1ax0cpp5HTBLmX) | 4:35 |
+| 85 | [This is Love \- Netflix Series "Let's Talk About CHU" Theme Song](https://open.spotify.com/track/1k7Pxj6aSKLUB0omOSQGNP) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [This is Love](https://open.spotify.com/album/1Uew3P4b1ax0cpp5HTBLmX) | 4:35 |
 | 86 | [自此愛上一座城](https://open.spotify.com/track/1QvPV8J6T0nP6aroq93Ehp) | [Yinson Lee](https://open.spotify.com/artist/2JPCNCkjhkJzy4Dm2yR2L5) | [自此愛上一座城](https://open.spotify.com/album/1GnEG3huadMMd9q5X7Rl5X) | 3:36 |
 | 87 | [過期的記憶](https://open.spotify.com/track/7bXg69Y5x3QvJ2rt1osAX1) | [Bettii 杯緹](https://open.spotify.com/artist/6n49SRZkz3eaKBhEwiwCrb) | [過期的記憶](https://open.spotify.com/album/2JI9dvMWRqPK3gcLU2zzL2) | 3:38 |
 | 88 | [回不去](https://open.spotify.com/track/1Ck7eF7i6cZHM9qJ7b75I0) | [全世煌](https://open.spotify.com/artist/1bQkZIWvCkD84iK2fGBb6u) | [回不去](https://open.spotify.com/album/3JImCbcgMeKfjTWcIqCKd5) | 3:52 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 105 | [在风吹来的方向等着你](https://open.spotify.com/track/5D0nvVgKIsC36ycLtdNZqu) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [在风吹来的方向等着你](https://open.spotify.com/album/3VD6BoceCOUCVI3cWedk3x) | 3:25 |
 | 106 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 |
 
-Snapshot ID: `MCw3OTQ3Nzg1MjVjNTRiYjZhYzM0NjI2ZmY3NjhhNmYzZjlhYjc1YzZh`
+Snapshot ID: `MCxhMjY4ZGY0MzI0ZGNiMTk3ZmRhMDdlMmMxNjg0NDA4ZGMxZGJkNjc1`

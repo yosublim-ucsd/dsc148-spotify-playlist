@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 1122,
+  "2024-02-17": 1122,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
   "name": "This Is Mac J\u00falia",
@@ -309,6 +309,36 @@
       "duration_ms": 180803,
       "name": "Eu Errei Eu Fui Muleque",
       "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
+    },
+    {
+      "album": {
+        "name": "De Outro Planeta",
+        "url": "https://open.spotify.com/album/1LTzeIyDGetTfE414N64Ld"
+      },
+      "artists": [
+        {
+          "name": "Os Gemeos da Putaria",
+          "url": "https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157648,
+      "name": "Eu Te Fa\u00e7o a Pergunta",
+      "url": "https://open.spotify.com/track/4UgqjNAi8vXz7lgHFPO5EY"
     },
     {
       "album": {
@@ -673,7 +703,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 131441,
       "name": "Money Make",
       "url": "https://open.spotify.com/track/1Wv5iyCi1kEeKYvFf0Ruha"

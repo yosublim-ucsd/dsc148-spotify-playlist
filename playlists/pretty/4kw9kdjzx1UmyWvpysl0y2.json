@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126452,
+  "num_followers": 126448,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU2NSw4MWE5MDcwNDM2NThjZWJhZGZjZTE1NmE2OWZmMTYyM2NlNjJlZDEx",
+  "snapshot_id": "NDU2NixhMTkyNWY2NWI4ZDc1YjY3NzNhNmNjZTYxNGE1MmZlNTE5Yjc2MzU4",
   "tracks": [
+    {
+      "added_at": "2024-02-16 17:10:54",
+      "album": {
+        "name": "Who's Laughing Now",
+        "url": "https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Who's Laughing Now",
+      "url": "https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n"
+    },
     {
       "added_at": "2024-02-15 18:12:18",
       "album": {

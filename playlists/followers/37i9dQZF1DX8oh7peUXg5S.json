@@ -1,8 +1,8 @@
 {
-  "2024-02-16": 321947,
+  "2024-02-17": 322032,
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Rozal\u00e9n.",
-  "name": "Cantautoras",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Jorge Drexler.",
+  "name": "Cantautores",
   "tracks": [
     {
       "album": {
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 297040,
       "name": "Al Alba",
       "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 131343,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
@@ -1302,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131879,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+    },
+    {
+      "album": {
         "name": "City Zen",
         "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 200390,
       "name": "Enero en Buenos Aires",
       "url": "https://open.spotify.com/track/29g7kjLpgVQF3Od5H0Ckdy"
@@ -2606,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "Lo que va pasando",
+        "url": "https://open.spotify.com/album/15LNBRPAD5TmA0hl68zqo9"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Lo que va pasando",
+      "url": "https://open.spotify.com/track/6WHazEwJIzQ49Ced1Imn53"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
       },
@@ -3053,6 +3089,24 @@
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/7zH4rnKKGm5vACoSEXBEDe"
+    },
+    {
+      "album": {
+        "name": "Nana Urgente para Palestina",
+        "url": "https://open.spotify.com/album/3yeCi1o4oN0Imm9A3kdFUW"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137046,
+      "name": "Nana Urgente para Palestina",
+      "url": "https://open.spotify.com/track/21VWBL9S3ZJwE98loBLasD"
     },
     {
       "album": {
@@ -3723,10 +3777,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
+    },
+    {
+      "album": {
+        "name": "A Dos",
+        "url": "https://open.spotify.com/album/1XDsaz0ieG13j47HGrLTIM"
+      },
+      "artists": [
+        {
+          "name": "Lau Noah",
+          "url": "https://open.spotify.com/artist/42XHWcm6PBEAgK6JvMqGlH"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213467,
+      "name": "Que pasen cosas",
+      "url": "https://open.spotify.com/track/2mAtcBJOmHHg0QCsB4S797"
     },
     {
       "album": {
@@ -4726,6 +4802,24 @@
     },
     {
       "album": {
+        "name": "Todo ocurri\u00f3 de pie",
+        "url": "https://open.spotify.com/album/7yOAs2VelstGs5Fr8Xd9s8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279336,
+      "name": "Todo ocurri\u00f3 de pie",
+      "url": "https://open.spotify.com/track/63l8okgvybzixVYIhcLcig"
+    },
+    {
+      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
@@ -4879,7 +4973,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"

@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-124 songs - 6 hr 49 min
+128 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,10 +30,12 @@
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2022-09-15 |  |
 | [Colline](https://open.spotify.com/track/40GXN1slZTEaXCoacjuocx) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Colline](https://open.spotify.com/album/5MwKZxkB3QLBsyhDa6eqJ8) | 3:06 | 2024-01-30 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-09-15 |  |
+| [Contemplation](https://open.spotify.com/track/1QRCpFQK9RytODMp2mpdG3) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Contemplation](https://open.spotify.com/album/4AZVOff7LIyViuLN7zctnI) | 3:13 | 2024-02-16 |  |
 | [Daydream](https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Daydream](https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo) | 4:07 | 2022-10-07 |  |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-09-15 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-09-15 |  |
 | [Dreamwalking](https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Dreamwalking](https://open.spotify.com/album/37ZnhjPhruA4YzrNnmLaOy) | 3:53 | 2022-11-11 |  |
+| [Drifting Away](https://open.spotify.com/track/2OcR4AVhkv1aQl51LOrv7L) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Drifting Away](https://open.spotify.com/album/1r1ROhlKfkqa4ulXennJPg) | 3:23 | 2024-02-16 |  |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2022-09-15 |  |
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-09-15 |  |
@@ -58,6 +60,7 @@
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2022-09-15 |  |
 | [In Early Autumn](https://open.spotify.com/track/5JqHpCJecMueZXSzgCPzQp) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [In Early Autumn](https://open.spotify.com/album/1vvGTNlVzcxZ51VPjr8pIz) | 3:06 | 2022-11-11 |  |
 | [In Rhythm](https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [In Terra](https://open.spotify.com/album/45CJ4LhQDf4eHyfyrFvo29) | 2:45 | 2022-09-15 | 2023-08-25 |
+| [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-16 |  |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2022-09-15 |  |
 | [Izza Bella](https://open.spotify.com/track/04SBXh7gAhybrSgCADK81Y) | [Jacqueline Bain](https://open.spotify.com/artist/7BjP91EWRsme41uhXNRmNK) | [Izza Bella](https://open.spotify.com/album/0n9ruQ1Lw3qLfUDKKMkJwR) | 3:18 | 2022-09-15 |  |
 | [Kensho](https://open.spotify.com/track/5qjMM52Ija5FTDP3NKsRNI) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:10 | 2022-09-15 |  |
@@ -122,6 +125,7 @@
 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 | 2022-12-02 |  |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |
 | [Theias \(Nature Sounds\)](https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Theias](https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X) | 2:19 | 2023-05-22 |  |
+| [Treetop Dreamers](https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Treetop Dreamers](https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw) | 2:59 | 2024-02-16 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-09-15 |  |
 | [Tu´i](https://open.spotify.com/track/0RBiJCkvaFRkLEQNV05cBs) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Tu´i](https://open.spotify.com/album/0AxYeSn9QBiaYJ8meIurZ3) | 3:10 | 2023-10-13 |  |
 | [twentieth\-night moon \- Meditation](https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [twentieth\-night moon](https://open.spotify.com/album/2N0jLRcc26Bdph24mVNwHK) | 2:50 | 2022-09-15 |  |

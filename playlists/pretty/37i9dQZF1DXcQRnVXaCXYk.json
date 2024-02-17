@@ -1,12 +1,12 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 43989,
+  "num_followers": 43994,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmU2ODg1NDAwZjA5ZmNmNDQxZTRiMzE2YzgyZGEzYzNmODI3ODIx",
+  "snapshot_id": "MCw4ZjIyZTBmNGFjNWI0NGEwOGY2YmI0ZTcwNGFlZjViOTc0YzkwZTMy",
   "tracks": [
     {
       "added_at": "2023-12-28 09:11:03",
@@ -595,22 +595,18 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
-        "name": "postcard from Berlin",
-        "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
+        "name": "Love Is Back",
+        "url": "https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        },
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 194092,
-      "name": "grapejuice",
-      "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
+      "duration_ms": 256946,
+      "name": "Love Is Back",
+      "url": "https://open.spotify.com/track/2xAffWASC4yddor8wW037Z"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -631,18 +627,22 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
-        "name": "Love Is Back",
-        "url": "https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk"
+        "name": "postcard from Berlin",
+        "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
         }
       ],
-      "duration_ms": 256946,
-      "name": "Love Is Back",
-      "url": "https://open.spotify.com/track/2xAffWASC4yddor8wW037Z"
+      "duration_ms": 194092,
+      "name": "grapejuice",
+      "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
-    },
-    {
-      "added_at": "2023-12-28 09:11:03",
-      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+    },
+    {
+      "added_at": "2023-12-28 09:11:03",
+      "album": {
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 172663,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt"
+    },
+    {
+      "added_at": "2023-12-28 09:11:03",
+      "album": {
         "name": "Spend The Night",
         "url": "https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 193729,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
-    },
-    {
-      "added_at": "2023-12-28 09:11:03",
-      "album": {
-        "name": "Wait for You",
-        "url": "https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 172663,
-      "name": "Wait for You",
-      "url": "https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
-    },
-    {
-      "added_at": "2023-12-28 09:11:03",
-      "album": {
         "name": "Long Run (feat. Nina Nesbitt)",
         "url": "https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 174480,
       "name": "Long Run (feat. Nina Nesbitt)",
       "url": "https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW"
+    },
+    {
+      "added_at": "2023-12-28 09:11:03",
+      "album": {
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
-        "name": "Loop & Dream Go",
-        "url": "https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo"
-      },
-      "artists": [
-        {
-          "name": "Mia Nicolai",
-          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
-        }
-      ],
-      "duration_ms": 147267,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/4gGbAcDvbr8iVVOxF78FEO"
-    },
-    {
-      "added_at": "2023-12-28 09:11:03",
-      "album": {
         "name": "girls like me don't cry (sped up)",
         "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR"
+        "name": "Loop & Dream Go",
+        "url": "https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo"
       },
       "artists": [
         {
-          "name": "Micah & Julia",
-          "url": "https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE"
+          "name": "Mia Nicolai",
+          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
         }
       ],
-      "duration_ms": 199241,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP"
+      "duration_ms": 147267,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/4gGbAcDvbr8iVVOxF78FEO"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -1119,6 +1103,22 @@
       "duration_ms": 185506,
       "name": "Room for Another",
       "url": "https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g"
+    },
+    {
+      "added_at": "2023-12-28 09:11:03",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0cI7LukQT1A8d3orxjBUwR"
+      },
+      "artists": [
+        {
+          "name": "Micah & Julia",
+          "url": "https://open.spotify.com/artist/5ky4yhXKn4OZw7KtZmfJKE"
+        }
+      ],
+      "duration_ms": 199241,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7xMtHMEyRCktv2UmDYG8kP"
     },
     {
       "added_at": "2023-12-28 09:11:03",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-12-28 09:11:03",
       "album": {
+        "name": "We Were Liars",
+        "url": "https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl"
+      },
+      "artists": [
+        {
+          "name": "Atticus Blue",
+          "url": "https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "We Were Liars",
+      "url": "https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG"
+    },
+    {
+      "added_at": "2023-12-28 09:11:03",
+      "album": {
         "name": "When The Light Hits The Room",
         "url": "https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 177701,
       "name": "Rest of My Life",
       "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
-    },
-    {
-      "added_at": "2023-12-28 09:11:03",
-      "album": {
-        "name": "these words are all for you",
-        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 208754,
-      "name": "good",
-      "url": "https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw"
     }
   ],
   "unique_name": "The Pop Lounge",

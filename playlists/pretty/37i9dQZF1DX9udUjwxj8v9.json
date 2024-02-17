@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145097,
+  "num_followers": 145111,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjI0MjQ5YzFhZmEzYzFhYmU1YTE2ODI0YTBmNTQ5NTkyYTFlMjIz",
+  "snapshot_id": "MCw0ZTg3MWJmOGQxZDE5YWU4ZTRkM2IwNDgwZjdkNjMxNzkzMjc2OGM3",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 194533,
       "name": "A Luz De Tieta",
       "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Sambas De Enredo Das Escolas De Samba 2019",
-        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
-      },
-      "artists": [
-        {
-          "name": "Marquinho Art'Samba",
-          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
-        },
-        {
-          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
-          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Hist\u00f3ria Para Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Anavit\u00f3ria Canta Para Foli\u00f5es De Bloco, Foli\u00f5es De Avenida E N\u00e3o Foli\u00f5es Tamb\u00e9m",
         "url": "https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 226388,
       "name": "Clareiam\u00f4",
       "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+      },
+      "artists": [
+        {
+          "name": "Marquinho Art'Samba",
+          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+        },
+        {
+          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
+          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Hist\u00f3ria Para Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Muitos Carnavais",
-        "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
+        "name": "Leci Brand\u00e3o",
+        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
         }
       ],
-      "duration_ms": 204773,
-      "name": "Chuva, Suor E Cerveja",
-      "url": "https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg"
+      "duration_ms": 204520,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Leci Brand\u00e3o",
-        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Feij\u00e3o Com Arroz",
         "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 233466,
       "name": "Nobre Vagabundo",
       "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Muitos Carnavais",
+        "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Chuva, Suor E Cerveja",
+      "url": "https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Beleza Rara - O melhor De Banda Eva",
-        "url": "https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "Alo Paixao",
-      "url": "https://open.spotify.com/track/23WC3lIxCNoVoe00MTyE1T"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Refavela",
         "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 155186,
       "name": "Patuscada de Gandhi - Afox\u00e9 filhos de Gandhi",
       "url": "https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Beleza Rara - O melhor De Banda Eva",
+        "url": "https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Alo Paixao",
+      "url": "https://open.spotify.com/track/23WC3lIxCNoVoe00MTyE1T"
     },
     {
       "added_at": "2023-03-06 22:48:04",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics\. Cover: McCoy Tyner
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,332 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,421 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This I Dig Of You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:25 |
 | 2 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 |
-| 3 | [Boogie Stop Shuffle](https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 4:58 |
-| 4 | [Leap Frog \- Take 11 / Take 6 / Master Take](https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Curly Russell](https://open.spotify.com/artist/1zSDPSHsf6mXiNp3AHmSvG), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Bird And Diz \(Expanded Edition\)](https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK) | 2:37 |
+| 3 | [Leap Frog \- Take 11 / Take 6 / Master Take](https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Curly Russell](https://open.spotify.com/artist/1zSDPSHsf6mXiNp3AHmSvG), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Bird And Diz \(Expanded Edition\)](https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK) | 2:37 |
+| 4 | [Boogie Stop Shuffle](https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 4:58 |
 | 5 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 |
 | 6 | [Bloomdido \- Master Take](https://open.spotify.com/track/2qkDwUvGAQcxqHWsguEbXV) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Bird And Diz: The Genius Of Charlie Parker \#4](https://open.spotify.com/album/7LVNnSl6UhjkLepWoPLqg1) | 3:25 |
 | 7 | [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 | 65 | [Moose The Mooche](https://open.spotify.com/track/5gZR2gQcVsQYPZpbOBwtmk) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Drums Around The Corner](https://open.spotify.com/album/5kpNDQ4B9GQd3GS4Z5o2GK) | 15:17 |
 
-Snapshot ID: `MCw3ZDY4MmYyNGE3NjI2YmM2ZWRhYTEyNGVmMzAxYjJiMmJmMzFmMDll`
+Snapshot ID: `MCwzMGZjZDRmZjA3YzEyOTU2ZTAwOWY1MjJkYmZmNzdiZTI0OTk5YjVk`

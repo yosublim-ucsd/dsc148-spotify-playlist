@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,371 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,380 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 36 | [Wasting Time](https://open.spotify.com/track/3WpHDeAOuLc8J2vnnnwvey) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Wasting Time](https://open.spotify.com/album/5ThfqHk4kjrciX3uGZNods) | 3:08 |
 | 37 | [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 |
 | 38 | [The Best Part of Me](https://open.spotify.com/track/0ZsXNkIWD2wx6OX3dVDu4l) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Andromeda](https://open.spotify.com/album/03fmmEHO36zkMzPOZRyWg2) | 3:09 |
-| 39 | [Corail Intercité \- Radio Edit](https://open.spotify.com/track/13aZsDcR8Td6JJoelei4ok) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Corail Intercité](https://open.spotify.com/album/2Y3hC9ZKt9OJMmO1415V33) | 3:31 |
+| 39 | [Corail Intercité \- Edit](https://open.spotify.com/track/13aZsDcR8Td6JJoelei4ok) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Corail Intercité](https://open.spotify.com/album/2Y3hC9ZKt9OJMmO1415V33) | 3:31 |
 | 40 | [SOS Love Story](https://open.spotify.com/track/023iDDLtk8OU4Jb11rfARY) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [SOS Love Story](https://open.spotify.com/album/4c45lSdFers0FLrmOeOijG) | 3:05 |
 | 41 | [DUI](https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [DUI](https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1) | 4:07 |
 | 42 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Xany](https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Xany](https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn) | 2:08 |
 | 50 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 |
 
-Snapshot ID: `MCwyZGU1NjE3MzlhYmJmMWNkMWMxMTI0MzE3ZmQ1NDQzNDA1NGYzYTM3`
+Snapshot ID: `MCw3ZmQ1MGZkMDNjYWNlNzY2NTQ4MTYzZWFjYjM1MDQwYzc4MjM0OWU3`

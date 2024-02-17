@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
-  "num_followers": 148678,
+  "num_followers": 148734,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGMwOTIxNGIxMDg4ZDQ0OTVmMGQ3NTEwM2VmNzU5ZmViMjg4OGE2",
+  "snapshot_id": "MCwzYTEyYTJiNjJiYzI4ZmJkZmE2YmY2OTM4OWE4Zjk5MDAzNTc1Yzk3",
   "tracks": [
     {
       "added_at": "2024-02-09 07:39:09",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Love Like That",
         "url": "https://open.spotify.com/album/1ewhccVD32md195nWwLG3u"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 166654,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1007,6 +1007,34 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Deyah",
+          "url": "https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb"
+        },
+        {
+          "name": "Joel Baker",
+          "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
+        },
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
       },
@@ -1059,34 +1087,6 @@
       "duration_ms": 132472,
       "name": "What?",
       "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4"
-      },
-      "artists": [
-        {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Deyah",
-          "url": "https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb"
-        },
-        {
-          "name": "Joel Baker",
-          "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
-        },
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp"
+      },
+      "artists": [
+        {
+          "name": "A-Eazy",
+          "url": "https://open.spotify.com/artist/1XhOpjLTSElOphEUHoCdO2"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "Message Muzik",
+          "url": "https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0"
+        }
+      ],
+      "duration_ms": 147910,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Problematic",
         "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
       },
@@ -1343,26 +1367,18 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp"
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
       },
       "artists": [
         {
-          "name": "A-Eazy",
-          "url": "https://open.spotify.com/artist/1XhOpjLTSElOphEUHoCdO2"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "Message Muzik",
-          "url": "https://open.spotify.com/artist/2Zb6NqJgw5gvlXuW9Ww0i0"
+          "name": "J Vessel",
+          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
         }
       ],
-      "duration_ms": 147910,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa"
+      "duration_ms": 193596,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1379,22 +1395,6 @@
       "duration_ms": 154320,
       "name": "Lines Drawn",
       "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "REASON",
-        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
-      },
-      "artists": [
-        {
-          "name": "J Vessel",
-          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
-        }
-      ],
-      "duration_ms": 193596,
-      "name": "REASON",
-      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "KEEPER",
+        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
+      },
+      "artists": [
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "KEEPER",
+      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "That Ain't It",
         "url": "https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV"
       },
@@ -1455,38 +1475,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "KEEPER",
-        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
+        "name": "Young",
+        "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
       },
       "artists": [
         {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+          "name": "KJ Carter",
+          "url": "https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ"
         },
         {
-          "name": "Vianca \"The Grace\"",
-          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
         }
       ],
-      "duration_ms": 238285,
-      "name": "KEEPER",
-      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Troops",
-        "url": "https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Troops",
-      "url": "https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4"
+      "duration_ms": 135254,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1507,22 +1511,34 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/3kupPWUXoqmgnw0TmFYtXZ"
+        "name": "Troops",
+        "url": "https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A"
       },
       "artists": [
         {
-          "name": "KJ Carter",
-          "url": "https://open.spotify.com/artist/4vpOYEYiLdM7mPvbf01ANJ"
-        },
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
         }
       ],
-      "duration_ms": 135254,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
+      "duration_ms": 142500,
+      "name": "Troops",
+      "url": "https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Temple In LA",
+        "url": "https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc"
+      },
+      "artists": [
+        {
+          "name": "Leon Anderson",
+          "url": "https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV"
+        }
+      ],
+      "duration_ms": 203652,
+      "name": "Temple In LA",
+      "url": "https://open.spotify.com/track/0cjPzxsVr1L5NP8psCvVBv"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Temple In LA",
-        "url": "https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc"
-      },
-      "artists": [
-        {
-          "name": "Leon Anderson",
-          "url": "https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV"
-        }
-      ],
-      "duration_ms": 203652,
-      "name": "Temple In LA",
-      "url": "https://open.spotify.com/track/0cjPzxsVr1L5NP8psCvVBv"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "The Prodigal Son",
         "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
@@ -1599,6 +1599,26 @@
       "duration_ms": 164396,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "F.O.F.",
+        "url": "https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh"
+      },
+      "artists": [
+        {
+          "name": "E.i. the King",
+          "url": "https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 148981,
+      "name": "F.O.F.",
+      "url": "https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1623,26 +1643,6 @@
       "duration_ms": 175135,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "F.O.F.",
-        "url": "https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh"
-      },
-      "artists": [
-        {
-          "name": "E.i. the King",
-          "url": "https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 148981,
-      "name": "F.O.F.",
-      "url": "https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1683,6 +1683,30 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Steve Austin",
         "url": "https://open.spotify.com/album/7AOKuoJt2Rk58ADL73Dlvc"
       },
@@ -1719,30 +1743,6 @@
       "duration_ms": 135831,
       "name": "Poetic Pain",
       "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Never Leave Me",
-        "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Never Leave Me",
-      "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
-        "url": "https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
-      "url": "https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "Dreams Don't Have Deadlines",
         "url": "https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 159469,
       "name": "MOUNTAINS",
       "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
+        "url": "https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
+      "url": "https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5"
     },
     {
       "added_at": "2024-02-09 07:39:09",

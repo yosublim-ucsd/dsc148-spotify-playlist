@@ -1,12 +1,12 @@
 {
   "description": "A new wave of rock music. Cover: Sick Love",
-  "num_followers": 8524,
+  "num_followers": 8531,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjFjMmUzZDc0ZjY1MzZmN2U5NTM0M2ZiMmIzZmQ4YmNmM2Y2MzAw",
+  "snapshot_id": "MCxkODk3ZTA3OWFkMWRkNzg0MDBkMzhhOWU1NGI2NGE2OWEzN2U3ZjNk",
   "tracks": [
     {
       "added_at": "2024-02-09 00:00:00",
@@ -75,6 +75,22 @@
       "duration_ms": 204519,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/3fqWpuu8c3bWiBw5yviBAa"
+    },
+    {
+      "added_at": "2024-02-16 11:37:49",
+      "album": {
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/6W8AJFYRwG0vCbf3qC3Pfj"
+      },
+      "artists": [
+        {
+          "name": "About Bunny",
+          "url": "https://open.spotify.com/artist/5Ywb0MRsHQdzngYBTZyuf9"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/21rQgTvx0rD9kOdFMRGQjC"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -299,6 +315,22 @@
       "duration_ms": 264120,
       "name": "King Size Slim",
       "url": "https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H"
+    },
+    {
+      "added_at": "2024-02-16 11:37:49",
+      "album": {
+        "name": "From the Night",
+        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 251821,
+      "name": "From the Night",
+      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
     },
     {
       "added_at": "2024-02-09 00:00:00",

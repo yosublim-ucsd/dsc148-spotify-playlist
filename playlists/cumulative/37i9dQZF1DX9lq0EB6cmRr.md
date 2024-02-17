@@ -2,9 +2,9 @@
 
 ### [Classic.K](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
 
-> Listen hot and new Korean classical & new age  music in here! \(Cover: Forestella\(포레스텔라\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
+> Listen hot and new Korean classical & new age  music in here! \(Cover: Hera Hyesang Park\(박혜상\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-98 songs - 8 hr 10 min
+99 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [We Will Be One](https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6) | [We Will Be One](https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV) | 3:03 | 2023-09-13 |  |
 | [Welcome To SMCU PALACE](https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a) | [SM Classics TOWN Orchestra](https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF) | [2022 Winter SMTOWN : SMCU PALACE](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 2:09 | 2023-09-13 |  |
 | [when it snows in May](https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [non è la fine](https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR) | 2:25 | 2023-09-13 |  |
+| [While You Live](https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Hera Hyesang Park](https://open.spotify.com/artist/5BEdNxvruChpR6M2ZSzk4H), [Giovanni Battista Fabris](https://open.spotify.com/artist/0HmmACDgxK6xEYtw2zOWWH), [Orchestra del Teatro Carlo Felice](https://open.spotify.com/artist/0IyzdQmUIF7OW35Lj5MkTi), [Jochen Rieder](https://open.spotify.com/artist/60gjz5QfP3kW8Nsw5GJOuk) | [Breathe](https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl) | 4:06 | 2024-02-16 |  |
 | [너의 자유야](https://open.spotify.com/track/4h11kTlpCGg60Y18qA9vjV) | [정현묵](https://open.spotify.com/artist/19AapPEBgno4ABfOB0Nw3d), [최용호](https://open.spotify.com/artist/06eCHq3n96anYE1GJo7IzU) | [너의 자유야](https://open.spotify.com/album/3bg2zeyy3LfMkfwnfNgyBz) | 4:42 | 2023-09-13 |  |
 
 \*This playlist was first scraped on 2023-10-12. Prior content cannot be recovered.

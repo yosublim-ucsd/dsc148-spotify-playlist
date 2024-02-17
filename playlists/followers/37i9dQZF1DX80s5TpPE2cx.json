@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 8596,
+  "2024-02-17": 8609,
   "date_first_scraped": "2022-10-01",
-  "description": "The songs that defined Nigeria's Alt\u00e9 era ",
+  "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
   "name": "Alt\u00e9 Classics ",
   "tracks": [
     {
@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 237532,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
@@ -819,6 +819,24 @@
       "duration_ms": 260075,
       "name": "Happy Hour (feat. Okuntakinte)",
       "url": "https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5"
+    },
+    {
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151983,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
     },
     {
       "album": {
@@ -1093,10 +1111,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 213333,
       "name": "Lagos (Everyday)",
       "url": "https://open.spotify.com/track/60MGzxXb8Q86LwWzyMs6XH"
+    },
+    {
+      "album": {
+        "name": "Last Thing",
+        "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162230,
+      "name": "Last Thing",
+      "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
     },
     {
       "album": {
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 134295,
       "name": "Mondays",
       "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
@@ -1344,6 +1380,24 @@
     },
     {
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+    },
+    {
+      "album": {
         "name": "Not my Bae",
         "url": "https://open.spotify.com/album/7M1PYdkEj0VasRUM5JMXmO"
       },
@@ -1363,6 +1417,24 @@
       "duration_ms": 220238,
       "name": "Not my Bae",
       "url": "https://open.spotify.com/track/3lBTbzfg1kooHibufzkj5x"
+    },
+    {
+      "album": {
+        "name": "WINNY",
+        "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Operation",
+      "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
     },
     {
       "album": {
@@ -1543,6 +1615,24 @@
       "duration_ms": 206750,
       "name": "Reason You",
       "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
+    },
+    {
+      "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "album": {
@@ -2199,7 +2289,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 205400,
       "name": "Up",
       "url": "https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws"
@@ -2433,7 +2523,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 226173,
       "name": "Work",
       "url": "https://open.spotify.com/track/3Bko3cIQk6egVQXFwj80LI"

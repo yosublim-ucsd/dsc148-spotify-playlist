@@ -4,7 +4,7 @@
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-145 songs - 7 hr 36 min
+149 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Alpha Universe 64+66 hz](https://open.spotify.com/track/7Hbgr7d97YAxvZE0gufBWO) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:45 | 2023-11-24 |  |
 | [Alpha Waves 135\-143 Hz](https://open.spotify.com/track/2915mCusZYza3M6GgIHk0n) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Alpha Waves 135\-143 Hz](https://open.spotify.com/album/2Xf8woxFYUlyFPoZrsAENf) | 2:32 | 2023-11-24 |  |
 | [Alpha Waves 136Hz \- 143Hz](https://open.spotify.com/track/4ijiUV9s3zXUASLVoTq42I) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:52 | 2023-11-24 |  |
+| [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/track/4p62bc6ng2sXwyHJT0M6Qv) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/album/1j9nwoR1nMCvj7J8RNRGXY) | 2:42 | 2024-02-16 |  |
 | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/track/2AFdAp6PnYcJdiEknVrMp7) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/album/7raltftxJk9fINtP88U8KT) | 2:39 | 2024-01-31 |  |
 | [Beyond Gravity \(Alpha Drone L172Hz R180Hz\)](https://open.spotify.com/track/6ZPGiH0YlWSYmtf7W0I0xI) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 3:39 | 2023-11-24 |  |
 | [Binaural Alpha 12\-10hz Drones 114hz](https://open.spotify.com/track/6yXkV5I9ehU7A3q4kqZq56) | [Michele Lark](https://open.spotify.com/artist/29EUNz9UsGgEqi4nRHxs8x) | [Binaural Alpha 12\-10hz Drones 114hz](https://open.spotify.com/album/4R7eR5JizsKdAUAoOaST1l) | 3:23 | 2023-11-24 |  |
@@ -94,9 +95,11 @@
 | [Deep Ocean \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/6hYIZ3STECmS3aIZFY9sGF) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 2:56 | 2023-11-24 |  |
 | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/642iNBukUtBt3u10jgisRs) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Deep Ocean Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/album/1UwvIQl5GRpwbPzo0V7bHR) | 3:03 | 2023-11-24 |  |
 | [Deep state \- Alpha Sinus 138 Hz \- 140 Hz](https://open.spotify.com/track/2qjnXfgxjXtvS5lAbiteFh) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 2:52 | 2023-11-24 |  |
+| [Drifting \- 528Hz](https://open.spotify.com/track/7E8QuZRLdYzjXAGicz2j7O) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Drifting \- 528Hz](https://open.spotify.com/album/6eKeVnVIvw1tkW5FIjAoyO) | 2:50 | 2024-02-16 |  |
 | [Embracing 417 Hz](https://open.spotify.com/track/2JY9zD8imqqvQ8A9yjDUBK) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [Embracing 417 Hz](https://open.spotify.com/album/0B6ZsKKEz3lNfBZSgcsWHK) | 2:57 | 2024-01-31 |  |
 | [emerging roots \- Alpha Sinus 81Hz \- 89Hz](https://open.spotify.com/track/7JwG4QGEMVEJT1yyqLYlmv) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 4:23 | 2023-11-24 |  |
 | [Endless Alpha Waves 110Hz \- 117Hz](https://open.spotify.com/track/6xht0B0H0ehBfCfjker2gI) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Endless Alpha Waves 110Hz \- 117Hz](https://open.spotify.com/album/1W5WyT8rxi53xXqnEigwMt) | 3:15 | 2023-11-24 |  |
+| [Enyrma 396Hz](https://open.spotify.com/track/1orxcdtIK5ejnttDYCbHmw) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Enyrma 396Hz](https://open.spotify.com/album/4tFBZdSmxsOHEa4kxMEley) | 2:59 | 2024-02-16 |  |
 | [Eventi Alpha SInus 88\-94 Hz](https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:40 | 2023-11-24 |  |
 | [Fantasia \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/6yDMWJ9KFUtFkQndXVVJry) | [Binaural Movements](https://open.spotify.com/artist/7qgmuFa8s0woxvn8Tnl84Q) | [Access to the Subconcious](https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m) | 2:41 | 2023-11-24 |  |
 | [focus \- Alpha Sinus 82Hz \- 90Hz](https://open.spotify.com/track/5cT3Zcnx3DKezVFAYUPpqg) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:40 | 2023-11-24 |  |
@@ -127,6 +130,7 @@
 | [Organic \- Alpha Sinus 146 Hz \- 144 Hz](https://open.spotify.com/track/3ITuTlrD4eRYv4uKFFeiBj) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 3:22 | 2023-11-24 |  |
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2023-11-24 |  |
 | [Positive Alpha Waves 55Hz \- 65.4Hz](https://open.spotify.com/track/04bLoTij9P3BOSp9rrq6LN) | [Collective Soundsculptures](https://open.spotify.com/artist/5ngtCn6A84LDri0gKPAzQs) | [Positive Alpha Waves 55Hz \- 65.4Hz](https://open.spotify.com/album/32Op7Ug49HmZz28lqJPJKR) | 2:57 | 2023-11-24 |  |
+| [Propelling Mind Bb Delta \(115\-119hz\)](https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thoughtless Eclipse Delta](https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU) | 2:36 | 2024-02-16 |  |
 | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/track/7nHI4JcpC3QhI5JbXDI3pU) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/album/4y6AxPnrkb9doxWLl4nsTR) | 3:17 | 2023-11-24 |  |
 | [reflection \- Binaural Alpha Sinus 90Hz \- 98Hz](https://open.spotify.com/track/3LYevpQVcwmiH4S0OGTqnP) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:18 | 2023-11-24 |  |
 | [Refreshed \(Binaural Alpha\)](https://open.spotify.com/track/3x5KoeNMu87qI58lciyDRJ) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Revitalizing Mind \(Binaural Alpha\)](https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG) | 3:51 | 2023-11-24 |  |

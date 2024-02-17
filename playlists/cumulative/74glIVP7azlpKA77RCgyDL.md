@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Imminence
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Wristmeetrazor
 
-615 songs - 1 day 15 hr 23 min
+621 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 | 2023-07-15 |
 | [Burn the System](https://open.spotify.com/track/0xT8lO6AN5wEgkPxw7aCSm) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Burn the System](https://open.spotify.com/album/47CnioO06kBWZ9poXwiDPB) | 4:49 | 2023-01-13 | 2024-02-03 |
 | [Burn Your Bible](https://open.spotify.com/track/74OhwbALx4m1WD6CfqD5nt) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Burn Your Bible](https://open.spotify.com/album/3GKwZOSfukp9D84KEdY38i) | 3:35 | 2023-08-04 | 2024-02-03 |
+| [Burning Down](https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Burning Down](https://open.spotify.com/album/3N0MmEkRF87NFwaRWppLr0) | 6:12 | 2024-02-16 |  |
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 | 2023-07-15 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2023-07-15 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2023-07-15 |
@@ -97,6 +98,7 @@
 | [Circles](https://open.spotify.com/track/4aYkfJgC7xafLornfFse4L) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [Circles](https://open.spotify.com/album/2LuHmKnCWfLwmQhGuOPNMZ) | 3:15 | 2022-09-23 | 2023-07-15 |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-08 | 2023-07-15 |
 | [Cliffhanger](https://open.spotify.com/track/5J9PWfWEFc7a21pgWt6PkK) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Cliffhanger](https://open.spotify.com/album/06DSoRQ46K2LWqI0Gi2OG8) | 2:36 | 2022-07-08 | 2023-07-15 |
+| [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 | 2024-02-16 |  |
 | [Coalescence](https://open.spotify.com/track/6Q40M2CmHgZWDpCghLLhH6) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Coalescence](https://open.spotify.com/album/1yTkDFttSeUh5bKufYBGbj) | 3:13 | 2022-01-14 | 2023-07-15 |
 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2023-11-10 | 2024-02-03 |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2023-07-15 |
@@ -186,6 +188,7 @@
 | [Exodus](https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Exodus](https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c) | 4:18 | 2022-11-11 | 2023-07-15 |
 | [Extortion](https://open.spotify.com/track/2yIKuIZOyio39fRLexWyt1) | [Killing Pace](https://open.spotify.com/artist/35oHGxQhAMaExrcS9CPYOK) | [Killing Pace](https://open.spotify.com/album/6kh7J4Qvjgsm7yyasxQORY) | 2:02 | 2022-05-20 | 2023-07-15 |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 | 2023-07-15 |
+| [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-02-16 |  |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 | 2024-02-03 |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 | 2023-07-15 |
 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-02 | 2023-07-15 |
@@ -413,6 +416,7 @@
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-05-20 | 2023-07-15 |
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 | 2023-07-15 |
 | [Rampage](https://open.spotify.com/track/0eNDqVImfIXLh4dUyDkRNa) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Rampage](https://open.spotify.com/album/4ckRIwGoYjDBg9xZqOoFDW) | 4:14 | 2023-11-03 | 2024-02-03 |
+| [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 |  |
 | [Reality](https://open.spotify.com/track/4pEf65p8qX8TZ4ohXC6Ses) | [Corpse Pile](https://open.spotify.com/artist/3xUOrcghypEI9Ua6wR0tDU) | [Reality](https://open.spotify.com/album/4PwBGEiZbSyu5oRGOIjI2h) | 2:05 | 2024-01-05 |  |
 | [Rebirth](https://open.spotify.com/track/6H7gfGV4wZuQDdjzh5yA4j) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Summer's Beginning](https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm) | 4:09 | 2023-06-30 | 2024-02-03 |
 | [Reckoning](https://open.spotify.com/track/4xcfmHe5mRVzPA0tdKJltA) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Reckoning](https://open.spotify.com/album/5SfCfODkHePAgQaLMgnmWs) | 7:52 | 2023-02-24 | 2024-02-03 |
@@ -547,6 +551,7 @@
 | [Tower Has Fallen](https://open.spotify.com/track/6LI5dpKCc3Z157MFsxcPDw) | [Ephemeral](https://open.spotify.com/artist/07bVX0mFSx79Nd6250qVCa) | [Tower Has Fallen](https://open.spotify.com/album/0dBLFferJ65QLYw5ZVmKIU) | 2:56 | 2023-04-28 | 2024-02-03 |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 | 2023-07-15 |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 | 2023-07-15 |
+| [Trepanation](https://open.spotify.com/track/2qohTQsfJbWHdXDsj2SaY8) | [Wristmeetrazor](https://open.spotify.com/artist/2d75DTub8rPPrm6veUsyf6) | [Trepanation](https://open.spotify.com/album/7C9jZu04hoVqLeUMlHJbE3) | 2:28 | 2024-02-16 |  |
 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 | 2023-11-17 | 2024-02-03 |
 | [Tunnel Lights](https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Tunnel Lights](https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt) | 4:07 | 2023-12-01 | 2024-02-03 |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-17 | 2024-02-03 |
@@ -586,6 +591,7 @@
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-03-11 | 2023-07-15 |
 | [Watchtower](https://open.spotify.com/track/7pgj6tSDzpL73tzrUaW4TP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Watchtower](https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb) | 2:48 | 2022-02-04 | 2023-07-15 |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-02-18 | 2023-07-15 |
+| [We Annihilate](https://open.spotify.com/track/1nUj9wJFvpdiJGh84uiGFv) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [We Annihilate](https://open.spotify.com/album/1uNPouaWqmH8VmFeFsbmhE) | 4:05 | 2024-02-16 |  |
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 | 2023-07-15 |
 | [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 | 2023-05-19 | 2024-02-03 |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 | 2024-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fIjdSCaFr8.md) - [plain]
 
 > Enjoy the drama 'YUMI's Cells,' OSTs in a different way with the lines in the drama\. You can watch this drama on TVING as well\. \(드라마 '유미의 세포들'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. TVING에서도 유미의 세포들을 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,112 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,110 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fIjdSCaFr8.md) - [plain]
 | 2 | [About You](https://open.spotify.com/track/4nuAz4iqrdrOI4rnmVYsRL) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 3:15 |
 | 3 | [Everyday](https://open.spotify.com/track/0zAf1Dfn1miQdbuDxKianJ) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 3:44 |
 | 4 | [Shining on Your Night](https://open.spotify.com/track/6iNn60uOov66kDagmLR5iX) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 3:42 |
-| 5 | [My Day \- Acoustic Version](https://open.spotify.com/track/6eLKrG79RmDDOJosZR3uEh) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 4:12 |
+| 5 | [My Day \- Acoustic Version](https://open.spotify.com/track/6eLKrG79RmDDOJosZR3uEh) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 4:12 |
 | 6 | [Between Hearts](https://open.spotify.com/track/5nAcOmlULlSYN67SEHSLvi) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 3:26 |
 | 7 | [Where My Heart Falls](https://open.spotify.com/track/78YsBqx7SQlZdUTWdl7hPJ) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 4:08 |
 | 8 | [The Island](https://open.spotify.com/track/40wAnhTw9ZUsRkvkRY247W) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rJTTEQ2cjPTC31MzoyuvY) | 4:00 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fIjdSCaFr8.md) - [plain]
 | 63 | [I′m in Paris \- Instrumental](https://open.spotify.com/track/79Ui7x4E3pokNKt35HmscD) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [YUMI's Cells, Pt\. 9 \(Original Television Soundtrack\)](https://open.spotify.com/album/2EtOZ2Jg6MTPhoGIv2W51Z) | 2:33 |
 | 64 | [Timing \- Instrumental](https://open.spotify.com/track/4M0m3ud0fML2o1lDWAG0dx) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [YUMI's Cells, Pt\. 11 \(Original Television Soundtrack\)](https://open.spotify.com/album/1BiZYg0Af6JnUeFbUI5ckl) | 3:52 |
 
-Snapshot ID: `MCxjZmY4ZjQ5MzQwNmY1YTEwOTQwZjk3ZGUwOTA2ZDI1ZjJhMTE0YmE1`
+Snapshot ID: `MCw1NWIyN2RlNWQwMzIwYjNmMzUzNjc0NDJhYjlkNDgwOGQxNjA2MGQ0`

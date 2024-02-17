@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,685 likes - 40 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,724 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
 | 40 | [Michi Mazavyalo](https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K) | [Jasraj Joshi](https://open.spotify.com/artist/6o1fV9yKZDGNdMl2chOWql) | [YZ](https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o) | 3:10 |
 
-Snapshot ID: `MCwyYmJkYjg0ODA3MjU2YjQ5YzRlZDQ0NTg5MThlODlhOGJlMDA1Yzlm`
+Snapshot ID: `MCwyOTE3MTNiZWY0ZmVhMDVlN2JlOWUxN2M0ZTA3NWYxZTI4OWJiZTlj`

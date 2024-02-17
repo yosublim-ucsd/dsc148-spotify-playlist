@@ -1,5 +1,5 @@
 {
-  "2024-02-16": 8604,
+  "2024-02-17": 8607,
   "date_first_scraped": "2021-12-29",
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
   "name": "This Is Patoranking",
@@ -829,7 +829,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 192006,
       "name": "Gyal Like You",
       "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 203093,
       "name": "Miracle Baby",
       "url": "https://open.spotify.com/track/4SiIa6dMiUzC9X1gz0OSYq"

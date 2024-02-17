@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 971850,
+  "2024-02-17": 972021,
   "date_first_scraped": "2023-09-29",
-  "description": "Hoshi au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Pierre Garnier au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 193136,
       "name": "Au bord de la mer",
       "url": "https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3"
@@ -79,6 +79,24 @@
       "duration_ms": 176653,
       "name": "Beau (feat. Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
+    },
+    {
+      "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191479,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
     },
     {
       "album": {
@@ -1055,9 +1073,27 @@
           "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
         }
       ],
-      "date_added": "2023-09-28",
+      "date_added": "2024-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
+    },
+    {
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-16",
       "duration_ms": 178326,
       "name": "La symphonie des \u00e9clairs - Edit",
       "url": "https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN"
@@ -1137,6 +1173,24 @@
       "duration_ms": 222353,
       "name": "Le chant est libre",
       "url": "https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA"
+    },
+    {
+      "album": {
+        "name": "L'album de la promo 2023",
+        "url": "https://open.spotify.com/album/38uH901kwJKt0N1DkIextc"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Le chemin (L\u00e9nie & Pierre)",
+      "url": "https://open.spotify.com/track/0N6vb3WsrfQqadaq7lWrnb"
     },
     {
       "album": {
@@ -1795,7 +1849,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 146200,
       "name": "Vivre",
       "url": "https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q"

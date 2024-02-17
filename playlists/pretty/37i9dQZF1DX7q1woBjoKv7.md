@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:47TMF0JlFsz01KilGzc5Ly">Kalan.FrFr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,208 likes - 56 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,223 likes - 56 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 15 | [Living Off The Land](https://open.spotify.com/track/0aqXHeEGEqLSdcnMNlFM45) | [Huey Briss](https://open.spotify.com/artist/1G6Gq9pcDT5OwZjEdKXBZm) | [Living Off The Land](https://open.spotify.com/album/1HN3xcIHIVgsQl76wXyEv2) | 2:08 |
 | 16 | [Madness](https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Madness](https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E) | 3:30 |
 | 17 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
-| 18 | [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 |
+| 18 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 |
 | 19 | [Christmas Everyday](https://open.spotify.com/track/2CIQP9j2Q8Qlm9HMCKGERh) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:26 |
 | 20 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 |
 | 21 | [Can't Fake What You Feel](https://open.spotify.com/track/62UXPpJDZ2v6TFZk6yzF40) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Bad Gurl](https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp) | 2:51 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 55 | [Warmer with You](https://open.spotify.com/track/3FIU12rRLkfrHdA0vBIsHN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Warmer with You](https://open.spotify.com/album/5SwM2wVqEX9FmRHgTOfuL5) | 2:17 |
 | 56 | [Amnesia](https://open.spotify.com/track/5epc7WKFAgcqJkfwBidCOM) | [Griff Tyler](https://open.spotify.com/artist/6haDJLArD4GA9AF3YM2EVS) | [When Summer's Over](https://open.spotify.com/album/6r3PvzOCS8xQUfBSmrBd2e) | 3:26 |
 
-Snapshot ID: `MCwyYzVkMmMzN2Y2YTk0YTc5MTJlMGYwYWFlYTE3YWE3MTcwMTcwODg2`
+Snapshot ID: `MCxkNzM3M2IyZDI5NDBjOWQ1ODRmMWYxZjQyMzYwNmUzNjE2ODc5OTdl`

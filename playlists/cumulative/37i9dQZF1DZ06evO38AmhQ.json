@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 272066,
       "name": "Ancient Mountains",
       "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
@@ -254,10 +254,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 195426,
       "name": "Chandelier of Stars",
       "url": "https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc"
+    },
+    {
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Chandelier of Stars",
+      "url": "https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 189733,
       "name": "Three Rivers Hotel",
       "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 242240,
       "name": "True Blue - 1986 Version",
       "url": "https://open.spotify.com/track/0ZvsBTqdcOKdvQSV11YG9V"

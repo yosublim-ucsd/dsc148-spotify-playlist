@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-351 songs - 16 hr 44 min
+354 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2020-10-20\* |  |
 | [A Presence Felt](https://open.spotify.com/track/1Uli6hijxurqXnmkNCZuyK) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5o7ZYBKSmXLLm9mIHIqJUc) | 3:04 | 2022-07-22 |  |
 | [A Presence Felt](https://open.spotify.com/track/1nhuTS6xotWZima4bQJUvX) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5PdN1hbgdNfgEKFG5nsq24) | 3:04 | 2020-10-20\* | 2022-07-29 |
+| [A quiet dawn](https://open.spotify.com/track/1LTYXEgC5nQCHXdpN7Q7CC) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [A quiet dawn](https://open.spotify.com/album/4JRaZmlNVX28v4rQZ73qBX) | 2:23 | 2024-02-16 |  |
 | [A Way to Heaven](https://open.spotify.com/track/53P3pDWN0hGSLypCMWCech) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [A Way to Heaven](https://open.spotify.com/album/0zpY104xA55q6yTnvfrZt1) | 1:02 | 2020-10-20\* | 2023-07-29 |
 | [above the clouds](https://open.spotify.com/track/3tYIa6bWt6MFfDHCRceCZ6) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [above the clouds](https://open.spotify.com/album/2CuKBq5lsJJh87ajdVzwa9) | 2:05 | 2023-12-01 |  |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-10-28 |  |
@@ -161,6 +162,7 @@
 | [In The Flow](https://open.spotify.com/track/6pIMPHYvfqfBeeuDkUbmu2) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [In The Flow](https://open.spotify.com/album/6bHR1V6UimjQDqRbG3QMKS) | 3:24 | 2022-10-21 |  |
 | [Infinity](https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Infinity](https://open.spotify.com/album/3YPKwO0fyF9cXrmDvrIUtb) | 3:23 | 2020-10-20\* |  |
 | [Interstellare](https://open.spotify.com/track/1E4isOfwYnMGsDWVr3y9ox) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Interstellare](https://open.spotify.com/album/5fdQZkXP1jZ3CcekEpM2ms) | 2:52 | 2023-10-06 |  |
+| [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-16 |  |
 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2020-10-20\* |  |
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
@@ -169,6 +171,7 @@
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2020-10-20\* | 2022-09-15 |
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2020-10-20\* |  |
 | [Land Of Eternal Spring](https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:38 | 2020-10-20\* | 2022-02-04 |
+| [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-16 |  |
 | [Levitate](https://open.spotify.com/track/7dZchcSQZRcqLs9g5FkbYs) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Levitate](https://open.spotify.com/album/6cLDivlBobugdVdPeKuySN) | 1:30 | 2020-10-20\* | 2023-07-29 |
 | [Lights](https://open.spotify.com/track/5plhWnhwmDY9WWNCCmM73D) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Lights](https://open.spotify.com/album/1x80WCfNq7peLe03xg6Bnl) | 3:14 | 2020-10-20\* | 2022-09-03 |
 | [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 | 2020-10-20\* | 2023-07-29 |

@@ -4,7 +4,7 @@
 
 > from Stillwater to Nashville with Wyatt Flores
 
-261 songs - 15 hr 43 min
+262 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 | 2023-02-24 | 2023-08-21 |
 | [Virginia \- radiowv](https://open.spotify.com/track/4OAJKm0oBV9x5L647GUmn1) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Virginia \(radiowv\)](https://open.spotify.com/album/3VMhRXQfpTqMEIvq4GwFO0) | 2:49 | 2023-08-25 | 2023-12-09 |
 | [Virginia and You](https://open.spotify.com/track/2XprbiQ9YXfVbAYOHvnahD) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Virginia and You](https://open.spotify.com/album/2hM4NRLVcMbp5Vu6E9odF1) | 3:31 | 2023-05-12 |  |
+| [Waging War](https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Waging War](https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd) | 4:01 | 2024-02-16 |  |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2023-02-24 | 2023-07-01 |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2024-01-31 |  |
 | [West Of Tulsa](https://open.spotify.com/track/30CTixQQMXTkbBUKrLQpbe) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [West Of Tulsa](https://open.spotify.com/album/42B5HibLdk0bbfsG8atoOU) | 3:23 | 2023-09-22 | 2023-11-23 |

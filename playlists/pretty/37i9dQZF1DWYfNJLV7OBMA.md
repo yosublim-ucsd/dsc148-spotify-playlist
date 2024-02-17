@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Our editor’s picks for best pop songs of the year\. Cover: Hana Shafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,950 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,968 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 9 | [Galana Ganga](https://open.spotify.com/track/7apMJLpmlv90I67HMSJGbr) | [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Galana Ganga](https://open.spotify.com/album/6x891Q8N2GwGaSsPbQmBJT) | 2:57 |
 | 10 | [Sansarini](https://open.spotify.com/track/3omtCFShCkIxVCPCGshA3g) | [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9) | [Sansarini](https://open.spotify.com/album/2CubDrzqBPpsZ2tmy0Y46S) | 5:05 |
 | 11 | [Naden](https://open.spotify.com/track/0FSk1OsGWoTCS8lA74x5lF) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u), [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu) | [Naden](https://open.spotify.com/album/0zADfkyzT1osNAGFhd5OVw) | 2:53 |
-| 12 | [Dawasak Ewi](https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Dawasak Ewi](https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks) | 3:15 |
+| 12 | [Dawasak Ewi](https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1) | [Dawasak Ewi](https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks) | 3:15 |
 | 13 | [Ru Ra](https://open.spotify.com/track/0TxZCH6wo1JFnoZBn8Nbl1) | [Sanjula himala](https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr) | [Ru Ra](https://open.spotify.com/album/1CID5j3JO9XK7U0FaOdnBn) | 4:04 |
 | 14 | [Häma Heenema](https://open.spotify.com/track/3QixlHwqZu6AKAg2DaBk5L) | [Induja](https://open.spotify.com/artist/0xOyyr7omyRhzzonikwtRD) | [Häma Heenema](https://open.spotify.com/album/1KBJjfCikESFjVLQkJI2QN) | 3:31 |
 | 15 | [Datha Dara](https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q) | [NaadhaGama](https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU), [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs), [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x), [Dinupa Kodagoda](https://open.spotify.com/artist/1hIhsR8RdSlX4IVlxybhFj) | [Datha Dara](https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 49 | [Veralu Mal](https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw) | [Veralu Mal](https://open.spotify.com/album/1Ge3wJ0P2BTjj4mLND7RKS) | 2:52 |
 | 50 | [Mata Inna Hithuna](https://open.spotify.com/track/7pWpwiqYAAhzcSEjsGDOol) | [Amandi Sulochana](https://open.spotify.com/artist/1qIBzNcVSpDsokGpsdZEkp) | [Mata Inna Hithuna](https://open.spotify.com/album/59VCSMoVgbgLlnhkOaqQy8) | 2:50 |
 
-Snapshot ID: `MCw4OTliZTEzYzY5ZjA3ODYxMjY2NzIyYzlmN2JmZGEyMDFhOTM3OGQ5`
+Snapshot ID: `MCxhY2JjY2NlOTQ1ZmIwZjcxOGM3NzYzZGU5ZGE4NmMxNTAzNjUyNTA5`

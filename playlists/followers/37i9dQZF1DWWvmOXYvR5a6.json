@@ -1,7 +1,7 @@
 {
-  "2024-02-16": 210904,
+  "2024-02-17": 210939,
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: BOYCOLD(\ubcf4\uc774\ucf5c\ub4dc)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Ourealgoat(\uc544\uc6b0\ub9b4\uace0\ud2b8)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -10622,6 +10622,28 @@
     },
     {
       "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/47fZyKNqjBYn9ic8EcIrIe"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "\uacbd\uc81c\ud658",
+          "url": "https://open.spotify.com/artist/3I5jvDqwN7zAQjQiZd2tDr"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201179,
+      "name": "SAVE ME (Feat.Jehwwn)",
+      "url": "https://open.spotify.com/track/7lc9eNKMuU40CcKzMfwTl3"
+    },
+    {
+      "album": {
         "name": "Save you",
         "url": "https://open.spotify.com/album/6op3qvd2MQEcfRMIASwN7C"
       },
@@ -14147,7 +14169,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-16",
       "duration_ms": 218794,
       "name": "\ub0b4\uc77c\uc774 \uc624\uae30 \uc804\uae4c\uc9c0 Until tomorrow comes (feat. P.RAO)",
       "url": "https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB"

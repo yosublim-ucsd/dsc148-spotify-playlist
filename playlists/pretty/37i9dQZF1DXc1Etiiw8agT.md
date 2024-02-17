@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 
 > Continuous brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,032 likes - 238 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,136 likes - 238 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 | 220 | [Brown Sleep Noise](https://open.spotify.com/track/1pUi52OQkr7xkYOdCnt14u) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Brown Noise for Sleep](https://open.spotify.com/album/40D8l4TRvcZlJfgQPYca2G) | 3:12 |
 | 221 | [Atmosphere Brown Noise](https://open.spotify.com/track/4Bq6IdY33YoyM2OWogdywx) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Nighttime Brown Noise](https://open.spotify.com/album/7bOwzgHmf9neP2ApwS6xEO) | 2:40 |
 | 222 | [Brown Noise Hibernation](https://open.spotify.com/track/44y7Vy4aMXcERazTG82Jgj) | [Alex Slumber](https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF) | [Lull To Brown Noise](https://open.spotify.com/album/5SNc4dgsOvkjPVwtoctXL7) | 3:10 |
-| 223 | [Gentle Brown Noise Whispers](https://open.spotify.com/track/3lYoIpGgSnF9n7fRrlDcdh) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Brown Harmony](https://open.spotify.com/album/5LHE4NmJKeO3Nk5ewTOdkD) | 2:46 |
+| 223 | [Gentle Brown Noise Whispers](https://open.spotify.com/track/3lYoIpGgSnF9n7fRrlDcdh) | [Focus Frequency](https://open.spotify.com/artist/3dr2HxPNXmfYTAxG74nmI7) | [Brown Harmony](https://open.spotify.com/album/5LHE4NmJKeO3Nk5ewTOdkD) | 2:46 |
 | 224 | [Noise Dimension](https://open.spotify.com/track/09OGDAEgUPwra1K9ou5FaC) | [Hypnotic Noise](https://open.spotify.com/artist/5NEOAF1p2oJqwe3RWBCgmL) | [Hypnotic Brown Noise](https://open.spotify.com/album/672omZvPgnZ7griA3MP4dc) | 2:46 |
 | 225 | [Meditative Brown Noise](https://open.spotify.com/track/1AmRa0N5eKc7OLsam5GOdb) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [Tranquil Brown Noise](https://open.spotify.com/album/0VSQtAxsuUSEKmIfQnPhbD) | 2:54 |
 | 226 | [Brown Noise Desert Night](https://open.spotify.com/track/7x6qK1GPSAM15EoWyglQSs) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Brown Noise Dunes](https://open.spotify.com/album/3zM5dvtwTBuRJAl2h1XlPd) | 2:18 |
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 | 237 | [Calming Brown Noise](https://open.spotify.com/track/2WPeMK6gNeOBUtNPRnpwzo) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Rumore Marrone](https://open.spotify.com/album/1b72n5oTBZdwlfVr4gDKL1) | 3:35 |
 | 238 | [Brown Noise for Relaxation](https://open.spotify.com/track/1gU8BZkkAAgyDHCzDv5obA) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Brown Noise for Relaxation](https://open.spotify.com/album/37XeeoY4EwEZhBMRl6UE9C) | 2:33 |
 
-Snapshot ID: `MCxhMjlkNzZkMjlkYmJkN2NmNTZlMTUzYjA5YTBjZmRiY2IyNzlmYmUw`
+Snapshot ID: `MCwxMDc5ZjdhNjJiMzBhYjk2NjgxMGQxMzU0YzlmY2MyNDVhNjg4NWZh`

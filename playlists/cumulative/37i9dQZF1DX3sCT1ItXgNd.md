@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Tiësto, Karol G
 
-394 songs - 19 hr 46 min
+395 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [PAS](https://open.spotify.com/track/4NiPgL5Vicj6rVks2Ismc5) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [PAS](https://open.spotify.com/album/5uQp7mNaf5hiVAfphFjjoc) | 2:46 | 2023-03-21 | 2023-04-14 |
 | [Pasa La Página "Panamá"](https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Pasa La Página "Panamá"](https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw) | 2:50 | 2023-08-28 | 2023-09-26 |
 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 | 2023-06-20 | 2023-09-29 |
+| [Pasado Mañana](https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Pasado Mañana](https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM) | 2:17 | 2024-02-15 |  |
 | [PELICULA](https://open.spotify.com/track/1xyTbXRzdFsFYGF2xA3Rs0) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [PELICULA](https://open.spotify.com/album/6YcKaIbQw3sMtbhSXQZ6CZ) | 2:58 | 2023-09-28 | 2023-10-17 |
 | [PELO RIZAO](https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PELO RIZAO](https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07) | 3:14 | 2024-01-11 | 2024-01-23 |
 | [PIDE UN DESEO](https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PIDE UN DESEO](https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26) | 3:10 | 2023-08-01 | 2023-11-29 |

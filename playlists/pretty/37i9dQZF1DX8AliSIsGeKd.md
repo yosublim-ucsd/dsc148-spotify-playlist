@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Jonas Saalbach, Guzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,414 likes - 90 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,497 likes - 90 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 69 | [Marimba \- Robag Wruhme Dimona Negeff NB Remix](https://open.spotify.com/track/5QsUkNQKKx0vndqBkkD54m) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU), [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Marimba \(Robag Wruhme Dimona Negeff NB Remix\)](https://open.spotify.com/album/2B99WxEqOOVjkUJrPQ8Ivf) | 3:57 |
 | 70 | [Fine Fine Baby \(with Kah\-Lo\) \- JJ's Paradise Mix](https://open.spotify.com/track/2ToAe909DNKdC6FeCgMzCY) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\) \[JJ's Paradise Mix\]](https://open.spotify.com/album/5KWnnYiIRlO4VWPexnhoDc) | 3:11 |
 | 71 | [Phoenix](https://open.spotify.com/track/37SQsh2SG4DasKOxLW7lIZ) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Phoenix](https://open.spotify.com/album/2ieUVmpT1ba7Kh6rz1hScP) | 4:23 |
-| 72 | [Silo](https://open.spotify.com/track/4UoIfUBfZtepuH3APCEg5P) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Silo](https://open.spotify.com/album/6GEfhtPzudN4ADLaiSruVn) | 6:34 |
+| 72 | [Silo](https://open.spotify.com/track/0IyjF7JOgqSf1joUpAbZWx) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Stand](https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz) | 6:34 |
 | 73 | [Indigo](https://open.spotify.com/track/1gNUmlEqSsMm54dHSGCZ4m) | [Ryan Hill](https://open.spotify.com/artist/1zohDHB4DCMcNq2KNAJ2Gn) | [Indigo](https://open.spotify.com/album/1OhModhn1buS9Itdqwu59l) | 6:55 |
 | 74 | [Be Careful](https://open.spotify.com/track/5CwcVlVK0ZqjFqVfFDTcJV) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq), [Frank Spector](https://open.spotify.com/artist/1LlWF34CT7pudW0sFZpsuG) | [Be Careful](https://open.spotify.com/album/246fY39XyZj5D1RLQHrPfk) | 5:54 |
 | 75 | [Musco](https://open.spotify.com/track/7GK2vsnyoOaevKRXWh6RAS) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N) | [Cala Rossa](https://open.spotify.com/album/3KVABJSgDy1wYu3PO9DmR9) | 4:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Warp](https://open.spotify.com/track/6NXF6YSHCVmhEgvEUQAchL) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Lighthouse](https://open.spotify.com/album/383b21bv16Pn9XzTadwTEO) | 5:30 |
 | 90 | [A Bit of You](https://open.spotify.com/track/6DdWC0a5qBGedeEmkvklI9) | [Max von Sternberg](https://open.spotify.com/artist/47Jz4Lwu4QGJSp1pxKaXLJ) | [A Bit of You](https://open.spotify.com/album/1Rv05O8klNPAkEcQXridKm) | 7:44 |
 
-Snapshot ID: `MCwwMDU0YTRjZTcxYjI3ODc4NTQ4NmRmNDU2NGUxOTUzODI0MzVjZjJk`
+Snapshot ID: `MCwxMDJmMDM0MWNkNjIzMzI4YTFkOGZmN2YxNzczNmE1MDk2MWJjNzI3`

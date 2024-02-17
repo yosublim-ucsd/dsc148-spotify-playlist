@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 195855,
+  "num_followers": 195888,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWE2Y2QyZmI4NmU1M2JkNTI4YTljOGJmYWJlMTFjOWQ4MDJmZDUw",
+  "snapshot_id": "MCw0ZGEwMjllZDcwZDU2NThmNjQ3ZTcxMTljZmI4OGMzZGMwZDNhYWI4",
   "tracks": [
     {
       "added_at": "2023-08-14 15:11:22",
@@ -59,6 +59,34 @@
       "duration_ms": 385866,
       "name": "Have You Heard",
       "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "#9 Venus The Living Myth",
+        "url": "https://open.spotify.com/album/4d4LXLXh5JK0vPFNpxRyc4"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Marshall Allen",
+          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
+        }
+      ],
+      "duration_ms": 390920,
+      "name": "#9 Venus The Living Myth",
+      "url": "https://open.spotify.com/track/5vA1ZAu2uVXoUbaK1fid2N"
     },
     {
       "added_at": "2023-12-15 05:01:00",
