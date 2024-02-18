@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-104 songs - 8 hr 32 min
+105 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 | 2022-05-31 |  |
 | [Knights In White Satin \- Part 1](https://open.spotify.com/track/4n9WwRwD2WxBNWAukEtPlk) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Knights In White Satin](https://open.spotify.com/album/1L7szfPWc7Pspsv1DaCBvy) | 4:45 | 2022-05-31 |  |
 | [Knights in White Satin \- Remastered](https://open.spotify.com/track/2PkBUlyRJgmPIRFo0PTRCU) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Knights in White Satin \(Remastered Bonus Track Version\)](https://open.spotify.com/album/2XaH0tD9UH6EbRbc8WShpL) | 4:45 | 2021-06-01 | 2022-07-29 |
-| [Knock on Wood](https://open.spotify.com/track/1vJQzxoByUo0CoiEgAdgDk) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood](https://open.spotify.com/album/72XjR8hsoa0ZDEB9ieDOPD) | 4:09 | 2023-05-31 |  |
+| [Knock on Wood](https://open.spotify.com/track/1vJQzxoByUo0CoiEgAdgDk) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood](https://open.spotify.com/album/72XjR8hsoa0ZDEB9ieDOPD) | 4:09 | 2023-05-31 | 2024-02-18 |
 | [Knock On Wood](https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Greatest Hits](https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V) | 4:10 | 2021-06-01 | 2024-02-07 |
+| [Knock on Wood \(1985 7" Remix\)](https://open.spotify.com/track/0OUYuErgyc097NzSRff8UI) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood: The Anthology](https://open.spotify.com/album/7sTS0xZLJCmhKqoTUXNiom) | 4:08 | 2023-05-31 |  |
 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 | 2021-06-01 |  |
 | [Last Night A D.J\. Saved My Life](https://open.spotify.com/track/7eIZ1sT9DePhYJyttE4Nl2) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [A Night To Remember](https://open.spotify.com/album/4SSp92xYJKNuq1MZgVPMkm) | 4:10 | 2021-06-01 | 2022-07-29 |
 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [A Night to Remember \(Mixed By Tony Okungbowa & Jojoflores\)](https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE) | 4:12 | 2022-05-31 |  |

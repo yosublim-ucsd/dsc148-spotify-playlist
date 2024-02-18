@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 277797,
+  "2024-02-18": 278083,
   "date_first_scraped": "2023-02-06",
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
   "name": "Darkwave",
@@ -349,6 +349,24 @@
       "duration_ms": 170511,
       "name": "Bad Night at Black's Beach",
       "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
+    },
+    {
+      "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "album": {
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 172869,
       "name": "Ekpyrosis",
       "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 237505,
       "name": "The Style Is Death",
       "url": "https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok"
@@ -3945,6 +3963,24 @@
       "duration_ms": 210191,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV"
+    },
+    {
+      "album": {
+        "name": "Vuela M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159373,
+      "name": "Vuela M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
     },
     {
       "album": {

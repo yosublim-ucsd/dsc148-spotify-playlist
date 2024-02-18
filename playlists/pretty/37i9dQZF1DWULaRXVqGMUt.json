@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 46743,
+  "num_followers": 46755,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDU3ZjVlNzYwODFjZWM1NDVkNDRmMWU0MmEzZTBhMDQ2MWFhN2Fi",
+  "snapshot_id": "MCxkMWMwYjEwZmZhMjNkZTAzYTI1M2JjOWY4NTM5MTc4NmVkODE4NzM1",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -711,38 +727,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Storm",
-        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
-      },
-      "artists": [
-        {
-          "name": "Martin Pyrker, Sabine Pyrker",
-          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Boogie Woogie Storm",
-      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Return Of The Boogie Man",
         "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 177493,
       "name": "Jessie's Boogie Woogie",
       "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Storm",
+        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
+      },
+      "artists": [
+        {
+          "name": "Martin Pyrker, Sabine Pyrker",
+          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Boogie Woogie Storm",
+      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+        "name": "Chicken Shack Boogie",
+        "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
       },
       "artists": [
         {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+      "duration_ms": 165408,
+      "name": "Let Me Go Home, Whiskey",
+      "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Chicken Shack Boogie",
-        "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
         }
       ],
-      "duration_ms": 165408,
-      "name": "Let Me Go Home, Whiskey",
-      "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Yancey Stomp",
-      "url": "https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Detroit Rocks",
         "url": "https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 205893,
       "name": "Detroit Rocks",
       "url": "https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Yancey Stomp",
+      "url": "https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx"
     },
     {
       "added_at": "2023-09-15 11:42:58",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTJkNzNkOWY5ZjYyZDI3NWJkYzczYTc1OTVlMGM5OTU5MzA2Njg2",
+  "snapshot_id": "MCxiZmE2ZTBmNGNmMmIwZDUyNGQ5NjM1MzBmNDhlNmIyN2VmYTlkZjky",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -425,38 +425,6 @@
       "url": "https://open.spotify.com/track/22YVt0f3WR4XaK6l1TEgOr"
     },
     {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Boomshakalaka",
-        "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Boomshakalaka",
-      "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
-    },
-    {
       "added_at": "2022-01-21 04:37:53",
       "album": {
         "name": "Un Ratito",
@@ -487,6 +455,38 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Boomshakalaka",
+        "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Boomshakalaka",
+      "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
     },
     {
       "added_at": "2021-12-31 04:31:13",

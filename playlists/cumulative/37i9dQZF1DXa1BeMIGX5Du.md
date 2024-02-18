@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-187 songs - 11 hr 38 min
+188 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Delusional](https://open.spotify.com/track/2LcsjEjWN5uZ4qC3IqmPCz) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Best Indie Folk of 2021, Vol\. 4](https://open.spotify.com/album/1NHfwivYblR7DotRQN86AK) | 4:10 | 2022-10-10 | 2022-11-13 |
 | [Delusional](https://open.spotify.com/track/6jh10WQnBRJ0SCwEXLxgY2) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/13q5886lEsp0lCMcHcnwSg) | 4:10 | 2022-03-25 | 2022-07-29 |
 | [Do You Love Me Lately?](https://open.spotify.com/track/03ZQhvP0UXQvUhGxlGqOSq) | [Emily Keener](https://open.spotify.com/artist/6DSgiEGO7rSPIq4KFrkE2b) | [Do You Love Me Lately?](https://open.spotify.com/album/7GadhWeYQHdY9XUM6YUMvK) | 3:56 | 2022-03-25 | 2024-02-17 |
-| [Don't Do Me Good](https://open.spotify.com/track/5tZOyvkWEGnGE2dQM3jvzb) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:13 | 2024-02-16 |  |
+| [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 | 2024-02-16 |  |
+| [Don't Do Me Good](https://open.spotify.com/track/5tZOyvkWEGnGE2dQM3jvzb) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:13 | 2024-02-16 | 2024-02-18 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-16 |  |
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2024-02-16 |  |
 | [Down](https://open.spotify.com/track/0ivLrWbRZRioeJ4JqlbH40) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Photograph \- Sad Songs](https://open.spotify.com/album/1CHLh27IMUa9RpBtan8eGi) | 3:04 | 2022-10-10 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 88153,
+  "num_followers": 88214,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjQ3NzE2MDU4MDYzZjI2ODFjMzI5ZmYyZGNhMjdmZmQzZTg5OTFh",
+  "snapshot_id": "MCw3ZTcxNjhkNzM2NzNiOTUzZWRiZTcxOGNmMTMxOTg1YjBiYzQzNmQw",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW"
+        "name": "Postre",
+        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Trenti",
-          "url": "https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU"
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
         }
       ],
-      "duration_ms": 267789,
-      "name": "Lo Nuestro",
-      "url": "https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk"
+      "duration_ms": 180000,
+      "name": "Postre",
+      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Postre",
-        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW"
       },
       "artists": [
         {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+          "name": "Sof\u00eda Trenti",
+          "url": "https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Postre",
-      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+      "duration_ms": 267789,
+      "name": "Lo Nuestro",
+      "url": "https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk"
     },
     {
       "added_at": "2024-02-16 06:00:00",

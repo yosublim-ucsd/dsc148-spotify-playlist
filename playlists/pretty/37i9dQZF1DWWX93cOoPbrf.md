@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. T3R Elemento en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,342 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,638 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 60 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 | 61 | [Casino](https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Casino](https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD) | 3:01 |
 | 62 | [El Pato](https://open.spotify.com/track/4EcbPU3A69a7FlHq1XYAc1) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [El Pato](https://open.spotify.com/album/3Uz2MDquFyKljXLbt1elXA) | 3:43 |
-| 63 | [A Punta De Balazos \- En Vivo](https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f) | 3:57 |
+| 63 | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp) | 3:57 |
 | 64 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
 | 65 | [Clave 18](https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Clave 18](https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S) | 3:55 |
 | 66 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Me La Rolo](https://open.spotify.com/track/6BOEWJ6rnCLKHpPjgRnegT) | [Kirri Enigma](https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X) | [Me La Rolo](https://open.spotify.com/album/2g0x1RIrfPKWjdW7uyPJKW) | 3:36 |
 | 75 | [EL SOMBRERO NO HA CAIDO](https://open.spotify.com/track/0SRNIyA11HFvqKefJ13W4C) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [EL SOMBRERO NO HA CAIDO](https://open.spotify.com/album/5hop6Y7N2aHb99No9el2Xo) | 2:52 |
 
-Snapshot ID: `MCw0Y2NkZWVkNmMyNjNjM2RmZWE0ZDBkOGM5YTQ3YjY3ZmJkMjZhYjdl`
+Snapshot ID: `MCw1YTBjMjk3M2IzMDJiNGEwYjE4YTFjYzA3ZTQ1MmRhZDY4ZTFkNzZk`

@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 339685,
+  "num_followers": 339741,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmMzMTVkOWUyOTQ4NzFmZjgzZTRmM2ZkYWM0YjU0NzQyMjY3MmM3",
+  "snapshot_id": "MCxiODc3ODM3ZTMxOTE0MWNhODU2ZTAyMmVhZjRkZDBiNThjMzY1ODFm",
   "tracks": [
     {
       "added_at": "2023-10-24 09:37:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-10-24 09:37:52",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2023-10-24 09:37:52",
-      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 126000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
+    },
+    {
+      "added_at": "2023-10-24 09:37:52",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2023-10-24 09:37:52",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-24 09:37:52",
       "album": {
-        "name": "Acceptance",
-        "url": "https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
       },
       "artists": [
         {
-          "name": "Ben Crosland",
-          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+          "name": "Gianluca Piacenza",
+          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Acceptance",
-      "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
+      "duration_ms": 254528,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
     }
   ],
   "unique_name": "Soft Piano",

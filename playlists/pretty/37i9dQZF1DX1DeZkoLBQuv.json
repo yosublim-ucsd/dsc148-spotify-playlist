@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8242,
+  "num_followers": 8239,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw",
+  "snapshot_id": "MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gl\u00f3ria e Aleluia (Christmas)",
-        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 234663,
-      "name": "Gl\u00f3ria e Aleluia - Christmas",
-      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Gl\u00f3ria e Aleluia (Christmas)",
+        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 234663,
+      "name": "Gl\u00f3ria e Aleluia - Christmas",
+      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Por Amor a N\u00f3s",
-      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Por Amor a N\u00f3s",
+      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
     },
     {
       "added_at": "2023-12-22 03:00:00",

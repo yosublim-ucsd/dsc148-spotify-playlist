@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,872 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,869 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 22 | [El Rey De La Rapidas](https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [El Rey De La Rapidas](https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa) | 2:29 |
 | 23 | [WYA](https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [WYA](https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O) | 3:16 |
 | 24 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 |
-| 25 | [UuU 2](https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [UuU 2](https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO) | 5:08 |
-| 26 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 |
+| 25 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 |
+| 26 | [UuU 2](https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [UuU 2](https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO) | 5:08 |
 | 27 | [UNA NOTi](https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [UNA NOTi](https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG) | 3:20 |
 | 28 | [Single](https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Single](https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW) | 2:58 |
 | 29 | [Baja y Sube](https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Baja y Sube](https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4) | 2:50 |
-| 30 | [CLICK](https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [CLICK](https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd) | 3:00 |
-| 31 | [Bandida Fina \(with Ozuna\)](https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 4:20 |
+| 30 | [Bandida Fina \(with Ozuna\)](https://open.spotify.com/track/0L6Zw2BaYITtCMn63Yggh1) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 4:20 |
+| 31 | [CLICK](https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [CLICK](https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd) | 3:00 |
 | 32 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 |
 | 33 | [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 |
 | 34 | [Blancos & Rojos](https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Blancos & Rojos](https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [UN TRATO](https://open.spotify.com/track/4yZS80QhJzv3cWuHEOf4Ka) | [Izzy](https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC) | [UN TRATO](https://open.spotify.com/album/5rJnrNKi5leQAFZUXh0f7P) | 2:10 |
 | 50 | [D.N.D \(feat\. Nio Garcia\)](https://open.spotify.com/track/49zTA53lttr65mA6Z99S6O) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [CERTIFIED](https://open.spotify.com/album/6BO3l1rv04Juyf1DMwq6zp) | 4:00 |
 
-Snapshot ID: `MCxkNzljMTdiMWUzYTFlYTMwMDMwZmNlOWQwNjJmOThkNDRjMzdhODU2`
+Snapshot ID: `MCwxMDAzNDg3YTVjMzk3MDIxN2ZmNDA4OTczMjI3ZTdkZWU2MjhiNzI2`

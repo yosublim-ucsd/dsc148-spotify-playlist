@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-1,564 songs - 3 day 10 hr 12 min
+1,565 songs - 3 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [Everyone And No One](https://open.spotify.com/track/5sP3kGcEg7Cj6bXhv1Ev7o) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Everyone And No One](https://open.spotify.com/album/39NKyfawlegx7lvZjuyTS2) | 3:23 | 2023-01-20 | 2023-04-15 |
 | [Everyone Else](https://open.spotify.com/track/7hVARkkSxPsQdzVHR7EkMk) | [Kylie Rothfield](https://open.spotify.com/artist/5QfKIQ78C8jtliKdwTPHlq) | [Everyone Else](https://open.spotify.com/album/4HNkLwsUtqTYISchYS126U) | 3:31 | 2021-05-08 | 2021-06-12 |
 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 | 2021-06-12 | 2021-12-11 |
-| [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 | 2024-01-19 |  |
+| [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 | 2024-01-19 | 2024-02-18 |
+| [Everything Almost](https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:00 | 2024-01-19 |  |
 | [Everything at once](https://open.spotify.com/track/0EdSwiCIpcwo6YGtUzxF7x) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Nothing's everything](https://open.spotify.com/album/5EKJ25bYbo5GfRuKGXlu4M) | 3:06 | 2021-09-04 | 2021-09-25 |
 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 | 2023-06-23 | 2023-10-07 |
 | [Everything Under The Sun](https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Everything Under The Sun](https://open.spotify.com/album/5kXzFL6Ug21nCNdZ3M7rPP) | 4:14 | 2023-11-10 |  |

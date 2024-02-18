@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-141 songs - 8 hr 3 min
+142 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-08-11 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-11-03 |  |
 | [Goes Like This](https://open.spotify.com/track/7t1rB0I5QZFhCtPAwOuqqc) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [Goes Like This](https://open.spotify.com/album/2V8yiW5TVx3u3tGwqlLwlX) | 4:08 | 2024-01-26 | 2024-02-06 |
-| [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 | 2023-12-08 |  |
+| [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 | 2023-12-08 | 2024-02-18 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-08-11 |  |
 | [Hey Baby \(Drop It To The Floor\) \- HYPERTECHNO](https://open.spotify.com/track/6UaPEtxRDMInJ0IF0xc3kw) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [HYPER DEMON](https://open.spotify.com/artist/0FANj0502DHdbObVXrNYeM), [Mr Demon](https://open.spotify.com/artist/4KxFQKuMJRcrnz0UpiGgw4) | [Hey Baby \(Drop It To The Floor\) \[HYPERTECHNO\]](https://open.spotify.com/album/6uG2nDPFgWAozxZfwPYOfa) | 2:11 | 2023-10-26 |  |
 | [Hold Me](https://open.spotify.com/track/1vUZJ35SGzEtmlgb0ts81v) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Hold Me](https://open.spotify.com/album/6qhNsO8v6k0ZYyf1BkbCCj) | 2:48 | 2023-08-11 | 2023-08-19 |
@@ -78,6 +78,7 @@
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-15 |  |
 | [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 | 2023-10-26 |  |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 |  |
+| [Love Lockdown](https://open.spotify.com/track/3enFqjfdvWKja1fa7U0m7Y) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN) | [Love Lockdown](https://open.spotify.com/album/77sMUhbhzHFdSbrcaEcKWa) | 1:56 | 2024-02-16 |  |
 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 | 2023-10-06 | 2023-11-18 |
 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 | 2023-08-11 | 2023-09-19 |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 118889,
+  "num_followers": 118933,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mjk2MjUzY2M4YzM4MDA1YTI3Njg4MTM3OTMyNmYwZmY0N2I1Mjk0",
+  "snapshot_id": "MCw0ZDM2NTBjY2U2MWNiYWEzYWJiYTAzMDJiOTNlZDJmOWNlZDg1ZDFj",
   "tracks": [
     {
       "added_at": "2024-02-01 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "MISSLIM",
-        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 191726,
-      "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
-      "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "\u7d04\u675f\u306e\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9 Season1 Original Soundtrack",
         "url": "https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 149200,
       "name": "\u30a4\u30b6\u30d9\u30e9\u306e\u5504",
       "url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "MISSLIM",
+        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 191726,
+      "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
+      "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
     },
     {
       "added_at": "2024-02-01 03:00:00",

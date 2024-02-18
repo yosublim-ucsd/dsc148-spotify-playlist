@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26102,
+  "num_followers": 26099,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGVlY2JmZmNjOWQ1YWM5YzE1M2Y2Mzg0MzY5YWZjMjJjYzNlNzg0",
+  "snapshot_id": "MCxjNWM2OGYxMmE5MTg3NzAyZTM5OWMzMjhmMDE0Y2IyODEyNzRjM2Qw",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 201198,
+      "name": "Sing It With Me",
+      "url": "https://open.spotify.com/track/4Q6wZlZhrwVVmGhJtmGUtG"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 184558,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 201198,
-      "name": "Sing It With Me",
-      "url": "https://open.spotify.com/track/4Q6wZlZhrwVVmGhJtmGUtG"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "After The Landslide",
+        "url": "https://open.spotify.com/album/3KYIEsx3p2h8mtxWBXdVEG"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 179895,
+      "name": "We Can Do Better",
+      "url": "https://open.spotify.com/track/1swaftqa6ahRIFf9E48FlN"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Low Season",
         "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "After The Landslide",
-        "url": "https://open.spotify.com/album/3KYIEsx3p2h8mtxWBXdVEG"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 179895,
-      "name": "We Can Do Better",
-      "url": "https://open.spotify.com/track/1swaftqa6ahRIFf9E48FlN"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "One Day At A Time",
-        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 185016,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 172023,
       "name": "Hello Hello Hello",
       "url": "https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "One Day At A Time",
+        "url": "https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 185016,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK"
     },
     {
       "added_at": "2023-03-10 17:59:10",

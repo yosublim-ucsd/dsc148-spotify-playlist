@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,357 likes - 101 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,477 likes - 101 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 100 | [ICEY](https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ICEY](https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4) | 2:11 |
 | 101 | [Xanax / Burnt Memories](https://open.spotify.com/track/27z0n0bxgN8GGaWd32wVfw) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Didn't Have](https://open.spotify.com/album/7j58HYctbqVUcSXG61MW3X) | 4:04 |
 
-Snapshot ID: `MCxhNjE3ODEzYWFiYmI3MWY3OTQwOGFlMmFiZmZlODVkMGQ3ZTI5ZWM3`
+Snapshot ID: `MCwzMDU1MGNmMmY2MDY1NDI3YjhjZDFhMDVlYTgxMjY1MmYwY2FkZGIy`

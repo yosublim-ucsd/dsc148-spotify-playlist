@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 152859,
+  "2024-02-18": 152861,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -3359,7 +3359,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 237093,
       "name": "Cancioncitas de Amor",
       "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
@@ -3693,7 +3693,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 128785,
       "name": "Chu Chu",
       "url": "https://open.spotify.com/track/6RnTMsD7ygLNZ4QfbgudXg"
@@ -4237,6 +4237,28 @@
       "duration_ms": 182602,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4"
+    },
+    {
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
       "album": {
@@ -6153,7 +6175,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -20559,7 +20581,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177760,
       "name": "Rumine",
       "url": "https://open.spotify.com/track/3K8ek4n0oRmhNuygMyrMfQ"
@@ -24445,7 +24467,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 132800,
       "name": "Tu No Corre",
       "url": "https://open.spotify.com/track/0JrCAn0fDzCSPONkiTDGMa"
@@ -24559,6 +24581,28 @@
       "duration_ms": 192630,
       "name": "Tu Veneno",
       "url": "https://open.spotify.com/track/4iqYwncsICFxsVZhftJzVi"
+    },
+    {
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "TU$$I (with Dei V)",
+      "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"
     },
     {
       "album": {
@@ -26069,7 +26113,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"

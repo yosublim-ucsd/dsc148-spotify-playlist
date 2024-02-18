@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,682 songs - 1 day 11 hr 7 min
+1,685 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Falling Together](https://open.spotify.com/track/01K5XsLUpMN4zKBWFw1zSU) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Softly](https://open.spotify.com/album/22TBoyrFvpJ9idJPCr1jD1) | 1:26 | 2022-01-12 |  |
 | [Falling Towards You](https://open.spotify.com/track/7cqDDFFx8JPDBFqIYyr4eA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Falling Upwards](https://open.spotify.com/track/6b8SCoOVoMWuEFSylLmxjI) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Falling Upwards](https://open.spotify.com/album/4QuI6FKrUOZiWWKLBYCGWn) | 1:24 | 2024-01-29 |  |
+| [Familiar](https://open.spotify.com/track/5QIMHRSskQn563jOFCiDvZ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Familiar](https://open.spotify.com/album/67c0YKHHbjFpsTeQzhKEKo) | 1:00 | 2024-02-17 |  |
 | [Far Away](https://open.spotify.com/track/2MXxsq4Wb6g8Apn5ghzWvA) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Far Away](https://open.spotify.com/album/1DX36E8rgCckXH7kj5zX0N) | 1:34 | 2022-01-12 | 2024-02-13 |
 | [Far Away From Here \- Ambient Version](https://open.spotify.com/track/4Ia0xXLt6VRb68RmnkQpHP) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Love And Light](https://open.spotify.com/album/7JN0UxwNpKDr5von6mV6hm) | 1:08 | 2022-01-12 |  |
 | [Fare Thee Well \- Cello Version](https://open.spotify.com/track/0BqsXXv74gTfCKMvdgdAN2) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Peaceful Preludes](https://open.spotify.com/album/4tIT4F5ewlUNyT7CttXaZo) | 1:09 | 2022-01-12 | 2024-02-13 |
@@ -1154,6 +1155,7 @@
 | [Quietly Everywhere](https://open.spotify.com/track/4ErlHYqkENef2p72H9T18Q) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
 | [Quietly Gazing](https://open.spotify.com/track/2TtlGU2KObl7Wj31btsniH) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Hillside Reflections](https://open.spotify.com/album/3uRHm02elkBXbWQ06eOGnQ) | 1:05 | 2022-01-12 |  |
 | [Quietude](https://open.spotify.com/track/1IWvJ4eSzu9hEE6Rlirqu8) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Spring Beauty](https://open.spotify.com/album/35D2cTFatHekDeHjEKMcaF) | 1:02 | 2022-03-17 |  |
+| [Radiant](https://open.spotify.com/track/6VeFvWudf65bwOPy9zmoLb) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Radiant](https://open.spotify.com/album/28Dwwi1aEDf02EoFodfAfI) | 1:00 | 2024-02-17 |  |
 | [Rain Clouds](https://open.spotify.com/track/09Ev1C0EBvRnyEtRqenWWz) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Rain Clouds](https://open.spotify.com/album/2p9DBKyAFT5rod7faT5rYd) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Rainbows Glowing Again](https://open.spotify.com/track/5tMmR1Y23YBCgrRntU5ERN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Rainbows Glowing Again](https://open.spotify.com/album/2Iec9JN2xTyRNRhlwSB3uG) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Raining In The Evening](https://open.spotify.com/track/2GXAXmLmpMEJnLbbOtGPge) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Raining In The Evening](https://open.spotify.com/album/54sBbLjB3MG9lKsYPCnazP) | 1:00 | 2023-07-31 | 2024-02-13 |
@@ -1357,6 +1359,7 @@
 | [Spring Meadows](https://open.spotify.com/track/6mdX2ewmW0gh1Rj9wBJqXf) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Seasons](https://open.spotify.com/album/336oLXBbHOoXUMlolO0knz) | 2:06 | 2022-01-12 | 2024-01-30 |
 | [Spring Sun](https://open.spotify.com/track/7uwwThNv4jACx8G2HBicP1) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Spring Warmth Again \- Cello Version](https://open.spotify.com/track/7MQhI8USlPbgNtamZs5SV7) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spring Warmth Again \(Cello Version\)](https://open.spotify.com/album/2UXnDLSHUF8Il2sKg23Wfl) | 1:00 | 2022-07-15 |  |
+| [Springs](https://open.spotify.com/track/2TeIwE6hFj5ChMP3Eifq7m) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Springs](https://open.spotify.com/album/6nYmCTJRGkzYRuGntxjzpf) | 1:00 | 2024-02-17 |  |
 | [Springtime Serenade \- Piano Version](https://open.spotify.com/track/4sDMgmdCGm0pnYb7NGuRAs) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Springtime Serenade \(Piano Version\)](https://open.spotify.com/album/10gZyaNfOYTkxZPsfcbOLv) | 3:00 | 2022-01-12 | 2024-02-13 |
 | [Stability](https://open.spotify.com/track/7roDSXiPANfzVC8BAtpazE) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Light](https://open.spotify.com/album/5C2zmwAubUVPf7sNfzUZC5) | 1:00 | 2024-02-16 |  |
 | [Stained Blue Windows](https://open.spotify.com/track/3mosxpcwbtA2hjVB9IXC8U) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:07 | 2024-02-09 | 2024-02-13 |

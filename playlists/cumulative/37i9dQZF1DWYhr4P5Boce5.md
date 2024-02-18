@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-215 songs - 12 hr 33 min
+216 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:31 | 2023-01-31 | 2023-06-01 |
 | [More Than Me](https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:31 | 2023-01-31 |  |
 | [My Love](https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Michelle Vinueza](https://open.spotify.com/artist/0sP7O4UNgzyEZk9x0Vba1m) | [My Love](https://open.spotify.com/album/5tFVSwKfZ7A5WAH3vtak1I) | 2:57 | 2024-02-03 |  |
-| [Nice n Slow](https://open.spotify.com/track/5lLOxGJhIem0mC8IYUSzVG) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Nice n Slow](https://open.spotify.com/album/30KjESF2FdVdfgSZNT7bIg) | 2:05 | 2024-02-03 |  |
+| [Nice n Slow](https://open.spotify.com/track/5lLOxGJhIem0mC8IYUSzVG) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Nice n Slow](https://open.spotify.com/album/30KjESF2FdVdfgSZNT7bIg) | 2:05 | 2024-02-03 | 2024-02-18 |
 | [NOTHING NEW \(I DO\) \- Wedding Version](https://open.spotify.com/track/2ExOEgZzYA0EULVB8ORnUv) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [NOTHING NEW \(I DO\) \- Wedding Version](https://open.spotify.com/album/0u5tMnp65M9EvT3SJ1sUTq) | 4:34 | 2024-02-05 |  |
 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 3:52 | 2023-01-31 |  |
 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/6ptxOhVrMIMLVXfzEJOWrn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 3:52 | 2023-01-31 | 2023-12-25 |
@@ -199,6 +199,7 @@
 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 | 2020-04-17 |  |
 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 | 2020-04-17 |  |
 | [What Matters \(feat\. Mali Music\)](https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:47 | 2024-02-03 |  |
+| [What Will She Say](https://open.spotify.com/track/0PHlJJa4i5f2DV1QrL65s9) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/6H7p31cAoeGC8TjZe2V6In) | 2:58 | 2024-02-05 |  |
 | [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 | 2023-01-31 | 2024-02-05 |
 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 | 2023-01-31 |  |
 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 | 2024-02-03 |  |

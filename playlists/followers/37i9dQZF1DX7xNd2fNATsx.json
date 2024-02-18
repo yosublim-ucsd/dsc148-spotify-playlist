@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 30725,
+  "2024-02-18": 30734,
   "date_first_scraped": "2023-09-29",
   "description": "Quand l'indie et l'electro ne font qu'un.",
   "name": "indelectro",
@@ -25,6 +25,28 @@
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+    },
+    {
+      "album": {
+        "name": "6 De La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1giPJnE8jnkO7qwNmhX01Y"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Whoo",
+          "url": "https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb"
+        },
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171748,
+      "name": "6 De La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6u2uAR3w98nDi2KBuH4oBo"
     },
     {
       "album": {
@@ -172,6 +194,24 @@
     },
     {
       "album": {
+        "name": "Celestia",
+        "url": "https://open.spotify.com/album/36awCHquAZcSqExCImIUjT"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127723,
+      "name": "Celestia",
+      "url": "https://open.spotify.com/track/6I6PNGL4RLUMI0pfTC8gqP"
+    },
+    {
+      "album": {
         "name": "I Love You, Dude",
         "url": "https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r"
       },
@@ -248,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Deer Teeth",
+        "url": "https://open.spotify.com/album/4VVZS87dI8rFiePJzsjQAm"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231204,
+      "name": "Deer Teeth",
+      "url": "https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U"
+    },
+    {
+      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/2ZGWMH5dkJMGxRT5gM8lmZ"
       },
@@ -259,7 +317,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 292973,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3NLRsJ6mXjxsu8CvysDeUE"
@@ -320,6 +378,42 @@
     },
     {
       "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/5i8wOElEy6wOo1pyb4kb29"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Whoo",
+          "url": "https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165150,
+      "name": "FRANK",
+      "url": "https://open.spotify.com/track/5zHa6tYdr1k1pOBJPIv7Fw"
+    },
+    {
+      "album": {
+        "name": "Furia Electronica",
+        "url": "https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290250,
+      "name": "Furia Electronica",
+      "url": "https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq"
+    },
+    {
+      "album": {
         "name": "Bright Like Neon Love",
         "url": "https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4"
       },
@@ -349,7 +443,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 279480,
       "name": "Get Myself Into It",
       "url": "https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w"
@@ -371,7 +465,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192853,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/6DaYun5YOndnPYkwn6KwU8"
@@ -447,7 +541,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
@@ -469,6 +563,28 @@
       "duration_ms": 262986,
       "name": "I Come With Knives",
       "url": "https://open.spotify.com/track/2FnukbZsuLUY3BK6lWtx1K"
+    },
+    {
+      "album": {
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
       "album": {
@@ -523,7 +639,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 215253,
       "name": "It's Not Over Yet",
       "url": "https://open.spotify.com/track/0TRvSkiK0eQEejmiu4vBzi"
@@ -599,6 +715,24 @@
       "duration_ms": 211183,
       "name": "Let's Make Love and Listen to Death From Above",
       "url": "https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n"
+    },
+    {
+      "album": {
+        "name": "Adult Contemporary",
+        "url": "https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "Lost And Found",
+      "url": "https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2"
     },
     {
       "album": {
@@ -859,7 +993,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 242160,
       "name": "OK",
       "url": "https://open.spotify.com/track/2ApjMCGxa1dYz8dPRTLeIx"
@@ -881,6 +1015,28 @@
       "duration_ms": 242160,
       "name": "OK",
       "url": "https://open.spotify.com/track/6CNskuICDfoju7WXRSq6ME"
+    },
+    {
+      "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
     },
     {
       "album": {
@@ -938,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "Second Life",
+        "url": "https://open.spotify.com/album/73UKqssJXWES4fRrF6R19r"
+      },
+      "artists": [
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N"
+        },
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Second Life",
+      "url": "https://open.spotify.com/track/06OEFGpAn2Y2ZEACTiXruB"
+    },
+    {
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },
@@ -949,7 +1127,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 213640,
       "name": "Skeleton Boy",
       "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
@@ -967,7 +1145,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 254920,
       "name": "Slyd",
       "url": "https://open.spotify.com/track/46lfv99D2euxzpZeSDZZUv"
@@ -1169,7 +1347,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 365640,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"

@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Kleo x Segah
 
-285 songs - 12 hr 24 min
+286 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Bi Çare Yok Mu?](https://open.spotify.com/track/2tDtFKYXHGdVxtizAA5a2y) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Bi Çare Yok Mu?](https://open.spotify.com/album/1JWYA1zlogUnd9bZUGO2L1) | 4:00 | 2023-11-09 | 2023-12-14 |
 | [Birader](https://open.spotify.com/track/55YPDeJRgBjW8Em2AWBiXk) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/22M9cLH01VgxTweURPcVDi) | 3:24 | 2023-01-10 | 2023-04-28 |
 | [Bruce Lee](https://open.spotify.com/track/1ELDprQdPHj6inFCAu7hlY) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Bruce Lee](https://open.spotify.com/album/1NS2YJ0BYgzM6V4RvGxmUW) | 1:31 | 2023-08-10 | 2023-08-25 |
-| [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 | 2024-01-11 |  |
+| [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2XY8epv0D64xqErIL21PJx) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/59w8ncxczTWGEClNIkYCuG) | 2:55 | 2024-02-15 |  |
+| [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 | 2024-01-11 | 2024-02-18 |
 | [Bul Kurtar](https://open.spotify.com/track/31dcmzxjz6jOuix6r4ITA1) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [Bul Kurtar](https://open.spotify.com/album/2Y1CbaY7ptuXflDPy2H5vT) | 2:04 | 2024-02-15 | 2024-02-17 |
 | [Bul Kurtar](https://open.spotify.com/track/47qYPY7tPJhyVbQBeVxwNC) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [Lacuna](https://open.spotify.com/album/4l3xb6bpLCGtf8ly7TiBjO) | 2:04 | 2024-02-15 |  |
 | [Bulamadım Yolu](https://open.spotify.com/track/5QSi6zDxjgQyIPJaQrJAet) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [Bulamadım Yolu](https://open.spotify.com/album/2kNNyoE2pxsZ3G2xYjEHlU) | 2:59 | 2023-12-14 | 2024-01-12 |

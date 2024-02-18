@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: NJERI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,103 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,112 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Milele](https://open.spotify.com/track/0GRikCkCDjo6KZflphU4J6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Milele](https://open.spotify.com/album/19bugQdphaPV2owzpESgWb) | 3:37 |
-| 2 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Decster](https://open.spotify.com/artist/05TcgZxV0IVzDs2KpLNif5), [Ari](https://open.spotify.com/artist/6VGzZ2vC7zeR73nkoYvOKf) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
+| 2 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
 | 3 | [Haya](https://open.spotify.com/track/42hRf2eAhvWnGqAUGnLHh1) | [Moraa](https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8) | [Feelings Station](https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu) | 2:16 |
 | 4 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 |
 | 5 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 |
 | 60 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 |
 
-Snapshot ID: `MCw4NThkOTBkYmFlMmRmMDhjNzdmNTJmZTU4OGQwODNkMThjMTMzNmNl`
+Snapshot ID: `MCwzOGMyY2FiOTlkYjMyMzQ0YzFkMWUyY2M2OGFlZjA3MGM2ZjA0MGUy`

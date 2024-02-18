@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,297 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,301 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 15 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
 | 16 | [Mô\-Zaico](https://open.spotify.com/track/6KyU16IER1SJUORRmACOpV) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Mô\-Zaico](https://open.spotify.com/album/1GNTB8OIhFhnHPfKdJzbaj) | 2:38 |
 | 17 | [Psiu](https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Gado](https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak) | 2:29 |
-| 18 | [Meus Olhos](https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Meus Olhos](https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw) | 3:08 |
-| 19 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
+| 18 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
+| 19 | [Meus Olhos](https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Meus Olhos](https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw) | 3:08 |
 | 20 | [Poesia Acústica Ep\. Jeri](https://open.spotify.com/track/634FkL4BoX3y0bPjmRvW0E) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Jeri](https://open.spotify.com/album/2uRGu55z10V7As9MSJ4k6x) | 4:22 |
 | 21 | [Inverno](https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Oxigênio \(Corona Disco\)](https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2) | 4:00 |
 | 22 | [No Mundo da Lua / Abraço](https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [No Mundo da Lua / Abraço](https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 |
 | 50 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
 
-Snapshot ID: `Mjg0NjgyMDksMDAwMDAwMDBhZWVlODQ4ZTg3YTViZTY2MGJlMmJlNjljZWEyZGU2Ng==`
+Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDA1OGRlYTJjYTgxNjljOWNkN2E4YmJlYWU4YmEyZWRmNQ==`

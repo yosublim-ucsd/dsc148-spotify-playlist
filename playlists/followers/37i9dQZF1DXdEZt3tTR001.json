@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 159011,
+  "2024-02-18": 159071,
   "date_first_scraped": "2021-12-30",
   "description": "lay back. chill out. ",
   "name": "floating",
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 292506,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 165933,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"

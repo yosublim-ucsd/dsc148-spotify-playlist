@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TEN\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,153 likes - 397 songs - 22 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,258 likes - 397 songs - 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 164 | [Slowly \(feat\. Heize\)](https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Slowly \(feat\. Heize\)](https://open.spotify.com/album/1vmkLxU1BKfTDImiWtAhb9) | 3:15 |
 | 165 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 |
 | 166 | [UGLY](https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Un: SEEN](https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ) | 3:21 |
-| 167 | [Escape to gangneung \- radio edit](https://open.spotify.com/track/5CXj9JNqsfqX8mmEqEQn8F) | [yeoreumnun](https://open.spotify.com/artist/5t5x1Oq6rhplScEzBYS16p) | [Escape to gangneung \(radio edit\)](https://open.spotify.com/album/45ijvpJW0joO9Jp3Xp8Hyn) | 4:24 |
+| 167 | [Escape to gangneung \- radio edit](https://open.spotify.com/track/5CXj9JNqsfqX8mmEqEQn8F) | [summersnow](https://open.spotify.com/artist/6ElUdhcW54YU2NZARMQzyE) | [Escape to gangneung \(radio edit\)](https://open.spotify.com/album/45ijvpJW0joO9Jp3Xp8Hyn) | 4:24 |
 | 168 | [call it love](https://open.spotify.com/track/49o9hxjO0khOubCV1JpDPy) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [blue heart](https://open.spotify.com/album/16FCxUXgogP2htyIETDd3y) | 3:05 |
 | 169 | [More than me now](https://open.spotify.com/track/2lfzH0PG70Cr51V55z4P6c) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [More than me now <Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/3nzQlxqAWW96Pf02k7Fj0O) | 4:11 |
 | 170 | [Valentine](https://open.spotify.com/track/7soqW0C2hCCblU402zUalw) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Valentine](https://open.spotify.com/album/0vLPfdVh9YuLudvHRRqXeD) | 2:44 |
@@ -406,4 +406,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 396 | [Rush Hour](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [Highway](https://open.spotify.com/artist/0nmg6RNT1HaWcMmG28C9kI) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 2:40 |
 | 397 | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/track/6e53jSfKBohJjJhqURJRC7) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [차우주](https://open.spotify.com/artist/1Ug3giuJFaBEuBuoYbZVno) | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/album/0u0JzT8CCZ2pch383vj08S) | 3:23 |
 
-Snapshot ID: `MCwzYjYyMWMwNTE1ZWUwODA5MjFkODkwMTM0ZmQzNjcwYTNmZWNhZDk3`
+Snapshot ID: `MCwyZGUyNzJmNDE2MzY5YjBlNzBjMmEwN2ViNzllNDQ2YjU4MmYzNjkz`

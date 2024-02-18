@@ -1,9 +1,27 @@
 {
-  "2024-02-17": 72114,
+  "2024-02-18": 72307,
   "date_first_scraped": "2023-01-18",
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. ",
   "name": "bossa pop",
   "tracks": [
+    {
+      "album": {
+        "name": "80 Summers",
+        "url": "https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200875,
+      "name": "80 Summers",
+      "url": "https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q"
+    },
     {
       "album": {
         "name": "A Car Going Nowhere",
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 157377,
       "name": "love of my life",
       "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191555,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
@@ -1570,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/44SwSYCMGm7UQqvwtHhRN3"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202656,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2V26mUO6YIHp5LEjEh0q28"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
@@ -1733,7 +1769,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 148876,
       "name": "The Things She Loved",
       "url": "https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo"

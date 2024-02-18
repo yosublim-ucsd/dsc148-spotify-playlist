@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-274 songs - 17 hr 49 min
+275 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Georgia on a Fast Train \- Live at the Texas Music Cafe](https://open.spotify.com/track/6zudOk9Nsjx0ulYSYJ2aXC) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Eddy Shaver](https://open.spotify.com/artist/0wpd5zvhLzWHrpY6RWBBim) | [Georgia on a Fast Train \(Live at the Texas Music Cafe\)](https://open.spotify.com/album/0q0TclnPK1HyWRmCJOG7z2) | 4:04 | 2023-01-27 | 2023-05-14 |
 | [Georgia on My Mind \- Live at Harrah's Casino, Lake Tahoe, NV \- April 1978](https://open.spotify.com/track/0OmDJkht9AEeXrJkRR5iJA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie And Family Live](https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB) | 4:08 | 2021-07-23 | 2022-10-15 |
 | [Get Your Kicks On Route 66](https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Live at Billy Bob's Texas](https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68) | 3:27 | 2021-07-23 |  |
-| [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 | 2021-07-23 |  |
+| [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 | 2021-07-23 | 2024-02-18 |
 | [Gimme Three Steps \- Live](https://open.spotify.com/track/2BTxbbLJiPd1ySKtvsBgn8) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced ‘Leh\-‘nérd ‘Skin\-‘nérd \- Live From Jacksonville At The Florida Theatre](https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4) | 5:37 | 2021-07-23 | 2022-07-29 |
 | [Gimme Three Steps/Call Me The Breeze \- 1976/Live At Bill Graham's Winterland](https://open.spotify.com/track/7yfrdrdGjR0Sk1ustStfX3) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Authorized Bootleg \- Live Winterland San Francisco, CA 3/7/76](https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp) | 10:08 | 2021-07-23 | 2023-08-14 |
 | [Girls Night Out \- Live](https://open.spotify.com/track/5IIglJEw1INsUNkXQq3Pss) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Reunion Live](https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV) | 3:08 | 2021-07-23 | 2022-07-25 |
@@ -208,6 +208,7 @@
 | [Simple Man \- Live](https://open.spotify.com/track/2NDJucOxHz73g8JBbdGYlX) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced ‘Leh\-‘nérd ‘Skin\-‘nérd \- Live From Jacksonville At The Florida Theatre](https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4) | 7:19 | 2021-07-23 | 2024-02-14 |
 | [Southern Cross \- Live](https://open.spotify.com/track/0qmawdRliiO39sdaxUIl2e) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Buffett Live: Tuesdays, Thursdays, Saturdays](https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q) | 5:07 | 2021-07-23 |  |
 | [Stand By Me](https://open.spotify.com/track/6lVhVK6zaCRE0neMvMlq5S) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Live in Branson](https://open.spotify.com/album/5Likd6rkwiDaf11kRwnuq0) | 3:14 | 2021-07-23 | 2022-07-29 |
+| [Stand by Me \(Live\)](https://open.spotify.com/track/417ooDujEgISrf9ShZD2gS) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Mickey Gilley](https://open.spotify.com/album/3HA9QfL9xB29dafYochezw) | 3:14 | 2023-07-24 |  |
 | [Stand by Me \- Live](https://open.spotify.com/track/1NznZVTpxWpcIysj6xyte3) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Mickey Gilley](https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7) | 3:14 | 2022-07-22 | 2023-11-04 |
 | [Stand By Your Man \- Live](https://open.spotify.com/track/1An4G4L8GqaUsPX2RIfQYo) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Country Stars \- Live In Concert, Vol\. 2](https://open.spotify.com/album/29hUC3uJrY8eQ3CO2j5L9L) | 2:59 | 2021-07-23 |  |
 | [Stays In Mexico \- Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005](https://open.spotify.com/track/1zyJbVVkuDjsK7AkIy1D1C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 3:38 | 2022-04-03 | 2022-04-20 |

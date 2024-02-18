@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela com Hungria e Alok, Dua Lipa, Atitude 67  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,601 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,144 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 15 | [Deus Guiando](https://open.spotify.com/track/1pk3K9bWcLtNPRhg6VZadX) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Deus Guiando](https://open.spotify.com/album/29Tzls0TFsMS5tW0VmxFZ0) | 2:33 |
 | 16 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 |
 | 17 | [3min sem auto tune](https://open.spotify.com/track/2JutOgJtkDaUxv3DuGNCDb) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [3min sem auto tune](https://open.spotify.com/album/35ENIP9cGZ8jNJNefTABlc) | 3:00 |
-| 18 | [Calma](https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Calma](https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi) | 1:56 |
+| 18 | [Calma](https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD) | [Calma](https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi) | 1:56 |
 | 19 | [Rua do Ouro](https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Rua do Ouro](https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ) | 2:31 |
 | 20 | [Down](https://open.spotify.com/track/78dsAqvPezU0xkeEJMjlj3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:09 |
 | 21 | [Head Head Honcho](https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 |
 | 50 | [A Tu Manera](https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [A Tu Manera](https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl) | 4:21 |
 
-Snapshot ID: `MCw1ZTczN2MxMDIwZDJhOWIxMjZhMTY2ZjEzZTkxODkzNjI4Yjc5MTJk`
+Snapshot ID: `MCwxOWM3YzJlNDE4YzM1OTQ0ODg0MzJlOTVjNDFiOWY4OTJhOTFkNTA2`

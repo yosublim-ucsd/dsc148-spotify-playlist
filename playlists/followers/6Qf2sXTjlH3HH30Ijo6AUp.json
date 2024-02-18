@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 494292,
+  "2024-02-18": 494286,
   "date_first_scraped": "2022-06-10",
   "description": "Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin\u2019 good \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a Perfect for road trips and singing in the shower! ",
   "name": "100 Uplifting Songs",
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 175247,
       "name": "favorite kind of high",
       "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
@@ -4301,6 +4301,24 @@
       "duration_ms": 221245,
       "name": "Through The Echoes",
       "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
+    },
+    {
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "album": {

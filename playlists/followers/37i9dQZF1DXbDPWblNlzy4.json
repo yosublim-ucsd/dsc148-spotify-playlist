@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 59999,
+  "2024-02-18": 60027,
   "date_first_scraped": "2023-03-20",
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Camilo & Evaluna Montaner",
   "name": "Frecuencia Pop",
@@ -885,7 +885,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
@@ -1427,6 +1427,24 @@
       "duration_ms": 185822,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB"
+    },
+    {
+      "album": {
+        "name": "Dos Semanas",
+        "url": "https://open.spotify.com/album/5qLNiFFzTrty1N3gJ0LaW1"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159875,
+      "name": "Dos Semanas",
+      "url": "https://open.spotify.com/track/24HpRg5rCOPJtLij5jDY3l"
     },
     {
       "album": {
@@ -3431,7 +3449,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG"
@@ -3682,6 +3700,24 @@
     },
     {
       "album": {
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -3921,7 +3957,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206546,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"
@@ -4468,6 +4504,28 @@
     },
     {
       "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214781,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
+    },
+    {
+      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs"
       },
@@ -4487,6 +4545,24 @@
       "duration_ms": 215709,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
+    },
+    {
+      "album": {
+        "name": "Te Vi Llegar",
+        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121621,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
     },
     {
       "album": {

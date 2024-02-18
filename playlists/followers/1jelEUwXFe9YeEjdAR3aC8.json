@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 106067,
+  "2024-02-18": 106068,
   "date_first_scraped": "2022-06-10",
   "description": "Just chill the F*** out to our mix of relaxing hits. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href=\"https://lnk.to/EndOfYearSaleOS\">All these hits available to buy on vinyl here!</a> Chill Pop | Relaxing Pop | Chill Vibes | Lazy Sundays | Chilled Mix",
   "name": "Chill the F*** out",
@@ -2329,6 +2329,24 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195848,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak"
     },
     {
       "album": {
@@ -10247,7 +10265,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"

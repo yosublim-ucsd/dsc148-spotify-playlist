@@ -923,6 +923,36 @@
     },
     {
       "album": {
+        "name": "Waiting For Dawn",
+        "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Mads Vinding",
+          "url": "https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347493,
+      "name": "Hours Of Ours",
+      "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -1042,7 +1072,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 258346,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 28259,
+  "num_followers": 28246,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzliMzgyZGRlY2IyZGI4YzM5M2U2YjBiMTllYjExOWJhYjMyOWY1",
+  "snapshot_id": "MCxkYjg2N2IxNTcyZWZhNWYxOGFmYTlmMzNlMmRiNTFhNDY2MDA2NWY2",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Junior",
         "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 277539,
       "name": "Domino",
       "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
-        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 290713,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
+        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
+        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
       },
       "artists": [
         {
-          "name": "Glasser",
-          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 297093,
-      "name": "Shape",
-      "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
+      "duration_ms": 290713,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
       },
       "artists": [
         {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+          "name": "Glasser",
+          "url": "https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0"
         }
       ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
+      "duration_ms": 297093,
+      "name": "Shape",
+      "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Nostalgia del Futuro",
         "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
       },
@@ -883,26 +899,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "El Morroeste",
-        "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        },
-        {
-          "name": "Alan Anaya",
-          "url": "https://open.spotify.com/artist/1kvJJQdizRx7Q3FFgWuhwi"
-        }
-      ],
-      "duration_ms": 158498,
-      "name": "Los Alan Anaya Rifa",
-      "url": "https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Il Visore Lunatique",
         "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
       },
@@ -931,6 +927,26 @@
       "duration_ms": 297910,
       "name": "Wako",
       "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "El Morroeste",
+        "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Alan Anaya",
+          "url": "https://open.spotify.com/artist/1kvJJQdizRx7Q3FFgWuhwi"
+        }
+      ],
+      "duration_ms": 158498,
+      "name": "Los Alan Anaya Rifa",
+      "url": "https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "GOLLY",
         "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 86698,
       "name": "Celebra",
       "url": "https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Meditations Mixtape Vol.1",
-        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
+        "name": "GOLLY",
+        "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
       "artists": [
         {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
         }
       ],
-      "duration_ms": 278952,
-      "name": "Ajooni",
-      "url": "https://open.spotify.com/track/3j8cLwjg74aMFMZNuOKMRe"
+      "duration_ms": 325725,
+      "name": "Pantitl\u00e1n",
+      "url": "https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     }
   ],
   "unique_name": "Pitchfork Music Festival CDMX",

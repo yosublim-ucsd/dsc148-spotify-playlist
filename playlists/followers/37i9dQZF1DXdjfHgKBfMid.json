@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 31213,
+  "2024-02-18": 31287,
   "date_first_scraped": "2023-12-22",
   "description": "\ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffc\ud83e\ude87\ud83c\udfba\ud83e\ude98",
   "name": "Full Tropical",
@@ -167,7 +167,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 68560,
       "name": "Carta Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK"
@@ -251,6 +251,32 @@
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+    },
+    {
+      "album": {
+        "name": "CORAZ\u00d3N",
+        "url": "https://open.spotify.com/album/4kz1PW7KXNYyfWXVzKntNP"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/1m5iV4hdnPVkiExSQe8iQS"
     },
     {
       "album": {
@@ -626,6 +652,28 @@
     },
     {
       "album": {
+        "name": "Morfina (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229474,
+      "name": "Morfina (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
+    },
+    {
+      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -797,7 +845,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 244266,
       "name": "Por lo que yo te quiero",
       "url": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
@@ -840,6 +888,28 @@
     },
     {
       "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B"
+    },
+    {
+      "album": {
         "name": "S\u00e9 que no",
         "url": "https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC"
       },
@@ -863,7 +933,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180250,
       "name": "S\u00e9 que no",
       "url": "https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe"

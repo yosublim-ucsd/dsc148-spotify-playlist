@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Warface & Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,439 likes - 83 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,537 likes - 83 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 2 | [XTC](https://open.spotify.com/track/2BYF7eFyPtAovBKsGcDDwn) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Jodapac](https://open.spotify.com/artist/1bA1Ys4ZfPhPfZ5gik0S5C) | [XTC](https://open.spotify.com/album/7F9Cixkjjg0nsLYKi5oZc2) | 3:34 |
 | 3 | [Ode To My Body](https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Ode To My Body](https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7) | 3:37 |
 | 4 | [No Retaliation](https://open.spotify.com/track/6N1NycLCUdSMWLM6ucXjP2) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [No Retaliation, Pt\. 1: The Solo's](https://open.spotify.com/album/1wTbNgkQexxRJSzbSV2IeC) | 3:44 |
-| 5 | [Hate on Us](https://open.spotify.com/track/6R79mTlEVjWl9KznhI6se8) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Hate on Us](https://open.spotify.com/album/1KvdMk31n75AaIdlUKUthr) | 2:37 |
+| 5 | [Hate On Us](https://open.spotify.com/track/6R79mTlEVjWl9KznhI6se8) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Hate On Us](https://open.spotify.com/album/1KvdMk31n75AaIdlUKUthr) | 2:37 |
 | 6 | [Japan](https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [YUKI JADE](https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC) | [Japan](https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz) | 2:08 |
 | 7 | [Maze Of Memories \- Reverze Anthem 2024](https://open.spotify.com/track/7hG04m8ODWqF5abbbX74ge) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Maze Of Memories \(Reverze Anthem 2024\)](https://open.spotify.com/album/1DpRBARXbd4YtGbnuOD9NT) | 4:33 |
 | 8 | [Twilight](https://open.spotify.com/track/2rDCNOVFgPp8TjOEDTnBUS) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [Twilight](https://open.spotify.com/album/23rQXI9tb3yWZlKwcF1Qrv) | 3:33 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 82 | [Won't Bow Down](https://open.spotify.com/track/5PWKB6obYDWWls0we9zy18) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Won't Bow Down](https://open.spotify.com/album/1bVzAXj4kOf964LKJgjXdr) | 3:44 |
 | 83 | [We Won't Stop \(For Eternity\)](https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [We Won't Stop \(For Eternity\)](https://open.spotify.com/album/4OXThgRK0LJLpSPnPokYko) | 2:32 |
 
-Snapshot ID: `MCxhZGQ0N2NkYzIyOTQ0NzhkZjRmYjNmMTBhNTc1YmMwN2FhNmVlNTZi`
+Snapshot ID: `MCxkODU3MGE2MzFhMzhkNGNmMDMxMGRkOTJkYzBhZGY1NGJkNjkyOWVh`

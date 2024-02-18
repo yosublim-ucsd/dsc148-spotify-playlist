@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 280414,
+  "2024-02-18": 280508,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:1xy9x7h2jKEg8iG22Sml32\">Tye Tribbett</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:6zSsJYBB1393jyFNRy7JrK\">Melvin Crispell III</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -2832,6 +2832,24 @@
     },
     {
       "album": {
+        "name": "He's Never Failed Me Yet",
+        "url": "https://open.spotify.com/album/5icrciEcTVBbQf4ZFuo3w2"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257486,
+      "name": "He's Never Failed Me Yet",
+      "url": "https://open.spotify.com/track/7znHKuvo7xhsYad2fyUnzp"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/5HKYJ8Lavx1XLP0NQ98NgY"
       },
@@ -5569,7 +5587,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 677496,
       "name": "No Failure (Hymn)",
       "url": "https://open.spotify.com/track/35LWvBeu7NgSsp80iksPfg"
@@ -7879,6 +7897,24 @@
       "duration_ms": 252879,
       "name": "To Worship You",
       "url": "https://open.spotify.com/track/7lYb03C6Fvli51HYEGGHFJ"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/3idokIb9ZCAu6nBxKjV8mk"
+      },
+      "artists": [
+        {
+          "name": "Freddy Washington Jr.",
+          "url": "https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203237,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2GTB5IhZqhdYLBGpAIfAPL"
     },
     {
       "album": {

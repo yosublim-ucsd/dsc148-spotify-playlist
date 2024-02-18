@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 82158,
+  "2024-02-18": 82194,
   "date_first_scraped": "2022-03-22",
   "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Irepelusa",
   "name": "Flow Venezuela",
@@ -3057,10 +3057,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 198163,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/08WtcbUnNVB4J2DCre8LHZ"
+    },
+    {
+      "album": {
+        "name": "Rain City",
+        "url": "https://open.spotify.com/album/20wRg2neepG9O7TuzYwmNx"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198163,
+      "name": "Vuela",
+      "url": "https://open.spotify.com/track/4jlcQuKeMDR3uw6twSZMNG"
     },
     {
       "album": {

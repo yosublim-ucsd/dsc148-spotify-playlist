@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1234471,
+  "2024-02-18": 1235339,
   "date_first_scraped": "2023-06-08",
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
   "name": "This Is Kanye West",
@@ -301,7 +301,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 196040,
       "name": "Famous",
       "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 181573,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"

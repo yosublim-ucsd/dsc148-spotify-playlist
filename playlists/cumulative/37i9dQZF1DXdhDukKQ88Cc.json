@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "En dag giver alt nok mening\u2026 (DELUXE)",
+        "url": "https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140637,
+      "name": "Ensom",
+      "url": "https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE"
+    },
+    {
+      "album": {
         "name": "En dag giver alt nok mening\u2026",
         "url": "https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 140637,
       "name": "Ensom",
       "url": "https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8"

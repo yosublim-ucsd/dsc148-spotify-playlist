@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 300333,
+  "2024-02-18": 300473,
   "date_first_scraped": "2023-09-07",
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Niklas Dee, Kiara Nelson",
   "name": "Dance Brandneu",
@@ -4125,6 +4125,28 @@
       "duration_ms": 119252,
       "name": "Do You Ever Think Of Me",
       "url": "https://open.spotify.com/track/18rYVFWfX3Qswv887VGPkK"
+    },
+    {
+      "album": {
+        "name": "Dola re Dola",
+        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Dola re Dola",
+      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
     },
     {
       "album": {
@@ -12571,7 +12593,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206007,
-      "name": "One, Two & 3",
+      "name": "One, Two, & 3",
       "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {

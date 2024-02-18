@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1810374,
+  "2024-02-18": 1810433,
   "date_first_scraped": "2022-01-10",
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Camilo & Evaluna Montaner",
   "name": "Salsa Nation",
@@ -1531,6 +1531,36 @@
       "duration_ms": 323682,
       "name": "El Que Siempre So\u00f1\u00f3",
       "url": "https://open.spotify.com/track/2comgM8wcrT3UbA2DFk5UX"
+    },
+    {
+      "album": {
+        "name": "El Swing 2.0 (feat. Luis Vazquez)",
+        "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        },
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213084,
+      "name": "El Swing 2.0 (feat. Luis Vazquez)",
+      "url": "https://open.spotify.com/track/5U9lUIHIzSmXz7ScRQGWdx"
     },
     {
       "album": {
@@ -4159,7 +4189,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 248325,
       "name": "Te Equivocaste Conmigo",
       "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"

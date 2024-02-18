@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Lawrence Fields Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,873 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,927 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [To the Surface](https://open.spotify.com/track/7GE2BYSVUI6jgYTcl9ndIy) | [Lawrence Fields](https://open.spotify.com/artist/6Gx8FEiq4GWxQibFuSzmeY), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP) | [To the Surface](https://open.spotify.com/album/1R412HS1P9eZV8a3WN3Xlq) | 7:32 |
 | 50 | [E11](https://open.spotify.com/track/2VNTkhoJjWiPIfNhkqkbun) | [Nye Banfield](https://open.spotify.com/artist/6YgKVXsxdkdMvPKtun2Mf7) | [Trails and Traces](https://open.spotify.com/album/5snXS22NW1Cdz3RubODbu5) | 7:24 |
 
-Snapshot ID: `MCwyZTEzNmI5ZGQ3N2I4MzAwZGJkOWI5NjdiOTU2NjM4NDU1ODIxMjVk`
+Snapshot ID: `MCxkZWI0MzJlNjc1YTllMjRlMWEyYTFiZGRkYzJjMTRkM2JjMjljOWQ5`

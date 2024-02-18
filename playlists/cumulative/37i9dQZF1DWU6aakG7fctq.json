@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 232888,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 188124,
       "name": "Calentica",
       "url": "https://open.spotify.com/track/5zpZBenhAEcX68n5H0KQez"
@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Estar Cerca de Ti",
+        "url": "https://open.spotify.com/album/6Ws43EfbO4IGba7j3gKXzl"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        },
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Estar Cerca de Ti",
+      "url": "https://open.spotify.com/track/5bpaf2lcJD8neZJu4hbqKc"
+    },
+    {
+      "album": {
         "name": "Estar Mejor",
         "url": "https://open.spotify.com/album/5oKwBbh0NTAh6WdCKDDCVy"
       },
@@ -3868,7 +3890,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz"
@@ -7251,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP"
+    },
+    {
+      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
@@ -8560,6 +8600,24 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
     },
     {
       "album": {

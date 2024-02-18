@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 114599,
+  "2024-02-18": 114600,
   "date_first_scraped": "2022-01-02",
   "description": "The best in current indie rock. Cover: IDLES",
   "name": "pulp",
@@ -3060,6 +3060,24 @@
     },
     {
       "album": {
+        "name": "From the Night",
+        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251821,
+      "name": "From the Night",
+      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "album": {
         "name": "Full Round Table",
         "url": "https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf"
       },
@@ -5311,7 +5329,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176578,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"

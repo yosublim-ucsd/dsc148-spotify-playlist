@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 173074,
+  "2024-02-18": 173189,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Boris Brejcha's track IDs",
@@ -771,7 +771,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 189034,
       "name": "Dogma",
       "url": "https://open.spotify.com/track/28kaib03MtXJvmteD4AJXc"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 230222,
       "name": "Home - Nusha Remix",
       "url": "https://open.spotify.com/track/78EH7GvqU5AvrPNv4NmzBo"
@@ -2350,6 +2350,28 @@
     },
     {
       "album": {
+        "name": "Miracle (Edit)",
+        "url": "https://open.spotify.com/album/6AKl3wkK0W4h1XYWJb3Ik7"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Miracle - Edit",
+      "url": "https://open.spotify.com/track/5ZsK8da1RudtW0zp1YUxTm"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/1hQTMJz6lWgj4CKPj8o0I9"
       },
@@ -3065,6 +3087,24 @@
       "duration_ms": 304002,
       "name": "SEX",
       "url": "https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs"
+    },
+    {
+      "album": {
+        "name": "Shell Shocked",
+        "url": "https://open.spotify.com/album/5klZ4yZxJZ0zRhgGIV5t1B"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404693,
+      "name": "Shell Shocked",
+      "url": "https://open.spotify.com/track/7oIkGqmieM5MXH7ZUdQylx"
     },
     {
       "album": {

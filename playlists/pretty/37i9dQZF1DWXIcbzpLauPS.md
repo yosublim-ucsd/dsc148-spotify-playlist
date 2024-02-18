@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Alpha Wolf + ICE\-T
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,715 likes - 110 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,889 likes - 110 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 58 | [Strange Love](https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Strange Love](https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3) | 3:58 |
 | 59 | [Begin Again](https://open.spotify.com/track/6uCkCdWgzS2joEVTGnGSz9) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:35 |
 | 60 | [The Tide](https://open.spotify.com/track/4kDbixS4TuwdONKMrCF6zi) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [The Tide](https://open.spotify.com/album/5ETNqkxNkYDzfDls6HO2E2) | 3:07 |
-| 61 | [Silver Bullet](https://open.spotify.com/track/60bdGD4lCqGQJFR3wRtFlJ) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/2uOLiz6dTIJleJI1IyClll) | 3:13 |
+| 61 | [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 |
 | 62 | [Bite Your Tongue](https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Bite Your Tongue](https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM) | 3:18 |
 | 63 | [Limitless](https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO) | 3:28 |
 | 64 | [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 109 | [VIOLENT JOY](https://open.spotify.com/track/4WsMqcjOJFnRggNYBUINQl) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [Violent Joy](https://open.spotify.com/album/55Kv93b3BrRFBzwADP6Xo7) | 3:01 |
 | 110 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 
-Snapshot ID: `MCwyMmE1ZjRkM2I5MmI3OWVjMmFjYzRkMzU5NTM4MWEzZWI1OTc4NzVj`
+Snapshot ID: `MCwwNmEyOGQxNDhkZGE1MmMzMjZkYjgyNzAwZTU2Njk5ZjQyN2M4YTg3`

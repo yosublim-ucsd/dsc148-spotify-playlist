@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,295 likes - 109 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,296 likes - 109 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 13 | [Now](https://open.spotify.com/track/2pZJqhsUxcS27EIw6osRBS) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Now](https://open.spotify.com/album/4bZgBjgSVUFi93sGfxRxkK) | 2:54 |
 | 14 | [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 |
 | 15 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 |
-| 16 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
+| 16 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
 | 17 | [Ufem Weg](https://open.spotify.com/track/1yzWU1VSFAct0vIq7IXfQx) | [Xen](https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS) | [Ufem Weg](https://open.spotify.com/album/5NVwZEWbyhbHWSc0MMNCEw) | 3:52 |
 | 18 | [Straßengraben](https://open.spotify.com/track/6ikfrlq9YwHIafE7ZgS085) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Straßengraben](https://open.spotify.com/album/35Scbv0q8sPn61uC0jMvAF) | 2:29 |
 | 19 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Was ist wenn es gut wird](https://open.spotify.com/track/1XOB1bAPJRk9TmpRMBcabL) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh) | [Was ist wenn es gut wird](https://open.spotify.com/album/63l51lb0ctc5R8C4kwCI20) | 2:16 |
 | 109 | [Neverland](https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Neverland](https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik) | 3:32 |
 
-Snapshot ID: `MCwyNzU1ZGI3OGNkZGIzNjdlOTdjNDU1OGU3MmIyNWY5MTAzYWU0Nzdl`
+Snapshot ID: `MCxiYWYyODBhOTQ5NTk5ZmVlMGI0ZjM1M2UzYzNkMzA5ZTgwNjQxYTcw`

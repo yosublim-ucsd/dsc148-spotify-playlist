@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=fe7dc91ae92c41b3">Teezo Touchdown's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,519 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,544 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 6 | [Don’t Approach Me \(Chopped & Screwed\)](https://open.spotify.com/track/4DNScJg5c9PmPYhLMXPlAA) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [O.G\. Ron C](https://open.spotify.com/artist/7rfiu2sZrvixYoHM1bjgxi) | [Leprechaun \(Chopped & Screwed\)](https://open.spotify.com/album/6RWSCNjjacdWAHBdkUIsij) | 6:54 |
 | 7 | [My Dick \(feat\. Tony Sunshine\) \(feat\. Tony Sunshine\)](https://open.spotify.com/track/2zaDb0slvbUoFXr97swVQD) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Tony Sunshine](https://open.spotify.com/artist/6FNA65HkfMcw20mEKIK9eA) | [Yeah Baby](https://open.spotify.com/album/4Q6aT8fIVaYFsJc7C6OrAv) | 3:19 |
 | 8 | [The Bag](https://open.spotify.com/track/59rOzyj48O1YEVxaa9hglB) | [Cvke Supply](https://open.spotify.com/artist/2ymUaUo9l4WwQmo8c2WqPS), [RVN](https://open.spotify.com/artist/5g00ZOCQ3PvaBKM3XkYObh), [PurpBoyst](https://open.spotify.com/artist/4N6DaP7b9UlJNfxZ8cBm7Y) | [Cvke or Get Baked](https://open.spotify.com/album/2JL27xKv0wv4zwWMhssDyE) | 2:40 |
-| 9 | [Brick Fair \(feat\. Future\)](https://open.spotify.com/track/4HVmysvB2NfSYxe7aZiI8S) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Greatest Mixtape Hits](https://open.spotify.com/album/6zElyR40LjSG6fuyvF2suT) | 2:55 |
+| 9 | [Brick Fair \(feat\. Future\)](https://open.spotify.com/track/3aP0n7O95BH0r8zJXlFWis) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Greatest Mixtape Hits](https://open.spotify.com/album/1FRd5kwGyaZGN2whHvRYa2) | 2:55 |
 | 10 | [I’ll Do It](https://open.spotify.com/track/2xckFUPEDk1OJ4iede5nM0) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 4:12 |
 | 11 | [911\-0024](https://open.spotify.com/track/1qhWMBXk69xD1xwwjKlR3N) | [Link](https://open.spotify.com/artist/34gJOUTurjXaj8z3E9fDaV) | [Sex Down](https://open.spotify.com/album/1u4KCF74p7JhxexnLopbYR) | 4:24 |
 | 12 | [One Night Stand](https://open.spotify.com/track/1EapUQK4oy1idLop5yV3U3) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Oobie](https://open.spotify.com/artist/51GnGVvOHfqOBA2ME9nZ1Z) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 4:33 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 29 | [I Knew I'll Make It](https://open.spotify.com/track/70kGwtQF9g3JI8HcYRAey5) | [Bankroll Fresh](https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS) | [Life of a Hot Boy](https://open.spotify.com/album/4qrG8JSxpDIrJbCYIdaDPm) | 2:15 |
 | 30 | [Jasmine Tea!](https://open.spotify.com/track/2WlOzS0iQ0RndtuXUGJJlY) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [BEAR1BOSS](https://open.spotify.com/album/3mxZb5vAZYgtT82nmVTVDu) | 2:30 |
 
-Snapshot ID: `MCxjMTk0YTdjZTVhM2MxMzQ5MGEzOGU0OTgzNWExNDc0N2JjM2NhNjYw`
+Snapshot ID: `MCw0NTBmMzI2ZjBjOGZmN2M0NmNmZTRlNmZlMTVhOTg2MjUwYjY3OGJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Kamau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,335 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,365 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
 | 75 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 |
 
-Snapshot ID: `MCxjNjU2Y2E5MWQ2MzVhYTUxOGVmYTRhNTZhNzA3OTlhYjYxYTA0NmQ2`
+Snapshot ID: `MCw0OGI3Nzg5ODZlOWI2MGUwNDJjMjllN2U2OTMxZTcwNmJkMWY4M2Y0`

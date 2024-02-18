@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Abby Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,724 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,729 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 68 | [Hold Him](https://open.spotify.com/track/05PrnPGWceL8GlsdfkXeH3) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Hold Him](https://open.spotify.com/album/4DU0NqdcK5B0nWrrxYj4Ss) | 3:55 |
 | 69 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 | 70 | [Wish](https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Wish](https://open.spotify.com/album/3LXIH2vyXZLYoahg7B9Zzl) | 3:26 |
-| 71 | [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 |
+| 71 | [Everything Almost](https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:00 |
 | 72 | [chicago](https://open.spotify.com/track/6SkptVZ2SEfSJRxV84TMsR) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [chicago](https://open.spotify.com/album/18wcMl1vO8YBg4Xrq0Dwm7) | 3:04 |
 | 73 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 |
 | 74 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 |
 | 100 | [While You Wait](https://open.spotify.com/track/6VNsdDlsgWEhGfpeoc1UZW) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [While You Wait](https://open.spotify.com/album/6KyO7Mb9QnUSwm9hxVXWph) | 4:58 |
 
-Snapshot ID: `MCwwZDVlNDUzNDdjYjg0MDVkNGM0Nzc0NDM1NjRiYzM2NTY2YmUwMzc0`
+Snapshot ID: `MCwxYzdlZjhhNDdmMzNkMDk3YTMzM2VlYTQzMjQzOWViNWU5OGQ3OGE5`

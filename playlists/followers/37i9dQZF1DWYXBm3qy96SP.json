@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 47080,
+  "2024-02-18": 47088,
   "date_first_scraped": "2023-03-19",
   "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Paramore",
   "name": "Rock The World",
@@ -949,7 +949,7 @@
     {
       "album": {
         "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
       "artists": [
         {
@@ -964,6 +964,28 @@
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190715,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/23JwoPM8EvsHYYKikXNC9r"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        },
+        {
+          "name": "Dave Le\u2019aupepe",
+          "url": "https://open.spotify.com/artist/2hZim6SlX56ihBJRZnma62"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-17",
       "duration_ms": 190715,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/5wN2jQWIrCGjWT5bOL2WFg"
@@ -6617,10 +6639,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 185213,
       "name": "Foam",
       "url": "https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46"
+    },
+    {
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
     },
     {
       "album": {
@@ -12445,7 +12485,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 152208,
       "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
       "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
@@ -13607,10 +13647,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 256573,
       "name": "POP POP POP",
       "url": "https://open.spotify.com/track/228SlXXnL6q20pOGSW4tFl"
+    },
+    {
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256573,
+      "name": "POP POP POP",
+      "url": "https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a"
     },
     {
       "album": {
@@ -14281,7 +14339,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 196837,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S"

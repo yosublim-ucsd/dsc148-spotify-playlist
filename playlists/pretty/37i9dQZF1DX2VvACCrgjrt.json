@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: BIJOU and Dr. Fresch",
-  "num_followers": 440438,
+  "num_followers": 440478,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWQxMGIyNzZkOGUwOTQzOTZjMjRkNWMxN2NhZWVmNjI1OTE4NDQz",
+  "snapshot_id": "MCw3ZjBlOGIxNTg0ZDU1YWIyYzI5MGI4NjYxMTE4Y2QzOTMwZjliNWVm",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Hit It Back",
-        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Hit It Back",
-      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Operators Vol. 1",
         "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 150761,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Hit It Back",
+        "url": "https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Hit It Back",
+      "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Dare (Gimme 5)",
+        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dare (Gimme 5)",
+      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Dare (Gimme 5)",
-        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
-      },
-      "artists": [
-        {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dare (Gimme 5)",
-      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Here Comes The Hotstepper",
+        "url": "https://open.spotify.com/album/0EyLI2iSdKlVTS2yp0SgtB"
+      },
+      "artists": [
+        {
+          "name": "Snoblack",
+          "url": "https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX"
+        },
+        {
+          "name": "Akuarium",
+          "url": "https://open.spotify.com/artist/5txw0ndVXsw3Z198taEnNg"
+        },
+        {
+          "name": "Jack Light",
+          "url": "https://open.spotify.com/artist/4XbCACAI3mmUIkOL73aTjv"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Here Comes The Hotstepper",
+      "url": "https://open.spotify.com/track/3xPf1t0ogZ0DH3DN0c4l5t"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
@@ -1763,22 +1787,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "House",
-      "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1803,26 +1811,54 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Here Comes The Hotstepper",
-        "url": "https://open.spotify.com/album/0EyLI2iSdKlVTS2yp0SgtB"
+        "name": "House",
+        "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
       },
       "artists": [
         {
-          "name": "Snoblack",
-          "url": "https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX"
-        },
-        {
-          "name": "Akuarium",
-          "url": "https://open.spotify.com/artist/5txw0ndVXsw3Z198taEnNg"
-        },
-        {
-          "name": "Jack Light",
-          "url": "https://open.spotify.com/artist/4XbCACAI3mmUIkOL73aTjv"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Here Comes The Hotstepper",
-      "url": "https://open.spotify.com/track/3xPf1t0ogZ0DH3DN0c4l5t"
+      "duration_ms": 153600,
+      "name": "House",
+      "url": "https://open.spotify.com/track/0i88cSlMSo9G5PEYGdVMdc"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 153847,
+      "name": "Hostile",
+      "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1847,22 +1883,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 153847,
-      "name": "Hostile",
-      "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "MIRRORS",
         "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "What Do You Want",
-        "url": "https://open.spotify.com/album/0TdUKu8MVbIYVykduz6CNc"
-      },
-      "artists": [
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "What Do You Want",
-      "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "East Meets West",
         "url": "https://open.spotify.com/album/5r2BhLA6K3S3NTCNBsSMtX"
       },
@@ -2055,18 +2071,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
       },
       "artists": [
         {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
         }
       ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2131,34 +2147,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Let's Rock",
-        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
       },
       "artists": [
         {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
         }
       ],
-      "duration_ms": 209062,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Dropping It",
-        "url": "https://open.spotify.com/album/20nnsOzwQZjWvppU820J5T"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Dropping It",
-      "url": "https://open.spotify.com/track/0WheKDBrHJ1IYJbhMncC5M"
+      "duration_ms": 144400,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/0Ukf13MY7qeWtQB0SY8iod"
+        "name": "Dropping It",
+        "url": "https://open.spotify.com/album/20nnsOzwQZjWvppU820J5T"
       },
       "artists": [
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
+      "duration_ms": 192755,
+      "name": "Dropping It",
+      "url": "https://open.spotify.com/track/0WheKDBrHJ1IYJbhMncC5M"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Poissound",
-        "url": "https://open.spotify.com/album/392617G8Fahkedg4Vejmsu"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 222325,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Jumpstarter",
         "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 173592,
       "name": "Jumpstarter",
       "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Poissound",
+        "url": "https://open.spotify.com/album/392617G8Fahkedg4Vejmsu"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 222325,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2275,18 +2275,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Education",
-        "url": "https://open.spotify.com/album/6V2zDH1FbCiKOytkXa8pBP"
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "DEVOWR.",
+          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Education",
-      "url": "https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q"
+      "duration_ms": 215238,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2311,38 +2315,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
+        "name": "Education",
+        "url": "https://open.spotify.com/album/6V2zDH1FbCiKOytkXa8pBP"
       },
       "artists": [
         {
-          "name": "DEVOWR.",
-          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 215238,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
+      "duration_ms": 186240,
+      "name": "Education",
+      "url": "https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2367,18 +2351,42 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
       },
       "artists": [
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Badman Riddim (feat. Sweetie Irie)",
+        "url": "https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 137910,
+      "name": "Badman Riddim (feat. Sweetie Irie)",
+      "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
     }
   ],
   "unique_name": "Nasty Bits",

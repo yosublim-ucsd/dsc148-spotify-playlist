@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,308 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,344 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 3 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 | 4 | [Patiala Flow](https://open.spotify.com/track/4bwM0uV1LvFtNtTL78ZgHR) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 2:33 |
 | 5 | [Hot Shit](https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 |
-| 6 | [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 |
+| 6 | [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 |
 | 7 | [Yaar Mere](https://open.spotify.com/track/4mqDW9KBBcupJze5rNssQC) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 3:54 |
 | 8 | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 |
 | 9 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw2YTIwZTNmYTE1Yzk5MGY5ODI5MTJmNWVmYjZhYTBiMTMyNjM3Nzgx`
+Snapshot ID: `MCwwYTU3ZmU4NjQ4MzMyODFmYjZiZjJjY2EwN2JjOGNkY2UxZWRmNDgy`

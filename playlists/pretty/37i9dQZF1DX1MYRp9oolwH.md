@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,301 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,349 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 45 | [Paravasame Paravasame \(From "Narayana & Co"\)](https://open.spotify.com/track/2pRvXeJbRMgNAOVPAYTEVW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP), [Dr\. Josyabhatla](https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j) | [Paravasame Paravasame \(From "Narayana & Co"\)](https://open.spotify.com/album/3UFK8TuPlUxp7km8PMPDOZ) | 4:18 |
 | 46 | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 |
 | 47 | [Kalaya Nijama](https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ) | [Mohith Rahmanic](https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Calling Sahasra](https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je) | 3:40 |
-| 48 | [Neelaa Nannilaa](https://open.spotify.com/track/0mLyZNyrMZBn2JPB04RqIi) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/5nGLa40AxpJ13jDVMD7RUT) | 3:48 |
+| 48 | [Neelaa Nannilaa](https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q) | 3:48 |
 | 49 | [Nalo Nena Natho Nena \(From "Men Too"\)](https://open.spotify.com/track/6qDgzlheGhzLWVOgPIl2QG) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Elisha Praveen G](https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ) | [Nalo Nena Natho Nena \(From "Men Too"\) \- Single](https://open.spotify.com/album/3Wr3YjX3t5HtehdRow7joC) | 2:29 |
 | 50 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 
-Snapshot ID: `MCw1OWJjOThkMmFhMGI1NWVhZGYzNzkzZTUwMmRiMzY0MGFhZTM1MjY2`
+Snapshot ID: `MCwxZDA4OWQ1YjMwMTVhMDMxYTE3ZWNmYjMyMTNhNWUwNmIyMWQyYTU5`

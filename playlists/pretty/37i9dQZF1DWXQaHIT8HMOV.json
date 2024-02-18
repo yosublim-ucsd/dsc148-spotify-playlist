@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: $hyli",
-  "num_followers": 1946,
+  "num_followers": 1945,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWIxNDIxOWZiNGJlMzRmMzQ3ZTY3NjdlNGQwZjkwZDRhOTBlM2Rj",
+  "snapshot_id": "MCw0ZGQ5MWQ0NGNlMDU2NDkxOTRlNDcxYzgwZmI3ODEzODIyNzFlYWI2",
   "tracks": [
     {
       "added_at": "2024-02-16 11:43:52",
@@ -387,8 +387,8 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+        "name": "Masavu",
+        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+      "duration_ms": 176170,
+      "name": "Masavu",
+      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -571,8 +571,8 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
         }
       ],
-      "duration_ms": 191691,
-      "name": "Practical",
-      "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -659,8 +659,8 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Masavu",
-        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
       "artists": [
         {
@@ -668,9 +668,25 @@
           "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 176170,
-      "name": "Masavu",
-      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 191691,
+      "name": "Practical",
+      "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -755,54 +771,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Kimugunyu",
-        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 180781,
-      "name": "Kimugunyu",
-      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Leega",
-        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 216398,
-      "name": "Leega",
-      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -827,6 +795,38 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Kimugunyu",
+        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 180781,
+      "name": "Kimugunyu",
+      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh"
+      },
+      "artists": [
+        {
+          "name": "Mike Mungu",
+          "url": "https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4"
+        }
+      ],
+      "duration_ms": 170724,
+      "name": "Tuli Ntinda",
+      "url": "https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/2Sw5Bk9fsTJbBJQUS3GRXp"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh"
+        "name": "Leega",
+        "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
       },
       "artists": [
         {
-          "name": "Mike Mungu",
-          "url": "https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 170724,
-      "name": "Tuli Ntinda",
-      "url": "https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a"
+      "duration_ms": 216398,
+      "name": "Leega",
+      "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Muntu Wange",
+        "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Muntu Wange",
+      "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
       },
@@ -955,30 +971,6 @@
       "duration_ms": 179762,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH"
-      },
-      "artists": [
-        {
-          "name": "Jozzi Uganda",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Dny Beats",
-          "url": "https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP"
-        },
-        {
-          "name": "ZEUS BNM",
-          "url": "https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
     }
   ],
   "unique_name": "Made In Uganda",

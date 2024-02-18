@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Icewear Vezzo
 
-680 songs - 1 day 7 hr 41 min
+681 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Candyman](https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Candyman](https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR) | 2:52 | 2024-01-26 | 2024-01-30 |
 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 | 2022-10-22 |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-11 | 2024-02-17 |
-| [CARNIVAL](https://open.spotify.com/track/22UmqSLFADtxHCcZ67RzKp) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CARNIVAL](https://open.spotify.com/album/5jMfrCmk4I3jjuju47YQj5) | 4:24 | 2024-02-16 |  |
+| [CARNIVAL](https://open.spotify.com/track/22UmqSLFADtxHCcZ67RzKp) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CARNIVAL](https://open.spotify.com/album/5jMfrCmk4I3jjuju47YQj5) | 4:24 | 2024-02-16 | 2024-02-18 |
+| [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 |  |
 | [Cash App](https://open.spotify.com/track/6AG2zjruUpoYu9hunhx2lg) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Cash App](https://open.spotify.com/album/5Y6DbLjNhOclGopStO1P1d) | 2:10 | 2022-03-18 | 2022-06-25 |
 | [Catch A B](https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Catch A B](https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW) | 2:13 | 2023-10-13 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/3WY8hLynnpmXPzdwPl0zjH) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Catch Me If You Can](https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw) | 2:28 | 2021-10-29 | 2022-02-12 |

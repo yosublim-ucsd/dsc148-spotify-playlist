@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Fivio Foreign",
-  "num_followers": 207806,
+  "num_followers": 207812,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTlhMDgwMTZlZjQyY2UwZDFjNTQ2YTYyYzk3YWNiNzhlZDIwZmQw",
+  "snapshot_id": "MCxhNzYyYWI4NzJiNjU3ZDhlYmUxMmZiMDE1ZDY3YWMzYzNjNGEwN2Qy",
   "tracks": [
     {
       "added_at": "2024-02-16 08:37:40",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 267194,
-      "name": "MONACO",
-      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
         "name": "Par\u00eds Como Hakimi",
         "url": "https://open.spotify.com/album/6EGdF6PPqUdepFkHiWam87"
       },
@@ -1423,22 +1447,6 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "Algo Muy Raro",
-        "url": "https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 189864,
-      "name": "Algo Muy Raro",
-      "url": "https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
       },
@@ -1459,6 +1467,22 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
+        "name": "Algo Muy Raro",
+        "url": "https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 189864,
+      "name": "Algo Muy Raro",
+      "url": "https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -1475,26 +1499,6 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
-        "name": "Turn Yo Clic Up (feat. Future)",
-        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 230835,
-      "name": "Turn Yo Clic Up (feat. Future)",
-      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1563,22 +1567,22 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1595,6 +1599,26 @@
       "duration_ms": 117200,
       "name": "L's",
       "url": "https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1687,6 +1711,22 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 236998,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -1739,18 +1779,18 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp"
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 236998,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
+      "duration_ms": 202666,
+      "name": "Love de toi",
+      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1795,6 +1835,22 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
+        "name": "Sorrys & Ferraris",
+        "url": "https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "Sorrys & Ferraris",
+      "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
         "name": "Faut pas",
         "url": "https://open.spotify.com/album/6RlAxkB6DUlh0XPab49uXn"
       },
@@ -1815,22 +1871,6 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Love de toi",
-      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
         "name": "Canarsie",
         "url": "https://open.spotify.com/album/7EvGeQSKTCqgwFb4hrO91d"
       },
@@ -1847,26 +1887,6 @@
       "duration_ms": 168428,
       "name": "Canarsie",
       "url": "https://open.spotify.com/track/4yyZkXQPuxfNhM5tPSFoHJ"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "RAZONES (feat. Morad)",
-      "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1895,18 +1915,22 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 197692,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
+      "duration_ms": 184253,
+      "name": "RAZONES (feat. Morad)",
+      "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1927,6 +1951,22 @@
       "duration_ms": 176133,
       "name": "ISSA PARTY (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
+        "name": "Yeern 101",
+        "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Yeern 101",
+      "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -1983,6 +2023,22 @@
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "added_at": "2024-02-16 08:37:40",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "added_at": "2024-02-16 08:37:40",
@@ -2183,22 +2239,6 @@
     {
       "added_at": "2024-02-16 08:37:40",
       "album": {
-        "name": "Yeern 101",
-        "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Yeern 101",
-      "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
         "name": "Why Would I?",
         "url": "https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5"
       },
@@ -2267,38 +2307,6 @@
       "duration_ms": 214791,
       "name": "Heist",
       "url": "https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
-        "name": "College Girls",
-        "url": "https://open.spotify.com/album/2MnezDg8Uik1lpRFDkCB3G"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 251698,
-      "name": "College Girls",
-      "url": "https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4"
-    },
-    {
-      "added_at": "2024-02-16 08:37:40",
-      "album": {
-        "name": "Minimum Wage",
-        "url": "https://open.spotify.com/album/2Pcfs8BmHGXKsIcs8cJomT"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        }
-      ],
-      "duration_ms": 138345,
-      "name": "Minimum Wage",
-      "url": "https://open.spotify.com/track/2J3XiLFW6yiqoKpOukbbpR"
     }
   ],
   "unique_name": "Rap Internazionale",

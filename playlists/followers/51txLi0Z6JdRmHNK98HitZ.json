@@ -1,9 +1,31 @@
 {
-  "2024-02-17": 2826,
+  "2024-02-18": 2837,
   "date_first_scraped": "2020-11-03",
   "description": "A playlist of all our songs released so far. Our new album Faith Crisis Pt 1 is out February 16! <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
-  "name": "Middle Kids - Complete Collection",
+  "name": "Faith Crisis Pt 1",
   "tracks": [
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        },
+        {
+          "name": "Dave Le\u2019aupepe",
+          "url": "https://open.spotify.com/artist/2hZim6SlX56ihBJRZnma62"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190715,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/5wN2jQWIrCGjWT5bOL2WFg"
+    },
     {
       "album": {
         "name": "Today We're The Greatest",
@@ -53,10 +75,28 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 230217,
       "name": "Bend",
       "url": "https://open.spotify.com/track/1fbPnleK6PXE6hCRTtOJyw"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230217,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/3Evc9pXwrrIU484uOxQNgg"
     },
     {
       "album": {
@@ -78,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200457,
+      "name": "Bootleg Firecracker",
+      "url": "https://open.spotify.com/track/0bq8IO9XsMPyGle50aDRkT"
+    },
+    {
+      "album": {
         "name": "Bootleg Firecracker",
         "url": "https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13"
       },
@@ -89,7 +147,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 200457,
       "name": "Bootleg Firecracker",
       "url": "https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC"
@@ -233,10 +291,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177473,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/0z0xgpdkvzjJdylAlILbzE"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/6qAhqNDJjcqfOHZiz7xZkl"
     },
     {
       "album": {
@@ -312,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "Go To Sleep On Me",
+      "url": "https://open.spotify.com/track/0AGAY1i1j6x6ywkEYynDSt"
+    },
+    {
+      "album": {
         "name": "Today We're The Greatest",
         "url": "https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4"
       },
@@ -341,10 +435,28 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/24jwtRFRrpZUhFT7Tv6d7I"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/2AXKuCbNVIFHBdVHeRoGOG"
     },
     {
       "album": {
@@ -525,6 +637,42 @@
       "duration_ms": 214106,
       "name": "On My Knees",
       "url": "https://open.spotify.com/track/6WzaLhPEj3HUAjRtKvU0hu"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105270,
+      "name": "Petition",
+      "url": "https://open.spotify.com/track/500MCzxLwSSy5gXP9KIRCw"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174484,
+      "name": "Philosophy",
+      "url": "https://open.spotify.com/track/0IAG0VI6pp6rxsJTY3Dvuy"
     },
     {
       "album": {
@@ -791,10 +939,64 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 172200,
       "name": "Terrible News",
       "url": "https://open.spotify.com/track/2uyO1FusmMcWZjb7vW1MUb"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Terrible News",
+      "url": "https://open.spotify.com/track/4VyhSamAmpdiAIXgOgVUow"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196916,
+      "name": "The Blessings",
+      "url": "https://open.spotify.com/track/1xRZ8mzrpL7q5G7aU6PYt4"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74582,
+      "name": "The Blessings Interlude",
+      "url": "https://open.spotify.com/track/2saxTZrsyMsc0Hq337Xcd3"
     },
     {
       "album": {
@@ -849,6 +1051,42 @@
       "duration_ms": 196607,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7lBYQn8KX8zxlW9oJkYOCL"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94126,
+      "name": "Your Side Interlude",
+      "url": "https://open.spotify.com/track/3FcgXAkSkAh6s3PKs0BVHR"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Your Side, Forever",
+      "url": "https://open.spotify.com/track/0cC6Q4rwZIDAqa2SsCj0NT"
     }
   ],
   "url": "https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ"

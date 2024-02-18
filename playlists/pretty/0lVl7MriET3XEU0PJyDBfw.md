@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,130 likes - 71 songs - 3 hr 39 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,129 likes - 77 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,11 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 69 | [Delante](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN) | [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE) | [Delante](https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag) | 2:25 |
 | 70 | [El Perreo](https://open.spotify.com/track/5dN1GDZbPdzSBUNbioAS6Q) | [MDM](https://open.spotify.com/artist/4LfRmIWqRXgCTCfJvd2v2j) | [El Perreo](https://open.spotify.com/album/6NdWzOzaB76Q7Niw59BgoO) | 2:19 |
 | 71 | [L&F](https://open.spotify.com/track/0Xpkaj9LG2jhPqghW2sXJE) | [Cheery\-O](https://open.spotify.com/artist/7qjyQoP8L9iQb9wGERQuHy), [KLK](https://open.spotify.com/artist/0F7Es5GvMO8ucUdpVCgzZi) | [Miami EP](https://open.spotify.com/album/1DpIIo0pWf7zMdDEnn9HHB) | 2:57 |
+| 72 | [The Dance](https://open.spotify.com/track/4BktrFFvfODYFvNWUvJhBC) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [SGT\. Pokes](https://open.spotify.com/artist/2mdpTpHF9cGaSSrtoLwIZr) | [The Dance](https://open.spotify.com/album/5ug5gS7iYFoEMTvdcu3tAr) | 2:55 |
+| 73 | [Life Goes On](https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Life Goes On](https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A) | 2:51 |
+| 74 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 |
+| 75 | [Powder In The Nose](https://open.spotify.com/track/0RLaA1MuzM6d73TOvxD5vz) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Arthur Baker](https://open.spotify.com/artist/5YzGCkGA6XEGKs2C9KRVKA) | [Powder In The Nose](https://open.spotify.com/album/4a2QlwPpWppKAX07PuNX0F) | 2:31 |
+| 76 | [Tiki](https://open.spotify.com/track/2oTajs7LpMaVkhjtJUpGwR) | [Krexxton](https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir) | [Tiki](https://open.spotify.com/album/7G2LP3rpO2vngMfwx105VK) | 2:22 |
+| 77 | [Electric](https://open.spotify.com/track/7FGj2A4yT1wUIj3xf9EUhA) | [Toni Costanzi](https://open.spotify.com/artist/4aBVngE7ykpEkvJaHJbywT) | [Electric](https://open.spotify.com/album/6FHFmz9IWO8hQRR8evWWVb) | 2:39 |
 
-Snapshot ID: `NjI0NSwxZjJkY2ZmZDk4NDNhZWI5ODEyMTc0YTc0NzMwM2NiZWU2ODc2ZmM1`
+Snapshot ID: `NjI1MSw1M2ViNGRjM2MyZjEzNWI2NTM5ZmViOWM2Y2VlYmRkMTkwODEwZjgz`

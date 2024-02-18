@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 30063,
+  "2024-02-18": 30092,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Addy Nagar",
   "name": "Hip-Hop Haryanvi",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197375,
       "name": "24 Carat",
       "url": "https://open.spotify.com/track/6i7wtqo9gPCc0XMs6j1PF8"
@@ -2427,6 +2427,24 @@
       "duration_ms": 199784,
       "name": "MAHAKAAL",
       "url": "https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF"
+    },
+    {
+      "album": {
+        "name": "Marji",
+        "url": "https://open.spotify.com/album/4iLVMVlFJJiXTgl4JX2M5B"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180713,
+      "name": "Marji",
+      "url": "https://open.spotify.com/track/3bUWnXRP05sA2UdKkj9wha"
     },
     {
       "album": {

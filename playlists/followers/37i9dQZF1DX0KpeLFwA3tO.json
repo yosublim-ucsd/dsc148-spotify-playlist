@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 302159,
+  "2024-02-18": 302232,
   "date_first_scraped": "2021-12-21",
   "description": "The best new music from the wide world of punk. Cover: Stand Atlantic",
   "name": "All New Punk",
@@ -10755,10 +10755,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 143413,
       "name": "Hall & Oates",
       "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
+    },
+    {
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143413,
+      "name": "Hall & Oates",
+      "url": "https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV"
     },
     {
       "album": {

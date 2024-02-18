@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Lainey Wilson, Tyler Hubbard, Warren Zeiders and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,462 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,672 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 21 | [Get Get Get Down](https://open.spotify.com/track/0rWkqnABWumuXpbKinmvrt) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:32 |
 | 22 | [Middle Finger Motto](https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Middle Finger Motto](https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU) | 2:51 |
 | 23 | [Whatcha Know Good](https://open.spotify.com/track/67oaYXGag9fKnUhgqhPA4U) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Be Right Here](https://open.spotify.com/album/0qLbJMreDYNn32RSEEnY39) | 4:03 |
-| 24 | [There's No Me...Without You](https://open.spotify.com/track/1wsXDq84XjC5bpaomBn1P6) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/album/2iyEcY3FRWdM0N9B0xeWx4) | 3:46 |
+| 24 | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/track/1wsXDq84XjC5bpaomBn1P6) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/album/2iyEcY3FRWdM0N9B0xeWx4) | 3:46 |
 | 25 | [Out Here In It](https://open.spotify.com/track/0ZnuzApPoaClW97IZNlqNG) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Out Here In It](https://open.spotify.com/album/3vyCg3vcncW4aHqwj2TIYG) | 3:25 |
 | 26 | [Karma](https://open.spotify.com/track/7nZljN38fxwFPhgQk8mLoO) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Country Curious](https://open.spotify.com/album/5U47NIIeJLYign4v4Jltxr) | 3:46 |
 | 27 | [What Happens Now?](https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:33 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [I'd Be Lying](https://open.spotify.com/track/5BRaZzLcPgpRdxCLWCiJs3) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [I'd Be Lying](https://open.spotify.com/album/6lmT7RaunxpWkR5Hz3PtOe) | 2:39 |
 | 59 | [Situationship](https://open.spotify.com/track/6ulv7X7X7Tnr2N5Ahg03YD) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Situationship](https://open.spotify.com/album/2B4uzfndudPlmxxF6db3lz) | 2:50 |
 
-Snapshot ID: `MCxjMGQ3ZDRjZDE4NWMwYzE4OWVjOWY0NjVjMTlhNGMzNjE1OGIzMzJk`
+Snapshot ID: `MCxiMmUzYjMyMGUyNGY5NzJlOWQ1ZmFhOWE3YmVkYTY0YWNjN2U0NGU4`

@@ -83,6 +83,32 @@
     },
     {
       "album": {
+        "name": "A Tribute to the King of G-Funk (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3q5tiDIMLl2HRsfbEjh5wo"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "J.PERIOD",
+          "url": "https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134133,
+      "name": "21 Questions (feat. 50 Cent) (J. Period Remix)",
+      "url": "https://open.spotify.com/track/7jiGfuB3IJg0gkKdHqHiEq"
+    },
+    {
+      "album": {
         "name": "The King of G-Funk (Remix Tribute to Nate Dogg; Deluxe Version)",
         "url": "https://open.spotify.com/album/7k9pK5YIUjjDr0SR27YYkY"
       },
@@ -102,7 +128,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 134133,
       "name": "21 Questions (feat. 50 Cent) - J. Period Remix",
       "url": "https://open.spotify.com/track/0sRWGXzyh9S2sWUt9rTQXu"

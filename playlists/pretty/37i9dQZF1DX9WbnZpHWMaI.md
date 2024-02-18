@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,608 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,621 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 28 | [UK Lonely](https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [UK Lonely](https://open.spotify.com/album/17NBJTFJiEa2sshzte7Dou) | 4:29 |
 | 29 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 |
 | 30 | [Night Drift](https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Night Drift](https://open.spotify.com/album/6smxthEq12e5YqZyMSVWHz) | 3:11 |
-| 31 | [Hot Bot](https://open.spotify.com/track/62gDPzHOh9oaJ3X1QBX3Fk) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/5M62pugy3965W3dz996J7w) | 4:48 |
+| 31 | [Hot Bot](https://open.spotify.com/track/1R10YWIc3qGjBNlsqAYo5k) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/05KY6Zvc0lEHtBWF4LDnMY) | 4:48 |
 | 32 | [Busy](https://open.spotify.com/track/5aT1vzCTNvn9nbo82vMC8P) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/3CGdkbZ0dOfCL06NDv7zGY) | 2:23 |
 | 33 | [1997](https://open.spotify.com/track/2f0lRSu8jgmghBGJHw60fO) | [Jossy Mitsu](https://open.spotify.com/artist/7BwNdOufmdK919y4NHtF2a) | [Planet J](https://open.spotify.com/album/2aGL2535GZrXsLdjygoYsq) | 5:56 |
 | 34 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 59 | [Talk Ur Talk](https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr) | 3:49 |
 | 60 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 
-Snapshot ID: `MCxjZjc2YjljMjZmNGZmNGNmOGZmNThmMzI1MGY3ZjQ2MzY1MDM3MmVl`
+Snapshot ID: `MCwzOTEzMTYzNWU1MGNmMTk5NTBhYjQ5MTRiNDNiMDhmNDVkNWY5OTk5`

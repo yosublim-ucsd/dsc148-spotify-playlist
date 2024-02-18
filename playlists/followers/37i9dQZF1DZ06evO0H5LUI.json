@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 9778,
+  "2024-02-18": 9778,
   "date_first_scraped": "2023-11-11",
   "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
   "name": "This Is Leon Leiden",
@@ -964,6 +964,32 @@
     },
     {
       "album": {
+        "name": "Una Fresa",
+        "url": "https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs"
+      },
+      "artists": [
+        {
+          "name": "Atl Garza",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "SAG",
+          "url": "https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151010,
+      "name": "Quisiste Dejar",
+      "url": "https://open.spotify.com/track/7taftG3uw5D6nfWyUi64pI"
+    },
+    {
+      "album": {
         "name": "Quisiste Dejar",
         "url": "https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ"
       },
@@ -1030,6 +1056,28 @@
     },
     {
       "album": {
+        "name": "Una Fresa",
+        "url": "https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs"
+      },
+      "artists": [
+        {
+          "name": "Atl Garza",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168008,
+      "name": "Savana",
+      "url": "https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA"
+    },
+    {
+      "album": {
         "name": "Savana",
         "url": "https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo"
       },
@@ -1045,7 +1093,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 168225,
       "name": "Savana",
       "url": "https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT"
@@ -1169,7 +1217,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 160003,
       "name": "Veo, Veo",
       "url": "https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb"

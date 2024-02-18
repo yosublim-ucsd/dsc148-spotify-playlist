@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,937 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,965 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Matter Of Time](https://open.spotify.com/track/4P5POsIpc0LColFSr7cHFO) | [Classic Water](https://open.spotify.com/artist/6168i8zD9r91n3VtWSr6ju) | [Matter Of Time](https://open.spotify.com/album/2Em5gQaLi1Y3019p7PJZeF) | 5:56 |
 | 100 | [LALALA Ik Luister Niet](https://open.spotify.com/track/2sO7p28bfJjvcT8ls1HHR6) | [Nachtcassie](https://open.spotify.com/artist/1CDw8i54G5IEfOMzQtFsix) | [LALALA Ik Luister Niet](https://open.spotify.com/album/71tWrtJKq1kdEDvoDj8xo4) | 2:57 |
 
-Snapshot ID: `MCxiNmQyMzc0OGU2NTZkODY0ZDQ5ZTJmY2QyZTgxODkxYzkzOWVhZGRh`
+Snapshot ID: `MCxhNmY0NGI1YTA5NmZhYWFlOGY1Y2U3MjMzNjA5MDQ0ZGQzMzk3YWRj`

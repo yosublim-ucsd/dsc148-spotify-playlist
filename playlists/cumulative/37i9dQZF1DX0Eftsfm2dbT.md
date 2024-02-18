@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  千葉雄喜
 
-484 songs - 1 day 0 hr 49 min
+485 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [GO](https://open.spotify.com/track/5xfXVYH1u85wbvE5SvjXd8) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ SHINTARO](https://open.spotify.com/artist/4XyRNMkxh04XdwNewJhT2L), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [INNER WORLD](https://open.spotify.com/album/3hkzAi33jvsra7mNi9BMzU) | 4:01 | 2023-09-26 | 2023-12-06 |
 | [GO FUSION](https://open.spotify.com/track/35VMDe4mPBrdZoOfClyYSa) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [GO FUSION](https://open.spotify.com/album/5xscjWb56OBdOT6YRWG0AW) | 3:14 | 2023-10-17 | 2023-11-25 |
 | [GOAT](https://open.spotify.com/track/3edi5revIoKupagkhCLY2A) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [DONG JING REN](https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE) | 2:32 | 2023-11-07 | 2024-01-31 |
-| [Good Love](https://open.spotify.com/track/2hv1w70K8VnUrU0VupfymA) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/3xWPqGNbvm3tieDXkhkNx8) | 3:13 | 2024-02-17 |  |
+| [Good Love](https://open.spotify.com/track/2hv1w70K8VnUrU0VupfymA) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/3xWPqGNbvm3tieDXkhkNx8) | 3:13 | 2024-02-17 | 2024-02-18 |
+| [Good Love](https://open.spotify.com/track/4xi0VX5l2b0PorJuWtD9Th) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/71wSyAlJPLhRy8AIqhvNvi) | 3:13 | 2024-02-17 |  |
 | [Got It All](https://open.spotify.com/track/0LBF4FXw7C35fcZhnvlayW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/5GJenZiYogiWEcpzSWu0Vp) | 2:31 | 2024-02-08 | 2024-02-10 |
 | [Got It All](https://open.spotify.com/track/0QrK8fBYh1zsTnQspFx3ba) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Flying To The Top](https://open.spotify.com/album/1X6vqBVKYvHM2nEnhG7rDM) | 2:31 | 2024-02-08 |  |
 | [Greedy](https://open.spotify.com/track/7ADojJAmNMr7ESb9v2OBrm) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [MANIA](https://open.spotify.com/album/1Yl0UPm8taUyYrdYcMTgGd) | 3:36 | 2023-09-21 | 2023-09-27 |

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-715 songs - 1 day 8 hr 10 min
+716 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 | 2023-03-25 |
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |
 | [Feel Good](https://open.spotify.com/track/3RzT2bhbuqG7pxnRPiGGg1) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/4hNNbbPopqfTMEMjhM2j3o) | 3:22 | 2023-09-07 | 2023-12-11 |
+| [Ferris Parade](https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox) | [Henryne Girls](https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Ferris Parade](https://open.spotify.com/album/3K0m77uugdjUASwQosIksy) | 2:46 | 2024-02-15 |  |
 | [Feynman](https://open.spotify.com/track/34DPkGBdvuvCdNt0YaOsby) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Resynthesis \(Green\)](https://open.spotify.com/album/0bpJi2ZRRx8PNiD5qGEfO2) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [find a way](https://open.spotify.com/track/4gdNaZ3GUe9mDGy5OZQAe4) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [find a way](https://open.spotify.com/album/1h4KtvcjaJ7kVcs0M47ETp) | 3:14 | 2021-12-23 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/2HPAE9dtpbx385HdUySePp) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Seven Winds](https://open.spotify.com/album/6oePpBmzhdATyTLTAmPAjS) | 2:35 | 2021-12-23 | 2022-07-28 |
@@ -378,7 +379,7 @@
 | [Mellow Air](https://open.spotify.com/track/6sRaF5VBH1cJZCObgS4YV4) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Mellow Air](https://open.spotify.com/album/3QsHi7SXMW2D5FOZLgNPZZ) | 1:55 | 2023-08-17 | 2023-08-19 |
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
 | [Memories](https://open.spotify.com/track/2S3neOQV87GmDIQiaYE5Sh) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Memories](https://open.spotify.com/album/0CvGOPTPDXYWUtTdnHw6up) | 2:05 | 2023-11-21 |  |
-| [Memories](https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [memories](https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ) | 2:59 | 2023-12-21 |  |
+| [Memories](https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [memories](https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ) | 2:59 | 2023-12-21 | 2024-02-18 |
 | [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-07-07 |
 | [Memory Lane](https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/553aukJODmKjlUIa48SRbn) | 2:51 | 2023-08-03 | 2023-08-19 |
 | [Memory Lane](https://open.spotify.com/track/32HXeN3APFZcwKh3Jr5pOe) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/3MLmOVmSbplDhK4UbO0eEH) | 2:51 | 2023-08-03 | 2023-08-05 |

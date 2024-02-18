@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 54787,
+  "2024-02-18": 54803,
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:3CJKkU0XuElRT1z8rEtIYg\">Luciano</a> \ud83c\uddf2\ud83c\uddff & <a href=\"spotify:artist:5yOvAmpIR7hVxiS6Ls5DPO\">Omah Lay</a> \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:1XavfPKBpNjkOfxHINlMHF\">Joeboy</a> \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -3675,7 +3675,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 164659,
       "name": "DND",
       "url": "https://open.spotify.com/track/7rq2a8EUvg6GCRjXu7TboU"
@@ -4246,6 +4246,24 @@
     },
     {
       "album": {
+        "name": "FADE AWAY",
+        "url": "https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168019,
+      "name": "FADE AWAY",
+      "url": "https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg"
+    },
+    {
+      "album": {
         "name": "Fake Friends (Ir\u00f3 \u00d2re)",
         "url": "https://open.spotify.com/album/2YdB6Hh9Xq555Bhyy7u5Kg"
       },
@@ -4261,6 +4279,32 @@
       "duration_ms": 179000,
       "name": "Fake Friends (Ir\u00f3 \u00d2re)",
       "url": "https://open.spotify.com/track/38taP6j04eJMJu6dM3feot"
+    },
+    {
+      "album": {
+        "name": "Fakosi (Remix)",
+        "url": "https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Fakosi",
+      "url": "https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O"
     },
     {
       "album": {
@@ -5272,6 +5316,24 @@
     },
     {
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
         "name": "Gucci, Chanel",
         "url": "https://open.spotify.com/album/3z8vErhXDgY8hii6MuJCUF"
       },
@@ -6211,7 +6273,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 208367,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0Y5pxPpoTMJ50zjeFmE9af"
@@ -6573,6 +6635,24 @@
       "duration_ms": 207640,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF"
+    },
+    {
+      "album": {
+        "name": "Is It Real?",
+        "url": "https://open.spotify.com/album/5Lt04Tc6oTfxTee05aZX1E"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209275,
+      "name": "Is It Real?",
+      "url": "https://open.spotify.com/track/4L5Gj9HqAEKMfCofzlAcMz"
     },
     {
       "album": {
@@ -7347,6 +7427,24 @@
       "duration_ms": 259519,
       "name": "Kokokokoko",
       "url": "https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw"
+    },
+    {
+      "album": {
+        "name": "BAD QUEEN",
+        "url": "https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112279,
+      "name": "Kompet",
+      "url": "https://open.spotify.com/track/5xsXZb32iVcnWrjSURBCkC"
     },
     {
       "album": {
@@ -8695,7 +8793,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 375945,
       "name": "Mavhoko (feat. Optimist Music ZA, Agzo & Thama Tee)",
       "url": "https://open.spotify.com/track/55qPZu7i9GLljN87dnCvy0"
@@ -9581,7 +9679,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
@@ -10529,6 +10627,24 @@
       "duration_ms": 123716,
       "name": "Organise",
       "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+    },
+    {
+      "album": {
+        "name": "Osadebe",
+        "url": "https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156756,
+      "name": "Osadebe",
+      "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
     },
     {
       "album": {
@@ -16847,7 +16963,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 187500,
       "name": "Wrist On Freeze",
       "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
@@ -17087,7 +17203,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197826,
       "name": "You're Hired (feat. Ayra Starr) - Legendury Beatz Remix",
       "url": "https://open.spotify.com/track/5i16HfVleOCQPwDnvUlnyl"

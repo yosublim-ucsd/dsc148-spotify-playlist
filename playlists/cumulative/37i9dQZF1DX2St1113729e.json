@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "3MMC",
+        "url": "https://open.spotify.com/album/0RZAILXpCvJfk0WOMerEAt"
+      },
+      "artists": [
+        {
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
+        },
+        {
+          "name": "ari llobet",
+          "url": "https://open.spotify.com/artist/2dDhILeat9PZHc1AvpN38g"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187580,
+      "name": "3MMC",
+      "url": "https://open.spotify.com/track/290lMhjgQgcpCGAxUVov9O"
+    },
+    {
+      "album": {
         "name": "7 vidas",
         "url": "https://open.spotify.com/album/0JbcxpdOCx90Ll7crtDrs5"
       },
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 99745,
       "name": "Entre tu y yo",
       "url": "https://open.spotify.com/track/3rV7iKxikOZnkyjVJ8FHri"

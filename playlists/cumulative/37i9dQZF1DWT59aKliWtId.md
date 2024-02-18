@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Mumford & Sons
 
-952 songs - 2 day 10 hr 22 min
+953 songs - 2 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,7 +706,8 @@
 | [Sad](https://open.spotify.com/track/2FyJqbLBacg8U7uiSy0cLg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Sad](https://open.spotify.com/album/5aOz3OK9QSRaFR8oY992ct) | 3:24 | 2022-08-19 | 2022-09-20 |
 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-07-24 | 2023-11-11 |
 | [Salad](https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 4:34 | 2023-11-10 |  |
-| [Same Risk](https://open.spotify.com/track/126NE8fqzYK9CA9tFpy5NK) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Same Risk](https://open.spotify.com/album/5pGZ0MJ3oEyr8S3AfwXmmT) | 3:28 | 2023-10-13 |  |
+| [Same Risk](https://open.spotify.com/track/126NE8fqzYK9CA9tFpy5NK) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Same Risk](https://open.spotify.com/album/5pGZ0MJ3oEyr8S3AfwXmmT) | 3:28 | 2023-10-13 | 2024-02-18 |
+| [Same Risk](https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:28 | 2024-01-22 |  |
 | [Same Team](https://open.spotify.com/track/2GAFfaQTUULj1YVfbuKuRb) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:31 | 2022-07-22 | 2022-08-13 |
 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 | 2022-03-04 | 2022-07-29 |
 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 | 2022-01-07 | 2022-04-02 |

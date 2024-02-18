@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,546 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,520 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Tere Pyaar Mein \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO) | 4:26 |
 | 75 | [Baby Ko Bass Pasand Hai](https://open.spotify.com/track/7fllsOe1cV2pTBzdbkgrX7) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Isheeta](https://open.spotify.com/artist/7BcWKKmwvuroPq4DkC1fxN), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:13 |
 
-Snapshot ID: `MCwxNTkwMDdlYTAyZDZmNjIzMDk3MjI4MzE2NmYwMDkxZTQ4ZWZhZDlh`
+Snapshot ID: `MCw2ODlkMDIzN2EzZTkxNTQ4YWIwZDc2ZjVmYjYxMTU0MGFjZDNlYWU0`

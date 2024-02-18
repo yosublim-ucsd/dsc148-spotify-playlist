@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 126448,
+  "2024-02-18": 126460,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -13249,6 +13249,28 @@
       "duration_ms": 165624,
       "name": "who we are",
       "url": "https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ"
+    },
+    {
+      "album": {
+        "name": "Who's Laughing Now",
+        "url": "https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "Who's Laughing Now",
+      "url": "https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n"
     },
     {
       "album": {

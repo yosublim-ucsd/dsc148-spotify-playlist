@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 24 min
+49 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Never Say Never](https://open.spotify.com/track/4xSz3Bu25WNFNombcMAMgZ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Never Say Never](https://open.spotify.com/album/5lBZweyOxxGiiybwrPEB9J) | 2:33 | 2023-12-13 |  |
 | [Oh Babe](https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx) | 2:49 | 2022-10-10 | 2023-12-14 |
 | [Oh Babe](https://open.spotify.com/track/3baxT5h8rJ3j5RPVpanOz9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/0gO51tYSNKHZk6zjv0dglZ) | 2:49 | 2023-12-13 |  |
+| [Pick Ya Poison](https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pick Ya Poison](https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW) | 2:58 | 2024-02-17 |  |
 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 | 2022-12-03 |  |
 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 | 2022-10-10 |  |
 | [Reasons](https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Reasons](https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7) | 2:34 | 2024-01-13 |  |

@@ -4,7 +4,7 @@
 
 > Music from "YU☆YU☆HAKUSHO" series\. 実写化も話題の人気アニメ「幽☆遊☆白書」主題歌、エンディングソングと人気キャラクターソングを一気にお届け！©Y.T.90\-94/P,S
 
-68 songs - 5 hr 25 min
+69 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Sayonara Bye Bye](https://open.spotify.com/track/66hlYveeHSRw1oALKwgeTA) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Matsuko Mawatari The Best of Matsuko Mawatari](https://open.spotify.com/album/44c06tDsxtmfrHTRnLgo5p) | 4:28 | 2023-12-13 |  |
 | [Sayonara wa Mirai no Hajimari](https://open.spotify.com/track/1u4u1g8E5hFikDPVE7AL9Y) | [Kurama\(CV:Megumi Ogata\)](https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 5:45 | 2023-12-13 |  |
 | [Taiyou ga Mata Kagayaku Toki](https://open.spotify.com/track/7DYXDknmNblA13Wfdsth3E) | [Hiro Takahashi](https://open.spotify.com/artist/6t8SRQ3JL9AuvhNxlyYjfR) | [Takahashi Hiro Best Collection](https://open.spotify.com/album/1vYHR3nxoOjJRrggFGtf9v) | 5:20 | 2023-12-13 |  |
-| [Tasogare ni Se o Mukete](https://open.spotify.com/track/2FmBZ60y0hOS0YOTDMvZzd) | [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Ketteiban "Yu Yu Hakusho" Anime Main Theme & Character Song Selections](https://open.spotify.com/album/2ywDKGscVIqeT7J7PW0IHe) | 4:02 | 2023-12-13 |  |
+| [Tasogare ni Se o Mukete](https://open.spotify.com/track/2FmBZ60y0hOS0YOTDMvZzd) | [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Ketteiban "Yu Yu Hakusho" Anime Main Theme & Character Song Selections](https://open.spotify.com/album/2ywDKGscVIqeT7J7PW0IHe) | 4:02 | 2023-12-13 | 2024-02-18 |
+| [Tasogare ni Se o Mukete](https://open.spotify.com/track/5xRXl01Me8wjY0xL8OeKo6) | [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Yu Yu Hakusho \- Collective Rare Trax \-](https://open.spotify.com/album/5TvP7BOFI6vxU2uKngvWHd) | 4:03 | 2023-12-13 |  |
 | [TOKOTON](https://open.spotify.com/track/5IvTa5ADuGsp0hjLs066ld) | [コエンマ\(CV:田中真弓\)](https://open.spotify.com/artist/1eTDUvZlDOlvupHlt3fPdH) | [幽☆遊☆白書 熱唱編～カラオケバトルロイヤル～](https://open.spotify.com/album/3hZPpWIeACagz6B4A9qONk) | 4:06 | 2023-12-13 |  |
 | [Tough](https://open.spotify.com/track/6Odm5nPqUiiULIyptlahmg) | [Yusuke Urameshi\(CV:Nozomu Sasaki\)](https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ) | [Yu Yu Hakusho \- Collective Songs \-](https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4) | 5:29 | 2023-12-13 |  |
 | [TOUGH](https://open.spotify.com/track/1mgdBkK91TPK7HcFUKYZeP) | [浦飯幽助\(CV:佐々木望\)](https://open.spotify.com/artist/04UWUQcX1HqxcDTNvOAz1G) | [幽☆遊☆白書 ミュージックバトル編2](https://open.spotify.com/album/1VlSaoBHc9eUATnUKjGCJy) | 5:30 | 2023-12-13 | 2024-02-02 |

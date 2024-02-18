@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 29560,
+  "2024-02-18": 29561,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:0bGDTQ78MVgI5Snqo9KJZw\">Qrion</a>'s favorite tracks. Updated regularly. Curated by Qrion. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Qrion's track IDs",
@@ -537,7 +537,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 271686,
       "name": "Breathe - Qrion Remix",
       "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 510752,
       "name": "Dry & High",
       "url": "https://open.spotify.com/track/284FKz13AitOQjOVivE7ra"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 245533,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/11EPlc3UVZIhKq11lpdzfL"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 440428,
       "name": "Escape - Spencer Brown Remix",
       "url": "https://open.spotify.com/track/7nVF0vhNrzwFS3sbpwvpdR"
@@ -1435,6 +1435,24 @@
       "duration_ms": 540000,
       "name": "Esperanza - Umbral Aguir Remix",
       "url": "https://open.spotify.com/track/3kFFrdTMVaV5f6J19Q9re4"
+    },
+    {
+      "album": {
+        "name": "Every Step Of The Way",
+        "url": "https://open.spotify.com/album/7ezlRiF9sl5i7aS3tDl0mW"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256647,
+      "name": "Every Step Of The Way",
+      "url": "https://open.spotify.com/track/3xjEIfMPjo33jeA5wMkIQq"
     },
     {
       "album": {
@@ -1975,6 +1993,32 @@
       "duration_ms": 389016,
       "name": "Gross Weight",
       "url": "https://open.spotify.com/track/0tTLKDCU0uEGklsgfFWSuj"
+    },
+    {
+      "album": {
+        "name": "Heart Pieces",
+        "url": "https://open.spotify.com/album/5jMooG8upBMMsuy1ynr1dh"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "\u0130dil Me\u015fe",
+          "url": "https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3"
+        },
+        {
+          "name": "Mustafa Ismaeel",
+          "url": "https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449280,
+      "name": "Heart Pieces - Mustafa Ismaeel Remix",
+      "url": "https://open.spotify.com/track/7lCOCbOmfYnM0YciPpIP1X"
     },
     {
       "album": {
@@ -3003,7 +3047,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 198750,
       "name": "Me & U - Radio Edit",
       "url": "https://open.spotify.com/track/0876f40IVSFkA4yCZgSsZv"
@@ -3305,6 +3349,24 @@
       "duration_ms": 432366,
       "name": "New Life",
       "url": "https://open.spotify.com/track/5WDQOef6IXuDkLNm8sz2fi"
+    },
+    {
+      "album": {
+        "name": "Night Rider",
+        "url": "https://open.spotify.com/album/43JJvuDZthW35FWPWegmOM"
+      },
+      "artists": [
+        {
+          "name": "Naz, 88Birds",
+          "url": "https://open.spotify.com/artist/1iNYSEqfpdFiTSt3n5YSuw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Night Rider - Radio Edit",
+      "url": "https://open.spotify.com/track/6UuusfFrOzwuLuZYaAwqXC"
     },
     {
       "album": {
@@ -3708,6 +3770,24 @@
     },
     {
       "album": {
+        "name": "Pictures Of You",
+        "url": "https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Pictures Of You",
+      "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
+    },
+    {
+      "album": {
         "name": "Cocoon Compilation S",
         "url": "https://open.spotify.com/album/7dAIB06XezAwD6Mg706lvH"
       },
@@ -3879,7 +3959,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
@@ -4816,6 +4896,28 @@
     },
     {
       "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/70DRinqBAX17xz604tCR5M"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Silvio Soul",
+          "url": "https://open.spotify.com/artist/37HzkmPYDZbgjgB9Ont3TE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230206,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4kdY5p1f3aysdsGH2uzj1T"
+    },
+    {
+      "album": {
         "name": "Throw It All",
         "url": "https://open.spotify.com/album/5jEwhWJARZ5taz1Brp78Hy"
       },
@@ -5413,6 +5515,36 @@
       "duration_ms": 371076,
       "name": "Work - CVMPANILE & Draxx Extended Remix",
       "url": "https://open.spotify.com/track/5DZccyNEsfrSWTP02aWMrU"
+    },
+    {
+      "album": {
+        "name": "You Can't Get Away (Musumeci Remix)",
+        "url": "https://open.spotify.com/album/5xmdan7ayNGBlY9SHsmRD3"
+      },
+      "artists": [
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Konvex (FR)",
+          "url": "https://open.spotify.com/artist/39vERtaB8quqGRumGCILC3"
+        },
+        {
+          "name": "Palavas",
+          "url": "https://open.spotify.com/artist/2tISPkK5HuVI0677tyuPZx"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331906,
+      "name": "You Can't Get Away - Musumeci Remix",
+      "url": "https://open.spotify.com/track/0SrG6PvMFWP29B52pIlui4"
     },
     {
       "album": {

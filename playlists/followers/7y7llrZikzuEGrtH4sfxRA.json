@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1441,
+  "2024-02-18": 1441,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "TERMINAL UNDERGROUND WEEKLY HITTERS",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 150937,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
@@ -87,6 +87,28 @@
       "duration_ms": 213095,
       "name": "All For You",
       "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
+    },
+    {
+      "album": {
+        "name": "All I Wanna",
+        "url": "https://open.spotify.com/album/3k1OuaPcwUJKRf7v0hzKBD"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "All I Wanna",
+      "url": "https://open.spotify.com/track/2lHy5nX5SXgP75rORrtCgP"
     },
     {
       "album": {
@@ -207,6 +229,46 @@
       "duration_ms": 214527,
       "name": "BEATS FOR THE UNDERGROUND",
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "album": {
+        "name": "Believe In The Music",
+        "url": "https://open.spotify.com/album/30m0BJJ5sAXhGyv9s1RcJh"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Believe In The Music",
+      "url": "https://open.spotify.com/track/469tLgpUzhgg0zmvIFKiaT"
+    },
+    {
+      "album": {
+        "name": "Better World",
+        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Chris Moody",
+          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Better World",
+      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
       "album": {
@@ -365,7 +427,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191975,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5655hSPuaYjxCdHXum8tEU"
@@ -409,6 +471,28 @@
       "duration_ms": 196141,
       "name": "Buzzin'",
       "url": "https://open.spotify.com/track/1sgay4hUKsOPWUYY02llen"
+    },
+    {
+      "album": {
+        "name": "Call U Back",
+        "url": "https://open.spotify.com/album/6ffBGmS8OiC1gU6IXJU1Zc"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        },
+        {
+          "name": "Rob Marion",
+          "url": "https://open.spotify.com/artist/2B1oIKQTFQn04kCW6chegm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222497,
+      "name": "Call U Back",
+      "url": "https://open.spotify.com/track/1uw6gR8ckFVrDPXixj7jrQ"
     },
     {
       "album": {
@@ -510,6 +594,36 @@
     },
     {
       "album": {
+        "name": "Clap Your Feet / 2 Da Face",
+        "url": "https://open.spotify.com/album/4t12VZiOJ2deNcxoHSAkyX"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Fuzzy Cufflinxxx",
+          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184074,
+      "name": "Clap Your Feet (feat. Fuzzy Cufflinxxx)",
+      "url": "https://open.spotify.com/track/2yBh9Al1fob36QPCqRTpTy"
+    },
+    {
+      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -525,7 +639,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
@@ -581,7 +695,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
@@ -694,6 +808,28 @@
     },
     {
       "album": {
+        "name": "Dola re Dola",
+        "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Dola re Dola",
+      "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
+    },
+    {
+      "album": {
         "name": "Don't Abuse It",
         "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
       },
@@ -745,7 +881,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 185624,
       "name": "Done",
       "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
@@ -953,7 +1089,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 234270,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6n7tHBEOGO5acqb1plQxpP"
@@ -1106,6 +1242,28 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/5pZSpQ8xYFlF66qrvuyhfd"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX"
+    },
+    {
+      "album": {
         "name": "Give Me",
         "url": "https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w"
       },
@@ -1146,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Giving You",
+        "url": "https://open.spotify.com/album/3rSZJ1Z8oLbisX53IND80e"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209345,
+      "name": "Giving You",
+      "url": "https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr"
+    },
+    {
+      "album": {
         "name": "Go And Crazy",
         "url": "https://open.spotify.com/album/0idnUEMzYrTD8WontAsctb"
       },
@@ -1175,7 +1351,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 172800,
       "name": "Gotta Feel",
       "url": "https://open.spotify.com/track/5lVwooUiq6H1p5HtBEK9FS"
@@ -1233,7 +1409,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 217500,
       "name": "Hip Hop - Radio Edit",
       "url": "https://open.spotify.com/track/3Cik8tw5FI1DvsxLm2U51k"
@@ -1259,6 +1435,28 @@
       "duration_ms": 138139,
       "name": "Hit It Back",
       "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
+    },
+    {
+      "album": {
+        "name": "HYPNOTIC DATA 2.0",
+        "url": "https://open.spotify.com/album/0FcmlZCpJVAYjPvngD36mN"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "HYPNOTIC DATA 2.0",
+      "url": "https://open.spotify.com/track/2s6buObPT1xq2YezWxGupD"
     },
     {
       "album": {
@@ -1356,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Karma EP",
+        "url": "https://open.spotify.com/album/7b7XaEhUvLi1MeQ4nJe7F5"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5OErHyr8q2oIDe5qyHL8IO"
+    },
+    {
+      "album": {
         "name": "La Risa",
         "url": "https://open.spotify.com/album/3AmvV53NSUYq0tZfugaSNL"
       },
@@ -1367,7 +1583,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 204037,
       "name": "La Risa",
       "url": "https://open.spotify.com/track/5W62dGgF9kceZZ3ZYWhmPm"
@@ -1437,7 +1653,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180000,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4OtRerwQgp4qEnYsrrhYCN"
@@ -1800,6 +2016,28 @@
     },
     {
       "album": {
+        "name": "Not Going Back",
+        "url": "https://open.spotify.com/album/5HZYrVKS4zRcsdpxw7h1K0"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "NOVODOR",
+          "url": "https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Not Going Back",
+      "url": "https://open.spotify.com/track/7zMw9eXDYueezfOxcX79D2"
+    },
+    {
+      "album": {
         "name": "Pondos, Saccapoche, Obsession",
         "url": "https://open.spotify.com/album/560du0wMuCVtzvlKjP1Y5q"
       },
@@ -1833,7 +2071,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205161,
       "name": "Off Your Feet",
       "url": "https://open.spotify.com/track/5Pc4EIFIV7SAWW7AFG4UoY"
@@ -2022,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "Put 'em Up",
+        "url": "https://open.spotify.com/album/5dTy34LWAXl75Vy2bI40UE"
+      },
+      "artists": [
+        {
+          "name": "TECHTIC",
+          "url": "https://open.spotify.com/artist/4MW2k6VEU8RltTQFyEixYt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229523,
+      "name": "Put 'em Up",
+      "url": "https://open.spotify.com/track/7cej2MfSORhrheKAa3DEOe"
+    },
+    {
+      "album": {
         "name": "Que Pasa",
         "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
       },
@@ -2077,7 +2333,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205045,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
@@ -2249,10 +2505,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193488,
       "name": "Shake What Yo Mama",
       "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
+    },
+    {
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
     },
     {
       "album": {
@@ -2300,6 +2578,28 @@
     },
     {
       "album": {
+        "name": "Sneaky Link (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164115,
+      "name": "Sneaky Link (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
+    },
+    {
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -2327,7 +2627,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
@@ -2499,7 +2799,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 218960,
       "name": "Taking It Back",
       "url": "https://open.spotify.com/track/4KMGgiCvRLHaT5l1L0ACvj"
@@ -2543,7 +2843,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193465,
       "name": "Tango",
       "url": "https://open.spotify.com/track/5WfT31OMkQPyWIK85HqFhX"
@@ -2561,10 +2861,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 228092,
       "name": "Tears on the Dance Floor - Icona Pop DJ Edit",
       "url": "https://open.spotify.com/track/2khogvElDU87ouGOwIhQov"
+    },
+    {
+      "album": {
+        "name": "Television",
+        "url": "https://open.spotify.com/album/59navN6Eq5galYu971gfpV"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "Television",
+      "url": "https://open.spotify.com/track/6R5FZTtyZjkTSI6NQuhMan"
     },
     {
       "album": {
@@ -2587,10 +2905,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
+    },
+    {
+      "album": {
+        "name": "The Afterhours",
+        "url": "https://open.spotify.com/album/4LG0u43Eqo0FgZpq5SikRE"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191383,
+      "name": "The Afterhours",
+      "url": "https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT"
     },
     {
       "album": {
@@ -2631,7 +2967,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 217142,
       "name": "The Incident",
       "url": "https://open.spotify.com/track/07RiiENqLJMuIKmiDWUUch"
@@ -2718,6 +3054,28 @@
     },
     {
       "album": {
+        "name": "Tu Tu",
+        "url": "https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "Tu Tu",
+      "url": "https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8"
+    },
+    {
+      "album": {
         "name": "Vai",
         "url": "https://open.spotify.com/album/55GL804NtPvwUfv2FRd0R0"
       },
@@ -2733,6 +3091,28 @@
       "duration_ms": 183858,
       "name": "Vai",
       "url": "https://open.spotify.com/track/4SMArjoMXS9Gd6j8zl7ime"
+    },
+    {
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
       "album": {
@@ -2759,6 +3139,36 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "album": {
+        "name": "Weak (Marco Lys Remix)",
+        "url": "https://open.spotify.com/album/2Fv2EOiuICLlDDjpzvxM4n"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Weak - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
     },
     {
       "album": {

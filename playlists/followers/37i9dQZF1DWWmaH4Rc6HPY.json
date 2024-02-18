@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 27746,
+  "2024-02-18": 27768,
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Y regresaron las guitarras! Siddhartha y Leiva en portada.",
+  "description": "\u00a1Y regresaron las guitarras! Jay de la Cueva en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -1270,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP"
+    },
+    {
+      "album": {
         "name": "Plan A",
         "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
       },
@@ -1546,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "SI T\u00da Y YO FU\u00c9RAMOS NOVIOS",
+        "url": "https://open.spotify.com/album/5bpYVf42BYGE1GJhsh5oB0"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208262,
+      "name": "SI T\u00da Y YO FU\u00c9RAMOS NOVIOS",
+      "url": "https://open.spotify.com/track/5ugWUmQG1yWRMteLgetjnC"
+    },
+    {
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/5iPnFsmW83aqC1wIN1xnzZ"
       },
@@ -1760,6 +1796,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa y yo / Los d\u00edas que no vivimos",
+        "url": "https://open.spotify.com/album/10O1J89NyFyaMPY0fArs6P"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        },
+        {
+          "name": "Anni B Sweet",
+          "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222074,
+      "name": "T\u00fa y yo (feat. Anni B Sweet)",
+      "url": "https://open.spotify.com/track/3nP5l62C8gQrjsSlj93Xyv"
+    },
+    {
+      "album": {
         "name": "Un Parque",
         "url": "https://open.spotify.com/album/627VLg40KgocbJfDXnQ8U1"
       },
@@ -1793,6 +1851,24 @@
       "duration_ms": 216586,
       "name": "Una Historia Sin Final",
       "url": "https://open.spotify.com/track/3OPy2J3WaJDKmkzAvV7Kbo"
+    },
+    {
+      "album": {
+        "name": "Volv\u00ed a Nacer",
+        "url": "https://open.spotify.com/album/3mZM9DPndY7FCsT4navL4s"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227121,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9"
     },
     {
       "album": {

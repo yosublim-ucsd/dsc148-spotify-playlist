@@ -1,12 +1,12 @@
 {
   "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kuremino",
-  "num_followers": 224583,
+  "num_followers": 224578,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODU2YjZkNjBkZDQzNmIwMzJkMDY2Y2IwZDBjMzFiZjZmMTYzMWM4",
+  "snapshot_id": "MCwzYzMzODY5MWQ1MDhlMWI3ZTI3OTk0YWU4MDIzYzlkNGE4MTNjMzQ5",
   "tracks": [
     {
       "added_at": "2024-02-15 23:01:00",
@@ -415,17 +415,25 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Hangar",
+        "name": "HANGAR",
         "url": "https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp"
       },
       "artists": [
         {
           "name": "Flaco G",
           "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Smookid",
+          "url": "https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
         }
       ],
       "duration_ms": 173160,
-      "name": "Hangar",
+      "name": "HANGAR",
       "url": "https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC"
     },
     {

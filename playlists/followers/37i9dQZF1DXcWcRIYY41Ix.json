@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 121214,
+  "2024-02-18": 121248,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
   "name": "Cancionistas",
@@ -3424,6 +3424,24 @@
     },
     {
       "album": {
+        "name": "es combate?",
+        "url": "https://open.spotify.com/album/4FeZdlK9iTFZXYzOTRwsCT"
+      },
+      "artists": [
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241058,
+      "name": "es combate?",
+      "url": "https://open.spotify.com/track/6DgvIzxw3uOV07RMpTPS1w"
+    },
+    {
+      "album": {
         "name": "Esa Mujer",
         "url": "https://open.spotify.com/album/53XojKYdq8c957oJd7E7Bh"
       },
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 245593,
       "name": "Fui y Volv\u00ed",
       "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
@@ -5073,7 +5091,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 215358,
       "name": "Las flores del jard\u00edn",
       "url": "https://open.spotify.com/track/5dnHlEa3tjE0B5vWZ1Uw0C"
@@ -5301,7 +5319,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 201919,
       "name": "lo_divino",
       "url": "https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX"
@@ -5483,6 +5501,28 @@
       "duration_ms": 240949,
       "name": "Luna de Xelaj\u00fa",
       "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
+    },
+    {
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/1Oc0lUo0QXktqa2fsrwmoq"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        },
+        {
+          "name": "Juan Nazar",
+          "url": "https://open.spotify.com/artist/7EE6NuuhgRafPDPZFWDtLW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233102,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/7p0a6IhFoYWYzZVgfQgD0E"
     },
     {
       "album": {
@@ -5761,6 +5801,28 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
+    },
+    {
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/4Sk2UPLFpkypPRRJ8PC0j1"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        },
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323906,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/62BvOiUpmOzLfqEq7Xg3jE"
     },
     {
       "album": {
@@ -6776,6 +6838,28 @@
     },
     {
       "album": {
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -7049,7 +7133,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 208262,
       "name": "Paraguas",
       "url": "https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb"
@@ -7161,7 +7245,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
@@ -7379,7 +7463,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 179046,
       "name": "Profec\u00eda",
       "url": "https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV"
@@ -8967,7 +9051,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
@@ -9433,7 +9517,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205181,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/666OthmuNXcPPkJVGfNbnq"
@@ -9690,6 +9774,24 @@
     },
     {
       "album": {
+        "name": "una se\u00f1al",
+        "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "una se\u00f1al",
+      "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
+    },
+    {
+      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/6hKxfX97K2i0tmZJETLfFP"
       },
@@ -9737,7 +9839,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 190416,
       "name": "Vals de la Luna",
       "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"

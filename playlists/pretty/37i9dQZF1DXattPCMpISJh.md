@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,841 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,942 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
 | 100 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 |
 
-Snapshot ID: `MCxjNmYzODRlZjNmYTEzNzllYjVkOTg5ZWY2NWRiNGQyMzRjYThmYWJi`
+Snapshot ID: `MCw0MGQzMDU0YzdiN2EwZWU5Yjc3NTVkOTAzNDg4NWRmZTBlZTk3ZTRh`

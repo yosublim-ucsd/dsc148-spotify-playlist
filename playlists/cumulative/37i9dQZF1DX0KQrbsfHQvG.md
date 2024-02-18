@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-155 songs - 8 hr 49 min
+156 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,13 +42,14 @@
 | [digging for windows](https://open.spotify.com/track/1sdBPiPEKm2OHKybnx3wnA) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/0qSXfPoHz4ZfOz8ixOTSxX) | 3:31 | 2022-07-01 | 2022-07-06 |
 | [digging for windows](https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG) | 3:31 | 2022-07-01 | 2023-12-11 |
 | [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Dirty](https://open.spotify.com/album/2O6i9surGnW91oOcoucyNI) | 3:28 | 2020-09-23 | 2022-11-14 |
+| [Divide](https://open.spotify.com/track/4U78Xn0ccxdIU0kVDprJ78) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo) | 4:17 | 2023-06-23 |  |
 | [Divide](https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 4:17 | 2022-07-01 | 2023-09-07 |
 | [Divide](https://open.spotify.com/track/27BkjyUcx9Q8fpcr09T8yy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe\)](https://open.spotify.com/album/00OObEWyVVmIF9Le5Ra5Yj) | 4:17 | 2020-08-19 | 2022-07-29 |
 | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY) | 3:38 | 2020-08-19 |  |
 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/0qOyIp7uxZedcUIVp6BWmT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:16 | 2020-08-19 | 2022-07-29 |
 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:16 | 2022-07-01 |  |
 | [Economy Of Death](https://open.spotify.com/track/1azvYDoh5ppY6ynmhSzr0a) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [Economy Of Death](https://open.spotify.com/album/614jK7SKYCn5xYqEV8yBRM) | 4:01 | 2020-08-19 | 2022-07-29 |
-| [Economy Of Death](https://open.spotify.com/track/3CZu2KpWG3RvVn6mbIhG6J) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [War Music](https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ) | 4:01 | 2023-06-23 |  |
+| [Economy Of Death](https://open.spotify.com/track/3CZu2KpWG3RvVn6mbIhG6J) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [War Music](https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ) | 4:01 | 2023-06-23 | 2024-02-18 |
 | [Election Year, Pt\. 1](https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year, Pt\. 1](https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT) | 4:08 | 2020-09-18 | 2022-07-28 |
 | [Feed the Pressure](https://open.spotify.com/track/4VeMp9BOspHpUEiD3SMww0) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Feed the Pressure](https://open.spotify.com/album/0q31Sx2CEYhhUwX4eZZIad) | 2:58 | 2020-10-30 | 2022-07-18 |
 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 | 2020-08-19 |  |

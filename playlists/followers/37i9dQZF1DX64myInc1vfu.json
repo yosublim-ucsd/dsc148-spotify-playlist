@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 80742,
+  "2024-02-18": 80783,
   "date_first_scraped": "2022-05-26",
-  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: \u00c1ngela Aguilar",
+  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
   "name": "Lento.",
   "tracks": [
     {
@@ -888,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155208,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
+    },
+    {
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"

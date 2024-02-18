@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 39676,
+  "2024-02-18": 39684,
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Peter Peter",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rymz",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -385,7 +385,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 299293,
       "name": "20k heures de solitude",
       "url": "https://open.spotify.com/track/0LcesJstJfzDHrnLGagUcJ"
@@ -4048,6 +4048,28 @@
     },
     {
       "album": {
+        "name": "Big Day",
+        "url": "https://open.spotify.com/album/3C8wMCFoToMmA4tFFd04tG"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173262,
+      "name": "Big Day",
+      "url": "https://open.spotify.com/track/4nltl0ZfRm7L6YrNduGARB"
+    },
+    {
+      "album": {
         "name": "Club des Coeurs Solitaires",
         "url": "https://open.spotify.com/album/1D3Pv7udHK5UQ8OTj748qo"
       },
@@ -6353,7 +6375,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180154,
       "name": "CE GAME-L\u00c0",
       "url": "https://open.spotify.com/track/4sAMR70ety5adRQkx2lluP"
@@ -10611,7 +10633,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 175946,
       "name": "DIS-MOI (feat. SDM)",
       "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
@@ -10731,7 +10753,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 222868,
       "name": "Dites-moi que la vie n'est pas ce qu'on attend d'elle",
       "url": "https://open.spotify.com/track/1dUogoSeKzf2yx8QNfk60Y"
@@ -18613,7 +18635,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
@@ -19707,6 +19729,24 @@
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
+    },
+    {
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "JUNGLE",
+      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
     },
     {
       "album": {
@@ -21853,7 +21893,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 293040,
       "name": "La promesse",
       "url": "https://open.spotify.com/track/4rirFm1iF6yvXk6SCvKXKV"
@@ -22139,6 +22179,24 @@
       "duration_ms": 233632,
       "name": "La visite",
       "url": "https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V"
+    },
+    {
+      "album": {
+        "name": "Lady Renarde",
+        "url": "https://open.spotify.com/album/4J1K1l4YEcDanstwGuvwtV"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224082,
+      "name": "Lady Renarde",
+      "url": "https://open.spotify.com/track/3EbASRjxu4gSNOQBJJVaYJ"
     },
     {
       "album": {
@@ -22929,6 +22987,24 @@
       "duration_ms": 138500,
       "name": "Le grand gagnant",
       "url": "https://open.spotify.com/track/3Tqfdxch0ckwvvfWXHZ5L2"
+    },
+    {
+      "album": {
+        "name": "Le grand rendez-vous",
+        "url": "https://open.spotify.com/album/0KqBsV2qciDizQ3EzToWtE"
+      },
+      "artists": [
+        {
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "Le grand rendez-vous",
+      "url": "https://open.spotify.com/track/3m37sRlDSQwESGfgdgm3vG"
     },
     {
       "album": {
@@ -24331,6 +24407,24 @@
       "duration_ms": 272091,
       "name": "Les secrets de la terre",
       "url": "https://open.spotify.com/track/1ScDyZiqfS7AVNtTlZuzvD"
+    },
+    {
+      "album": {
+        "name": "Les SI n'aiment pas les r\u00eaves",
+        "url": "https://open.spotify.com/album/7JXqqoqi5eP4HSeXyRHNCG"
+      },
+      "artists": [
+        {
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184520,
+      "name": "Les SI n'aiment pas les r\u00eaves",
+      "url": "https://open.spotify.com/track/1mPaGZfVKayUK4v8BejVQ8"
     },
     {
       "album": {
@@ -28948,6 +29042,24 @@
     },
     {
       "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/1MjpbZZT5XSUoaaTQ7KXgj"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/4OK1zs3eTax8Gp92amb9d7"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA+",
         "url": "https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75"
       },
@@ -29045,7 +29157,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205416,
       "name": "NINTENDO 64",
       "url": "https://open.spotify.com/track/6x853glEaRezDRdmA0dkVo"
@@ -30323,6 +30435,28 @@
       "duration_ms": 190186,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/7sxlv3kB4pS4ue5WIyW9yu"
+    },
+    {
+      "album": {
+        "name": "ITIN\u00c9RAIRE : Exotics & Bangers",
+        "url": "https://open.spotify.com/album/3dubFNd8VYtAMqlvPRcXnh"
+      },
+      "artists": [
+        {
+          "name": "Yung Duce",
+          "url": "https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl"
+        },
+        {
+          "name": "M-Press Live",
+          "url": "https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "OUAIS 4X",
+      "url": "https://open.spotify.com/track/5mtQDRes9raNSYFILcP0KM"
     },
     {
       "album": {
@@ -31988,6 +32122,24 @@
     },
     {
       "album": {
+        "name": "Picoler",
+        "url": "https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189883,
+      "name": "Picoler",
+      "url": "https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ"
+    },
+    {
+      "album": {
         "name": "Picture (French Version)",
         "url": "https://open.spotify.com/album/4AJYkJBdEoPdOW45mW8eRO"
       },
@@ -32690,6 +32842,24 @@
     },
     {
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+    },
+    {
+      "album": {
         "name": "Post mortem",
         "url": "https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a"
       },
@@ -33081,6 +33251,24 @@
       "duration_ms": 181600,
       "name": "Premier Incendie - Edit",
       "url": "https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh"
+    },
+    {
+      "album": {
+        "name": "Premier Tour",
+        "url": "https://open.spotify.com/album/6rJ6BSHKH5ApJC56dshMdb"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Premier Tour",
+      "url": "https://open.spotify.com/track/6cZcoyc6qg5d5E1v3uWddk"
     },
     {
       "album": {
@@ -33661,7 +33849,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177791,
       "name": "PROTOCOLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
@@ -38033,7 +38221,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 244571,
       "name": "Souvenirs d'hiver",
       "url": "https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog"
@@ -38701,7 +38889,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 198714,
       "name": "Sur la Main",
       "url": "https://open.spotify.com/track/3tV5yPaZg1n28tqi9QlXc5"
@@ -39531,6 +39719,24 @@
       "duration_ms": 207320,
       "name": "Temps perdu",
       "url": "https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9"
+    },
+    {
+      "album": {
+        "name": "Terminer",
+        "url": "https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183312,
+      "name": "Terminer",
+      "url": "https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU"
     },
     {
       "album": {
@@ -43107,7 +43313,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 290933,
       "name": "Virer nos vies",
       "url": "https://open.spotify.com/track/7CrCOTq926ZIICDRzofhZY"

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 68338,
+  "2024-02-18": 68340,
   "date_first_scraped": "2022-11-05",
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
   "name": "This Is Iggy Pop",
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 150453,
       "name": "La Javanaise",
       "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205280,
       "name": "Neighborhood Threat",
       "url": "https://open.spotify.com/track/0pBBiZIVHbcmHbwacGGLhR"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 283274,
       "name": "Working Class Hero",
       "url": "https://open.spotify.com/track/4E0dnwU0VhvJydUOEiq6IB"

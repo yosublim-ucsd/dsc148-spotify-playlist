@@ -1,12 +1,12 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87271,
+  "num_followers": 87267,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTY2MmEwZTRjYzcxYTVkNDQzMWNmMTI1OWY3ZThjYTA4NmYyNmZk",
+  "snapshot_id": "MCxjMTllYjU4ZjA1MzBiOThmYmIxOWM5YTBkYTI5OTQyZmFmNzZiMDE3",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Narcotango",
+        "url": "https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA"
+      },
+      "artists": [
+        {
+          "name": "Carlos Libedinsky",
+          "url": "https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Vi Luz y Sub\u00ed",
+      "url": "https://open.spotify.com/track/1iJqnTaBrKQKGWMU7DNzx0"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Narcotango",
-        "url": "https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA"
-      },
-      "artists": [
-        {
-          "name": "Carlos Libedinsky",
-          "url": "https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Vi Luz y Sub\u00ed",
-      "url": "https://open.spotify.com/track/1iJqnTaBrKQKGWMU7DNzx0"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Campo",
         "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
       },
@@ -274,6 +274,10 @@
         {
           "name": "Campo",
           "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        },
+        {
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
         }
       ],
       "duration_ms": 189030,
@@ -735,26 +739,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Veinte Veinte",
-        "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
-      },
-      "artists": [
-        {
-          "name": "BIFE",
-          "url": "https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk"
-        },
-        {
-          "name": "Noelia Sinkunas",
-          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Veinte Veinte",
-      "url": "https://open.spotify.com/track/7ubSJ86N9Lzzt3qYL58ZNV"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Obstinado",
         "url": "https://open.spotify.com/album/7suichuH4uRGvVt3b5lUZ2"
       },
@@ -783,6 +767,26 @@
       "duration_ms": 288840,
       "name": "Piazzojazz",
       "url": "https://open.spotify.com/track/7jxmEREf58Pq2a34p7urqH"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Veinte Veinte",
+        "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
+      },
+      "artists": [
+        {
+          "name": "BIFE",
+          "url": "https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk"
+        },
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Veinte Veinte",
+      "url": "https://open.spotify.com/track/7ubSJ86N9Lzzt3qYL58ZNV"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -855,22 +859,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
-      },
-      "artists": [
-        {
-          "name": "Mariano Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        }
-      ],
-      "duration_ms": 227616,
-      "name": "Plegaria para un ni\u00f1o dormido",
-      "url": "https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Reinventango",
         "url": "https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi"
       },
@@ -883,6 +871,22 @@
       "duration_ms": 259221,
       "name": "Transtango",
       "url": "https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
+      },
+      "artists": [
+        {
+          "name": "Mariano Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        }
+      ],
+      "duration_ms": 227616,
+      "name": "Plegaria para un ni\u00f1o dormido",
+      "url": "https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -967,22 +971,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Tipica Fernandez Fierro",
-          "url": "https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv"
-        }
-      ],
-      "duration_ms": 128907,
-      "name": "Subrealidad",
-      "url": "https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Fueye Mood",
         "url": "https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia"
       },
@@ -995,6 +983,22 @@
       "duration_ms": 231670,
       "name": "Fueye Mood",
       "url": "https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Tipica Fernandez Fierro",
+          "url": "https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv"
+        }
+      ],
+      "duration_ms": 128907,
+      "name": "Subrealidad",
+      "url": "https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1103,18 +1107,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tanguera",
-        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
+        "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
+        "url": "https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8"
       },
       "artists": [
         {
-          "name": "Diego Schissi Quinteto",
-          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Sgoliat vs KoolTURE",
+          "url": "https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1"
         }
       ],
-      "duration_ms": 254440,
-      "name": "Tanguera",
-      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
+      "duration_ms": 216993,
+      "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
+      "url": "https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1143,38 +1151,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
-        "url": "https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8"
+        "name": "Tanguera",
+        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
       },
       "artists": [
         {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Sgoliat vs KoolTURE",
-          "url": "https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1"
+          "name": "Diego Schissi Quinteto",
+          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
         }
       ],
-      "duration_ms": 216993,
-      "name": "Preludio para el A\u00f1o 3001 (Sgoliat vs KoolTURE Remix)",
-      "url": "https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Sudestada Tango Lounge 2",
-        "url": "https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv"
-      },
-      "artists": [
-        {
-          "name": "Sudestada Tango",
-          "url": "https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S"
-        }
-      ],
-      "duration_ms": 295786,
-      "name": "Kir\u00f3n Tango",
-      "url": "https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt"
+      "duration_ms": 254440,
+      "name": "Tanguera",
+      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1191,6 +1179,22 @@
       "duration_ms": 223986,
       "name": "Bye Mom",
       "url": "https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Sudestada Tango Lounge 2",
+        "url": "https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv"
+      },
+      "artists": [
+        {
+          "name": "Sudestada Tango",
+          "url": "https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S"
+        }
+      ],
+      "duration_ms": 295786,
+      "name": "Kir\u00f3n Tango",
+      "url": "https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt"
     },
     {
       "added_at": "2023-11-24 03:00:00",

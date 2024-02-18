@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 35857,
+  "2024-02-18": 35868,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Aluna's track IDs",
@@ -3673,7 +3673,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -4104,6 +4104,24 @@
     },
     {
       "album": {
+        "name": "RED EP",
+        "url": "https://open.spotify.com/album/4Bp0q40RSxvjTfg8rkxl8J"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "P.L.L",
+      "url": "https://open.spotify.com/track/3FOUf5xncQWgylXKj7Zwiz"
+    },
+    {
+      "album": {
         "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
         "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
       },
@@ -4253,6 +4271,28 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+    },
+    {
+      "album": {
+        "name": "PIXAR",
+        "url": "https://open.spotify.com/album/5K41VmBBw9UpuP2WCCuMLw"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "PIXAR",
+      "url": "https://open.spotify.com/track/3K2AjofnBXR4IiKdI4jdWP"
     },
     {
       "album": {
@@ -4773,6 +4813,24 @@
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"
+    },
+    {
+      "album": {
+        "name": "House Hues",
+        "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98461,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
     },
     {
       "album": {
@@ -5415,7 +5473,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193891,
       "name": "Tell Me [VMIX]",
       "url": "https://open.spotify.com/track/3OStRo9VxvsqXWbdsry07j"
@@ -6367,7 +6425,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 234240,
       "name": "woo",
       "url": "https://open.spotify.com/track/0tksRX4P1eRw7iI5YTnlZJ"

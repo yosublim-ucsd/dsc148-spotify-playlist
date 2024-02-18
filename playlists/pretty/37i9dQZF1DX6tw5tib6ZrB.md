@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from ScHoolboy Q, Latto, Ice Spice, Phyno, Skepta and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,488 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,601 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 50 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
 | 51 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 |
 
-Snapshot ID: `MCw2NmZmMWY4N2VmZmRhYmY4N2M1ZTUwYWZhNWMxZGYxNzdjNWYwNDU4`
+Snapshot ID: `MCxhOGM1Y2I5Y2JjMWEzZjViNTRhNzNhMDc0M2IwMTlkOWZhMmYxMjkw`

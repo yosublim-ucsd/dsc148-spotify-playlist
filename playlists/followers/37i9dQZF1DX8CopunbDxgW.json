@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 859538,
+  "2024-02-18": 859570,
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Lemaitre",
+  "description": "The best indie dance tracks of the moment. Cover: salute",
   "name": "metropolis",
   "tracks": [
     {
@@ -111,7 +111,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 242442,
       "name": "*69 - Patrick Holland Remix",
       "url": "https://open.spotify.com/track/2XqY7iq9sAFBkOlARKqPED"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 218393,
       "name": "24 hours",
       "url": "https://open.spotify.com/track/3S8woPykjDBaUhmi2o0Ti0"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197733,
       "name": "<3 beat",
       "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 203130,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 131612,
       "name": "anywhere but here",
       "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
@@ -2669,7 +2669,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 190100,
       "name": "Brain Pills",
       "url": "https://open.spotify.com/track/51BmnvazYmY5Tu3fJdFeSY"
@@ -3438,6 +3438,24 @@
     },
     {
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk"
+      },
+      "artists": [
+        {
+          "name": "Ferdous",
+          "url": "https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157209,
+      "name": "Celestial Kiss",
+      "url": "https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR"
+    },
+    {
+      "album": {
         "name": "Chaeri",
         "url": "https://open.spotify.com/album/0oaj14xWeAaya1H1BF9MLC"
       },
@@ -3609,7 +3627,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 275655,
       "name": "Children",
       "url": "https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO"
@@ -3926,6 +3944,24 @@
     },
     {
       "album": {
+        "name": "Desire, I Want To Turn Into You: Everasking Edition",
+        "url": "https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344998,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/1RCyDb0MGg6t1RScHweZq6"
+    },
+    {
+      "album": {
         "name": "Come Back Around",
         "url": "https://open.spotify.com/album/78WnyYzSpmJEj1wYDNTjpb"
       },
@@ -4127,6 +4163,24 @@
       "duration_ms": 140029,
       "name": "CRISIS QUEEN",
       "url": "https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm"
+    },
+    {
+      "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225625,
+      "name": "Crocodile",
+      "url": "https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9"
     },
     {
       "album": {
@@ -4537,7 +4591,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192857,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
@@ -5223,7 +5277,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 218709,
       "name": "Dreams (Rework)",
       "url": "https://open.spotify.com/track/73FOzppaF9mNLgmT4HSPWB"
@@ -5679,7 +5733,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 213297,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j"
@@ -6221,6 +6275,28 @@
       "duration_ms": 224493,
       "name": "Fall Fall Fall",
       "url": "https://open.spotify.com/track/1Nok3E21YSs8TifkIJgbFv"
+    },
+    {
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "album": {
@@ -7195,6 +7271,28 @@
       "duration_ms": 136477,
       "name": "FORWARD",
       "url": "https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5"
+    },
+    {
+      "album": {
+        "name": "Forza",
+        "url": "https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        },
+        {
+          "name": "Estremo",
+          "url": "https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192389,
+      "name": "Forza",
+      "url": "https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb"
     },
     {
       "album": {
@@ -8332,6 +8430,24 @@
     },
     {
       "album": {
+        "name": "heart of mine",
+        "url": "https://open.spotify.com/album/481YxIHg7ob0L4BNEAbFzm"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155837,
+      "name": "heart of mine",
+      "url": "https://open.spotify.com/track/2w8g5oJqFh1zFDghxZlOWG"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/7gRArqRwOK3uXvcJXm3EO0"
       },
@@ -8895,6 +9011,24 @@
       "duration_ms": 208896,
       "name": "hold on",
       "url": "https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p"
+    },
+    {
+      "album": {
+        "name": "Hold On To You",
+        "url": "https://open.spotify.com/album/2ro7K0n2tWlfsJpUZtJYe2"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Hold On To You",
+      "url": "https://open.spotify.com/track/3PV5cTNXSfUpdLpEoYtSTS"
     },
     {
       "album": {
@@ -10775,7 +10909,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 222439,
       "name": "JOY (In Me All The Time)",
       "url": "https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d"
@@ -12217,6 +12351,24 @@
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224809,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi"
     },
     {
       "album": {
@@ -13689,6 +13841,28 @@
       "duration_ms": 202391,
       "name": "Moth Love",
       "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
+    },
+    {
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/3pzH6jllgnJ6viOtPqxbd4"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT"
     },
     {
       "album": {
@@ -15285,6 +15459,32 @@
       "duration_ms": 249346,
       "name": "Our World",
       "url": "https://open.spotify.com/track/1XwN7nOPkZpH1ScNWDAQZz"
+    },
+    {
+      "album": {
+        "name": "Out Cold!",
+        "url": "https://open.spotify.com/album/6jdrdawyUSmMGMSMyLVQsa"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
+        },
+        {
+          "name": "Soak XP",
+          "url": "https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165732,
+      "name": "Out Cold!",
+      "url": "https://open.spotify.com/track/0bFbrt4TvyMHXii7zbipdk"
     },
     {
       "album": {
@@ -17375,7 +17575,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 130615,
       "name": "see u",
       "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
@@ -17969,6 +18169,28 @@
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/3U9IwYDMTY7IJwFDRp4uXn"
+    },
+    {
+      "album": {
+        "name": "skyskysky",
+        "url": "https://open.spotify.com/album/3qG21Y27grIgeNvunf72Q8"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143313,
+      "name": "skyskysky",
+      "url": "https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG"
     },
     {
       "album": {
@@ -19358,6 +19580,24 @@
     },
     {
       "album": {
+        "name": "system",
+        "url": "https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232239,
+      "name": "system",
+      "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
+    },
+    {
+      "album": {
         "name": "Angelo",
         "url": "https://open.spotify.com/album/04VXufc9BMWupjoSYjpErm"
       },
@@ -20676,6 +20916,32 @@
     },
     {
       "album": {
+        "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
+        "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
+      "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "album": {
         "name": "Time To / Conversion Theory",
         "url": "https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz"
       },
@@ -20695,7 +20961,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW"

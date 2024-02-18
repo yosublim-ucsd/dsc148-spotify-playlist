@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 106033,
+  "2024-02-18": 106063,
   "date_first_scraped": "2023-01-14",
   "description": "This is Inspector. The essential tracks, all in one playlist.",
   "name": "This Is Inspector",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 154897,
       "name": "Ara\u00f1a Ska",
       "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
@@ -367,6 +367,24 @@
       "duration_ms": 193807,
       "name": "Deja Ya de Mentir",
       "url": "https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB"
+    },
+    {
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
     },
     {
       "album": {
@@ -723,7 +741,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 184730,
       "name": "M\u00e1s All\u00e1 del Universo",
       "url": "https://open.spotify.com/track/6HUeXwT3LqfcEVYYc2Z9uv"
@@ -1337,6 +1355,24 @@
       "duration_ms": 270860,
       "name": "Yo No Naci Para Amar",
       "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
+    },
+    {
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Yo No Se T\u00fa",
+      "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2P0QCc"

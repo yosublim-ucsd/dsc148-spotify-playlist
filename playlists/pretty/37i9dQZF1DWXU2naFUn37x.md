@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Villabanks
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,955 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,034 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Il Doc 4 \(feat\. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker\)](https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8) | 3:36 |
 | 2 | [Bimbo in quartiere](https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:15 |
 | 3 | [TUNNEL](https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:24 |
-| 4 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
+| 4 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
 | 5 | [BOULEVARD](https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:40 |
 | 6 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
 | 7 | [SOLDI A CASA \(feat\. Ghali\)](https://open.spotify.com/track/4pl1S8uglG2vYJ45IIgIo2) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [BALLAS 2](https://open.spotify.com/track/5dftDcqeIMeoJcZX0YnZsl) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [BALLAS 2](https://open.spotify.com/album/05ErXdPOeswAAeB7EXoUXB) | 3:04 |
 | 50 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 
-Snapshot ID: `MCw2ZDNhYTA1Y2I5YmI3MWM5YmI1NDkxM2YyZDY4MDdjNGMyNDA5YzM4`
+Snapshot ID: `MCwwYmIxMDVjNjE2OTBkZDllYTk2NWU2ZGYxZjJmZDVlNDJjMzIxNTA0`

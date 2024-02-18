@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > hana vu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,186 likes - 130 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,272 likes - 130 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 129 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 |
 | 130 | [HIT ME WHERE IT HURTS](https://open.spotify.com/track/4veQCwlCmxgUK7edG7lG9P) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [HIT ME WHERE IT HURTS / Armida](https://open.spotify.com/album/3ZolpAPWXSf3nSRzS6vmyi) | 4:22 |
 
-Snapshot ID: `MCw4MWFlNDQ4YTQyNTViN2ExMTI4NzI2YTEyYmU1ZWM5NTYyZTkyNDhl`
+Snapshot ID: `MCxjM2NiMzExZTBjNzQ5ZjI4MzFkNTA0ZTkzYjVlNjRmZWQ3MzM1M2Jm`

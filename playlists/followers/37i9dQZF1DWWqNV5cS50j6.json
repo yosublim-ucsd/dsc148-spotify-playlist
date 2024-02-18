@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 701536,
+  "2024-02-18": 701676,
   "date_first_scraped": "2020-10-13",
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
   "name": "anti pop",
@@ -24312,6 +24312,24 @@
     },
     {
       "album": {
+        "name": "SOULCRUSHER",
+        "url": "https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171828,
+      "name": "SOULCRUSHER",
+      "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
+    },
+    {
+      "album": {
         "name": "SOUND OF METAL (feat. Devon Again)",
         "url": "https://open.spotify.com/album/3C58S7vtfqn8CDQ6Bq0v90"
       },
@@ -30115,7 +30133,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 254500,
       "name": "www she hot",
       "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"

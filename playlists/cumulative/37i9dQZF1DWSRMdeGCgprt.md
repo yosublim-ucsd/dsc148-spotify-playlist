@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-40 songs - 2 hr 20 min
+41 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 | 2017-02-27 |  |
 | [Say It's Right](https://open.spotify.com/track/6FeU3DRZUQWkr3i2n5OMNP) | [Gabriel Royal](https://open.spotify.com/artist/27BGBjfqb5MFhyMdX26pW6) | [Gabriel Royal](https://open.spotify.com/album/3qtmRfnU2yfvsRiKwLhqEn) | 3:06 | 2017-02-27 |  |
 | [Smile](https://open.spotify.com/track/1ejUDxhwETwwVwbWMtWzpf) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications](https://open.spotify.com/album/0nyGezMv2sRQGpz3z9Ql83) | 3:49 | 2017-02-27 | 2022-07-29 |
-| [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 | 2022-07-29 |  |
+| [Smile](https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:49 | 2024-02-18 |  |
+| [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 | 2022-07-29 | 2024-02-18 |
 | [Suite Poetry](https://open.spotify.com/track/5GmAHtgv8Fc01WQ4jqxIEM) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Jessica Care Moore](https://open.spotify.com/artist/4kjUXLlk49BHRmOMJmGKdj) | [Headnod Suite](https://open.spotify.com/album/7DXN77L7wC9ryDICsdtu8S) | 3:18 | 2017-02-27 | 2022-07-29 |
 | [Suite Poetry](https://open.spotify.com/track/713k05dVPAnEyh6LsCoejl) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Jessica Care Moore](https://open.spotify.com/artist/4kjUXLlk49BHRmOMJmGKdj) | [Headnod Suite](https://open.spotify.com/album/7FuXUobpTFPSCldrdU1jaL) | 3:18 | 2022-07-29 |  |
 | [The Let Out \(feat\. Quavo\)](https://open.spotify.com/track/7yMhyRmQGv6mSD6SkfhPeF) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Let Out \(feat\. Quavo\)](https://open.spotify.com/album/5DBsERTpvdP0KfhG25aHif) | 3:55 | 2017-02-27 |  |

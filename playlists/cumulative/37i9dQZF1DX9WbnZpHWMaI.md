@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-142 songs - 10 hr 45 min
+143 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,9 +67,10 @@
 | [Gold](https://open.spotify.com/track/7vxGhdQ6vrKrzYkeFmi8ot) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Indigo Dream](https://open.spotify.com/album/6T1FI8HwWMHtya66Agz91u) | 4:30 | 2022-03-08 | 2023-03-08 |
 | [Hollow](https://open.spotify.com/track/1AL3QYWKnoUWHD8IvXx72j) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/6DIDW3h9nsJgVkWiCM3H4x) | 3:36 | 2021-03-01 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/2J8YYqExy06PjSapXmm39f) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/2k0F2NkDj19iqUZ8c1SIwA) | 3:36 | 2022-03-08 | 2023-03-08 |
+| [Hot Bot](https://open.spotify.com/track/1R10YWIc3qGjBNlsqAYo5k) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/05KY6Zvc0lEHtBWF4LDnMY) | 4:48 | 2023-03-07 |  |
 | [Hot Bot](https://open.spotify.com/track/1XNJI7P60NskriC3NhEvzt) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/3uuE2MtcSMcgDVwrjUvRBZ) | 4:48 | 2021-03-01 | 2023-02-08 |
 | [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 | 2022-03-08 | 2023-11-05 |
-| [Hot Bot](https://open.spotify.com/track/62gDPzHOh9oaJ3X1QBX3Fk) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/5M62pugy3965W3dz996J7w) | 4:48 | 2023-03-07 |  |
+| [Hot Bot](https://open.spotify.com/track/62gDPzHOh9oaJ3X1QBX3Fk) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/5M62pugy3965W3dz996J7w) | 4:48 | 2023-03-07 | 2024-02-18 |
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-07 |  |
 | [Hot Shot](https://open.spotify.com/track/35tqKg7rzhiqS6dL3LfOki) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Bklava \- EP](https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E) | 3:32 | 2021-03-01 | 2023-03-08 |
 | [Human Error Processor](https://open.spotify.com/track/2pvyBLVixnCOD6yq2mgieZ) | [Yazzus](https://open.spotify.com/artist/0KWutsZ75Y4GvjcPTFnKXU) | [Black Metropolis](https://open.spotify.com/album/7mxzclKV8bYCqLVbvdthMV) | 6:54 | 2023-03-07 |  |

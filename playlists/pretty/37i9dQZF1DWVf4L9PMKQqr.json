@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20425,
+  "num_followers": 20435,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
+  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Lo Esencial de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
+      },
+      "artists": [
+        {
+          "name": "Sonia Lopez",
+          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/5EFW2HziZlnbTJfshcpxo3"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Canciones de Agust\u00edn Lara, Vol. 1",
         "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Esencial de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
-      },
-      "artists": [
-        {
-          "name": "Sonia Lopez",
-          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/5EFW2HziZlnbTJfshcpxo3"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Fantasia Espanola",
         "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
       },
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Suerte Loca",
-      "url": "https://open.spotify.com/track/0JaZw9VuXWIvrVGP281Zkb"
+      "duration_ms": 173400,
+      "name": "Cuerdas de Mi Guitarra",
+      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Cuerdas de Mi Guitarra",
-      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
+      "duration_ms": 169800,
+      "name": "Suerte Loca",
+      "url": "https://open.spotify.com/track/0JaZw9VuXWIvrVGP281Zkb"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
-        "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Naufragio",
-      "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 309678,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
+        "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Naufragio",
+      "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+        "name": "5 Decadas de Boleros: Boleros de los 20's",
+        "url": "https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy"
       },
       "artists": [
         {
-          "name": "Jorge Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
         }
       ],
-      "duration_ms": 152032,
-      "name": "Mi Novia",
-      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
+      "duration_ms": 244662,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "5 Decadas de Boleros: Boleros de los 20's",
-        "url": "https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
-        }
-      ],
-      "duration_ms": 244662,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Agustin Lara Y Sus Interpretes Vol. II",
         "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 140591,
       "name": "Ultimo Beso",
       "url": "https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Mi Novia",
+      "url": "https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Se Me Hizo F\u00e1cil",
-      "url": "https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Tesoros de Colecci\u00f3n - la Torcacita - la Panchita - la Consentida",
         "url": "https://open.spotify.com/album/7gJusenmPC00e4GDVN8C3s"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 138813,
       "name": "Paloma Torcaza",
       "url": "https://open.spotify.com/track/3QCrq7muaMrj2oWzQPgeNf"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Se Me Hizo F\u00e1cil",
+      "url": "https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc"
     },
     {
       "added_at": "2021-05-07 15:30:08",

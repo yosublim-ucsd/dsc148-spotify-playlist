@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, Supercombo
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,657 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,652 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 |
 | 75 | [Te Louvarei](https://open.spotify.com/track/6dKHmRsN74LZ7BiMdC0znb) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Te Louvarei](https://open.spotify.com/album/2VurG8NqUWqYArLdPA4pik) | 4:36 |
 
-Snapshot ID: `MCwyOGI5NmY0ZTQ1MTc4ZjZhNDAwYmZiNGM3NmUzMWUwMzcyZDNmMTli`
+Snapshot ID: `MCw5ZWQzN2IzMzE1OWFlOWZkZTZlNjMzMmIwZTBkZThiN2UyY2Y3MzI5`

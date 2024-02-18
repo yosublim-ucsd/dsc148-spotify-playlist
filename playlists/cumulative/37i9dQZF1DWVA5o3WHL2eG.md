@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: anaïs
 
-1,305 songs - 2 day 19 hr 46 min
+1,306 songs - 2 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1113,7 +1113,8 @@
 | [The One](https://open.spotify.com/track/0fnZuQ3x6ZKW7GhcbBZOkP) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [The One](https://open.spotify.com/album/5pNla67YFt6fzF4kDs13Yr) | 2:41 | 2023-05-02 | 2023-06-07 |
 | [The Poet](https://open.spotify.com/track/17B0PtxroZPDipqeBCa85t) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [The Poet](https://open.spotify.com/album/2BRdmswRAFjmSvxRWX3lrc) | 5:29 | 2023-07-04 | 2023-08-02 |
 | [The Sea](https://open.spotify.com/track/0ZyWvgGja2GqSlOcqmovEB) | [Kat Frankie](https://open.spotify.com/artist/6vdr7WnqTfEEPjKJsNrlgY) | [The Sea](https://open.spotify.com/album/5BlEIOLptS2u31jUbgZojJ) | 4:18 | 2022-02-01 | 2022-03-08 |
-| [The Table](https://open.spotify.com/track/4EcOdztLAdiksyn8ScGqdj) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [The Table](https://open.spotify.com/album/4DpxaAuDPgbgLDhsULAzEf) | 4:17 | 2024-02-06 |  |
+| [The Table](https://open.spotify.com/track/1uKUzuw5liwEvTPzQ9r2Xp) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [The Table](https://open.spotify.com/album/4Szi6ifCX8FKxAxNOLQWWo) | 4:17 | 2024-02-14 |  |
+| [The Table](https://open.spotify.com/track/4EcOdztLAdiksyn8ScGqdj) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [The Table](https://open.spotify.com/album/4DpxaAuDPgbgLDhsULAzEf) | 4:17 | 2024-02-06 | 2024-02-18 |
 | [The Very Hungry Caterpillar](https://open.spotify.com/track/08dtfamM8lItoKPBBIik6Y) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [The Very Hungry Caterpillar](https://open.spotify.com/album/4tuKUgSRQ7g0dHJpPHnl7z) | 2:35 | 2022-05-31 | 2022-07-06 |
 | [The Violator](https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [The Violator](https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB) | 4:01 | 2023-10-03 | 2023-11-08 |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-02-01 | 2022-03-08 |

@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-240 songs - 12 hr 17 min
+241 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Gané Mi Lugar](https://open.spotify.com/track/6alp7jdqWxGdKsNoFdCTCD) | [Cacha](https://open.spotify.com/artist/2612FpziZcGHTU77hgmdv8) | [Gané Mi Lugar](https://open.spotify.com/album/2d8866oML6XRx9gn3sjRQm) | 2:49 | 2021-11-26 | 2022-04-12 |
 | [Get Money](https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/5nhijg5KlUIzFsXSFg7Lpq) | 2:39 | 2021-11-26 | 2022-04-12 |
 | [Hasta Siempre](https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Hasta Siempre](https://open.spotify.com/album/4kXelnbRunlmMhbP1jbynJ) | 2:10 | 2023-05-12 | 2023-08-19 |
-| [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 | 2022-04-11 |  |
+| [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 | 2022-04-11 | 2024-02-18 |
+| [Hit o Nada](https://open.spotify.com/track/0RhHMAEz7deE5XWchekeF7) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/4naMd25cltzLfoLeoCjKLY) | 4:53 | 2024-02-16 |  |
 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 | 2022-04-11 | 2023-12-16 |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/3VCo2tJEa1a8GDCvSIqwP0) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/6m6qmfyl9LCn1801SzmpGO) | 3:01 | 2021-11-26 | 2022-10-02 |
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 | 2022-09-22 |  |
@@ -241,7 +242,7 @@
 | [Velorio](https://open.spotify.com/track/626DP2Pk2gFMQBUlWqulvZ) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Chili Parker](https://open.spotify.com/artist/0N0TOGZTDvGvMfpjhnrECs) | [Velorio](https://open.spotify.com/album/0UwrKsl4nvixGG6RBKE0Df) | 4:10 | 2024-02-14 |  |
 | [Ventrílocuo](https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Ventrílocuo](https://open.spotify.com/album/0JunW3Lcvu4oGpsm5Vop9R) | 2:26 | 2022-02-25 | 2022-04-12 |
 | [VIAIPI](https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68) | 2:26 | 2022-06-10 |  |
-| [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:18 | 2024-02-16 |  |
+| [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:25 | 2024-02-16 |  |
 | [Vueltas en el barrio](https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Vueltas en el barrio](https://open.spotify.com/album/1BrVfD9HJ9HFyHCccK4BmP) | 2:34 | 2022-02-18 | 2023-03-03 |
 | [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 | 2021-11-26 |  |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 |  |

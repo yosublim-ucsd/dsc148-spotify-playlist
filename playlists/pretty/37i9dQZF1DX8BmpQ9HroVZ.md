@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,392 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,485 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 60 | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/1zLlgNA1tyiabDhDwWhyPG) | 1:17 |
 | 61 | [Maharani](https://open.spotify.com/track/7CVw4gVPpH1TPQttQGVmhZ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [ReVo LEKHAK](https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G) | [Qabool Hai \(Deluxe\)](https://open.spotify.com/album/17n3KkiGt92tJZW0QkdUiW) | 6:29 |
 
-Snapshot ID: `MCw4ZjRkM2FhYWEzMWY2Yjk2NTMzYzA1NjQ1OTM5Njc1NTllNTZlNTgw`
+Snapshot ID: `MCxhMTgxZWU1YjY1MWVmZWJhZDBlNTY5MDFmY2EzYzEyZTFlMWVjOWJi`

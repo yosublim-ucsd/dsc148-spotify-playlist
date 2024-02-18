@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-223 songs - 15 hr 25 min
+224 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Hell To Pay](https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 4:42 | 2022-10-03 |  |
 | [Hell To Pay](https://open.spotify.com/track/3fPzrf8jirArIu9CV2r4cN) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Hell To Pay](https://open.spotify.com/album/5y6ddyAGfDYyY9vAvTfv5X) | 4:42 | 2022-05-25 | 2022-07-28 |
 | [Henrietta](https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT) | 2:52 | 2023-08-25 |  |
-| [Hold On \(Joy Is Coming\)](https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ) | [The Harlem Gospel Travelers](https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft) | [Look Up!](https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK) | 2:52 | 2022-10-10 |  |
+| [Hold On \(Joy Is Coming\)](https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ) | [The Harlem Gospel Travelers](https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft) | [Look Up!](https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK) | 2:52 | 2022-10-10 | 2024-02-18 |
 | [Holding On](https://open.spotify.com/track/1vBTsqe7UyYoycO5ZCw8c1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Bad For You Baby](https://open.spotify.com/album/43izHRxuhay1bX4C8sbarC) | 3:47 | 2022-05-25 | 2022-07-21 |
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 |  |
 | [Home](https://open.spotify.com/track/3qndewIkujOKlN7rmS0Ov6) | [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [Home](https://open.spotify.com/album/5o7WGKdXCOaprXmv8NSBGH) | 2:43 | 2023-08-11 | 2023-10-13 |
@@ -102,6 +102,7 @@
 | [Homesick](https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Confessions](https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2) | 6:24 | 2022-05-25 |  |
 | [Honeycomb](https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:57 | 2022-11-17 |  |
 | [How Many Times?](https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [How Many Times?](https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK) | 4:45 | 2022-11-17 |  |
+| [I Can't Stand It](https://open.spotify.com/track/4Bj7hYQXTuUpuVPleoiq3A) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 5:13 | 2023-11-24 |  |
 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 | 2022-05-25 |  |
 | [I Got a Love](https://open.spotify.com/track/7B3Sw98sgND7SKFU586chA) | [Elizabeth King](https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V) | [I Need the Lord](https://open.spotify.com/album/1g0lFxfFtSo2WaimhqDhYu) | 5:19 | 2023-08-18 | 2023-12-13 |
 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 | 2023-06-09 |  |

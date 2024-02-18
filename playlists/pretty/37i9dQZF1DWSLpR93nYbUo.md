@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: ZAC
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,965 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,974 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 79 | [Overtaking](https://open.spotify.com/track/78zamDKRmKtglD0GWM4rnf) | [AVIGA](https://open.spotify.com/artist/1JZsObLDi3gwXhcjxpvrr5) | [Overtaking](https://open.spotify.com/album/6tkmnRSg9lZd7hSpB0CTtz) | 2:08 |
 | 80 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 
-Snapshot ID: `MCxjZThkZDExZGIyMjViODcxYzM2YTcwMWJiNWViOTdhNDBlMzY1MjEw`
+Snapshot ID: `MCw3ZmU1N2M3MTE0YTlmMGY4MTRmNmVkMDQ0YTgwZjVkMjRhNTRmMDc4`

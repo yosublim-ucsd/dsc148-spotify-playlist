@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 280070,
+  "num_followers": 280081,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzU2ODJhNGFjMjk3NGE5YTViMmYzMjkwMGMzNDdiODYyZjJjYjE4",
+  "snapshot_id": "MCxkMGI1ZTgwM2NmMTcxYTY3YjdiY2ZmMzhmNDM0YmYwZjY1M2JmM2Nh",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "RAMONA FLOWERS",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Jaula de Oro",
         "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 238926,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "RAMONA FLOWERS",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "RAMONA FLOWERS",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -571,18 +571,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+        "name": "Algo Me Dice",
+        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+      "duration_ms": 257008,
+      "name": "Algo Me Dice",
+      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Algo Me Dice",
-        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 257008,
-      "name": "Algo Me Dice",
-      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 190875,
       "name": "Lo Que Hay Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "T\u00fa Ya No Dices Nada",
-        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        },
-        {
-          "name": "Manola",
-          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
-        }
-      ],
-      "duration_ms": 215940,
-      "name": "T\u00fa Ya No Dices Nada",
-      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Himno (para los que est\u00e1n jodidos)",
         "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "T\u00fa Ya No Dices Nada",
+        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        },
+        {
+          "name": "Manola",
+          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
+        }
+      ],
+      "duration_ms": 215940,
+      "name": "T\u00fa Ya No Dices Nada",
+      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Si Te Quieres Quedar",
-        "url": "https://open.spotify.com/album/0zyd0kCgRJrxTwWswbvlo8"
-      },
-      "artists": [
-        {
-          "name": "NANO Mz",
-          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
-        }
-      ],
-      "duration_ms": 151525,
-      "name": "Si Te Quieres Quedar",
-      "url": "https://open.spotify.com/track/2lkMkD3UsyAdkbFrG6Arzg"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Escombros",
         "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 228880,
       "name": "Todo Se Detiene Aqu\u00ed",
       "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Si Te Quieres Quedar",
+        "url": "https://open.spotify.com/album/0zyd0kCgRJrxTwWswbvlo8"
+      },
+      "artists": [
+        {
+          "name": "NANO Mz",
+          "url": "https://open.spotify.com/artist/4ixkwHeiUM9SF9WaJ0GHwn"
+        }
+      ],
+      "duration_ms": 151525,
+      "name": "Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/2lkMkD3UsyAdkbFrG6Arzg"
     },
     {
       "added_at": "2024-02-09 05:00:00",

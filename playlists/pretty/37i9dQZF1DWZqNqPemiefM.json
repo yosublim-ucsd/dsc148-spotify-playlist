@@ -1,12 +1,12 @@
 {
   "description": "The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 65920,
+  "num_followers": 65948,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWYzNzg2M2MzOWM2OWIxN2RhYjg3M2Q5YzM2YjdmZWZlYWE1YzEy",
+  "snapshot_id": "MCxiYWI5MWUwMGRmNTUwNGVkNWIyMjJjNzMwMTE2MmQ3MTg3YzZhYjE3",
   "tracks": [
     {
       "added_at": "2024-02-15 15:12:59",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-02-15 15:12:59",
       "album": {
+        "name": "Nausica\u00e4 of the Valley of the Wind (2024 ver.)",
+        "url": "https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf"
+      },
+      "artists": [
+        {
+          "name": "Narumi Yasuda",
+          "url": "https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I"
+        }
+      ],
+      "duration_ms": 325185,
+      "name": "Nausica\u00e4 of the Valley of the Wind - 2024 ver.",
+      "url": "https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32"
+    },
+    {
+      "added_at": "2024-02-15 15:12:59",
+      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
-    },
-    {
-      "added_at": "2024-02-15 15:12:59",
-      "album": {
-        "name": "Introspection (Edit)",
-        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
-      },
-      "artists": [
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Introspection - Edit",
-      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
     },
     {
       "added_at": "2024-02-15 15:12:59",

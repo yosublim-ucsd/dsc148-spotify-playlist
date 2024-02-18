@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-641 songs - 1 day 7 hr 57 min
+642 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [Too Much \(feat\. Usher\)](https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Too Much \(feat\. Usher\)](https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz) | 2:45 | 2021-12-17 | 2022-05-21 |
 | [Tough Love \- Tiësto Remix / Radio Edit](https://open.spotify.com/track/7bF6tCO3gFb8INrEDcjNT5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tough Love \(Tiësto Remix\)](https://open.spotify.com/album/7CvAfGvq4RlIwEbT9o8Iav) | 3:13 | 2022-03-25 | 2022-04-15 |
 | [Tragic \(feat\. Amber Van Day\)](https://open.spotify.com/track/29W5NNWGKY7ednK04SkZsK) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Tragic \(feat\. Amber Van Day\)](https://open.spotify.com/album/41S6hnfCPmiZ3IqxUpE8Xb) | 2:46 | 2021-12-17 | 2022-07-09 |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 |  |
 | [Trampoline \- Dave Audé Remix](https://open.spotify.com/track/6EDH26ppl7R8oV4tGilCkS) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Melt \(Deluxe\)](https://open.spotify.com/album/2ms8D5cy72qBtVnxKlXtP3) | 3:50 | 2022-03-25 | 2022-04-14 |
 | [Try Not To Love You](https://open.spotify.com/track/3DiOnTOzRokGNlFaFUonCy) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Try Not To Love You](https://open.spotify.com/album/67EzGP4yLDzRogercc3fGN) | 3:45 | 2022-03-25 | 2022-04-20 |
 | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8) | 3:28 | 2022-03-25 | 2022-12-30 |
@@ -647,7 +648,7 @@
 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 | 2023-01-27 | 2023-09-17 |
 | [You Only Love Me](https://open.spotify.com/track/398Kr7urUvmBVXvfUZZYiM) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:29 | 2023-12-01 |  |
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-03-25 | 2022-04-20 |
-| [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-25 |  |
+| [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-25 | 2024-02-18 |
 | [Your Body](https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Your Body](https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP) | 2:45 | 2022-03-25 | 2022-04-21 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

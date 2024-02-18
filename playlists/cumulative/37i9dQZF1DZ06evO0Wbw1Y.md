@@ -4,7 +4,7 @@
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 16 min
+44 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Caramelo \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:38 | 2023-09-25 |  |
 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 | 2023-09-25 |  |
 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 | 2023-09-25 |  |
+| [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 | 2024-02-17 |  |
 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 | 2023-09-25 |  |
 | [Don Juan](https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Don Juan](https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281) | 3:36 | 2023-09-25 |  |
 | [Duele \(feat\. Ventino\)](https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Gracias \(Edición Deluxe\)](https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT) | 3:39 | 2023-09-25 |  |
@@ -38,7 +39,7 @@
 | [Popurrí de Juan Gabriel](https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Popurrí de Juan Gabriel](https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ) | 4:54 | 2023-09-25 |  |
 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 | 2023-09-25 |  |
 | [Prometo Olvidarte](https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:38 | 2023-09-25 |  |
-| [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/track/70uI28CvYn53Pdrup7l2Zf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/album/7rMM6AFd033KI3CsuZateJ) | 2:49 | 2023-12-13 |  |
+| [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/track/70uI28CvYn53Pdrup7l2Zf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/album/7rMM6AFd033KI3CsuZateJ) | 2:49 | 2023-12-13 | 2024-02-18 |
 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 | 2023-09-25 |  |
 | [Qué Hubiera Sido](https://open.spotify.com/track/1o7gmHtkprmJO4Vl0qzMPW) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:09 | 2023-09-25 |  |
 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 | 2023-09-25 |  |

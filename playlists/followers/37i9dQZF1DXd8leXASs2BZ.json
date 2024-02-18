@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1897,
+  "2024-02-18": 1904,
   "date_first_scraped": "2023-12-09",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
   "name": "+81 Connect FRESH",
@@ -3166,7 +3166,7 @@
         },
         {
           "name": "18stop",
-          "url": "https://open.spotify.com/artist/0S4G7XkIQiKXxoHJgFAhPe"
+          "url": "https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF"
         }
       ],
       "date_added": "2024-02-15",
@@ -3685,6 +3685,24 @@
     {
       "album": {
         "name": "LIVE IN YAMADA",
+        "url": "https://open.spotify.com/album/22DYFzz5Fjsb8jS0yAkE1F"
+      },
+      "artists": [
+        {
+          "name": "PAZU",
+          "url": "https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Sea Side Wave",
+      "url": "https://open.spotify.com/track/10Mqe0r0tcO2zMqx3C3HQz"
+    },
+    {
+      "album": {
+        "name": "LIVE IN YAMADA",
         "url": "https://open.spotify.com/album/5xcHfnk3niG0rN9wIuMjdj"
       },
       "artists": [
@@ -3695,7 +3713,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 124500,
       "name": "Sea Side Wave",
       "url": "https://open.spotify.com/track/3EYx1oD5mLtTeKJeBw7EwJ"

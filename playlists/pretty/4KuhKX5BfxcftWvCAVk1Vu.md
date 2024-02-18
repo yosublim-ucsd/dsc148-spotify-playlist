@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > I love my girlfriend
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 59 songs - 3 hr 14 min
+[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 57 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 58 | [Jackie And Wilson](https://open.spotify.com/track/5xo1Gj4WTssjQgQ0w03cf2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:43 |
 | 59 | [All My Love](https://open.spotify.com/track/22GUd9JOxhSidGguHxf3Nu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 2:40 |
+| 60 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 |
 
-Snapshot ID: `ODcsOGVlMDk0NjA2ZjJmYjEzY2QwN2U3NGM3Mjk3MTZmZTg4MzVmYmE2ZQ==`
+Snapshot ID: `ODgsNzRhMWVhYmZkN2ZkMmNmYzczMTc1YzBmOWIzYmUwNjliMzdlZjhjYg==`

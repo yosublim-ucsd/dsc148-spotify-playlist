@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-1,505 songs - 3 day 16 hr 5 min
+1,506 songs - 3 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Không Ai](https://open.spotify.com/track/1E96W1R4pw8GjLJDZxLWDH) | [Annie](https://open.spotify.com/artist/5n6soHMPeSbjaXoZbGV75f) | [Không Ai](https://open.spotify.com/album/5kmdaO4sUgVgTYfu6Y8ElC) | 3:32 | 2023-07-10 | 2023-07-27 |
 | [Không Ai 102](https://open.spotify.com/track/4ZYXkf4wa1PdqxnUaeDzrM) | [Kris Vũ](https://open.spotify.com/artist/3kjCQ9WaBQSEHRo0E7prH7) | [Không Ai 102](https://open.spotify.com/album/3w3goOJ21Yxf0wsQ2avluP) | 4:35 | 2023-01-06 |  |
 | [Không Biết Bài Gì](https://open.spotify.com/track/5asfCglXepTe2MRScVk8ks) | [NIT](https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7), [Hưng Cacao](https://open.spotify.com/artist/3KOY56OWknrjoyAO1F6wXG) | [Không Biết Bài Gì](https://open.spotify.com/album/2omLu3Q3eJCOkQxeboHS13) | 3:59 | 2023-05-22 | 2023-06-26 |
+| [Không Biết Phải Làm Sao](https://open.spotify.com/track/3xiIUgBeuVW0akmFZkHyTW) | [Dương Lan Nhi](https://open.spotify.com/artist/0ojl2y5MZgL2p7Ey1tST5S), [ViAM](https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm) | [Không Biết Phải Làm Sao](https://open.spotify.com/album/6dLbnEFt8Fe55xHBaMMqAl) | 4:15 | 2024-02-17 |  |
 | [Không Biết Yêu](https://open.spotify.com/track/2rtJIWFu5lcw1nkzV5RwUb) | [Diam](https://open.spotify.com/artist/3Ynv5eRtPGGOjIdEvEtoMq), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Không Biết Yêu](https://open.spotify.com/album/0u1RtXbPRsNkhw5fZHmI5p) | 2:44 | 2022-06-26 | 2022-08-18 |
 | [Không Bằng](https://open.spotify.com/track/0wAKESJRnGVOqX2UvpEPRA) | [Na](https://open.spotify.com/artist/2WP8403CFULh73tk5ZnRdj) | [Không Bằng](https://open.spotify.com/album/7voNog9Gq6TLIyrtmn8Ydu) | 4:13 | 2022-01-06 | 2022-06-17 |
 | [Không Bằng](https://open.spotify.com/track/3QqaprfIRIwXJK3raoLRkh) | [Na](https://open.spotify.com/artist/2WP8403CFULh73tk5ZnRdj) | [Không Bằng](https://open.spotify.com/album/6HiAN398M4iu80XLoKqeoo) | 4:13 | 2022-11-30 | 2023-01-06 |
@@ -1254,7 +1255,7 @@
 | [Tính Em Hơi Kỳ](https://open.spotify.com/track/1sRpbjPxYY3O2HEETbA4Fu) | [ICM](https://open.spotify.com/artist/6kuERXgoQuYGDs0onogMvZ), [Xuân Định K.Y](https://open.spotify.com/artist/7G5AEkY5idIoHytk72GGyf) | [Tính Em Hơi Kỳ](https://open.spotify.com/album/3nzsZVgYQlOGQnUGC4dUTm) | 2:58 | 2023-09-13 | 2023-09-29 |
 | [Tôi Mộng Mơ Bạn Có Yêu Tôi Không?](https://open.spotify.com/track/21iERxobnfRl5LQECNSjCq) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [Tôi Mộng Mơ Bạn Có Yêu Tôi Không?](https://open.spotify.com/album/4Y4XsiFNQcDWITKLTScDu3) | 4:20 | 2022-01-06 | 2022-05-12 |
 | [Tôi Yêu](https://open.spotify.com/track/3e4zGf0D2Qefq7MXaxgPdW) | [Starry Night](https://open.spotify.com/artist/3eIwGWU86iuKq4HoUoZl6P) | [Tôi Yêu](https://open.spotify.com/album/3IfniMwVUVluElJ2YUMYPQ) | 3:21 | 2022-11-10 | 2022-11-21 |
-| [Tại Sao Anh Không](https://open.spotify.com/track/3hJYLmvSug7QXd0pr0UAQt) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT) | [Tại Sao Anh Không](https://open.spotify.com/album/6Hqk7kJN90Jxw2OWC2g2ue) | 3:55 | 2024-01-26 |  |
+| [Tại Sao Anh Không](https://open.spotify.com/track/3hJYLmvSug7QXd0pr0UAQt) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT) | [Tại Sao Anh Không](https://open.spotify.com/album/6Hqk7kJN90Jxw2OWC2g2ue) | 3:55 | 2024-01-26 | 2024-02-18 |
 | [Tại Sao Không Nói](https://open.spotify.com/track/1N4T4aZm8lIEAqL2oSafId) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [Tại Sao Không Nói](https://open.spotify.com/album/3rTrGvjT9ZMERZqLPlWVBh) | 4:49 | 2023-05-16 |  |
 | [Tại Sao Lòng Vòng](https://open.spotify.com/track/6yTAqa3VKX9kYKjFjXOrWA) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Tại Sao Lòng Vòng](https://open.spotify.com/album/5GALPxkR2SfEIbWwe10DRz) | 2:46 | 2022-07-13 | 2022-08-14 |
 | [tản mạn.](https://open.spotify.com/track/2x1yZYCoFEgz3nfoOBgvWn) | [Tommy](https://open.spotify.com/artist/1KU8k8INXcG3XixOeNXPCW) | [tản mạn.](https://open.spotify.com/album/6zunXP86r6mca3KeeASn2H) | 2:10 | 2022-01-06 | 2022-01-21 |

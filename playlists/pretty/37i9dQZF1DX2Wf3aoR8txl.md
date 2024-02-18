@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 
 > Music from "YU☆YU☆HAKUSHO" series\. 実写化も話題の人気アニメ「幽☆遊☆白書」主題歌、エンディングソングと人気キャラクターソングを一気にお届け！©Y.T.90\-94/P,S
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 45 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,022 likes - 45 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 14 | [Eye to Eye](https://open.spotify.com/track/1Qz62vRIwOx1qp1dijm6TN) | [Kurama\(CV:Megumi Ogata\)](https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL), [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL), [Kazuma Kuwabara\(CV:Shigeru Chiba\)](https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 3:58 |
 | 15 | [All Right!](https://open.spotify.com/track/6mVebwiDp8nKVEd4XJW7F2) | [Yusuke Urameshi\(CV:Nozomu Sasaki\)](https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 4:25 |
 | 16 | [Kori no Knife o Daite](https://open.spotify.com/track/3yfMwH6gDVOhr7DlAK24p4) | [Kurama\(CV:Megumi Ogata\)](https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 4:43 |
-| 17 | [Tasogare ni Se o Mukete](https://open.spotify.com/track/2FmBZ60y0hOS0YOTDMvZzd) | [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Ketteiban "Yu Yu Hakusho" Anime Main Theme & Character Song Selections](https://open.spotify.com/album/2ywDKGscVIqeT7J7PW0IHe) | 4:02 |
+| 17 | [Tasogare ni Se o Mukete](https://open.spotify.com/track/5xRXl01Me8wjY0xL8OeKo6) | [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Yu Yu Hakusho \- Collective Rare Trax \-](https://open.spotify.com/album/5TvP7BOFI6vxU2uKngvWHd) | 4:03 |
 | 18 | [Eien ni Thank You](https://open.spotify.com/track/2ZOn90effsUgKAHCosHoe3) | [Kazuma Kuwabara\(CV:Shigeru Chiba\)](https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 4:42 |
 | 19 | [Sayonara Bye Bye](https://open.spotify.com/track/66hlYveeHSRw1oALKwgeTA) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Matsuko Mawatari The Best of Matsuko Mawatari](https://open.spotify.com/album/44c06tDsxtmfrHTRnLgo5p) | 4:28 |
 | 20 | [Taiyou ga Mata Kagayaku Toki](https://open.spotify.com/track/7DYXDknmNblA13Wfdsth3E) | [Hiro Takahashi](https://open.spotify.com/artist/6t8SRQ3JL9AuvhNxlyYjfR) | [Takahashi Hiro Best Collection](https://open.spotify.com/album/1vYHR3nxoOjJRrggFGtf9v) | 5:20 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 44 | [桑原のテーマ](https://open.spotify.com/track/1xS1xkpVsxedglgB6awWSC) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 2:59 |
 | 45 | [幽助パワーアップ!](https://open.spotify.com/track/5WH89dniVjsSZEACH6VrEt) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック Vol.2 ～魔界の扉編～](https://open.spotify.com/album/1ha1rWSxldGVVDH6JdKM2B) | 3:56 |
 
-Snapshot ID: `MCxjOTgwMzdiMDFlMjM1ZGVjZjMxNmFhNDBmZTY4MmU1ZmJmZTc0NzA1`
+Snapshot ID: `MCwwZTQzOTY2NjRkNmQ3MGQ4YWFmNGEyNWI0ZDgxYjU5ZDUxZWVlOTcz`

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 415527,
+  "2024-02-18": 415514,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
   "name": "Texas Country Now",
@@ -1771,6 +1771,24 @@
       "duration_ms": 221125,
       "name": "Carolina Blue",
       "url": "https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie"
+    },
+    {
+      "album": {
+        "name": "Change the Game",
+        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208901,
+      "name": "Change The Game",
+      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
     },
     {
       "album": {
@@ -5183,7 +5201,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"

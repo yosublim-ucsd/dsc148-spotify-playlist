@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain]
 
 > 2023年の<a href="spotify:user:spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>総まとめ！今年Hot Hits Japanで再生された楽曲ベスト100!  <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,413 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,414 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain]
 | 99 | [秘密のキス](https://open.spotify.com/track/077Erf4RnkjumF791VOBnE) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:05 |
 | 100 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 |
 
-Snapshot ID: `MCxiZTcyNTVmNDhkOGNkMzUxODY2MDFkNjJmYmM5YzIwN2UxZmM3MWMz`
+Snapshot ID: `MCw0ZGRhNjE5M2U3ZTE3NDU4NWI5NjBiMTkyZmVkYzU3ZTJmMzQ2MGJk`

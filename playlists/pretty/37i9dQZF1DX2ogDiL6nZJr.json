@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 681059,
+  "num_followers": 681275,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDE0MWJlNjg3NDRmMjVjOTZlYTFkNjcyYWVjZGNmMDIyODZjNWQ2",
+  "snapshot_id": "MCxkNDBhMTFhMzlmZmEwZjA5MzQ2N2IwZGFjOTkzYzUzNWFjMjI2NDY0",
   "tracks": [
     {
       "added_at": "2024-01-25 17:05:45",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Chin Up",
-        "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "Chin Up",
-      "url": "https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Bathroom Light",
         "url": "https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 188266,
       "name": "Bathroom Light",
       "url": "https://open.spotify.com/track/71glNHT4FultOqlau4zrFf"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Chin Up",
+        "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 218999,
+      "name": "don\u2019t get caught up",
+      "url": "https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 221387,
       "name": "Californian Soil",
       "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "That Golden Time",
-        "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 290632,
-      "name": "That Golden Time",
-      "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 290632,
+      "name": "That Golden Time",
+      "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 216506,
       "name": "One Evening",
       "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 218999,
-      "name": "don\u2019t get caught up",
-      "url": "https://open.spotify.com/track/2k8gVOolKZ7FIHNkoVRVcu"
     },
     {
       "added_at": "2024-01-25 17:05:45",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-01-25 17:05:45",
       "album": {
-        "name": "Oh the Agony, Oh the Ecstasy",
-        "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte OC",
-          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Blue Eyes Forever",
-      "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
-    },
-    {
-      "added_at": "2024-01-25 17:05:45",
-      "album": {
         "name": "Brave New Woman",
         "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 199453,
       "name": "Comment Allez-Vous?",
       "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
+    },
+    {
+      "added_at": "2024-01-25 17:05:45",
+      "album": {
+        "name": "Oh the Agony, Oh the Ecstasy",
+        "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Blue Eyes Forever",
+      "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
     },
     {
       "added_at": "2024-01-25 17:05:45",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 129821,
+  "num_followers": 129853,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVkZjRmNGJkNGJkOWE0MjJlZmZmMGUxYTViZjNhN2UzZmIzZjdi",
+  "snapshot_id": "MCw2OGFiYzNiYWM3NWQ5ZTM0YmJiOTgxM2E1ODMwMjRkZTZjYzkzZjlm",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
-      },
-      "artists": [
-        {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Singing Birds by the Stream",
-      "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Rain White Noise",
         "url": "https://open.spotify.com/album/2UzN5SOcvTY7B9bu1bg84I"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 120083,
       "name": "Quiet Rain in River",
       "url": "https://open.spotify.com/track/2dz9Mx1pZKF2OLAPCr3AcC"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+      },
+      "artists": [
+        {
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Singing Birds by the Stream",
+      "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "2017 Relaxing Outdoor Soundscapes",
-        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Birds by the Stream",
-      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Bird Life",
         "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "2017 Relaxing Outdoor Soundscapes",
+        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Birds by the Stream",
+      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Nature Sounds",
-        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
-        }
-      ],
-      "duration_ms": 243919,
-      "name": "Summmer Forest",
-      "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Forest Birds",
         "url": "https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 137000,
       "name": "Forest Bird Sounds",
       "url": "https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Nature Sounds",
+        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "duration_ms": 243919,
+      "name": "Summmer Forest",
+      "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
     },
     {
       "added_at": "2023-06-19 13:01:14",

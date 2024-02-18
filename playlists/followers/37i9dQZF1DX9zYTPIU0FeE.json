@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 6141,
+  "2024-02-18": 6153,
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ?si=z4_euryvR_mfJ0N81OzznA\">Abdullah Ibrahim</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA\">NALEDI</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 376000,
       "name": "A.P's Lament (tribute to Andre Petersen)",
       "url": "https://open.spotify.com/track/5YULBb9JigXJ7fR1TVQVBU"
@@ -843,6 +843,24 @@
       "duration_ms": 194823,
       "name": "Feels Like Sunday",
       "url": "https://open.spotify.com/track/6KC3HEkSSnmr8tby99jJ3J"
+    },
+    {
+      "album": {
+        "name": "Find the Path",
+        "url": "https://open.spotify.com/album/3KoFbcGb4hjuT50jC25s7M"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328053,
+      "name": "Find the Path",
+      "url": "https://open.spotify.com/track/3zVCTPOk874tBgmUN6ee3m"
     },
     {
       "album": {
@@ -2230,6 +2248,28 @@
     },
     {
       "album": {
+        "name": "Jazz Standards, Vol. 2",
+        "url": "https://open.spotify.com/album/3R9XrjbSAcOmR9hof5uP0W"
+      },
+      "artists": [
+        {
+          "name": "Natalie Rungan",
+          "url": "https://open.spotify.com/artist/1vuFbiWhMehPt38ZFRRzA8"
+        },
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298978,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/1qKVKQskVy3TbHPZDfM9iy"
+    },
+    {
+      "album": {
         "name": "Queen Nandi: The African Symphony",
         "url": "https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii"
       },
@@ -2507,6 +2547,24 @@
       "duration_ms": 370000,
       "name": "Ntsikana's Bell",
       "url": "https://open.spotify.com/track/6v1g2FHS7Zk6rqP3WRlRrF"
+    },
+    {
+      "album": {
+        "name": "P (x) J",
+        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+      },
+      "artists": [
+        {
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272120,
+      "name": "P (x) J",
+      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     },
     {
       "album": {

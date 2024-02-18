@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 17641,
+  "2024-02-18": 17704,
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Boza",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Greeicy",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Ain't That The Way It Goes?",
+      "url": "https://open.spotify.com/track/3qZbqEzv3QjZB4fRvz7c5N"
+    },
+    {
+      "album": {
         "name": "511",
         "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
@@ -1227,6 +1245,28 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+    },
+    {
+      "album": {
+        "name": "LLAMADA PERDIDA",
+        "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229536,
+      "name": "Anestesiada (feat. Luis Miguel Del Amargue)",
+      "url": "https://open.spotify.com/track/0E4h8zC9FLEAFia0XzRL1e"
     },
     {
       "album": {
@@ -4710,6 +4750,24 @@
     },
     {
       "album": {
+        "name": "El Idiota",
+        "url": "https://open.spotify.com/album/4D6E1KROX5VpRvAajqHjOG"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209302,
+      "name": "El Idiota",
+      "url": "https://open.spotify.com/track/6BAWPd5RhdrTZKsCLfrXQ5"
+    },
+    {
+      "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
@@ -4805,6 +4863,24 @@
       "duration_ms": 109062,
       "name": "El Pan De Estefan\u00eda",
       "url": "https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW"
+    },
+    {
+      "album": {
+        "name": "Esta vida que eleg\u00ed",
+        "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216078,
+      "name": "El Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6G7BRbW6tWcGoxrkSDKohO"
     },
     {
       "album": {
@@ -6658,6 +6734,24 @@
     },
     {
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253320,
+      "name": "I'll Be Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3TQtMYYU9YbPoraMen7UXs"
+    },
+    {
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -7263,6 +7357,24 @@
       "duration_ms": 178760,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/67QT1N72VTNvzSLbOQYrra"
+    },
+    {
+      "album": {
+        "name": "Esta vida que eleg\u00ed",
+        "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159575,
+      "name": "La Pistola",
+      "url": "https://open.spotify.com/track/2jFr9SYQov80ZEFPDwag2q"
     },
     {
       "album": {
@@ -8035,6 +8147,24 @@
       "duration_ms": 219040,
       "name": "Lit In The City",
       "url": "https://open.spotify.com/track/6lO43QMcwGkoGXaSbFIlt8"
+    },
+    {
+      "album": {
+        "name": "LLAMADA PERDIDA",
+        "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187634,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/5DVkyleuvjqxrOrCecO9af"
     },
     {
       "album": {
@@ -9206,6 +9336,28 @@
     },
     {
       "album": {
+        "name": "Observation I: Metamorphosis",
+        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188584,
+      "name": "Metamorphosis (with Ambar Lucid)",
+      "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
+    },
+    {
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -9535,6 +9687,28 @@
       "duration_ms": 158816,
       "name": "Morena",
       "url": "https://open.spotify.com/track/6KzL3U4EPg2RzrDBfXiMYc"
+    },
+    {
+      "album": {
+        "name": "Morfina (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229474,
+      "name": "Morfina (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
     },
     {
       "album": {
@@ -9921,6 +10095,24 @@
       "duration_ms": 144547,
       "name": "neverland",
       "url": "https://open.spotify.com/track/6xFXHnsyPE53Um8AwsQuyy"
+    },
+    {
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
     },
     {
       "album": {
@@ -11183,6 +11375,28 @@
       "duration_ms": 195426,
       "name": "Pauta & Flow",
       "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
+    },
+    {
+      "album": {
+        "name": "Pececitos",
+        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205842,
+      "name": "Pececitos",
+      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
     },
     {
       "album": {
@@ -13212,6 +13426,24 @@
     },
     {
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102586,
+      "name": "Si te hubiera",
+      "url": "https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV"
+    },
+    {
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -13271,6 +13503,24 @@
       "duration_ms": 180994,
       "name": "Siempre Estar\u00e9 Aqu\u00ed",
       "url": "https://open.spotify.com/track/2nRgqakKVUavglrE3IE39s"
+    },
+    {
+      "album": {
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     },
     {
       "album": {
@@ -13957,6 +14207,24 @@
       "duration_ms": 161877,
       "name": "Ta Buena",
       "url": "https://open.spotify.com/track/3ABFUL12VDbwlvFvAwBnYd"
+    },
+    {
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "album": {
@@ -16091,6 +16359,28 @@
       "duration_ms": 194400,
       "name": "YANKEE",
       "url": "https://open.spotify.com/track/0FirgnvrpCkkhdaq64Gfen"
+    },
+    {
+      "album": {
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "album": {

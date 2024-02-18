@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Les Champs d'Afrique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,946 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,009 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 3 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 4 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 5 | [Y'a Dieu dedans](https://open.spotify.com/track/0G8JSk6N6VMvLisq3ENE3B) | [Paulo Chakal](https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Y'a Dieu dedans](https://open.spotify.com/album/5WScnf7AKjBhg499TE3EYu) | 3:40 |
-| 6 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 |
+| 6 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
 | 7 | [La CAN c'est chez nous](https://open.spotify.com/track/42NbrX3tXy04SFkOo8dh3t) | [Yodé & Siro](https://open.spotify.com/artist/5RC9Zh1VuiG0ZGf2z7l9uL), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [La CAN c'est chez nous](https://open.spotify.com/album/5af8iCt0VdTxjLLOUbm4Ye) | 3:38 |
 | 8 | [Bad](https://open.spotify.com/track/1DdUs9oY428JlXblzh9Ozp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad](https://open.spotify.com/album/1Wlosougw4ESNPN9wlVXBg) | 3:46 |
 | 9 | [Maman matchôtchô](https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo) | [Peroo](https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Maman matchôtchô](https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV) | 3:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 39 | [En Haut](https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU), [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X) | [En Haut](https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F) | 2:52 |
 | 40 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 
-Snapshot ID: `MCw3NzRhZmEyMjk0ZmE3NTczOTQ4NzAxYTZiYjUwNTA0ZmE1YjIwYjIx`
+Snapshot ID: `MCwyNTJjZjUwYWZmNjNiOTgwODc5NjQ2ZTc4YmJiODQyZmM5NDA4ZDVk`

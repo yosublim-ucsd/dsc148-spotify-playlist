@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2024\. T3R Elemento en portada.
 
-989 songs - 2 day 2 hr 48 min
+990 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [99 Problemas](https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [99 Problemas](https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA) | 3:12 | 2024-01-19 | 2024-02-03 |
 | [A Como te Ven \(En Vivo\)](https://open.spotify.com/track/7jtSoRjShFbMGW0s8WCKfi) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [A Como te Ven \(En Vivo\)](https://open.spotify.com/album/7H5HTt5Kh353pj9XCUHB0m) | 3:22 | 2023-04-07 | 2023-04-15 |
 | [A La Orden \(El Menor\)](https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [A La Orden \(El Menor\)](https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL) | 3:04 | 2022-09-02 | 2022-09-24 |
-| [A Punta De Balazos \- En Vivo](https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f) | 3:57 | 2023-09-29 |  |
+| [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp) | 3:57 | 2024-02-16 |  |
+| [A Punta De Balazos \- En Vivo](https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f) | 3:57 | 2023-09-29 | 2024-02-18 |
 | [A Puño Limpio](https://open.spotify.com/track/3tJLTDDCh4azEGhktksiLw) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [A Puño Limpio](https://open.spotify.com/album/0kHtPbrj4TjfCNMFwLCHVY) | 3:31 | 2022-09-16 | 2022-10-01 |
 | [A Veces Me Acelero](https://open.spotify.com/track/7nOIaI6s21Tie0lQmu0lfv) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [A Veces Me Acelero](https://open.spotify.com/album/2gAKw1ufXAC4JOQ9EkDNGx) | 2:36 | 2023-02-17 | 2023-03-11 |
 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 | 2024-01-19 |  |

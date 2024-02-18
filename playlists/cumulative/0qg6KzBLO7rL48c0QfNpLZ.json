@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 241052,
       "name": "Down By The River",
       "url": "https://open.spotify.com/track/5itF66zYn38tEXTAvFPqIk"
@@ -1272,6 +1272,32 @@
       "duration_ms": 98727,
       "name": "Forgot About Me",
       "url": "https://open.spotify.com/track/2xsbIx7EIcXD0xOXvAYtIU"
+    },
+    {
+      "album": {
+        "name": "Free To Love",
+        "url": "https://open.spotify.com/album/5Ae9zbg6eNmQDdj2P94uWU"
+      },
+      "artists": [
+        {
+          "name": "Karim",
+          "url": "https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb"
+        },
+        {
+          "name": "Joel Winterflood",
+          "url": "https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36"
+        },
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Free To Love",
+      "url": "https://open.spotify.com/track/3fBjxS3ttzeSl7T75SDsm3"
     },
     {
       "album": {

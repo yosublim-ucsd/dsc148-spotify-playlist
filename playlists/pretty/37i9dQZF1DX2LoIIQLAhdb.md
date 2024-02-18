@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,590 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,665 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 13 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 |
 | 14 | [Candy](https://open.spotify.com/track/0U8PAXrNktnPR0aQEmfV5P) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Candy](https://open.spotify.com/album/75Q2UhYj53Mjqc7DXeGEY3) | 2:32 |
 | 15 | [Au suivant](https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Au suivant](https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7) | 3:19 |
-| 16 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 |
+| 16 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
 | 17 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
 | 18 | [Coco & Chanel](https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet) | 2:32 |
 | 19 | [Best life](https://open.spotify.com/track/3pI61vYUF9X8sutyoPv8IB) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Best life](https://open.spotify.com/album/3hskdHK1LhYpUg21KuPRGn) | 2:44 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Vrai visage](https://open.spotify.com/track/4hmupxfWB67RZ95TFyqvOs) | [NTH](https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s) | [Vrai visage](https://open.spotify.com/album/5khBhQxdPVowT9kyGvPaPb) | 1:57 |
 | 40 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 |
 
-Snapshot ID: `MCw3YTZhMmQyMzQ4M2NjOGVhYjFhNTEzODE2NjM5OGFjMThiYjViNDhh`
+Snapshot ID: `MCwxMGYzNzQ3MzdmMDUwN2Q3Y2QwYzlmYTlkMzE5NzJiYTg1ZTY0MzIw`

@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: IDLES
 
-543 songs - 1 day 6 hr 36 min
+544 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Be the Hook](https://open.spotify.com/track/4yNIKmXxa8TmFR1LSziKTC) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Be the Hook](https://open.spotify.com/album/0CpSfuO3HmUuZUHqJ5qEGD) | 2:45 | 2022-01-17 | 2022-08-19 |
 | [Beaches](https://open.spotify.com/track/2h5reg3Cwkeh8JIoxNX9ID) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Beaches](https://open.spotify.com/album/0nXGm6KHzEnE0J06vAxQ3z) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [Belicoso](https://open.spotify.com/track/2miicbSi3pZwm6Jzgw6AjF) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Belicoso](https://open.spotify.com/album/4UCn67JtIgzPMCnmU5NinV) | 2:49 | 2021-03-09 | 2022-01-17 |
-| [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 | 2024-01-12 |  |
+| [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 | 2024-01-12 | 2024-02-18 |
 | [Best of It](https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Best of It](https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v) | 2:08 | 2022-10-21 | 2022-11-22 |
 | [Bet My Blood](https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Bet My Blood](https://open.spotify.com/album/6G5IHNBlR3Ac0fSRwUgFFn) | 2:59 | 2021-05-21 | 2022-02-04 |
 | [Bet My Brains](https://open.spotify.com/track/293L4QqPp9XAyYAO32VJpp) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Bet My Brains](https://open.spotify.com/album/63UCoFVtwXykTLnEk5vMiP) | 3:53 | 2021-03-09 | 2022-01-17 |
@@ -170,6 +170,7 @@
 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 | 2022-10-13 | 2023-01-15 |
 | [Float Away](https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Float Away](https://open.spotify.com/album/1EZHlWMrnooR3AaKX7CojR) | 3:00 | 2021-07-16 | 2022-08-19 |
 | [FML](https://open.spotify.com/track/46Nr71GAHoSO5aqtUMUXT6) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Keep On Truckin'](https://open.spotify.com/album/4nl662iBk0IbnefmRYBGcI) | 2:49 | 2021-10-15 | 2022-08-19 |
+| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-16 |  |
 | [Focus](https://open.spotify.com/track/6bE3rnhnlVNevaIuwvkiXF) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Focus](https://open.spotify.com/album/69QkIjxgLwRUFibhVxRKpA) | 2:41 | 2022-09-29 | 2022-11-19 |
 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 | 2022-10-21 |  |
 | [Forever](https://open.spotify.com/track/2cmDPqRq97ivaQcjUo8erq) | [Repenter](https://open.spotify.com/artist/4sFVHlvgogxZ41szbq6wip) | [Forever](https://open.spotify.com/album/5AGEqq97zCOGgd0PfjbujC) | 4:10 | 2021-03-09 | 2022-01-17 |

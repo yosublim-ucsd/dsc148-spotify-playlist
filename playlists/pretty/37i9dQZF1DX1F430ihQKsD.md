@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,817 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,818 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 40 | [Astray](https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:53 |
 | 41 | [détours](https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [détours](https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY) | 2:40 |
 | 42 | [Take Me Down](https://open.spotify.com/track/5FsKNN0EKXevpZ3IQLURvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Take Me Down](https://open.spotify.com/album/1HgUqAtLT1htnY592eO54C) | 3:36 |
-| 43 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 |
+| 43 | [Combien ça coûte](https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/7x5T9OWipIP0Rp6P6SSYNM) | 2:43 |
 | 44 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 |
 | 45 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
 | 46 | [Mercure](https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45), [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Mercure](https://open.spotify.com/album/72rzVypIG6LhrJStwG1KBe) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 |
 | 100 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 
-Snapshot ID: `MCxiMDA1NTRlY2U5Y2EwYzU0MGI2ZDRhNTAwNmRjNWZiYTRlMTYwM2M2`
+Snapshot ID: `MCxkMTA4ZDk5ZDI5NWJmNTYyZjdhMWJjMGNkZTQwMTFiNjk5ZWUyZGY2`

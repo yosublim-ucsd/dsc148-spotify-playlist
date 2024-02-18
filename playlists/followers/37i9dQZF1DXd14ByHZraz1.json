@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 687505,
+  "2024-02-18": 687564,
   "date_first_scraped": "2022-01-18",
   "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Vintage Culture, Maverick Sabre",
   "name": "mint brasil",
@@ -43,6 +43,32 @@
       "duration_ms": 169687,
       "name": "Acid Peppers",
       "url": "https://open.spotify.com/track/4GvP0i8hmuyFPoLfxOq29d"
+    },
+    {
+      "album": {
+        "name": "Activated",
+        "url": "https://open.spotify.com/album/5n8hYQR4wuXgVxkVxSz8kh"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Sifa",
+          "url": "https://open.spotify.com/artist/7q1ExqmvA5vWGGmkXs1rL3"
+        },
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Activated",
+      "url": "https://open.spotify.com/track/1Ns2Ucfg64nvKFLZ7KtY9h"
     },
     {
       "album": {
@@ -295,7 +321,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 230400,
       "name": "Body Control",
       "url": "https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM"
@@ -2072,6 +2098,24 @@
     },
     {
       "album": {
+        "name": "Michael Jordan",
+        "url": "https://open.spotify.com/album/5hIUv1fnohxphRqND4DBjr"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161664,
+      "name": "Michael Jordan",
+      "url": "https://open.spotify.com/track/32WxH1Qka15MbHI81jBv3R"
+    },
+    {
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
@@ -2951,7 +2995,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 165354,
       "name": "Teletransporte",
       "url": "https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q"

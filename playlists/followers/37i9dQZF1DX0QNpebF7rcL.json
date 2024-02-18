@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 54540,
+  "2024-02-18": 54569,
   "date_first_scraped": "2021-12-28",
   "description": "The best in blues right now. Cover: Robert Finley",
   "name": "Got Blues",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 250573,
       "name": "A Good Goodbye",
       "url": "https://open.spotify.com/track/5fPhQkWnYbb0qhzW1Csglw"
@@ -321,6 +321,24 @@
       "duration_ms": 236543,
       "name": "Baby We're Through",
       "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
+    },
+    {
+      "album": {
+        "name": "Backbone Slip",
+        "url": "https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "Backbone Slip",
+      "url": "https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif"
     },
     {
       "album": {
@@ -715,6 +733,24 @@
       "duration_ms": 208970,
       "name": "Book of My Blues",
       "url": "https://open.spotify.com/track/5K2s01sTtbulyPO92xh0O7"
+    },
+    {
+      "album": {
+        "name": "Brand New Bone",
+        "url": "https://open.spotify.com/album/6ufWHuaTQfwuR8r5eX8kTE"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198601,
+      "name": "Brand New Bone",
+      "url": "https://open.spotify.com/track/3xFZLwKxEBFAssWUKcvju9"
     },
     {
       "album": {
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 224544,
       "name": "Don't Tell Me I Can't",
       "url": "https://open.spotify.com/track/2Uf6fJtrU9hwVaNhEIaOMf"
@@ -1419,6 +1455,24 @@
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
+    },
+    {
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206282,
+      "name": "Emmylou",
+      "url": "https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE"
     },
     {
       "album": {
@@ -2019,6 +2073,24 @@
       "duration_ms": 230459,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
+    },
+    {
+      "album": {
+        "name": "Heavy Soul",
+        "url": "https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308573,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ"
     },
     {
       "album": {
@@ -3213,7 +3285,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193851,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/3VYsTcWT8Fpvk7buYRIOyK"
@@ -6017,7 +6089,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 227539,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6"

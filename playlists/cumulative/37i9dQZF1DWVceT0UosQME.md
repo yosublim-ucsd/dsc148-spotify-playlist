@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-518 songs - 19 hr 49 min
+519 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 | 2024-02-09 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2024-01-05 |  |
 | [Friendly](https://open.spotify.com/track/4X40ngLEFkHOJ8FZyFnYCB) | [Cargo Ship](https://open.spotify.com/artist/1WrXHKCzXwcYewHIHKKn9e) | [Friendly](https://open.spotify.com/album/3zv6QMU7sUtIFtqTo2kZJU) | 1:36 | 2024-01-05 |  |
-| [Frog\-School Beat](https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Frog\-School Beat](https://open.spotify.com/album/6mun3bQHHwNajiuse9fcqi) | 1:57 | 2024-01-05 |  |
+| [Frog\-School Beat](https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Frog\-School Beat](https://open.spotify.com/album/6mun3bQHHwNajiuse9fcqi) | 1:57 | 2024-01-05 | 2024-02-18 |
 | [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2024-01-05 |  |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2024-01-05 |  |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2024-01-05 |  |
@@ -446,6 +446,7 @@
 | [Sugar Kane](https://open.spotify.com/track/5eaN2h2Fzziw7l6XlnHcGb) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Sugar Kane](https://open.spotify.com/album/4Hhs2fheLvSYR9Ci4cRuOl) | 2:25 | 2024-01-05 |  |
 | [Summer Fling](https://open.spotify.com/track/025fnb5QpOzoJEIdUJhCIx) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Summer Fling](https://open.spotify.com/album/1Qr4i28xsPR7XtTHYTbMBH) | 2:08 | 2024-01-05 |  |
 | [Sun Course](https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Sun Course](https://open.spotify.com/album/64KBolf3eGaOVnzA0tv4TJ) | 1:52 | 2024-01-05 |  |
+| [Sunday \(Nichiyoubi\)](https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Sunday \(Nichiyoubi\)](https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff) | 2:24 | 2024-02-09 |  |
 | [Sunflower](https://open.spotify.com/track/4ng2LSEKmQ1s1jL3FGmI2j) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Sunflower](https://open.spotify.com/album/4Sr7kNZLsdF59C13I83lft) | 2:22 | 2024-01-05 |  |
 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 | 2024-01-05 |  |
 | [sunset](https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sunset](https://open.spotify.com/album/0wCBbw4ksyMQ5TwzfmY85u) | 2:44 | 2024-01-05 |  |

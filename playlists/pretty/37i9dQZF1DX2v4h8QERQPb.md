@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,935 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,103 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 8 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
 | 9 | [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 |
 | 10 | [BAJO PRESIÓN](https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [BAJO PRESIÓN](https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v) | 2:10 |
-| 11 | [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:18 |
+| 11 | [Viernes 16 B](https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Galaxy Supreme](https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB) | [Viernes 16 B](https://open.spotify.com/album/1ceQaYjCv4NlKs4fqpiapt) | 2:25 |
 | 12 | [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 |
 | 13 | [Sin Drama](https://open.spotify.com/track/12GYDIfcTO5fEbWuU9kgCZ) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 2:51 |
 | 14 | [Locura y Pasión](https://open.spotify.com/track/0q4SC66JHhp7fOAjMKJFle) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Locura y Pasión](https://open.spotify.com/album/2XkJ6nOendZfvQx7azNEmW) | 2:01 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 84 | [VIAIPI](https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68) | 2:26 |
 | 85 | [Fruto Rojo](https://open.spotify.com/track/62UrQDHFgz4FXRtVzNAyp0) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:09 |
 | 86 | [Cuando Entramos en Accion](https://open.spotify.com/track/0vpD5g0XkGr2sVtEdiWv7S) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Cuando Entramos en Acción](https://open.spotify.com/album/75ook1RNQe3jC7Xq03GjdX) | 3:02 |
-| 87 | [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 |
+| 87 | [Hit o Nada](https://open.spotify.com/track/0RhHMAEz7deE5XWchekeF7) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/4naMd25cltzLfoLeoCjKLY) | 4:53 |
 | 88 | [333](https://open.spotify.com/track/7uRjkDEmtb4CngdV8GoW4d) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/36IBUMoqZrk1yx1p6OML8B) | 3:49 |
 | 89 | [Sig Sauer](https://open.spotify.com/track/4TdIsBQX8u8M1IpZNV5YZ6) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Sig Sauer](https://open.spotify.com/album/1nS1ZFWw5nNHo7j51XL7pB) | 3:12 |
 | 90 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 2:16 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 98 | [Kamikaze](https://open.spotify.com/track/6gcsSl6J89cJhkuHWJV9T8) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Kamikaze](https://open.spotify.com/album/2AabrO6ZYxTTOamm1mwPoQ) | 2:36 |
 | 99 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 |
 
-Snapshot ID: `MCwwNmRjZDc0MmM3ZDVmNmFiNzA5M2ZkN2ZjNzBlNGUxODcwNTE0NWQ3`
+Snapshot ID: `MCw0OTI2NmZhMTE2ZmEwMTE0ZWUwN2ZmNjE5MDJiMjc4OWNkNGIwMjRj`

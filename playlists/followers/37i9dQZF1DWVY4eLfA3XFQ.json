@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 608011,
+  "2024-02-18": 608111,
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Cloonee",
+  "description": "Tech house technicians, featuring James Hype and Tita Lau <3",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191250,
       "name": "Bad Bassline",
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
@@ -3201,7 +3201,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 204875,
       "name": "Break Me",
       "url": "https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4"
@@ -4505,7 +4505,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 217570,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4"
@@ -6277,7 +6277,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 171968,
       "name": "Dive In (feat. Notelle)",
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
@@ -7213,7 +7213,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 189374,
       "name": "Drug Loop",
       "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
@@ -7359,7 +7359,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 198469,
       "name": "Drums (Feat. Kim Petras) - Wh0 Remix",
       "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
@@ -7893,6 +7893,28 @@
       "duration_ms": 370946,
       "name": "Essa Mina",
       "url": "https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL"
+    },
+    {
+      "album": {
+        "name": "Esta Pegao",
+        "url": "https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
     },
     {
       "album": {
@@ -10112,6 +10134,28 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/5pZSpQ8xYFlF66qrvuyhfd"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX"
+    },
+    {
+      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
       },
@@ -11169,7 +11213,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 217500,
       "name": "Hip Hop - Radio Edit",
       "url": "https://open.spotify.com/track/3Cik8tw5FI1DvsxLm2U51k"
@@ -11858,6 +11902,28 @@
     },
     {
       "album": {
+        "name": "HYPNOTIC DATA 2.0",
+        "url": "https://open.spotify.com/album/0FcmlZCpJVAYjPvngD36mN"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "HYPNOTIC DATA 2.0",
+      "url": "https://open.spotify.com/track/2s6buObPT1xq2YezWxGupD"
+    },
+    {
+      "album": {
         "name": "H\u00e1blame",
         "url": "https://open.spotify.com/album/5ofQwqKX6QCaESLffYW7FT"
       },
@@ -12135,7 +12201,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 185615,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/5mLjx2b0uwuA75KqWBey5N"
@@ -13166,6 +13232,28 @@
     },
     {
       "album": {
+        "name": "Jamming (FISHER Rework)",
+        "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201928,
+      "name": "Jamming - FISHER Rework",
+      "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
+    },
+    {
+      "album": {
         "name": "Jugglin",
         "url": "https://open.spotify.com/album/7m6T1P3b2w6a9SyDgWuDA5"
       },
@@ -13319,6 +13407,24 @@
       "duration_ms": 142790,
       "name": "Kanpai",
       "url": "https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy"
+    },
+    {
+      "album": {
+        "name": "Karma EP",
+        "url": "https://open.spotify.com/album/7b7XaEhUvLi1MeQ4nJe7F5"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5OErHyr8q2oIDe5qyHL8IO"
     },
     {
       "album": {
@@ -17785,7 +17891,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176692,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
@@ -18298,6 +18404,32 @@
     },
     {
       "album": {
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
+    },
+    {
+      "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st"
       },
@@ -18529,6 +18661,28 @@
       "duration_ms": 177081,
       "name": "Not About You",
       "url": "https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR"
+    },
+    {
+      "album": {
+        "name": "Not Going Back",
+        "url": "https://open.spotify.com/album/5HZYrVKS4zRcsdpxw7h1K0"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "NOVODOR",
+          "url": "https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Not Going Back",
+      "url": "https://open.spotify.com/track/7zMw9eXDYueezfOxcX79D2"
     },
     {
       "album": {
@@ -19705,7 +19859,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
@@ -23748,6 +23902,28 @@
     },
     {
       "album": {
+        "name": "Sneaky Link (feat. Barney Bones)",
+        "url": "https://open.spotify.com/album/3MkfK7Sq6nDfiJdaOYphsg"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164115,
+      "name": "Sneaky Link (feat. Barney Bones)",
+      "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
+    },
+    {
+      "album": {
         "name": "So Fucking High",
         "url": "https://open.spotify.com/album/5LUohHivIbaFiqMkbeYWB0"
       },
@@ -27670,6 +27846,28 @@
     },
     {
       "album": {
+        "name": "Tu Tu",
+        "url": "https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "Tu Tu",
+      "url": "https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8"
+    },
+    {
+      "album": {
         "name": "Tuck & Duck",
         "url": "https://open.spotify.com/album/74mMIbgBtClSzUkt8HxRWc"
       },
@@ -28396,6 +28594,28 @@
     },
     {
       "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
       },
@@ -29025,10 +29245,40 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "album": {
+        "name": "Weak (Marco Lys Remix)",
+        "url": "https://open.spotify.com/album/2Fv2EOiuICLlDDjpzvxM4n"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Weak - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
     },
     {
       "album": {

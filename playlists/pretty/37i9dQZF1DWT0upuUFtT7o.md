@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,608 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,689 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Free](https://open.spotify.com/track/6wV8g1K2bTaGIaX62gUUsd) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Free](https://open.spotify.com/album/1fUwGoojsGCHhqBlYBQ8dy) | 3:34 |
 | 100 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
 
-Snapshot ID: `MCw5NDBhOTIzMGNiYTJjZTI1OTgyOTkxNjhhZDAxNDQ4ZTRmM2I0Mjcz`
+Snapshot ID: `MCw4NGIwODVlMGRjNGIwZWRhYWI2NTA3NTNjNTE1YmJmMTY2ZWEzNDNj`

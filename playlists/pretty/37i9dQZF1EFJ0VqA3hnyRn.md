@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 246 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 246 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 92 | [Jump](https://open.spotify.com/track/7yEM9hYRsw9R3pJB5W0gxb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P) | [Jump](https://open.spotify.com/album/1y8yeYpcaqJB0DWN9KWUlb) | 3:34 |
 | 93 | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/track/2AQHxIuLPdPGrvTtgHFASi) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/album/1TZIM1JxgnT70zR84YmM57) | 3:27 |
 | 94 | [Billy Crystal](https://open.spotify.com/track/5kteG7fLexn7VkwfEflFT1) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Rock City](https://open.spotify.com/artist/2aq1Srn4VzSQayH4mnyM6v) | [Trunk Muzik 0\-60](https://open.spotify.com/album/6Vg7HgTCyGdcRikqPGhPl4) | 3:59 |
-| 95 | [Free Free Free](https://open.spotify.com/track/1hvZ3uUcaCZrcZQXWUBRse) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Theron Theron](https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23) | [Free Free Free](https://open.spotify.com/album/2zriqRg67gFAr1HhhgGjmx) | 3:54 |
-| 96 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
+| 95 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
+| 96 | [Free Free Free](https://open.spotify.com/track/1hvZ3uUcaCZrcZQXWUBRse) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Theron Theron](https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23) | [Free Free Free](https://open.spotify.com/album/2zriqRg67gFAr1HhhgGjmx) | 3:54 |
 | 97 | [Shimmy \(with Doja Cat\)](https://open.spotify.com/track/2z4eJOcmzeopzffNpor4vt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Funeral \(Deluxe\)](https://open.spotify.com/album/49zB39sak50ghwZMwHQqQ0) | 2:48 |
 | 98 | [Hello Stranger](https://open.spotify.com/track/3LjS1vGAprMNthdyue5XZD) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:48 |
 | 99 | [Love Me Badder](https://open.spotify.com/track/3RtuzesB8hFETgOwj8ojzP) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:54 |
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 217 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 218 | [Passenger](https://open.spotify.com/track/5zgyW1wthiNQfrfLeEoxko) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:36 |
 | 219 | [My Bih](https://open.spotify.com/track/0qGMWc9QuQ3KTfzqtbvvfW) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Back Flossin](https://open.spotify.com/album/3vmo3yZ1f2Rj6lK6lHTECy) | 3:11 |
-| 220 | [Help Me](https://open.spotify.com/track/0Bbqzj2W6ZUa5jsDj8E9Vv) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Sellout](https://open.spotify.com/album/6IIf2u92YUo0n67nh8zdU8) | 4:37 |
-| 221 | [Winning](https://open.spotify.com/track/3EdrRiufsqlZbQZTj6F82F) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:30 |
+| 220 | [Winning](https://open.spotify.com/track/3EdrRiufsqlZbQZTj6F82F) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:30 |
+| 221 | [Help Me](https://open.spotify.com/track/0Bbqzj2W6ZUa5jsDj8E9Vv) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Sellout](https://open.spotify.com/album/6IIf2u92YUo0n67nh8zdU8) | 4:37 |
 | 222 | [Love Shop](https://open.spotify.com/track/4LVtZf0n6YPL62AbeBFvaH) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:22 |
 | 223 | [I Love the Islands](https://open.spotify.com/track/4bf60q6ihExnmiYP7v23tP) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [Savage Island](https://open.spotify.com/album/0CQIoZZVBqdQMCE5gMESzw) | 3:44 |
 | 224 | [Fling It Back \- Edited Version](https://open.spotify.com/track/063o5W4Y3ytyVvlKKpBaOt) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:07 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 245 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
 | 246 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg0Njg5NDAsMDAwMDAwMDBmMTlhMmRlZGI1ZmYzOTg0ZjRhM2Y3Njc5YTg1M2MwYg==`
+Snapshot ID: `Mjg0NzAzODAsMDAwMDAwMDBlOTc0ZGFhNGZlMjUwYjdiNzljOGFhN2QxMjA2Y2Q3ZA==`

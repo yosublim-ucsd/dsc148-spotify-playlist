@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 1688886,
+  "2024-02-18": 1688923,
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Del Water Gap & Holly Humberstone",
+  "description": "New and approved indie pop. Cover: Wallows",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 272695,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3znKpMRCzOloTYv0uGAs22"
@@ -9366,6 +9366,42 @@
     },
     {
       "album": {
+        "name": "Eyes on my baby",
+        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132737,
+      "name": "Eyes on my baby",
+      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202033,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D"
+    },
+    {
+      "album": {
         "name": "f**k it, i'm the man",
         "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
@@ -11085,7 +11121,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 173104,
       "name": "Give Mama A Hug",
       "url": "https://open.spotify.com/track/7IT55sjogSasYp8PVcS4n3"
@@ -17471,6 +17507,24 @@
     {
       "album": {
         "name": "Losing You",
+        "url": "https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162236,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D"
+    },
+    {
+      "album": {
+        "name": "Losing You",
         "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
       },
       "artists": [
@@ -22407,7 +22461,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 159032,
       "name": "PICK A FACE FOR IT",
       "url": "https://open.spotify.com/track/5NjpfKlu7R9vFlXg4UdUcG"
@@ -22779,7 +22833,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 149485,
       "name": "Please Love Me",
       "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
@@ -31327,7 +31381,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 149830,
       "name": "Whatever Comes My Way",
       "url": "https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH"
@@ -31931,6 +31985,24 @@
       "duration_ms": 208586,
       "name": "Woah Man",
       "url": "https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg"
+    },
+    {
+      "album": {
+        "name": "Wong Kar-wai",
+        "url": "https://open.spotify.com/album/026mBRKJ17WAfd1ZMTrPP7"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197649,
+      "name": "Wong Kar-wai",
+      "url": "https://open.spotify.com/track/5aHEeRwDUnNzeXirovWa2l"
     },
     {
       "album": {
@@ -32603,6 +32675,24 @@
       "duration_ms": 171948,
       "name": "Young Mistakes",
       "url": "https://open.spotify.com/track/40M9EC8kBbzOe9jIDwJ1dK"
+    },
+    {
+      "album": {
+        "name": "Your Apartment",
+        "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198707,
+      "name": "Your Apartment",
+      "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:0n4Fao9kbjgM76RmVlfSwr">YG Marley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,348 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,406 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 79 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 |
 | 80 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 
-Snapshot ID: `MCw1MzZlZmFlYjAwNzFhNmRhMzNhMzFmODNmNmM4OTFkMTRiYjI4YWE2`
+Snapshot ID: `MCw5MGJkMjBmOTQ2MzE0NGI3YWI5NjdmZTUwMmU1YWUxYmJkZDM3YzQ3`

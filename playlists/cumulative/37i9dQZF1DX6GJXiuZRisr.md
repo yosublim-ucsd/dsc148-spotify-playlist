@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-449 songs - 1 day 8 hr 10 min
+450 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [No Signal](https://open.spotify.com/track/6lVojxTCS4kOfiS11A69zZ) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [No Signal](https://open.spotify.com/album/4RnyV2lJxQO4iRwjgTjoWv) | 6:13 | 2021-05-07 | 2022-04-20 |
 | [No Sleep \- Radio Edit](https://open.spotify.com/track/4N0RKL2Yeoet1JgAFVbFKf) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Death by Techno](https://open.spotify.com/album/0fTsFYETU4HyvjsBLRQhhl) | 4:03 | 2021-05-07 | 2022-04-19 |
 | [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Not Over Yet \(feat\. Grace Grundy\)](https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6) | 2:41 | 2023-05-05 | 2024-01-24 |
+| [Nothing Else Matters](https://open.spotify.com/track/2J2CcT3UwIq79wQvCCGtqR) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [HEREON](https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr) | [HEREON](https://open.spotify.com/album/5jSrvGNnDa6PDi7vlRFMLV) | 3:31 | 2024-02-16 |  |
 | [Numb \- Joris Voorn Remix, Edit](https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Numb \(Joris Voorn Remix\)](https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF) | 3:57 | 2021-05-07 |  |
 | [Oblivion](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Oblivion](https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza) | 3:14 | 2023-03-31 |  |
 | [Oblivion](https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Thermal / Oblivion](https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl) | 3:49 | 2021-05-07 | 2023-10-04 |
@@ -448,7 +449,7 @@
 | [Womaa](https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9) | [Womaa](https://open.spotify.com/album/63709yULZc1XOJXhPeudYZ) | 6:51 | 2021-05-07 | 2022-07-29 |
 | [Worlds Apart](https://open.spotify.com/track/6TZvMl21P031RvQhFkEyUq) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Worlds Apart](https://open.spotify.com/album/3Z28rtxKPfOrkbspjCg7IN) | 3:39 | 2023-12-08 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-09-12 |
-| [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 |  |
+| [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 | 2024-02-18 |
 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 | 2021-12-10 | 2022-07-29 |
 | [Your Mind \- Epic Edit](https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind \(Epic Edit\)](https://open.spotify.com/album/1L8j04mTaJK89xPKGeaQwR) | 3:36 | 2022-09-02 | 2022-11-13 |
 | [Your Mind \- Epic Edit](https://open.spotify.com/track/58MI1jBCURLQ9BIUlOsUSP) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind](https://open.spotify.com/album/1Vm1f8irxwi2mkr3CZlFm4) | 3:36 | 2022-09-02 | 2022-09-15 |

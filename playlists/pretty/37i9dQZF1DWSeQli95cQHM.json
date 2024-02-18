@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDJhMDNiMjM3N2QzOWJmMjM4ODZiYmJmODA2NTZlNGRmOWVjOGFl",
+  "snapshot_id": "MCw3ZDcxNTU2YmE3ZjNiMGQ3YjllMTIyMGE3ZDE5ZWI5YWI3M2YwNmYx",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 344741,
-      "name": "Charme",
-      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "GUETO CLUB",
         "url": "https://open.spotify.com/album/2wRH4MifoleaIAhevuOn0O"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 235068,
       "name": "VEM PRA ZONA LESTE",
       "url": "https://open.spotify.com/track/24orcxfAdgvrdnyLOnvuFQ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 344741,
+      "name": "Charme",
+      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Cybass",
-          "url": "https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "mate & morra",
         "url": "https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 216237,
       "name": "mate & morra",
       "url": "https://open.spotify.com/track/6cVw5WnMUCIhFawrGlDo8Z"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Cybass",
+          "url": "https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -391,38 +391,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Movimento Paralelo, Vol.1",
-        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
-      },
-      "artists": [
-        {
-          "name": "Guillerrrmo",
-          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
-        }
-      ],
-      "duration_ms": 248062,
-      "name": "Sarrafando Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "ALGO",
         "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
       },
@@ -443,18 +411,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Pared\u00e3o",
-        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
+        "name": "Movimento Paralelo, Vol.1",
+        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
       "artists": [
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "Guillerrrmo",
+          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
         }
       ],
-      "duration_ms": 258005,
-      "name": "De AK em Cima da CB1000",
-      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
+      "duration_ms": 248062,
+      "name": "Sarrafando Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -471,6 +439,22 @@
       "duration_ms": 369924,
       "name": "Keyboard Cats",
       "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Orange Sunlight",
+      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Pared\u00e3o",
+        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 258005,
+      "name": "De AK em Cima da CB1000",
+      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Ideologia Chinesa",
         "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
       },
@@ -531,6 +531,30 @@
       "duration_ms": 323629,
       "name": "House Aprovado Pelo Governo",
       "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Ch\u00e1 de trombeta",
+        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
+      },
+      "artists": [
+        {
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        },
+        {
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
+        {
+          "name": "Bica",
+          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Ch\u00e1 de trombeta",
+      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -591,6 +615,34 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Proibidao EP",
+        "url": "https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        },
+        {
+          "name": "Rosco Sledge",
+          "url": "https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5"
+        },
+        {
+          "name": "Selvagem",
+          "url": "https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt"
+        },
+        {
+          "name": "Trepanado",
+          "url": "https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ"
+        }
+      ],
+      "duration_ms": 398048,
+      "name": "Proibidao - Selvagem / Trepanado Remix",
+      "url": "https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Laiarai\u00e1 (Remixes)",
         "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
       },
@@ -647,34 +699,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Proibidao EP",
-        "url": "https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        },
-        {
-          "name": "Rosco Sledge",
-          "url": "https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5"
-        },
-        {
-          "name": "Selvagem",
-          "url": "https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt"
-        },
-        {
-          "name": "Trepanado",
-          "url": "https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ"
-        }
-      ],
-      "duration_ms": 398048,
-      "name": "Proibidao - Selvagem / Trepanado Remix",
-      "url": "https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Kin Sharuba",
         "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
@@ -687,46 +711,6 @@
       "duration_ms": 469695,
       "name": "Kin Sharuba",
       "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Ch\u00e1 de trombeta",
-        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        },
-        {
-          "name": "Fel C",
-          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
-        },
-        {
-          "name": "Bica",
-          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Ch\u00e1 de trombeta",
-      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 409258,
       "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
       "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+      },
+      "artists": [
+        {
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        }
+      ],
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -799,22 +815,6 @@
       "duration_ms": 337643,
       "name": "Sem Sono",
       "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
     },
     {
       "added_at": "2023-11-10 03:03:00",

@@ -144,7 +144,7 @@
     {
       "album": {
         "name": "Andhami Swapnam",
-        "url": "https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z"
+        "url": "https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo"
       },
       "artists": [
         {
@@ -159,6 +159,28 @@
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266403,
+      "name": "Andhami Swapnam",
+      "url": "https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm"
+    },
+    {
+      "album": {
+        "name": "Andhami Swapnam",
+        "url": "https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z"
+      },
+      "artists": [
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        },
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-18",
       "duration_ms": 266403,
       "name": "Andhami Swapnam",
       "url": "https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX"
@@ -2274,7 +2296,7 @@
     {
       "album": {
         "name": "Naa Kallalona",
-        "url": "https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly"
+        "url": "https://open.spotify.com/album/4C6JnvQbuHnDXrwbYs2TpM"
       },
       "artists": [
         {
@@ -2289,6 +2311,28 @@
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226370,
+      "name": "Naa Kallalona",
+      "url": "https://open.spotify.com/track/2vPgqs4VLTcdQnbkNC4IOP"
+    },
+    {
+      "album": {
+        "name": "Naa Kallalona",
+        "url": "https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly"
+      },
+      "artists": [
+        {
+          "name": "Akshi",
+          "url": "https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J"
+        },
+        {
+          "name": "Trigger C",
+          "url": "https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-18",
       "duration_ms": 226370,
       "name": "Naa Kallalona",
       "url": "https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR"

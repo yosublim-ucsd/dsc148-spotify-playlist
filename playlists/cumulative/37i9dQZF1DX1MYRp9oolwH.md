@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-193 songs - 12 hr 36 min
+194 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Nee Kanulalo \(From "Asuragana Rudra"\)](https://open.spotify.com/track/3jUp9JvUCZKmaUNwChcxWC) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Siddharth Menon](https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN) | [Nee Kanulalo \(From "Asuragana Rudra"\)](https://open.spotify.com/album/0lkqRIZH4mHJFRq1Hwrmkr) | 4:17 | 2023-07-14 | 2023-07-16 |
 | [Nee Kanulalo \(From "Asuragana Rudra"\)](https://open.spotify.com/track/3K0XeAkD6chdjEJ51Ap83x) | [Siddharth Menon](https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN), [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Nikesh Kumar Dasagrandhi](https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd) | [Nee Kanulalo \(From "Asuragana Rudra"\)](https://open.spotify.com/album/0VmrK1eNQwO7hHzyZL6wWy) | 4:17 | 2023-07-14 | 2023-07-27 |
 | [Neekemo Andamekkuva](https://open.spotify.com/track/4qPwLohB0tei9j5UBz66UR) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Waltair Veerayya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KKqrNC6yWb405hpsrcxMa) | 3:32 | 2023-01-11 | 2023-10-05 |
-| [Neelaa Nannilaa](https://open.spotify.com/track/0mLyZNyrMZBn2JPB04RqIi) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/5nGLa40AxpJ13jDVMD7RUT) | 3:48 | 2023-06-02 |  |
+| [Neelaa Nannilaa](https://open.spotify.com/track/0mLyZNyrMZBn2JPB04RqIi) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/5nGLa40AxpJ13jDVMD7RUT) | 3:48 | 2023-06-02 | 2024-02-18 |
+| [Neelaa Nannilaa](https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q) | 3:48 | 2023-06-02 |  |
 | [Neetho Ee Gadichina Kaalam](https://open.spotify.com/track/220ENw46j8SPA7z5gNxkjA) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/6sozvXmQZrU4CR2OLL87PT) | 3:51 | 2023-03-13 | 2023-09-22 |
 | [Neethoney Neethoney \(From "Ahimsa"\)](https://open.spotify.com/track/5iojVsuHvElKZTqLsAGclA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Chandrabose](https://open.spotify.com/artist/63aZvMaOCQG3xAElp75vzP) | [Neethoney Neethoney \(From "Ahimsa"\)](https://open.spotify.com/album/1WAIazUjXJHmWOwmMwdsod) | 4:43 | 2022-09-19 | 2023-04-25 |
 | [Neevuntey Chaalu](https://open.spotify.com/track/4Yi86fQx0GHStCZZNIQAY8) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Michael \(Telugu\)](https://open.spotify.com/album/72VOf6gnaZs5Hj4Flex9qS) | 3:48 | 2023-02-04 | 2023-07-11 |

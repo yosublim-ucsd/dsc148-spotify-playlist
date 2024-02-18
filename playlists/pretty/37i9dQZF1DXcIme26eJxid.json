@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 101292,
+  "num_followers": 101336,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWE2ZmNiNGY0MjlkYTlkMzc5Y2JkNmI4MjI3YjI4N2NlZDYyYmU5",
+  "snapshot_id": "MCwwOTBkZDExYTRjMGU2ZTM5OTBlOWVlZmMyMjJiNjc5ZWNjMDM2YzQw",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -439,22 +439,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
-        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
-      },
-      "artists": [
-        {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
-        }
-      ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "So (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 638227,
       "name": "In Your Eyes - Live",
       "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
     },
     {
       "added_at": "2019-06-28 16:54:51",

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 9104,
+  "2024-02-18": 9109,
   "date_first_scraped": "2023-03-25",
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
   "name": "Ruidosas",
@@ -329,6 +329,24 @@
       "duration_ms": 295745,
       "name": "Bellaco",
       "url": "https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X"
+    },
+    {
+      "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/2rSmXyj4wL0kslOzgtrNS0"
+      },
+      "artists": [
+        {
+          "name": "Stephyloren",
+          "url": "https://open.spotify.com/artist/2696BpCe9RRd0dg6YOvtje"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212970,
+      "name": "Besos Salvajes",
+      "url": "https://open.spotify.com/track/4Jld5OLdaOqzMoj1hXUHBA"
     },
     {
       "album": {
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 266874,
       "name": "Tetelpan",
       "url": "https://open.spotify.com/track/4UJlDwHqpBrrLlIMNBnhMy"

@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 670041,
+  "num_followers": 670148,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2NhZjIyNzY5OTg4ZjFlYjllNTU1YjgyN2YzY2NjZWRmYzc5NDM3",
+  "snapshot_id": "MCw5MTQxYjQwYjg1YWIxNjA2MDJjZjA2YWYyNGY1YjRjOTIwMTA1NDMz",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
+      },
+      "artists": [
+        {
+          "name": "MEG MYERS",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 263716,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 233362,
       "name": "(I Can\u2019t Get No) Satisfaction",
       "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
-      },
-      "artists": [
-        {
-          "name": "MEG MYERS",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 263716,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Karma Police (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/7q2xzrYWXiL14x4YNIMUiq"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 277388,
-      "name": "Karma Police - triple j Like A Version",
-      "url": "https://open.spotify.com/track/5GHgwDW4lz4dnqDpamq1bd"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Karma Police (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/7q2xzrYWXiL14x4YNIMUiq"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 277388,
+      "name": "Karma Police - triple j Like A Version",
+      "url": "https://open.spotify.com/track/5GHgwDW4lz4dnqDpamq1bd"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0aJexlAjIMTzRARD3KifWc"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43YC4iYmSsYueViJR4dBGA"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "eMOTIVe",
-        "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Burn the Ships",
         "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 265476,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "eMOTIVe",
+        "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 206133,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Ballroom Blitz",
+        "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Ballroom Blitz",
-        "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
       "artists": [
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 249853,
-      "name": "Ballroom Blitz",
-      "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2403,38 +2403,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI"
-      },
-      "artists": [
-        {
-          "name": "Smith & Myers",
-          "url": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "ROCKIN' IN THE FREE WORLD",
-      "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -2467,6 +2435,38 @@
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI"
+      },
+      "artists": [
+        {
+          "name": "Smith & Myers",
+          "url": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "ROCKIN' IN THE FREE WORLD",
+      "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2024-02-12 05:08:07",

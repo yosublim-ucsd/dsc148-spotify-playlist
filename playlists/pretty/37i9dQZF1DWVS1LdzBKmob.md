@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,599 likes - 102 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,771 likes - 102 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 18 | [Ahimsa](https://open.spotify.com/track/3SLS0ollgEPF6LXH9E7gYk) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:41 |
 | 19 | [Bowls of Peace](https://open.spotify.com/track/1ZnT8c13FdHVHQwVpwJAX7) | [Sophisto](https://open.spotify.com/artist/64fwopk0HjUIjcj3QS58vP) | [Bowls of Peace](https://open.spotify.com/album/5gHrrOLNTjGgqZG6xMkRsR) | 2:24 |
 | 20 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 |
-| 21 | [La mer](https://open.spotify.com/track/4wO4xOUrwsJ0qLyuBs9Bj1) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl](https://open.spotify.com/album/0QagHXBlorv3P8jAGBNQiu) | 5:58 |
+| 21 | [La mer](https://open.spotify.com/track/4wO4xOUrwsJ0qLyuBs9Bj1) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl](https://open.spotify.com/album/0QagHXBlorv3P8jAGBNQiu) | 5:58 |
 | 22 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 |
 | 23 | [Garden Room](https://open.spotify.com/track/72toF6veRXgGz4xSoei3pD) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Wave Baths](https://open.spotify.com/album/7vW564n7hOhyiwKuevOrU8) | 3:34 |
 | 24 | [Connect with Your Soul](https://open.spotify.com/track/4bV2KhDgzfehStxbfJV9mJ) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 5:32 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 44 | [Optimistic Outlook \(Sound Bath\)](https://open.spotify.com/track/0UK7EvfHhwPH5nboxoH9BO) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 3:04 |
 | 45 | [Delta](https://open.spotify.com/track/60F0k85iy85pjlPEhj5AQN) | [Noah Proctor Meditations](https://open.spotify.com/artist/6ttLZmuxBwwIq7Nu7iJbNE) | [Sound Bath](https://open.spotify.com/album/3H5ridvpAuOeAfoHpu8Zpr) | 3:47 |
 | 46 | [Light Mind](https://open.spotify.com/track/2O10XkNg3GV98VMqe3EbCb) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 3:08 |
-| 47 | [Clean](https://open.spotify.com/track/3Hjp6zXNKL9DET8AVnAhvw) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 2:42 |
+| 47 | [Clean](https://open.spotify.com/track/3Hjp6zXNKL9DET8AVnAhvw) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 2:42 |
 | 48 | [Dreams Come True](https://open.spotify.com/track/1UpKTNPYvnvB5wIgYqcM7P) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Zen Meditation](https://open.spotify.com/album/1GQ8y81r8sMaxd91Z5fGL9) | 2:04 |
 | 49 | [Kalimba & Bubbles](https://open.spotify.com/track/7HbowHc0rHx93ycFoVTcSU) | [Auditory Illusion](https://open.spotify.com/artist/0PcmyVVqlElhJJmIziMjy5) | [Kalimba & Bubbles](https://open.spotify.com/album/5zbLxw4mvPTQLvEQ1Ccvsz) | 3:41 |
 | 50 | [Bowlsong](https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW) | [Wounderous Flight](https://open.spotify.com/artist/6DIGdnc8rQh4G8ZGrtQzZh) | [Bowlsong](https://open.spotify.com/album/7hKYJG6dQY17H7d3RAJREu) | 2:27 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 65 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 |
 | 66 | [Dish Trio](https://open.spotify.com/track/1nEolovxEnWDhnt29aGh5a) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 4:25 |
 | 67 | [Himalayan healing](https://open.spotify.com/track/1g8PPNc86XXVm7QPpGuU0z) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Himalayan healing](https://open.spotify.com/album/3MD7k7FpUqVcvqGOOO96jW) | 3:03 |
-| 68 | [Deep Ocean](https://open.spotify.com/track/5wy11frXjQ2Pkkz623MCup) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 7:05 |
+| 68 | [Deep Ocean](https://open.spotify.com/track/5wy11frXjQ2Pkkz623MCup) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 7:05 |
 | 69 | [Rainbow Song](https://open.spotify.com/track/2ZgPnavu6o3yajZ9GGruxX) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 2:58 |
 | 70 | [Grounded](https://open.spotify.com/track/5yPHhVvE3HZBMMDqqo3E1X) | [Hester Riley](https://open.spotify.com/artist/5QM8KqvVCuAJ9AM8UzrUtg) | [Healing Soundbath](https://open.spotify.com/album/48UsHG8Mo59XBFOAj5De1r) | 7:39 |
 | 71 | [The Righteous Deities](https://open.spotify.com/track/5dL7gtvT3OkKjW8XDR4jgq) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 6:10 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 82 | [Emotional Work](https://open.spotify.com/track/0VC9OeCCDfGC9WlmU101TH) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Healing Sound Waves for Meditation](https://open.spotify.com/album/5hiIGtbXnYu03Vck0nV7dY) | 2:55 |
 | 83 | [Healing Tibetan Bowls](https://open.spotify.com/track/27R2tfIn7bS4Hvq14AelZI) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:45 |
 | 84 | [Amniotic Voyage](https://open.spotify.com/track/471Gkhb07TPZKRvvbf0xF0) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 4:54 |
-| 85 | [Lono](https://open.spotify.com/track/4hBngGXxfCEWInIcaOHk4Z) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 4:11 |
+| 85 | [Lono](https://open.spotify.com/track/4hBngGXxfCEWInIcaOHk4Z) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 4:11 |
 | 86 | [Mountain Stream \- Thai Gong For Relaxation and Meditation](https://open.spotify.com/track/3RGmAz4Iaecg8oeperzbEU) | [Om \- Tibetan Relaxation](https://open.spotify.com/artist/2Gjwx7RV70vM50XNKBffIp) | [Om: Tibetan Gongs, Bowls, Om Chanting and Music for Deep Meditation](https://open.spotify.com/album/27LzPjGhiPxFSha2xHawFu) | 5:48 |
 | 87 | [Crown Chakra \(Sahasrara\) \- 3 Octaves B](https://open.spotify.com/track/3YrvwusV5IUG6wlIRdlJKe) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 |
 | 88 | [The Blissful Garden](https://open.spotify.com/track/7tTt8An7vnme55KRP7fdAv) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 101 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 |
 | 102 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 |
 
-Snapshot ID: `MCwxNjMyYjcxYmNlZmZjMGVkY2JlYWUxMGU1MmZkNDMwZWJiNmJmYmRj`
+Snapshot ID: `MCw3OTZjNzAxMzhkOWU1ZGRhOGJlY2EyNGM4ZmQ0ZDYwMzhlN2IzZWM0`

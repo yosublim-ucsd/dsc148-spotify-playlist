@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 26 min
+57 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 | 2023-11-10 |  |
 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 | 2023-11-10 |  |
 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 | 2023-11-10 |  |
-| [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 | 2023-11-10 |  |
+| [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 | 2023-11-10 | 2024-02-18 |
+| [Tú Tienes el Son](https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Antes del Alba](https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj) | 3:01 | 2024-02-17 |  |
 | [Un Vato Como Yo](https://open.spotify.com/track/33rsnrH0JDKiKBQ2SUxcmz) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Un Vato Como Yo](https://open.spotify.com/album/58PUsfoBVRGgDyTo4Xympi) | 3:45 | 2023-11-10 |  |
 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 | 2023-11-10 |  |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-11-10 |  |

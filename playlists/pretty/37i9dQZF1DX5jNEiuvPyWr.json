@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Chanceko",
-  "num_followers": 352632,
+  "num_followers": 352637,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGVjNGUwODUxZmUwMmNmOGU0YjNhNmQ2ZDFjNjQyNjg4MjdhYzE4",
+  "snapshot_id": "MCw0YTdlZTUwZDBjNTUxNDZmNTYzOGQ3OTY5YzcxNDVkMWMwNTExNGVk",
   "tracks": [
     {
       "added_at": "2024-02-15 23:01:00",
@@ -236,8 +236,8 @@
       },
       "artists": [
         {
-          "name": "RVZ",
-          "url": "https://open.spotify.com/artist/6QQSZZB94LcSTNd1hrTw5z"
+          "name": "Rvzmo",
+          "url": "https://open.spotify.com/artist/42WT0WwfEpncvhCzSMtFU9"
         }
       ],
       "duration_ms": 115200,
@@ -370,6 +370,10 @@
         {
           "name": "Giacomo",
           "url": "https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv"
+        },
+        {
+          "name": "AAMO",
+          "url": "https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm"
         }
       ],
       "duration_ms": 143297,

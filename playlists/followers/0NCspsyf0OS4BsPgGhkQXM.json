@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 2029649,
+  "2024-02-18": 2029860,
   "date_first_scraped": "2022-01-22",
   "description": "The Official Trap Nation Playlist ",
   "name": "Trap Nation",
@@ -3604,6 +3604,28 @@
     },
     {
       "album": {
+        "name": "Compute",
+        "url": "https://open.spotify.com/album/3f4xGG4tcOW0Xy14lSYdTG"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263610,
+      "name": "Compute",
+      "url": "https://open.spotify.com/track/0Y45CwcVePrBc7Cfj0kz5f"
+    },
+    {
+      "album": {
         "name": "CONFLICT",
         "url": "https://open.spotify.com/album/2dtIwb6Qv3oeuzl04SjiW0"
       },
@@ -5799,7 +5821,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 132682,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
@@ -6559,7 +6581,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 218028,
       "name": "For The Most Part",
       "url": "https://open.spotify.com/track/67VgKO83J9P12AiLW5IjN4"
@@ -8917,7 +8939,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206727,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/4ToogKQq58R9TvO40qRuxi"
@@ -9395,7 +9417,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192004,
       "name": "into my mind",
       "url": "https://open.spotify.com/track/6eVTcRMXYg2Sug6docgeNo"
@@ -11646,6 +11668,28 @@
     },
     {
       "album": {
+        "name": "Quiet in the Backseat",
+        "url": "https://open.spotify.com/album/3YA5f5g1PcuDczlfY9oZJj"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Maybe It's a Ghost",
+      "url": "https://open.spotify.com/track/5Qx3oA5TH3jS8xN3zuJrru"
+    },
+    {
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/5NGF1TNUtmTgydrsYTREGu"
       },
@@ -11757,7 +11801,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 135454,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4T49o23TlFgm1AEEz4uIhM"
@@ -18708,6 +18752,28 @@
     },
     {
       "album": {
+        "name": "Quiet in the Backseat",
+        "url": "https://open.spotify.com/album/3YA5f5g1PcuDczlfY9oZJj"
+      },
+      "artists": [
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315483,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/5bMy00AZuGFqiWqps87HWB"
+    },
+    {
+      "album": {
         "name": "THE HILLS",
         "url": "https://open.spotify.com/album/7dCBJ9mJehkXyFMUIfTOao"
       },
@@ -19511,6 +19577,28 @@
       "duration_ms": 138000,
       "name": "Top Now",
       "url": "https://open.spotify.com/track/74yhIeJp5nF6TSngZBPVhQ"
+    },
+    {
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/67Vv0WIob1W67obkI8P0B9"
+      },
+      "artists": [
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        },
+        {
+          "name": "Lister",
+          "url": "https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153449,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/3OKrYET176YDfFvbEA05hr"
     },
     {
       "album": {

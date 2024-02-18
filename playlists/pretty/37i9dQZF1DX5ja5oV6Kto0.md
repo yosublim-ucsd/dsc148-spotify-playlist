@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Filah Lah Lah
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,247 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,297 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 33 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 | 34 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
 | 35 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
-| 36 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Decster](https://open.spotify.com/artist/05TcgZxV0IVzDs2KpLNif5), [Ari](https://open.spotify.com/artist/6VGzZ2vC7zeR73nkoYvOKf) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
+| 36 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 |
 | 37 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 |
 | 38 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Array.](https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 |
 | 39 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Yesterday](https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Full Full Condition Vol\. 3](https://open.spotify.com/album/36kkJHEPONjWSX6mOYHlRi) | 2:37 |
 | 80 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 |
 
-Snapshot ID: `MCwzMDNmMjcyNDQxMTNlYzcwZjlkZmQ0ZGY5MWQ0YjY0YmEwYmM4MjA5`
+Snapshot ID: `MCw5NzIyZGI1NGUxN2VhNmIyN2NiYTY2MTc3ZWMxMDRjMzM3YWRhMmFj`

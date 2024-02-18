@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 4205,
+  "2024-02-18": 4205,
   "date_first_scraped": "2023-07-04",
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
   "name": "ALL THINGS HOUSE - CURBI PRESENTS",
@@ -449,7 +449,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 190650,
       "name": "Closer",
       "url": "https://open.spotify.com/track/58CTyLzYaWEQXnBbJeALxM"
@@ -847,6 +847,24 @@
       "duration_ms": 169523,
       "name": "Furious (feat. Habstrakt)",
       "url": "https://open.spotify.com/track/1sdgGeVefZ8zkMxCQSEbYQ"
+    },
+    {
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/0Yuh7miwkUdPpcAH03KvbV"
+      },
+      "artists": [
+        {
+          "name": "AANSE",
+          "url": "https://open.spotify.com/artist/6qlH3EfcFpLwAGiQQlAra6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0RNhZ7qXfkzCjxmwDjqP5Q"
     },
     {
       "album": {
@@ -1320,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5c6Murua9v7wCYdw8AYrHg"
+      },
+      "artists": [
+        {
+          "name": "N3dek",
+          "url": "https://open.spotify.com/artist/5K7h4Ik3vKcHxEiVFVTf13"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jIbHF7gHq6N8ymyemruIm"
+    },
+    {
+      "album": {
         "name": "La Revolution",
         "url": "https://open.spotify.com/album/0hYf3YCRmn3EyaUBphvWQv"
       },
@@ -1339,6 +1375,24 @@
       "duration_ms": 190080,
       "name": "La Revolution",
       "url": "https://open.spotify.com/track/356nHbjGvIjIn5JCppGmzW"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4JaEtqJosVVf3IGmH6DXu0"
+      },
+      "artists": [
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141931,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/3zgQ0sXxTWrfmva2XRO6Uy"
     },
     {
       "album": {
@@ -2558,6 +2612,28 @@
     },
     {
       "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+    },
+    {
+      "album": {
         "name": "Telugu Tech",
         "url": "https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav"
       },
@@ -2841,7 +2917,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186666,
       "name": "Uncontrollable",
       "url": "https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn"

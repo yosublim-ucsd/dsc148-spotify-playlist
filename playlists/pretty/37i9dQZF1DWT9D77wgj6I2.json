@@ -1,12 +1,12 @@
 {
   "description": "Un derroche de sensualidad. Prince Royce, Gabito Ballesteros en portada.",
-  "num_followers": 88285,
+  "num_followers": 88323,
   "original_name": "Bachata Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDg0ZTYxZWMyZDBkNzMwMjVjY2ZhMTY5MzA0ODgxNzQwZmZhOGIz",
+  "snapshot_id": "MCxkYzM4ZDgxMTg4NWVhN2FlOTBlNTkyOWFhN2FlZTM1ZDA5NTMyNGU4",
   "tracks": [
     {
       "added_at": "2024-02-13 19:00:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Mi Secreto",
-        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 179834,
-      "name": "Mi Secreto",
-      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2024-02-13 19:00:15",

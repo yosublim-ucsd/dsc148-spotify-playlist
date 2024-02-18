@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1351572,
+  "2024-02-18": 1351712,
   "date_first_scraped": "2020-05-22",
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish",
   "name": "Rap UK",
@@ -14830,6 +14830,28 @@
     },
     {
       "album": {
+        "name": "Feed The Streets",
+        "url": "https://open.spotify.com/album/69hLevhNsDEPB7YtRJKQ1z"
+      },
+      "artists": [
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228764,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1i6g63hF4NTHErvy8Hkd9w"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0mLU1ZjVsFWxdKEmMvC7Oj"
       },
@@ -14845,7 +14867,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 228764,
       "name": "Human",
       "url": "https://open.spotify.com/track/5ttoH1Eah6IHNGlclgCiyU"
@@ -15744,6 +15766,28 @@
     },
     {
       "album": {
+        "name": "Ticket To The Moon",
+        "url": "https://open.spotify.com/album/0l28wIuO28UHBjHH4JSOdk"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Eben-Ezer",
+          "url": "https://open.spotify.com/artist/5BztywuaE9glEItjlAuNfJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148456,
+      "name": "IT'S ONLY YOU",
+      "url": "https://open.spotify.com/track/066JufxuaAPBsT6raHbMEc"
+    },
+    {
+      "album": {
         "name": "IT'S ONLY YOU",
         "url": "https://open.spotify.com/album/62HQu8Qo6VfzQhMyuoRoYd"
       },
@@ -15759,7 +15803,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 148456,
       "name": "IT'S ONLY YOU",
       "url": "https://open.spotify.com/track/2HCVVmUd0OyuC7nHPj0Ee5"
@@ -18315,6 +18359,24 @@
       "duration_ms": 167172,
       "name": "Louis Vuitton/Lost Hope",
       "url": "https://open.spotify.com/track/2UVVeXn59BIiBtgnYeygG7"
+    },
+    {
+      "album": {
+        "name": "Love Me How",
+        "url": "https://open.spotify.com/album/1vo86IKNOT899kXoqcfhlz"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150386,
+      "name": "Love Me How",
+      "url": "https://open.spotify.com/track/3mi5y0lctEWa5BlpweVsYD"
     },
     {
       "album": {
@@ -27893,7 +27955,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 124443,
       "name": "Sinaloa Cartel",
       "url": "https://open.spotify.com/track/4ghWlp4c86QF3ANBtPYZO7"

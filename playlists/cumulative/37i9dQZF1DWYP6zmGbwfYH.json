@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "album": {
         "name": "Pura Dinamita Duranguense",
         "url": "https://open.spotify.com/album/2B66FpUbm20V2w7HuY07mk"
       },
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 210000,
       "name": "\u00bfQu\u00e9 Fuimos?",
       "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"

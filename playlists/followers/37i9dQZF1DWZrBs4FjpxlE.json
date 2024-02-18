@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 72466,
+  "2024-02-18": 72630,
   "date_first_scraped": "2023-08-08",
   "description": "we got you bro. Cover: Post Malone",
   "name": "sad boy anthems",
@@ -277,7 +277,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 248431,
       "name": "Empty",
       "url": "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"
@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/5AWBcDTeoE569GmknHWFN9"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185166,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
+    },
+    {
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -912,6 +930,24 @@
     },
     {
       "album": {
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149253,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S"
+    },
+    {
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -1071,7 +1107,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 240013,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > The leaders in the lively Pinoy indie scene\. Cover: Carousel Casualties
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,624 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,643 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 49 | [Kaibigan Lang](https://open.spotify.com/track/1Er4vI9EaYyIJYawP3NIwn) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Kaibigan Lang](https://open.spotify.com/album/1p58vGVNMjmM559sM3qXz1) | 3:04 |
 | 50 | [TT \(terrible things\)](https://open.spotify.com/track/5fMToMVlBhYxO9vYeHgrkD) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [oshin](https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB) | 2:49 |
 
-Snapshot ID: `MCw3MGIyNWUyMDAyMWEzMjYxMzhmNzg0ODliZDkxMjVhOTgwMjZhYWVl`
+Snapshot ID: `MCw5NGM2NzZhMDU4MzBjMzUzN2VkNGI3NTM4YWFlMjkyOWRlNTkzMzcw`

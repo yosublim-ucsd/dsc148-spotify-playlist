@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1007,
+  "2024-02-18": 1010,
   "date_first_scraped": "2022-10-01",
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
   "name": "Kidandali Parte",
@@ -167,6 +167,24 @@
       "duration_ms": 139188,
       "name": "Basheshe",
       "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
+    },
+    {
+      "album": {
+        "name": "Be humble",
+        "url": "https://open.spotify.com/album/653kI0gglML45glmvgeBhh"
+      },
+      "artists": [
+        {
+          "name": "Ratigan Era",
+          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154514,
+      "name": "Be humble",
+      "url": "https://open.spotify.com/track/1DeRLkQZCioGKOYXlzOgZV"
     },
     {
       "album": {
@@ -423,6 +441,28 @@
       "duration_ms": 176400,
       "name": "Bubble Up",
       "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
+    },
+    {
+      "album": {
+        "name": "Bway",
+        "url": "https://open.spotify.com/album/2oyPRzbOFDVKeyfab6xyhL"
+      },
+      "artists": [
+        {
+          "name": "Quin Smile Music",
+          "url": "https://open.spotify.com/artist/1InILV09fJQzl6DLz72Dao"
+        },
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158458,
+      "name": "Bway",
+      "url": "https://open.spotify.com/track/6uxpaa14GscoCL8kY8X81j"
     },
     {
       "album": {
@@ -709,7 +749,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
@@ -1420,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Rambada",
+        "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Rambada",
+      "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
+    },
+    {
+      "album": {
         "name": "Randomly",
         "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
       },
@@ -1537,7 +1595,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 217338,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
@@ -1837,7 +1895,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 218400,
       "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
       "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"

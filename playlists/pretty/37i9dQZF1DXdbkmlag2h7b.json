@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631830,
+  "num_followers": 631877,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDMwNTEzNzIxYTYyZmVmNjEwMGM1MDE4ZDQ1NGRjMWVmZGExOWRi",
+  "snapshot_id": "MCxiZjZmY2I1ODk5ZjM2NmJlMzE1OTgxMDEzZGU1Zjc0Y2MyNDhmZmQ3",
   "tracks": [
     {
       "added_at": "2024-01-31 19:26:23",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "Silk Under Rain",
         "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 158823,
       "name": "Armon\u00eda Serena",
       "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
-      },
-      "artists": [
-        {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
-        }
-      ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "Somi",
         "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 170344,
       "name": "Sonata Path\u00e9tique",
       "url": "https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Hvis du bare vidste",
         "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 191000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1183,6 +1167,38 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "The Acoustic Mind - Vol. 1",
+        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+        }
+      ],
+      "duration_ms": 172589,
+      "name": "Headroom",
+      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "The Acoustic Mind - Vol. 1",
-        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
-      },
-      "artists": [
-        {
-          "name": "Aur\u00e9lien Trigo",
-          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
-        }
-      ],
-      "duration_ms": 172589,
-      "name": "Headroom",
-      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "The Seasons",
         "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2024-01-31 19:26:23",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Winter Night Mist",
-        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 193095,
-      "name": "Winter Night Mist",
-      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
-    },
-    {
-      "added_at": "2024-01-31 19:26:23",
-      "album": {
         "name": "Hope And Glory",
         "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
+    },
+    {
+      "added_at": "2024-01-31 19:26:23",
+      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-01-31 19:26:23",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
       "artists": [
         {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     }
   ],
   "unique_name": "DayDreamer",

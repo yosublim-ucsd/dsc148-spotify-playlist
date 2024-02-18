@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47749,
+  "num_followers": 47742,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQzNWVlNjc5YTNkZGQ5YWYwY2RhNTQxZDE5OWYwNGUwY2NiMTYw",
+  "snapshot_id": "MCxkNzY2MjdhZTdjOGJjMGZlNDQwOWY3NzBkOTQ4ZGVhMTg5OTQ2ZmMw",
   "tracks": [
     {
       "added_at": "2024-01-26 17:06:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 251611,
-      "name": "31",
-      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "ur just horny",
         "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "duration_ms": 251611,
+      "name": "31",
+      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "NUNCA VOU TE PERDOAR",
-        "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "NUNCA VOU TE PERDOAR",
-      "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 168505,
       "name": "Muito Al\u00e9m",
       "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "NUNCA VOU TE PERDOAR",
+        "url": "https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "NUNCA VOU TE PERDOAR",
+      "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -887,22 +887,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "INTENSAMENTE",
-        "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
+        "name": "Castelo De Areia",
+        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Bullet Bane",
+          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
         }
       ],
-      "duration_ms": 178531,
-      "name": "INTENSAMENTE",
-      "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
+      "duration_ms": 176666,
+      "name": "Castelo De Areia",
+      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -923,22 +923,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "Castelo De Areia",
-        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
+        "name": "INTENSAMENTE",
+        "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         },
         {
-          "name": "Bullet Bane",
-          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Castelo De Areia",
-      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
+      "duration_ms": 178531,
+      "name": "INTENSAMENTE",
+      "url": "https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
-        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 207070,
-      "name": "CORPO FECHADO",
-      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         }
       ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
+        "name": "MINHA RELIGI\u00c3O",
+        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "MINHA RELIGI\u00c3O",
+      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
         "name": "vc n gosta de garotas",
         "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 173949,
       "name": "Andar 14",
       "url": "https://open.spotify.com/track/4mric8489EFF7DxpQfonKw"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
-        "name": "MINHA RELIGI\u00c3O",
-        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "MINHA RELIGI\u00c3O",
-      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "EMO NAS BAHAMAS",
-        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
-      },
-      "artists": [
-        {
-          "name": "BAKA",
-          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "VOU ALI DORMIR",
-      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
-    },
-    {
-      "added_at": "2024-01-26 17:06:16",
-      "album": {
         "name": "melhor ou pior",
         "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 164000,
       "name": "melhor ou pior",
       "url": "https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt"
+    },
+    {
+      "added_at": "2024-01-26 17:06:16",
+      "album": {
+        "name": "EMO NAS BAHAMAS",
+        "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
+      },
+      "artists": [
+        {
+          "name": "BAKA",
+          "url": "https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "VOU ALI DORMIR",
+      "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
     },
     {
       "added_at": "2024-01-26 17:06:16",

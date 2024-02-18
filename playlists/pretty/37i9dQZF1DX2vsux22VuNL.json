@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
-  "num_followers": 290781,
+  "num_followers": 290771,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzg2MWViZDk3OWFlNmViNzBiNWMxYjI2ZDFlMGMzODIyMmI1Yjlj",
+  "snapshot_id": "MCxjYWM0MzM5MjBmNDNmY2FiZmY0MTNmMDEwYzBhMGE2NmFiYmZmNzVh",
   "tracks": [
     {
       "added_at": "2024-02-09 20:33:06",
@@ -235,22 +235,26 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Aladdin",
-        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 154374,
-      "name": "Aladdin",
-      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -279,26 +283,22 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+        "name": "Aladdin",
+        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+      "duration_ms": 154374,
+      "name": "Aladdin",
+      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Ac\u00fastico 10 Anos Cacife",
-        "url": "https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs"
-      },
-      "artists": [
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
-        }
-      ],
-      "duration_ms": 225856,
-      "name": "Agradecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Ac\u00fastico 10 Anos Cacife",
+        "url": "https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "Agradecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Caio em Ti",
-        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
-      },
-      "artists": [
-        {
-          "name": "Caio Prado",
-          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "Caio em Ti",
-      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Caio em Ti",
+        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
+      },
+      "artists": [
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "Caio em Ti",
+      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1615,34 +1615,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Voc\u00ea Falou pra Mim",
-        "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
-      },
-      "artists": [
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Lucas Arcanjo",
-          "url": "https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj"
-        },
-        {
-          "name": "Andrei Zucco",
-          "url": "https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Voc\u00ea Falou pra Mim",
-      "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Sentir Saudade",
         "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
       },
@@ -1671,6 +1643,34 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Voc\u00ea Falou pra Mim",
+        "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
+      },
+      "artists": [
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Lucas Arcanjo",
+          "url": "https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj"
+        },
+        {
+          "name": "Andrei Zucco",
+          "url": "https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Voc\u00ea Falou pra Mim",
+      "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
     },
     {
       "added_at": "2024-02-09 20:33:06",

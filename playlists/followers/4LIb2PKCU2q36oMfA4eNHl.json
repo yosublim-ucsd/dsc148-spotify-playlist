@@ -1,9 +1,27 @@
 {
-  "2024-02-17": 42204,
+  "2024-02-18": 42209,
   "date_first_scraped": "2023-12-14",
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
   "name": "Chill with Anjuna",
   "tracks": [
+    {
+      "album": {
+        "name": "Acts Of Union EP",
+        "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132062,
+      "name": "Across All Planes Of Existence",
+      "url": "https://open.spotify.com/track/1peologOxo16hzZrKixC5J"
+    },
     {
       "album": {
         "name": "Acts Of Union",
@@ -115,6 +133,24 @@
       "duration_ms": 258806,
       "name": "Beyond Belief",
       "url": "https://open.spotify.com/track/4ahm9nGSgc4YDzRi6eL3l2"
+    },
+    {
+      "album": {
+        "name": "Acts Of Union EP",
+        "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132100,
+      "name": "Bless These Beating Hearts",
+      "url": "https://open.spotify.com/track/1PUlPRWua2vn3yE5SDWAbX"
     },
     {
       "album": {
@@ -299,7 +335,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 184666,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/5802VW3sVbchM6EkEavcUt"
@@ -529,7 +565,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 256220,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/0yHNtaJ9DQyfMTgNoi2f1Q"
@@ -635,6 +671,24 @@
       "duration_ms": 189039,
       "name": "La luna (Flica\u2019s Moonlight Remix)",
       "url": "https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti"
+    },
+    {
+      "album": {
+        "name": "Acts Of Union EP",
+        "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229024,
+      "name": "Loch Awe",
+      "url": "https://open.spotify.com/track/4KB6FE20302vokalyCjdV5"
     },
     {
       "album": {
@@ -851,7 +905,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 241663,
       "name": "No Place Like",
       "url": "https://open.spotify.com/track/1nQFnc0wvHTtOeVnkfgLGo"
@@ -971,7 +1025,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 215481,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb"
@@ -1127,6 +1181,24 @@
       "duration_ms": 243000,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB"
+    },
+    {
+      "album": {
+        "name": "Chalk",
+        "url": "https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89775,
+      "name": "With Hope",
+      "url": "https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1"
     },
     {
       "album": {

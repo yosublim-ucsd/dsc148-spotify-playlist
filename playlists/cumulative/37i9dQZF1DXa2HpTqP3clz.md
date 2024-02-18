@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-525 songs - 1 day 7 hr 23 min
+526 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 | 2021-12-17 | 2022-04-20 |
 | [Any Old Time](https://open.spotify.com/track/3Fv6JcNgvTOipsgbb0dFbb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Any Old Time](https://open.spotify.com/album/48aWkol0vDAAznw8Q2ZtXi) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 | 2022-07-22 |  |
+| [Arkansas Bound](https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Way Up In The Hills](https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv) | 3:37 | 2024-02-09 |  |
 | [Arkansas Bound](https://open.spotify.com/track/2TP1wa1dXo3H1g8N9DTSBz) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Arkansas Bound](https://open.spotify.com/album/3t8WAwO2kpqHHyMvRII1TO) | 3:37 | 2022-01-14 | 2022-07-29 |
 | [Arkansas Without You](https://open.spotify.com/track/3q6PzCFOMlKLHuWhssEkSK) | [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Arkansas Without You](https://open.spotify.com/album/3wit6EU8aMklX1rELQfc6A) | 3:32 | 2023-01-27 | 2023-03-13 |
 | [Babylon](https://open.spotify.com/track/3CTi3vB63KqoxYwylIZdZ7) | [New Reveille](https://open.spotify.com/artist/2boOLhkCZGjrWp3emUz0jg) | [The Keep](https://open.spotify.com/album/5S7WAzjqsfa3vUpdLrk9rU) | 2:38 | 2022-01-07 | 2022-05-17 |
@@ -101,7 +102,7 @@
 | [Cumberland Gap](https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 1:08 | 2023-11-24 |  |
 | [Dancing in the Snow](https://open.spotify.com/track/36Qz1rKJepEWooyyhI42aN) | [Tammy Rogers](https://open.spotify.com/artist/3wbkQhbAgMFxkiEjyEmsdS), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Dancing in the Snow](https://open.spotify.com/album/3RMKDkTFPSpI1FZQuU20O3) | 2:25 | 2021-12-17 | 2022-04-21 |
 | [Dark Night, Bright Future](https://open.spotify.com/track/2QzacNYLUsovHldopNz2vc) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:37 | 2022-03-25 | 2022-09-05 |
-| [Delta Queen](https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy) | [Billy Gilman](https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko) | [Delta Queen](https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm) | 3:53 | 2024-01-26 |  |
+| [Delta Queen](https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy) | [Billy Gilman](https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko) | [Delta Queen](https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm) | 3:53 | 2024-01-26 | 2024-02-18 |
 | [Desert Flowers](https://open.spotify.com/track/5X6ZqGQ4unZmm9uEAEwcLY) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Desert Flowers](https://open.spotify.com/album/0kKvq0CejAOdMreoJSvsvV) | 5:09 | 2021-12-17 | 2022-07-27 |
 | [Desperado](https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5), [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Desperado](https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR) | 3:34 | 2022-03-25 | 2022-04-18 |
 | [Detroit](https://open.spotify.com/track/3kO6OD9YBlbLzSTX2Zq7Fb) | [Band of Ruhks](https://open.spotify.com/artist/0PXgO6PU0UPzy3NIyTwrBj) | [Authentic](https://open.spotify.com/album/6IU3ClGWUa6Ps4VVq6hq2N) | 3:01 | 2021-12-17 | 2022-06-19 |

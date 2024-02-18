@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 97270,
+  "num_followers": 97296,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ3OTAxZmQyMTA3N2Y1M2QyOTFkNDc0Nzg2Y2UwYWQyNWRjMjk2",
+  "snapshot_id": "MCxhNTg5MDQzNTQ3MTA3MzAwOTZmMmQ5Nzc3ZGZhZWQ2YTI5OTg0NDJl",
   "tracks": [
     {
       "added_at": "2024-02-15 10:24:03",
@@ -399,6 +399,26 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 142123,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "On My Love (New Year Hypaton Remix)",
         "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 191250,
       "name": "On My Love - New Year Hypaton Remix",
       "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 142123,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 129242,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/3GaRGIbg3kk7GnvpJRxsFS"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 188809,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/3hhFeE9rlu4PKo1uSVQYBb"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 129242,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "The One (feat. Blair)",
         "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 179636,
       "name": "The One (feat. Blair)",
       "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "One More Night (feat. Bryn Christopher)",
         "url": "https://open.spotify.com/album/2oqQM12NWNXIydCqwDGgKJ"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 148005,
       "name": "One More Night (feat. Bryn Christopher)",
       "url": "https://open.spotify.com/track/2CXiOIZlCcOZToHy4JVOZZ"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Bad Amie",
-          "url": "https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/3hv6DpbPmyPaDBO7hrRqJ5"
       },
@@ -1963,22 +1943,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Nothing In Common",
-        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz"
       },
       "artists": [
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         },
         {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+          "name": "Bad Amie",
+          "url": "https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nothing In Common",
-      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
+      "duration_ms": 180480,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1999,6 +1979,26 @@
       "duration_ms": 142857,
       "name": "To The Floor (Nicky Romero Edit)",
       "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Nothing In Common",
+        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nothing In Common",
+      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
     }
   ],
   "unique_name": "Power Up!",

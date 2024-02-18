@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,154 likes - 126 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,161 likes - 126 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 44 | [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 |
 | 45 | [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 |
 | 46 | [Road to Joy \- Dark\-Side Mix](https://open.spotify.com/track/4Z1kj9ZVllnLFThFwiC81z) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Road to Joy \(Dark\-Side Mix\)](https://open.spotify.com/album/44tPe18SnjCJP1C8ETlAQo) | 5:24 |
-| 47 | [Same Risk](https://open.spotify.com/track/126NE8fqzYK9CA9tFpy5NK) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Same Risk](https://open.spotify.com/album/5pGZ0MJ3oEyr8S3AfwXmmT) | 3:28 |
+| 47 | [Same Risk](https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:28 |
 | 48 | [Ready Or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2W4KoKD91Sncc5HNZ00ilQ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 3:12 |
 | 49 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 |
 | 50 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 125 | [Out In The Fields](https://open.spotify.com/track/7AQn44WwBs4UAUF79wXzHd) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 4:00 |
 | 126 | [It’s Fine](https://open.spotify.com/track/5uGJfyXEHstfpzuOnuR6mb) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/0ybuiLFQiZM4YFserGDl4h) | 3:46 |
 
-Snapshot ID: `MCxkMWRiNjIyNTEzNTlmYzYxZmI4ZTgzOWUwYWQwMjBjYTFiMWEyZjQ5`
+Snapshot ID: `MCxiMjVhOWE4Nzg4OWQ3MDhjYWZiZjhhNWRjNzE0MDU2YTI2NmRiMmIy`

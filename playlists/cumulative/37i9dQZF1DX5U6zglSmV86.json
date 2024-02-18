@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Nuestra alma mater es la calle. La Santa Grifa en portada",
+  "description": "Nuestra alma mater es la calle. El Makabelico en portada",
   "name": "Los Malportados ",
   "tracks": [
     {
@@ -551,6 +551,36 @@
     },
     {
       "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        },
+        {
+          "name": "Pezcatore",
+          "url": "https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Da Capo",
+      "url": "https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN"
+    },
+    {
+      "album": {
         "name": "De Abajo Pa'rriba",
         "url": "https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl"
       },
@@ -664,6 +694,24 @@
       "duration_ms": 200470,
       "name": "El Largo V1",
       "url": "https://open.spotify.com/track/4iBgsgrNa1V6rdEkxrD5Vq"
+    },
+    {
+      "album": {
+        "name": "La Encomienda",
+        "url": "https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251941,
+      "name": "El Patron Del Mal",
+      "url": "https://open.spotify.com/track/1RECCwSp27WPhUhbWI1QLk"
     },
     {
       "album": {
@@ -1186,7 +1234,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 256459,
       "name": "La Vecindad del Vago",
       "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
@@ -1978,6 +2026,28 @@
       "duration_ms": 213658,
       "name": "Somos Bandoleros",
       "url": "https://open.spotify.com/track/2BYUnUWvrIhpIlAvNZuJpz"
+    },
+    {
+      "album": {
+        "name": "Soy Un Malandrin",
+        "url": "https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261161,
+      "name": "Soy Un Malandrin",
+      "url": "https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7"
     },
     {
       "album": {

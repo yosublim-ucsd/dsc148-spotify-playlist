@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 142392,
+  "2024-02-18": 142456,
   "date_first_scraped": "2023-07-10",
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
   "name": "Samba & \u00e1gua fresca",
@@ -101,6 +101,24 @@
     {
       "album": {
         "name": "Aquarela",
+        "url": "https://open.spotify.com/album/1euIjDzEYPFCuEHT2XJSp3"
+      },
+      "artists": [
+        {
+          "name": "KARINE",
+          "url": "https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203907,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/43xNkQNoTEzwmbRtrUlKq1"
+    },
+    {
+      "album": {
+        "name": "Aquarela",
         "url": "https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy"
       },
       "artists": [
@@ -111,7 +129,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 203907,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L"

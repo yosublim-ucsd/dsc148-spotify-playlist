@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 513093,
+  "2024-02-18": 513151,
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Nath y Piso 21.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Ozuna.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -997,7 +997,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 227708,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2mRn3oiaFSVLPV1keXkjkP"
@@ -3082,6 +3082,24 @@
     },
     {
       "album": {
+        "name": "Carrusel",
+        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143866,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
+    },
+    {
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -3849,6 +3867,28 @@
       "duration_ms": 152727,
       "name": "Confundida",
       "url": "https://open.spotify.com/track/6bTzVDkquLTnPhaBHL89pf"
+    },
+    {
+      "album": {
+        "name": "0000",
+        "url": "https://open.spotify.com/album/53Kn6RxsUXlr4y5WJbd3lT"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186715,
+      "name": "Contrabando",
+      "url": "https://open.spotify.com/track/6eZzJzbyOwT01i8Tdgk2br"
     },
     {
       "album": {
@@ -7503,7 +7543,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 165600,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
@@ -9577,7 +9617,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 181431,
       "name": "LOS DEL RATING X SIEMPRE",
       "url": "https://open.spotify.com/track/0iPtelnGHTTsUWmLclcNPK"
@@ -9819,7 +9859,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 181894,
       "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
@@ -15070,6 +15110,36 @@
     },
     {
       "album": {
+        "name": "Sex XXX (feat. Jey F)",
+        "url": "https://open.spotify.com/album/0TqnBIZAJ1Yoao0umqFOZE"
+      },
+      "artists": [
+        {
+          "name": "Erick Rizzo",
+          "url": "https://open.spotify.com/artist/4mLsJPHfoxfOio0nhVLMEp"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "Sex XXX (feat. Jey F)",
+      "url": "https://open.spotify.com/track/2aXPqBrjQxb6jnptRkXhA3"
+    },
+    {
+      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/30Igbyht6db5Z9SqPB5Mxc"
       },
@@ -17411,6 +17481,28 @@
       "duration_ms": 213281,
       "name": "Ultimate (ft. Snow Tha Product)",
       "url": "https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218883,
+      "name": "UN DESEO",
+      "url": "https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn"
     },
     {
       "album": {

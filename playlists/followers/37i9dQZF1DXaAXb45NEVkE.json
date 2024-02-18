@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 21193,
+  "2024-02-18": 21221,
   "date_first_scraped": "2022-06-04",
   "description": "Hold up, run that back. Cover: Future",
   "name": "Rap Rewind",
@@ -2511,6 +2511,24 @@
     {
       "album": {
         "name": "Trap House 3",
+        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Point in My Life",
+      "url": "https://open.spotify.com/track/2o2hrOq3vuQh8jmyx5eST6"
+    },
+    {
+      "album": {
+        "name": "Trap House 3",
         "url": "https://open.spotify.com/album/3ZTwsrlhFezLH9SkPNaBNo"
       },
       "artists": [
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 210653,
       "name": "Point in My Life",
       "url": "https://open.spotify.com/track/2xQtvPCGfZWXccWCp9LYK4"

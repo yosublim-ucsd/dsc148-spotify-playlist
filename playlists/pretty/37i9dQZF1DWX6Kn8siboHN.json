@@ -1,29 +1,13 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 662225,
+  "num_followers": 662636,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTM5ZGZjM2Q2OWRkMWM1ZWZlZWJlZDMzNDc4NGQxZjNmNzk3YTYy",
+  "snapshot_id": "MCwxOGMxMWE4YjgxMmRjMGUzZGI5NThiZTQwNTUzNzM3Y2U0MDgwNDc1",
   "tracks": [
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
-        "name": "Tu Sombra",
-        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "A chillar a otra parte",
-      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
-    },
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 179506,
       "name": "Amor Plat\u00f3nico",
       "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Tu Sombra",
+        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "A chillar a otra parte",
+      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -107,8 +107,8 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
       "artists": [
         {
@@ -116,25 +116,25 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Qu\u00e9 Tal Si Eres Tu",
-      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "name": "Me Gusta Vivir De Noche",
+        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+      "duration_ms": 164466,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Me Gusta Vivir De Noche",
-        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 164466,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -223,8 +223,8 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
+      "duration_ms": 178973,
+      "name": "Qu\u00e9 Tal Si Eres Tu",
+      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Morir De Amor",
         "url": "https://open.spotify.com/album/3AhuZYSOIefITqG353D25H"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 182280,
       "name": "Morir De Amor",
       "url": "https://open.spotify.com/track/3opWtXcWfM3YFzrm0ffSII"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Las N\u00famero 1...",
-        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Necesito Decirte",
-      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Soy Todo Tuyo",
         "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 187373,
       "name": "Soy Todo Tuyo",
       "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Las N\u00famero 1...",
+        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Ave Cautiva",
-      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
+      "duration_ms": 220682,
+      "name": "Nomas Por Tu Culpa",
+      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 220682,
-      "name": "Nomas Por Tu Culpa",
-      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
@@ -583,22 +567,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 165480,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Ave Cautiva",
+      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Es Para Ti",
         "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232693,
       "name": "Est\u00e1s Que Te Pelas",
       "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Perdoname Mi Amor",
-        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
+        "name": "No Los Conoces A\u00fan",
+        "url": "https://open.spotify.com/album/2XgdI0ypvhm38qXsvKfhNV"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
         }
       ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
+      "duration_ms": 222920,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/0SEBeqUfnoYzadZbejyypI"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "No Los Conoces A\u00fan",
-        "url": "https://open.spotify.com/album/2XgdI0ypvhm38qXsvKfhNV"
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
       "artists": [
         {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 222920,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/0SEBeqUfnoYzadZbejyypI"
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Aqu\u00ed Est\u00e1n!..",
-        "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Solo Lo Nuestro",
         "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 171826,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Aqu\u00ed Est\u00e1n!..",
+        "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+        "name": "L\u00e1grimas de Amor",
+        "url": "https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Ramon Ayala Jr.",
+          "url": "https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI"
         }
       ],
-      "duration_ms": 145449,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
+      "duration_ms": 197346,
+      "name": "Pero Esta Vez Llor\u00e9",
+      "url": "https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "L\u00e1grimas de Amor",
-        "url": "https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ"
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Jr.",
-          "url": "https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Pero Esta Vez Llor\u00e9",
-      "url": "https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U"
+      "duration_ms": 145449,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145575,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/6TTawNx5UtHUUC7lClddgo"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 139626,
       "name": "Miel Amarga",
       "url": "https://open.spotify.com/track/5yRE5GSEa7cg1ApudYMXiS"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 145575,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/3M39JinGYjbvZuc6xoKdri"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables Del Norte",
-          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Fue Tan Poco Tu Carino",
-      "url": "https://open.spotify.com/track/6bmHfknjJXg2eLj7QIHav8"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 195226,
       "name": "Chiquilla cari\u00f1osa",
       "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/3M39JinGYjbvZuc6xoKdri"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Fue Tan Poco Tu Carino",
+      "url": "https://open.spotify.com/track/6bmHfknjJXg2eLj7QIHav8"
     },
     {
       "added_at": "2023-12-20 19:40:25",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-12-20 19:40:25",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
-    },
-    {
-      "added_at": "2023-12-20 19:40:25",
-      "album": {
         "name": "Las Mas Tocadas",
         "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 172788,
       "name": "Mi Unico Camino",
       "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
+    },
+    {
+      "added_at": "2023-12-20 19:40:25",
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
     },
     {
       "added_at": "2023-12-20 19:40:25",

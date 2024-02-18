@@ -1144,13 +1144,17 @@
       },
       "artists": [
         {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
           "name": "Yogi B",
           "url": "https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm"
         }
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 70000,
       "name": "Kaala (Tamil) Teaser Theme",
       "url": "https://open.spotify.com/track/26yOMBYGKZUzYMAfslSjaE"
@@ -1186,7 +1190,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 70000,
       "name": "Kaala (Tamil) Teaser Theme",
       "url": "https://open.spotify.com/track/7AUudXoM8en4CeyasZaP0c"

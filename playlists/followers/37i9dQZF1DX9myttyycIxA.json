@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 293941,
+  "2024-02-18": 293973,
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Madi Diaz",
+  "description": "Underground indie rock gems. Cover: Lime Garden",
   "name": "undercurrents",
   "tracks": [
     {
@@ -695,7 +695,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 184801,
       "name": "Almuatin",
       "url": "https://open.spotify.com/track/3q8NkyunIl3nVwv48deAv0"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 321460,
       "name": "Around Around Around",
       "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
@@ -1223,6 +1223,24 @@
       "duration_ms": 141946,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
+    },
+    {
+      "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
       "album": {
@@ -2061,6 +2079,24 @@
       "duration_ms": 228413,
       "name": "Billy",
       "url": "https://open.spotify.com/track/3JOa0D7guR3vTzRAWVV0Cy"
+    },
+    {
+      "album": {
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "album": {
@@ -3108,6 +3144,24 @@
     },
     {
       "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "album": {
         "name": "carnegie hall",
         "url": "https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC"
       },
@@ -4002,6 +4056,24 @@
     },
     {
       "album": {
+        "name": "Compliment",
+        "url": "https://open.spotify.com/album/03HhnvM8QBxTsqXE2on8DK"
+      },
+      "artists": [
+        {
+          "name": "Omni",
+          "url": "https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236859,
+      "name": "Compliment",
+      "url": "https://open.spotify.com/track/5KtPXXwn4EOZQIjCMZne7P"
+    },
+    {
+      "album": {
         "name": "sore thumb",
         "url": "https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T"
       },
@@ -4795,7 +4867,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191277,
       "name": "Death Drive",
       "url": "https://open.spotify.com/track/0OT4qBesl43phNlvSCLiTM"
@@ -7574,6 +7646,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "album": {
         "name": "Rotten Bun for an Eggless Century",
         "url": "https://open.spotify.com/album/0tqVbc2hj5nC8JoYiqWQEz"
       },
@@ -7661,6 +7751,24 @@
       "duration_ms": 300625,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/6LikaQCnbNOvmmfdn67Vb2"
+    },
+    {
+      "album": {
+        "name": "Give It Back to Me",
+        "url": "https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262600,
+      "name": "Give It Back to Me",
+      "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
     },
     {
       "album": {
@@ -8681,6 +8789,24 @@
       "duration_ms": 140278,
       "name": "Here Forever",
       "url": "https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V"
+    },
+    {
+      "album": {
+        "name": "Here Hair / Hard Hair",
+        "url": "https://open.spotify.com/album/03fQcyzWD57NgUkIwFuVmD"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280416,
+      "name": "Here Hair",
+      "url": "https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8"
     },
     {
       "album": {
@@ -10293,6 +10419,24 @@
       "duration_ms": 221238,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
+    },
+    {
+      "album": {
+        "name": "Inaka",
+        "url": "https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185115,
+      "name": "Inaka",
+      "url": "https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC"
     },
     {
       "album": {
@@ -11975,7 +12119,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191167,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0SOUQwfAlpvurIBdPurgrd"
@@ -12335,7 +12479,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192000,
       "name": "Milk thistle",
       "url": "https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2"
@@ -12829,7 +12973,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 179562,
       "name": "my little tony",
       "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
@@ -13025,7 +13169,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 229649,
       "name": "Never To Be Real",
       "url": "https://open.spotify.com/track/6cYArVpkURcyDOS5pzbjK9"
@@ -13173,6 +13317,24 @@
       "duration_ms": 181895,
       "name": "New Sublet",
       "url": "https://open.spotify.com/track/6j3FP8EWatS21qW1EBRjIA"
+    },
+    {
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178180,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL"
     },
     {
       "album": {
@@ -13947,7 +14109,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 270744,
       "name": "Orange",
       "url": "https://open.spotify.com/track/4gnrM7X1H8sDjyGSv6Y9az"
@@ -14554,6 +14716,24 @@
     },
     {
       "album": {
+        "name": "Pop Star",
+        "url": "https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Pop Star",
+      "url": "https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu"
+    },
+    {
+      "album": {
         "name": "Postman",
         "url": "https://open.spotify.com/album/10v03aHQ2qs0gM63rCoEuJ"
       },
@@ -14911,7 +15091,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180693,
       "name": "Raining All The Time",
       "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
@@ -16175,7 +16355,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 235840,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR"
@@ -21071,7 +21251,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 244022,
       "name": "You don't even know who I am",
       "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"

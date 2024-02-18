@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17860,
+  "num_followers": 17861,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWIyNWNhNGZlNDM1M2ZjNzc3NDkyM2JmZjZjZjM2ZDBjNzJiZDFi",
+  "snapshot_id": "MCxkMzk4OGU1MzkwZDgxNTljNDRmYzgzNTgzMDUxNmViN2FiYzkyYTg1",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -43,6 +43,30 @@
       "duration_ms": 166692,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/6hiKXxS7pgPKnKfCU7UJ6O"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Arit",
+          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
+        }
+      ],
+      "duration_ms": 219334,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -87,30 +111,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Arit",
-          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
-        }
-      ],
-      "duration_ms": 219334,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
       },
@@ -143,8 +143,8 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
       },
       "artists": [
         {
@@ -152,13 +152,13 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 176000,
-      "name": "F* F* M*",
-      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -283,8 +283,8 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
       "artists": [
         {
@@ -292,13 +292,13 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
+      "duration_ms": 176000,
+      "name": "F* F* M*",
+      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
     },
     {
       "added_at": "2023-12-29 03:00:00",

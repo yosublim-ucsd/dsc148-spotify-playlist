@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Icewear Vezzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,713 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,770 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 7 | [Say Ya Grace \(with Chief Keef & Lil Yachty\)](https://open.spotify.com/track/4m4CMXt4jTczOLC14kG8cx) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:36 |
 | 8 | [SpinDatBac](https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SpinDatBac](https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX) | 2:35 |
 | 9 | [Catch A B](https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Catch A B](https://open.spotify.com/album/02GqHGLaoX1mKGypdJP2VW) | 2:13 |
-| 10 | [CARNIVAL](https://open.spotify.com/track/22UmqSLFADtxHCcZ67RzKp) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CARNIVAL](https://open.spotify.com/album/5jMfrCmk4I3jjuju47YQj5) | 4:24 |
+| 10 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 11 | [6.2 Music \(with Rob49\)](https://open.spotify.com/track/6ToibuSa6fjrrzh1aLZwqf) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [6.2 Music \(with Rob49\)](https://open.spotify.com/album/1UydpDxXkMRoB24N3iNQ5m) | 2:48 |
 | 12 | [Bitch Duh](https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Bitch Duh](https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x) | 2:16 |
 | 13 | [DOTTED LINE \(feat\. Veeze\)](https://open.spotify.com/track/5KMEGEPGor1F57Aohyrbnz) | [Samuel Shabazz](https://open.spotify.com/artist/20V5Q17099P2NNExkMStg7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [DOTTED LINE \(feat\. Veeze\)](https://open.spotify.com/album/7CHqJ2bXlU3RAEKOcRLVk4) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
 | 50 | [Only Option \(feat\. Rob49, Luh Tyler & Loe Shimmy\)](https://open.spotify.com/track/0Qkek5mNv6UMgUyjAb80Lr) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Youngest N Charge 2](https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx) | 3:23 |
 
-Snapshot ID: `MCw5MGE5MDE1NzcyZDc5MjRlZTUwNjY5NGE0NTJjOGQyYTJlZWFkNzJh`
+Snapshot ID: `MCwzN2I3ZDg3YzZkNGQ1MjFhM2ZlNWU3NDA2ODRkODM1YmU0YmVmYjEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > thrown on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,073 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475,379 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 |
 | 75 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 |
 
-Snapshot ID: `MCwxYmZhYjk1MjMwZGE1NWI5OWJhMGE3Y2U3OTA1OWNiODZiOThmYTY4`
+Snapshot ID: `MCw5NDliYjJhMzE3ZGQ3NmY4ODVjODcxOWQxM2YyMjI3YzhmMWFiMjE2`

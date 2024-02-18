@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Kleo x Segah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331,309 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,492 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 15 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 |
 | 16 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
 | 17 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
-| 18 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 |
+| 18 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2XY8epv0D64xqErIL21PJx) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/59w8ncxczTWGEClNIkYCuG) | 2:55 |
 | 19 | [SHOT](https://open.spotify.com/track/7MEOvvU8t9rx8b4hWemnWW) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SHOT](https://open.spotify.com/album/4F8PlrZQCOIdkFp1ABInsn) | 1:48 |
 | 20 | [SIMARIK](https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:52 |
 | 21 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 50 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 
-Snapshot ID: `MCwzOTVjOWZlNzk3YTc4OWU1MTJkYjIyYzY4YmUzZmViMzBmODZiZmE2`
+Snapshot ID: `MCxjNTMyNWQxZDgzY2JmNTdhODkwYmYxZWMxY2Y0NjlkMGVjNDcxMjk5`

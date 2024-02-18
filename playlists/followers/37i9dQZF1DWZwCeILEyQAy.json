@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 490042,
+  "2024-02-18": 490053,
   "date_first_scraped": "2022-01-13",
   "description": "Real Rap. All Pressure. Cover: Monaleo",
   "name": "Pressure",
@@ -864,6 +864,28 @@
     },
     {
       "album": {
+        "name": "Becky (feat. 41)",
+        "url": "https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Becky (feat. 41)",
+      "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
+    },
+    {
+      "album": {
         "name": "Bed Time (feat. Monaleo & Gloss Up)",
         "url": "https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy"
       },
@@ -1298,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Bitch Duh",
+        "url": "https://open.spotify.com/album/2R9CsEy4Irvb7kjShP7a7x"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136235,
+      "name": "Bitch Duh",
+      "url": "https://open.spotify.com/track/1SNELiuKo43ybJfAD2htXh"
+    },
+    {
+      "album": {
         "name": "Black Barbie",
         "url": "https://open.spotify.com/album/29Z0vuw4ddQvCM0mKE5gJu"
       },
@@ -1690,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/7eUS2pFDEjhgd1E7RREd3A"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0RFOCmzJUIYipUwO1rujrm"
+    },
+    {
+      "album": {
         "name": "Who is Lil Kayla?",
         "url": "https://open.spotify.com/album/7ibYBH48xmJbCendGqf67I"
       },
@@ -1997,6 +2055,24 @@
       "duration_ms": 102857,
       "name": "Cheeeeks!",
       "url": "https://open.spotify.com/track/5apRfd6GUxvql93R74dDux"
+    },
+    {
+      "album": {
+        "name": "Rich off Head",
+        "url": "https://open.spotify.com/album/1ab5IH3YIqRpZFUmHb6SKb"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128793,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5veyFvjYjwtHaw2LyLPcOp"
     },
     {
       "album": {
@@ -2345,7 +2421,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197800,
       "name": "Courtesy Of A Rich Nigga",
       "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
@@ -3915,6 +3991,42 @@
       "duration_ms": 162481,
       "name": "Gloss Up Ms Bitch",
       "url": "https://open.spotify.com/track/4nrTlaJHJWyoiuSkAS0cA3"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/5tvfvXTui324CIxaAS3ZAB"
+      },
+      "artists": [
+        {
+          "name": "A.R. The Mermaid",
+          "url": "https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112981,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V"
+    },
+    {
+      "album": {
+        "name": "go!",
+        "url": "https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4"
+      },
+      "artists": [
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "go!",
+      "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
     },
     {
       "album": {
@@ -6187,7 +6299,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
@@ -8239,7 +8351,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191934,
       "name": "Scrilla",
       "url": "https://open.spotify.com/track/6lTKW4YFNZdlstjWG6IT90"
@@ -8413,7 +8525,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 140756,
       "name": "Sexyy Red For President",
       "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
@@ -8479,7 +8591,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 216541,
       "name": "Shiesty (feat. Kaliii & Sexyy Red)",
       "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
@@ -10319,7 +10431,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 154630,
       "name": "WGFU",
       "url": "https://open.spotify.com/track/3oavB16qEYpGP0yab3DJUu"

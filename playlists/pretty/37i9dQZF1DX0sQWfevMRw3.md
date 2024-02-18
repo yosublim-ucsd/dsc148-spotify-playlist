@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > I NORRLAND ÄR DET FEST!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,694 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,820 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 15 | [DUM I HUVET](https://open.spotify.com/track/2JjQCaKmPM0oNkZdftKV8m) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Kiran](https://open.spotify.com/artist/5zYIHfWBraSUpUZvJX34xX) | [DUM I HUVET](https://open.spotify.com/album/5Q81CbNdICrpq0KMrNKCts) | 2:20 |
 | 16 | [FREAKY](https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREAKY](https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz) | 2:02 |
 | 17 | [MIN STÖRSTA FÖRSTA KÄRLEK](https://open.spotify.com/track/46O0UcUAkwwEGIT2rKL2IH) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [MIN STÖRSTA FÖRSTA KÄRLEK](https://open.spotify.com/album/6wIdqsXhdj8Oy4Welh6RIC) | 1:55 |
-| 18 | [MED MIG HEM](https://open.spotify.com/track/1jv2IV1FZ0AvOzJYZTFQ8N) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [woodie](https://open.spotify.com/artist/2sumvAt2i2cmajk3zpUnLm) | [MED MIG HEM](https://open.spotify.com/album/3NZn0gR1jbmDkOa9CQSkJw) | 2:29 |
+| 18 | [MED MIG HEM](https://open.spotify.com/track/1jv2IV1FZ0AvOzJYZTFQ8N) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Woodie](https://open.spotify.com/artist/0qrmko0TC9xE41TtCejiTx) | [MED MIG HEM](https://open.spotify.com/album/3NZn0gR1jbmDkOa9CQSkJw) | 2:29 |
 | 19 | [IN MED EN PRILLA](https://open.spotify.com/track/4HgBgnmaUUKxMoQIxrslHZ) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IN MED EN PRILLA](https://open.spotify.com/album/518DYZMBB8fLL3E8HKIMNR) | 2:10 |
 | 20 | [AFTERSKI](https://open.spotify.com/track/4lVBmrys837dpdpjSczq5T) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [AFTERSKI](https://open.spotify.com/album/5roFzgwI0EHCr70n8sOlgk) | 2:08 |
 | 21 | [HÅLLA MIG TILLBAKA](https://open.spotify.com/track/6XCqV5uOvxVTGVfGFZaZlC) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [LABAN](https://open.spotify.com/artist/3VVAtS94nepMXJNX6cccSE) | [HÅLLA MIG TILLBAKA](https://open.spotify.com/album/7GDquL3JBDitAEK4o9hXAW) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [LÄPPGLANS FRÅN DIOR \- EPA SATAN & GRETA TUBORG REMIX](https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [LÄPPGLANS FRÅN DIOR \(EPA SATAN & GRETA TUBORG REMIX\)](https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI) | 2:20 |
 | 100 | [LALA](https://open.spotify.com/track/32Sx8IL2UZKecO00G2LWj8) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [LALA](https://open.spotify.com/album/6ZYs4yXaxTKuQVNsHkg2hD) | 2:25 |
 
-Snapshot ID: `MCw0YjYxYzJkNThkMjVhMDIwNDkyZDgyYmNiY2I2MTE4YjU5NjE5YjZk`
+Snapshot ID: `MCwzNjRhMjFjOTQ2YjIyNzRhN2JmYzA5ZGJiNjJhYzlhNDA2NDgyN2Fl`

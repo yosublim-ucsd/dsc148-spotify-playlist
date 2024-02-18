@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 39326,
+  "2024-02-18": 39340,
   "date_first_scraped": "2022-05-12",
   "description": "Beat e rime, oggi come una volta. DJ Shocca in cover.",
   "name": "Radici Hip-Hop",
@@ -4185,6 +4185,24 @@
     {
       "album": {
         "name": "Fastidio",
+        "url": "https://open.spotify.com/album/4CkC4KUaYSNmzwJOnVJyx0"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296093,
+      "name": "Meglio Che Scendi",
+      "url": "https://open.spotify.com/track/0LI4s4rl0QNYV0OrdHSYOY"
+    },
+    {
+      "album": {
+        "name": "Fastidio",
         "url": "https://open.spotify.com/album/1c5KskZ3KYsdmld7qp0Fur"
       },
       "artists": [
@@ -7009,7 +7027,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-595 songs - 1 day 11 hr 27 min
+596 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Redneckin'](https://open.spotify.com/track/0W4P8xVdAjZyCwdjAY6PYr) | [Billie Jo](https://open.spotify.com/artist/4ZVTAR2mX6p9zWJgG3xu1H) | [Redneckin'](https://open.spotify.com/album/4M1RKPDbWWE7XYrgRjiCk9) | 3:02 | 2022-02-18 | 2022-05-20 |
 | [Regret](https://open.spotify.com/track/2qo3jf4Q534hikGPA1HDY8) | [Brendyn Kyle](https://open.spotify.com/artist/7Bf6Wz0HefBc51pffYVf3j), [Sarah Hobbs](https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI) | [Regret](https://open.spotify.com/album/1HYLMZdDYBFlisPgJK4Z4V) | 4:05 | 2022-02-04 | 2022-07-27 |
 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 | 2021-12-17 | 2023-09-02 |
-| [Rest of Our Lives \(Maddie’s Song\)](https://open.spotify.com/track/74ZjWAMTUtKU5mAdneJJ5L) | [Cannon Brand](https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K) | [Rest of Our Lives \(Maddie’s Song\)](https://open.spotify.com/album/65IVooocQgErBxb41WauME) | 3:52 | 2024-02-09 |  |
+| [Rest of Our Lives \(Maddie’s Song\)](https://open.spotify.com/track/74ZjWAMTUtKU5mAdneJJ5L) | [Cannon Brand](https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K) | [Rest of Our Lives \(Maddie’s Song\)](https://open.spotify.com/album/65IVooocQgErBxb41WauME) | 3:52 | 2024-02-09 | 2024-02-18 |
 | [Rest of Texas](https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Rest of Texas](https://open.spotify.com/album/74WcvgHzoOcsU85iiAEl9a) | 3:28 | 2022-03-04 | 2022-08-22 |
 | [Restless Spirits](https://open.spotify.com/track/2j20WdSsdwdajj5ikGGKX5) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Restless Spirits](https://open.spotify.com/album/30Jp6NWXNluqn6LlwgzmvT) | 3:32 | 2021-12-17 | 2022-03-19 |
 | [Rhinestoned](https://open.spotify.com/track/7m5sOfZ6VmMbKyrccgPEDN) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Rhinestoned](https://open.spotify.com/album/3bp5Lk9hQ91wrtyoQW1UHS) | 3:44 | 2021-12-17 | 2022-07-29 |
@@ -521,6 +521,7 @@
 | [Threw Away](https://open.spotify.com/track/6y9xknJBdsTfllYj1HQIYo) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [Time](https://open.spotify.com/album/7nC872HsgMGjoYr7vmIyvs) | 4:16 | 2022-03-04 | 2022-07-16 |
 | [Time of The Rambler](https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Time of The Rambler](https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G) | 3:13 | 2023-11-03 | 2023-11-18 |
 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-12-17 | 2022-01-08 |
+| [Tomorrow's Out Of Sight](https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Tomorrow's Out Of Sight](https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt) | 3:34 | 2024-02-16 |  |
 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 | 2023-09-29 |  |
 | [Too Much Texas](https://open.spotify.com/track/3hEWrpdstTH1OLaQdBZWG0) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Much Texas](https://open.spotify.com/album/09QxnbZzFjWyoZVStprhUJ) | 2:37 | 2022-03-18 | 2022-07-28 |
 | [Took the Fall](https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Took the Fall](https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4) | 3:36 | 2022-10-14 | 2023-05-27 |

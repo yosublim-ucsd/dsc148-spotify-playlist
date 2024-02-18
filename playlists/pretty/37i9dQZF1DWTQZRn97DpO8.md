@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : IPNDEGO
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,678 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,707 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Ton masque est tombé](https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Ton masque est tombé](https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ) | 3:23 |
 | 50 | [Ma Go](https://open.spotify.com/track/5sl1qh0eclSeUTGW5XgZnc) | [Ysos](https://open.spotify.com/artist/1SQBvSuDIDiab53e3JCuLP), [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Ma Go](https://open.spotify.com/album/6uzWRdxMpk51b2f1QjI5iA) | 2:37 |
 
-Snapshot ID: `MCw5OGM3NzU4Y2NhZmE5MzhkZjAzY2ZlNjE1ZjgxMDIyMjU0ZjY2MWVm`
+Snapshot ID: `MCxhMDhjMWY5Y2NlZDc1ZGE4MmI5YzMwMDY4YWIxNDQ4YTJkNmI1MzEz`

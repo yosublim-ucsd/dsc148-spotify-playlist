@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con st\. Pedro.
 
-658 songs - 1 day 11 hr 43 min
+659 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 | 2023-08-25 | 2024-02-11 |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2023-08-26 |
 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 | 2023-01-10 | 2023-02-17 |
+| [Beautiful](https://open.spotify.com/track/4qivrywz0cptut4imbWJJf) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Calian](https://open.spotify.com/artist/5Seegd2m2S5bQggOPxtMZa) | [Beautiful](https://open.spotify.com/album/4blp4UsUuc0KiXHSUj9Bie) | 3:31 | 2024-02-16 |  |
 | [Bebé](https://open.spotify.com/track/6S7MMCxzavFIbqXEleji7X) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bebé](https://open.spotify.com/album/31K2ZG9GMEVrUrVqyO94KP) | 2:55 | 2023-07-07 | 2023-09-16 |
 | [Bedtime Story](https://open.spotify.com/track/2OmdXyjwfOQGsVdTUCRDwv) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 2:59 | 2022-03-18 | 2023-02-17 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-09 | 2023-02-17 |
@@ -405,7 +406,7 @@
 | [Nada Es Seguro](https://open.spotify.com/track/2sgX9FxhIoApouX3SSZjUB) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [Nada Es Seguro](https://open.spotify.com/album/705j5AXqZiXVqH58MidH5J) | 3:24 | 2021-12-02 | 2022-01-25 |
 | [NADIE SABE](https://open.spotify.com/track/6ukzpHQFuOdunB44sZeIQg) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [NADIE SABE](https://open.spotify.com/album/7o8JYrIIqI1KwW5l8cNVsp) | 2:35 | 2024-02-02 | 2024-02-09 |
 | [Naranja](https://open.spotify.com/track/5OLU4AqakHYnXfEJ1QbmYL) | [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ) | [Naranja](https://open.spotify.com/album/3m7lsfXaho3G2EVz4mwZF1) | 3:04 | 2021-12-02 | 2022-01-25 |
-| [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 | 2024-01-26 |  |
+| [NEFERTITI](https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [NEFERTITI](https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE) | 2:36 | 2024-01-26 | 2024-02-18 |
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-22 | 2022-10-28 |
 | [Nervios de Acero](https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Nervios de Acero](https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2) | 3:07 | 2023-11-24 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-13 | 2023-05-13 |

@@ -4,7 +4,7 @@
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-133 songs - 8 hr 44 min
+134 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [After Destruction](https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:44 | 2024-02-16 |  |
 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 | 2022-03-13 | 2024-02-17 |
 | [Aire](https://open.spotify.com/track/77gQSJlncgT3HWmBfy9CQ9) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3hrl3lXAs1oAfDegWOE4to) | 2:54 | 2022-03-13 | 2023-12-18 |
-| [Ajooni](https://open.spotify.com/track/3j8cLwjg74aMFMZNuOKMRe) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:38 | 2024-02-16 |  |
+| [Ajooni](https://open.spotify.com/track/3j8cLwjg74aMFMZNuOKMRe) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:38 | 2024-02-16 | 2024-02-18 |
 | [Ala Vida](https://open.spotify.com/track/1u5CtLtLmmY4KIe4k94XtA) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:52 | 2022-03-13 | 2024-02-17 |
 | [Anthem for No State, Pt\. II](https://open.spotify.com/track/60CD8gYJbH3VbsVWKA2jXB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 2:55 | 2024-02-16 |  |
 | [Anónima](https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 4:37 | 2024-02-16 |  |
@@ -92,6 +92,7 @@
 | [Nadie Sabe](https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Será Que Ahora Podremos Entendernos](https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4) | 4:50 | 2024-02-16 |  |
 | [Nostalgia del Futuro](https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Nostalgia del Futuro](https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu) | 3:25 | 2024-02-16 |  |
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2022-03-13 | 2024-02-17 |
+| [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 | 2024-02-16 |  |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-31 | 2024-02-17 |
 | [Passionfruit](https://open.spotify.com/track/5wt77SLNpmmrwhjcITgcaz) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Passionfruit](https://open.spotify.com/album/4o0ARuL2D7jQMXUiLxPUmQ) | 3:13 | 2022-03-13 | 2024-02-17 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2022-03-13 | 2024-02-17 |

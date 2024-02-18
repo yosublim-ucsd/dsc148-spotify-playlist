@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 84 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 35 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The Time Is Now!](https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR) | 3:54 |
 | 36 | [Happening](https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 |
 | 37 | [Standing Where You Left Me](https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Pieces](https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS) | 3:20 |
-| 38 | [I'll Do It](https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK) | 3:33 |
+| 38 | [I'll Do It](https://open.spotify.com/track/42RyAUeVOnn2umPYFpdhOi) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/2jfViE17oVo9pNtxv2OvLd) | 3:33 |
 | 39 | [Lolita](https://open.spotify.com/track/1CksYfCiy5yqIWQspL9kBQ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched](https://open.spotify.com/album/2mBzwVNK25pwRgriCYyfiW) | 3:25 |
 | 40 | [Heavenly Light](https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:50 |
 | 41 | [Long Way To Go To Die](https://open.spotify.com/track/61pOzVtdfhaNQnSIc93pSo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:10 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjg0Njg5MzAsMDAwMDAwMDBiZDAzMmJmZWYyMTU0ZGFlYzM2YjlmMjQzMzc1ZmQ1NQ==`
+Snapshot ID: `Mjg0NzAzNzAsMDAwMDAwMDBlYzQyZDZkMmE1ZTA0YmQzYjU5YTM4N2U0ZjgyMjQzNA==`

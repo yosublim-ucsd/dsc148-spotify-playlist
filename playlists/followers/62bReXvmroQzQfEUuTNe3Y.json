@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1169678,
+  "2024-02-18": 1170301,
   "date_first_scraped": "2020-09-13",
   "description": "Chill tracks to vibe or dance for 2024. Updated weekly. | \ud83c\udf08 <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
   "name": "Chill House 2024",
@@ -3232,6 +3232,28 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7zIefy2Zq120nQGMpi11xT"
+      },
+      "artists": [
+        {
+          "name": "XYSM",
+          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
+        },
+        {
+          "name": "EDGR",
+          "url": "https://open.spotify.com/artist/0WMuIwO9iaJZagSAdO5wuV"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218890,
+      "name": "I'd Rather Be Alone",
+      "url": "https://open.spotify.com/track/3e3NPloQESLLcs1ftn04AV"
+    },
+    {
+      "album": {
         "name": "I'll Be Around",
         "url": "https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5"
       },
@@ -5959,6 +5981,28 @@
       "duration_ms": 160000,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl"
+    },
+    {
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/5s59SA485CRphWE8mebcfG"
+      },
+      "artists": [
+        {
+          "name": "Touring",
+          "url": "https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ"
+        },
+        {
+          "name": "Luca Wilding",
+          "url": "https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/4U7xEavwTr97j51WE1kKmZ"
     },
     {
       "album": {

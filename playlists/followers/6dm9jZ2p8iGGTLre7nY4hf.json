@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 458200,
+  "2024-02-18": 458188,
   "date_first_scraped": "2023-12-14",
   "description": "Break up songs, the best cure for a broken heart!",
   "name": "Breakup Songs \ud83d\udc94",
@@ -3720,6 +3720,24 @@
     },
     {
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
+    },
+    {
+      "album": {
         "name": "Not Around",
         "url": "https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX"
       },
@@ -3945,6 +3963,24 @@
       "duration_ms": 167103,
       "name": "Old Habits",
       "url": "https://open.spotify.com/track/15f9zVKs91FIjwtwhsAHgm"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "album": {

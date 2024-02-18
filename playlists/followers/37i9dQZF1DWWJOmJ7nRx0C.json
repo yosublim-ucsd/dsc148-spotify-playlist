@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 930367,
+  "2024-02-18": 930440,
   "date_first_scraped": "2021-12-21",
-  "description": "rock at its loudest - turn it up \u2b06\ufe0f Cover: HARDY",
+  "description": "turn it up \u2b06\ufe0f Cover: Pearl Jam",
   "name": "VOLUME",
   "tracks": [
     {
@@ -3654,6 +3654,24 @@
     },
     {
       "album": {
+        "name": "Container",
+        "url": "https://open.spotify.com/album/5yJObZZ3lsklLmt0xBGUcF"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Container",
+      "url": "https://open.spotify.com/track/654jMTF9HKJRSNMDfb2Wd8"
+    },
+    {
+      "album": {
         "name": "Wrap Your Head Around",
         "url": "https://open.spotify.com/album/2M4aK6tyusSZINJOWk7ayQ"
       },
@@ -3893,7 +3911,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 198123,
       "name": "CULT CLASSIC",
       "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
@@ -9509,7 +9527,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
@@ -14040,6 +14058,24 @@
     },
     {
       "album": {
+        "name": "READY ROCK",
+        "url": "https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166369,
+      "name": "READY ROCK",
+      "url": "https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS"
+    },
+    {
+      "album": {
         "name": "Reap A Hurricane",
         "url": "https://open.spotify.com/album/3eUtW3WFfthYpb1Amei78r"
       },
@@ -18351,7 +18387,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 229212,
       "name": "Too Good At Raising Hell",
       "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"

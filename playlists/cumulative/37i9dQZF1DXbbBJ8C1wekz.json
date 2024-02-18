@@ -50,7 +50,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 215160,
       "name": "21",
       "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 154877,
       "name": "Bad bad bad",
       "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
@@ -4915,6 +4915,28 @@
     },
     {
       "album": {
+        "name": "EU TIVE UM SONHO",
+        "url": "https://open.spotify.com/album/12QqwradopCY1XRLm866Aw"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137144,
+      "name": "MILAGRE",
+      "url": "https://open.spotify.com/track/31aAjF70nFIt9RkjVa5sX9"
+    },
+    {
+      "album": {
         "name": "Minha Lei",
         "url": "https://open.spotify.com/album/6Vms0SlsN4ATUd7dIngdp5"
       },
@@ -6956,6 +6978,28 @@
       "duration_ms": 328500,
       "name": "Session",
       "url": "https://open.spotify.com/track/2vAHBuYNgcCNuUBlUbu2Dd"
+    },
+    {
+      "album": {
+        "name": "EU TIVE UM SONHO",
+        "url": "https://open.spotify.com/album/12QqwradopCY1XRLm866Aw"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192509,
+      "name": "SETE DA NOITE",
+      "url": "https://open.spotify.com/track/770pWASqnOV2fERqgSaaps"
     },
     {
       "album": {

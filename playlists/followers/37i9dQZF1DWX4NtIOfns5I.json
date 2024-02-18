@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 93019,
+  "2024-02-18": 93190,
   "date_first_scraped": "2023-10-07",
-  "description": "where folk flowers bloom.  cover: Maggie Rogers",
+  "description": "where folk flowers bloom.  cover: Lizzy McAlpine",
   "name": "juniper",
   "tracks": [
     {
@@ -465,6 +465,24 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "album": {
+        "name": "Cottontail",
+        "url": "https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161162,
+      "name": "Cottontail",
+      "url": "https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu"
     },
     {
       "album": {
@@ -999,10 +1017,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 246946,
       "name": "For Months Now",
       "url": "https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9"
+    },
+    {
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
     },
     {
       "album": {
@@ -1637,7 +1673,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188576,
       "name": "jesus song (county line)",
       "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
@@ -3449,7 +3485,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
@@ -3471,6 +3507,24 @@
       "duration_ms": 224744,
       "name": "You'd Like Me More",
       "url": "https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc"
+    },
+    {
+      "album": {
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
     },
     {
       "album": {

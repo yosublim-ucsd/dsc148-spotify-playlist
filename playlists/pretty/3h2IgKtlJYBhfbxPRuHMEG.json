@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "ODgyLDFmOTg5MGMxZWEzZjc5MGE0ODRhNTA3MjliMmQ1NDU3NDM3YjYxZjM=",
+  "snapshot_id": "ODg2LGQ5YzMxY2M5NTYwMjUzZmM0MGZlZDBjYThiNTUzNzE0Y2VmMmI3Y2M=",
   "tracks": [
     {
       "added_at": "2024-02-16 13:09:33",
@@ -23,6 +23,22 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
+    },
+    {
+      "added_at": "2024-02-16 13:09:33",
+      "album": {
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "CAN YOU SEE ME?",
+      "url": "https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a"
     },
     {
       "added_at": "2024-02-16 13:09:33",
@@ -59,22 +75,6 @@
       "duration_ms": 93528,
       "name": "SUNSHiNE OF YOUR WUB",
       "url": "https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws"
-    },
-    {
-      "added_at": "2024-02-16 13:09:33",
-      "album": {
-        "name": "CAN YOU SEE ME?",
-        "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "CAN YOU SEE ME?",
-      "url": "https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a"
     },
     {
       "added_at": "2024-02-16 13:09:33",
@@ -151,6 +151,42 @@
     {
       "added_at": "2024-02-16 13:09:33",
       "album": {
+        "name": "Know By Now",
+        "url": "https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Know By Now",
+      "url": "https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar"
+    },
+    {
+      "added_at": "2024-02-16 13:09:33",
+      "album": {
+        "name": "London Sound",
+        "url": "https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "duration_ms": 189342,
+      "name": "Going Out To The Ravers (feat. Everyone You Know)",
+      "url": "https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm"
+    },
+    {
+      "added_at": "2024-02-16 13:09:33",
+      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
       },
@@ -191,42 +227,6 @@
       "duration_ms": 208846,
       "name": "All Night",
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
-    },
-    {
-      "added_at": "2024-02-16 13:09:33",
-      "album": {
-        "name": "London Sound",
-        "url": "https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Everyone You Know",
-          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
-        }
-      ],
-      "duration_ms": 189342,
-      "name": "Going Out To The Ravers (feat. Everyone You Know)",
-      "url": "https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm"
-    },
-    {
-      "added_at": "2024-02-16 13:09:33",
-      "album": {
-        "name": "Know By Now",
-        "url": "https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Know By Now",
-      "url": "https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar"
     },
     {
       "added_at": "2024-02-16 13:09:33",

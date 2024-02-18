@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft Zendaya ",
-  "num_followers": 525947,
+  "num_followers": 525920,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmJkODUxODJlYWVjYWFkMzFmMTA3NDQxM2I4NWRkYzgzZGZlY2U5",
+  "snapshot_id": "MCw4YmNmYWYzMDA5ZmYzYTlkNmYyNWE5ZDMwYzhhYjgyNmRhYzYzNWE1",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -182,6 +182,10 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
       "duration_ms": 298773,
@@ -871,6 +875,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -887,22 +907,6 @@
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -975,22 +979,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 103688,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Toronto Funhouse",
         "url": "https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV"
       },
@@ -1003,6 +991,22 @@
       "duration_ms": 120693,
       "name": "Toronto Funhouse",
       "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 103688,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1123,6 +1127,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Far Rockaway",
+        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 142566,
+      "name": "Far Rockaway",
+      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1139,22 +1159,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Far Rockaway",
-        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 142566,
-      "name": "Far Rockaway",
-      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1211,22 +1215,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "New Romance",
-      "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "VIRGINIA CREEPER",
         "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
       },
@@ -1239,6 +1227,22 @@
       "duration_ms": 172307,
       "name": "VIRGINIA CREEPER",
       "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "New Romance",
+      "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1299,6 +1303,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "pawwwfect!",
+        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
+      },
+      "artists": [
+        {
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
+        }
+      ],
+      "duration_ms": 146186,
+      "name": "easy going down",
+      "url": "https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1319,22 +1339,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "pawwwfect!",
-        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
-      },
-      "artists": [
-        {
-          "name": "lil hero",
-          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "easy going down",
-      "url": "https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1351,22 +1355,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Conveniency",
         "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
       },
@@ -1379,6 +1367,22 @@
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1487,22 +1491,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Gonna Bleach My Eyebrows",
-        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "Gonna Bleach My Eyebrows",
-      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Cry Alone",
         "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
       },
@@ -1515,6 +1503,22 @@
       "duration_ms": 102492,
       "name": "Cry Alone",
       "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Gonna Bleach My Eyebrows",
+        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "Gonna Bleach My Eyebrows",
+      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1567,6 +1571,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "duration_ms": 176950,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "FLOOR",
         "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
       },
@@ -1583,22 +1603,6 @@
       "duration_ms": 125688,
       "name": "FLOOR",
       "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Fae",
-          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7"
     },
     {
       "added_at": "2024-02-16 05:00:00",

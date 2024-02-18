@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2H3EMYFS69dhMmrX9JTkZp">Apollo LTD</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,125 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,199 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [I Speak Jesus](https://open.spotify.com/track/5RP64dXCu9SsL1rgMBD31H) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [I Speak Jesus](https://open.spotify.com/album/0hTdsnIgildX9tkTB098UZ) | 3:20 |
 | 100 | [crown](https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [crown](https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP) | 3:23 |
 
-Snapshot ID: `MCxiMzVjY2M2MGM1NjQ0MTJmODNlMGJmNTVhMjJjYzdmY2MyMTJkNjM2`
+Snapshot ID: `MCw1MjdhYzQ1YmUyZDZhMWZkNzAzMjU3ZThjMTg3MGIwZDYzODMzYzYy`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,300 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,326 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
 | 2 | [SWEET LITTLE LIES](https://open.spotify.com/track/0GnnAEntAnsQVvfz5nNA0X) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [SWEET LITTLE LIES](https://open.spotify.com/album/1mvcFgCjE2vtaH4VtcycDo) | 3:06 |
-| 3 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 |
+| 3 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 |
 | 4 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 |
 | 5 | [Black Music Is Forever](https://open.spotify.com/track/3QOzZlO6rVNGHm4jbLxOO5) | [Concurrence](https://open.spotify.com/artist/6c0qXMbMuod4Gi8HYnM5cW), [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [Black Music Is Forever](https://open.spotify.com/album/6PvWUmmhfr7Bdo8q8ka4wR) | 1:29 |
 | 6 | [90s \- Butcher Brown Remix](https://open.spotify.com/track/7fyFC72pjitDo4cmL0gX4W) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [90s \(Butcher Brown Remix\)](https://open.spotify.com/album/1F8dwsU59wfhViHu6HYv27) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxjZjI2ODFkYWE1ZTE0OTViNmQ3N2VmYzFiYmI0OTA3ZDM2YTQ2ZDQy`
+Snapshot ID: `MCxhMWY2NTg2YmM5ZDIyOWQzMTRmZTdkNWE5ZGY0MmE5OGNiMWZiMTU2`

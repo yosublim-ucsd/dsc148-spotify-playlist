@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 155411,
       "name": "Introspection - Edit",
       "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
@@ -5686,6 +5686,24 @@
       "duration_ms": 236040,
       "name": "Nami",
       "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
+    },
+    {
+      "album": {
+        "name": "Nausica\u00e4 of the Valley of the Wind (2024 ver.)",
+        "url": "https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf"
+      },
+      "artists": [
+        {
+          "name": "Narumi Yasuda",
+          "url": "https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325185,
+      "name": "Nausica\u00e4 of the Valley of the Wind - 2024 ver.",
+      "url": "https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32"
     },
     {
       "album": {

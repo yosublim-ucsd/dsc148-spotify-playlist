@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 550480,
+  "num_followers": 550586,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzYzZDhhZDU0ZGQzMTNiZTA3ZjdjMjYyMGZmYTFiZjFiZTg3ODY1",
+  "snapshot_id": "MCw2N2QwMTMwZmRkMjFkNmFkZGRlMjFmOGFlNGIyNmUyZTg4NTljYzhi",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "KILO",
         "url": "https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 310153,
       "name": "KILO",
       "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -1427,6 +1447,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "In This Life (Cassara Remix)",
         "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
       },
@@ -1451,26 +1491,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
@@ -1487,30 +1507,6 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Fool For Love",
-        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "Fool For Love - Chris Lake Edit",
-      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1535,6 +1531,30 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1667,18 +1687,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Hot Summer Love",
-        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+        "name": "Post Tenebras Lux",
+        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
       },
       "artists": [
         {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 254072,
-      "name": "Hot Summer Love",
-      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
+      "duration_ms": 232389,
+      "name": "Post Tenebras Lux",
+      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1703,18 +1723,34 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Post Tenebras Lux",
-        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
+        "name": "Cabo Player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
         }
       ],
-      "duration_ms": 232389,
-      "name": "Post Tenebras Lux",
-      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
+      "duration_ms": 139624,
+      "name": "Cabo Player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Hot Summer Love",
+        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 254072,
+      "name": "Hot Summer Love",
+      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1775,22 +1811,6 @@
       "duration_ms": 193946,
       "name": "Maintain - Jafunk Remix",
       "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Cabo Player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 139624,
-      "name": "Cabo Player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1895,30 +1915,6 @@
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "CAPYAC FOREVER",
-        "url": "https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3"
-      },
-      "artists": [
-        {
-          "name": "CAPYAC",
-          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
-        },
-        {
-          "name": "Slim Jeff",
-          "url": "https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk"
-        },
-        {
-          "name": "Annabelle Freedman",
-          "url": "https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3"
     }
   ],
   "unique_name": "Poolside Disco",

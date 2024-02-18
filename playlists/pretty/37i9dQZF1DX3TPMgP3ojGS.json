@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 404487,
+  "num_followers": 404641,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGVkMTQxNDc5MmYzM2M3ZTRlNzI5YzQ4ZDBiY2Y0NjM3MWY5NzZi",
+  "snapshot_id": "MCw4MDA0N2RjOWU3YzIxNzRlYmYxMTQwY2M3N2Y0MjIwOTM5MDAxY2U2",
   "tracks": [
     {
       "added_at": "2024-02-13 01:43:06",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "Hearts of Desire",
-        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
-      },
-      "artists": [
-        {
-          "name": "Cole Neumann",
-          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
-        }
-      ],
-      "duration_ms": 139312,
-      "name": "Hearts of Desire",
-      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
-    },
-    {
-      "added_at": "2024-02-13 01:43:06",
-      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 158000,
       "name": "Archipelago",
       "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
+    },
+    {
+      "added_at": "2024-02-13 01:43:06",
+      "album": {
+        "name": "Hearts of Desire",
+        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "duration_ms": 139312,
+      "name": "Hearts of Desire",
+      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "Dancing Dreams",
-        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
-      },
-      "artists": [
-        {
-          "name": "Steven Windhaug",
-          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Dancing Dreams",
-      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
-    },
-    {
-      "added_at": "2024-02-13 01:43:06",
-      "album": {
         "name": "The Old Garden",
         "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174781,
       "name": "The Old Garden",
       "url": "https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh"
+    },
+    {
+      "added_at": "2024-02-13 01:43:06",
+      "album": {
+        "name": "Dancing Dreams",
+        "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
+      },
+      "artists": [
+        {
+          "name": "Steven Windhaug",
+          "url": "https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Dancing Dreams",
+      "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "My Little Treasure",
-        "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
       "artists": [
         {
-          "name": "Bella Wilkinsson",
-          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
         }
       ],
-      "duration_ms": 90717,
-      "name": "My Little Treasure",
-      "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+        "name": "Bridge Across the Ocean",
+        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
       },
       "artists": [
         {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
         }
       ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+      "duration_ms": 186711,
+      "name": "Bridge Across the Ocean",
+      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "Bridge Across the Ocean",
-        "url": "https://open.spotify.com/album/2njPpnXxSX53OX35rEiEuG"
+        "name": "My Little Treasure",
+        "url": "https://open.spotify.com/album/1E2bAyJoZ5GU7VGGbIu3NF"
       },
       "artists": [
         {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+          "name": "Bella Wilkinsson",
+          "url": "https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp"
         }
       ],
-      "duration_ms": 186711,
-      "name": "Bridge Across the Ocean",
-      "url": "https://open.spotify.com/track/47Dbe09uprsTUFezKfy594"
+      "duration_ms": 90717,
+      "name": "My Little Treasure",
+      "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "Whispering Oaks",
-        "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
-      },
-      "artists": [
-        {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
-        }
-      ],
-      "duration_ms": 151288,
-      "name": "Whispering Oaks",
-      "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"
-    },
-    {
-      "added_at": "2024-02-13 01:43:06",
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2024-02-13 01:43:06",
+      "album": {
+        "name": "Whispering Oaks",
+        "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "duration_ms": 151288,
+      "name": "Whispering Oaks",
+      "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2024-02-13 01:43:06",
-      "album": {
         "name": "Peggy's Cove",
         "url": "https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 135344,
       "name": "Peggy's Cove",
       "url": "https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP"
+    },
+    {
+      "added_at": "2024-02-13 01:43:06",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2024-02-13 01:43:06",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-13 01:43:06",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
-    },
-    {
-      "added_at": "2024-02-13 01:43:06",
-      "album": {
         "name": "Stille Sj\u00f8",
         "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
+    },
+    {
+      "added_at": "2024-02-13 01:43:06",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2024-02-13 01:43:06",

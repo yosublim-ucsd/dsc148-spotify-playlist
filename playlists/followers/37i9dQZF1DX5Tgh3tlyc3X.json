@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 301419,
+  "2024-02-18": 301468,
   "date_first_scraped": "2023-12-25",
   "description": "Enter an Alpha meditative state with mid-range frequencies and then ease into a Theta brainwave state.",
   "name": "Binaural Beats: Meditation",
@@ -39,6 +39,24 @@
       "duration_ms": 214000,
       "name": "4 Hz Theta Drone",
       "url": "https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW"
+    },
+    {
+      "album": {
+        "name": "432 Hz Tellus Heartbeat",
+        "url": "https://open.spotify.com/album/3F6z3CdXwUdmEytOcDOdIf"
+      },
+      "artists": [
+        {
+          "name": "Aura Glow",
+          "url": "https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "432 Hz Tellus Heartbeat",
+      "url": "https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ"
     },
     {
       "album": {
@@ -1511,10 +1529,28 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 109714,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt"
+    },
+    {
+      "album": {
+        "name": "Cortex Rejuvenation 285 Hz",
+        "url": "https://open.spotify.com/album/1S6k1X61MbiWNePiaiPWrc"
+      },
+      "artists": [
+        {
+          "name": "Solfonia Bliss",
+          "url": "https://open.spotify.com/artist/5ZCCivqbuWNWLeUWqcJ56h"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195569,
+      "name": "Cortex Rejuvenation 285 Hz",
+      "url": "https://open.spotify.com/track/0ddNn86lIO7EHUlZogHAdN"
     },
     {
       "album": {
@@ -2793,6 +2829,24 @@
       "duration_ms": 204347,
       "name": "Stingray Alpha Sinus 147Hz - 159Hz",
       "url": "https://open.spotify.com/track/3XNII7xuI8iShtoFrPAlA8"
+    },
+    {
+      "album": {
+        "name": "Suspended in Time 528Hz",
+        "url": "https://open.spotify.com/album/3wkXTVe5vEYlmdOg47BgNs"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190043,
+      "name": "Suspended in Time 528Hz",
+      "url": "https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn"
     },
     {
       "album": {

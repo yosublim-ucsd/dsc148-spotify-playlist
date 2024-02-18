@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 67090,
+  "num_followers": 67094,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDhlMzEzNjQ1ZjRmODE4NjE2YjE5MzhkZDZjN2U0ZGQyYzViODY1",
+  "snapshot_id": "MCxiOGQxZjYzN2I0Nzk0NWY0ZWZiYTBmOWI0MDM0MTU0Nzk3MTg1MDI0",
   "tracks": [
     {
       "added_at": "2024-02-14 00:39:43",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
-      },
-      "artists": [
-        {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
-    },
-    {
-      "added_at": "2024-02-14 00:39:43",
-      "album": {
         "name": "Volver a Empezar",
         "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 209306,
       "name": "Ll\u00e9vate Todo",
       "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
+    },
+    {
+      "added_at": "2024-02-14 00:39:43",
+      "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
       "added_at": "2024-02-14 00:39:43",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-14 00:39:43",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
-    },
-    {
-      "added_at": "2024-02-14 00:39:43",
-      "album": {
         "name": "Cereal",
         "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 161226,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
+    },
+    {
+      "added_at": "2024-02-14 00:39:43",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2024-02-14 00:39:43",

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 284598,
+  "2024-02-18": 284612,
   "date_first_scraped": "2022-05-30",
   "description": "Illuminating Asian artists everywhere. Cover: Emei.",
   "name": "Jasmine",
@@ -1960,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -3579,6 +3597,24 @@
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "album": {
+        "name": "ENVY",
+        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202753,
+      "name": "ENVY",
+      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
     },
     {
       "album": {
@@ -5457,7 +5493,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 154553,
       "name": "HSB",
       "url": "https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA"
@@ -6173,7 +6209,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 158130,
       "name": "Isn't It Obvious",
       "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
@@ -7101,7 +7137,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 178448,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk"
@@ -8542,6 +8578,28 @@
     },
     {
       "album": {
+        "name": "On Everything",
+        "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "On Everything",
+      "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -9310,6 +9368,24 @@
     },
     {
       "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "Really Mean It",
+      "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
+    },
+    {
+      "album": {
         "name": "Really Mean It",
         "url": "https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn"
       },
@@ -9321,7 +9397,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 194262,
       "name": "Really Mean It",
       "url": "https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC"

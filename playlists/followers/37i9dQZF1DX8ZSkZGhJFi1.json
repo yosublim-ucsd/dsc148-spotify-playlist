@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 48426,
+  "2024-02-18": 48433,
   "date_first_scraped": "2022-03-02",
   "description": "Beats instrumentais para te ajudar a focar mantendo o \u00e2nimo.",
   "name": "Foco com Energia",
@@ -575,7 +575,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 102754,
       "name": "ataraxia",
       "url": "https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF"
@@ -2257,7 +2257,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 120000,
       "name": "don't ask",
       "url": "https://open.spotify.com/track/5diB9qcSwbt0fUFokzVj6H"
@@ -4095,7 +4095,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 135774,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/3C9DeWMptUuqPtgHwVSqCO"
@@ -11593,7 +11593,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Tropical Getaway",
       "url": "https://open.spotify.com/track/3ZLsiAI1wMmG5FEtJ8yjwl"

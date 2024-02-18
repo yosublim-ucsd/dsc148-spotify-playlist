@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1471256,
+  "2024-02-18": 1471486,
   "date_first_scraped": "2021-12-30",
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
   "name": "sad girl starter pack",
@@ -1517,6 +1517,24 @@
       "duration_ms": 233048,
       "name": "Different This Time",
       "url": "https://open.spotify.com/track/4WFWh42DCkPCjcjqITk54S"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "album": {
@@ -5233,7 +5251,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"

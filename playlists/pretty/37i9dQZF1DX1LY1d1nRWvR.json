@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33501,
+  "num_followers": 33503,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQ4ODEwNWFhZjBkN2E1ZGQ4MjUwOGY5NjEzYWFiODgzN2VmM2Y1",
+  "snapshot_id": "MCxhNjUyNzE5NTQyNmU4MDEyMzk4NTdiYjAzYWVkMGZlMDJiNTBlZThm",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Nubya's 5ive",
-        "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 458605,
-      "name": "Lost Kingdoms",
-      "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Isphithiphithi",
         "url": "https://open.spotify.com/album/4sO9GxYupSVEJ3rRsaVpnd"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 381586,
       "name": "Akulaleki",
       "url": "https://open.spotify.com/track/73wcFiFeCQurmHDQIcirbm"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Nubya's 5ive",
+        "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 458605,
+      "name": "Lost Kingdoms",
+      "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -363,26 +363,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Finding Foundations (The Remixes)",
-        "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 367413,
-      "name": "Learn Your Lesson - Photay Remix",
-      "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Rye Lane Vol. 1",
         "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 132864,
       "name": "Nankoo on Keys",
       "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Finding Foundations (The Remixes)",
+        "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 367413,
+      "name": "Learn Your Lesson - Photay Remix",
+      "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "All My Troubles",
-        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "All My Troubles",
-      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "All My Troubles",
+        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "All My Troubles",
+      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -863,26 +863,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Straight Line (Remixed)",
-        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
-      },
-      "artists": [
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 376489,
-      "name": "Straight Line - Neil Cowley Remix",
-      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Boro",
         "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 352909,
       "name": "Golden Gai",
       "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Straight Line (Remixed)",
+        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+      },
+      "artists": [
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 376489,
+      "name": "Straight Line - Neil Cowley Remix",
+      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
     },
     {
       "added_at": "2021-10-08 17:36:35",

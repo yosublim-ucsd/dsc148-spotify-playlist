@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Norah Jones
 
-373 songs - 21 hr 29 min
+374 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [i'm confident that i'm insecure](https://open.spotify.com/track/2vcJAWazBGDeUIbzdU0zV8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [i'm confident that i'm insecure](https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X) | 2:41 | 2023-08-11 |  |
 | [i'm lost for words](https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [i'm lost for words](https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH) | 2:17 | 2022-09-02 | 2022-09-24 |
 | [i'm lost for words](https://open.spotify.com/track/7MTba27fW6MgauKXvQ7gqw) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [the blue album](https://open.spotify.com/album/5GcYZxshVMWixtXvjsYi3T) | 2:17 | 2022-09-02 |  |
-| [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 |  |
+| [If I Weren't Me](https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 2:31 | 2023-03-24 |  |
+| [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 | 2024-02-18 |
 | [If It's Love](https://open.spotify.com/track/0pPt7BzRUrYLiSdFrjN7QA) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [If It's Love](https://open.spotify.com/album/1KbxCIV9Zq8npEmyV8efqM) | 3:14 | 2021-12-03 | 2022-05-08 |
 | [If It's Love](https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:14 | 2021-12-03 | 2022-10-01 |
 | [If Standing Was Flying](https://open.spotify.com/track/6SG0ueYRAT8rIEqDjX82JH) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [If Standing Was Flying](https://open.spotify.com/album/01G5Yoz4ZnQTNYIlL7DgIV) | 4:09 | 2021-12-03 | 2022-07-29 |

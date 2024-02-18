@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,515 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,517 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 25 | [A Lua Atrás Do Prédio](https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 3:07 |
 | 26 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 |
 | 27 | [Ruaterapia \(feat\. Mano Brown & Max De Castro\)](https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Max de Castro](https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:31 |
-| 28 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 |
+| 28 | [Segura Seu BO](https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 3:33 |
 | 29 | [Não Sabem de Nada](https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:02 |
-| 30 | [Segura Seu BO](https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 3:33 |
+| 30 | [Bilhete 2.0 / Incidental: Uma Gota No Oceano \- Ao Vivo](https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Sinais Sessions \- Morro Da Urca \(Ao Vivo\)](https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo) | 3:50 |
 | 31 | [Homem do Mundo \(feat\. Criolo\)](https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:17 |
 | 32 | [Virando a Mesa](https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daniel Cohen](https://open.spotify.com/artist/0vEWuXIn1tvEEVNTL0pgSP) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:21 |
 | 33 | [A Trilha do Fim do Filme](https://open.spotify.com/track/7B0PA9fMc8sSAUYmiz87gD) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [A Trilha do Fim do Filme](https://open.spotify.com/album/7qwu0QksoBnKwErXsjaZ3O) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Língua dos Campeões](https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i) | [Língua dos Campeões](https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge) | 7:44 |
 | 50 | [Cê Já Teve um Sonho?](https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 1:56 |
 
-Snapshot ID: `Mjg0NjgyMDksMDAwMDAwMDBjZDE3MjlhNjMwNTAwMGVhZDVkNmM5MmQwZmExOTE3YQ==`
+Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlZDJhMWJhMDZlNDg3NTNmODBkNzU5YjNlOTgzMzEwOA==`

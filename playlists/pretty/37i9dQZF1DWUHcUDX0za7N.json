@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
-  "num_followers": 43358,
+  "num_followers": 43418,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTk4ODE5NGFmNDRlYWZiYzY0MjAwNWI2ZmM5MWVhOGQ3ZGU4ZTUy",
+  "snapshot_id": "MCxiMDJmODVjMDQzZTJmZTQ0YTA0NGI5NTU4ZTAxYjI5NTU1ZDFjMmE5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:27:18",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
+        "name": "Pop Sermon",
+        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
+      },
+      "artists": [
+        {
+          "name": "Dope Caesar",
+          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 149684,
+      "name": "Pop Sermon",
+      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
         "name": "If They Are Real",
         "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
       },
@@ -1079,6 +1103,22 @@
       "duration_ms": 222000,
       "name": "If They Are Real",
       "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
     },
     {
       "added_at": "2024-02-16 05:27:18",
@@ -1103,46 +1143,6 @@
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
-        "name": "Pop Sermon",
-        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
-      },
-      "artists": [
-        {
-          "name": "Dope Caesar",
-          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 149684,
-      "name": "Pop Sermon",
-      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
     },
     {
       "added_at": "2024-02-16 05:27:18",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
         "name": "Make E No Cause Fight 3",
         "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 171272,
       "name": "42",
       "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
-        "name": "Belong to You",
-        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Belong to You",
-      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
     },
     {
       "added_at": "2024-02-16 05:27:18",

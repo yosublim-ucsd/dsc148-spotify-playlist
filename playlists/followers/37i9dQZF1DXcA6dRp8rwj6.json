@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 438244,
+  "2024-02-18": 438247,
   "date_first_scraped": "2022-01-24",
   "description": "The hottest Hip-Hop of today all over the world. (Cover: ScHoolboy Q)",
   "name": "Beats & Rhymes",
@@ -28617,6 +28617,24 @@
       "duration_ms": 180000,
       "name": "ROOF",
       "url": "https://open.spotify.com/track/1CW4G9j2I53c3M43hPHZKV"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/1NGVSYnU5H1g0IWOEyuYNq"
+      },
+      "artists": [
+        {
+          "name": "Flowsik",
+          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157252,
+      "name": "Rooftop (\uc625\ud0d1)",
+      "url": "https://open.spotify.com/track/7kdbbVFmNzsTGpQRTrBtCl"
     },
     {
       "album": {

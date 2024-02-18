@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 10661,
+  "2024-02-18": 10663,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -681,6 +681,24 @@
       "duration_ms": 435773,
       "name": "Corona",
       "url": "https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i"
+    },
+    {
+      "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/4niGj2NO2LC8DGOB7c33L4"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266258,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/2LCbdDcsz1sZExRYD4uQof"
     },
     {
       "album": {
@@ -1507,6 +1525,24 @@
       "duration_ms": 425510,
       "name": "Jasmiinin kukka",
       "url": "https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP"
+    },
+    {
+      "album": {
+        "name": "Jazz Cats",
+        "url": "https://open.spotify.com/album/4Hk6zrdl6KikUjtvusKenR"
+      },
+      "artists": [
+        {
+          "name": "The Dowser",
+          "url": "https://open.spotify.com/artist/451jzR99dEfzTv6tQ4FTQ4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122943,
+      "name": "Jazz Cats",
+      "url": "https://open.spotify.com/track/5hsjBC5Br4GTfCyvEuwTw9"
     },
     {
       "album": {
@@ -3825,6 +3861,36 @@
       "duration_ms": 74300,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA"
+    },
+    {
+      "album": {
+        "name": "Waiting That Life",
+        "url": "https://open.spotify.com/album/1bZ6a3FMyCqgaQ9PiqlHbg"
+      },
+      "artists": [
+        {
+          "name": "Adele Sauros",
+          "url": "https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3"
+        },
+        {
+          "name": "Toomas Keski-S\u00e4ntti",
+          "url": "https://open.spotify.com/artist/6Nv4OPkMMv7s5Kush2Flp3"
+        },
+        {
+          "name": "Vesa Ojaniemi",
+          "url": "https://open.spotify.com/artist/4MwN0AjsejfkObw8iYyN3F"
+        },
+        {
+          "name": "Tuomas Timonen",
+          "url": "https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463800,
+      "name": "Waiting That Life",
+      "url": "https://open.spotify.com/track/0n4a21KErDwuqOPHCanu6u"
     },
     {
       "album": {

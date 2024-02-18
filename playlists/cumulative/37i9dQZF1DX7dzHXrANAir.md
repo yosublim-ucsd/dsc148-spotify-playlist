@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-270 songs - 19 hr 41 min
+271 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Orawa](https://open.spotify.com/track/1farisX137YtmtrET57xBR) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Studio 3](https://open.spotify.com/album/0gRyeLgYU7GUpjkGBSYpoi) | 6:51 | 2021-12-10 | 2022-01-17 |
 | [Ostinato](https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 4:28 | 2021-12-10 |  |
 | [OULALALA \- Orchestral Version](https://open.spotify.com/track/0H1SOxs8jxcbkriQ9CA2en) | [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Angie Robba](https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4) | [OULALALA \(Orchestral Version\)](https://open.spotify.com/album/1Jxtwuc0G14rIsBvqdFAId) | 3:05 | 2022-03-25 | 2022-04-01 |
-| [Overture](https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI) | [Mazoulew](https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj) | [Movements](https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY) | 2:19 | 2021-12-10 |  |
+| [Overture](https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI) | [Mazoulew](https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj) | [Movements](https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY) | 2:19 | 2021-12-10 | 2024-02-18 |
 | [Owls](https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO) | [Samuel Powell](https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG) | [Owls](https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI) | 4:02 | 2021-12-10 |  |
 | [Papaver](https://open.spotify.com/track/2jXNT0yeCmCpJKUVM5lZZJ) | [Adam Weiss](https://open.spotify.com/artist/40A9Tg73TeQTIFN0wgxsBG) | [Papaver](https://open.spotify.com/album/3ilqKPUf4InrCBSWwzGY8L) | 4:06 | 2021-12-10 | 2022-07-28 |
 | [Passacaille](https://open.spotify.com/track/6QpnhxER1fhJEHo8dPry3a) | [Jameson Nathan Jones](https://open.spotify.com/artist/3elvqJwCi7gKIbXv4WOyCr), [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) | [Passacaille](https://open.spotify.com/album/17A2kTMxPi7N1bHD51tfbM) | 3:45 | 2022-02-11 | 2022-07-29 |
@@ -224,6 +224,7 @@
 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 | 2021-12-10 |  |
 | [Scott and Kate Part 2](https://open.spotify.com/track/3MLo3dIZ3iy6ZCjifr6q0D) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Scott and Kate Part 2](https://open.spotify.com/album/6YcckpMztmNbdEIvFblBRu) | 2:49 | 2021-12-10 | 2021-12-31 |
 | [Season Shifting \- Robert Lippok Rework](https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Post\-Svalbard](https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk) | 4:30 | 2021-12-10 |  |
+| [Sections 1\-16](https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0) | [Simeon ten Holt](https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57), [Erik Hall](https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB) | [Canto Ostinato](https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5) | 12:56 | 2023-10-20 |  |
 | [Shéhérazade \- Laura Masotto Rework](https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Matteo Zanferrari](https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj) | [Shéhérazade \(Laura Masotto Rework\)](https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q) | 4:03 | 2022-06-24 |  |
 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 | 2022-07-22 | 2023-03-30 |
 | [Sleepless Wake](https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Sleepless Wake](https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs) | 3:42 | 2021-12-10 | 2023-12-11 |

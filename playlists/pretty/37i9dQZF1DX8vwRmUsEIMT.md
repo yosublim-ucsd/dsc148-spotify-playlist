@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,633 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,632 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Answer](https://open.spotify.com/track/1QBMPnuR6v9OB1VVxgJB5G) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ), [K1NG](https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9) | [Answer](https://open.spotify.com/album/0WkQauwdoWdnTyHE53ZBbm) | 2:46 |
 | 80 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 
-Snapshot ID: `MCxlNTM0MjRmNTY2YmQ0YWFiYTgzNWNjYjZmZWJmNmZmZmNlMGQwMGJk`
+Snapshot ID: `MCw2MTc3MWU5YjgzZThhMjRlNzMyOTRiOWE3NTA2OTZjYTY5OWI5MTYw`

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 110841,
+  "2024-02-18": 110942,
   "date_first_scraped": "2022-08-06",
   "description": "A new take on a classic sound. Cover: Idina Menzel",
   "name": "Nu-Disco",
@@ -452,6 +452,28 @@
     },
     {
       "album": {
+        "name": "Bring On Up Our Love",
+        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Bring On Up Our Love",
+      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
+    },
+    {
+      "album": {
         "name": "Broke a Sweat",
         "url": "https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh"
       },
@@ -565,7 +587,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 382372,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq"
@@ -799,6 +821,24 @@
       "duration_ms": 195500,
       "name": "Club Paradise",
       "url": "https://open.spotify.com/track/36shm7XEr7Uzug8gQ02Kpn"
+    },
+    {
+      "album": {
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun"
+      },
+      "artists": [
+        {
+          "name": "St. Paul ",
+          "url": "https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178690,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/6RW1csDGTkCmKCbOwYFtlA"
     },
     {
       "album": {
@@ -1401,7 +1441,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 141680,
       "name": "Faces",
       "url": "https://open.spotify.com/track/39LJTkbl1WkvSni7zJ66tJ"
@@ -2395,7 +2435,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 381639,
       "name": "In This Life - Cassara Remix",
       "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
@@ -2691,6 +2731,28 @@
       "duration_ms": 241225,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh"
+    },
+    {
+      "album": {
+        "name": "Let Go (Miss Toto Remix)",
+        "url": "https://open.spotify.com/album/75fgeIKGvHZilRI3pHF0WH"
+      },
+      "artists": [
+        {
+          "name": "Shea Coule\u00e9",
+          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
+        },
+        {
+          "name": "Miss Toto",
+          "url": "https://open.spotify.com/artist/16iJMzInNoSyNHgzUZR8nx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Let Go (Miss Toto Remix)",
+      "url": "https://open.spotify.com/track/0Wuv9s1Ijezbkg3K6WhNpw"
     },
     {
       "album": {

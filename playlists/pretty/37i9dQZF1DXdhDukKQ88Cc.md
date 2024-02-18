@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,822 likes - 68 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,841 likes - 68 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 22 | [Skarpt Lys](https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 3:03 |
 | 23 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 |
 | 24 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 |
-| 25 | [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 |
+| 25 | [Ensom](https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:20 |
 | 26 | [Murciélago](https://open.spotify.com/track/6bTv8wFuVu5O21g7HTxdqd) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Murciélago](https://open.spotify.com/album/2HZAQ8Ur0Ac7es5G4IfIAS) | 2:02 |
 | 27 | [Safari](https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Safari](https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41) | 2:47 |
 | 28 | [Ups](https://open.spotify.com/track/7aLi7SODrTLkxBnENkYGps) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Ups](https://open.spotify.com/album/0lkWgl4t6t5qWoEr9Ew289) | 2:27 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 67 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 |
 | 68 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCw1YWU1ZmZhZjU5OThmYzg4N2MzYTU1ZTYwM2E0NDNhODM2MGJiNTVj`
+Snapshot ID: `MCw1YmYxZmVhYTA1YWQ1Y2VlMTAxNWJjYmQ5ZWIwNmJjYzAwYWUwNTQx`

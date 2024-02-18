@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 247569,
+  "2024-02-18": 247635,
   "date_first_scraped": "2022-05-30",
   "description": "Ambient and percussion to move the body and heal the soul.",
   "name": "Healing Rhythms",
@@ -644,6 +644,24 @@
     },
     {
       "album": {
+        "name": "Exploration",
+        "url": "https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC"
+      },
+      "artists": [
+        {
+          "name": "Sonic Ark",
+          "url": "https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169061,
+      "name": "Exploration",
+      "url": "https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM"
+    },
+    {
+      "album": {
         "name": "Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants",
         "url": "https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP"
       },
@@ -785,6 +803,24 @@
       "duration_ms": 159767,
       "name": "Ghostly Dome",
       "url": "https://open.spotify.com/track/5XoPvzUlpMqUwbd7vzFPWp"
+    },
+    {
+      "album": {
+        "name": "Greet the Energy Self",
+        "url": "https://open.spotify.com/album/2nYhiBRBxxAfpJtP8PfxKZ"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129457,
+      "name": "Greet the Energy Self",
+      "url": "https://open.spotify.com/track/7ANNj93G5eBbDOvBoACE4x"
     },
     {
       "album": {
@@ -1761,6 +1797,24 @@
       "duration_ms": 189711,
       "name": "Spadina Ave",
       "url": "https://open.spotify.com/track/1zQZnHwMSlP1eov6Lr4fTM"
+    },
+    {
+      "album": {
+        "name": "Sparrow Song",
+        "url": "https://open.spotify.com/album/2KSKfnP1uoUSJOLlS1uWTx"
+      },
+      "artists": [
+        {
+          "name": "Stone Steps",
+          "url": "https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Sparrow Song",
+      "url": "https://open.spotify.com/track/1aVJxI2dZXD6TQ3zHVIDhl"
     },
     {
       "album": {

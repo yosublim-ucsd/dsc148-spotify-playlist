@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Pick Ya Poison",
+        "url": "https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178299,
+      "name": "Pick Ya Poison",
+      "url": "https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
       },

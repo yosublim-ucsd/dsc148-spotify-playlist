@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241078,
+  "num_followers": 241090,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGExZGNmMDUxY2ViMmMyYWJkNDg5ODMwMDQwY2I4NmU1YWY2MWE3",
+  "snapshot_id": "MCxmNGI1YWNkZTY0YjQyYmE2YjBkNTY2NDhmM2IyNjk3MzFkY2RjZWIy",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 201347,
       "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 183996,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
-      },
-      "artists": [
-        {
-          "name": "Quessswho",
-          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
-        }
-      ],
-      "duration_ms": 121263,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Say That",
         "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 227142,
       "name": "Say That",
       "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
+      },
+      "artists": [
+        {
+          "name": "Quessswho",
+          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
+        }
+      ],
+      "duration_ms": 121263,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Flexible",
+        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
+      },
+      "artists": [
+        {
+          "name": "Jazz Carta",
+          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Flexible",
+      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 172941,
       "name": "Awareness - Radio Edit",
       "url": "https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Flexible",
-        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
-      },
-      "artists": [
-        {
-          "name": "Jazz Carta",
-          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Flexible",
-      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
     },
     {
       "added_at": "2024-02-15 23:00:00",

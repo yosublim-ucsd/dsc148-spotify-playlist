@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-190 songs - 8 hr 48 min
+191 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dance With Me](https://open.spotify.com/track/5OV5EW5t6bnf25LJSpcF0r) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Dance With Me](https://open.spotify.com/album/4a8myC7bPScWi8QHUfElEP) | 1:47 | 2023-12-22 |  |
 | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM) | 2:44 | 2022-06-10 |  |
 | [Don't Hate You](https://open.spotify.com/track/7rjyb0xF3bKwJ3GZ9ORbaM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Don't Hate You](https://open.spotify.com/album/6AGPekG6MANxEmWEN2fXl7) | 2:28 | 2024-01-05 |  |
-| [Down By The River](https://open.spotify.com/track/5itF66zYn38tEXTAvFPqIk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1iCwsK0jUzBPQx7XEpumbz) | 4:01 | 2023-12-08 |  |
+| [Down By The River](https://open.spotify.com/track/5itF66zYn38tEXTAvFPqIk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1iCwsK0jUzBPQx7XEpumbz) | 4:01 | 2023-12-08 | 2024-02-18 |
 | [Dream](https://open.spotify.com/track/7LmKKKU6UljAt3iKlmW2U7) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Journey of a Lifetime](https://open.spotify.com/album/18vIGZFCNob3GF7gwoFrec) | 2:48 | 2023-08-27 |  |
 | [Dreamers](https://open.spotify.com/track/2PWTaCreHWYPpQ6LfPGVKj) | [Moonsound](https://open.spotify.com/artist/1jfhMoC88bueFbxYuwUpNN), [Jean Gavril](https://open.spotify.com/artist/3mhjDUn6g7D85To8ywwqbN) | [Dreamers](https://open.spotify.com/album/0NXQeg3isSatHdnXZPzDwk) | 2:25 | 2024-01-26 |  |
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2024-01-18 |  |
@@ -67,6 +67,7 @@
 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 | 2022-10-25 |  |
 | [for you](https://open.spotify.com/track/5MAxsR5h0aY0aEikSJlEAk) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [for you](https://open.spotify.com/album/7d8AFTql5mM8nzlCVmueRk) | 2:29 | 2024-02-09 |  |
 | [Forgot About Me](https://open.spotify.com/track/2xsbIx7EIcXD0xOXvAYtIU) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Forgot About Me](https://open.spotify.com/album/3daHPnxZulwPi4WlkD1ddj) | 1:38 | 2023-12-22 |  |
+| [Free To Love](https://open.spotify.com/track/3fBjxS3ttzeSl7T75SDsm3) | [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Free To Love](https://open.spotify.com/album/5Ae9zbg6eNmQDdj2P94uWU) | 3:19 | 2024-02-17 |  |
 | [Get Inside My Head \(feat\. Eirik Næss\)](https://open.spotify.com/track/4a6DKXwXM6DE3aWBF0aPR7) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Get Inside My Head \(feat\. Eirik Næss\)](https://open.spotify.com/album/7itjLEJxEUFkblRZBC5TDJ) | 2:30 | 2023-01-30 |  |
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2023-12-21 |  |
 | [Going Up](https://open.spotify.com/track/3HIaZIdc6ZJHdrldptfRpR) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Going Up](https://open.spotify.com/album/5VwDEyeptaWpEg5Wi2pQ4F) | 2:14 | 2024-01-18 |  |

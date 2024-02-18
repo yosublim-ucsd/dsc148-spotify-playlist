@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 32099,
+  "2024-02-18": 32098,
   "date_first_scraped": "2023-12-14",
   "description": "Shake up your day at the office with this mix. Join our mailing list   <a href=\"https://umusic.lnk.to/Spotify_OfficeMusic_SignUp\">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.",
   "name": "Office Music (New & Old Hits!)",
@@ -203,7 +203,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 178280,
       "name": "Bigger Than The Night",
       "url": "https://open.spotify.com/track/162cSMlaWCzzgWbUBWdkcS"
@@ -2347,6 +2347,24 @@
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2EZRRG16dKOq8vnaRNOA2T"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/6VFMpSq7A5tAn0JrM7sP27"
     }
   ],
   "url": "https://open.spotify.com/playlist/4MGjsC9FFb2SlwoNuSdI9d"

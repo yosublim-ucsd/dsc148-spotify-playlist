@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6092,
+  "num_followers": 6093,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm",
+  "snapshot_id": "MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "re:",
-        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 226817,
-      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
-      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "GOMAK BOYS",
         "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "re:",
+        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 226817,
+      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
+      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 203780,
+      "name": "Just Can't Say",
+      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
         "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
       },
       "artists": [
         {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
         }
       ],
-      "duration_ms": 203780,
-      "name": "Just Can't Say",
-      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
+      "duration_ms": 247666,
+      "name": "Green Tea",
+      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Heart in Motion",
-        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
-      },
-      "artists": [
-        {
-          "name": "The Green Tea",
-          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Green Tea",
-      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Mini Stewardess",
         "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 202823,
       "name": "Mini Stewardess",
       "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "talks about blossoms",
-        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+        "name": "talks about blossoms",
+        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
       },
       "artists": [
         {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+      "duration_ms": 218666,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1263,6 +1247,22 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2023-07-07 15:58:47",

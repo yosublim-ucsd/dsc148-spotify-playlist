@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 128410,
+  "2024-02-18": 128418,
   "date_first_scraped": "2022-03-24",
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC ",
   "name": "Cop\u00e3o na M\u00e3o",
@@ -317,7 +317,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 145600,
       "name": "Acelerado",
       "url": "https://open.spotify.com/track/2WIFDdMuzxwnR7i3uYnqWM"
@@ -3112,6 +3112,36 @@
     },
     {
       "album": {
+        "name": "Esse Din Aqui",
+        "url": "https://open.spotify.com/album/1TyxLermgwhsVhQf44sdR3"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        },
+        {
+          "name": "MAD GUI",
+          "url": "https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Esse Din Aqui",
+      "url": "https://open.spotify.com/track/0HreFBS2oxj7lPeMcYKjeZ"
+    },
+    {
+      "album": {
         "name": "Eu T\u00f4 Com Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/0sJeVxomHZW8hzRxNGdAUK"
       },
@@ -5645,7 +5675,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 136383,
       "name": "Naipe Vagabundo",
       "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
@@ -6007,7 +6037,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 91890,
       "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
       "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"

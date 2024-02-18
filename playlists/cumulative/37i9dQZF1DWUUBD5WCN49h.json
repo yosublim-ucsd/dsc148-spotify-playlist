@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "2 Risky",
+        "url": "https://open.spotify.com/album/5D1KvVAfVHWB8lDuZ5Djtf"
+      },
+      "artists": [
+        {
+          "name": "Nova Blaq",
+          "url": "https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "2 Risky",
+      "url": "https://open.spotify.com/track/11WAqVZIghSiysY8IumyU1"
+    },
+    {
+      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU"
       },
@@ -9150,24 +9168,6 @@
       "duration_ms": 151213,
       "name": "Nobody Again",
       "url": "https://open.spotify.com/track/0URGH9yiNNtP4vypoVA6lm"
-    },
-    {
-      "album": {
-        "name": "Nobody loves",
-        "url": "https://open.spotify.com/album/5D1KvVAfVHWB8lDuZ5Djtf"
-      },
-      "artists": [
-        {
-          "name": "BEGO",
-          "url": "https://open.spotify.com/artist/7H1c09COY6jC6XVQbMwDTh"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180000,
-      "name": "Nobody loves",
-      "url": "https://open.spotify.com/track/11WAqVZIghSiysY8IumyU1"
     },
     {
       "album": {

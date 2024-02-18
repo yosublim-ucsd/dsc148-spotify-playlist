@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 46492,
+  "num_followers": 46504,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjU1MDdkY2QzMTFiNzllYmNkZWE3Yjk5MjBmMWFlZDA2MzEzMzIx",
+  "snapshot_id": "MCw3N2JkNjY1OGVjY2IxYzAyYzhjNmRjZmIzMDFjNmNmNWEzNjIyNmYz",
   "tracks": [
     {
       "added_at": "2024-02-15 12:20:53",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-02-15 12:20:53",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2024-02-15 12:20:53",
+      "album": {
         "name": "When We Were Younger (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
-    },
-    {
-      "added_at": "2024-02-15 12:20:53",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
       "added_at": "2024-02-15 12:20:53",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-02-15 12:20:53",
       "album": {
+        "name": "Let Me Feel Your Charm - Spotify Singles",
+        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Let Me Feel Your Charm - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
+    },
+    {
+      "added_at": "2024-02-15 12:20:53",
+      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -771,22 +791,6 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2024-02-15 12:20:53",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2024-02-15 12:20:53",
@@ -807,6 +811,22 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
+    },
+    {
+      "added_at": "2024-02-15 12:20:53",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2024-02-15 12:20:53",
@@ -955,22 +975,6 @@
     {
       "added_at": "2024-02-15 12:20:53",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
-      },
-      "artists": [
-        {
-          "name": "Reiki Ruawai",
-          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
-    },
-    {
-      "added_at": "2024-02-15 12:20:53",
-      "album": {
         "name": "Tomorrow's Gonna Come",
         "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
       },
@@ -983,6 +987,22 @@
       "duration_ms": 230920,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2024-02-15 12:20:53",
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
     },
     {
       "added_at": "2024-02-15 12:20:53",
@@ -1067,22 +1087,6 @@
     {
       "added_at": "2024-02-15 12:20:53",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
-    },
-    {
-      "added_at": "2024-02-15 12:20:53",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
       },
@@ -1095,22 +1099,6 @@
       "duration_ms": 203214,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2024-02-15 12:20:53",
-      "album": {
-        "name": "CDW",
-        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 303408,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
     },
     {
       "added_at": "2024-02-15 12:20:53",
@@ -1131,6 +1119,38 @@
     {
       "added_at": "2024-02-15 12:20:53",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
+    },
+    {
+      "added_at": "2024-02-15 12:20:53",
+      "album": {
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 303408,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
+    },
+    {
+      "added_at": "2024-02-15 12:20:53",
+      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
-    },
-    {
-      "added_at": "2024-02-15 12:20:53",
-      "album": {
-        "name": "Let Me Feel Your Charm - Spotify Singles",
-        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        },
-        {
-          "name": "Jensine Benitez",
-          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Let Me Feel Your Charm - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
     },
     {
       "added_at": "2024-02-15 12:20:53",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-02-15 12:20:53",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+        "name": "No Flowers",
+        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
         }
       ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
+      "duration_ms": 184557,
+      "name": "No Flowers",
+      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
     }
   ],
   "unique_name": "Soulful",

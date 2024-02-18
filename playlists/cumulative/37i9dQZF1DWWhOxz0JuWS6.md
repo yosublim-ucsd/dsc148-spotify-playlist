@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-531 songs - 1 day 14 hr 26 min
+532 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Edie \(Ciao Baby\)](https://open.spotify.com/track/3KTYf4XJ0Ghd8EiIhGM1Nb) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Sonic Temple](https://open.spotify.com/album/6N2W8EmbyRboYLsEqnWBKk) | 4:46 | 2020-12-08 | 2022-07-29 |
 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 | 2020-12-08 |  |
 | [Errol \- Remastered](https://open.spotify.com/track/1kxPRJGVKGqjJM7BB44p0p) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Sirocco \(Remastered\)](https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF) | 3:30 | 2020-12-08 |  |
-| [Everybody Wants You](https://open.spotify.com/track/1BUTAQyk9QsdvRDghyMTC9) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Emotions In Motion](https://open.spotify.com/album/6BTnMApVGPP5qQ2TUteXjg) | 3:46 | 2020-12-08 |  |
+| [Everybody Wants You](https://open.spotify.com/track/1BUTAQyk9QsdvRDghyMTC9) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Emotions In Motion](https://open.spotify.com/album/6BTnMApVGPP5qQ2TUteXjg) | 3:46 | 2020-12-08 | 2024-02-18 |
 | [Evil Walks](https://open.spotify.com/track/5ahPl557niKxia8Kquw1yh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 4:23 | 2020-12-08 | 2022-07-28 |
 | [Exciter](https://open.spotify.com/track/1SLlMQb4vdly9ZtRCV95Ry) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:12 | 2020-12-08 | 2022-07-25 |
 | [Exhuming McCarthy](https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:21 | 2020-12-08 | 2022-06-03 |
@@ -380,6 +380,7 @@
 | [Senses Working Overtime \- Remastered 2001](https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:50 | 2020-12-08 |  |
 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 | 2020-12-08 |  |
 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 | 2020-12-08 | 2024-02-10 |
+| [Seventeen](https://open.spotify.com/track/4ENa9MbktJjV3HiTnlsg2b) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/3frtDYyTU6jUALyj5umV1F) | 4:05 | 2022-11-17 |  |
 | [Shadows Of The Night](https://open.spotify.com/track/6pwQEpLOlwclrsjgEOHEp0) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Get Nervous](https://open.spotify.com/album/6WGt0GrbPx1NWlobn7j6zY) | 4:21 | 2020-12-08 |  |
 | [Shake It Up \- 2017 Remaster](https://open.spotify.com/track/3ZBzJbqwV2gQUAe4ofghOo) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up \(Expanded Edition\)](https://open.spotify.com/album/7KpSpJbHn3SYZIMHKkdO6V) | 3:31 | 2020-12-08 |  |
 | [Shake Me](https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 3:42 | 2020-12-08 |  |

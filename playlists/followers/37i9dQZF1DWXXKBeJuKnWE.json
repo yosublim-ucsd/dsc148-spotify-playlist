@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 518036,
+  "2024-02-18": 518002,
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Bad Omens ft. Poppy",
+  "description": "The home for heavy music. Cover: While She Sleeps",
   "name": "The Pit",
   "tracks": [
     {
@@ -263,7 +263,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 213706,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 202114,
       "name": "escalate",
       "url": "https://open.spotify.com/track/2hBalflQk2epPYW7GwdQb2"
@@ -1814,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/3XIr7xFwP0tJCV59ez5j3B"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184993,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/3GtVAWHLN0Jve9y0zzjcyG"
+    },
+    {
+      "album": {
         "name": "FUBAR",
         "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
       },
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 226066,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
@@ -2045,6 +2063,24 @@
       "duration_ms": 178963,
       "name": "H8 MY SELF",
       "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
+    },
+    {
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143413,
+      "name": "Hall & Oates",
+      "url": "https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV"
     },
     {
       "album": {
@@ -2291,6 +2327,24 @@
       "duration_ms": 196128,
       "name": "Hunter\u2019s Moon",
       "url": "https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v"
+    },
+    {
+      "album": {
+        "name": "I Hope You Choke",
+        "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207660,
+      "name": "I Hope You Choke",
+      "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
     },
     {
       "album": {
@@ -3247,7 +3301,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188235,
       "name": "Oportunista",
       "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
@@ -3485,7 +3539,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 161250,
       "name": "PRISON",
       "url": "https://open.spotify.com/track/6ru3rcoXUkmfWLT0OSBbUa"
@@ -3741,6 +3795,24 @@
       "duration_ms": 200489,
       "name": "Saviour II",
       "url": "https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR"
+    },
+    {
+      "album": {
+        "name": "Scapegoat",
+        "url": "https://open.spotify.com/album/3dbGY2s8ae7FtnjRxpkmlU"
+      },
+      "artists": [
+        {
+          "name": "Kill The Lights",
+          "url": "https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215426,
+      "name": "Scapegoat",
+      "url": "https://open.spotify.com/track/31RMzF3l0IK5KZH4hImxZP"
     },
     {
       "album": {
@@ -4728,6 +4800,42 @@
     },
     {
       "album": {
+        "name": "TO THE FLOWERS",
+        "url": "https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305203,
+      "name": "TO THE FLOWERS",
+      "url": "https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf"
+    },
+    {
+      "album": {
+        "name": "Today's My Day",
+        "url": "https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV"
+      },
+      "artists": [
+        {
+          "name": "BLACKGOLD",
+          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215833,
+      "name": "Today's My Day",
+      "url": "https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr"
+    },
+    {
+      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -4793,7 +4901,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 201854,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a"
@@ -5219,7 +5327,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
@@ -5317,6 +5425,24 @@
       "duration_ms": 321708,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
+    },
+    {
+      "album": {
+        "name": "A Digital Nowhere",
+        "url": "https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4"
     },
     {
       "album": {

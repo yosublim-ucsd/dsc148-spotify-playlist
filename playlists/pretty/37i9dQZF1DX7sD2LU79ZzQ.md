@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Batas Senja
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,493 likes - 95 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,518 likes - 95 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 94 | [Love Distance](https://open.spotify.com/track/4cL8A2FNfID5l2Kq5hLhXW) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Love Distance](https://open.spotify.com/album/253BrdvTfgPnAOVVOS2a3X) | 3:36 |
 | 95 | [Serious](https://open.spotify.com/track/37FxRSxWYJCmuBiF8tOlz4) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Serious](https://open.spotify.com/album/70TgrftyNNx9ksNZp2tGcO) | 3:20 |
 
-Snapshot ID: `MCw0NDM5MGIxYjAzM2JiYTBhY2Q1MzdlNDU2YzBmOGYzMjJhMWE3MmVk`
+Snapshot ID: `MCwzMjJkMGQ5ZmJmNmU0MDdmMDRhYzAzOTQxYzRhZGY1OGI0ZThhYjUy`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
-  "num_followers": 124897,
+  "num_followers": 124860,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmE2ZTY2OWE3YTdhY2MwMjVhOTBmNmYzOTlhNWJlOWM0NjY0MmM0",
+  "snapshot_id": "MCw1MmNkYTAxZDVhMjUxNGFhMThiMWI2NDhjN2I4Yjk1NGUxYTJhOGEx",
   "tracks": [
     {
       "added_at": "2024-01-08 08:05:07",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "the collective soul and unconscious: snowy night",
-        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "snowy night",
-      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "the collective soul and unconscious: snowy night",
+        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "snowy night",
+      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "MUST HAVE",
-        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
-      },
-      "artists": [
-        {
-          "name": "ATBO",
-          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "The Present",
         "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Dear Santa - X-Mas Special",
-        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
+        "name": "MUST HAVE",
+        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
       },
       "artists": [
         {
-          "name": "Girls' Generation-TTS",
-          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
         }
       ],
-      "duration_ms": 223916,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH"
+      "duration_ms": 196920,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+        "name": "Dear Santa - X-Mas Special",
+        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
       },
       "artists": [
         {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+          "name": "Girls' Generation-TTS",
+          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+      "duration_ms": 223916,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "Gift For You",
+        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Gift For You",
+      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "Have Yourself A Merry Little Christmas - SM STATION",
         "url": "https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 291040,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "Gift For You",
-        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
-      },
-      "artists": [
-        {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Gift For You",
-      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Everyday Christmas",
-        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Everyday Christmas",
-      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Everyday Christmas",
+        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Everyday Christmas",
+      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "It's Christmas time",
-        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 230161,
-      "name": "It's Christmas time",
-      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "The Christmas Number 12",
         "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 159835,
       "name": "The Christmas Number 12",
       "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "It's Christmas time",
+        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 230161,
+      "name": "It's Christmas time",
+      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        },
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 158226,
-      "name": "Be Your Christmas (feat. BOL4)",
-      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "When It Snows mmm (feat. Wheein)",
         "url": "https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 185240,
       "name": "When It Snows mmm (feat. Wheein)",
       "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Santa For You",
-        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Santa For You",
-      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Back to Christmas",
         "url": "https://open.spotify.com/album/6V67dnvjQ6q61vwxnLuVjU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 226346,
       "name": "Back to Christmas",
       "url": "https://open.spotify.com/track/3nGiUhlT8s6G6lTfO2LuLg"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Santa For You",
+        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Santa For You",
+      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
+        "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
+      "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "2016 United Cube Project Part 1",
         "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 228508,
       "name": "Special Christmas",
       "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
-        "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
-      "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
     },
     {
       "added_at": "2024-01-08 08:05:07",

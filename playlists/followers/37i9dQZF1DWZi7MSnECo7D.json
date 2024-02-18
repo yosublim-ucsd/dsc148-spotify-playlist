@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 394758,
+  "2024-02-18": 394745,
   "date_first_scraped": "2022-01-18",
   "description": "Novidades e destaques do indie nacional. Foto: Tuyo",
   "name": "Indie Brasil",
@@ -4467,6 +4467,24 @@
       "duration_ms": 206100,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/3EhGmDJSX80MJ1b1DGEwNb"
+    },
+    {
+      "album": {
+        "name": "Jaz uma Flor",
+        "url": "https://open.spotify.com/album/1CeY970vJdP7gbt8HfXRTp"
+      },
+      "artists": [
+        {
+          "name": "Moldrin",
+          "url": "https://open.spotify.com/artist/3r6zGJ8POTGaVYelmIc0jf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124766,
+      "name": "Jaz uma Flor",
+      "url": "https://open.spotify.com/track/4DFvldKpbj7dAclJSsxj3x"
     },
     {
       "album": {

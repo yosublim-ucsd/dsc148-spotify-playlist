@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-51 songs - 2 hr 21 min
+52 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [signed a deal](https://open.spotify.com/track/3FtbX3ZFt9w98MRIASjKkv) | [2Sdxrt3all](https://open.spotify.com/artist/1P8P73y8wFhXBybKRBzhbv) | [gotta be geeked](https://open.spotify.com/album/5Q42rQhzhmoqaX2xFj5IYK) | 2:40 | 2023-10-06 |  |
 | [Standin Tall](https://open.spotify.com/track/0o3omGI7a40Ih159AzWBeE) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Duwap So Based](https://open.spotify.com/album/3zDRtE06py5J6qntnklYHY) | 1:30 | 2023-10-06 |  |
 | [Suddenly](https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The End Of Comedy](https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H) | 3:17 | 2023-10-06 |  |
-| [That's It](https://open.spotify.com/track/222iLCnOH9jL1iTAPz0JKD) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 3](https://open.spotify.com/album/7v7tr9fDchcu0kpZlH3hpq) | 1:50 | 2023-10-06 |  |
+| [That's It](https://open.spotify.com/track/21JXEVMRD9Vj4TVpOIJSLq) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek \(Vol\. 3\)](https://open.spotify.com/album/0cnEbsIFKNZycR6SgQnUZn) | 1:50 | 2023-10-06 |  |
+| [That's It](https://open.spotify.com/track/222iLCnOH9jL1iTAPz0JKD) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 3](https://open.spotify.com/album/7v7tr9fDchcu0kpZlH3hpq) | 1:50 | 2023-10-06 | 2024-02-18 |
 | [TKO](https://open.spotify.com/track/3k2LL7pd1Q6Oc4aXreTM3h) | [Goonew](https://open.spotify.com/artist/3YqwRvYhfxmCFYIfvxaCAa) | [Goonwick 2](https://open.spotify.com/album/0l8VyC0o1DgLWSjichdO7G) | 2:00 | 2023-10-06 |  |
 | [Trapped In My Mind](https://open.spotify.com/track/3fV84Z6UdxxHqfGIMmuSKg) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:34 | 2023-10-06 |  |
 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 | 2023-10-06 |  |

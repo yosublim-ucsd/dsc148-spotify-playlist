@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 24 songs - 40 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 24 songs - 40 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 23 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 |
 | 24 | [Sam Spade](https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 2:27 |
 
-Snapshot ID: `Mjg0NjgyMDksMDAwMDAwMDBkMjkzYTg0OWM0ZWU2MjE1ZGFhNmJjMmE1ZTU4MjA5Nw==`
+Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDBlNTE0NTc3MzJmYWQ0ZGU5ZjFmODZhYzlhN2VhMDkyNg==`

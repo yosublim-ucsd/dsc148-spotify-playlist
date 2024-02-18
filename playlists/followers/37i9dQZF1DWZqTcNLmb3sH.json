@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 57041,
+  "2024-02-18": 57050,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -451,6 +451,36 @@
       "duration_ms": 135327,
       "name": "Aaluva Mandiyu (From \"Bisilu Kudure\")",
       "url": "https://open.spotify.com/track/6STQpK8q5OqYJG3kUKuYyL"
+    },
+    {
+      "album": {
+        "name": "Ondu Sarala Prema Kathe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PVMoiJrZz7VMQL9qLCNSM"
+      },
+      "artists": [
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Shruthi Rao",
+          "url": "https://open.spotify.com/artist/2lTE2WI4wukqpG2bhF9kmE"
+        },
+        {
+          "name": "Rohit Hallikhede",
+          "url": "https://open.spotify.com/artist/2w3RkyM5CaOgNFUfev5i0q"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195313,
+      "name": "Aamchi Mumbai (from \"Ondu Sarala Prema Kathe\")",
+      "url": "https://open.spotify.com/track/2f2EuaH4Nvwg52C5u7SL6l"
     },
     {
       "album": {
@@ -1307,7 +1337,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 120000,
       "name": "Anjanadri Theme Song (From \"HanuMan\") [Kannada]",
       "url": "https://open.spotify.com/track/1gTiz4EccN56liBJaIsyg9"
@@ -6894,6 +6924,32 @@
     },
     {
       "album": {
+        "name": "Enna Manadarasi (From \"Ranganayaka\")",
+        "url": "https://open.spotify.com/album/34wXquzy4JBLPPzaxMd3O3"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Sharadasuta",
+          "url": "https://open.spotify.com/artist/1Sd93KIXaxHFp6Bao6aLPV"
+        },
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193109,
+      "name": "Enna Manadarasi (From \"Ranganayaka\")",
+      "url": "https://open.spotify.com/track/3xxZtSzm4hDz5uylliePyg"
+    },
+    {
+      "album": {
         "name": "Ennene Manedevru (Title Track) [From \"Ennene Manedevru \"]",
         "url": "https://open.spotify.com/album/4TsiVggIuyfSJQIMK7j6VR"
       },
@@ -9387,7 +9443,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 267682,
       "name": "Hoovamma Hoove (From \"HanuMan\") [Kannada]",
       "url": "https://open.spotify.com/track/5gwAYXSVryzQcDyH0NGPJu"
@@ -14877,6 +14933,32 @@
       "duration_ms": 237473,
       "name": "Mogadalli - From \"Richie\"",
       "url": "https://open.spotify.com/track/5zJ1a0jHvMEQomiqy9Is0P"
+    },
+    {
+      "album": {
+        "name": "Ondu Sarala Prema Kathe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PVMoiJrZz7VMQL9qLCNSM"
+      },
+      "artists": [
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        },
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        },
+        {
+          "name": "Sriraksha Priyaram",
+          "url": "https://open.spotify.com/artist/2yjXvnIWQZRNTmjMGixnd5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212655,
+      "name": "Mookanaagabeku (from \"Ondu Sarala Prema Kathe\")",
+      "url": "https://open.spotify.com/track/7aEDig2vM0byzFFjFrofvW"
     },
     {
       "album": {
@@ -21239,7 +21321,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 214331,
       "name": "Sakhiye",
       "url": "https://open.spotify.com/track/7D3oxpkmcuyZ76vTV1ySOW"
@@ -21599,6 +21681,24 @@
       "duration_ms": 298357,
       "name": "Sangeetha Sagara (From \"Orchestra, Mysuru!\")",
       "url": "https://open.spotify.com/track/2ynQxMc5SytzQ4eyaDpYDM"
+    },
+    {
+      "album": {
+        "name": "Ondu Sarala Prema Kathe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PVMoiJrZz7VMQL9qLCNSM"
+      },
+      "artists": [
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195577,
+      "name": "Sangeetha Sulabhavalla (from \"Ondu Sarala Prema Kathe\")",
+      "url": "https://open.spotify.com/track/6Q6LRKXPhn60sDrcSeDOmO"
     },
     {
       "album": {
@@ -22611,7 +22711,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 230400,
       "name": "Sri Ram - From \"Vairam\"",
       "url": "https://open.spotify.com/track/2LrgEYPPevTu6cCheyN7pB"

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40118,
+  "num_followers": 40116,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTU1ODdiOGNhZWU3NTBkMmExYTVjNWQ3MTVmYWExMjJiMDBmMjQ0",
+  "snapshot_id": "MCwyOWIwMmZmZGU1NDEzZTRhMmIyOGViYzQ4ZTkzMzk1Y2YzYWJhYWRh",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "INTERMITENTE",
-        "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 169451,
-      "name": "En Un Loop",
-      "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 152425,
       "name": "1Amor",
       "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "INTERMITENTE",
+        "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 169451,
+      "name": "En Un Loop",
+      "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "RAWR",
-        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/392hK64cm39C8CDetPM6HC"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
         }
       ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT"
+      "duration_ms": 77500,
+      "name": "Gran remera",
+      "url": "https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -691,18 +707,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Suerte",
-        "url": "https://open.spotify.com/album/392hK64cm39C8CDetPM6HC"
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
       },
       "artists": [
         {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 77500,
-      "name": "Gran remera",
-      "url": "https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD"
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -719,22 +735,6 @@
       "duration_ms": 238128,
       "name": "Los Paisajes",
       "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "360 al Mundo",
+      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "La Ara\u00f1a",
         "url": "https://open.spotify.com/album/7Fb2WjHd01JQGL6lKleSv7"
       },
@@ -1007,18 +1023,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 179250,
-      "name": "360 al Mundo",
-      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1063,26 +1083,6 @@
       "duration_ms": 191278,
       "name": "Rothmans",
       "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 179579,
-      "name": "Opuesto Complementario",
-      "url": "https://open.spotify.com/track/7G5Zd3uDwBnEPVJeYOveee"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "SKYS4U",
         "url": "https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 326870,
       "name": "SKYS4U",
       "url": "https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 179579,
+      "name": "Opuesto Complementario",
+      "url": "https://open.spotify.com/track/7G5Zd3uDwBnEPVJeYOveee"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Veinte Veinte",
-        "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
-      },
-      "artists": [
-        {
-          "name": "BIFE",
-          "url": "https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk"
-        },
-        {
-          "name": "Noelia Sinkunas",
-          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
-        }
-      ],
-      "duration_ms": 73557,
-      "name": "Farras",
-      "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -1259,18 +1239,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "R\u00e1pido y Furioso",
-        "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
+        "name": "Veinte Veinte",
+        "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
       "artists": [
         {
-          "name": "Maia Reficco",
-          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
+          "name": "BIFE",
+          "url": "https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk"
+        },
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
         }
       ],
-      "duration_ms": 153877,
-      "name": "R\u00e1pido y Furioso",
-      "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
+      "duration_ms": 73557,
+      "name": "Farras",
+      "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1287,6 +1271,22 @@
       "duration_ms": 146668,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "R\u00e1pido y Furioso",
+        "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
+      },
+      "artists": [
+        {
+          "name": "Maia Reficco",
+          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
+        }
+      ],
+      "duration_ms": 153877,
+      "name": "R\u00e1pido y Furioso",
+      "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "UWU",
-        "url": "https://open.spotify.com/album/7vkaUsnmcEXuSIkQ58vRGt"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "Punga",
-          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
-        }
-      ],
-      "duration_ms": 142309,
-      "name": "Yandere",
-      "url": "https://open.spotify.com/track/64j54c4izWGwfHuONWtqDw"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 194470,
       "name": "Piedra del \u00c1guila",
       "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "UWU",
+        "url": "https://open.spotify.com/album/7vkaUsnmcEXuSIkQ58vRGt"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        }
+      ],
+      "duration_ms": 142309,
+      "name": "Yandere",
+      "url": "https://open.spotify.com/track/64j54c4izWGwfHuONWtqDw"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Tiempo al Sol",
+        "url": "https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd"
+      },
+      "artists": [
+        {
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+        }
+      ],
+      "duration_ms": 95458,
+      "name": "Aunque Reste Tiempo",
+      "url": "https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "La de la Luna",
         "url": "https://open.spotify.com/album/3J0BhTKBAMreXusuUonzpx"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Tiempo al Sol",
-        "url": "https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd"
-      },
-      "artists": [
-        {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
-        }
-      ],
-      "duration_ms": 95458,
-      "name": "Aunque Reste Tiempo",
-      "url": "https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
-      },
-      "artists": [
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "El Final de Las Cosas",
         "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 319807,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Loter\u00eda",
+        "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
+      },
+      "artists": [
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/3dV0Znw71wFiOSNN20k5u1"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Munanakunanchej en el Camino Kurmi",
-        "url": "https://open.spotify.com/album/2kk6T2HCYPDoUcAqBry7zT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Caca en la Cabeza",
-      "url": "https://open.spotify.com/track/4p2wKzOAsHJ0QJ8jo7orWE"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Cardo o Ceniza",
         "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 183434,
       "name": "Reina",
       "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Munanakunanchej en el Camino Kurmi",
+        "url": "https://open.spotify.com/album/2kk6T2HCYPDoUcAqBry7zT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Caca en la Cabeza",
+      "url": "https://open.spotify.com/track/4p2wKzOAsHJ0QJ8jo7orWE"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "La Bella Indiferencia",
-        "url": "https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW"
-      },
-      "artists": [
-        {
-          "name": "Mariana Maz\u00fa",
-          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
-        }
-      ],
-      "duration_ms": 137456,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 294951,
       "name": "Luz",
       "url": "https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "La Bella Indiferencia",
+        "url": "https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW"
+      },
+      "artists": [
+        {
+          "name": "Mariana Maz\u00fa",
+          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
+        }
+      ],
+      "duration_ms": 137456,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl"
     }
   ],
   "unique_name": "EQUAL Argentina",

@@ -4,7 +4,7 @@
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 26 min
+56 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Puta Que Pariu](https://open.spotify.com/track/4NDvt31QU8VSXjfEk7O64A) | [DJ Dayeh](https://open.spotify.com/artist/0ZTKJ3pvPBc2IgKz6i7RH3), [DJ K](https://open.spotify.com/artist/1YZljq3fZXrlnCe0mMxwKB), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tory Dru](https://open.spotify.com/artist/0dxYsrJebx92yDX7hQrup5) | [Puta Que Pariu](https://open.spotify.com/album/515WImJFOyl2duvuIV1lo6) | 2:31 | 2023-12-30 |  |
 | [Ranger Preta](https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:35 | 2023-12-30 |  |
 | [Rompe](https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Rompe](https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT) | 2:33 | 2023-12-30 |  |
+| [Rua do Ouro](https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Rua do Ouro](https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ) | 2:31 | 2024-02-17 |  |
 | [Sainha](https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:44 | 2023-12-30 |  |
 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 | 2023-12-30 |  |
 | [Se Tá Solteira](https://open.spotify.com/track/6a5JCYemYOR4lta1mzaetS) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [BAILE](https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i) | 1:55 | 2023-12-30 |  |

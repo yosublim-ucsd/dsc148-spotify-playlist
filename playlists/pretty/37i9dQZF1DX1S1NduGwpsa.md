@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Maë Defays
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,794 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,838 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [Game On](https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Game On](https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG) | 5:01 |
 | 4 | [Subtle Note](https://open.spotify.com/track/5X2XewQqTVrCA5zDOuY7zh) | [LowJaZz](https://open.spotify.com/artist/1Fstsm2HEwZ2bnSvhrEVMp), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Subtle Note](https://open.spotify.com/album/2HLY4sX1eUNXNE8VGHXQmo) | 2:21 |
 | 5 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 |
-| 6 | [Years Ago](https://open.spotify.com/track/1UDVHg7pt5G5KWJTvlkjJx) | [Alfa Sekitoleko](https://open.spotify.com/artist/5cxeR87HvqXzdiMRBt5JFI), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Years Ago](https://open.spotify.com/album/2OzbZJ4FOyUzIv90LRxmzD) | 4:06 |
+| 6 | [Years Ago](https://open.spotify.com/track/1UDVHg7pt5G5KWJTvlkjJx) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Years Ago](https://open.spotify.com/album/2OzbZJ4FOyUzIv90LRxmzD) | 4:06 |
 | 7 | [Twenties](https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Twenties](https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9) | 2:56 |
 | 8 | [Istanbul \(feat\. Elijah Fox\) \- Live From Malibu](https://open.spotify.com/track/65lKgD4JnUU5EYaqMly9T6) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 4:08 |
 | 9 | [Here](https://open.spotify.com/track/5igTX1w9NpnixdBB8OzM7h) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Here](https://open.spotify.com/album/5kkMwBYrgH72BfynmHLz3m) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [In Heaven](https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Clap!](https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi) | 3:18 |
 | 50 | [Feelings \(Pour toi\)](https://open.spotify.com/track/5V4QQ6HBYAayI204oBnLM1) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 4:20 |
 
-Snapshot ID: `MCwyZTJiYTEwZDY4Y2UzYjEzNzY5NzNlOWViNDk2MGE2NzhiYWFkMzlk`
+Snapshot ID: `MCxjYTFmZDgzOWZjNDEyYjQ3NTBjZGZjMDdlMDYwNTI4YmQzY2RlN2Yw`

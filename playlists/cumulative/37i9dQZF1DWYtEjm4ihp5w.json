@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "NSR",
+        "url": "https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "BOOS",
+      "url": "https://open.spotify.com/track/4MGqqcMJt5Qe9Irx2YS1Vp"
+    },
+    {
+      "album": {
         "name": "BREDA",
         "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 186843,
       "name": "INARA",
       "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"

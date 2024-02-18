@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,567 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,644 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Living Room Parties](https://open.spotify.com/track/4nnzdzrcdRhtXr5AfBlVNo) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Living Room Parties](https://open.spotify.com/album/6s2qAgVdDgShpXanTqZgrA) | 4:11 |
 | 150 | [Heart Shaped Locket](https://open.spotify.com/track/5oaThEaulai5NDF9I0kz1T) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Keepsakes](https://open.spotify.com/album/5saWLgRVHZoGDtopmWkyMv) | 3:09 |
 
-Snapshot ID: `MCwzZjg5NjFiYjgyN2QxYjc2ZDNiMzE4NjJmYjg5ZWM3M2MzM2RmZDll`
+Snapshot ID: `MCw5NzQ0MWIxOWVjYzdhOWI5M2I0ZDMyOWY0ZTE1Y2M4YTY2MDcyY2Uz`

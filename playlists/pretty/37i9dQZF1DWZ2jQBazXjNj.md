@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,603 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,714 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 65 | [La Curiosidad](https://open.spotify.com/track/750Jft4koW1yoribM3DtzT) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Convencido](https://open.spotify.com/album/5jpPKL9NiWm7hVlLU6uHkb) | 3:32 |
 | 66 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
 | 67 | [Rosa Pastel](https://open.spotify.com/track/1WMK7SsidKdhRvApju1jAI) | [Karla Orellana](https://open.spotify.com/artist/3pi4RbA9ReDJ7uTCTRF3dx) | [Rosa Pastel](https://open.spotify.com/album/1Pw82F3xWXBW3iswNWW3dv) | 2:43 |
-| 68 | [Devoto \(Versión Norteño\)](https://open.spotify.com/track/1VoJ4l65xZBcMfXSP2SM40) | [Grupo La Reta](https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi) | [Devoto \(Versión Norteño\)](https://open.spotify.com/album/4NGMeKWkIrhNJ6sVJ0JDiz) | 3:44 |
-| 69 | [Causa Y Efecto](https://open.spotify.com/track/4Jf3GPjLyNPBeqUUIII2FT) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Causa Y Efecto](https://open.spotify.com/album/4SkZE8K2fVqkccMG2SjGWZ) | 3:33 |
+| 68 | [Causa Y Efecto](https://open.spotify.com/track/4Jf3GPjLyNPBeqUUIII2FT) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Causa Y Efecto](https://open.spotify.com/album/4SkZE8K2fVqkccMG2SjGWZ) | 3:33 |
+| 69 | [Devoto \(Versión Norteño\)](https://open.spotify.com/track/1VoJ4l65xZBcMfXSP2SM40) | [Grupo La Reta](https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi) | [Devoto \(Versión Norteño\)](https://open.spotify.com/album/4NGMeKWkIrhNJ6sVJ0JDiz) | 3:44 |
 | 70 | [Hoy Ya Me Voy](https://open.spotify.com/track/3qfu5T36coRkrb6NMXJlUi) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Hoy Ya Me Voy](https://open.spotify.com/album/5TDCkH3pVn14InTdgeAHAE) | 3:32 |
 | 71 | [Cómo Te Extraño Mi Amor \- Cover](https://open.spotify.com/track/33BVSng7vUV8EYhKetJkbe) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Las Más Pedidas \(Cover\)](https://open.spotify.com/album/3s0zPWQXnBr6hjCwnTw0SK) | 3:30 |
 | 72 | [Mi Prioridad](https://open.spotify.com/track/0KbWUzBCw2N11HhYPsHeag) | [Sentido](https://open.spotify.com/artist/1QkMDNXXlWHy3IWWl5ceSI) | [Mi Prioridad](https://open.spotify.com/album/2wRNM7YNOR7zENTETHmvlT) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
 | 75 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 
-Snapshot ID: `MCxhNzg5MjU1OWE1ODZlYThjNGJlYTNmMGZiMDI5YjU2N2MwYTQzMWU3`
+Snapshot ID: `MCw5OWVmYzk4NGM0M2ZjZGY1YzllZDE0NWY3YjBjMjJhY2ZkYjIwNzUz`

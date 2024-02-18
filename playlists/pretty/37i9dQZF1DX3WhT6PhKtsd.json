@@ -1,12 +1,12 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 113285,
+  "num_followers": 113304,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWE2MDk4ODVlNjk2ZWE5ZGQwZWFmNDk4MDdjZDk3ODU0NjIzMTNh",
+  "snapshot_id": "MCwzZjJhM2NhYjk0YzExZmQxNWQ1NzVmNjVhOWJkNGVkMTc1N2QyODEw",
   "tracks": [
     {
       "added_at": "2023-11-29 12:29:47",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "I Love You, I\u2019m Trying",
-        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 119047,
-      "name": "Something To Hide",
-      "url": "https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 123333,
       "name": "Kiss With A Fist",
       "url": "https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "I Love You, I\u2019m Trying",
+        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 119047,
+      "name": "Something To Hide",
+      "url": "https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy"
     },
     {
       "added_at": "2023-11-29 12:29:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "pity",
-        "url": "https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 179790,
-      "name": "pity",
-      "url": "https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "MID AIR",
         "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 168006,
       "name": "tenTHIRTYseven",
       "url": "https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "pity",
+        "url": "https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 179790,
+      "name": "pity",
+      "url": "https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV"
     },
     {
       "added_at": "2023-11-29 12:29:47",

@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 1211418,
+  "2024-02-18": 1211826,
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: The Castellows",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Redferrin",
   "name": "New Boots",
   "tracks": [
     {
@@ -5710,6 +5710,24 @@
     },
     {
       "album": {
+        "name": "Country's Cool Again",
+        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Country's Cool Again",
+      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+    },
+    {
+      "album": {
         "name": "County Roads",
         "url": "https://open.spotify.com/album/7LfrFqcqb2dxItx3MaCFxt"
       },
@@ -6333,6 +6351,24 @@
       "duration_ms": 157991,
       "name": "Dark Night - 717 Tapes",
       "url": "https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO"
+    },
+    {
+      "album": {
+        "name": "We All Grow Up",
+        "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH"
     },
     {
       "album": {
@@ -11292,6 +11328,24 @@
     },
     {
       "album": {
+        "name": "Good On You",
+        "url": "https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Good On You",
+      "url": "https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw"
+    },
+    {
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
       },
@@ -12658,6 +12712,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak & Alcohol",
+        "url": "https://open.spotify.com/album/2SX2xigSRk1AFQp9MUDgFW"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166032,
+      "name": "Heartbreak & Alcohol",
+      "url": "https://open.spotify.com/track/5GXhlMF4fbI0aJaxtR4ilc"
+    },
+    {
+      "album": {
         "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
         "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
@@ -12673,6 +12745,24 @@
       "duration_ms": 196506,
       "name": "Heartbreak On The Map",
       "url": "https://open.spotify.com/track/4kAg1SWfJoqJq7m2FF7l8p"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m"
     },
     {
       "album": {
@@ -13281,7 +13371,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 167440,
       "name": "Hey, Jack",
       "url": "https://open.spotify.com/track/0o6YthkHUTGo2H95UROejS"
@@ -16413,7 +16503,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 246986,
       "name": "It Takes A Woman",
       "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
@@ -16561,7 +16651,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193399,
       "name": "Jack and Diet Coke",
       "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
@@ -17985,7 +18075,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 196013,
       "name": "Little Less Lonely",
       "url": "https://open.spotify.com/track/3xoFfxN2RfHqDNG64f9Amw"
@@ -18437,6 +18527,24 @@
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+    },
+    {
+      "album": {
+        "name": "Old No. 7",
+        "url": "https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162953,
+      "name": "Lose Her For Nothin\u2019",
+      "url": "https://open.spotify.com/track/3BDk82FzvaQu6hvLuhrcPh"
     },
     {
       "album": {
@@ -19761,7 +19869,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 195176,
       "name": "Meant For Me",
       "url": "https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD"
@@ -27147,7 +27255,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 183040,
       "name": "Some Whiskey",
       "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
@@ -32167,7 +32275,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191269,
       "name": "Up In Texas",
       "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
@@ -32315,6 +32423,24 @@
       "duration_ms": 232173,
       "name": "Voice of Reason",
       "url": "https://open.spotify.com/track/1abh2BSnn0CSVZMRB94gzk"
+    },
+    {
+      "album": {
+        "name": "Waging War",
+        "url": "https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd"
+      },
+      "artists": [
+        {
+          "name": "Aidan Canfield",
+          "url": "https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241534,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q"
     },
     {
       "album": {
@@ -32729,7 +32855,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180000,
       "name": "We All Grow Up",
       "url": "https://open.spotify.com/track/4MYVzXhpm5iMnRZj6cWkSu"

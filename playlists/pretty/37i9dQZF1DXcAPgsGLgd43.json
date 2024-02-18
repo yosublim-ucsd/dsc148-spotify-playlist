@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3917,
+  "num_followers": 3919,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmE4OTdkYTJmMmJhZWQ5ODZlYjVjMWFiN2JhODBkMDVkMzc0ZTUx",
+  "snapshot_id": "MCw0ZjdhMmM2OWJkZWY1Njc2NTNmMTMzZmYzMWEzOTJlNTUyNjk0MWU1",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Canutito",
-        "url": "https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 206962,
-      "name": "Canutito",
-      "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Cuarto Oscuro / BAQ Spicy",
         "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Canutito",
+        "url": "https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 206962,
+      "name": "Canutito",
+      "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Bandolera (feat. Buza)",
-        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        },
-        {
-          "name": "Buza",
-          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Bandolera (feat. Buza)",
-      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
+      },
+      "artists": [
+        {
+          "name": "Alex Now (ES)",
+          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Boca",
         "url": "https://open.spotify.com/album/7ivFg8nNaoMCZRLSsN5wyu"
       },
@@ -1607,18 +1623,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
       },
       "artists": [
         {
-          "name": "Alex Now (ES)",
-          "url": "https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1711,6 +1731,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Labios (La Noche)",
         "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
       },
@@ -1763,26 +1803,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Sandia",
-        "url": "https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp"
-      },
-      "artists": [
-        {
-          "name": "Adiel Mora",
-          "url": "https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo"
-        },
-        {
-          "name": "Cris Ocana",
-          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
-        }
-      ],
-      "duration_ms": 152362,
-      "name": "Sandia",
-      "url": "https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "La Pista Es M\u00eda",
         "url": "https://open.spotify.com/album/5uuTO37yWyGsXYEF6ZvqHp"
       },
@@ -1807,22 +1827,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
-        "url": "https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5"
+        "name": "Sandia",
+        "url": "https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp"
       },
       "artists": [
         {
-          "name": "Franklyn Watts",
-          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+          "name": "Adiel Mora",
+          "url": "https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo"
         },
         {
-          "name": "Dateless",
-          "url": "https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty"
+          "name": "Cris Ocana",
+          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
-      "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
+      "duration_ms": 152362,
+      "name": "Sandia",
+      "url": "https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1847,6 +1867,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
+        "url": "https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Watts",
+          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+        },
+        {
+          "name": "Dateless",
+          "url": "https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
+      "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Balafon",
         "url": "https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2"
       },
@@ -1859,22 +1899,6 @@
       "duration_ms": 173280,
       "name": "Balafon",
       "url": "https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
-      },
-      "artists": [
-        {
-          "name": "BeMore",
-          "url": "https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1895,22 +1919,6 @@
       "duration_ms": 171785,
       "name": "Ay Papi",
       "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Te Marchar",
-        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 180005,
-      "name": "Te Marchar",
-      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
     }
   ],
   "unique_name": "Alma",

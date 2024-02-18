@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 823508,
+  "num_followers": 824044,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWMzM2ZhNzg5NTAzMDZlN2FhMjUxMzlhY2QyYjRhMWVhNjQzNWE1",
+  "snapshot_id": "MCxmMzMwNGFiODMxNzViZDZmZmY0NThiNjFkNjk5OWEyNWU3YTM2OGRk",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "...Ready For It? (BloodPop\u00ae Remix)",
         "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 189508,
       "name": "...Ready For It? - BloodPop\u00ae Remix",
       "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1371,22 +1371,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Chasing Highs (Felix Cartal Remix)",
-        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
+        "name": "Happier (Remixes)",
+        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
       },
       "artists": [
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "SPENCE",
+          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
         },
         {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
         }
       ],
-      "duration_ms": 220650,
-      "name": "Chasing Highs - Felix Cartal Remix",
-      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
+      "duration_ms": 158095,
+      "name": "Happier - Breathe Carolina Remix",
+      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1455,26 +1459,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Happier (Remixes)",
-        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
+        "name": "Chasing Highs (Felix Cartal Remix)",
+        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
       },
       "artists": [
         {
-          "name": "SPENCE",
-          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         },
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Happier - Breathe Carolina Remix",
-      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
+      "duration_ms": 220650,
+      "name": "Chasing Highs - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Final Song (Diplo & Jauz Remix)",
         "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 190480,
       "name": "Final Song - Diplo & Jauz Remix",
       "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 208278,
-      "name": "Treasure - Cash Cash Radio Mix",
-      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1827,22 +1827,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Hurts So Good (Remixes)",
-        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
+        "name": "Happy Now (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/6NjkiK78KEOoE8FLDKdtDS"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 205746,
-      "name": "Hurts So Good - Broiler Remix",
-      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
+      "duration_ms": 189268,
+      "name": "Happy Now - R3HAB Remix",
+      "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1867,26 +1871,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Happy Now (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6NjkiK78KEOoE8FLDKdtDS"
+        "name": "Hurts So Good (Remixes)",
+        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         },
         {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
         }
       ],
-      "duration_ms": 189268,
-      "name": "Happy Now - R3HAB Remix",
-      "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
+      "duration_ms": 205746,
+      "name": "Hurts So Good - Broiler Remix",
+      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Last Hurrah (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 191868,
+      "name": "Last Hurrah - David Guetta Remix",
+      "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/7AviXsnkUYIeIJB0zSfV8y"
       },
@@ -2051,30 +2071,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Bang Bang (Remixes)",
-        "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Bang Bang - 3LAU Remix",
-      "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Nothing Breaks Like a Heart (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF"
       },
@@ -2099,22 +2095,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Last Hurrah (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
+        "name": "Bang Bang (Remixes)",
+        "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 191868,
-      "name": "Last Hurrah - David Guetta Remix",
-      "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
+      "duration_ms": 186333,
+      "name": "Bang Bang - 3LAU Remix",
+      "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
     },
     {
       "added_at": "2023-07-03 13:15:34",

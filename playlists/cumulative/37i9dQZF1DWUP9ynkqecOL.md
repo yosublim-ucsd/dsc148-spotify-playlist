@@ -97,6 +97,6 @@
 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 | 2023-08-11 |  |
 | [Zamba para Olvidar](https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Los Pasos Labrados](https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS) | 5:05 | 2023-08-11 |  |
 | [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-11 | 2023-11-06 |
-| [Zorzal](https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw) | 3:09 | 2023-11-10 |  |
+| [Zorzal](https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Campo](https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw) | 3:09 | 2023-11-10 |  |
 
 \*This playlist was first scraped on 2023-10-10. Prior content cannot be recovered.

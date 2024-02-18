@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 172551,
+  "num_followers": 172653,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGM4NTBiNDlkMjI0YzBhNDJlYjEzOTNkNDYyMzc2ZmQ3ZDg2NTU5",
+  "snapshot_id": "MCwxMGNiNWRhNzBjMTExMmNlZWE0ZjM2ZGZmOWRkMDVjY2EzNzk2ODE3",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -487,6 +487,42 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
+    },
+    {
+      "added_at": "2024-02-02 05:27:19",
+      "album": {
+        "name": "Nanga",
+        "url": "https://open.spotify.com/album/0qIprXD3JTMwRVOm4WXzNh"
+      },
+      "artists": [
+        {
+          "name": "Orchestre Baka Gbin\u00e9",
+          "url": "https://open.spotify.com/artist/0ew0kcB2qKVq4W934jnvbt"
+        },
+        {
+          "name": "Baka Beyond",
+          "url": "https://open.spotify.com/artist/6UyjYM7EYNjB07N1TIyZZn"
+        }
+      ],
+      "duration_ms": 285018,
+      "name": "Nanga",
+      "url": "https://open.spotify.com/track/7Gls3aGHuoWns2u6M0Cd4t"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "EGOLI",
         "url": "https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB"
       },
@@ -515,46 +551,6 @@
       "duration_ms": 193533,
       "name": "Morals",
       "url": "https://open.spotify.com/track/3O4Sat36FCmPW0KmbuPx5G"
-    },
-    {
-      "added_at": "2024-02-02 05:27:19",
-      "album": {
-        "name": "Nanga",
-        "url": "https://open.spotify.com/album/0qIprXD3JTMwRVOm4WXzNh"
-      },
-      "artists": [
-        {
-          "name": "Orchestre Baka Gbin\u00e9",
-          "url": "https://open.spotify.com/artist/0ew0kcB2qKVq4W934jnvbt"
-        },
-        {
-          "name": "Baka Beyond",
-          "url": "https://open.spotify.com/artist/6UyjYM7EYNjB07N1TIyZZn"
-        }
-      ],
-      "duration_ms": 285018,
-      "name": "Nanga",
-      "url": "https://open.spotify.com/track/7Gls3aGHuoWns2u6M0Cd4t"
-    },
-    {
-      "added_at": "2022-07-01 02:44:20",
-      "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 224448,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
       "added_at": "2024-02-02 05:27:19",
@@ -605,6 +601,26 @@
       "url": "https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB"
     },
     {
+      "added_at": "2022-07-01 02:44:20",
+      "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 224448,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
       "added_at": "2022-09-15 12:52:37",
       "album": {
         "name": "Light",
@@ -639,22 +655,6 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 290448,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -721,26 +721,6 @@
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
-      "added_at": "2022-04-22 19:20:43",
-      "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 191471,
-      "name": "Up and Away",
-      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Carry Me Home",
@@ -773,6 +753,26 @@
       "url": "https://open.spotify.com/track/174aZteQew30wcq8sPzlW6"
     },
     {
+      "added_at": "2022-04-22 19:20:43",
+      "album": {
+        "name": "Up and Away",
+        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 191471,
+      "name": "Up and Away",
+      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Mosaic of the Orient",
@@ -787,6 +787,22 @@
       "duration_ms": 167293,
       "name": "Dance of Maria",
       "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
+    },
+    {
+      "added_at": "2022-04-17 18:29:09",
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 186548,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
     },
     {
       "added_at": "2022-04-17 20:09:31",
@@ -807,22 +823,6 @@
       "duration_ms": 275373,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
-    },
-    {
-      "added_at": "2022-04-17 18:29:09",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 186548,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
     },
     {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 73880,
+      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
+      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Yeti Season (Deluxe Version)",
@@ -977,38 +993,6 @@
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "Racines",
-        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 73880,
-      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
-      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
-    },
-    {
-      "added_at": "2022-02-18 02:21:25",
-      "album": {
-        "name": "Elegancia Tropical",
-        "url": "https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "El Alma y el Cuerpo",
-      "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "On te l'avait dit",
@@ -1027,6 +1011,22 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2022-02-18 02:21:25",
+      "album": {
+        "name": "Elegancia Tropical",
+        "url": "https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "El Alma y el Cuerpo",
+      "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Yemay\u00e1",
         "url": "https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 239875,
       "name": "Yemay\u00e1",
       "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
       "added_at": "2022-09-15 12:52:37",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Nuova Napoli",
@@ -1191,6 +1175,22 @@
       "duration_ms": 273058,
       "name": "Parev' Ajere",
       "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
+    },
+    {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
-      "added_at": "2023-11-23 03:57:46",
-      "album": {
-        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-        "url": "https://open.spotify.com/album/6fmWNDGvFdcuCamPr4v5Rb"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        }
-      ],
-      "duration_ms": 216443,
-      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-      "url": "https://open.spotify.com/track/1LAFKxWo13OB3gt67wkQpR"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Kabul Fire Vol. 2",
@@ -1463,6 +1447,22 @@
       "duration_ms": 205720,
       "name": "Yak Sher",
       "url": "https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc"
+    },
+    {
+      "added_at": "2023-11-23 03:57:46",
+      "album": {
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/6fmWNDGvFdcuCamPr4v5Rb"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        }
+      ],
+      "duration_ms": 216443,
+      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+      "url": "https://open.spotify.com/track/1LAFKxWo13OB3gt67wkQpR"
     },
     {
       "added_at": "2023-03-31 19:02:24",
@@ -1513,38 +1513,6 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
-      "added_at": "2022-08-31 05:11:30",
-      "album": {
-        "name": "Enter J's Chamber",
-        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
-      },
-      "artists": [
-        {
-          "name": "Takeshi's Cashew",
-          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
-        }
-      ],
-      "duration_ms": 287026,
-      "name": "Serpentines (to Nik\u0161i\u0107)",
-      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
-    },
-    {
-      "added_at": "2022-02-23 18:02:26",
-      "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351374,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
       "added_at": "2022-04-06 01:47:33",
       "album": {
         "name": "\u015einanay / French Disko (Lagniappe Session)",
@@ -1559,6 +1527,22 @@
       "duration_ms": 236578,
       "name": "\u015einanay",
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
+    },
+    {
+      "added_at": "2022-08-31 05:11:30",
+      "album": {
+        "name": "Enter J's Chamber",
+        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "duration_ms": 287026,
+      "name": "Serpentines (to Nik\u0161i\u0107)",
+      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
     },
     {
       "added_at": "2022-03-04 21:17:03",
@@ -1577,20 +1561,20 @@
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-02-23 18:02:26",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
       },
       "artists": [
         {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
         }
       ],
-      "duration_ms": 346413,
-      "name": "Kolyskova",
-      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
+      "duration_ms": 351374,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
       "added_at": "2023-04-14 00:27:25",
@@ -1607,6 +1591,22 @@
       "duration_ms": 259933,
       "name": "Silky",
       "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "Kolyskova",
+      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Big Baglama",
-        "url": "https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL"
-      },
-      "artists": [
-        {
-          "name": "\u015eatellites",
-          "url": "https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi"
-        }
-      ],
-      "duration_ms": 183134,
-      "name": "Deli Deli",
-      "url": "https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si"
-    },
-    {
       "added_at": "2022-02-18 03:47:28",
       "album": {
         "name": "Solst\u00edcio",
@@ -1695,6 +1679,22 @@
       "duration_ms": 265600,
       "name": "Solst\u00edcio",
       "url": "https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Big Baglama",
+        "url": "https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL"
+      },
+      "artists": [
+        {
+          "name": "\u015eatellites",
+          "url": "https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi"
+        }
+      ],
+      "duration_ms": 183134,
+      "name": "Deli Deli",
+      "url": "https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si"
     },
     {
       "added_at": "2022-07-28 06:00:43",

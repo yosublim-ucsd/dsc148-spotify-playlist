@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 555779,
+  "2024-02-18": 556029,
   "date_first_scraped": "2023-07-28",
   "description": "und macht laune",
   "name": "schiebt anders",
@@ -2524,6 +2524,36 @@
     },
     {
       "album": {
+        "name": "ONE NiGHT STAND (ONS)",
+        "url": "https://open.spotify.com/album/3Y8P5Y0HwyqG6BBDOimEjS"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129920,
+      "name": "ONE NiGHT STAND (ONS)",
+      "url": "https://open.spotify.com/track/1TWqmtN3u2peKwZHPP36gX"
+    },
+    {
+      "album": {
         "name": "ONLY 4 LIFE (Remix)",
         "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
       },
@@ -3451,7 +3481,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 123680,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/4Fh76hS27ZgzK0or8eP2qQ"

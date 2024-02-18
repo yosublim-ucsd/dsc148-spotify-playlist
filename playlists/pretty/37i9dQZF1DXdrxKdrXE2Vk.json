@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 888920,
+  "num_followers": 889039,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjY3MzgwNDg1NTQyOGRmODIyNzNlMTNhYTA5ZTdjMTc5NTY2YmQ2",
+  "snapshot_id": "MCwzNjlhYjM2M2Q4ZmYyZjdlMzdiMjc0YjZkMmU0MjQ3MDMwM2M5NzNm",
   "tracks": [
     {
       "added_at": "2024-01-12 07:43:13",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3NSQCYMpoxUm9Mg3qIVLNu"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 372600,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/5P5mU8DN0qNF2Rlhx6P9VW"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
       },
@@ -679,30 +699,6 @@
       "duration_ms": 599001,
       "name": "Your Nature - Live",
       "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Look To The Lamb",
-        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 414391,
-      "name": "Look To The Lamb",
-      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -767,22 +763,26 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3NSQCYMpoxUm9Mg3qIVLNu"
+        "name": "Look To The Lamb",
+        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 372600,
-      "name": "Made For More - Live",
-      "url": "https://open.spotify.com/track/5P5mU8DN0qNF2Rlhx6P9VW"
+      "duration_ms": 414391,
+      "name": "Look To The Lamb",
+      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Testify - EP (Live)",
+        "url": "https://open.spotify.com/album/79dfXsRzT8FwQFJ1FlK93I"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 395041,
+      "name": "Praise The Lord - Live",
+      "url": "https://open.spotify.com/track/6vLfrfDrcCfw1EkNgFQdhG"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 516833,
       "name": "Lord Of My Life - Live",
       "url": "https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Testify - EP (Live)",
-        "url": "https://open.spotify.com/album/79dfXsRzT8FwQFJ1FlK93I"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 395041,
-      "name": "Praise The Lord - Live",
-      "url": "https://open.spotify.com/track/6vLfrfDrcCfw1EkNgFQdhG"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Behold Our God (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Behold Our God - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Miracle in Me",
         "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 350400,
       "name": "Jesus, My Brother - Live",
       "url": "https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Behold Our God (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Behold Our God - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Steady Light (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 239922,
+      "name": "Steady Light - Live",
+      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "All To Jesus (Live)",
         "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 360690,
       "name": "Abide - Live",
       "url": "https://open.spotify.com/track/3WbMGg3SExCmKhDSFCinFg"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
-        "name": "Steady Light (Live from LO Conference)",
-        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        }
-      ],
-      "duration_ms": 239922,
-      "name": "Steady Light - Live",
-      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Yes He Lives",
-        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Yes He Lives - Live",
-      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Steady Light (Live from LO Conference) [Deluxe]",
         "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
       },
@@ -1687,6 +1667,26 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
+        "name": "Yes He Lives",
+        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Yes He Lives - Live",
+      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
         "name": "As The Deer / Nothing But The Blood (Live)",
         "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "All I Have is Christ (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 286027,
-      "name": "All I Have is Christ - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Pour Over Me (Live)",
         "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 598000,
       "name": "Pour Over Me - Live",
       "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "All I Have is Christ (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/0MWJBYfY1Vp7G2b96vsCKj"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 286027,
+      "name": "All I Have is Christ - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/5oA5yi2SX3CmZEYGITvqz5"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Gratitude: 10 Live Worship Songs From Spring Harvest 2022",
-        "url": "https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM"
-      },
-      "artists": [
-        {
-          "name": "Spring Harvest",
-          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Greater Than It All - Live",
-      "url": "https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Gratitude: 10 Live Worship Songs From Spring Harvest 2022",
+        "url": "https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM"
+      },
+      "artists": [
+        {
+          "name": "Spring Harvest",
+          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Greater Than It All - Live",
+      "url": "https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE"
     },
     {
       "added_at": "2024-01-12 07:43:13",

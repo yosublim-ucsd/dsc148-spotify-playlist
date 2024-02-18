@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,843 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,858 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 | 49 | [Resolve](https://open.spotify.com/track/2EQfe0nOQ2BMDAVvQXMHtK) | [Flaze](https://open.spotify.com/artist/4Y6DbKOXDOKgi2vn54wgIK) | [Resolve](https://open.spotify.com/album/3lywWlPqWGwfGAYeg8jGWc) | 6:40 |
 | 50 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
 
-Snapshot ID: `MCw2NmRlMzdhY2ZlNTEyNjM5NTkwYjY5YWQ4OTcyY2ViNDIxZjhjM2I1`
+Snapshot ID: `MCxlOGNhMGU3ODUzZWY3NWY2YjM5MWIxZTJjMDgyNDM0OWZiMjIwYWM2`

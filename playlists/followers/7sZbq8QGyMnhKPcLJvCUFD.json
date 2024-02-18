@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 741933,
+  "2024-02-18": 741945,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -6679,7 +6679,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177781,
       "name": "Omen",
       "url": "https://open.spotify.com/track/2bjtlNmO8Rf5Bl4rxNl3GJ"
@@ -8315,6 +8315,24 @@
       "duration_ms": 164754,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1SYG3gJWwSjz9paOvyU1NW"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233225,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/5PjasrTqBLqdxWIBbJDLXA"
     },
     {
       "album": {

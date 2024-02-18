@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 72646,
+  "2024-02-18": 72674,
   "date_first_scraped": "2021-12-29",
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ\">DBN Gogo</a>",
   "name": "mint South Africa",
@@ -17273,10 +17273,32 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 417000,
       "name": "Step & Clap",
       "url": "https://open.spotify.com/track/1vXJLNokop0LTWMTzAtrjR"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
+      },
+      "artists": [
+        {
+          "name": "Dj Vitoto",
+          "url": "https://open.spotify.com/artist/524gUtNcH1gtVnb9W9oifD"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417000,
+      "name": "Step & Clap",
+      "url": "https://open.spotify.com/track/2mqcozGNbNMZ6VpLyARu5H"
     },
     {
       "album": {

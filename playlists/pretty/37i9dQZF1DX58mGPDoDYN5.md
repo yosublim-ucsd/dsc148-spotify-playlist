@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58mGPDoDYN5.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,788 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,820 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58mGPDoDYN5.md) - [plain]
 | 46 | [Heroes \- LiVE SPiRiTS](https://open.spotify.com/track/7EmUfsXxybB8wAgFey4flY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [LiVE SPiRiTS SOUNDTRACK](https://open.spotify.com/album/0AiWYT2zT9mmCNk2ZyDTSp) | 6:27 |
 | 47 | [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 |
 
-Snapshot ID: `MCw3NTM3NzlmOTVkMjkyMDQ4NDA2ZWZmOTNiN2MwNDgyZWIzZGUzZWVh`
+Snapshot ID: `MCw1YjEzNDI3NTA0Njg3ZjhiMzU3ZjFiZDMwZTJlYjBmNTllNDhkNzAw`

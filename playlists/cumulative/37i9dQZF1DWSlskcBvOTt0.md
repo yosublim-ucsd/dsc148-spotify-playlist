@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-580 songs - 2 day 7 hr 10 min
+581 songs - 2 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [One Touch](https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [One Touch](https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7) | 5:52 | 2023-11-17 | 2024-01-13 |
 | [One Way](https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv) | [Agatha Pher](https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ) | [One Way](https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg) | 8:55 | 2023-03-31 | 2023-08-01 |
 | [Only](https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Only](https://open.spotify.com/album/0EahPFAeYJ0NJRWrltZFi8) | 7:34 | 2022-07-18 | 2022-08-23 |
+| [OnlyL ft\. TSHA & NIMMO](https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5) | 6:07 | 2024-02-16 |  |
 | [Open Secret](https://open.spotify.com/track/4cKPCUHY4PmNbQEUjS3KUU) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Open Secret](https://open.spotify.com/album/1GipAiG1HNG1npI5lSeWs7) | 4:33 | 2022-05-20 | 2022-07-22 |
 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 | 2022-07-01 | 2023-07-09 |
 | [Orbit \- Radio Mix](https://open.spotify.com/track/2DcYimY0tMvZ0hcPtCuw6q) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Branka](https://open.spotify.com/album/3KssGSJxtkbJPUSzy5BbuI) | 3:31 | 2023-07-28 | 2023-10-11 |
@@ -431,7 +432,7 @@
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2023-10-27 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
-| [Rej](https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV) | 2:39 | 2023-11-17 |  |
+| [Rej](https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV) | 2:39 | 2023-11-17 | 2024-02-18 |
 | [Rej](https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv) | 2:39 | 2023-10-20 | 2023-11-04 |
 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 | 2023-06-16 | 2023-07-09 |
 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 | 2023-04-21 | 2024-02-01 |

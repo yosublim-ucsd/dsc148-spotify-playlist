@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 16,
+  "2024-02-18": 16,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -3727,6 +3727,24 @@
       "duration_ms": 181894,
       "name": "CLOSE TO ME",
       "url": "https://open.spotify.com/track/4NExSqYRMs8F8sjvZStZBQ"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/5UrK2k95i2woPaGkV3ILgs"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/24qnpPIyJS3Fln8QxQbHkw"
     },
     {
       "album": {
@@ -21227,6 +21245,32 @@
       "duration_ms": 136680,
       "name": "True Hero",
       "url": "https://open.spotify.com/track/12efilBeQdVXyKSAO6OT00"
+    },
+    {
+      "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/4SVDTsXjIw3X3PO37une5v"
+      },
+      "artists": [
+        {
+          "name": "Astro Blast",
+          "url": "https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4"
+        },
+        {
+          "name": "TRD",
+          "url": "https://open.spotify.com/artist/4CWIqZRmIbMeKlr3jjE0vz"
+        },
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155047,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/5ZWHce6qfANIfSxluat1n3"
     },
     {
       "album": {

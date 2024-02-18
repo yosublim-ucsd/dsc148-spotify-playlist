@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 68690,
+  "2024-02-18": 68690,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -1383,6 +1383,32 @@
     {
       "album": {
         "name": "No More Excuses",
+        "url": "https://open.spotify.com/album/4yXcr368pv1oZnUE1HI1dY"
+      },
+      "artists": [
+        {
+          "name": "DMP",
+          "url": "https://open.spotify.com/artist/3wsoKQTAMCVBfsnrNsSQpf"
+        },
+        {
+          "name": "Sdot go",
+          "url": "https://open.spotify.com/artist/2ceORrJFBKsQXOvGrWzaEP"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158590,
+      "name": "No More Excuses",
+      "url": "https://open.spotify.com/track/2DaOCcBGL3xT9KIYFYvnom"
+    },
+    {
+      "album": {
+        "name": "No More Excuses",
         "url": "https://open.spotify.com/album/2URy91xt4gChfUP2gHs301"
       },
       "artists": [
@@ -2029,7 +2055,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 154376,
       "name": "Spicy Margarita",
       "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
@@ -2191,6 +2217,32 @@
       "duration_ms": 210000,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/1OowIk5KiP8vTOR1vVzCLG"
+    },
+    {
+      "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153083,
+      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
     },
     {
       "album": {
@@ -2438,6 +2490,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"
+    },
+    {
+      "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
       },
@@ -2465,7 +2543,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 276986,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
@@ -2589,7 +2667,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 55308,
+  "2024-02-18": 55303,
   "date_first_scraped": "2022-01-01",
   "description": "Your daily update of the most viral tracks right now - Canada.",
   "name": "Viral 50 - Canada",
@@ -12277,7 +12277,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 200689,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/2ue12T2b9JXlErJJ6NSs8W"
@@ -16737,7 +16737,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192818,
       "name": "HISS",
       "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
@@ -27501,7 +27501,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -27921,6 +27921,32 @@
       "duration_ms": 170945,
       "name": "No Love",
       "url": "https://open.spotify.com/track/62Sz3DMNFu4c1KXVIAkMe7"
+    },
+    {
+      "album": {
+        "name": "No More Excuses",
+        "url": "https://open.spotify.com/album/4yXcr368pv1oZnUE1HI1dY"
+      },
+      "artists": [
+        {
+          "name": "DMP",
+          "url": "https://open.spotify.com/artist/3wsoKQTAMCVBfsnrNsSQpf"
+        },
+        {
+          "name": "Sdot go",
+          "url": "https://open.spotify.com/artist/2ceORrJFBKsQXOvGrWzaEP"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158590,
+      "name": "No More Excuses",
+      "url": "https://open.spotify.com/track/2DaOCcBGL3xT9KIYFYvnom"
     },
     {
       "album": {
@@ -43086,6 +43112,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"
+    },
+    {
+      "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
       },
@@ -43143,7 +43195,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 276986,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"

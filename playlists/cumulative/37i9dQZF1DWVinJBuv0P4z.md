@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-350 songs - 19 hr 44 min
+351 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Funkytown \- Single Version](https://open.spotify.com/track/1tyP720IpIJl4dxnMmlYis) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [70's Music \- I Grandi Successi](https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg) | 3:54 | 2022-05-11 | 2022-08-22 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [ドライブが楽しくなる洋楽ヒッツ！70年代 DISCO](https://open.spotify.com/album/47crNzkjCwR3zb6c5lFhLm) | 3:54 | 2023-01-03 |  |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2022-05-11 | 2023-06-02 |
+| [Get Down Tonight \- 2004 Remaster](https://open.spotify.com/track/2qVZpGu1v98tvUAutqyAfJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR) | 5:17 | 2023-01-03 |  |
 | [Get Down Tonight \- 2004 Remaster](https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 5:17 | 2021-04-29 | 2022-07-29 |
 | [Get up and Boogie](https://open.spotify.com/track/0PD7vFrc4FTqJzcNBp5B9f) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Disco Divas](https://open.spotify.com/album/5EZ0yv37hlJ9TE7YPvkn36) | 7:36 | 2021-04-29 | 2022-04-20 |
 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Keep On Running](https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h) | 2:53 | 2021-04-29 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [Jive Talkin'](https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 3:42 | 2021-04-29 |  |
 | [Juke Box Jive](https://open.spotify.com/track/2jyXWrQQapcB0mRbKvcEyU) | [The Rubettes](https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39) | [The Best Of](https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N) | 3:02 | 2021-04-29 | 2022-04-21 |
 | [Kissin' in the Back Row of the Movies](https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Legends](https://open.spotify.com/album/1imTGKx9Ak5kaPpZLC9DGg) | 3:31 | 2021-04-29 | 2022-07-17 |
-| [Knock on Wood](https://open.spotify.com/track/1vJQzxoByUo0CoiEgAdgDk) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood](https://open.spotify.com/album/72XjR8hsoa0ZDEB9ieDOPD) | 4:09 | 2023-01-03 |  |
+| [Knock on Wood](https://open.spotify.com/track/1vJQzxoByUo0CoiEgAdgDk) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock on Wood](https://open.spotify.com/album/72XjR8hsoa0ZDEB9ieDOPD) | 4:09 | 2023-01-03 | 2024-02-18 |
 | [Knock On Wood](https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Greatest Hits](https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V) | 4:10 | 2021-04-29 | 2023-05-11 |
 | [Knock on Wood \- 7" Edit](https://open.spotify.com/track/7vMRj40Rw8PPgZiDcbyUdj) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 3:47 | 2021-04-29 | 2022-04-20 |
 | [Knock Three Times](https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh) | [The Dawn](https://open.spotify.com/artist/5z348neb55aaKyQhVgqEvS) | [Knock Three Times](https://open.spotify.com/album/3ZOLIQrSyuIcrek9YB7zys) | 3:00 | 2021-04-29 | 2022-07-29 |

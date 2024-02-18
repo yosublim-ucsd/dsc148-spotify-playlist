@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Hi-Fi Serious",
+        "url": "https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U"
+      },
+      "artists": [
+        {
+          "name": "A",
+          "url": "https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd"
+    },
+    {
+      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 179746,
       "name": "Out of the Dark and Into the Light",
       "url": "https://open.spotify.com/track/0Pcy2EWMH4LoP06L7yI5uY"

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 60327,
+  "2024-02-18": 60347,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Israel.",
   "name": "Top 50 - Israel",
@@ -1688,6 +1688,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
         "name": "CARNIVAL PACK",
         "url": "https://open.spotify.com/album/7slMR6RdQwcGa0efzspk8o"
       },
@@ -1707,7 +1733,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/7bZl3YXHeqQ4Q6LDqCBrK4"
@@ -8707,7 +8733,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 182700,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
@@ -9419,7 +9445,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 198000,
       "name": "\u05d0\u05dd \u05de\u05d7\u05e8 \u05d0\u05e0\u05d9 \u05de\u05ea",
       "url": "https://open.spotify.com/track/28tCQKMuSmbrGKgBVwDON0"
@@ -9863,7 +9889,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9",
       "url": "https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO"
@@ -9885,7 +9911,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 268823,
       "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP"
@@ -11497,7 +11523,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 268312,
       "name": "\u05d6\u05d4 \u05e2\u05dc\u05d9\u05e0\u05d5",
       "url": "https://open.spotify.com/track/1V87lrAqStoF1zp7BjxEkE"
@@ -12301,7 +12327,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193469,
       "name": "\u05d9\u05d5\u05dd \u05db\u05d9\u05e4\u05d5\u05e8",
       "url": "https://open.spotify.com/track/6uc5gCVI30JNif2o4Ahmud"
@@ -13487,7 +13513,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 244000,
       "name": "\u05dc\u05e9\u05d8\u05d5\u05e3 \u05d0\u05ea \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/4cHhUWXkEtSj7kdue9SO5u"
@@ -16619,7 +16645,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

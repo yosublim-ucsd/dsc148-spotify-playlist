@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3697818,
+  "num_followers": 3698138,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWFlNTE5Njc4NTQzMGQxYzY1NDUwYzljYzI4OWNlYjJlOTkyYTdj",
+  "snapshot_id": "MCw4NGZhZTRmY2RjZmUzNTA2ZjJkOGYzZDEwMDlhMDM0YjZiMDczOWJi",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "duration_ms": 239334,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Perfect Mistakes",
         "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
       },
       "artists": [
         {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 239334,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 157812,
       "name": "All Night Long - Y.V.E. 48 Remix",
       "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1311,26 +1311,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Loving Blind",
-        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
       "artists": [
         {
-          "name": "Sam Wiseman",
-          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         },
         {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
-        },
-        {
-          "name": "ANDREWBATES",
-          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
         }
       ],
-      "duration_ms": 216926,
-      "name": "Loving Blind",
-      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1351,22 +1347,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+        "name": "Loving Blind",
+        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Sam Wiseman",
+          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
         },
         {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        },
+        {
+          "name": "ANDREWBATES",
+          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
         }
       ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+      "duration_ms": 216926,
+      "name": "Loving Blind",
+      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 220383,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 170721,
       "name": "The Chase (Edit)",
       "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Nothing To Lose (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 258284,
-      "name": "Nothing To Lose (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u"
       },
@@ -1839,18 +1819,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Something Was Real",
-        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
+        "name": "Nothing To Lose (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 222528,
-      "name": "Something Was Real",
-      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
+      "duration_ms": 258284,
+      "name": "Nothing To Lose (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 627096,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
+        "name": "Something Was Real",
+        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 627096,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
+      "duration_ms": 222528,
+      "name": "Something Was Real",
+      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
     },
     {
       "added_at": "2024-02-16 05:00:00",

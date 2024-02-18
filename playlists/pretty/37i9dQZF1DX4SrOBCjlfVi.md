@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Polo G, Schoolboy Q and more\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,224 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,343 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Stupid Dumb Illiterate](https://open.spotify.com/track/3V8KGh982XNNMdk0xy17xN) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:17 |
 | 51 | [Go](https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V) | [A.R\. The Mermaid](https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l) | [Go](https://open.spotify.com/album/5tvfvXTui324CIxaAS3ZAB) | 1:52 |
 
-Snapshot ID: `MCxjNGMyMGViMjMyNzU0ZDg5ZTQ2OTk2M2Q5NDY3MzExY2QzYmI1OTIz`
+Snapshot ID: `MCwyNjY3NjEyZWE1NWQwZDAxOGU1MDBjMTEzMmY3YTNiNzFiOGE3OTQ4`

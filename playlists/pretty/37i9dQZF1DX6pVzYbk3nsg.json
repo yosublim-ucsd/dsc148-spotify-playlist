@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5137,
+  "num_followers": 5146,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmIzYTVhOTViZWMzYTgxODAzZGE5M2M0NmQyZTJmNDg4ODAxZGYz",
+  "snapshot_id": "MCxmNWFiMTk2MTQ3NzJkMGY3MTRiNjlkZmQyZTRiODUzMDM0OTVkMWU4",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Zona de Bomba",
-        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
-      },
-      "artists": [
-        {
-          "name": "Zona de Bomba",
-          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
-        }
-      ],
-      "duration_ms": 350346,
-      "name": "Sirenas, Sangueo y San Mill\u00e1n",
-      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
         "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 223293,
       "name": "Plena De San Anton",
       "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "duration_ms": 350346,
+      "name": "Sirenas, Sangueo y San Mill\u00e1n",
+      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
     },
     {
       "added_at": "2023-06-13 22:15:19",

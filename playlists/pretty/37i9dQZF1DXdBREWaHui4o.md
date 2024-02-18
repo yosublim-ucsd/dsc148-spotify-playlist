@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Best Anime Songs in 2023! 2023年の<a href="spotify:user:spotify:playlist:37i9dQZF1DWT8aqnwgRt92">Anime Now</a>総まとめ！今年Anime Nowで再生された楽曲ベスト100! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: milet + MAN WITH A MISSION
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,476 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,477 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 | 99 | [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 |
 | 100 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 |
 
-Snapshot ID: `MCwxMmNiMTU4NmY5YjVmZGZkNjkwOTIxZTU1ZmFiOWE5YjUzOTlmZTcx`
+Snapshot ID: `MCxjY2I4OWFjNjRjYjI4NjhjMWU5YjU3YzExZjFjYTJhNDYwMDliNGE3`

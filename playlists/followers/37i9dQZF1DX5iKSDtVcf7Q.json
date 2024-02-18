@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 259763,
+  "2024-02-18": 259881,
   "date_first_scraped": "2021-12-21",
   "description": "Music paying tribute to the Heartland of America.",
   "name": "Heartland Country",
@@ -1276,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
+    },
+    {
+      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 221466,
       "name": "One Hell Of An Amen",
       "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"

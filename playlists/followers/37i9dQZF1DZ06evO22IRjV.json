@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 28813,
+  "2024-02-18": 28815,
   "date_first_scraped": "2022-06-10",
   "description": "This is FLOW. The essential tracks, all in one playlist.",
   "name": "This Is FLOW",
@@ -249,10 +249,32 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 86033,
       "name": "CHEMY\u00d7STORY - TV size\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
       "url": "https://open.spotify.com/track/5BMgeaZhdDePSnXWXTonTq"
+    },
+    {
+      "album": {
+        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
     },
     {
       "album": {

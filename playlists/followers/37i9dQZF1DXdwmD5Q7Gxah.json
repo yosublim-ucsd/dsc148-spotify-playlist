@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 1136186,
+  "2024-02-18": 1136272,
   "date_first_scraped": "2019-07-30",
-  "description": "all over the place in a good way. cover: declan mckenna",
+  "description": "hana vu",
   "name": "Lorem",
   "tracks": [
     {
@@ -3259,6 +3259,24 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
       "album": {
@@ -13305,7 +13323,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 136771,
       "name": "Even When The Sun is Dead",
       "url": "https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30"
@@ -20251,6 +20269,24 @@
       "duration_ms": 212509,
       "name": "I Don't Like Ur Friends",
       "url": "https://open.spotify.com/track/7aBFj2AV3YyGHP65r7yQGi"
+    },
+    {
+      "album": {
+        "name": "i don't really feel it anymore",
+        "url": "https://open.spotify.com/album/7hm1Kh2XVchiRA1JLPO9IS"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120314,
+      "name": "i don't really feel it anymore",
+      "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
     },
     {
       "album": {
@@ -38090,6 +38126,24 @@
     },
     {
       "album": {
+        "name": "Soak",
+        "url": "https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164019,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl"
+    },
+    {
+      "album": {
         "name": "Soak Up The Sun",
         "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
       },
@@ -40618,6 +40672,24 @@
     },
     {
       "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259005,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh"
+    },
+    {
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -42347,6 +42419,28 @@
       "duration_ms": 171048,
       "name": "Texas",
       "url": "https://open.spotify.com/track/08qq38gqUu5e6jZSPT69GM"
+    },
+    {
+      "album": {
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323789,
+      "name": "TEXAS BLUE (with Kevin Abstract)",
+      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
     },
     {
       "album": {

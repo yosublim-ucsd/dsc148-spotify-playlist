@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,809 likes - 175 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,914 likes - 175 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 26 | [We Got To Change](https://open.spotify.com/track/3KOtaTxNIitCRgkdq3F4ir) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [We Got To Change](https://open.spotify.com/album/3ve6xJpPDWT9YABqOrciFS) | 3:46 |
 | 27 | [Love me down](https://open.spotify.com/track/2uyCVOChvK40ZGU64s16CV) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Droyd](https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Love me down](https://open.spotify.com/album/2tBRhISYsh13I4HEq3kkg7) | 2:24 |
 | 28 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 |
-| 29 | [Love's Graveyard \- Radio Edit](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard \(Radio Edit\)](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 |
+| 29 | [Love's Graveyard](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 |
 | 30 | [I Can't Lend You My Heart](https://open.spotify.com/track/4bW3LfBFvKIksn0n6XRadt) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I Can't Lend You My Heart](https://open.spotify.com/album/5ZQP41zU1CgA2ErJi2Fnty) | 2:31 |
 | 31 | [a little love for myself](https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [a little love for myself](https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN) | 3:29 |
 | 32 | [Boyfriend](https://open.spotify.com/track/0DAttm4G157xCPhzrCeH4t) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Boyfriend](https://open.spotify.com/album/28TP6aTijewWST9QGFvwkO) | 2:54 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 |
 | 175 | [Luv Everybody](https://open.spotify.com/track/0rhdpXHATq8svRh4sQbYFz) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:42 |
 
-Snapshot ID: `MCw5NDM0ZjBkYzA1NjFiMDc0OTlhY2U0NjA3ZjQzMDYyN2IwYjY2OGJj`
+Snapshot ID: `MCw0YWM3ZmZhYzc0M2NmN2NjNzcxNWE1MzhiZjA4MDc5MWExNWI0ZDQ0`

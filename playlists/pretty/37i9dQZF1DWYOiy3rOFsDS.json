@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 531004,
+  "num_followers": 531172,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjBjMjZhZTY5NGIxNWU1N2U3ZDBhY2I0NzMwYTM1ZTM1NzcyZTYy",
+  "snapshot_id": "MCwxY2E2NTIwODk2ZDAyYWY4OWVkYzExYjdiODI5ZjQzZjcxNzE2Zjg4",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
       "artists": [
         {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
         }
       ],
-      "duration_ms": 173288,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1307,6 +1303,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 173288,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 244711,
       "name": "B\u00e9same mucho",
       "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "todo pasa",
-        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 214790,
-      "name": "todo pasa",
-      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "El Perd\u00f3n (feat. Mon Laferte)",
         "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/3kB1sI0LNPuCy37KclNQnS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Dab",
-          "url": "https://open.spotify.com/artist/1ZMrCnWHjfB9u0rjGsM1Uj"
-        }
-      ],
-      "duration_ms": 156043,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/7EK7rsSLo8vFQp5BXaM2Q1"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 170518,
       "name": "Noche No Te Vayas",
       "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/3kB1sI0LNPuCy37KclNQnS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Dab",
+          "url": "https://open.spotify.com/artist/1ZMrCnWHjfB9u0rjGsM1Uj"
+        }
+      ],
+      "duration_ms": 156043,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/7EK7rsSLo8vFQp5BXaM2Q1"
     },
     {
       "added_at": "2024-02-16 06:00:00",

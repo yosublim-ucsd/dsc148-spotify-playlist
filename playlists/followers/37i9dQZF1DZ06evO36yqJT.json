@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 4746,
+  "2024-02-18": 4748,
   "date_first_scraped": "2023-05-13",
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
   "name": "This Is Shirley Caesar",
@@ -483,7 +483,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 195500,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2L3XGrMU8stZ2BdxOQ2kxj"
@@ -763,6 +763,24 @@
       "duration_ms": 395973,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
+    },
+    {
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/47Sgcm1KIgscVLs4TgNJPh"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238391,
+      "name": "King Heroin",
+      "url": "https://open.spotify.com/track/5eHKFi9trSitx9n8TJcF5G"
     },
     {
       "album": {

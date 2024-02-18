@@ -4,7 +4,7 @@
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-566 songs - 1 day 20 hr 37 min
+567 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Instant Immortal](https://open.spotify.com/track/4Zaewkno1T6Re2ioLjo9WQ) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:25 | 2022-03-31 | 2022-04-06 |
 | [Interlude \- Aus Remix](https://open.spotify.com/track/1Y7OYD17uDkT3JzcXhDRY5) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [ReCollected](https://open.spotify.com/album/0MmPGvc6mRDaNlluvrpgi6) | 5:18 | 2022-03-31 | 2022-04-12 |
 | [Into the Forest](https://open.spotify.com/track/6Y3EdMqGUxIwRIYg0s5sEm) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Short Stories](https://open.spotify.com/album/4R2jkhCGF1SBOzjUQNAFJi) | 6:06 | 2022-04-07 | 2022-04-15 |
-| [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 | 2024-02-08 |  |
+| [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 | 2024-02-08 | 2024-02-18 |
 | [Invisible Contact](https://open.spotify.com/track/0GYisiW8aXpv9fGTwIDafM) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/3L5kzUaeQ5pCMHRpAlN0Ej) | 4:04 | 2022-10-20 | 2022-11-18 |
 | [Invisible Contact](https://open.spotify.com/track/5Vqf1k1WvHqV5B8XoZSPgY) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/388UNVPQUypC1EiLCvp6gg) | 4:04 | 2022-10-20 | 2022-10-22 |
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
@@ -316,6 +316,7 @@
 | [Nagi](https://open.spotify.com/track/5oIrCpLdLx9CyAB6GGkTxg) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Scenes of Scapes](https://open.spotify.com/album/5F0PggZWgqrLYewAHRozdL) | 4:52 | 2022-03-31 | 2022-07-20 |
 | [Nami](https://open.spotify.com/track/31RgdmIsnmQwgFgF2qA8yB) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 3:56 | 2022-03-31 | 2022-07-27 |
 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 | 2022-07-28 | 2024-02-09 |
+| [Nausicaä of the Valley of the Wind \- 2024 ver.](https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32) | [Narumi Yasuda](https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I) | [Nausicaä of the Valley of the Wind \(2024 ver.\)](https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf) | 5:25 | 2024-02-15 |  |
 | [Never Mind](https://open.spotify.com/track/4v5cYu2lgqsoblMtYVeMmj) | [Ippu\-Do](https://open.spotify.com/artist/6spBI2ueYjGHoTzRJ9fcAR) | [NIGHT MIRAGE +7](https://open.spotify.com/album/531P2A9feRSk86bIiDLhJa) | 5:14 | 2022-03-31 | 2022-07-24 |
 | [New Urban Center \(UP\-09\)](https://open.spotify.com/track/0Qnp2Gd5uMrdZGM3JyqNpr) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [Duenn](https://open.spotify.com/artist/4PJKrQq6F58DY9zND9uLTv) | [都市計画\(Urban Planning\)](https://open.spotify.com/album/2cMqAVNsiTGIeQfn9ZUtuv) | 1:45 | 2022-04-07 | 2022-04-20 |
 | [Nightgulls](https://open.spotify.com/track/2rwpyt225r7zv2Aj2fbyax) | [Ippu\-Do](https://open.spotify.com/artist/6spBI2ueYjGHoTzRJ9fcAR) | [NIGHT MIRAGE +7](https://open.spotify.com/album/531P2A9feRSk86bIiDLhJa) | 5:19 | 2022-03-31 | 2022-05-21 |

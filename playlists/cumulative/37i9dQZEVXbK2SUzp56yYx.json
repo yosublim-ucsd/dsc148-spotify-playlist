@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 193826,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 86740,
       "name": "I Will Meet You At The Graveyard - Sped Up",
       "url": "https://open.spotify.com/track/3oPQ6v1IEeK4asWHp9r76E"
@@ -608,6 +608,32 @@
       "duration_ms": 103486,
       "name": "Jeff the Killer",
       "url": "https://open.spotify.com/track/24T8LnTIZGiWplQIj6sFg6"
+    },
+    {
+      "album": {
+        "name": "krushed!",
+        "url": "https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        },
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98181,
+      "name": "krushed!",
+      "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
     },
     {
       "album": {
@@ -937,6 +963,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u043e\u0434\u043e\u0436\u0434\u0451\u043c \u0442\u0432\u043e\u044e \u043c\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/0u9FcWftYYtY1AUt3DA5Id"
+      },
+      "artists": [
+        {
+          "name": "Igorek",
+          "url": "https://open.spotify.com/artist/02oGBZOjZmZunuS9itG7Yq"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "My Love \u0422\u0430\u043d\u044e\u0445\u0430",
+      "url": "https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -1054,7 +1098,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 99474,
       "name": "Old Doll",
       "url": "https://open.spotify.com/track/1ROVIglc9HtF4v9q0AowOx"
@@ -1716,7 +1760,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"

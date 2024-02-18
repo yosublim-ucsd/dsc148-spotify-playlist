@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,152 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,264 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Leale e Infame](https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [Leale e Infame](https://open.spotify.com/album/7ihxGS8fgircOQzGLQvtWV) | 2:24 |
 | 50 | [MARIANELLA](https://open.spotify.com/track/6BylpMONqUzxVVC3mzx1Am) | [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [MARIANELLA](https://open.spotify.com/album/0F2CZADWos1brXQTY7ExeS) | 3:05 |
 
-Snapshot ID: `MCwwYTljZTI5NmU3OGVkODNjMGQyYjkwMWMzNGRmNGQwODJjYmNmNjhm`
+Snapshot ID: `MCwzMWU3OGE1ZDIzMmIwOTk0YWM2YjM4MDBiZWU3MWIwNDFlZWFlMThj`

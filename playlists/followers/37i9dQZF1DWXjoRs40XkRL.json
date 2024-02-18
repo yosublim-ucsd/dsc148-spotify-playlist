@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 61896,
+  "2024-02-18": 61919,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -521,7 +521,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 400270,
       "name": "Bargat Ke Pedo Pe Shakhe Purani",
       "url": "https://open.spotify.com/track/7HEzYAe4T1fMU50PWxIjms"
@@ -2857,6 +2857,28 @@
       "duration_ms": 334744,
       "name": "More Piya",
       "url": "https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j"
+    },
+    {
+      "album": {
+        "name": "More Sajan",
+        "url": "https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Harjai",
+          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
+        },
+        {
+          "name": "Surabhi Dashputra",
+          "url": "https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "More Sajan",
+      "url": "https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S"
     },
     {
       "album": {

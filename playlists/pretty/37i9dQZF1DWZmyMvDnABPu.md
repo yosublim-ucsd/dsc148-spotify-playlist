@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 
 > Enjoy the JTBC drama 'Nevertheless,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '알고있지만'의 OST를 작중 대사와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,949 likes - 44 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,958 likes - 44 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 | 4 | [EP3\. Nevertheless, not such a bad guy](https://open.spotify.com/track/64YEADDiUWxNE2Z4RtZWK0) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nevertheless, \- Soundbytes from episodes](https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0) | 0:26 |
 | 5 | [Whisper](https://open.spotify.com/track/0Je6T4xgHh5Xuada29lHXy) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3) | 2:50 |
 | 6 | [EP4\. Nevertheless, my mind went blank](https://open.spotify.com/track/5waOf9OGLhggRJDQj7Xq9j) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nevertheless, \- Soundbytes from episodes](https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0) | 0:11 |
-| 7 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
+| 7 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
 | 8 | [EP5\. Nevertheless, I found peace](https://open.spotify.com/track/1MM9XcAXKrBZAuK6cNgZlh) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nevertheless, \- Soundbytes from episodes](https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0) | 0:09 |
 | 9 | [Heavy Heart](https://open.spotify.com/track/4KdJekSGPPhAU52BmDZIOY) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj) | 3:34 |
 | 10 | [EP6\. Nevertheless, awesome](https://open.spotify.com/track/0g8JEfdfes07OMIKPPXurk) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nevertheless, \- Soundbytes from episodes](https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS) | 0:18 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 | 35 | [We're Already \- Instrumental](https://open.spotify.com/track/2LE7j7BDHG9iFUuIUfudvo) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 36 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
 | 37 | [Whisper \- Instrumental](https://open.spotify.com/track/3fVsrqwCCExLfhr6xm2bSG) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3) | 2:50 |
-| 38 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
+| 38 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
 | 39 | [Heavy Heart \- Instrumental](https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj) | 3:34 |
 | 40 | [Love Me Like That \- Instrumental](https://open.spotify.com/track/2Bi7jDHh3IzLt3xJuyx4eU) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 41 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 | 43 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
 | 44 | [Nevertheless \- Instrumental](https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
 
-Snapshot ID: `MCxkZmIwYjgyNmQxMTY1MGE3NTU3M2RiMzUwMDM1ZjBjNDVhOTdiMTE1`
+Snapshot ID: `MCxmY2Y0M2RhZWE4MmQ2NGI3OGI1ZGQ1MGViNDJmYzUyOTI0NTM2YTY1`

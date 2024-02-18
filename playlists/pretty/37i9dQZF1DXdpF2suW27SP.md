@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dillaz entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,797 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,835 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Terapia](https://open.spotify.com/track/1R2zJFZUSYHU8QUtHILfK6) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Terapia](https://open.spotify.com/album/4E4ucv13vQBNU16yhIwOGs) | 4:18 |
 | 75 | [FILHO DO YB](https://open.spotify.com/track/1VDXLeWWtMWyjdA44kPGfg) | [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB) | [DOUTOR SWAG](https://open.spotify.com/album/3P0I8HQNjzzEUIUn8ifgDO) | 2:09 |
 
-Snapshot ID: `MCxjNjEzZGNhZGE2NDU5YmQ1MTE4ZjM0M2Y3ODYwNmExN2IyYmUwZWE0`
+Snapshot ID: `MCw1OTJiOGI0OGZmZjNlOTQ5ZjQ4M2Q1ODljYTNhNjZiN2U5N2M4Mzkx`

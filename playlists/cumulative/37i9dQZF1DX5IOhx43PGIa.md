@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Emei.
 
-702 songs - 1 day 12 hr 21 min
+704 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Introspection Reimagined](https://open.spotify.com/track/1zQnPw58ITvKYIhk5lvlDV) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 5:02 | 2022-05-27 | 2022-12-14 |
 | [Invited](https://open.spotify.com/track/4gLxqqLYKew729IbVXjqsv) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Invited](https://open.spotify.com/album/3qa53IyUxtxuCiyD1gPZj0) | 2:21 | 2023-07-21 | 2023-09-30 |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 |  |
+| [Isn't It Obvious](https://open.spotify.com/track/362K2bSyVFq3aMkDYkQsLd) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 2:38 | 2024-02-16 |  |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-11-17 | 2024-02-17 |
 | [Issues](https://open.spotify.com/track/7DscinmgmQGwSblBKjrGy7) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [3TERNITY](https://open.spotify.com/album/3boXTQdSoIt4RCJqXWArsx) | 2:30 | 2022-05-27 | 2022-06-21 |
 | [ITIM](https://open.spotify.com/track/2akEAk7cu3FNtIzNUMtfX2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [ITIM](https://open.spotify.com/album/5KvLMStgJsZiYziduNFOIh) | 3:02 | 2022-05-27 | 2022-07-28 |
@@ -345,7 +346,7 @@
 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 | 2022-09-23 | 2022-10-08 |
 | [Kulture Klub](https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Kulture Klub](https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4) | 2:13 | 2023-08-25 |  |
 | [La Di Da](https://open.spotify.com/track/2LW6Tgz0V7wkgu2MyYQ0gT) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Slow Life](https://open.spotify.com/album/0EFFIox3JkWPvueHyF2mII) | 2:37 | 2022-05-27 | 2022-07-21 |
-| [Laced](https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Laced](https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr) | 3:21 | 2024-01-26 |  |
+| [Laced](https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Laced](https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr) | 3:21 | 2024-01-26 | 2024-02-18 |
 | [Ladybug](https://open.spotify.com/track/4J7A5l3KlT1tyi6jfE5dSE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Ladybug](https://open.spotify.com/album/43AUX3S660O7gGKeZqGUsk) | 3:40 | 2022-05-27 | 2022-07-29 |
 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 | 2023-10-13 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2023-08-12 |
@@ -359,7 +360,8 @@
 | [life with u](https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [life with u](https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8) | 3:25 | 2023-08-25 |  |
 | [Lifestyle](https://open.spotify.com/track/4hcvwZ4iw6H7To1IgTxaYq) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:45 | 2023-09-22 | 2023-11-11 |
 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 | 2023-04-07 | 2024-01-27 |
-| [Like Me, Like Me](https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Like Me, Like Me](https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO) | 2:25 | 2023-08-11 |  |
+| [Like Me, Like Me](https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Like Me, Like Me](https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO) | 2:25 | 2023-08-11 | 2024-02-18 |
+| [Like Me, Like Me](https://open.spotify.com/track/6k5VC8NbW7JavW9H2kbml7) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 2:25 | 2024-02-16 |  |
 | [like this](https://open.spotify.com/track/1ZugawyphM8M7BS460mgEH) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp) | [lofi // HYPHY](https://open.spotify.com/album/1Ht88W58vAoXNVGZ7ugpWu) | 2:28 | 2022-06-24 | 2022-07-20 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-02-24 | 2024-01-27 |
 | [Live Without U](https://open.spotify.com/track/2TVipNtVftkHXD1U1qExyM) | [AndyBear](https://open.spotify.com/artist/3PTvL4CPoyATF3fct0pQtc), [Roads We Walk](https://open.spotify.com/artist/4uppaNsZPfgLiR2Y3R5QCy), [Midnight Wanders](https://open.spotify.com/artist/6Pfmpf6q4azPejKnlXK5P9) | [Live Without U](https://open.spotify.com/album/4VR4DE46k2zTiQipLJ5xrj) | 3:25 | 2023-05-05 | 2023-05-20 |

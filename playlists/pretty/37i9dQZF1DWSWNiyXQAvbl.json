@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 481639,
+  "num_followers": 481720,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODJhYzgwN2ZlN2EyNDQxM2JlNjdmN2E0YjJjN2VmYTExMTUwYzRl",
+  "snapshot_id": "MCwwNzc3M2I1ZDZmMTNjZjcwNWRjNWUyOTA3YzM3ZTE2MWI0OTdiZDVh",
   "tracks": [
     {
       "added_at": "2023-10-17 16:13:12",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 121080,
       "name": "Grandma's Hands",
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
     },
     {
       "added_at": "2023-10-17 16:13:12",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
+        "name": "And Then There Were Three (2007 Remaster)",
+        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Follow You Follow Me - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 192200,
       "name": "Make It with You",
       "url": "https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
-        "name": "And Then There Were Three (2007 Remaster)",
-        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Follow You Follow Me - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
     },
     {
       "added_at": "2023-10-17 16:13:12",

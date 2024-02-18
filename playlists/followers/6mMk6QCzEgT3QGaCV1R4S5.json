@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 36974,
+  "2024-02-18": 36974,
   "date_first_scraped": "2023-12-14",
   "description": "Get moving on the dancefloor with some big room beats! Cover: Frank Walker &amp; Nate Smith",
   "name": "Dancefloor Beats",
@@ -347,7 +347,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 173223,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7"
@@ -417,6 +417,28 @@
       "duration_ms": 182508,
       "name": "exes - Regard Remix",
       "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
+    },
+    {
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "album": {
@@ -943,6 +965,28 @@
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
+    },
+    {
+      "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
       "album": {
@@ -1479,7 +1523,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 236183,
       "name": "Something in the Way",
       "url": "https://open.spotify.com/track/5LiRo8HPUyx9sfLMZ1xpjj"

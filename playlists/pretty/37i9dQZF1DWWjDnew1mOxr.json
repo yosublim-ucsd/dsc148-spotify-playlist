@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: JAMIE WEBSTER",
-  "num_followers": 118413,
+  "num_followers": 118427,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGYxODlhYWE5ZGFiZTY4Y2I5OWU3ZWNlZWNjYjVlNTljNWI1YTY0",
+  "snapshot_id": "MCwzZjM5ZTJhYTE3NjQwYTdhMTljMjViNGRhYTQ3NzkxNDNmOGI2N2E4",
   "tracks": [
     {
       "added_at": "2024-02-02 14:53:05",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 167631,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "What's Rock And Roll?",
         "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 193813,
       "name": "15 Minutes In The Algorithm",
       "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 167631,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
       },
       "artists": [
         {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+          "name": "Better Joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
         }
       ],
-      "duration_ms": 193120,
-      "name": "Give It Up To Love",
-      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
+      "duration_ms": 168095,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
       },
       "artists": [
         {
-          "name": "Better Joy",
-          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
         }
       ],
-      "duration_ms": 168095,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
+      "duration_ms": 193120,
+      "name": "Give It Up To Love",
+      "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "One More Night With No One",
         "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 200147,
       "name": "One More Night With No One",
       "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Godless",
-        "url": "https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs"
-      },
-      "artists": [
-        {
-          "name": "Red Rum Club",
-          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
-        }
-      ],
-      "duration_ms": 199381,
-      "name": "Godless",
-      "url": "https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 188744,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "duration_ms": 199381,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Cool",
-        "url": "https://open.spotify.com/album/4MwJeWVLpONURioQjiV3mr"
-      },
-      "artists": [
-        {
-          "name": "Joely June",
-          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
-        }
-      ],
-      "duration_ms": 235696,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/4VXp7nrIktWwSQCsHtJdw5"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "somebody to talk about",
         "url": "https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 199513,
       "name": "somebody to talk about",
       "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/4MwJeWVLpONURioQjiV3mr"
+      },
+      "artists": [
+        {
+          "name": "Joely June",
+          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
+        }
+      ],
+      "duration_ms": 235696,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/4VXp7nrIktWwSQCsHtJdw5"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "I Let Go",
-        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Just Move",
         "url": "https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 186562,
       "name": "Just Move",
       "url": "https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
     },
     {
       "added_at": "2024-02-02 14:53:05",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-02 14:53:05",
       "album": {
-        "name": "Hiding & Reading",
-        "url": "https://open.spotify.com/album/1kGZ5GfyjsH1v4ZiGVWjj6"
-      },
-      "artists": [
-        {
-          "name": "The Hubbards",
-          "url": "https://open.spotify.com/artist/5qU07JDAP3mSTpsbRcEbYD"
-        }
-      ],
-      "duration_ms": 178556,
-      "name": "Hiding & Reading",
-      "url": "https://open.spotify.com/track/07LMjoua9eEWxfLxqZ7PUQ"
-    },
-    {
-      "added_at": "2024-02-02 14:53:05",
-      "album": {
         "name": "Panic Prevention",
         "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 259813,
       "name": "Sheila",
       "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
+    },
+    {
+      "added_at": "2024-02-02 14:53:05",
+      "album": {
+        "name": "Hiding & Reading",
+        "url": "https://open.spotify.com/album/1kGZ5GfyjsH1v4ZiGVWjj6"
+      },
+      "artists": [
+        {
+          "name": "The Hubbards",
+          "url": "https://open.spotify.com/artist/5qU07JDAP3mSTpsbRcEbYD"
+        }
+      ],
+      "duration_ms": 178556,
+      "name": "Hiding & Reading",
+      "url": "https://open.spotify.com/track/07LMjoua9eEWxfLxqZ7PUQ"
     },
     {
       "added_at": "2024-02-02 14:53:05",

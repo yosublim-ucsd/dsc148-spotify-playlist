@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 762068,
+  "num_followers": 762166,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmFhYWQ1NTIxZGM1ZTAxNjQyYzUzMDRlZDI1NDc1YzMzNThhM2Qx",
+  "snapshot_id": "MCw1NTBkZTI2NDllMWM5NDNlZGI1ODllNzYyYTgzMzM5NWUzMDM4OGFm",
   "tracks": [
     {
       "added_at": "2024-02-05 18:31:34",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
+        "name": "Femmes Fatales",
+        "url": "https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85"
+      },
+      "artists": [
+        {
+          "name": "Exit Eden",
+          "url": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
+        },
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "Run! (feat. Marko Hietala)",
+      "url": "https://open.spotify.com/track/3Qu4tRvLzaN13fFkuAMlPg"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
         "name": "Animus",
         "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
-        "name": "Femmes Fatales",
-        "url": "https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85"
-      },
-      "artists": [
-        {
-          "name": "Exit Eden",
-          "url": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
-        },
-        {
-          "name": "Marko Hietala",
-          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "Run! (feat. Marko Hietala)",
-      "url": "https://open.spotify.com/track/3Qu4tRvLzaN13fFkuAMlPg"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Seventh Rum of a Seventh Rum",
         "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Realm of Dark Waves",
-        "url": "https://open.spotify.com/album/326JyP93hcG60gISpndQLc"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 298964,
-      "name": "Realm of Dark Waves",
-      "url": "https://open.spotify.com/track/47MYLg3TjfPm1lgDyOdCy2"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Coming from the Sky",
         "url": "https://open.spotify.com/album/6tjLmagYorlDipMtYT1bay"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Realm of Dark Waves",
+        "url": "https://open.spotify.com/album/326JyP93hcG60gISpndQLc"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "duration_ms": 298964,
+      "name": "Realm of Dark Waves",
+      "url": "https://open.spotify.com/track/47MYLg3TjfPm1lgDyOdCy2"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
       },
       "artists": [
         {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-02-05 18:31:34",
       "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -1339,6 +1323,38 @@
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+      },
+      "artists": [
+        {
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+    },
+    {
+      "added_at": "2024-02-05 18:31:34",
+      "album": {
+        "name": "Over the Horizon Radar",
+        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
+      },
+      "artists": [
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 323990,
+      "name": "Over the Horizon Radar",
+      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
       "added_at": "2024-02-05 18:31:34",
@@ -1359,22 +1375,6 @@
       "duration_ms": 303253,
       "name": "Breathing Divinity",
       "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
-    },
-    {
-      "added_at": "2024-02-05 18:31:34",
-      "album": {
-        "name": "Over the Horizon Radar",
-        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
-      },
-      "artists": [
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
-        }
-      ],
-      "duration_ms": 323990,
-      "name": "Over the Horizon Radar",
-      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
       "added_at": "2024-02-05 18:31:34",

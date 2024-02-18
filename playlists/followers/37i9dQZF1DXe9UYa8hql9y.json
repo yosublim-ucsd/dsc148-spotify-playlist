@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 71633,
+  "2024-02-18": 71695,
   "date_first_scraped": "2022-02-10",
   "description": "\u00a1Fiesta y m\u00e1s fiesta hasta que sala el sol!",
   "name": "AFERRAFTER ",
@@ -603,7 +603,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205706,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2fgogq2XXlKMm9p6m3akHH"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 153960,
       "name": "Demasiadas Mujeres",
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
@@ -6803,7 +6803,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
@@ -7475,6 +7475,28 @@
       "duration_ms": 167360,
       "name": "Psycho B**ch",
       "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
+    },
+    {
+      "album": {
+        "name": "Qlito Latino",
+        "url": "https://open.spotify.com/album/2aeY3iVmwtq2F4eMDlpDWr"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Qlito Latino",
+      "url": "https://open.spotify.com/track/5SIPMci0JKXVgqfQtB2S39"
     },
     {
       "album": {

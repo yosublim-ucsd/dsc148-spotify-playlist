@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Kuremino
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,583 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,578 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 19 | [Dejavu \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5qA1rpcMm9MILEcIvBVhjQ) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Dejavu \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/74OuCUN70Ou7p4ShTMYU9h) | 4:01 |
 | 20 | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT) | 3:05 |
 | 21 | [A45S](https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [A45S](https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ) | 2:40 |
-| 22 | [Hangar](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Hangar](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 |
+| 22 | [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 |
 | 23 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 |
 | 24 | [Mogio](https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [GROTTO INFERNO](https://open.spotify.com/album/1zyXtWcVBCqJJW7jQTICEb) | 3:10 |
 | 25 | [Walter White](https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Walter White](https://open.spotify.com/album/0bjfbfgm2hQte6OBSAwg90) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [COSA C'È](https://open.spotify.com/track/4TYfpaSZNmImjl6PGuGsbJ) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [COSA C'È](https://open.spotify.com/album/2u0ZbOSp2KKxMdZPkMlaQq) | 2:21 |
 | 50 | [Normale](https://open.spotify.com/track/0C2qmnrEGUQ8hbcdJcCYUK) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Normale](https://open.spotify.com/album/7L8DyWZigR4lmW5WLRpmCf) | 2:26 |
 
-Snapshot ID: `MCw1ODU2YjZkNjBkZDQzNmIwMzJkMDY2Y2IwZDBjMzFiZjZmMTYzMWM4`
+Snapshot ID: `MCwzYzMzODY5MWQ1MDhlMWI3ZTI3OTk0YWU4MDIzYzlkNGE4MTNjMzQ5`

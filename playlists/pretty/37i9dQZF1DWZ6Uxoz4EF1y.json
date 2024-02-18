@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 173042,
+  "num_followers": 173158,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDZmYTE3MDQxMWE5ZmE1NDMzZjQyNmM3YTNmMTg1YmViNzc3ZWE5",
+  "snapshot_id": "MCxlNzk2MjM5NWIwNjZiMmJjYjMxNmVmYjQyYzZhZDFjNTUxNjZkMDI3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Dios Cuida De M\u00ed",
         "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 312084,
       "name": "Mi Cristo Vive",
       "url": "https://open.spotify.com/track/7rz2GHDXUBsrFrxe1LnwTJ"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Poema de salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "No Temas",
         "url": "https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 243250,
       "name": "No Temas",
       "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Poema de salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "La Esposa",
-        "url": "https://open.spotify.com/album/5x1wzLOJaZj8M9Q0EGO6zM"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 321226,
-      "name": "Mi Redentor Vive",
-      "url": "https://open.spotify.com/track/704QgEqQm5uIqv8BtOxjTc"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Gloria sea a ti",
         "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 233965,
       "name": "Al que es digno",
       "url": "https://open.spotify.com/track/7bueiNmYqB7CJzuo52wGP9"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "La Esposa",
+        "url": "https://open.spotify.com/album/5x1wzLOJaZj8M9Q0EGO6zM"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "duration_ms": 321226,
+      "name": "Mi Redentor Vive",
+      "url": "https://open.spotify.com/track/704QgEqQm5uIqv8BtOxjTc"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Encontr\u00e9 Mi Lugar",
         "url": "https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 296316,
       "name": "Encontr\u00e9 Mi Lugar",
       "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
     },
     {
       "added_at": "2023-10-13 04:59:00",

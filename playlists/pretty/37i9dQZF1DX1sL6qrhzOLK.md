@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,173 likes - 36 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175 likes - 36 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 29 | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/album/2rqKcP5HHJtneNxcvXGLNi) | 3:56 |
 | 30 | [Curated by Do Body By Body](https://open.spotify.com/track/6OkBqZbSvm8BkcZYL3L4m6) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:24 |
 | 31 | [Dying tree](https://open.spotify.com/track/6L8KXLIj6lH3KuEuk0SW6j) | [Kim Jae duk](https://open.spotify.com/artist/2g0UGTCVEn8R0xSLPlg6FS) | [Dying tree](https://open.spotify.com/album/7lRw7wayPP8VjYGcLdnEhL) | 5:00 |
-| 32 | [Concerto in D Minor \(After Alessandro Marcello\), BWV 974: II\. Adagio](https://open.spotify.com/track/1qbUu97IkbSNoW2I8B5mJG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Concerto in D Minor \(After Alessandro Marcello\), BWV 974: II\. Adagio](https://open.spotify.com/album/1bThZLEvHpi1fTRp72qtOS) | 4:47 |
+| 32 | [Concerto in D Minor \(After Alessandro Marcello\), BWV 974: II\. Adagio](https://open.spotify.com/track/4FiHyAEbe8UH8Oy4rFewkQ) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Sharp Objects \(Music from the HBO Limited Series\)](https://open.spotify.com/album/2UXDdNs3CSozXPUFnqx4PS) | 4:47 |
 | 33 | [Muak, Tänzerische Fantasie für grosses Orchester \- 1978](https://open.spotify.com/track/02pii2e9kfAsYRtuuHy3X9) | [Isang Yun](https://open.spotify.com/artist/1Llzez777plMW31dzEyaxz), [Rundfunk\-Sinfonieorchester Saarbrücken](https://open.spotify.com/artist/5rS7KZ3kWgJENsXr19lAVz), [Hans Zender](https://open.spotify.com/artist/33AGvI9rf3CpKfFS6Rt8Er) | [Isang Yun: Muak \- Pièce concertante](https://open.spotify.com/album/4lrf4TsLFqljEzJBQBOHju) | 18:21 |
 | 34 | [Focus](https://open.spotify.com/track/7r9M2GybYSWqLaFI3TjS5i) | [Aad Aalberts](https://open.spotify.com/artist/1ARw44fBifEIjNpCfZ62RR) | [Moods](https://open.spotify.com/album/3Ibz2JPuDpcpl6qUkf2agv) | 7:09 |
 | 35 | [The Strong Heavy Vehicles \- Korean Version](https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo's Sing Along Show 1 \(Korean Version\)](https://open.spotify.com/album/6HX2fE9yheC34o4JpYmn1B) | 2:30 |
 | 36 | [Tannhäuser: Overture](https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Wagner: Orchestral Favourites](https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu) | 14:13 |
 
-Snapshot ID: `MCw1ZWUwOWY0OGQ5OGNiZTZmNWRlYzBiZDM0YjliOGVjOTdkNDhmNDZm`
+Snapshot ID: `MCwwMDg5NGZhNDhkOGQ0ZWY1MTQxNmViM2ViMzViMWExODRjZGNiZGQz`

@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 30090,
+  "2024-02-18": 30110,
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Hasan Raheem",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -21,6 +21,28 @@
       "duration_ms": 202473,
       "name": "4U",
       "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
+    },
+    {
+      "album": {
+        "name": "4U REMIX (From \"Wholeheartedly\")",
+        "url": "https://open.spotify.com/album/1BdLTpgkyDSLlx14bhgqyQ"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "4U REMIX - From \"Wholeheartedly\"",
+      "url": "https://open.spotify.com/track/2YQB5Xm1TgF0grR2w0dgGj"
     },
     {
       "album": {
@@ -837,7 +859,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 195375,
       "name": "Cheese",
       "url": "https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA"
@@ -1253,7 +1275,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 226000,
       "name": "Double Game",
       "url": "https://open.spotify.com/track/1bike5aQ7ZndnBodizi1oi"
@@ -2231,7 +2253,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 329214,
       "name": "Kahan Jaoon",
       "url": "https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G"
@@ -2289,7 +2311,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 178714,
       "name": "Kali Raat",
       "url": "https://open.spotify.com/track/74UHCurjieq16JY1saeasF"
@@ -2983,7 +3005,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 248314,
       "name": "mouqa",
       "url": "https://open.spotify.com/track/5uy6jIeJcCAlkl4QwRFnGI"
@@ -3327,7 +3349,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 220638,
       "name": "PAISA",
       "url": "https://open.spotify.com/track/5vwe8vW5fEJgymhjfol1cu"
@@ -3729,7 +3751,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 206000,
       "name": "Risky",
       "url": "https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP"
@@ -4341,6 +4363,28 @@
       "duration_ms": 232679,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa"
+    },
+    {
+      "album": {
+        "name": "Sub Theek Hai",
+        "url": "https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        },
+        {
+          "name": "Shayan Fatani",
+          "url": "https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143638,
+      "name": "Sub Theek Hai",
+      "url": "https://open.spotify.com/track/2q0amZ8WgDGN7xBOBG7Dl6"
     },
     {
       "album": {
@@ -5079,6 +5123,32 @@
       "duration_ms": 123428,
       "name": "You don't know",
       "url": "https://open.spotify.com/track/36fXGJsQmHzsTJ69DUV0nE"
+    },
+    {
+      "album": {
+        "name": "Zaalima",
+        "url": "https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Zaalima",
+      "url": "https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V"
     },
     {
       "album": {

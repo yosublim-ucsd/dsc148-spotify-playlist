@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,899 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,907 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 18 | [Outback \(Extended Remix\)](https://open.spotify.com/track/1TCEkwRoCOeqLSj7IxYSd3) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Durwood Black](https://open.spotify.com/artist/4MUvRyLfPPLd35bnFTUjDz), [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [D\. Thrash](https://open.spotify.com/artist/0xZDRONxKQoyG5S2HTbjj5), [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Blacked Out](https://open.spotify.com/album/3s3zL0GTPCOopTqv9laBQy) | 8:09 |
 | 19 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
 | 20 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
-| 21 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 |
-| 22 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
+| 21 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
+| 22 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 |
 | 23 | [John Wayne](https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe) | [J\. Hartley](https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT) | [John Wayne](https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY) | 2:38 |
 | 24 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |
 | 25 | [Crank It Up](https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Keep It Redneck \- Remix](https://open.spotify.com/track/2pgGU4HYnD2Q0gUAgRjWuQ) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Keep It Redneck \(Deluxe\)](https://open.spotify.com/album/4WJtMtbkzawLZtiK8pGvUx) | 4:34 |
 
-Snapshot ID: `MCxjNmFiNzY1OTdiNDhkZWY5MWMyZDhlY2VkNGNlZmU5ZmZmYzZhZTY2`
+Snapshot ID: `MCw4ZThjOTIzNjE1ZWFjZDczYmYxMjZhYzAxNzY3MTE2N2U5MTQ4YWEx`

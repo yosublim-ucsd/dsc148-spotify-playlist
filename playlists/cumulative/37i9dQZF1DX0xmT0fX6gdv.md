@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-199 songs - 16 hr 33 min
+200 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Rubberdub Dance](https://open.spotify.com/track/0JbfPGzCGlAjrLKzwKFuu2) | [Cracy Coconuts](https://open.spotify.com/artist/5Qre0VlSEzLF91s8Z9zDzT) | [Rubberdub Dance](https://open.spotify.com/album/67lOA0zm9h0bYcRJDSPK9c) | 4:20 | 2022-12-23 |  |
 | [Rumelaj](https://open.spotify.com/track/3BkR5hBVIVQHJ9MX4hRYBr) | [Pleiades Vocal Group](https://open.spotify.com/artist/13N62yQVeXVp9uAhQQer3f) | [Polyphonic Routes](https://open.spotify.com/album/2YdzNI09zPdQKUMLEemT04) | 2:55 | 2023-08-10 |  |
 | [Rusija \(Remaster 2022\)](https://open.spotify.com/track/0x4c5aio3jxYbJLKcjNWwF) | [Idoli](https://open.spotify.com/artist/4DA80eMApXUP7X5BCvUbdu) | [Odbrana I Poslednji Dani \(Remaster 2022\)](https://open.spotify.com/album/2K5IO6y7in8JMKuu7GHsvm) | 5:09 | 2023-10-18 |  |
-| [Sabato Italiano](https://open.spotify.com/track/3eGaKntSr7YjqqhPUPcueJ) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Aperitivo](https://open.spotify.com/album/26ZtaiF2jnFUyWDWiGNZiX) | 4:33 | 2023-10-18 |  |
+| [Sabato Italiano](https://open.spotify.com/track/3eGaKntSr7YjqqhPUPcueJ) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Aperitivo](https://open.spotify.com/album/26ZtaiF2jnFUyWDWiGNZiX) | 4:33 | 2023-10-18 | 2024-02-18 |
+| [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 | 2023-12-12 |  |
 | [Selahattin Eyyubinin Yeğeni Aslan Yürekli Rişarın Kız Kardeşine Karşı](https://open.spotify.com/track/0DMyDnL3rk44QapOt7nDka) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Estağfurullah Ne Haddimize!](https://open.spotify.com/album/48bewDJKZfYOiZYFeRRy2U) | 6:09 | 2022-12-23 | 2023-04-04 |
 | [Sem Você](https://open.spotify.com/track/6E8P3PeM76bGMYNtYFDyGI) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4), [Copenema](https://open.spotify.com/artist/0WoBav69QBpV3FQTCjCBHC), [DJ Pippi](https://open.spotify.com/artist/5TqtzZ1BGLizhpCxVfB0n8) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 6:29 | 2022-12-23 | 2023-03-11 |
 | [Sevince](https://open.spotify.com/track/28JN0yHdCLFCSNZmBsfjhJ) | [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3) | [Şaşkın](https://open.spotify.com/album/2e2sk01WXW88ywLy3Rasz2) | 5:16 | 2023-08-10 |  |

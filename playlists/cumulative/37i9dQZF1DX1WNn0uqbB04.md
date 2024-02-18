@@ -87,7 +87,7 @@
 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 | 2023-08-04 |  |
 | [Whatever Lola Wants \- Gotan Project Remix](https://open.spotify.com/track/29NRxWMbx6J6IOoE8BBl5F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:40 | 2023-08-04 |  |
 | [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-04 | 2023-11-06 |
-| [Zorzal](https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw) | 3:09 | 2023-10-26 |  |
+| [Zorzal](https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Campo](https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw) | 3:09 | 2023-10-26 |  |
 | [アシタカセッ記](https://open.spotify.com/track/42pzzZb0NIjKQ7zD0kqJ2y) | [Ryota Komatsu](https://open.spotify.com/artist/5fH8ci69hA3hPR7yCzrKdr) | [天空のバンドネオン〜タンゴでスタジオジブリ〜](https://open.spotify.com/album/1mt5kvGTc3FwaB5NCZcFRe) | 3:04 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2023-10-10. Prior content cannot be recovered.

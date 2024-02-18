@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,499 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,511 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 34 | [Kuso Ressha \- Cover](https://open.spotify.com/track/5MDEXM95JBcHH3HGWcE9ne) | [Toumeinokuni](https://open.spotify.com/artist/6OqbVFq8mPSp5JPOUihPSj), [Saku Hanamoto](https://open.spotify.com/artist/3XbOpFQDDuz550anCklPao) | [Kuso Ressha \(Cover\)](https://open.spotify.com/album/2gLjkIazQtA9FQUxQ32ubJ) | 4:09 |
 | 35 | [oto no nai replica](https://open.spotify.com/track/57dSPrrnGz37vQQ96rtNsf) | [One\-half](https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO), [DIG8 Records](https://open.spotify.com/artist/1vDjvmnKQzpemIr5tPi3fg) | [oto no nai replica](https://open.spotify.com/album/2GM9YBhblil13TgmYbwyh9) | 2:06 |
 | 36 | [ennui](https://open.spotify.com/track/20UNYmjVcAqOqSo6CBMSsK) | [愛染三葉](https://open.spotify.com/artist/7Lf0HfB7vW12nNItpzoAxw) | [ennui](https://open.spotify.com/album/3ZzjntfOg8UDNzS1edwwOr) | 2:58 |
-| 37 | [誤解しないで](https://open.spotify.com/track/4fmqIPe7OZ4dXBnPt3Fbjz) | [香月紅茶](https://open.spotify.com/artist/3EaOszn4aq87DcEHqaSfLb) | [誤解しないで](https://open.spotify.com/album/0NACW7myRKs36TcclNahXA) | 4:00 |
+| 37 | [誤解しないで](https://open.spotify.com/track/4fmqIPe7OZ4dXBnPt3Fbjz) | [Kazuki Kocha](https://open.spotify.com/artist/7wZwtg44nPvajgrTqsIgnD) | [誤解しないで](https://open.spotify.com/album/0NACW7myRKs36TcclNahXA) | 4:00 |
 | 38 | [ダンシング☆PONPON](https://open.spotify.com/track/0J4iVoZiixaEbgZ1fKL5xI) | [桜鳥ミーナ](https://open.spotify.com/artist/1oJQufuXRcdh4XosQ3edse) | [ダンシング☆PONPON](https://open.spotify.com/album/4qsrzjbhl1Uhe9rBRlANFE) | 3:34 |
 | 39 | [BALALAIKA](https://open.spotify.com/track/76yRxh0mlCbU8eQPZTstfZ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA](https://open.spotify.com/album/4pfYQKmuDfjNOJ05rhAzXz) | 3:10 |
 | 40 | [MIDNIGHT MATADOR](https://open.spotify.com/track/1qAArYg8crvzV2zlUfn5Ix) | [RameL](https://open.spotify.com/artist/19bSEki4SdmXaFArTvYKxd), [DB\-みつ](https://open.spotify.com/artist/2by88pu0uxKQ7Fd5fJsSNp) | [MIDNIGHT MATADOR](https://open.spotify.com/album/5kLU20IS8At48xzPdLYLqL) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [悪くぁない](https://open.spotify.com/track/3zF2FesG8CbLBPNu8ZVgYp) | [夜更かしさんは白昼夢を見る](https://open.spotify.com/artist/3Tekc5GNuIH1o2psFvYPJk) | [悪くぁない](https://open.spotify.com/album/2YTL1eKDiSO1hIGGhgHC2h) | 4:41 |
 | 50 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 
-Snapshot ID: `MCwzYmJkM2VhNWVjYWMwNDk0ZTVhZGVkM2U2ZmE5YTQwODJkNWUzNGI2`
+Snapshot ID: `MCxlMmNkZjFkMDEwYzAwMzNiMGM0NGExNzg0NThmODIzMDg1MTg5MjAw`

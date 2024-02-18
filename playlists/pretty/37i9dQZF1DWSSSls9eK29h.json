@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 133138,
+  "num_followers": 133213,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTBhMWNjZmM4ZTlmMWNjMzY3ZTQ5Yjc0NDBlNzczODkxZjUwNTdk",
+  "snapshot_id": "MCxlMmNiYjMwNTJiZTMyZTcwYmNlZjUzYWQwZjc2ZGYwZWIyZWM3M2M3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "Sunset Bay",
-      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Dave Koz",
         "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 370040,
       "name": "So Far From Home",
       "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "Sunset Bay",
+      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Classical Soul",
-        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
-      },
-      "artists": [
-        {
-          "name": "Marc Antoine",
-          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "Follow Your Bliss",
-      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 320973,
       "name": "I Just Can't Stop Thinking About You",
       "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Classical Soul",
+        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
+      },
+      "artists": [
+        {
+          "name": "Marc Antoine",
+          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
+        }
+      ],
+      "duration_ms": 308400,
+      "name": "Follow Your Bliss",
+      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Ties That Bind",
         "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 221640,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Playing It Cool",
         "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 265253,
       "name": "South Of Market",
       "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
-      },
-      "artists": [
-        {
-          "name": "Hiroshima",
-          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
-        }
-      ],
-      "duration_ms": 327733,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Saxtress",
         "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 302306,
       "name": "Castine",
       "url": "https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "East",
+        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
+      },
+      "artists": [
+        {
+          "name": "Hiroshima",
+          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
+        }
+      ],
+      "duration_ms": 327733,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
     },
     {
       "added_at": "2020-08-19 00:00:21",

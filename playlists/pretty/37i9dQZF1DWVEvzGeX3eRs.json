@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2610091,
+  "num_followers": 2610244,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmUwMGMwZDM0ZTg5YWRhZmYyYTBjYTMyMzMxZjJmN2UwNGVjMWUz",
+  "snapshot_id": "MCwzZmFkOTFmY2NkODJhNWIxOWFjZjljNWUxYTEwYjIyY2YzNTQyMDJk",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Baduizm",
@@ -313,20 +329,20 @@
       "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -347,22 +363,6 @@
       "duration_ms": 276013,
       "name": "Spend My Life With You",
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Chillin'",
         "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 234053,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "The Boy Is Mine",
@@ -511,6 +495,22 @@
       "duration_ms": 294866,
       "name": "For You I Will",
       "url": "https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "I Get Lonely",
-      "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "If I Ever Fall In Love",
         "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 289693,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 317560,
+      "name": "I Get Lonely",
+      "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "Cool Relax",
+        "url": "https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Forever My Lady",
@@ -803,22 +819,6 @@
       "duration_ms": 429120,
       "name": "'Cause I Love You",
       "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
-    },
-    {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "Cool Relax",
-        "url": "https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ"
     },
     {
       "added_at": "2023-02-02 23:04:07",

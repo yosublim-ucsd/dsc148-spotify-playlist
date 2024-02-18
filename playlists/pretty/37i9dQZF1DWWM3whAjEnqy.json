@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42795,
+  "num_followers": 42808,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
+  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 194000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1LdGcv246dZ321xFTrNUIe"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
-      },
-      "artists": [
-        {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
-        }
-      ],
-      "duration_ms": 254465,
-      "name": "The Sun Comes Up",
-      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -531,18 +531,34 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
         }
       ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
+      "duration_ms": 254465,
+      "name": "The Sun Comes Up",
+      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
       },
       "artists": [
         {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -595,22 +611,6 @@
       "duration_ms": 239120,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Land & Sea",
+        "url": "https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Days in the Sun",
+      "url": "https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Here Comes Everybody",
-        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 244460,
-      "name": "It's Been a Long Day",
-      "url": "https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Land & Sea",
-        "url": "https://open.spotify.com/album/2AlnrVJGAQQSYPs0wp1J9Q"
+        "name": "Here Comes Everybody",
+        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 214647,
-      "name": "Days in the Sun",
-      "url": "https://open.spotify.com/track/4y4MynI3ysiE6pc4XsSTYR"
+      "duration_ms": 244460,
+      "name": "It's Been a Long Day",
+      "url": "https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Green Superintendent",
         "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 289515,
       "name": "Ride",
       "url": "https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Double Espresso",
-        "url": "https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9"
-      },
-      "artists": [
-        {
-          "name": "DICE",
-          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Double Espresso",
-      "url": "https://open.spotify.com/track/5FJKZdHAJUBHF55LgWGesp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Believe (Triple J Like A Version)",
-        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
+        "name": "Double Espresso",
+        "url": "https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9"
       },
       "artists": [
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
         }
       ],
-      "duration_ms": 197594,
-      "name": "Believe (Triple J Like A Version)",
-      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
+      "duration_ms": 205377,
+      "name": "Double Espresso",
+      "url": "https://open.spotify.com/track/5FJKZdHAJUBHF55LgWGesp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
+        "name": "Believe (Triple J Like A Version)",
+        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
       },
       "artists": [
         {
-          "name": "Holy Holy",
-          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 259964,
-      "name": "True Lovers",
-      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
+      "duration_ms": 197594,
+      "name": "Believe (Triple J Like A Version)",
+      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Laps Around The Sun",
-        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
         }
       ],
-      "duration_ms": 206293,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
+      "duration_ms": 259964,
+      "name": "True Lovers",
+      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 199437,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 353211,
       "name": "Every Day Is A Holiday (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/2FYPHlCcEzere9tj4vAouv"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 199437,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
     },
     {
       "added_at": "2023-11-15 02:04:48",

@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1227736,
+  "num_followers": 1227848,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTU2YWM5YTJiYzkxMWYxODMwNWI0MmZjZmIzNDhiNjY3ZDIxZjQ5",
+  "snapshot_id": "MCwzNjJlYjUxNjAyMTRhYTg2ZDFlMzNkZTU2NzdlMGU2MWQzYWJkOWFl",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
+        "name": "Chelsea Girl",
+        "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 159000,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
-        "name": "Chelsea Girl",
-        "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
-      },
-      "artists": [
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "This Year's Model (2021 Remaster)",
         "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 196680,
       "name": "Pump It Up - 2021 Remaster",
       "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Love Will Tear Us Apart - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "Rip It Up",
         "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 320413,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Love Will Tear Us Apart - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF"
     },
     {
       "added_at": "2023-03-14 21:51:39",

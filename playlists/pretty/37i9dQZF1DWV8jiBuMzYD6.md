@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,733 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,800 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 15 | [Out My Way](https://open.spotify.com/track/7gdhZ5u9T1tmvd3zud1yQZ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave 3](https://open.spotify.com/album/4PKdUHGtcJtsjhIaR4fjMk) | 1:20 |
 | 16 | [HIGH AS I CAN](https://open.spotify.com/track/3EUgdsRLn3iVbDOKPpjAXx) | [Lil Candy Paint](https://open.spotify.com/artist/7eKI9e9Oa1muxmRwoY40kv) | [HIGH AS I CAN](https://open.spotify.com/album/1ppjXkYQHAZzfTQeaV7C3e) | 2:44 |
 | 17 | [Better Days](https://open.spotify.com/track/37B4GLH6OzUTUAMLRoJpdf) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:07 |
-| 18 | [That's It](https://open.spotify.com/track/222iLCnOH9jL1iTAPz0JKD) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek, Vol\. 3](https://open.spotify.com/album/7v7tr9fDchcu0kpZlH3hpq) | 1:50 |
+| 18 | [That's It](https://open.spotify.com/track/21JXEVMRD9Vj4TVpOIJSLq) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek \(Vol\. 3\)](https://open.spotify.com/album/0cnEbsIFKNZycR6SgQnUZn) | 1:50 |
 | 19 | [Amongst the Dead](https://open.spotify.com/track/4UFW7gWfmtaviFQAiv3SwY) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Bloodrain](https://open.spotify.com/album/0ApSVk8bGg13w4KYWMa8Vi) | 1:47 |
 | 20 | [Eye 2 Eye](https://open.spotify.com/track/1DItMaT9W8U8SrDv8p6rAX) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [Yung Bans Vol\. 3](https://open.spotify.com/album/78Mvyn2rBPIm7CSL12lzUa) | 2:34 |
 | 21 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 46 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 47 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 
-Snapshot ID: `MCwxYTc5Zjk5NzJlZTQwMDhmZTdlNWUyY2VjZTA5NjE3NWMwMzJmZWM4`
+Snapshot ID: `MCwwYzMwZThiZTA1ZGNmNDI1YzI3YmVlOTM3OTY4NTA3NWQ0NzI4ZDhl`

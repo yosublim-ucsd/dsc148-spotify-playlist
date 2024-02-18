@@ -7781,20 +7781,28 @@
     },
     {
       "album": {
-        "name": "Hangar",
+        "name": "HANGAR",
         "url": "https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp"
       },
       "artists": [
         {
           "name": "Flaco G",
           "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Smookid",
+          "url": "https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
         }
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173160,
-      "name": "Hangar",
+      "name": "HANGAR",
       "url": "https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC"
     },
     {

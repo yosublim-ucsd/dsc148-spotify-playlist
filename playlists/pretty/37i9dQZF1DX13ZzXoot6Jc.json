@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Chris Stapleton",
-  "num_followers": 456213,
+  "num_followers": 456244,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDUyNzQ0YjQyYWYzNjM2MTY3N2Y4OTc4ZTk1ODUwZDMyNTJjZDk0",
+  "snapshot_id": "MCwwMzA2MjI0NzM0ZjcyNjJhMDcxOTRlMzk3ZGU0OTQ0MTY5OTU2NGMy",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -375,22 +375,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "I Will (When You Do)",
-        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+        "name": "Creek Will Rise",
+        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        },
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
         }
       ],
-      "duration_ms": 207533,
-      "name": "I Will (When You Do)",
-      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+      "duration_ms": 169293,
+      "name": "Creek Will Rise",
+      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -411,18 +407,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Creek Will Rise",
-        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
+        "name": "I Will (When You Do)",
+        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 169293,
-      "name": "Creek Will Rise",
-      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
+      "duration_ms": 207533,
+      "name": "I Will (When You Do)",
+      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -791,18 +791,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Southern and Slow",
-        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
         }
       ],
-      "duration_ms": 187493,
-      "name": "Southern and Slow",
-      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
+      "duration_ms": 157777,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -823,22 +827,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq"
+        "name": "Southern and Slow",
+        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 157777,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8"
+      "duration_ms": 187493,
+      "name": "Southern and Slow",
+      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "If We Were A Love Song",
+        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "If We Were A Love Song",
-        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Daylight Savings",
-      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Stereotype Broken",
-        "url": "https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Sad Ass Country Song",
-      "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Take Me Backroad (feat. High Valley)",
         "url": "https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 193133,
       "name": "Take Me Backroad (feat. High Valley)",
       "url": "https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Stereotype Broken",
+        "url": "https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Sad Ass Country Song",
+      "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
     },
     {
       "added_at": "2024-02-16 05:01:00",

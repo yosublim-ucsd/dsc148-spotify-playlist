@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-246 songs - 16 hr 41 min
+247 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 | 2023-09-29 |  |
 | [Fanfa](https://open.spotify.com/track/0CdXVtDuGEHSqwkeeNRvlg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fanfa](https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1) | 4:50 | 2021-07-24 | 2022-07-29 |
 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 | 2022-06-20 | 2023-05-20 |
+| [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-02-16 |  |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-08-13 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-08-18 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 | 2023-08-21 |
@@ -194,7 +195,7 @@
 | [Ritmo 6](https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P) | 4:59 | 2022-06-20 | 2023-05-20 |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2023-05-19 | 2023-08-28 |
 | [Rushing Back](https://open.spotify.com/track/5YSu7cIVCuvbOkDeckjVhL) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [Rushing Back](https://open.spotify.com/album/1BU49cvjSWAqnab2VwZPqq) | 3:44 | 2021-07-24 | 2023-05-20 |
-| [Sanctuary](https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk), [Annabelle Freedman](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 3:26 | 2023-05-19 |  |
+| [Sanctuary](https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk), [Annabelle Freedman](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 3:26 | 2023-05-19 | 2024-02-18 |
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2021-07-24 | 2023-07-06 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/2awksO3qqWBWDnJuBJdQaC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/41P47wN7Z6L02O52OQSw3j) | 7:04 | 2022-06-20 | 2022-11-13 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/5ftPNzPPQSm3my65xrZsMa) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/3fZHiJmXFcQCICVudoOVuV) | 7:04 | 2021-07-24 | 2022-07-29 |

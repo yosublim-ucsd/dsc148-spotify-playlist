@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dua Lipa, Calvin Harris, Lana Del Rey, Beyoncé, Jennifer Lopez and more!<br/>Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,778 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,898 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [Glorious Day](https://open.spotify.com/track/3hJpl7GUqYf1oozozdExrl) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Glorious Day](https://open.spotify.com/album/0T5vrhvhQFSgQ6a6Mbmw2j) | 2:53 |
 | 80 | [Soak](https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Soak](https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M) | 2:44 |
 
-Snapshot ID: `MCxhYjAyNzVmNDU2ZGE5NGQwMjJkNWQ4MjM2NjRkMjJlMzY2ZTFjMWFm`
+Snapshot ID: `MCxiZDk5ZGY3ODk0MGUzOTUyYWYxNjhkZjQ5NDEyMzRjOTVjZjMxNmNj`

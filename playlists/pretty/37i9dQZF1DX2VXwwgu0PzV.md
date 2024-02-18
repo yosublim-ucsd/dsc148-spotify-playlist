@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j?si=l5qQ01tYSp6wjgyiKBUVGA">Holy Drill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,322 likes - 93 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,369 likes - 93 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 92 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 |
 | 93 | [For Days](https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [For Days](https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK) | 2:22 |
 
-Snapshot ID: `MCwzNGIzZmVjOGI4MzU2YTgxNWQyYjI3MzFjNTc5OWVjZjQxYmEzMmFk`
+Snapshot ID: `MCw0YTUyMDM2N2NhNzAxMDM3MjU1MGI1YjllZDNmMmIwODFmYzgxNDY2`

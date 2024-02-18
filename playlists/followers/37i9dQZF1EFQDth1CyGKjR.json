@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 3044,
+  "2024-02-18": 3050,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU\">Timbaland</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Timbaland",
@@ -3448,6 +3448,32 @@
     },
     {
       "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437153,
+      "name": "Kim Porter (feat. Babyface and John Legend)",
+      "url": "https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP"
+    },
+    {
+      "album": {
         "name": "Know Bout Me",
         "url": "https://open.spotify.com/album/6Fhf7ARPmlq8lRGnVEdrhC"
       },
@@ -6279,6 +6305,28 @@
       "duration_ms": 437013,
       "name": "Spaceship Coupe",
       "url": "https://open.spotify.com/track/7xxEK0MQvkME1LSS2cIW7R"
+    },
+    {
+      "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145054,
+      "name": "Stay Long (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/4Ep3FZomL0EAKeYqW0riz6"
     },
     {
       "album": {

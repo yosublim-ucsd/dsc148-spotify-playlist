@@ -4,7 +4,7 @@
 
 > det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
 
-126 songs - 5 hr 25 min
+127 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB) | 2:06 | 2023-09-21 |  |
 | [Early Morning](https://open.spotify.com/track/3LRm9sflmioeTgaiLVylmy) | [Chanelbigs](https://open.spotify.com/artist/4CIgpJioANhknACYsDfcKG), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa) | [Early Morning](https://open.spotify.com/album/5fR2lxQW91zljY6JYmFyTM) | 2:07 | 2023-11-16 |  |
 | [ELEVATOR \(feat\. Stepz\)](https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [ELEVATOR](https://open.spotify.com/album/6vqIrUHCsxp1iVLkZFkXkJ) | 2:19 | 2023-11-10 | 2024-01-19 |
-| [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 | 2024-01-11 |  |
+| [Ensom](https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:20 | 2024-02-15 |  |
+| [Ensom](https://open.spotify.com/track/5RT81GdUGh5tCyL9aXg8b8) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening…](https://open.spotify.com/album/1wYUJCdZRCHaGMAXT18Gd9) | 2:20 | 2024-01-11 | 2024-02-18 |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
 | [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 |  |

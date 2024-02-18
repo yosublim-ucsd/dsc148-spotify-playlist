@@ -1,12 +1,12 @@
 {
   "description": "Classical compositions from Ravi Shankar and more.",
-  "num_followers": 47024,
+  "num_followers": 47043,
   "original_name": "Indian Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDZmODYwMzE2ZDZlOGNkMjBmYTM2NjIxZTlhNDdmZDdlMmY1YjY3",
+  "snapshot_id": "MCwyYzZjMGZkZjVkMTYyOTExZDExMDVlNGMwNzc2ZjFhNzQ4MWU4OWI4",
   "tracks": [
     {
       "added_at": "2023-11-24 05:13:05",
@@ -407,18 +407,10 @@
     {
       "added_at": "2023-11-24 05:13:05",
       "album": {
-        "name": "Vrindavan Sojourn (From the Album \"Manoyatri\")",
-        "url": "https://open.spotify.com/album/2G0NX8PGJkRCdn1beqaQ65"
+        "name": "Manoyatri",
+        "url": "https://open.spotify.com/album/6QC3xaw8QKzqhBe6FUFcQm"
       },
       "artists": [
-        {
-          "name": "George Brooks",
-          "url": "https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy"
-        },
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
         {
           "name": "Avra Banerjee",
           "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
@@ -442,11 +434,19 @@
         {
           "name": "Sambit Chatterjee",
           "url": "https://open.spotify.com/artist/1k1JTLGm0dUcSIflDlZ6tb"
+        },
+        {
+          "name": "George Brooks",
+          "url": "https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
         }
       ],
       "duration_ms": 689100,
       "name": "Vrindavan Sojourn",
-      "url": "https://open.spotify.com/track/4P1I8fZOObedYQoftl6Vqn"
+      "url": "https://open.spotify.com/track/3NBRxIx9mu2kunRjV4YdrU"
     },
     {
       "added_at": "2023-11-24 05:13:05",
@@ -516,7 +516,7 @@
       "added_at": "2023-11-24 05:13:05",
       "album": {
         "name": "Nazariya Lag Jayegi",
-        "url": "https://open.spotify.com/album/1FCH4k508ltzrqzS76BRkU"
+        "url": "https://open.spotify.com/album/6Jxxo9ji74zWHmp9Kiuaej"
       },
       "artists": [
         {
@@ -526,7 +526,7 @@
       ],
       "duration_ms": 712946,
       "name": "Nazariya Lag Jayegi",
-      "url": "https://open.spotify.com/track/0iHfz3tCIDU323Z6oER2eF"
+      "url": "https://open.spotify.com/track/47DPEg8w7WQ9Jm8H0LPscS"
     },
     {
       "added_at": "2023-11-24 05:13:05",

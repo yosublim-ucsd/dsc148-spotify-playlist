@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: Abby Sage
 
-1,525 songs - 3 day 18 hr 24 min
+1,526 songs - 3 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,8 @@
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-03-18 |
 | [Every Single Time You Fall In Love](https://open.spotify.com/track/2rqhXfetZMrhpFcg4rPoJm) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Every Single Time You Fall In Love](https://open.spotify.com/album/1eVTwfuKySEV6CrxZ1Su34) | 3:09 | 2023-07-07 | 2023-08-12 |
 | [EVERYBODY ELSE](https://open.spotify.com/track/7aJABYHsynSazwJF0gbMmc) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 3:49 | 2022-02-18 | 2022-03-19 |
-| [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 | 2024-01-19 |  |
+| [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 | 2024-01-19 | 2024-02-18 |
+| [Everything Almost](https://open.spotify.com/track/64cSblcHs4nVN1DfSDTT9O) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:00 | 2024-02-16 |  |
 | [Everything I Love Is Going To Die](https://open.spotify.com/track/3ZH7PRzRKfcYxU9aNQ6p3S) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Everything I Love Is Going To Die](https://open.spotify.com/album/5a4xRX65MiDzaeFKIv68T1) | 3:20 | 2021-12-31 | 2022-01-15 |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-05-27 |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2022-03-05 |

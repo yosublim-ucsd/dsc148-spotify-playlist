@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 117394,
+  "2024-02-18": 117408,
   "date_first_scraped": "2023-02-18",
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Susana Cala",
   "name": "Pop Colombia",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 155580,
       "name": "5 Minutos",
       "url": "https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188974,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192088,
       "name": "Asiento De Atras",
       "url": "https://open.spotify.com/track/4dRIxLukSEDkfhf9FyHud9"
@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+    },
+    {
+      "album": {
         "name": "C\u00e1mara Lenta",
         "url": "https://open.spotify.com/album/3NXbBQrzVnzHfBKhwcm1Nl"
       },
@@ -748,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Dos Semanas",
+        "url": "https://open.spotify.com/album/5qLNiFFzTrty1N3gJ0LaW1"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159875,
+      "name": "Dos Semanas",
+      "url": "https://open.spotify.com/track/24HpRg5rCOPJtLij5jDY3l"
+    },
+    {
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
       },
@@ -861,7 +897,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 158807,
       "name": "El Mismo Lugar",
       "url": "https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN"
@@ -1383,6 +1419,24 @@
       "duration_ms": 216533,
       "name": "Labios Rotos",
       "url": "https://open.spotify.com/track/0f3xJAABT92dcSH4t6oDZ0"
+    },
+    {
+      "album": {
+        "name": "Lim\u00f3n y Sal",
+        "url": "https://open.spotify.com/album/39A3cA2Y2FiElRTSy0m1kR"
+      },
+      "artists": [
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7wNfal52dQo119tcZJRQ9d"
     },
     {
       "album": {
@@ -2931,7 +2985,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 173642,
       "name": "Tengo Sed",
       "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
@@ -3236,6 +3290,24 @@
     },
     {
       "album": {
+        "name": "Volver A Qu\u00e9 (Carta No. 8)",
+        "url": "https://open.spotify.com/album/7GuvlWg0a0T6nXlA2JrgAw"
+      },
+      "artists": [
+        {
+          "name": "Cristina Charry",
+          "url": "https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Volver A Qu\u00e9 (Carta No. 8)",
+      "url": "https://open.spotify.com/track/3hzgdwxSZuFDWQsDhAeBNp"
+    },
+    {
+      "album": {
         "name": "Agust\u00edn",
         "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
       },
@@ -3371,6 +3443,24 @@
       "duration_ms": 160893,
       "name": "\u00bfC\u00f3mo Es Que T\u00fa?",
       "url": "https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "album": {

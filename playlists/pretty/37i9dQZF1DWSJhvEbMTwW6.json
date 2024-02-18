@@ -1,12 +1,12 @@
 {
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
-  "num_followers": 336717,
+  "num_followers": 336923,
   "original_name": "Cumbias de Microb\u00fas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTgzODUxODg4NTQzNjNiMzk5ZTNkZTUwZDgzOGU0ZDliYTc4OWQ3",
+  "snapshot_id": "MCwyZTliOWUzYzdiNWRkZGY5MzM1YTc4Y2Y4Mzc3M2FhNzUyYjFlOTE4",
   "tracks": [
     {
       "added_at": "2023-11-08 22:37:57",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "No Te Voy A Perdonar, Vol. 4",
-        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 232609,
-      "name": "No Te Voy a Perdonar",
-      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
+      "duration_ms": 219559,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Qu\u00e9 Cante El Amor",
         "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 202613,
       "name": "Al Despertar",
       "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "No Te Voy A Perdonar, Vol. 4",
+        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 232609,
+      "name": "No Te Voy a Perdonar",
+      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
+        "name": "Si Te Hubieras Quedado",
+        "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Ley Siete de Enrike Fortunato",
+          "url": "https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI"
+        }
+      ],
+      "duration_ms": 278931,
+      "name": "Si Te Hubieras Quedado",
+      "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 352480,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "Si Te Hubieras Quedado",
-        "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Ley Siete de Enrike Fortunato",
-          "url": "https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI"
-        }
-      ],
-      "duration_ms": 278931,
-      "name": "Si Te Hubieras Quedado",
-      "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Ea Ea La Cumbia Buena",
         "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 193366,
       "name": "Ea Ea La Cumbia Buena",
       "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Las Viejas Mas Bailadas",
-        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -1719,6 +1703,42 @@
       "duration_ms": 207728,
       "name": "Caricias - Acar\u00edciame",
       "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "Quiero Volar",
+        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Meza",
+          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
+        },
+        {
+          "name": "y Su Tropicolombia",
+          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
+        "name": "Las Viejas Mas Bailadas",
+        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 185115,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1751,26 +1771,6 @@
       "duration_ms": 208266,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "Quiero Volar",
-        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Meza",
-          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
-        },
-        {
-          "name": "y Su Tropicolombia",
-          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Quiero Volar",
-      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
+        "name": "Todo Lo Encuentro En Ti",
+        "url": "https://open.spotify.com/album/3UYpA91S4egk7kp8csDqJx"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/0aRfQXuOvXwejexxWo4jAH"
+    },
+    {
+      "added_at": "2023-11-08 22:37:57",
+      "album": {
         "name": "Los Exitos de Tiberio y Sus Gatos Negros",
         "url": "https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj"
       },
@@ -1911,22 +1931,6 @@
       "duration_ms": 224573,
       "name": "Lagrimas de Escarcha",
       "url": "https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379"
-    },
-    {
-      "added_at": "2023-11-08 22:37:57",
-      "album": {
-        "name": "La Cumbia Se\u00f1al",
-        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Orquesta Sonidera",
-          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
-        }
-      ],
-      "duration_ms": 375849,
-      "name": "La Cumbia Se\u00f1al",
-      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
     },
     {
       "added_at": "2023-11-08 22:37:57",
@@ -1947,22 +1951,18 @@
     {
       "added_at": "2023-11-08 22:37:57",
       "album": {
-        "name": "Todo Lo Encuentro En Ti",
-        "url": "https://open.spotify.com/album/3UYpA91S4egk7kp8csDqJx"
+        "name": "La Cumbia Se\u00f1al",
+        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
       },
       "artists": [
         {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "La Nueva Orquesta Sonidera",
+          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
         }
       ],
-      "duration_ms": 206453,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/0aRfQXuOvXwejexxWo4jAH"
+      "duration_ms": 375849,
+      "name": "La Cumbia Se\u00f1al",
+      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
     },
     {
       "added_at": "2023-11-08 22:37:57",

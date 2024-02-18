@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: hemlocke springs",
-  "num_followers": 42956,
+  "num_followers": 43009,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2I1MzFkNjM2NmE3ZmYxMWZhZjEwNThkOGZkN2IxOTYwYjcwZjhm",
+  "snapshot_id": "MCwwNjUxZThkYWJmMzA0YTM5OTNiMDQ4M2QxZTM2MDYwYjFlNDZjZTgy",
   "tracks": [
     {
       "added_at": "2024-02-10 01:44:05",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 230554,
-      "name": "HEAVEN TO ME",
-      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230554,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
     },
     {
       "added_at": "2024-02-10 01:44:05",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-02-10 01:44:05",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
-    },
-    {
-      "added_at": "2024-02-10 01:44:05",
-      "album": {
         "name": "The End of the World",
         "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 235773,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
+    },
+    {
+      "added_at": "2024-02-10 01:44:05",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2024-02-10 01:44:05",

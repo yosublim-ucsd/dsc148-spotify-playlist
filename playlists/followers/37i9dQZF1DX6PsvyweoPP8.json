@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 218320,
+  "2024-02-18": 218323,
   "date_first_scraped": "2022-03-24",
   "description": "Muito trap feito especialmente para os momentos mais sexys e quentes. [Conte\u00fado Expl\u00edcito]",
   "name": "TRAPando",
@@ -1377,6 +1377,24 @@
       "duration_ms": 213333,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5zdbfjCVtrAUwWeNFsE54s"
+    },
+    {
+      "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/2VBRJj31iJqjnL1E9cJmCl"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119850,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/15nEGocLKRlUe4ijzRDVDt"
     },
     {
       "album": {

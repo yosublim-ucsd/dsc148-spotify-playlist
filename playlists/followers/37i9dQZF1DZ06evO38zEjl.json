@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 2933,
+  "2024-02-18": 2934,
   "date_first_scraped": "2022-05-30",
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
   "name": "This Is Jon Hassell",
@@ -127,7 +127,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 153920,
       "name": "Aerial View",
       "url": "https://open.spotify.com/track/4eQq64VWTwNJfMiEminGAK"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 355813,
       "name": "Favela",
       "url": "https://open.spotify.com/track/5c5stvn9idPulAh0dy4xHD"

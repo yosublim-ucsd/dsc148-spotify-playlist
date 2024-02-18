@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-300 songs - 17 hr 36 min
+301 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Black Sun](https://open.spotify.com/track/55kiPvtypgGabvBYq53O8E) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/6RECe1GHKyEJa07bp6ciYm) | 6:13 | 2022-10-07 | 2023-06-10 |
 | [Black Sun](https://open.spotify.com/track/3T246PZYf5qMcBKFcjnfKx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Kadavar](https://open.spotify.com/album/4f00FpOFJG65WQKlBVlEHC) | 6:14 | 2020-12-11 | 2022-07-29 |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-12-11 | 2024-02-01 |
+| [Bomb Through The Breeze](https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund and the Steppin Stones](https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1) | 2:44 | 2023-09-22 |  |
 | [Boys From The Puget Sound](https://open.spotify.com/track/30MX7YQUfhQRzEEP8icha8) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Boys From The Puget Sound](https://open.spotify.com/album/6IBtL4j3T8LrREXlCAZCDf) | 3:33 | 2020-12-11 | 2022-06-14 |
 | [Brave New World \- Edit](https://open.spotify.com/track/3qaKW3PamENC3cfNy1qthd) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/2ciVpjZQk4aS4g7dtCBznU) | 2:40 | 2022-06-17 | 2022-11-09 |
 | [Brave New World \- Edit](https://open.spotify.com/track/4k5L5CO5mTIVwdsu6vsIFl) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brave New World \(Edit\)](https://open.spotify.com/album/4Z0hfRDndGL0bGFnuK9BsZ) | 2:40 | 2022-10-07 | 2023-06-10 |
@@ -91,13 +92,13 @@
 | [Facing My Fear](https://open.spotify.com/track/45AbDqJVqVU7nOxtW4SUTG) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Facing My Fear](https://open.spotify.com/album/2SZbusvetbsKZUlv1ZzBIZ) | 3:21 | 2020-12-11 | 2023-06-10 |
 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 | 2022-09-23 |  |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2020-12-11 |  |
-| [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 | 2022-10-07 |  |
+| [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 | 2022-10-07 | 2024-02-18 |
 | [Flesh and Bone](https://open.spotify.com/track/4l7F39cJ9mejxpuDp8rUX0) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Flesh and Bone](https://open.spotify.com/album/3XNx3O1SSNkAwMUVQFJxBR) | 4:32 | 2020-12-11 | 2023-06-10 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-12-11 | 2023-06-10 |
 | [Free](https://open.spotify.com/track/4ge3xYgVatWT0FKV26FsyE) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 2:25 | 2020-12-11 | 2022-09-24 |
 | [Girl Sports](https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Girl Sports](https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2) | 3:14 | 2022-06-13 |  |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-09-16 | 2022-09-20 |
-| [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-16 |  |
+| [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-16 | 2024-02-18 |
 | [Graveyard](https://open.spotify.com/track/5WwPOiBVI4Y2nrMubCneOy) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Graveyard](https://open.spotify.com/album/53hoTqaWfuRUwTDtZI72Rx) | 3:05 | 2022-10-07 | 2023-06-10 |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-06-13 | 2022-08-27 |
 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 | 2022-08-26 |  |
@@ -136,7 +137,7 @@
 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 | 2022-06-17 |  |
 | [Invincible](https://open.spotify.com/track/1r7PBed0nZQo31UU1g0aRA) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Invincible](https://open.spotify.com/album/65pbAYp4nfHGSZknGgvbDy) | 3:21 | 2020-12-11 | 2023-06-10 |
 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 | 2022-08-26 |  |
-| [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 | 2020-12-11 | 2024-01-15 |
+| [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 | 2020-12-11 |  |
 | [Legendary](https://open.spotify.com/track/579cIDb3DYSkR0AULxrAvW) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary](https://open.spotify.com/album/3BzcCNIizREnaZlZlxMEZG) | 3:50 | 2020-12-11 | 2022-07-29 |
 | [Legendary](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:52 | 2022-06-17 | 2022-09-24 |
 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 | 2020-12-11 | 2022-06-14 |

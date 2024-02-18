@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <a href="spotify:artist:332mFY6yBda91AsIOSKirG">Planet Giza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,691 likes - 99 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,707 likes - 99 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Body](https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Dark Songs To Drive To](https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn) | 2:33 |
 | 99 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCwyYjc3OTkxZGYzYjYwZGZlNDE3ZGI1Mjk4OTFhNjMyZDVjOGRmMjY0`
+Snapshot ID: `MCw2YzI4OGNiOTU5Y2M1YWYyNjg0ODIxNWRhNWQyMGMyMjRmMTYzNTEw`

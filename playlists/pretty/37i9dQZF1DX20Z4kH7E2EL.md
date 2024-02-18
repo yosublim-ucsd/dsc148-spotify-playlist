@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,560 likes - 80 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,561 likes - 80 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 4 | [This Feeling](https://open.spotify.com/track/4kdY5p1f3aysdsGH2uzj1T) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Silvio Soul](https://open.spotify.com/artist/37HzkmPYDZbgjgB9Ont3TE) | [This Feeling](https://open.spotify.com/album/70DRinqBAX17xz604tCR5M) | 3:50 |
 | 5 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
 | 6 | [Jones St.](https://open.spotify.com/track/2b5xmRxuDDygzLSSr9aZlO) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:52 |
-| 7 | [Night Rider \- Radio Edit](https://open.spotify.com/track/6UuusfFrOzwuLuZYaAwqXC) | [Naz, 88Birds](https://open.spotify.com/artist/1iNYSEqfpdFiTSt3n5YSuw) | [Night Rider](https://open.spotify.com/album/43JJvuDZthW35FWPWegmOM) | 3:46 |
+| 7 | [Night Rider \- Radio Edit](https://open.spotify.com/track/6UuusfFrOzwuLuZYaAwqXC) | [Naz](https://open.spotify.com/artist/3Y2xG44uOIP7Wns7KYhAJ8), [88Birds](https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1) | [Night Rider](https://open.spotify.com/album/43JJvuDZthW35FWPWegmOM) | 3:46 |
 | 8 | [Want U \- Extended](https://open.spotify.com/track/47oPT0022xvFqb2eTNy7Uc) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Want U](https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4) | 3:32 |
 | 9 | [Planet XXX](https://open.spotify.com/track/3vzyI6jeJ86NuRoL5v1fOe) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Cocoon Compilation S](https://open.spotify.com/album/7dAIB06XezAwD6Mg706lvH) | 6:45 |
 | 10 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Need You \- Extended Mix](https://open.spotify.com/track/39N6Oi7d8qYmBqPAwpSV0h) | [James iD](https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS) | [Anjunadeep Explorations 22](https://open.spotify.com/album/4DC9IfMdaEhUTU343byhka) | 6:30 |
 | 80 | [Cos Of You](https://open.spotify.com/track/7nAbkjtxvS00NBcOlapI9V) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Cos Of You](https://open.spotify.com/album/1N4eo5yQdprG0nLBJ7UlhM) | 6:13 |
 
-Snapshot ID: `MCxlYTAwODZhZGQ4NzEyZjVjNzQzMzk5Zjk5ZThmOWJhYzZhNDhlMjJi`
+Snapshot ID: `MCxmYTI3NDgwZWE3YTgwN2M5NGQ5ZjIxMzVmMGNkMzRkNmIzZjZiNTg3`

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1227349,
+  "2024-02-18": 1227469,
   "date_first_scraped": "2019-08-09",
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
   "name": "Heart Beats",
@@ -3975,7 +3975,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 165000,
       "name": "Chasing Daydreams",
       "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
@@ -4077,7 +4077,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 190570,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/7g7pOUq65ODMkQ1Jo9as0v"
@@ -4709,6 +4709,28 @@
       "duration_ms": 258201,
       "name": "Coming Home (feat. Sons of the East)",
       "url": "https://open.spotify.com/track/3yV2bUZuqZLJ79cSbAKpNN"
+    },
+    {
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
       "album": {
@@ -5449,7 +5471,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 141120,
       "name": "Dollar",
       "url": "https://open.spotify.com/track/6rOh3UDyN4Jz9PUxkHjMvh"
@@ -21306,6 +21328,24 @@
     },
     {
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
         "name": "Sugar (feat. Domino)",
         "url": "https://open.spotify.com/album/4LbSWzyk2EEjvcG4ykIueI"
       },
@@ -21479,6 +21519,32 @@
       "duration_ms": 198223,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7vLIj2GVAeYrohv8p0JjF0"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Madeline Megery",
+          "url": "https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313064,
+      "name": "Sunrise (feat. Madeline Megery)",
+      "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
     },
     {
       "album": {

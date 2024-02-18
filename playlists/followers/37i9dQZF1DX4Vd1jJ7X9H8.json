@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 307258,
+  "2024-02-18": 307351,
   "date_first_scraped": "2022-02-13",
-  "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
+  "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
   "name": "Soir\u00e9e",
   "tracks": [
     {
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 184315,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
@@ -5311,6 +5311,24 @@
       "duration_ms": 240052,
       "name": "Lost - Spotify Singles",
       "url": "https://open.spotify.com/track/6n8BEYxCJbdxiu3m3QU7v5"
+    },
+    {
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "album": {

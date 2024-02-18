@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 453117,
+  "2024-02-18": 453120,
   "date_first_scraped": "2021-12-21",
   "description": "Up and down I-95. Cover: Benny The Butcher",
   "name": "State of Mind",
@@ -415,7 +415,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 64614,
       "name": "40",
       "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
@@ -1626,6 +1626,28 @@
     },
     {
       "album": {
+        "name": "Becky (feat. 41)",
+        "url": "https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Becky (feat. 41)",
+      "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
+    },
+    {
+      "album": {
         "name": "Beep Beep",
         "url": "https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388"
       },
@@ -2019,7 +2041,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 107528,
       "name": "Bitches & Bottles",
       "url": "https://open.spotify.com/track/5A2MsqWdsL5wNL60TSAiMj"
@@ -3914,6 +3936,24 @@
     },
     {
       "album": {
+        "name": "Cupid's Guidance",
+        "url": "https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157866,
+      "name": "Cupid's Guidance",
+      "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
+    },
+    {
+      "album": {
         "name": "Cut U Off",
         "url": "https://open.spotify.com/album/7HKtVhwqCYZFUk7DUXWjw4"
       },
@@ -4687,7 +4727,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
@@ -5517,6 +5557,24 @@
       "duration_ms": 139305,
       "name": "Evil",
       "url": "https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J"
+    },
+    {
+      "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/3dhfnNNe2KWFApJ4dP5B01"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142804,
+      "name": "Evil Twin",
+      "url": "https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq"
     },
     {
       "album": {
@@ -8980,6 +9038,24 @@
     },
     {
       "album": {
+        "name": "It's Just Us",
+        "url": "https://open.spotify.com/album/0FsBXJAUZ1HxFiDNwiXTko"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86790,
+      "name": "It's Just Us",
+      "url": "https://open.spotify.com/track/4xbzkF6TzrCSWzpFxiCIkL"
+    },
+    {
+      "album": {
         "name": "It's Officially Done",
         "url": "https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD"
       },
@@ -11893,7 +11969,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 146912,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/6zRJ4zXxZ5S8P1XMURRm7k"
@@ -12406,6 +12482,40 @@
     },
     {
       "album": {
+        "name": "NOT AVAILABLE",
+        "url": "https://open.spotify.com/album/1obQnFNZRGHtUBE6G6ZJul"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "Sdot Go",
+          "url": "https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        },
+        {
+          "name": "Jay5ive",
+          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
+        },
+        {
+          "name": "NazGPG",
+          "url": "https://open.spotify.com/artist/6sCHVEyGueEk9b4mW3Tukm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124074,
+      "name": "NOT AVAILABLE",
+      "url": "https://open.spotify.com/track/2eVA7XGnuaVpwf8KFp8HvF"
+    },
+    {
+      "album": {
         "name": "Not For Sale",
         "url": "https://open.spotify.com/album/66KK902PVRmjQJR7ubqft3"
       },
@@ -12621,7 +12731,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 246752,
       "name": "OK (feat. Young Thug)",
       "url": "https://open.spotify.com/track/06P0OMevRLv6wWGdXHSGN2"
@@ -12771,6 +12881,24 @@
       "duration_ms": 119016,
       "name": "On You",
       "url": "https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6"
+    },
+    {
+      "album": {
+        "name": "ONE CALL",
+        "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
     },
     {
       "album": {
@@ -13955,7 +14083,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 129229,
       "name": "Project XXX",
       "url": "https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ"
@@ -15827,7 +15955,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205925,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy"
@@ -16448,6 +16576,24 @@
     },
     {
       "album": {
+        "name": "Smoochie Valentine",
+        "url": "https://open.spotify.com/album/3z797ObItaoscc6vsoMrA5"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "Smoochie Valentine",
+      "url": "https://open.spotify.com/track/55LOzleH2mgzrPjCpNgOEr"
+    },
+    {
+      "album": {
         "name": "Sniper Gang Freestyle Pt. 2",
         "url": "https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW"
       },
@@ -16659,7 +16805,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 156849,
       "name": "Spin Da Block",
       "url": "https://open.spotify.com/track/5eYmMQuKASmneHbtciIlgK"
@@ -18647,6 +18793,28 @@
       "duration_ms": 147218,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/7bYMYyBCfWSfoC2zRacK2x"
+    },
+    {
+      "album": {
+        "name": "Vertino",
+        "url": "https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333671,
+      "name": "Vertino",
+      "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
     },
     {
       "album": {

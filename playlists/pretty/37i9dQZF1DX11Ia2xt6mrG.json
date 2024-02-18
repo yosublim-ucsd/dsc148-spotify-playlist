@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 56014,
+  "num_followers": 56019,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmFhOWEwNDJjNzdmY2VkY2U1OGZmNTViMGY0MGI0OTk4NGRhYTky",
+  "snapshot_id": "MCxjMDI1NGIzZmM4ZWVkZWFiYjkwZmNlNmVlMTVkM2E2NWJkN2E0NzNk",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "UP (Bzars Remix)",
         "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 142372,
       "name": "UP (Bzars Remix)",
       "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Where Have U Been",
+        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Xime Glo",
+          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
+        }
+      ],
+      "duration_ms": 222957,
+      "name": "Where Have U Been",
+      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 166611,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Where Have U Been",
-        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Xime Glo",
-          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
-        }
-      ],
-      "duration_ms": 222957,
-      "name": "Where Have U Been",
-      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
-      },
-      "artists": [
-        {
-          "name": "Theus Mago",
-          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
-        }
-      ],
-      "duration_ms": 373066,
-      "name": "X-Control",
-      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "The Same Loop Again",
-        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
       },
       "artists": [
         {
-          "name": "Orig\u0101mi",
-          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
         }
       ],
-      "duration_ms": 279594,
-      "name": "The Same Loop Again",
-      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
+      "duration_ms": 373066,
+      "name": "X-Control",
+      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "The Same Loop Again",
+        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        }
+      ],
+      "duration_ms": 279594,
+      "name": "The Same Loop Again",
+      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
+        "name": "San Junipero Remixes Vol. 1",
+        "url": "https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x"
       },
       "artists": [
         {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
         },
         {
-          "name": "Danno Summer",
-          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
+          "name": "Usb Gad",
+          "url": "https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7"
         }
       ],
-      "duration_ms": 181726,
-      "name": "No Vas A Volver",
-      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
+      "duration_ms": 195692,
+      "name": "San Junipero (Usb Gad Remix)",
+      "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "San Junipero Remixes Vol. 1",
-        "url": "https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x"
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
       "artists": [
         {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
         },
         {
-          "name": "Usb Gad",
-          "url": "https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7"
+          "name": "Danno Summer",
+          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
         }
       ],
-      "duration_ms": 195692,
-      "name": "San Junipero (Usb Gad Remix)",
-      "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
+      "duration_ms": 181726,
+      "name": "No Vas A Volver",
+      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
     },
     {
       "added_at": "2024-02-02 06:00:00",

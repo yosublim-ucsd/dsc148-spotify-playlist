@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,210 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,225 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 93 | [Montaña](https://open.spotify.com/track/1r8iML6ls8xP0WZ9megjNy) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Montaña](https://open.spotify.com/album/31eKdCWp9zet3WIDnsa4Ob) | 2:14 |
 | 94 | [El Son de Tus Suspiros](https://open.spotify.com/track/3Ha6gnrHZKElsm6QkJvCPD) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [El Son de Tus Suspiros](https://open.spotify.com/album/40aQp39AwN6epVJvHdWE0C) | 3:19 |
 | 95 | [Como una Luz](https://open.spotify.com/track/6KoWvHYbfLVgCV2RUCeWmO) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Aurora](https://open.spotify.com/album/69kg3SATA00VfhGmuaE248) | 5:01 |
-| 96 | [Voy al Mar](https://open.spotify.com/track/4iyo325AOznajzj3tDQMLK) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/1swHkrkE64ymuBJ4A7mai5) | 4:18 |
+| 96 | [Voy al Mar](https://open.spotify.com/track/5orNDuggs6WF3xd7kVGuui) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Love Can't Stop](https://open.spotify.com/album/0r0mNDG2GxZfBGvSpHtsgk) | 4:18 |
 | 97 | [Ay Cupido](https://open.spotify.com/track/5f5eeJyd1y0KYhIcbeqj2Q) | [Marrasa](https://open.spotify.com/artist/0k3beuIjilbCY3FKaYHPGE) | [Ay Cupido](https://open.spotify.com/album/27uUKCRJgmYTyIzH1ayZ90) | 3:02 |
 | 98 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 |
 | 99 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 |
 | 100 | [La Noche](https://open.spotify.com/track/5fLSZkTdsEIRLz5hSeKNUd) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Vivo](https://open.spotify.com/album/4XN5RkrMs49HPnvFww7KbJ) | 4:19 |
 
-Snapshot ID: `MCw4MGFkY2Y2MDFhODczYmEyZWFmOWI2ZWZmZmUzODliODY2YWVlN2Fk`
+Snapshot ID: `MCxlNTkzZTQ4NTNlYmIxOTIzN2Y1MGM2MjlkZDg4ZjE2ZGEyOTI0MzM4`

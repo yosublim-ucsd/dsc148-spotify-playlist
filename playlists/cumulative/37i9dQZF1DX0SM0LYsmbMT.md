@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,018 songs - 6 day 9 hr 38 min
+4,019 songs - 6 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Blvd](https://open.spotify.com/track/0ekLmITcw6TWXHm8MZq0g9) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Blvd](https://open.spotify.com/album/2ZaCPz6STgVNmn19GNtC6u) | 1:39 | 2021-09-18 | 2021-11-19 |
 | [Boarding Time](https://open.spotify.com/track/5a0fBxMwpccIblSmE1D8vl) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Sandals](https://open.spotify.com/album/69juwyv3PEIg2QqBqyOz9A) | 2:45 | 2019-06-22 | 2019-11-08 |
 | [Bob's Law](https://open.spotify.com/track/4he3FjvSZ2owAuGGtb5Jt5) | [Pawcut](https://open.spotify.com/artist/0el9N0gW4ROadV7V1IPaI5) | [Bob's Law](https://open.spotify.com/album/2wjoKjK6TQHepEfBy4Cc7h) | 1:57 | 2021-06-09 | 2021-12-17 |
+| [Bobba](https://open.spotify.com/track/6IWajUqxetsaZo5kqqDPrJ) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Bobba](https://open.spotify.com/album/1rHbYpiN0IbyBGgtlBToBv) | 1:59 | 2024-02-15 |  |
 | [Bog](https://open.spotify.com/track/0xxLUfogZJ2BvK9gUbxqxo) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Bog](https://open.spotify.com/album/3l2fjQqy1zfJwodD9LsnH3) | 1:30 | 2020-05-12 | 2020-07-18 |
 | [Bokeh](https://open.spotify.com/track/63EBjwW8q4hd1sAO3uI8LK) | [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [BNMO](https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR) | [Bokeh](https://open.spotify.com/album/3tmFbcxQvgBztJxyKeUc6t) | 1:15 | 2021-05-14 | 2022-12-01 |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-12 | 2022-09-23 |
@@ -3213,7 +3214,7 @@
 | [Spring](https://open.spotify.com/track/55kIpppK4AK3Pb3iLzchLm) | [notliam.](https://open.spotify.com/artist/61LoHXsI9sGJ20BSuDzCCP) | [Spring / Bourbon](https://open.spotify.com/album/44bxg2HFpFnOGvJYzryGSs) | 1:44 | 2019-05-26\* | 2019-08-13 |
 | [Spring Blender](https://open.spotify.com/track/3yPdG7Zsc5PQ9RCHRwCdzc) | [Bill adlib](https://open.spotify.com/artist/2vtcShcGkXS1SZeLwEOqKz) | [Spring Blender](https://open.spotify.com/album/3V73ymExJca89uuNCYKOG8) | 1:57 | 2019-06-14 | 2019-11-12 |
 | [spring breeze](https://open.spotify.com/track/4hEtLH4D9zXiYuefvhaFDg) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [spring breeze](https://open.spotify.com/album/0P3wtmsHYu5XKitFbK1uPM) | 1:36 | 2022-03-24 | 2023-11-24 |
-| [Spring Cold](https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Spring Cold](https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3) | 2:40 | 2024-02-15 |  |
+| [Spring Cold](https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Spring Cold](https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3) | 2:40 | 2024-02-15 | 2024-02-18 |
 | [Spring Comes](https://open.spotify.com/track/2jnu0adkAkoDSlOH7vJjzp) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Spring Comes](https://open.spotify.com/album/5D3hdq3sZDSLU0m788mXsY) | 2:36 | 2021-06-06 | 2022-01-06 |
 | [Spring Ferry Ride](https://open.spotify.com/track/762MS9QHDzv9mEfJqUhb2c) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Spring Ferry Ride](https://open.spotify.com/album/7gjeqr1Rg8eywdfXbYYpIK) | 2:18 | 2020-06-19 | 2020-08-25 |
 | [Spring Loop](https://open.spotify.com/track/2q8jQMT5B7HhiKuLkm2JPO) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Spring Loop](https://open.spotify.com/album/0Rp7PkblANJsTtONv1MGmQ) | 2:04 | 2023-04-20 | 2023-07-28 |

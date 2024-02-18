@@ -1,12 +1,12 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145111,
+  "num_followers": 145134,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTg3MWJmOGQxZDE5YWU4ZTRkM2IwNDgwZjdkNjMxNzkzMjc2OGM3",
+  "snapshot_id": "MCwwMjI0MjQ5YzFhZmEzYzFhYmU1YTE2ODI0YTBmNTQ5NTkyYTFlMjIz",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
-      },
-      "artists": [
-        {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Mal Acostumada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Apaixonada",
         "url": "https://open.spotify.com/album/0gcWUwyIgjm4H5cfj25Iz4"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 206106,
       "name": "Bate Lata",
       "url": "https://open.spotify.com/track/2ATL6pmlSKBxn9M2U9Qp4t"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
+      },
+      "artists": [
+        {
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Mal Acostumada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "A M\u00fasica do Olodum",
-        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Vem meu amor",
-      "url": "https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "A M\u00fasica do Olodum",
+        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Vem meu amor",
+      "url": "https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "FESTA DE ADEUS",
+        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "QUERO UM CARNAVAL",
+      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Daniela Mercury",
         "url": "https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Maxximum - Pepeu Gomes E Baby Consuelo",
-        "url": "https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Masculino E Feminino",
-      "url": "https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Minha Voz",
         "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 183306,
       "name": "Bloco Do Prazer",
       "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Maxximum - Pepeu Gomes E Baby Consuelo",
+        "url": "https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Masculino E Feminino",
+      "url": "https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -811,22 +827,6 @@
       "duration_ms": 242173,
       "name": "Alo Paixao",
       "url": "https://open.spotify.com/track/23WC3lIxCNoVoe00MTyE1T"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "FESTA DE ADEUS",
-        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "QUERO UM CARNAVAL",
-      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
     },
     {
       "added_at": "2023-03-06 22:48:04",

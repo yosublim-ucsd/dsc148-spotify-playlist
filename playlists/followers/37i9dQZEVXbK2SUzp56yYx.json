@@ -1,9 +1,31 @@
 {
-  "2024-02-17": 1332,
+  "2024-02-18": 1333,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
   "tracks": [
+    {
+      "album": {
+        "name": "Amathole",
+        "url": "https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487804,
+      "name": "Amathole",
+      "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
+    },
     {
       "album": {
         "name": "Bad Feeling (Oompa Loompa)",
@@ -1099,7 +1121,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "PROTECTION CHARM",
       "url": "https://open.spotify.com/track/42zD05iksMrXWgagZvW6NA"
@@ -1404,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
         "name": "On n\u2019enferme pas les oiseaux",
         "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
       },
@@ -1444,6 +1484,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"
+    },
+    {
+      "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
       },
@@ -1471,7 +1537,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 276986,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
@@ -1737,7 +1803,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 259500,
       "name": "\u0411\u043e\u043b\u044c\u0448\u0435 \u043d\u0438\u043a\u043e\u043c\u0443 \u043c\u0435\u043d\u044f \u043d\u0435 \u043f\u0440\u043e\u0449\u0430\u0439",
       "url": "https://open.spotify.com/track/1z5ZzNVikflBLtoaHC6nNV"
@@ -1791,7 +1857,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 220644,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430 90-\u0445",
       "url": "https://open.spotify.com/track/0ipesqCK6UxEygjtd2PAH8"
@@ -2085,7 +2151,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177280,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u043e\u0441\u044c",
       "url": "https://open.spotify.com/track/0XJuB470ygCB92gRVnHwo1"

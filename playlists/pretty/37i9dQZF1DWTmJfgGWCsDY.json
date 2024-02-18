@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 3238,
+  "num_followers": 3243,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGVlNWM1OTJmZjVlZTVhMWQzNWM2NDI4ODAxOWUyZmE1YTdjOGU2",
+  "snapshot_id": "MCwxNTE2NGVkNzI0YWExZDMyYTdjYWQyZjMzNjYwNmYxYmVhNzkwOGU0",
   "tracks": [
     {
       "added_at": "2024-02-16 06:54:32",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Kafubaa",
-        "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Zungu Macha",
-          "url": "https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "Kafubaa",
-      "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Miss Buza (feat. Dulla Makabila)",
         "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 320653,
       "name": "Miss Buza (feat. Dulla Makabila)",
       "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Kafubaa",
+        "url": "https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Zungu Macha",
+          "url": "https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "Kafubaa",
+      "url": "https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Nalimwaga",
-        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Nalimwaga",
-      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Hainaga Ushemeji",
         "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 202631,
       "name": "Umbea",
       "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Nalimwaga",
+        "url": "https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Nalimwaga",
+      "url": "https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Nimejipata",
-        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
-      },
-      "artists": [
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "Nimejipata",
-      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -623,22 +607,34 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Sina",
-        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
+        "name": "Nimejipata",
+        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
       },
       "artists": [
         {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
         }
       ],
-      "duration_ms": 298358,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+      "duration_ms": 291800,
+      "name": "Nimejipata",
+      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Poaa",
+        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
+      },
+      "artists": [
+        {
+          "name": "Bamba Pana, Makaveli",
+          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
+        }
+      ],
+      "duration_ms": 278233,
+      "name": "Linga Linga - feat. Makaveli",
+      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -659,18 +655,22 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Poaa",
-        "url": "https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm"
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu"
       },
       "artists": [
         {
-          "name": "Bamba Pana, Makaveli",
-          "url": "https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST"
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 278233,
-      "name": "Linga Linga - feat. Makaveli",
-      "url": "https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre"
+      "duration_ms": 298358,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
         "name": "Cheusi Cheupe (feat. Meja Kunta)",
         "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
-        }
-      ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Sawa Nitaacha",
         "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 218197,
       "name": "Sawa Nitaacha",
       "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
-        "name": "Niite Mbwa",
-        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
-      },
-      "artists": [
-        {
-          "name": "Shilole",
-          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Niite Mbwa",
-      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -835,6 +815,26 @@
       "duration_ms": 240490,
       "name": "Wapambe",
       "url": "https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Niite Mbwa",
+        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
+      },
+      "artists": [
+        {
+          "name": "Shilole",
+          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Niite Mbwa",
+      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
         "name": "Upwii",
         "url": "https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 187706,
       "name": "Upwii",
       "url": "https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Kwetu",
-        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Kwetu",
-      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Natamani",
         "url": "https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 262426,
       "name": "Natamani",
       "url": "https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
     },
     {
       "added_at": "2024-02-16 06:54:32",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-16 06:54:32",
       "album": {
-        "name": "Naumia",
-        "url": "https://open.spotify.com/album/70hchTWlKZnkowXc624R7v"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Naumia",
-      "url": "https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F"
-    },
-    {
-      "added_at": "2024-02-16 06:54:32",
-      "album": {
         "name": "Niwataje",
         "url": "https://open.spotify.com/album/7l3NJQr1fIaCg0vgyDnpCI"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 273866,
       "name": "Mchepuko",
       "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
+    },
+    {
+      "added_at": "2024-02-16 06:54:32",
+      "album": {
+        "name": "Naumia",
+        "url": "https://open.spotify.com/album/70hchTWlKZnkowXc624R7v"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Naumia",
+      "url": "https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F"
     },
     {
       "added_at": "2024-02-16 06:54:32",

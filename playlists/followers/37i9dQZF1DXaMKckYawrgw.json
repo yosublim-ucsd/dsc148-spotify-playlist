@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 9859,
+  "2024-02-18": 9864,
   "date_first_scraped": "2022-04-22",
-  "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Out Of Control Army en portada. ",
+  "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Pante\u00f3n Rococ\u00f3 en portada. ",
   "name": "MexSka ",
   "tracks": [
     {
@@ -653,7 +653,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 191317,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K"
@@ -849,6 +849,28 @@
       "duration_ms": 296355,
       "name": "El Dejado",
       "url": "https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv"
+    },
+    {
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142252,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
     },
     {
       "album": {
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205801,
       "name": "La Chica Sobre Ruedas",
       "url": "https://open.spotify.com/track/1bl0E3AqqtuJs9UrKiLRPs"
@@ -3579,7 +3601,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 196640,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"

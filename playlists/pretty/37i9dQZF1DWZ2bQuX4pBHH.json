@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 238016,
+  "num_followers": 238073,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGFkNGQ4ODc0OTBlMThmMmRiYmZiNjZkMWYyZGFmYjg5NTBjNmZl",
+  "snapshot_id": "MCxhMGMwZGQ0MDY3YWI2ZjU4NTI1YmUxODVjNjVhMzAwMDY3NzM0OTUy",
   "tracks": [
     {
       "added_at": "2023-12-21 04:47:58",
@@ -943,22 +943,26 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Zinda Banda (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
+        "name": "Don",
+        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
         },
         {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Zinda Banda (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
+      "duration_ms": 368480,
+      "name": "Aaj Ki Raat",
+      "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
     },
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1039,26 +1043,22 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
+        "name": "Zinda Banda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
       },
       "artists": [
         {
-          "name": "Alisha Chinai",
-          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 368480,
-      "name": "Aaj Ki Raat",
-      "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
+      "duration_ms": 264000,
+      "name": "Zinda Banda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
     },
     {
       "added_at": "2023-12-21 04:47:58",

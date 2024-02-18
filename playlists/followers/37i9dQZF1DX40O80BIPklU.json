@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 329045,
+  "2024-02-18": 329108,
   "date_first_scraped": "2022-01-02",
   "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Trueno en portada. ",
   "name": "Rap en Espa\u00f1ol",
@@ -1330,6 +1330,28 @@
     },
     {
       "album": {
+        "name": "Cuatro 44",
+        "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Cuatro 44",
+      "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+    },
+    {
+      "album": {
         "name": "Cuervos",
         "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
       },
@@ -1413,6 +1435,36 @@
       "duration_ms": 207218,
       "name": "C\u00f3mo Diamante",
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
+    },
+    {
+      "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        },
+        {
+          "name": "Pezcatore",
+          "url": "https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Da Capo",
+      "url": "https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN"
     },
     {
       "album": {
@@ -2759,7 +2811,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 275179,
       "name": "La Escuela",
       "url": "https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO"
@@ -3145,7 +3197,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 298226,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/6Kw3E0kHkqyYHgZr2jZEaE"
@@ -3569,7 +3621,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193846,
       "name": "Me Ignora",
       "url": "https://open.spotify.com/track/0rceqfTk0Lvo15LcuCEiJT"
@@ -4566,6 +4618,32 @@
     },
     {
       "album": {
+        "name": "PINK FLOYD",
+        "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171882,
+      "name": "PINK FLOYD",
+      "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"
+    },
+    {
+      "album": {
         "name": "pizzas lalin freestyle",
         "url": "https://open.spotify.com/album/3NKPeFeHkwgarbvQDZlbua"
       },
@@ -4889,7 +4967,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 216008,
       "name": "Recuerden",
       "url": "https://open.spotify.com/track/4bnUnhYQNux2wg8sULSBWZ"
@@ -5517,6 +5595,40 @@
       "duration_ms": 185806,
       "name": "Suero Casero",
       "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
+    },
+    {
+      "album": {
+        "name": "Tantas Veces",
+        "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
+      },
+      "artists": [
+        {
+          "name": "Sike Damodar",
+          "url": "https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO"
+        },
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "Dj Peche",
+          "url": "https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s"
+        },
+        {
+          "name": "Barbatos Beats",
+          "url": "https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh"
+        },
+        {
+          "name": "Diavlitx",
+          "url": "https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149408,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
     },
     {
       "album": {

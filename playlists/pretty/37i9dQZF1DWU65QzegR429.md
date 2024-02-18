@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,392 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,405 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 49 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 | 50 | [Ghetto Love \(feat\. Modblack\)](https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [Modblack](https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil) | [Ghetto Love \(feat\. Modblack\)](https://open.spotify.com/album/34IJofkFyAezKIRECKpiFC) | 3:05 |
 
-Snapshot ID: `MCwzZmRmNzQ5YjcwZTQ2YTJjNDYzOGRlYWVmZmE2ODA2NmYwNWQwMDAw`
+Snapshot ID: `MCwyMmUwMmIyNjNhMTBmZjQ3ODU4MTZlOTk4NTY2MWJkNGE0MmE4ZThm`

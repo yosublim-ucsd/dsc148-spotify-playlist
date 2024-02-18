@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,370 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,554 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 60 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 |
 | 61 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
 | 62 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 |
-| 63 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 |
-| 64 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
+| 63 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
+| 64 | [Teleport \- Future Mix](https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Future Memories](https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u) | 6:23 |
 | 65 | [Silence](https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Silence](https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT) | 3:41 |
 | 66 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
 | 67 | [Trojan Love \- Original Club Mix](https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Trojan Love \(Original Club Mix\)](https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O) | 5:57 |
 | 68 | [Closer](https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Closer](https://open.spotify.com/album/03mhpyzIJwGvoyJzoij8aN) | 3:34 |
 | 69 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
-| 70 | [Whiter Shade of Pale](https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Whiter Shade of Pale](https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O) | 2:43 |
-| 71 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
+| 70 | [Tomorrow](https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR) | [Mika Olson](https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc) | [Tomorrow](https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO) | 3:16 |
+| 71 | [Whiter Shade of Pale](https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Whiter Shade of Pale](https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O) | 2:43 |
 | 72 | [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 |
 | 73 | [To Be Written \- Lunar Plane Remix](https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [To Be Written](https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2) | 6:33 |
 | 74 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
 | 80 | [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 |
 
-Snapshot ID: `MCwzY2Y3OGI3ODM3N2ZjZThkZmRmMGY2NTI4MTg5NTYxMTViNmEwZWMz`
+Snapshot ID: `MCxkZjZiZjIyZjU3YTYyNTI4OGVjYTZiODQyZWEzNjYwMjZkMjJkMTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,321 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,333 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 56 | [No Wahala](https://open.spotify.com/track/6DUVkJa50QyFebstc2AQpb) | [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [The G Tape: Volume 3](https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q) | 2:31 |
 | 57 | [Answer](https://open.spotify.com/track/1QBMPnuR6v9OB1VVxgJB5G) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ), [K1NG](https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9) | [Answer](https://open.spotify.com/album/0WkQauwdoWdnTyHE53ZBbm) | 2:46 |
 | 58 | [Night Gown](https://open.spotify.com/track/3S7FiiGtWszlNExNbYvEix) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [Night Gown](https://open.spotify.com/album/6TXBvvbagTmmw06T7ARWAR) | 2:07 |
-| 59 | [CARNIVAL](https://open.spotify.com/track/22UmqSLFADtxHCcZ67RzKp) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CARNIVAL](https://open.spotify.com/album/5jMfrCmk4I3jjuju47YQj5) | 4:24 |
+| 59 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 60 | [Ghetto Wisdom](https://open.spotify.com/track/6MgOft5uXO9vVcmuN8VBmc) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Ghetto Wisdom](https://open.spotify.com/album/0ejEEMyItvJgJyVXFwLCnp) | 4:47 |
 | 61 | [Tekken 8 \(The Anthem\)](https://open.spotify.com/track/0fiqWtmPgBiS9PZIE0FJjl) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk) | [Tekken 8 \(The Anthem\)](https://open.spotify.com/album/3AgCWoFQBO5Ye2o1tztOdi) | 2:17 |
 | 62 | [Kissing Strangers](https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3) | 3:08 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 76 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
 | 77 | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 |
 
-Snapshot ID: `MCw2YWQzODY3NWFlZTFjMDc5NGQzNDJkMmQ1OTg0NDk3YzI5M2ZkMTE4`
+Snapshot ID: `MCwxNzUyNzBkN2JmYzMzMzkzZDQ1YmQzYWYxYzdiZWEyY2FmYTNlOWU0`

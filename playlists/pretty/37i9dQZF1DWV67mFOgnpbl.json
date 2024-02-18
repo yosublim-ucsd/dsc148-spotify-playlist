@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 382946,
+  "num_followers": 383238,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDg1MzhiNmZlNTgzYzdlMjIyYTBhMGUxMmM2NjNlZWE4MWU1MzA2",
+  "snapshot_id": "MCw1MmUyNGNkMGU0OWVmMGUwM2ZkMTc3NDUyMDYzYmM2MDQwOWY0ZWYy",
   "tracks": [
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Breaking The Chains",
+      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
         "name": "Sound of White Noise - Expanded Edition",
         "url": "https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza"
       },
@@ -1327,38 +1343,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Viva La Victoria",
-        "url": "https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A"
-      },
-      "artists": [
-        {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Viva La Victoria",
-      "url": "https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Breaking The Chains",
-      "url": "https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 208666,
       "name": "Slave to the Grind",
       "url": "https://open.spotify.com/track/1PWyfvKa5mrdWkqvms3tX7"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Viva La Victoria",
+        "url": "https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A"
+      },
+      "artists": [
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Viva La Victoria",
+      "url": "https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD"
     },
     {
       "added_at": "2023-10-27 12:45:10",

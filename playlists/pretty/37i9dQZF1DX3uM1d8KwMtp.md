@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,476 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,522 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 24 | [El Vento](https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [El Vento](https://open.spotify.com/album/5yfhtpnsttHCYXYNeZ4XBV) | 3:32 |
 | 25 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 |
 | 26 | [Metaverso](https://open.spotify.com/track/6OZ9UCnglmt004K6OyZ5zS) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI) | [Metaverso](https://open.spotify.com/album/24BIvUt5lchwwfQaCj88xw) | 6:18 |
-| 27 | [It's Not Right](https://open.spotify.com/track/4HLnctbGbWWWdJCfAHMj8a) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It’s Not Right \(Moojo Remix\)](https://open.spotify.com/album/7lgLof5vG549tOh4jhseO7) | 6:22 |
+| 27 | [It's Not Right](https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Helen Tesfazghi](https://open.spotify.com/artist/71JA6QavKqzsNcJubmgXQT) | [It's Not Right](https://open.spotify.com/album/5gIMusLf2Z5ECGBKCzFTGO) | 6:22 |
 | 28 | [The Sound of Silence \- Extended Mix](https://open.spotify.com/track/2pdFwbvjbixL0aprQ5bnX1) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [MHE](https://open.spotify.com/artist/5nEWKkUf6IA0Ry5wBOG1J0) | [The Sound Of Silence](https://open.spotify.com/album/5tG7zEHtCiDVDUDv5sgO7B) | 6:31 |
 | 29 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
 | 30 | [Chilanzar](https://open.spotify.com/track/3eRKV66fGzyDKLhZpbMPVO) | [My Format](https://open.spotify.com/artist/1UaOgB2VAZDXGiI5UgclhE), [Nopopstar](https://open.spotify.com/artist/3WZ1Fwoh1f4TOfp8LtAxzC) | [Chilanzar](https://open.spotify.com/album/6pUGx8rnnPZ1bVHVOM0EXu) | 5:44 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 52 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 53 | [Madan](https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Madan](https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY) | 3:18 |
 
-Snapshot ID: `MCxjYTZkYmIxMTg0MzI4ODUyMDJiNTZkYjllMTY0YjY4NjNhYWFlYzg0`
+Snapshot ID: `MCw4NTQ5OWI2NzhiMTdlNzE3MzFkZmNhMmQ1NWI2MDMxNTEyNTEwMzUx`

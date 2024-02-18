@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 64604,
+  "num_followers": 64636,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTNmOGI4NzcwNDk2NTY1MTliMjY2NjY4MWY2YjRiMTE4NmRkMjNl",
+  "snapshot_id": "MCw1ZTMxZTdiMjFmZDhiNzhkY2Q4ZTE3YjVmY2MwYWJkNGEzMDE4Zjc4",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Rancheras Populares 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Negros",
-          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
-        }
-      ],
-      "duration_ms": 280586,
-      "name": "La Pareja Ideal",
-      "url": "https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Siempre Arriba",
         "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+        "name": "Rancheras Populares 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "Los Gatos Negros",
+          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
         }
       ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+      "duration_ms": 280586,
+      "name": "La Pareja Ideal",
+      "url": "https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -455,6 +439,22 @@
       "duration_ms": 204970,
       "name": "El Corrido Del R-15",
       "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "De Fiesta Con los Braos",
+        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 267335,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Michelada",
         "url": "https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 162320,
       "name": "Michelada",
       "url": "https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "De Fiesta Con los Braos",
-        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 267335,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Chupilca",
-        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
-      },
-      "artists": [
-        {
-          "name": "Josepth el Ranchero",
-          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
-        }
-      ],
-      "duration_ms": 175205,
-      "name": "La Chupilca",
-      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 193125,
       "name": "La Mesa 20",
       "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "La Chupilca",
+        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
+      },
+      "artists": [
+        {
+          "name": "Josepth el Ranchero",
+          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
+        }
+      ],
+      "duration_ms": 175205,
+      "name": "La Chupilca",
+      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Rancheras Populares 16 \u00c9xitos",
         "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 169960,
       "name": "Te Lavaste la Cara y el Mono No",
       "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Por Andar de Patas Negras",
-        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Por Andar de Patas Negras",
-      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
         "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 211866,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Por Andar de Patas Negras",
+        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Por Andar de Patas Negras",
+      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
     },
     {
       "added_at": "2023-10-05 22:49:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 370053,
+  "num_followers": 370154,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWU0Y2QxOGMzODMxN2MxMTk1N2MwMzBmZTU2ZDRjMDE4ZDkyYzcx",
+  "snapshot_id": "MCxhMWExYjU0YzhlYmJmMmY0ZTFiZTY2MDM4ZTcxODFlMDBjOGQ1Y2I3",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -931,22 +931,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Fuera de Control",
-        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 210824,
-      "name": "Fuera de Control",
-      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -983,18 +979,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
-      },
-      "artists": [
-        {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "On & On & On",
-      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Message to the World",
         "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 183506,
       "name": "Social Drinker",
       "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+      },
+      "artists": [
+        {
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "On & On & On",
+      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Beast From The East",
         "url": "https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Reggae Hit L.A.",
-        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
-      },
-      "artists": [
-        {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Free Time",
-      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Reggae Hit L.A.",
+        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "In Black And White",
-        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie",
-        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "Round We Go",
-      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1371,18 +1339,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+        "name": "In Black And White",
+        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
       },
       "artists": [
         {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+      "duration_ms": 137960,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1403,6 +1371,38 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Round We Go",
+      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+      },
+      "artists": [
+        {
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "A Good Day for the Damned",
         "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
       },
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1515,8 +1515,8 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
       "artists": [
         {
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Heads Are Gonna Roll",
-        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
-      },
-      "artists": [
-        {
-          "name": "The Hippos",
-          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Sound the Alarm",
         "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 168182,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Heads Are Gonna Roll",
+        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
+      },
+      "artists": [
+        {
+          "name": "The Hippos",
+          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
     },
     {
       "added_at": "2024-01-19 06:00:00",

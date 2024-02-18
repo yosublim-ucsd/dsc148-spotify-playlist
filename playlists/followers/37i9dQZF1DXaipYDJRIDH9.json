@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 217172,
+  "2024-02-18": 217176,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -399,6 +399,24 @@
       "duration_ms": 200843,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
+    },
+    {
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
+      },
+      "artists": [
+        {
+          "name": "Agatha Messina",
+          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
     },
     {
       "album": {
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 157521,
       "name": "Secret Language (Solo Piano Version)",
       "url": "https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL"

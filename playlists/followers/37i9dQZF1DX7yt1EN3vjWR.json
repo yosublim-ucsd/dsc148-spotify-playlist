@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 21639,
+  "2024-02-18": 21706,
   "date_first_scraped": "2023-11-02",
   "description": "2024\u5e745\u670818\u65e5(\u571f), 19\u65e5(\u65e5)\u306b\u5e55\u5f35\u30e1\u30c3\u30bb\u3067\u958b\u50ac\uff01\u56fd\u5185\u6700\u5927\u898f\u6a21\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb<a href=\"https://popyours.jp/\">\u300ePOP YOURS\u300f</a>\u306e\u30e9\u30a4\u30f3\u30ca\u30c3\u30d7\u3092\u30c1\u30a7\u30c3\u30af\u3002",
   "name": "POP YOURS",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 176999,
       "name": "100",
       "url": "https://open.spotify.com/track/60O04sMkcnKyi1JoxWGBwP"
+    },
+    {
+      "album": {
+        "name": "100 (LIVE ver.)",
+        "url": "https://open.spotify.com/album/1D904JCa5PYjCmAz5539QH"
+      },
+      "artists": [
+        {
+          "name": "Lunv Loyal",
+          "url": "https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "100 - LIVE ver.",
+      "url": "https://open.spotify.com/track/350oNFR22ROHFxHwao2QlY"
     },
     {
       "album": {
@@ -152,6 +170,24 @@
     },
     {
       "album": {
+        "name": "24/7 YOU...",
+        "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161899,
+      "name": "24/7 YOU...",
+      "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
+    },
+    {
+      "album": {
         "name": "98's UP",
         "url": "https://open.spotify.com/album/01l8xDflYmzWCA5yEAiSkc"
       },
@@ -226,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g"
+      },
+      "artists": [
+        {
+          "name": "CreativeDrugStore",
+          "url": "https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "6ix Pack",
+      "url": "https://open.spotify.com/track/6RmSzjCKSevNrwIb7WXcKX"
+    },
+    {
+      "album": {
         "name": "ROBIN HOOD STREET",
         "url": "https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c"
       },
@@ -273,7 +327,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 170500,
       "name": "99",
       "url": "https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g"
@@ -1369,7 +1423,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
@@ -2701,10 +2755,32 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 177000,
       "name": "Hot Rodder",
       "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
+    },
+    {
+      "album": {
+        "name": "4 MY CULT",
+        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Hot Rodder",
+      "url": "https://open.spotify.com/track/4Lk87x18jFWnrvKCS37RXx"
     },
     {
       "album": {
@@ -3430,6 +3506,24 @@
     },
     {
       "album": {
+        "name": "FANTASY CLUB (International Version)",
+        "url": "https://open.spotify.com/album/0aW5Sks2Bix7Gy1M4VlhY0"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236483,
+      "name": "LONELY NIGHTS",
+      "url": "https://open.spotify.com/track/2cBVXCi2n4VztEzq25HoA7"
+    },
+    {
+      "album": {
         "name": "Longiness",
         "url": "https://open.spotify.com/album/1OKnnHOE8FeXhCu4uUP2aF"
       },
@@ -3909,6 +4003,24 @@
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H"
+    },
+    {
+      "album": {
+        "name": "Mooon Walkers",
+        "url": "https://open.spotify.com/album/2tMmJb38Pq3n03w12fnpNn"
+      },
+      "artists": [
+        {
+          "name": "Chinza Dopeness",
+          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323587,
+      "name": "Mooon Walkers",
+      "url": "https://open.spotify.com/track/6APkTmiQGbhJ20Pcfuq4H8"
     },
     {
       "album": {
@@ -5176,6 +5288,24 @@
     },
     {
       "album": {
+        "name": "SAICO",
+        "url": "https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167429,
+      "name": "SAICO",
+      "url": "https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg"
+    },
+    {
+      "album": {
         "name": "MONIBUM",
         "url": "https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8"
       },
@@ -5748,6 +5878,24 @@
     },
     {
       "album": {
+        "name": "T.U.B.E.",
+        "url": "https://open.spotify.com/album/1L6onBGoWB9yYYIxG4cHyf"
+      },
+      "artists": [
+        {
+          "name": "Chinza Dopeness",
+          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295933,
+      "name": "T.U.B.E.",
+      "url": "https://open.spotify.com/track/4hCcXHkGofJhdI3exogkRA"
+    },
+    {
+      "album": {
         "name": "TANOCJINSEI",
         "url": "https://open.spotify.com/album/0oZ8J2ijjSvYg9E6Yjuflb"
       },
@@ -5771,6 +5919,24 @@
       "duration_ms": 170680,
       "name": "TANOCJINSEI",
       "url": "https://open.spotify.com/track/50jdt6NmU7zNEwWCsVkTrE"
+    },
+    {
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/4ShmCLaYtD0iusN23PnN7g"
+      },
+      "artists": [
+        {
+          "name": "CreativeDrugStore",
+          "url": "https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Taste Test",
+      "url": "https://open.spotify.com/track/3rQGOFwZ43IgehS20Vy47D"
     },
     {
       "album": {
@@ -7305,6 +7471,24 @@
       "duration_ms": 224005,
       "name": "\u7948\u308a | Welcome Back",
       "url": "https://open.spotify.com/track/7m1FHFuejMiBI14u4pCvcP"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236386,
+      "name": "\u81ea\u7531",
+      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
     },
     {
       "album": {

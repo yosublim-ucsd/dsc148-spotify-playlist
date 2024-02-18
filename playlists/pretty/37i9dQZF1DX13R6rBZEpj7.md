@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,463 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,534 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 35 | [Again \(feat\. Takura\)](https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:51 |
 | 36 | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Badman Riddim \(feat\. Sweetie Irie\)](https://open.spotify.com/album/6oPO1krnnAWP9qhOgJb7WB) | 2:17 |
 | 37 | [Can't Escape](https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Can't Escape](https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk) | 3:38 |
-| 38 | [Tune](https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Pressure Drop](https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB) | 3:08 |
-| 39 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 38 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 39 | [Tune](https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Pressure Drop](https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB) | 3:08 |
 | 40 | [Let Go \(with Aleya Mae\)](https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Let Go](https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g) | 3:33 |
 | 41 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
 | 42 | [Lost It \- Medicine Place Remix](https://open.spotify.com/track/3y4Gf3Dp0HVzJnFYHhT8V0) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Medicine Place](https://open.spotify.com/artist/5zKQqXKkTQAe5C9LqEQvNm) | [Lost It \(Remixed\)](https://open.spotify.com/album/0rv3P4AUuSqXPsbAuedEqg) | 3:25 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 66 | [Dance \- Tengu remix](https://open.spotify.com/track/5wVsRQKP6xt4Z82QQDJA2f) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Dance \(The Remixes\)](https://open.spotify.com/album/21Gn31tVzHqLQwQBrDbKGW) | 4:23 |
 | 67 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 68 | [Never](https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn) | 3:26 |
-| 69 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
-| 70 | [Barrington](https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk) | 3:41 |
+| 69 | [Barrington](https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk) | 3:41 |
+| 70 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
 
-Snapshot ID: `MCxkYjMxNWU3ZDI4NjY1MDM1ZjlmNDU3ZTg4ZjIzODY2YTcwNmNmNjg0`
+Snapshot ID: `MCw4OGY2YzNlNmRkYjhhMmU5MzMwODdkYjUwNGQ3MTRiMDFmMDA1MTZl`

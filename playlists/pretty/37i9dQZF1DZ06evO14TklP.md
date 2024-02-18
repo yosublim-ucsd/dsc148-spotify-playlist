@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,955 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,966 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 18 | [CONFIO](https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 3:36 |
 | 19 | [Flashes](https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:58 |
 | 20 | [Flat](https://open.spotify.com/track/0dKEIdUMUqmafqLMKAPnEJ) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 2:49 |
-| 21 | [Paranoia](https://open.spotify.com/track/2IPCKaaX8tB2l3tfUkQH87) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 1:59 |
+| 21 | [Hentai](https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:22 |
 | 22 | [SXO](https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [NTGM](https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb) | 2:57 |
 | 23 | [Pódio](https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:44 |
 | 24 | [Bugatti](https://open.spotify.com/track/6BxOt3jbyRt1Jvqkqx806a) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:55 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 43 | [Real \#1](https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA) | [Real \#1](https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L) | 2:44 |
 | 44 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 |
 
-Snapshot ID: `Mjg0NjgyMDksMDAwMDAwMDAzNmJjYzkxNDdlZTc2NGM4NzE0YjQ4ZmE3ZjFlMjY3Nw==`
+Snapshot ID: `Mjg0Njk1NTEsMDAwMDAwMDAyODZlYjk1MjhjODZhMmIyNTkyODI5Yjc1NGY4YmVkYg==`

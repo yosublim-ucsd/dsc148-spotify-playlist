@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 195888,
+  "2024-02-18": 195925,
   "date_first_scraped": "2021-12-21",
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
   "name": "Fusion Fest",
@@ -21,6 +21,36 @@
       "duration_ms": 375861,
       "name": "#7",
       "url": "https://open.spotify.com/track/65dEGtv5Yb6WjxBIGdNEXg"
+    },
+    {
+      "album": {
+        "name": "#9 Venus The Living Myth",
+        "url": "https://open.spotify.com/album/4d4LXLXh5JK0vPFNpxRyc4"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Marshall Allen",
+          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390920,
+      "name": "#9 Venus The Living Myth",
+      "url": "https://open.spotify.com/track/5vA1ZAu2uVXoUbaK1fid2N"
     },
     {
       "album": {

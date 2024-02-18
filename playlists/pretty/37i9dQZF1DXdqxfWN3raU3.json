@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 110685,
+  "num_followers": 110724,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U2NThlOWJlZTZmMTA2NjBjYzRiZjk3MWU0ZmVkMjhlZmU3MDM4",
+  "snapshot_id": "MCw5ZTA2NzYyY2FkMjYwY2RlNWE1YTRmNDQ2ODZkMmRjYjkzZWFkZTIw",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "la calle",
-        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 243999,
-      "name": "la calle",
-      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "la calle",
+        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 243999,
+      "name": "la calle",
+      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/3X5avTBhMfVYYyrUeX385j"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3f2W9VB9lSD7ssng5aHSY3"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/6NO62oYyAyVOAlYbvQCTjN"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3f2W9VB9lSD7ssng5aHSY3"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/6NO62oYyAyVOAlYbvQCTjN"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Fin De Semana / Demasiado R\u00e1pido",
-        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
+        "name": "CNTRTE",
+        "url": "https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 186285,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
+      "duration_ms": 166573,
+      "name": "CNTRTE",
+      "url": "https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "CNTRTE",
-        "url": "https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU"
+        "name": "Fin De Semana / Demasiado R\u00e1pido",
+        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 166573,
-      "name": "CNTRTE",
-      "url": "https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL"
+      "duration_ms": 186285,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "THICK",
+        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "THICK",
+      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1363,18 +1379,26 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "THICK",
-        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
+        "name": "La Luna y Tus Lunares",
+        "url": "https://open.spotify.com/album/4CHRHhcyHUSEUJh2zYAosk"
       },
       "artists": [
         {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Joy Martinez",
+          "url": "https://open.spotify.com/artist/1tIrIQWKkT09D6HFU48Sfs"
+        },
+        {
+          "name": "Cayro Music",
+          "url": "https://open.spotify.com/artist/0oLSGoCin3HiQSbBdnFyZ9"
         }
       ],
-      "duration_ms": 139285,
-      "name": "THICK",
-      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+      "duration_ms": 171312,
+      "name": "Quiero Que Seas T\u00fa",
+      "url": "https://open.spotify.com/track/6OtUxkUu0dBwinLHssKGQ7"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1407,30 +1431,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "La Luna y Tus Lunares",
-        "url": "https://open.spotify.com/album/4CHRHhcyHUSEUJh2zYAosk"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        },
-        {
-          "name": "Joy Martinez",
-          "url": "https://open.spotify.com/artist/1tIrIQWKkT09D6HFU48Sfs"
-        },
-        {
-          "name": "Cayro Music",
-          "url": "https://open.spotify.com/artist/0oLSGoCin3HiQSbBdnFyZ9"
-        }
-      ],
-      "duration_ms": 171312,
-      "name": "Quiero Que Seas T\u00fa",
-      "url": "https://open.spotify.com/track/6OtUxkUu0dBwinLHssKGQ7"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Nico Valdi produciendo a Juli Martorell",
+        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Juli Martorell",
+          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+        }
+      ],
+      "duration_ms": 164854,
+      "name": "Nico Valdi produciendo a Juli Martorell",
+      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1499,26 +1519,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Nico Valdi produciendo a Juli Martorell",
-        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
-      },
-      "artists": [
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "Juli Martorell",
-          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
-        }
-      ],
-      "duration_ms": 164854,
-      "name": "Nico Valdi produciendo a Juli Martorell",
-      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Numb The Pain",
         "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 206116,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 101466,
       "name": "Malib\u00fa",
       "url": "https://open.spotify.com/track/2qOasu3wsh6kR5QW2YCXC4"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "M\u00e1s Na",
-        "url": "https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD"
-      },
-      "artists": [
-        {
-          "name": "La Pardo",
-          "url": "https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "M\u00e1s Na",
-      "url": "https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "M\u00e1s Na",
+        "url": "https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD"
+      },
+      "artists": [
+        {
+          "name": "La Pardo",
+          "url": "https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "M\u00e1s Na",
+      "url": "https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1811,34 +1811,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Drama Vol. 3",
-        "url": "https://open.spotify.com/album/55Sb0QJuaByvQKUTzDWIdG"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        },
-        {
-          "name": "Drea Dury",
-          "url": "https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh"
-        },
-        {
-          "name": "Good Vice crew",
-          "url": "https://open.spotify.com/artist/2S6I4rL5hXSZXoL1mVksgz"
-        }
-      ],
-      "duration_ms": 144904,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/5NbsKVtCFu62h3e08FyWje"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Los Dos",
         "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
       },
@@ -1851,6 +1823,30 @@
       "duration_ms": 172235,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 215777,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
     }
   ],
   "unique_name": "R&B Latino",

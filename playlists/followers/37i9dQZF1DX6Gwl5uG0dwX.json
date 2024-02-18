@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 11326,
+  "2024-02-18": 11337,
   "date_first_scraped": "2023-06-15",
   "description": "Indie and alternative favorites.",
   "name": "Dive Bar Anthems",
@@ -449,10 +449,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186506,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf"
+      },
+      "artists": [
+        {
+          "name": "The Rapture",
+          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6VqKN2BTlhpNFAFAMdXgHp"
     },
     {
       "album": {

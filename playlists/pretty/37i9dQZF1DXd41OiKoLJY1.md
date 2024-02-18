@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Alexis Gildore Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,046 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,051 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Supladang Malandi](https://open.spotify.com/track/4K2wnhIgBJWIn2JXjWmAwB) | [Himig Borhuh](https://open.spotify.com/artist/5mheAaS72JKiklL2CvvDnH), [hulyan](https://open.spotify.com/artist/4tcbuCIrmk3bpy20zCgSu1), [Nero Metro](https://open.spotify.com/artist/573NdUOOgfErxHOA5l4UN7) | [Supladang Malandi](https://open.spotify.com/album/7C5Uu5bwG8GJ2kuJwQ07W6) | 4:11 |
 | 100 | [SECRET LOVER](https://open.spotify.com/track/0IpNa0dxdVStAnmWUTIzw8) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL), [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [SECRET LOVER](https://open.spotify.com/album/2ApdO53YV49j9GlPv19MoW) | 3:00 |
 
-Snapshot ID: `MCxkNjliYThiNDFjOTc5ZjFlMDQ3ZTNmMmQ2ZWQ0ODc4MjZhZDkxYmI1`
+Snapshot ID: `MCw3NWRhM2VjODExY2ZiN2Y4NTc4ZGRiOWU4ZGRhMzUxNTU5NWQyOGY4`

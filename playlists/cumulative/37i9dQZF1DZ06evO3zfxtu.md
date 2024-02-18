@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 13 min
+65 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [BOP \- Hype Hop Edit \(feat\. DillanPonders, Kris the $pirit\)](https://open.spotify.com/track/4pbekeVfUyyCNrBXgLBahS) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [HYPE HOP 001](https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk) | 2:40 | 2023-12-13 |  |
 | [BUST DOWN](https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Fedd the God](https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Reeves Junya](https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR) | [BUST DOWN](https://open.spotify.com/album/3bgkI3gkKiszPdTpSdaRLO) | 2:58 | 2023-12-13 | 2024-02-05 |
 | [CLAP \- Hype Hop Edit \(feat\. Nate Husser, Reeves Junya, Nesi\)](https://open.spotify.com/track/4IsXsaT7g5hrEXtMKWqsnE) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Reeves Junya](https://open.spotify.com/artist/71JPrkycmdLJ4Uc2UrpzmR), [Nesi](https://open.spotify.com/artist/1lirjkAIAB1mop7xflhn2k) | [HYPE HOP 001](https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk) | 3:04 | 2023-12-13 |  |
+| [Distance](https://open.spotify.com/track/6v1axX1firdR05VR9siAGF) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [Distance](https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV) | 2:38 | 2024-02-17 |  |
 | [Do it Again](https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE) | [Do it Again](https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC) | 2:22 | 2023-12-13 |  |
 | [Don't Look Down](https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9), [TELESCA.](https://open.spotify.com/artist/7xcTVs6s46xb5VmfbZ89pO) | [Don't Look Down](https://open.spotify.com/album/0YyZnj5aMm44Ki54CfOolb) | 3:02 | 2023-12-13 | 2024-02-13 |
 | [EASTERISLAND](https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [EASTERISLAND](https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA) | 3:29 | 2023-12-13 |  |

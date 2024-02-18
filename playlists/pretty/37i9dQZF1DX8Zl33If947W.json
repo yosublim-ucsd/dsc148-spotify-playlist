@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 157970,
+  "num_followers": 158090,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzE2YTRkNzI1NDEwYWZhYzM1ODAyOWE3OWQ4ZjgxNWZkNjQ0Mzc5",
+  "snapshot_id": "MCxmM2Q4MjY1OGE2ZGQ5ZTA2OTE4YzBjMDZmMWExNGFhODlhOTc4NzVi",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
         "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 190186,
       "name": "Lieblingsmensch",
       "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Sag deinem Ex",
-        "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
-      },
-      "artists": [
-        {
-          "name": "JONA",
-          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Sag deinem Ex",
-      "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Sag deinem Ex",
+        "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Sag deinem Ex",
+      "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
     },
     {
       "added_at": "2024-02-09 07:01:34",

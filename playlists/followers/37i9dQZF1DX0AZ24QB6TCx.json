@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 309855,
+  "2024-02-18": 309889,
   "date_first_scraped": "2022-01-01",
   "description": "Relax with deep house and electronica.",
   "name": "Afterhours",
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 343332,
       "name": "Blissda",
       "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
@@ -823,6 +823,28 @@
       "duration_ms": 218789,
       "name": "Carry On - EarthLife Remix",
       "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+    },
+    {
+      "album": {
+        "name": "Carry On (Rezident Remix)",
+        "url": "https://open.spotify.com/album/0oNy96DTfddGGcKvBslhZx"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "Carry On - Rezident Remix",
+      "url": "https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp"
     },
     {
       "album": {
@@ -1139,7 +1161,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
@@ -2048,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "Under Darkening Skies",
+        "url": "https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59"
+    },
+    {
+      "album": {
         "name": "Harlem River / Falling",
         "url": "https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7"
       },
@@ -2369,7 +2409,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 191260,
       "name": "Hold Your Breath",
       "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
@@ -2413,7 +2453,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
@@ -3568,6 +3608,36 @@
     },
     {
       "album": {
+        "name": "More Love (Rampa &ME Remix)",
+        "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371897,
+      "name": "More Love - Rampa &ME Remix",
+      "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
+    },
+    {
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
       },
@@ -3605,7 +3675,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
@@ -3623,7 +3693,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 438533,
       "name": "Neunivai",
       "url": "https://open.spotify.com/track/7HStZcjzsLpTX3U0uLdVzb"
@@ -4613,7 +4683,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 374828,
       "name": "Rio Secreto",
       "url": "https://open.spotify.com/track/7MXu9rAQDign2nhEVp5tbL"
@@ -4773,7 +4843,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 417453,
       "name": "Secret Places - Club Version",
       "url": "https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96"
@@ -5211,7 +5281,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
@@ -5327,7 +5397,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 230239,
       "name": "The Center Will Not Hold",
       "url": "https://open.spotify.com/track/6bWj1Lr2CVhwzshkp42As8"

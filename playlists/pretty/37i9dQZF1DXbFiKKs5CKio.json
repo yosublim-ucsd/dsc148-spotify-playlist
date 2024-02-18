@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 55189,
+  "num_followers": 55201,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm",
+  "snapshot_id": "MCwwZDg5Y2MyMjJiMjA2YTY4ZGRhMjExNjAzOGU1YTc3MDA1OTVjMjgx",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "SHAWTY",
-        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
-      },
-      "artists": [
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 173385,
-      "name": "SHAWTY",
-      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Pulando",
         "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 164000,
       "name": "Pulando",
       "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "SHAWTY",
+        "url": "https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k"
+      },
+      "artists": [
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 173385,
+      "name": "SHAWTY",
+      "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 160024,
       "name": "n \u00e9 vc, sou eu",
       "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Qu\u00edmica Perfeita",
-        "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
-      },
-      "artists": [
-        {
-          "name": "JE$$I",
-          "url": "https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q"
-        },
-        {
-          "name": "Kadow",
-          "url": "https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Qu\u00edmica Perfeita",
-      "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Canela e hortel\u00e3",
         "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 212571,
       "name": "Canela e hortel\u00e3",
       "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Qu\u00edmica Perfeita",
+        "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
+      },
+      "artists": [
+        {
+          "name": "JE$$I",
+          "url": "https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q"
+        },
+        {
+          "name": "Kadow",
+          "url": "https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Qu\u00edmica Perfeita",
+      "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
     },
     {
       "added_at": "2024-02-02 03:01:00",

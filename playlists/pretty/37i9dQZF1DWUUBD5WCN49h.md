@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Yugo Szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,196 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,207 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 24 | [Falling Again](https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Before the Sun Comes Down](https://open.spotify.com/album/0rLkSDDGpI42RBMc7QaP1I) | 2:40 |
 | 25 | [African King](https://open.spotify.com/track/1HT3WC8PiAozwEzCX5oYzT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [African King](https://open.spotify.com/album/6eCGu8j4OmlrBYuEsD0cqB) | 3:55 |
 | 26 | [Desire](https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Desire](https://open.spotify.com/album/7qsq6moMEWasMS0zR5Ycwo) | 3:22 |
-| 27 | [Nobody loves](https://open.spotify.com/track/11WAqVZIghSiysY8IumyU1) | [BEGO](https://open.spotify.com/artist/7H1c09COY6jC6XVQbMwDTh) | [Nobody loves](https://open.spotify.com/album/5D1KvVAfVHWB8lDuZ5Djtf) | 3:00 |
+| 27 | [2 Risky](https://open.spotify.com/track/11WAqVZIghSiysY8IumyU1) | [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [2 Risky](https://open.spotify.com/album/5D1KvVAfVHWB8lDuZ5Djtf) | 3:00 |
 | 28 | [Kiss 'N' Tell](https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Kiss 'N' Tell](https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B) | 2:21 |
 | 29 | [No Social Media](https://open.spotify.com/track/7y19c3IPuvKBmagKbBYO5Z) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [No Social Media](https://open.spotify.com/album/0qpkCgtTEX0fSM8QQio0Ng) | 3:24 |
 | 30 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Is Dat So](https://open.spotify.com/track/2Vu5QzVxlJNEUdduXw9LHx) | [YDN](https://open.spotify.com/artist/5qOCIzIkrgsvC9ZuupxN2F), [Emsho](https://open.spotify.com/artist/4pUNH7SgAKaP8mdtyuTEEu) | [Is Dat So](https://open.spotify.com/album/1vZSL6Go7LV0ZC9MUbyFNK) | 3:35 |
 | 80 | [certain](https://open.spotify.com/track/6VvLXMAYBjKUqCa7EzS6Tw) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [certain](https://open.spotify.com/album/7JZmOjUUxv3bhLy66PXl1E) | 2:59 |
 
-Snapshot ID: `MCwzYjQzNzM5NzBhNGI4MTFkMDA2Y2Q1Y2E1NzQ1OTE1ZGNhNTZhN2Fk`
+Snapshot ID: `MCw2ZGZlZDE4NWZkMjFjYTJhMzdkYTNlMTI5YzlkN2FmMmZmY2RiYWYx`

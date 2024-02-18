@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "El Ritual De La Banana",
+      "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
+    },
+    {
+      "album": {
         "name": "El Sat\u00e1nico Dr. Cadillac",
         "url": "https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8"
       },
@@ -524,7 +542,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 162360,
       "name": "Jugando Hulla Hulla",
       "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"

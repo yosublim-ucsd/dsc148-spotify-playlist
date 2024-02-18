@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:3D04fb59z3ANxVaeHBfxtW">TAYA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,256 likes - 104 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,393 likes - 104 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 103 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 |
 | 104 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 
-Snapshot ID: `MCwyOThiMjQ2NmNjMjZlYjhjNDI3ODMyNGM0MjdkYzFlYTc1ZmZhMmVm`
+Snapshot ID: `MCw2Yzg0OTZkYTJlOTBiNWFmYjZkYzVlMDg3ZjVhOWJlN2EwZDA5OTBl`

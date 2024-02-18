@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28916,
+  "num_followers": 28917,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTI3YzU3MTdjYmU4YzIwMjhkNWRjNTRmY2I2ZTMwZTRjMWZiMmQx",
+  "snapshot_id": "MCw2MDhiYmVmYmY4YzE4ODE0MGI4NGY0MTljMDE2ZWIyOGY4NmVmMDRh",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Houses of the Holy (Remaster)",
-        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Over the Hills and Far Away - Remaster",
-      "url": "https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj"
       },
@@ -667,6 +651,38 @@
       "duration_ms": 215701,
       "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange (2005 Remaster)",
+      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Over the Hills and Far Away - Remaster",
+      "url": "https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -699,22 +715,6 @@
       "duration_ms": 350400,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange (2005 Remaster)",
-      "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Houses of the Holy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 262748,
-      "name": "D'yer Mak'er - Remaster",
-      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Bachman-Turner Overdrive II",
         "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 511400,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Houses of the Holy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 262748,
+      "name": "D'yer Mak'er - Remaster",
+      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 133973,
+      "name": "Tush (2006 Remaster)",
+      "url": "https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 204653,
       "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
       "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 133973,
-      "name": "Tush (2006 Remaster)",
-      "url": "https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago (2006 Remaster)",
+      "url": "https://open.spotify.com/track/6SIm1p6alvQsWcDv1M2b72"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 318853,
       "name": "Rubber Bullets",
       "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Jesus Just Left Chicago (2006 Remaster)",
-      "url": "https://open.spotify.com/track/6SIm1p6alvQsWcDv1M2b72"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "The Slider",
-        "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 149706,
-      "name": "Metal Guru",
-      "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Back and Fourth",
         "url": "https://open.spotify.com/album/4VNNj5NS8VxsjMLrRjjBIC"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
+        "name": "The Slider",
+        "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 149706,
+      "name": "Metal Guru",
+      "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
         "name": "Wizzard Brew",
         "url": "https://open.spotify.com/album/4nDZxxwsvUNhJUmBhhec4N"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 302333,
       "name": "See My Baby Jive - 2006 Remaster",
       "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
-        "name": "When The Chips Are Down",
-        "url": "https://open.spotify.com/album/4wJOL40iSM4TkmCfkkdkii"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "The Wall Street Shuffle",
-      "url": "https://open.spotify.com/track/3kXYV44ZUG4ajq89Cr6dK1"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Dandy In The Underworld",
-        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
+        "name": "When The Chips Are Down",
+        "url": "https://open.spotify.com/album/4wJOL40iSM4TkmCfkkdkii"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 135666,
-      "name": "I Love To Boogie",
-      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
+      "duration_ms": 236373,
+      "name": "The Wall Street Shuffle",
+      "url": "https://open.spotify.com/track/3kXYV44ZUG4ajq89Cr6dK1"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1615,6 +1599,22 @@
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/695BFlNXbcnMGV9w0o59Wy"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Dandy In The Underworld",
+        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "I Love To Boogie",
+      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
     }
   ],
   "unique_name": "70s Summer Rock",

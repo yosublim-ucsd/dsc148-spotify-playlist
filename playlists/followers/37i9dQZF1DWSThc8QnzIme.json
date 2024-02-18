@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 274904,
+  "2024-02-18": 274925,
   "date_first_scraped": "2022-05-19",
   "description": "Breeze through your commute with these pop favorites. Cover: Sabrina Carpenter",
   "name": "Pop Drive",
@@ -1135,6 +1135,24 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Now",
+        "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk"
     },
     {
       "album": {
@@ -6837,7 +6855,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 228912,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r"

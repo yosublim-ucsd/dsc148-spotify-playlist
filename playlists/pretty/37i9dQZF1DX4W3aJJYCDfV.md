@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa, Calvin Harris, IDLES and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,806 likes - 135 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,891 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 115 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 |
 | 116 | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q) | 3:26 |
 | 117 | [AA BOUQUET FOR YOUR 180 FACE](https://open.spotify.com/track/0RIo4eYBgbStfy3lnAOJDE) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [AA BOUQUET FOR YOUR 180 FACE](https://open.spotify.com/album/2FF6OrtvLpIv24eHBVZzDt) | 3:11 |
-| 118 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 |
+| 118 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 |
 | 119 | [HONEY](https://open.spotify.com/track/3lMuZxCbSV3yCqFp7rhQpP) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [HONEY](https://open.spotify.com/album/57WAhQJpFtfzuefyJun0F9) | 2:32 |
 | 120 | [All In My Head](https://open.spotify.com/track/23JwoPM8EvsHYYKikXNC9r) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW), [Dave Le’aupepe](https://open.spotify.com/artist/2hZim6SlX56ihBJRZnma62) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 3:10 |
 | 121 | [Escaping from a Violent Time](https://open.spotify.com/track/7lH9RWU8LzGKD8nH18Izdo) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Escaping from a Violent Time](https://open.spotify.com/album/0JjAJRkMoKGBbULdfYBZRu) | 3:18 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 134 | [a little love for myself](https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [a little love for myself](https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN) | 3:29 |
 | 135 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 |
 
-Snapshot ID: `MCw0Y2UxZjI4NWU2ODRiODFmNDhiNTc1YTQwOGM3MTZjNzY5MjlkMzJl`
+Snapshot ID: `MCw2ZjExNzkwNDJmZWFiZjA1OWZkZTU4MzFkYWFiZTc0YTFlZjQyZTU2`

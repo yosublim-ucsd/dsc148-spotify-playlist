@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1739311,
+  "2024-02-18": 1739423,
   "date_first_scraped": "2019-09-29",
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
   "name": "Acoustic Love",
@@ -4299,7 +4299,7 @@
       ],
       "date_added": "2019-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 117760,
       "name": "So Are You To Me",
       "url": "https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS"
@@ -6199,6 +6199,24 @@
       "duration_ms": 174426,
       "name": "You Come Down",
       "url": "https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc"
+    },
+    {
+      "album": {
+        "name": "Live from Spotify Studios",
+        "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176055,
+      "name": "You Could Start A Cult - Live from Spotify Studios",
+      "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
     },
     {
       "album": {

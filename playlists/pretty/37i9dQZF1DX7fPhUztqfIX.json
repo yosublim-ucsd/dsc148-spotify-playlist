@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 120713,
+  "num_followers": 120804,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
+  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 242647,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "What a Friend We Have in Jesus",
         "url": "https://open.spotify.com/album/5oiCKNE3Bxj6uSQ2LeeLum"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "duration_ms": 242647,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Todos A La Mesa",
         "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Even The Impossible (Live)",
-        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 290133,
-      "name": "Even The Impossible - Live",
-      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Church Of The City (Live)",
         "url": "https://open.spotify.com/album/1eQch9c6HSlHyy9HJmGV1J"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 472093,
       "name": "Land Of The Living (You Don\u2019t Lie) - Live",
       "url": "https://open.spotify.com/track/6sfda4n7moZQvRtUHG3LwN"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Even The Impossible (Live)",
+        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 290133,
+      "name": "Even The Impossible - Live",
+      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1291,26 +1311,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Uncomplicated - Live",
-      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Holy (Song Of The Ages) [Live]",
         "url": "https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB"
       },
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Goodness of God - EP",
-        "url": "https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n"
-      },
-      "artists": [
-        {
-          "name": "Jason Ingram",
-          "url": "https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR"
-        },
-        {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Another In The Fire (Studio)",
         "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 265518,
       "name": "Another In The Fire - Studio",
       "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Goodness of God - EP",
+        "url": "https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n"
+      },
+      "artists": [
+        {
+          "name": "Jason Ingram",
+          "url": "https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 320867,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1907,6 +1907,30 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Songs of the House (Live)",
+        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        },
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Olivia Calderwood",
+          "url": "https://open.spotify.com/artist/0NHMLrg0lVjPdcDeIR8skk"
+        }
+      ],
+      "duration_ms": 420693,
+      "name": "More Than Anything - Live",
+      "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Here Comes This Dreamer (Live)",
         "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
@@ -1943,30 +1967,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Songs of the House (Live)",
-        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        },
-        {
-          "name": "Madison Street Worship",
-          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
-        },
-        {
-          "name": "Olivia Calderwood",
-          "url": "https://open.spotify.com/artist/0NHMLrg0lVjPdcDeIR8skk"
-        }
-      ],
-      "duration_ms": 420693,
-      "name": "More Than Anything - Live",
-      "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
       },
@@ -1979,22 +1979,6 @@
       "duration_ms": 341328,
       "name": "Edge of Heaven",
       "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "You Reign (Live)",
-        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "You Reign - Live",
-      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2015,18 +1999,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
+        "name": "You Reign (Live)",
+        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
       },
       "artists": [
         {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 341451,
-      "name": "Landslide - Radio Version",
-      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
+      "duration_ms": 390800,
+      "name": "You Reign - Live",
+      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2043,6 +2027,22 @@
       "duration_ms": 324000,
       "name": "In The Hands Of Christ My King - Edit",
       "url": "https://open.spotify.com/track/2TJ4z4dZh9vGzOwngU5EPE"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        }
+      ],
+      "duration_ms": 341451,
+      "name": "Landslide - Radio Version",
+      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Stained Glass Stories",
+        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Freedom Found Me",
+      "url": "https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Start With Me",
         "url": "https://open.spotify.com/album/1T6yyl1bWzpwrRjyPGYQgg"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 259459,
       "name": "Start With Me",
       "url": "https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Stained Glass Stories",
-        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
-      },
-      "artists": [
-        {
-          "name": "Philippa Hanna",
-          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Freedom Found Me",
-      "url": "https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj"
     },
     {
       "added_at": "2021-06-12 04:00:40",

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 107872,
+  "2024-02-18": 107868,
   "date_first_scraped": "2019-09-29",
   "description": "Obama&#x27;s favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
@@ -19991,7 +19991,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 201600,
       "name": "Good",
       "url": "https://open.spotify.com/track/36to5Ow6LJiiuWbHw1sHJC"
@@ -37599,7 +37599,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 358000,
       "name": "Painter Of Dreams",
       "url": "https://open.spotify.com/track/3AS4zeexUj4arfFI7XWJB3"
@@ -44033,7 +44033,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 218893,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/7Fxc82sLoMhacfotpeJoRL"
@@ -47782,6 +47782,24 @@
     },
     {
       "album": {
+        "name": "Talking In My Sleep",
+        "url": "https://open.spotify.com/album/0Waqoj4hYYdVilU36aChJK"
+      },
+      "artists": [
+        {
+          "name": "Meg Whalen",
+          "url": "https://open.spotify.com/artist/6IuvPjoSxm8IvYlmGzoA2I"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273023,
+      "name": "Talking In My Sleep",
+      "url": "https://open.spotify.com/track/1TsKe7WQL9hC1nPxsZQCYE"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -48326,6 +48344,24 @@
     },
     {
       "album": {
+        "name": "that's how u know i love u",
+        "url": "https://open.spotify.com/album/6m5E5e3enUU9bD6HNBX4HL"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170374,
+      "name": "that's how u know i love u",
+      "url": "https://open.spotify.com/track/6bHdIMY8o05A3tnhXPj2Wb"
+    },
+    {
+      "album": {
         "name": "That's Where I Am",
         "url": "https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr"
       },
@@ -48463,7 +48499,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 147500,
       "name": "the cycle",
       "url": "https://open.spotify.com/track/5Qb7N4W7wWCWQx42ZUpBwc"
@@ -48959,7 +48995,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 206669,
       "name": "The Remedy",
       "url": "https://open.spotify.com/track/7LSyvDoRitpaK7DDy2qrN9"

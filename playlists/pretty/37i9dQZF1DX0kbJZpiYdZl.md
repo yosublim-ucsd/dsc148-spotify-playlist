@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,214 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,355 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 49 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6IG3sQ8s9nfk6TUlVzRhbN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:49 |
 | 50 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 
-Snapshot ID: `MCwwZjQ0NTdhNDFhNTU4MzMwZmZkNzhjMzc2MTM1YTAzZWY3NTliNDlh`
+Snapshot ID: `MCw0YWE0NzY1YTAwNzJlODRhYTE4YmY2OTM1MzJiMzViMThjMzJjZWQ2`

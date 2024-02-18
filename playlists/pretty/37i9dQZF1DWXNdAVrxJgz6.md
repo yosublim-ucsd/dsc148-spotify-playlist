@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,498 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,562 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 48 | [Relación Clandestina](https://open.spotify.com/track/7jmc6mYF2HGjXNCoHx9KbF) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:36 |
 | 49 | [¿Desde Cuándo No Me Quieres?](https://open.spotify.com/track/6kKP6onITDDHShtAeOFRRt) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Bandas Románticas](https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I) | 3:26 |
 | 50 | [El Próximo Viernes \- Live Version](https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 4:09 |
-| 51 | [Muñequita \- Balada Version](https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:24 |
-| 52 | [Esa Muchacha Me Gusta](https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 2:56 |
+| 51 | [Esa Muchacha Me Gusta](https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 2:56 |
+| 52 | [Muñequita \- Balada Version](https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:24 |
 | 53 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 |
 | 54 | [La Mejor Opción](https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [La Mejor Opción](https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU) | 3:36 |
 | 55 | [Discúlpeme Amigo](https://open.spotify.com/track/6EUVkX1k1dpxb0uHqFA4NB) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:35 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 58 | [La Tabla Del 1](https://open.spotify.com/track/4mzqMrRSKLr2pccw37z63y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 3:03 |
 | 59 | [Todas Son Iguales](https://open.spotify.com/track/1z9MHvR7w6VQMjLepUWFwm) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 2:53 |
 | 60 | [Como Tortilla al Comal \- Estudio](https://open.spotify.com/track/0jfQ1QVYeMCbXvpg8rwqMh) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Como Tortilla al Comal \(Relanzamiento\)](https://open.spotify.com/album/29pYsVXfqCYLlmT9RGLoAw) | 3:10 |
-| 61 | [Invisible](https://open.spotify.com/track/6UY7NGQBMV8TLVxr9oMOvE) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [A Partir De Cero](https://open.spotify.com/album/5woXyeG8vsUGsA6T0gH5oY) | 2:58 |
+| 61 | [24 Horas \- Duo Versión Balada 1](https://open.spotify.com/track/20SAq18KTJRPa8PU2ZKjxx) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Sin Mirar Atrás \(24 Horas + Edition\)](https://open.spotify.com/album/5Ktg0zomp2GOFQMWaRcWEJ) | 3:32 |
 | 62 | [Eres Mi Paz](https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 3:02 |
 | 63 | [Como Burro Sin Mecate](https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 2:51 |
-| 64 | [24 Horas \- Duo Versión Balada 1](https://open.spotify.com/track/20SAq18KTJRPa8PU2ZKjxx) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Sin Mirar Atrás \(24 Horas + Edition\)](https://open.spotify.com/album/5Ktg0zomp2GOFQMWaRcWEJ) | 3:32 |
+| 64 | [Invisible](https://open.spotify.com/track/6UY7NGQBMV8TLVxr9oMOvE) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [A Partir De Cero](https://open.spotify.com/album/5woXyeG8vsUGsA6T0gH5oY) | 2:58 |
 | 65 | [Miénteme](https://open.spotify.com/track/4irj9XwKWmBhg3QAbcrLJH) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Ojalá, Dios Quiera](https://open.spotify.com/album/7pQwd1nnxAAIvsIpXI7GLs) | 3:34 |
 | 66 | [Un Fin en Culiacán](https://open.spotify.com/track/37vF7elYtlTkViAUGFY078) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 2:34 |
 | 67 | [Y Si Te Robo?](https://open.spotify.com/track/7uQDvbL52jBIIID4xtK4fo) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/75m8XGzKJKWr3vmmfiTOyf) | 2:48 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 85 | [Contacto Cero \(Mariachi\)](https://open.spotify.com/track/3l6CI829WfuY1O32CdgGBY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero \(Mariachi\)](https://open.spotify.com/album/2ARWjieFr7P3ZRfrMYHLXp) | 2:54 |
 | 86 | [Opaco Y Sensible](https://open.spotify.com/track/7usBdueYd7WFYWcYxMNTjv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:30 |
 | 87 | [Imborrable](https://open.spotify.com/track/7MJvwGCVlF7vsLZCb8rUrl) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Imborrable](https://open.spotify.com/album/3AhGP2UTMzMdGhlxEAyPY4) | 3:18 |
-| 88 | [Vanidosa](https://open.spotify.com/track/0QzVpoHJpKeKJYMbfJxpLQ) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:07 |
-| 89 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/5yuww0GWcvb6KsqUbbsT1W) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:54 |
+| 88 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/5yuww0GWcvb6KsqUbbsT1W) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:54 |
+| 89 | [Vanidosa](https://open.spotify.com/track/0QzVpoHJpKeKJYMbfJxpLQ) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:07 |
 | 90 | [De Mi Te Acuerdas \(En Vivo\)](https://open.spotify.com/track/4sODmYUPQBAsbVJB0qGmo2) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que Te Duela Más Que a Mí, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/1GHxhjmSrlVFZp3Md6H7Ge) | 2:55 |
 | 91 | [Capilla y Catedral \(En Vivo\)](https://open.spotify.com/track/1N1RODzJxLMvTD8isAxQlc) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que Te Duela Más Que a Mí, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/71NGECCHdpO0MZbkxrv4qW) | 4:25 |
 | 92 | [¿Qué Ganaste? \(En Vivo\)](https://open.spotify.com/track/25gPU98x94MYwSc8agm7uR) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/12SgOJuYwKoWE7LnxnhgYF) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 99 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 | 100 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 
-Snapshot ID: `MCxiOTk5N2RiN2ZhMmZhOGViOGIxYWEzZWQ0MTcwYTA1MTJmZmQzMmRl`
+Snapshot ID: `MCwzZGNkZjQ1NjliY2MzYjQ0MGM0NDQzYzYyMzBiYTUwNDVhMzZiODdm`

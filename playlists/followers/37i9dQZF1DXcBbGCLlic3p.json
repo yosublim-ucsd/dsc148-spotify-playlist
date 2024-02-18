@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 111222,
+  "2024-02-18": 111257,
   "date_first_scraped": "2021-12-28",
   "description": "Restorative piano and ambient music.",
   "name": "Detox",
@@ -492,6 +492,24 @@
     },
     {
       "album": {
+        "name": "Astral Meadows",
+        "url": "https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF"
+      },
+      "artists": [
+        {
+          "name": "Delta Shores",
+          "url": "https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168766,
+      "name": "Astral Meadows",
+      "url": "https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx"
+    },
+    {
+      "album": {
         "name": "At Day's End",
         "url": "https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG"
       },
@@ -957,6 +975,24 @@
       "duration_ms": 130588,
       "name": "Crayons Part 2",
       "url": "https://open.spotify.com/track/19vWPaRELzfUUlA4e9c7RB"
+    },
+    {
+      "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
     },
     {
       "album": {
@@ -4313,6 +4349,24 @@
       "duration_ms": 211212,
       "name": "Suaimhneas",
       "url": "https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo"
+    },
+    {
+      "album": {
+        "name": "Sublime Worlds",
+        "url": "https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o"
+      },
+      "artists": [
+        {
+          "name": "Lofty Escape",
+          "url": "https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Sublime Worlds",
+      "url": "https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA"
     },
     {
       "album": {

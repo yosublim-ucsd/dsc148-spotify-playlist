@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: DIIV
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,841 likes - 127 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,894 likes - 127 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 126 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 127 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCxjYzAxMjZkYjU0OGEwYmU4OWI3ZGNmNzVjYTkxMTViN2NlNjBjMmI1`
+Snapshot ID: `MCw0NzNmZDBiOWNkMjMzMTYxYjUzNGRiNTJkYTM5NjY5NmNkZjRhN2Vm`

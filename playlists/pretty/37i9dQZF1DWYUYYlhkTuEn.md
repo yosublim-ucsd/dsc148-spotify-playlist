@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,855 likes - 60 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,023 likes - 60 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 59 | [Beautiful Fields](https://open.spotify.com/track/42lAfXPF206dlqzN2v8Y3s) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Beautiful Fields](https://open.spotify.com/album/1MV5RZDGOyn6bFpffuJTKp) | 6:59 |
 | 60 | [sunflower](https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea) | [plant milk](https://open.spotify.com/artist/7sdP82BOHQI8W6dT3FSAjc) | [sunflower](https://open.spotify.com/album/73PNYwqdDCfdVJCUl1jaKR) | 2:18 |
 
-Snapshot ID: `MCw5MWMyZTYzYjRmNjlhMjdkMzIxYTNhYjcxYjRkMmQwMjVjMGRiZjQz`
+Snapshot ID: `MCw0Y2E0YjQyNTBmOWFiZjQ4MDIyODc4YTM0MmU0MDk1Y2JiZTY0MzE1`

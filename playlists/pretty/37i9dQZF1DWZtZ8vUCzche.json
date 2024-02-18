@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ\">Classical version here</a>.",
-  "num_followers": 1220611,
+  "num_followers": 1221013,
   "original_name": "Songs To Test Headphones With",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzVkOTdmZGRiNDhkZjk1ZmQ1YTY1MjFlZDEwMjIwNGQwZDllZGI3",
+  "snapshot_id": "MCw3Yjk2YTAyMTQ1MGVkNzg4YmRhZTVjMzM0MjUxMTQ3ZDE1YThhZDY3",
   "tracks": [
     {
       "added_at": "2023-07-13 09:19:06",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 413947,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Abattoir Blues / The Lyre of Orpheus",
-        "url": "https://open.spotify.com/album/0Dn05ZrhYlqEXIfbdkNqQS"
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 409546,
-      "name": "O Children",
-      "url": "https://open.spotify.com/track/73ZlmJxexVebFozgZhEhkd"
+      "duration_ms": 413947,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -403,6 +387,22 @@
       "duration_ms": 289026,
       "name": "Layla - Acoustic Live",
       "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/0Dn05ZrhYlqEXIfbdkNqQS"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 409546,
+      "name": "O Children",
+      "url": "https://open.spotify.com/track/73ZlmJxexVebFozgZhEhkd"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Sheer Heart Attack (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 219092,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "THE MOUSE & THE MASK",
         "url": "https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 146853,
       "name": "Crosshairs",
       "url": "https://open.spotify.com/track/3T2LUDcZRrOnYzV1FprZTy"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 219092,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "The Word - Remastered 2009",
-      "url": "https://open.spotify.com/track/4GBaPHvAyj4V2jeobD9tsy"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/5PdgIAHzwDvTZRjIGSQGtN"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 297426,
       "name": "No Excuses - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
       "url": "https://open.spotify.com/track/1DfOxEiYPhQlN2D1arscnN"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "The Word - Remastered 2009",
+      "url": "https://open.spotify.com/track/4GBaPHvAyj4V2jeobD9tsy"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 319786,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Couldn't Stand The Weather (Legacy Edition)",
         "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 551786,
       "name": "Tin Pan Alley (AKA Roughest Place in Town)",
       "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 319786,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "There Is Love in You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 281303,
-      "name": "She Just Likes to Fight",
-      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 382360,
       "name": "Original - Remastered",
       "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "There Is Love in You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 281303,
+      "name": "She Just Likes to Fight",
+      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "The Big Sky - Special Single Mix",
-      "url": "https://open.spotify.com/track/1OlR8gWxMgHIb5bduxTz2q"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Robbin' The Hood",
         "url": "https://open.spotify.com/album/0yZuUc5poB8rtqkbmA0APm"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Vows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 241506,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG"
+      "duration_ms": 278160,
+      "name": "The Big Sky - Special Single Mix",
+      "url": "https://open.spotify.com/track/1OlR8gWxMgHIb5bduxTz2q"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2299,6 +2283,22 @@
       "duration_ms": 201000,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Vows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Slave Song",
-      "url": "https://open.spotify.com/track/5iQ530xQUXmzA4RRC0qzu3"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Slave Song",
+      "url": "https://open.spotify.com/track/5iQ530xQUXmzA4RRC0qzu3"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2747,6 +2747,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "Diamonds And Pearls",
+      "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/2VACCvHYTjQjMKfpOS67XQ"
       },
@@ -2763,22 +2779,6 @@
       "duration_ms": 360855,
       "name": "fountain",
       "url": "https://open.spotify.com/track/6PrewoOlJ4yOwwG83Oycpo"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "Diamonds And Pearls",
-      "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/0Otg6s8ps1OkdRkD5KmepW"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Nightclubbing",
         "url": "https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78"
       },
@@ -2863,18 +2847,34 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Nobody Knows the Trouble I've Seen",
-      "url": "https://open.spotify.com/track/6g9uN89pIVbpvE6m9C3PQ3"
+      "duration_ms": 203933,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/0Otg6s8ps1OkdRkD5KmepW"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/35qo348k014R2DO3vJXj2q"
+      },
+      "artists": [
+        {
+          "name": "Chon",
+          "url": "https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Suda",
+      "url": "https://open.spotify.com/track/0xKXfY1qtqnVAM9JWmqHLM"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2895,18 +2895,18 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/35qo348k014R2DO3vJXj2q"
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
       "artists": [
         {
-          "name": "Chon",
-          "url": "https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 182750,
-      "name": "Suda",
-      "url": "https://open.spotify.com/track/0xKXfY1qtqnVAM9JWmqHLM"
+      "duration_ms": 205226,
+      "name": "Nobody Knows the Trouble I've Seen",
+      "url": "https://open.spotify.com/track/6g9uN89pIVbpvE6m9C3PQ3"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Face Value (2016 Remaster)",
-        "url": "https://open.spotify.com/album/7gUgpwRHL95RLPi2WmqxgU"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "This Must Be Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2pkMt1GnVAbPaqGjV0FCQb"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Emergency & I",
         "url": "https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO"
       },
@@ -3139,6 +3123,22 @@
       "duration_ms": 266800,
       "name": "The City",
       "url": "https://open.spotify.com/track/2mWJVuJsQIFg0fnRYcD8zz"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Face Value (2016 Remaster)",
+        "url": "https://open.spotify.com/album/7gUgpwRHL95RLPi2WmqxgU"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "This Must Be Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2pkMt1GnVAbPaqGjV0FCQb"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -3279,22 +3279,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Feel Like Going Home",
-      "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -3307,6 +3291,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Feel Like Going Home",
+      "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
     },
     {
       "added_at": "2023-07-13 09:19:06",

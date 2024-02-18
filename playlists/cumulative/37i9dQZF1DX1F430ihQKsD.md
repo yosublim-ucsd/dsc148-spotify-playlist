@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Jane Penny
 
-421 songs - 1 day 0 hr 30 min
+422 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Cold](https://open.spotify.com/track/1tiX1UC9gFJtHqCPNCu8WN) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 2:59 | 2022-10-28 | 2022-11-13 |
 | [Cold](https://open.spotify.com/track/5mFXw1QaGIyBJ4hZjduNWh) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/7GZcmdR13L609UtXntBcSy) | 2:59 | 2022-07-22 | 2023-01-14 |
 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 | 2022-03-25 | 2023-01-28 |
-| [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 |  |
+| [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 | 2024-02-18 |
+| [Combien ça coûte](https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/7x5T9OWipIP0Rp6P6SSYNM) | 2:43 | 2024-02-09 |  |
 | [Comedy](https://open.spotify.com/track/0GcV1G5sLpOUkOIfPvOo45) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [Comedy](https://open.spotify.com/album/0cy67dLDF9i8DGjAEUS1Zj) | 4:04 | 2023-09-15 |  |
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 | 2023-05-13 |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-15 | 2023-10-28 |

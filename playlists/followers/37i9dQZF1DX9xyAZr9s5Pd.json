@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 20519,
+  "2024-02-18": 20521,
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Inzul",
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Adrian Bello",
   "name": "Indie Andinos",
   "tracks": [
     {
@@ -75,6 +75,24 @@
       "duration_ms": 240437,
       "name": "Aleros/Pompeii",
       "url": "https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl"
+    },
+    {
+      "album": {
+        "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
+        "url": "https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
+      "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
     },
     {
       "album": {
@@ -165,7 +183,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 192104,
       "name": "Autosabotear",
       "url": "https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo"
@@ -690,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247015,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "album": {
         "name": "MIEL",
         "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
       },
@@ -853,7 +889,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
@@ -1139,7 +1175,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
@@ -1252,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Te Vi Llegar",
+        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121621,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
+    },
+    {
+      "album": {
         "name": "Te Vi Mudar",
         "url": "https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz"
       },
@@ -1307,7 +1361,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 187200,
       "name": "Tenerlo Todo",
       "url": "https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5"

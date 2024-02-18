@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,439 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,437 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [WASTE](https://open.spotify.com/track/30fhBHPS0lrzNxHqsZOvJ8) | [Yamiboi To$](https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es) | [WASTE](https://open.spotify.com/album/6WYDe7JIwNHeLDWTDMNgQr) | 1:20 |
 | 60 | [Way Up](https://open.spotify.com/track/6EHPLCJo9d5LilgZV1aEZf) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Way Up](https://open.spotify.com/album/1iib1XZEFw66W3YYjep2cZ) | 1:53 |
 
-Snapshot ID: `MCxlN2JiMTIwYzE2MWY1Y2Q2Y2JlMjg4NDQwMzYwODAyMjM1ZjNjNmYy`
+Snapshot ID: `MCwzNWQ4NDljMmVjNTE3NjE2N2U0MzQ2M2I0OTEyZmEyYTk4NDkwZjg2`

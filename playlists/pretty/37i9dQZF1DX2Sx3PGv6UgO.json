@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDY3YWYwZjBlMzNiMDBhMTIzNGEwNDExNTRlYzQyZDI3ZjZmODYz",
+  "snapshot_id": "MCw5NGY4Mzg1YTY4MmIyZjIxYTJiMTA0NzY5Yjg3M2RlZGY2MmVjZmYz",
   "tracks": [
     {
       "added_at": "2023-04-28 22:53:03",
@@ -766,6 +766,10 @@
         {
           "name": "Fugees",
           "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
       "duration_ms": 298773,

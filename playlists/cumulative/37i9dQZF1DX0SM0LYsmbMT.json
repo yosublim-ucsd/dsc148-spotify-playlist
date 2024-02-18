@@ -8319,6 +8319,24 @@
     },
     {
       "album": {
+        "name": "Bobba",
+        "url": "https://open.spotify.com/album/1rHbYpiN0IbyBGgtlBToBv"
+      },
+      "artists": [
+        {
+          "name": "Platinum Dust",
+          "url": "https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119632,
+      "name": "Bobba",
+      "url": "https://open.spotify.com/track/6IWajUqxetsaZo5kqqDPrJ"
+    },
+    {
+      "album": {
         "name": "Bog",
         "url": "https://open.spotify.com/album/3l2fjQqy1zfJwodD9LsnH3"
       },
@@ -64626,7 +64644,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-18",
       "duration_ms": 160000,
       "name": "Spring Cold",
       "url": "https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU"

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Skepsis",
-  "num_followers": 55727,
+  "num_followers": 55779,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjc0YWY1NzU0ZWQ2MTg1ZWJiZDFkMGQ0NzU3YjhiNDc4NjJjYjAz",
+  "snapshot_id": "MCw5MzliNDMwZDFiZTY3MDJkNjg4NzgzM2YzODJjZDhjOGEzNjE2MWJh",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -779,42 +779,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 204357,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Morals",
-        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Temple",
-          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
-        }
-      ],
-      "duration_ms": 204171,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 204357,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
+        }
+      ],
+      "duration_ms": 204171,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -1041,46 +1041,6 @@
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     },
     {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Real Champion (DJ Hybrid Remix)",
-        "url": "https://open.spotify.com/album/54GrWiJZocKuf2wVnxGGYb"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        },
-        {
-          "name": "DJ Hybrid",
-          "url": "https://open.spotify.com/artist/76ZKj6Zpca7s7hXA7d8Lao"
-        }
-      ],
-      "duration_ms": 205689,
-      "name": "Real Champion - DJ Hybrid Remix",
-      "url": "https://open.spotify.com/track/0W6bVE9yYEs6ggNom5BjBx"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Step It Up / Lights",
-        "url": "https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 270312,
-      "name": "Step It Up",
-      "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
-    },
-    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Breathe (feat. RZA) [Ren\u00e9 LaVice Dark D&B Remix]",
@@ -1103,6 +1063,42 @@
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) (Ren\u00e9 LaVice Dark D&B Remix)",
       "url": "https://open.spotify.com/track/5tcRXiUko0JG2ciQfzJST5"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Step It Up / Lights",
+        "url": "https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 270312,
+      "name": "Step It Up",
+      "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
     }
   ],
   "unique_name": "Jump Up!",

@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 1143614,
+  "2024-02-18": 1143805,
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Angel El Flaco en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
   "name": "Banda 2024",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
@@ -147,6 +147,24 @@
       "duration_ms": 210373,
       "name": "A La Inversa",
       "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
+    },
+    {
+      "album": {
+        "name": "KTORCE",
+        "url": "https://open.spotify.com/album/6M7vCerWzxyAPeiGFtinD5"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277627,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/5KCuksnFnLKcfSSa0ZAnAG"
     },
     {
       "album": {
@@ -299,6 +317,24 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+    },
+    {
+      "album": {
+        "name": "Amor En Exceso",
+        "url": "https://open.spotify.com/album/6kwt2RLCMUOtewv5L7Zjk0"
+      },
+      "artists": [
+        {
+          "name": "Nano machado y los keridos",
+          "url": "https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197653,
+      "name": "Amor En Exceso",
+      "url": "https://open.spotify.com/track/25utpSxh8ONIp2JC0GUDd5"
     },
     {
       "album": {
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 147725,
       "name": "Como un Diamante",
       "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
@@ -2388,6 +2424,32 @@
     },
     {
       "album": {
+        "name": "Hola Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185514,
+      "name": "Hola Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
+    },
+    {
+      "album": {
         "name": "Homenaje a Valent\u00edn Elizalde (En Vivo)",
         "url": "https://open.spotify.com/album/19DgV16VnXhykPotSNd6T0"
       },
@@ -2529,7 +2591,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 180900,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI"
@@ -3691,7 +3753,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 140063,
       "name": "No Es Cierto Que Nunca Te Quise",
       "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
@@ -3789,7 +3851,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 165093,
       "name": "No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd"
@@ -4199,7 +4261,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 423653,
       "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
       "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
@@ -4688,6 +4750,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Te Hizo Olvidarme",
+        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Qu\u00e9 Te Hizo Olvidarme",
+      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Va a Ser de M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/0Yn8x95Ol7GqDmjgJIk85k"
       },
@@ -5031,6 +5111,24 @@
       "duration_ms": 197386,
       "name": "Si Te Vas A Ir",
       "url": "https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn"
+    },
+    {
+      "album": {
+        "name": "Siempre Gente",
+        "url": "https://open.spotify.com/album/6NapvZYwZqCu11gWRlnXdl"
+      },
+      "artists": [
+        {
+          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
+          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Siempre Gente",
+      "url": "https://open.spotify.com/track/1bgKWJeuTydbrusUCgquY3"
     },
     {
       "album": {
@@ -5618,6 +5716,24 @@
     },
     {
       "album": {
+        "name": "Tu Perfume",
+        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Tu Perfume",
+      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+    },
+    {
+      "album": {
         "name": "Calidad Y Cantidad",
         "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
@@ -6064,6 +6180,24 @@
     },
     {
       "album": {
+        "name": "Ya No Estoy Solo",
+        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Ya No Estoy Solo",
+      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
+    },
+    {
+      "album": {
         "name": "Ya No Est\u00e9s Chingando",
         "url": "https://open.spotify.com/album/1RD6tsQ8Hf4eg6HwcfsZZC"
       },
@@ -6275,7 +6409,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 210000,
       "name": "\u00bfQu\u00e9 Fuimos?",
       "url": "https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60"

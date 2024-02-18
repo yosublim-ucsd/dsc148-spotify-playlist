@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 1381498,
+  "2024-02-18": 1381441,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Chenayder",
+  "description": "Leaders of the new school...Alternative R&B. Cover: serpentwithfeet",
   "name": "Vanguard",
   "tracks": [
     {
@@ -5576,6 +5576,28 @@
     },
     {
       "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201218,
+      "name": "Ellipsis",
+      "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
+    },
+    {
+      "album": {
         "name": "By The Water",
         "url": "https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn"
       },
@@ -7345,6 +7367,24 @@
       "duration_ms": 241305,
       "name": "GMFU",
       "url": "https://open.spotify.com/track/7rYhWL5o1LOerNu3F52EFg"
+    },
+    {
+      "album": {
+        "name": "PAIN PACK 14",
+        "url": "https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70674,
+      "name": "GMO LOVE",
+      "url": "https://open.spotify.com/track/2XiWBSe2EiZFljbvnW4gut"
     },
     {
       "album": {
@@ -12027,7 +12067,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 150375,
       "name": "MORE THAN SORRY",
       "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
@@ -12691,6 +12731,28 @@
       "duration_ms": 183013,
       "name": "NOT ALONE",
       "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
+    },
+    {
+      "album": {
+        "name": "it\u2019s not you, it\u2019s me",
+        "url": "https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA"
+      },
+      "artists": [
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305006,
+      "name": "not enough (with Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX"
     },
     {
       "album": {
@@ -15325,7 +15387,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 200597,
       "name": "Running",
       "url": "https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB"
@@ -18597,7 +18659,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 147773,
       "name": "To Be Still",
       "url": "https://open.spotify.com/track/23QBVXJaB7DJ5L1BRTQKKH"

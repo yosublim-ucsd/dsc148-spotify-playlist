@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 1697702,
+  "2024-02-18": 1697796,
   "date_first_scraped": "2021-12-28",
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
   "name": "Sin Ti",
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 220000,
       "name": "A\u00fan me amas",
       "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
@@ -4009,6 +4009,24 @@
       "duration_ms": 138937,
       "name": "Vidas Pasadas",
       "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "album": {
+        "name": "viernes 13 iv",
+        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "viernes 13 iv",
+      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
     },
     {
       "album": {

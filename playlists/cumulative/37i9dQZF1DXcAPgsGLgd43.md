@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-178 songs - 9 hr 56 min
+180 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-05-01 | 2023-11-11 |
 | [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 | 2023-12-21 |
 | [El Nacimiento](https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [El Nacimiento](https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1) | 3:23 | 2024-02-02 | 2024-02-05 |
-| [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 |  |
+| [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2024-02-18 |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 |  |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 |  |
@@ -158,7 +158,8 @@
 | [Sway \(Mucho Mambo\)](https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Sway \(Mucho Mambo\)](https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr) | 2:39 | 2021-10-08 | 2023-11-11 |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2021-10-29 | 2023-11-11 |
 | [Tambor](https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambor](https://open.spotify.com/album/5gjxDgtMGqkz43ibVEPR6D) | 2:53 | 2023-11-10 |  |
-| [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2024-02-02 |  |
+| [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2024-02-02 | 2024-02-18 |
+| [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-16 |  |
 | [Tikitro](https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI), [Tony Guerra](https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py) | [Tikitro](https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs) | 5:32 | 2024-02-02 |  |
 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 | 2023-12-01 |  |
 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-11-10 |  |
@@ -186,5 +187,6 @@
 | [XTC](https://open.spotify.com/track/7oPB4kg8YwmofthqXzSFIB) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [Jesse Bravo](https://open.spotify.com/artist/5c5YvfauJzP169EcIQV0SD) | [XTC](https://open.spotify.com/album/4dmo2awJxwiuQtprqvhiLf) | 3:04 | 2023-11-10 |  |
 | [Yabisa \- Radio Mix](https://open.spotify.com/track/7w8gLFcrHRBB6xkkrLcvd6) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Cris Ruiz](https://open.spotify.com/artist/6l5n5zDtpeQ9Xqop5aAFWB) | [Yabisa](https://open.spotify.com/album/4nrc2kGqaLyNyK0Acg6CDF) | 2:56 | 2021-10-08 | 2022-07-28 |
 | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J) | 3:18 | 2023-11-10 |  |
+| [¡Date Prisa!](https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [¡Date Prisa!](https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe) | 3:19 | 2024-02-16 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

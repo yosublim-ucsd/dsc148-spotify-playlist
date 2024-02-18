@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 443 songs - 1 day 4 hr 39 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 444 songs - 1 day 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -451,5 +451,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 441 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 |
 | 442 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 |
 | 443 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 |
+| 444 | [The Wake](https://open.spotify.com/track/4FHhXk0JniueARdhSOInDZ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 2:15 |
 
-Snapshot ID: `MTM3MyxkNmMxOTQzY2VmMGZkZDcwMmQwYWM3ODhlNTFlMmQ3MjBhNGZlMzRh`
+Snapshot ID: `MTM3NCxmNmEwZWRiNTIyMzIwZjdjYmIyYzU1MjA0OGU0M2E4M2Y4MDZjMWFh`

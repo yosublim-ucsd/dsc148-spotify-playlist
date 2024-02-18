@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,423 likes - 186 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,409 likes - 186 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 12 | [It All Falls Down to the River](https://open.spotify.com/track/5S6Wzgth3a8WfttfEdfRij) | [Suzy Bogguss](https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy) | [Praying' for Sunshine](https://open.spotify.com/album/1DTqHjYNTSswC8OEF0V5VO) | 4:03 |
 | 13 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
 | 14 | [Angel in the Fire](https://open.spotify.com/track/42h3zdWgo1eHNDyjiJSq9f) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Angel in the Fire](https://open.spotify.com/album/6ojbXCiwEFcC16vVEg7ott) | 4:07 |
-| 15 | [There's No Me...Without You](https://open.spotify.com/track/1wsXDq84XjC5bpaomBn1P6) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/album/2iyEcY3FRWdM0N9B0xeWx4) | 3:46 |
+| 15 | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/track/1wsXDq84XjC5bpaomBn1P6) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/album/2iyEcY3FRWdM0N9B0xeWx4) | 3:46 |
 | 16 | [Oughta Miss Me by Now](https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Tradition Lives](https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO) | 3:37 |
 | 17 | [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 |
 | 18 | [Forever Ain't Long Enough](https://open.spotify.com/track/4Hd2S9qeWPm3aXkYFtkRFx) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa), [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Forever Ain't Long Enough](https://open.spotify.com/album/6AcZAdoybwACAqXMu29vWV) | 3:28 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 185 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 186 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCwzY2E1MmY5NzcwNDgxYzYwODM4NDllNTcxNWMyNjczOTIzNDA5YzY0`
+Snapshot ID: `MCwxZjE4ZDlmODAxMjFkZDFjYzQ0YjNkZjE0MDI1ZWJhNjJkZjBhZjUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Britti
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,940 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,986 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 4 | [Together](https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Shades of Yesterday](https://open.spotify.com/album/1IcqyDz4QNFHVipsoYcArU) | 2:42 |
 | 5 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 |
 | 6 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
-| 7 | [Love's Graveyard \- Radio Edit](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard \(Radio Edit\)](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 |
+| 7 | [Love's Graveyard](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 |
 | 8 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 |
 | 9 | [Secret Place](https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Secret Place](https://open.spotify.com/album/0xzaHD5jiLywBetxvYyuOD) | 3:02 |
 | 10 | [That's All I Wanted From You](https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [That's All I Wanted From You](https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 100 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 |
 
-Snapshot ID: `MCwwYzg2MzM3YmVjNmExYmJkMjExMjFmMGJiNTRiNTVjZmJmNjA4NzZk`
+Snapshot ID: `MCw1NWM0ZjNmNzZmYmMxZmEzMGZlMzY3MTAyODQzYmQzNGJkNTAxYTkw`

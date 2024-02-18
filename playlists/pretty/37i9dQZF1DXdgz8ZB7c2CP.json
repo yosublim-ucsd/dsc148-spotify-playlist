@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring KU\u010cKA & Flume",
-  "num_followers": 765222,
+  "num_followers": 765216,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDQ0YzkwYWQ4NTVkZWNlOWI4YWM3MmJiMjliNTYyYzdhZTJhNDlj",
+  "snapshot_id": "MCw1YWNmOWFmNmUxMmNjNjQ5NzE5YTkzODdhZWZmMjY4ZjY0MWFkZmRk",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Mercy (2022 Edit)",
-      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Missing You (feat. A Little Sound)",
         "url": "https://open.spotify.com/album/11U06IwgwsIdP3g8fAOhN1"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 181732,
       "name": "Missing You (feat. A Little Sound)",
       "url": "https://open.spotify.com/track/3im7OnZDP2UqX9UDQUiOTy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "LOST WITH U",
-        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Brody Leigh",
-          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "LOST WITH U",
-      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Leave Me Like This",
         "url": "https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "LOST WITH U",
+        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Brody Leigh",
+          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "LOST WITH U",
+      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Lost My Way",
+        "url": "https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Lost My Way",
+      "url": "https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Love Like This (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 163322,
       "name": "Love Like This - Mura Masa Remix",
       "url": "https://open.spotify.com/track/1wgYKTumhfVTlanuSQ67Jx"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Lost My Way",
-        "url": "https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Lost My Way",
-      "url": "https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 197612,
-      "name": "Romantic Homicide - Spotify Singles",
-      "url": "https://open.spotify.com/track/1P7xMiKHrAl4e5Vbi6NbPf"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Dream You Better",
-        "url": "https://open.spotify.com/album/6SfPzaGnGXjjKRcZenPQw1"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf"
       },
       "artists": [
         {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 113860,
-      "name": "Dream You Better",
-      "url": "https://open.spotify.com/track/1Uf8Ux9W0uDdTppbTE3NP9"
+      "duration_ms": 197612,
+      "name": "Romantic Homicide - Spotify Singles",
+      "url": "https://open.spotify.com/track/1P7xMiKHrAl4e5Vbi6NbPf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Dream You Better",
+        "url": "https://open.spotify.com/album/6SfPzaGnGXjjKRcZenPQw1"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 113860,
+      "name": "Dream You Better",
+      "url": "https://open.spotify.com/track/1Uf8Ux9W0uDdTppbTE3NP9"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "How High",
         "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 192834,
       "name": "How High",
       "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Silver Thread Golden Needle",
-        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 596775,
-      "name": "Silver Thread Golden Needle",
-      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 231803,
       "name": "I Can't Tell (feat. LAUREL)",
       "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Silver Thread Golden Needle",
+        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 596775,
+      "name": "Silver Thread Golden Needle",
+      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Small Sanctuary (nimino Remix)",
-        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 252187,
-      "name": "Small Sanctuary - nimino Remix",
-      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Thirst (Hex Cougar Remix)",
         "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
       },
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Sd-2",
         "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
       },
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "pullmecloser",
-        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
       },
       "artists": [
         {
           "name": "pluko",
           "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
         }
       ],
-      "duration_ms": 150909,
-      "name": "pullmecloser",
-      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1795,18 +1791,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Nobody Compares",
-        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
+        "name": "Skrt",
+        "url": "https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6"
       },
       "artists": [
         {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Nobody Compares",
-      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
+      "duration_ms": 181998,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1831,34 +1827,38 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "BLEACH [Hi-Fi]",
-        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
+        "name": "pullmecloser",
+        "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
       },
       "artists": [
         {
           "name": "pluko",
           "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
         }
       ],
-      "duration_ms": 180668,
-      "name": "RUN INTO MY ARMS",
-      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
+      "duration_ms": 150909,
+      "name": "pullmecloser",
+      "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
     },
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Skrt",
-        "url": "https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6"
+        "name": "Nobody Compares",
+        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
         }
       ],
-      "duration_ms": 181998,
-      "name": "Skrt",
-      "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
+      "duration_ms": 244000,
+      "name": "Nobody Compares",
+      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1899,26 +1899,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Aurora (Justin Hawkes Remix)",
-        "url": "https://open.spotify.com/album/7lym9DZABBsuh37cWosYFi"
+        "name": "The Art Of Change",
+        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
       },
       "artists": [
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         },
         {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
-        },
-        {
-          "name": "Justin Hawkes",
-          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
         }
       ],
-      "duration_ms": 231232,
-      "name": "Aurora - Justin Hawkes Remix",
-      "url": "https://open.spotify.com/track/1D3aOZY8DLQ5faOuMAgW30"
+      "duration_ms": 216222,
+      "name": "Downside Up",
+      "url": "https://open.spotify.com/track/2LqWswubpbLhEPtB3mRlJH"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1947,22 +1943,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Art Of Change",
-        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
+        "name": "Aurora (Justin Hawkes Remix)",
+        "url": "https://open.spotify.com/album/7lym9DZABBsuh37cWosYFi"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
         },
         {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        },
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
         }
       ],
-      "duration_ms": 216222,
-      "name": "Downside Up",
-      "url": "https://open.spotify.com/track/2LqWswubpbLhEPtB3mRlJH"
+      "duration_ms": 231232,
+      "name": "Aurora - Justin Hawkes Remix",
+      "url": "https://open.spotify.com/track/1D3aOZY8DLQ5faOuMAgW30"
     }
   ],
   "unique_name": "creamy",

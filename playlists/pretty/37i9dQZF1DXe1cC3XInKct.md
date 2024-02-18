@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,462 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,457 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 26 | [Outside the City of God \(Augustine wept\)](https://open.spotify.com/track/3V6whOlDWNecNbvxi31HaT) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Outside The City of God \(Augustine wept\)](https://open.spotify.com/album/1v1LSEseSOJgoffMk8Ogiy) | 4:02 |
 | 27 | [Ohm Alone](https://open.spotify.com/track/7yDYbMJcTr1EuWrirvZ9r6) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/0h8Kl7DUniHzGyDAFVpntL) | 6:20 |
 | 28 | [Chances](https://open.spotify.com/track/4gIRciHmlWqb5n6rQ1v7kc) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/1DddF8t42B22CuI7KUdzeF) | 5:58 |
-| 29 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
+| 29 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 30 | [Spirit Distant](https://open.spotify.com/track/0laRriD6tnqxeDzYbRpTPS) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [Second Land](https://open.spotify.com/album/60mzOZU6HTijvkcLAVIEl1) | 4:53 |
 | 31 | [The Shore](https://open.spotify.com/track/47YOjjaHnhEBLlS1lVjgna) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [A Mirror Holds The Sky](https://open.spotify.com/album/6rK7tdoiflX8xlqZMHAhWV) | 7:17 |
 | 32 | [Where Are You Now?](https://open.spotify.com/track/2QJF7tvvt4bZzGDB1vVt7y) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 4:46 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 40 | [Sleeping Tiger on the Bund 蓄势待发 \- Flora Wong Remix](https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Flora Wong](https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu) | [Sleeping Tiger on the Bund 蓄势待发 \(Flora Wong Remix\)](https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov) | 3:21 |
 | 41 | [37° South](https://open.spotify.com/track/4pqg04YdXLcnXrTkzCCmHB) | [Donald's House](https://open.spotify.com/artist/48Dnzf6Mfo0Z5gjpOKVuLP) | [37° South](https://open.spotify.com/album/1IictGyhP4NasY7eghu2Pe) | 8:28 |
 | 42 | [React](https://open.spotify.com/track/6IJgnVyUdwRlRg4PU4VGRa) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [React](https://open.spotify.com/album/3ODoCkbYLLUL5S3HLg1mWl) | 3:42 |
-| 43 | [Brain Massage](https://open.spotify.com/track/74wXDRlkSTgIWyWNYyuLY4) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Brain Massage](https://open.spotify.com/album/2MjtE3sDCNLmwMcrh0kedQ) | 7:07 |
+| 43 | [Brain Massage](https://open.spotify.com/track/74wXDRlkSTgIWyWNYyuLY4) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Brain Massage](https://open.spotify.com/album/2MjtE3sDCNLmwMcrh0kedQ) | 7:07 |
 | 44 | [In Flux](https://open.spotify.com/track/0aHuLXAoPFfOJugDzVuaoh) | [LOIF](https://open.spotify.com/artist/6rYEt4oSMROtwcwkP8yjNw), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Proximity II](https://open.spotify.com/album/5DwXSs7dVfWwivXonM020C) | 6:38 |
 | 45 | [Lansky's Vision](https://open.spotify.com/track/5Y2C5L0dWPe8TbUSwAkJDk) | [Rings Around Saturn](https://open.spotify.com/artist/7f8HHIhSFgk84dH4me4pGK) | [All Things Shining](https://open.spotify.com/album/75htEsqRgU9UbKmQPzNuzn) | 7:20 |
 | 46 | [Dreaming of High Fidelity](https://open.spotify.com/track/10X5d98YvJOFn1YShtEMGj) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/1ohINfz1vkkg9NbVe3Z2RT) | 5:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 79 | [Fata Morgana](https://open.spotify.com/track/1OJNUEqrNlQqiBywcol8dZ) | [Wytchings](https://open.spotify.com/artist/08wkL5BJixMdK3uk6GQ1ay) | [Fata Morgana](https://open.spotify.com/album/4P0Svos3rBkH5RCYOpzlt9) | 6:05 |
 | 80 | [Fountain Chorus, Pt\. 2](https://open.spotify.com/track/1Zu4cmV2IhuSYpw1td0xS3) | [Harrison Rae](https://open.spotify.com/artist/0SQl5I6aPuCZ8aEKGhHNpJ) | [Fountain Chorus, Pt\. 2](https://open.spotify.com/album/3ivR96Tfvi8BnIXaYz6UJB) | 4:27 |
 
-Snapshot ID: `MCxkMWE5ZDIxNmRmMTFlMGU5MTJmZTQwYTIwZWMxMjRjZjJlMzI1NDdh`
+Snapshot ID: `MCwyMzg3ODY2YzFiN2NkNzJhOWY2NDk5Nzg0ZjRiYmU1Yjk2NzRkYTlj`

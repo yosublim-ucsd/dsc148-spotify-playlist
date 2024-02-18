@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,537 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,561 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 37 | [Un Palo Como Tu](https://open.spotify.com/track/1FutDLeZnNdv36lpCq0Eb0) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [El Bacoco](https://open.spotify.com/artist/62pQLqF1sUAdFCpEGcVDHM), [Titico](https://open.spotify.com/artist/4URQuC2OfCP7ajydzMnQY7) | [Un Palo Como Tu](https://open.spotify.com/album/2fpQ5SJoudmJe0AP5fNdCY) | 3:25 |
 | 38 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 |
 | 39 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
-| 40 | [No Mas Mentiras \- Remix](https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8) | 4:04 |
-| 41 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
+| 40 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
+| 41 | [No Mas Mentiras \- Remix](https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8) | 4:04 |
 | 42 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
 | 43 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
 | 44 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 47 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 48 | [No Vas](https://open.spotify.com/track/5ZYqftcWxl6AOiE2HLToDc) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Música de Reyes](https://open.spotify.com/album/5gWr4Q8XrBrvxJiAMxLgvo) | 3:40 |
 | 49 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
-| 50 | [El Verdadero Palo](https://open.spotify.com/track/73lOC7Sg5p7hiVo05jjILM) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Marvin Freddy](https://open.spotify.com/artist/3I0QgDOz7H5a93lvRagnRe) | [El Verdadero Palo](https://open.spotify.com/album/6Wurfg3vmjhrTdhdf9XkOO) | 3:14 |
+| 50 | [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 |
 
-Snapshot ID: `MCxjOTBkMmY5MjJjMDk2M2RiM2ExYjAxYTdjODc0ZGYxMmM3NGJiZWMx`
+Snapshot ID: `MCxhZjAyMDZlNmJkODlmOTQ0NTRjNGMzOTVlNWQ4YzhkMjFlYjY4MGRj`

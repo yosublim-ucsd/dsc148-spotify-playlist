@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 81409,
+  "2024-02-18": 81496,
   "date_first_scraped": "2022-12-04",
   "description": "The most popular Jazz tracks in one playlist. Cover: Herbie Hancock",
   "name": "Just Jazz",
@@ -4069,7 +4069,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 712826,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N"
@@ -7095,7 +7095,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 196146,
       "name": "Lullaby Of The Leaves",
       "url": "https://open.spotify.com/track/2ynGfwePiLptW599QebWbr"

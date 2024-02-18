@@ -1,7 +1,7 @@
 {
-  "2024-02-17": 13044,
+  "2024-02-18": 13056,
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Milo J en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Gera MX y EMJAY en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -413,7 +413,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 193103,
       "name": "Ahora Me Llamas?",
       "url": "https://open.spotify.com/track/0TNizA9ajRISlMeOHuVarM"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 130289,
       "name": "BAJO PRESI\u00d3N",
       "url": "https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ"
@@ -981,6 +981,24 @@
       "duration_ms": 128000,
       "name": "BEEMO",
       "url": "https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh"
+    },
+    {
+      "album": {
+        "name": "Bendecida Y Afortunada",
+        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159836,
+      "name": "Bendecida Y Afortunada",
+      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
     },
     {
       "album": {
@@ -2096,6 +2114,28 @@
     },
     {
       "album": {
+        "name": "Cuatro 44",
+        "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Cuatro 44",
+      "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
+    },
+    {
+      "album": {
         "name": "Cuentas Claras\u2026",
         "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
       },
@@ -2254,6 +2294,36 @@
     },
     {
       "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        },
+        {
+          "name": "Pezcatore",
+          "url": "https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Da Capo",
+      "url": "https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN"
+    },
+    {
+      "album": {
         "name": "Dale Suave",
         "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
       },
@@ -2375,7 +2445,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 167441,
       "name": "De Oro",
       "url": "https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB"
@@ -2919,7 +2989,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 244904,
       "name": "El Poder y la Traici\u00f3n",
       "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
@@ -3151,7 +3221,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 186495,
       "name": "Enrolemos uno",
       "url": "https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L"
@@ -3415,7 +3485,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 375360,
       "name": "Estrobos",
       "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
@@ -3711,7 +3781,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 157600,
       "name": "Furyosa",
       "url": "https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw"
@@ -4211,6 +4281,36 @@
       "duration_ms": 184000,
       "name": "Intento Tras Intento",
       "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "album": {
+        "name": "Jazz de Mala Muerte",
+        "url": "https://open.spotify.com/album/00eALzFH1H6AZBOTHP0xyp"
+      },
+      "artists": [
+        {
+          "name": "Zalama Crew",
+          "url": "https://open.spotify.com/artist/7u7QF5UODXg2mYJqymE570"
+        },
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "Tsh Sudaca",
+          "url": "https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO"
+        },
+        {
+          "name": "Atta Babilans",
+          "url": "https://open.spotify.com/artist/2hadRbeW6K4ijqoDIIKKos"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306798,
+      "name": "Jazz de Mala Muerte",
+      "url": "https://open.spotify.com/track/5H82eluSZKJmDyW1KFNyII"
     },
     {
       "album": {
@@ -4907,7 +5007,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 181947,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/6s6xMMFGXLntUYlgcKn0bD"
@@ -5477,6 +5577,24 @@
       "duration_ms": 91669,
       "name": "Lunes 12 B",
       "url": "https://open.spotify.com/track/3t8cVVppZQYfHhfwHIk3yT"
+    },
+    {
+      "album": {
+        "name": "L\u00c1SER",
+        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "L\u00c1SER",
+      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
     },
     {
       "album": {
@@ -6957,7 +7075,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 225238,
       "name": "No Plastic",
       "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
@@ -7750,6 +7868,32 @@
     },
     {
       "album": {
+        "name": "PINK FLOYD",
+        "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171882,
+      "name": "PINK FLOYD",
+      "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"
+    },
+    {
+      "album": {
         "name": "Pir\u00f3manos",
         "url": "https://open.spotify.com/album/209Tin0wFdhGd7nCvfQFzg"
       },
@@ -8266,6 +8410,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
+    },
+    {
+      "album": {
         "name": "Rap y Calle No. 14",
         "url": "https://open.spotify.com/album/0dskqXcaAzwq8R3uVcobcU"
       },
@@ -8517,6 +8679,36 @@
       "duration_ms": 167999,
       "name": "Revientalo #29",
       "url": "https://open.spotify.com/track/7n1bDf2wWsH1Y4mGW1cswS"
+    },
+    {
+      "album": {
+        "name": "Rimas Femeninas",
+        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Joaka",
+          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
+        },
+        {
+          "name": "Moyenei",
+          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
+        },
+        {
+          "name": "Yoez",
+          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193952,
+      "name": "Rimas Femeninas",
+      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
     },
     {
       "album": {
@@ -9159,6 +9351,66 @@
       "duration_ms": 243435,
       "name": "Tania",
       "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
+    },
+    {
+      "album": {
+        "name": "Tantas Veces",
+        "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
+      },
+      "artists": [
+        {
+          "name": "Sike Damodar",
+          "url": "https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO"
+        },
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "Dj Peche",
+          "url": "https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s"
+        },
+        {
+          "name": "Barbatos Beats",
+          "url": "https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh"
+        },
+        {
+          "name": "Diavlitx",
+          "url": "https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149408,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
+    },
+    {
+      "album": {
+        "name": "TARIMA",
+        "url": "https://open.spotify.com/album/3Mv4iYvIenzYXXntdpN2Ff"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Eddy Mugre",
+          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "TARIMA",
+      "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
     },
     {
       "album": {
@@ -9831,7 +10083,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 208968,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"

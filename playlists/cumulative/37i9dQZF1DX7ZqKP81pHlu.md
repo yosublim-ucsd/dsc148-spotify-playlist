@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-190 songs - 11 hr 36 min
+191 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 | 2022-09-29 |
 | [Halef](https://open.spotify.com/track/28kzTkgv60LFKbEGwdFgYa) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch), [Albaa](https://open.spotify.com/artist/3c0hnWjJw7lqYApYq7ihdT) | [Halef](https://open.spotify.com/album/5wq51CWjGXTao5FkGZe8Tv) | 3:30 | 2022-11-26 | 2023-03-07 |
 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 | 2021-12-09 | 2023-05-11 |
-| [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 | 2023-07-07 |  |
+| [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 | 2023-07-07 | 2024-02-18 |
+| [Hay aliya](https://open.spotify.com/track/0aue7wbnxU90q1ea2pC19Y) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/3sURigJ1E53P3yCgHkIjEG) | 2:57 | 2024-02-12 |  |
 | [HINATA](https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [HINATA](https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p) | 2:55 | 2022-09-19 | 2024-01-23 |
 | [Héréditaire](https://open.spotify.com/track/6T76ooly64vILBrarOWqFY) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Héréditaire](https://open.spotify.com/album/0u1x3zt7EstMjWxfPxLf3A) | 3:58 | 2023-07-09 |  |
 | [I Wanna Go](https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [I Wanna Go](https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo) | 3:50 | 2023-08-14 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 2769331,
+  "2024-02-18": 2769350,
   "date_first_scraped": "2021-12-21",
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:508weSx4HBumrGggFmc7br\">Hunxho</a>",
   "name": "Most Necessary",
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 202886,
       "name": "AIN\u2019T NOTHIN",
       "url": "https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 155675,
       "name": "BACK2ORBIT",
       "url": "https://open.spotify.com/track/67UwEESR9kfCdMuTNLeXaK"
@@ -2421,6 +2421,28 @@
       "duration_ms": 120035,
       "name": "BeBe (feat. LC Levi)",
       "url": "https://open.spotify.com/track/18EsiBygSie4CIRBSZs1eG"
+    },
+    {
+      "album": {
+        "name": "Becky (feat. 41)",
+        "url": "https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Becky (feat. 41)",
+      "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
     },
     {
       "album": {
@@ -3869,7 +3891,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 140400,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
@@ -4283,7 +4305,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 184624,
       "name": "Bulletproof (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3"
@@ -5867,7 +5889,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 169811,
       "name": "Crown Me",
       "url": "https://open.spotify.com/track/5Z7PKPhCTAmLg8xhqPomZO"
@@ -6547,7 +6569,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 179073,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/7Fih8tTwayGy0WZuKWZvQA"
@@ -6809,7 +6831,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 148687,
       "name": "DIRTY SPOT",
       "url": "https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX"
@@ -7512,6 +7534,28 @@
     },
     {
       "album": {
+        "name": "DOUBLE C'S",
+        "url": "https://open.spotify.com/album/041Ob2CNpT4FRvtYLcb4bd"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "DOUBLE C'S",
+      "url": "https://open.spotify.com/track/1qyxY6QPNfoTEsAeWpl6Fw"
+    },
+    {
+      "album": {
         "name": "Doves",
         "url": "https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW"
       },
@@ -7959,7 +8003,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 203851,
       "name": "Everything Dead",
       "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
@@ -8021,6 +8065,24 @@
       "duration_ms": 139305,
       "name": "Evil",
       "url": "https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J"
+    },
+    {
+      "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/3dhfnNNe2KWFApJ4dP5B01"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142804,
+      "name": "Evil Twin",
+      "url": "https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq"
     },
     {
       "album": {
@@ -8781,6 +8843,24 @@
       "duration_ms": 127826,
       "name": "FINDERS KEEPERS (feat. Scorey & Internet Money)",
       "url": "https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG"
+    },
+    {
+      "album": {
+        "name": "2 Slippery",
+        "url": "https://open.spotify.com/album/4C0ygkaQ743p2qKoJSfkmk"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/7FCBaE2gGhlWUzUaROPqoV"
     },
     {
       "album": {
@@ -11073,7 +11153,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 142155,
       "name": "Han Solo",
       "url": "https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7"
@@ -14016,6 +14096,28 @@
     },
     {
       "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/3iMC72oE5hsEApvx7apo6s"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132423,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/47t4RubecWq6Yz3IguRuKd"
+    },
+    {
+      "album": {
         "name": "kingtut",
         "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
       },
@@ -15416,6 +15518,24 @@
     },
     {
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/2zg5IfRbxXHr0WriP9UZ0G"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151431,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/5YDlwTwOXisQwaKbeZLXxT"
+    },
+    {
+      "album": {
         "name": "Help Is On The Way (Deluxe)",
         "url": "https://open.spotify.com/album/6AB9OOUQJaPhZWADvpu5ab"
       },
@@ -15809,7 +15929,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 156288,
       "name": "Man In The Mirror",
       "url": "https://open.spotify.com/track/6NjApMNzj1QvOxVw9XV1eA"
@@ -18037,10 +18157,6 @@
         {
           "name": "Mark Battles",
           "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
-        },
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
         }
       ],
       "date_added": "2024-02-02",
@@ -18613,6 +18729,40 @@
       "duration_ms": 224470,
       "name": "Not a Drill",
       "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
+    },
+    {
+      "album": {
+        "name": "NOT AVAILABLE",
+        "url": "https://open.spotify.com/album/1obQnFNZRGHtUBE6G6ZJul"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "Sdot Go",
+          "url": "https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        },
+        {
+          "name": "Jay5ive",
+          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
+        },
+        {
+          "name": "NazGPG",
+          "url": "https://open.spotify.com/artist/6sCHVEyGueEk9b4mW3Tukm"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124074,
+      "name": "NOT AVAILABLE",
+      "url": "https://open.spotify.com/track/2eVA7XGnuaVpwf8KFp8HvF"
     },
     {
       "album": {
@@ -19551,6 +19701,28 @@
       "duration_ms": 204200,
       "name": "Only Us (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6aFwH3iEHwbuJByoRcg3BY"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5u5G6k9YtF2LYpXXTkQXfl"
     },
     {
       "album": {
@@ -22570,6 +22742,24 @@
     },
     {
       "album": {
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/33YGEZAInWHu05iQAoLmfc"
+      },
+      "artists": [
+        {
+          "name": "Dee Watkins",
+          "url": "https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150439,
+      "name": "Right Or Wrong",
+      "url": "https://open.spotify.com/track/67HBjDb9HgqkvUn5uihPBO"
+    },
+    {
+      "album": {
         "name": "Riot",
         "url": "https://open.spotify.com/album/7glR8qsTx6uTCheooEyubi"
       },
@@ -23923,6 +24113,32 @@
       "duration_ms": 105037,
       "name": "She Legit",
       "url": "https://open.spotify.com/track/59fW5x3glsGiYADid8Dazy"
+    },
+    {
+      "album": {
+        "name": "She The 1",
+        "url": "https://open.spotify.com/album/3Mg85011xnTsWxslYox4pD"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199444,
+      "name": "She The 1",
+      "url": "https://open.spotify.com/track/6y9W1IYKdA2KVYYCj3nfOq"
     },
     {
       "album": {
@@ -25702,6 +25918,24 @@
     },
     {
       "album": {
+        "name": "Still In Shocc",
+        "url": "https://open.spotify.com/album/6gStbu2InOcGRzpUAKxTpN"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Still In Shocc",
+      "url": "https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9"
+    },
+    {
+      "album": {
         "name": "Stomp Stomp",
         "url": "https://open.spotify.com/album/24P4I4fLYtPiSWZWRrReSn"
       },
@@ -25729,7 +25963,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 188595,
       "name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
       "url": "https://open.spotify.com/track/30TEsD9nJfrJSRL1RTJMDg"
@@ -26231,7 +26465,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 173749,
       "name": "Tag Me In",
       "url": "https://open.spotify.com/track/5QQ1zEhxJ4k2zdkcHV2hoT"
@@ -28231,7 +28465,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 131117,
       "name": "UFHO",
       "url": "https://open.spotify.com/track/2g3pFa3ySgKc86ZzcgBts5"
@@ -30821,6 +31055,24 @@
       "duration_ms": 127369,
       "name": "Yondu",
       "url": "https://open.spotify.com/track/3I4hBGTaTIoJn5YnDgXuI8"
+    },
+    {
+      "album": {
+        "name": "YOSHIMITSU",
+        "url": "https://open.spotify.com/album/4slW380gBywM6GpFwXzYWi"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172934,
+      "name": "YOSHIMITSU",
+      "url": "https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,219 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,384 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 74 | [麻痺](https://open.spotify.com/track/1LwSnnsoKcAUv9TPFEZ7iQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/7lXwejcTgkCpmBlwQyMAAV) | 3:18 |
 | 75 | [空と虚](https://open.spotify.com/track/1YvLvyEHEUv6xuablK3kpj) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/0HdkHMdirrj9cn26DrCv7J) | 3:43 |
 
-Snapshot ID: `MCxmNzM1YzM0NTFmNGJmNGIxZGZhODU3MDdkYWJlOGJmZjY0YThjNzkz`
+Snapshot ID: `MCxmMGZkZGJmMTExYjU4MTMyN2NhNjNlZjVkYTdmOTc4Y2Y2ODg5YjYy`

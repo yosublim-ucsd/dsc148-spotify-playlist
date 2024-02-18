@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 5749,
+  "2024-02-18": 5749,
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
   "name": "This Is Banda Vallarta Show",
@@ -1219,10 +1219,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 124344,
       "name": "Tabaco Mascao",
       "url": "https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y"
+    },
+    {
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128186,
+      "name": "Tabaco Mascao",
+      "url": "https://open.spotify.com/track/30Q48f3hKqmUaTP4s35JeD"
     },
     {
       "album": {

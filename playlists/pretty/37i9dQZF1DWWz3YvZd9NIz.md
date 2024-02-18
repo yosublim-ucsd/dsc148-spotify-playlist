@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,804 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,031 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 39 | [S&M \- Hardstyle Remix](https://open.spotify.com/track/2cMwo7ZajYAd0NxNire01U) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [S&M \(Hardstyle Remix\)](https://open.spotify.com/album/0zwZA275sXncQ4rqUgQ4Y1) | 2:14 |
 | 40 | [Heaven \- DJ Isaac Remix](https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Heaven \(Remixes\)](https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF) | 3:18 |
 | 41 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 |
-| 42 | [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 |
-| 43 | [Stereo Love \- Timmy Trumpet Remix](https://open.spotify.com/track/4nZzDM7l0biCO2Ve2cjiys) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stereo Love \(Timmy Trumpet Remix\)](https://open.spotify.com/album/4igYwxZ4ECS4oOrArIwyvl) | 3:14 |
+| 42 | [Stereo Love \- Timmy Trumpet Remix](https://open.spotify.com/track/4nZzDM7l0biCO2Ve2cjiys) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Stereo Love \(Timmy Trumpet Remix\)](https://open.spotify.com/album/4igYwxZ4ECS4oOrArIwyvl) | 3:14 |
+| 43 | [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 |
 | 44 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/512iVeSpSMzPWsorQgYopk) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/0f7JldDsTZugn7KtXJ4VEe) | 1:56 |
 | 45 | [I'm Good \(Blue\) \- Hardstyle Remix](https://open.spotify.com/track/5YQoeliHU9Iz2La6pgsL9X) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [I'm Good \(Blue\) \[Hardstyle Remix\]](https://open.spotify.com/album/6ve23uImjwV76ljprYJHSZ) | 2:31 |
 | 46 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 |
 | 70 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 
-Snapshot ID: `MCwyYTNiZDcwMDdkMzkxMjIzYjE3ZjNkMTM4YzRlNWMzM2I0Zjg4OWYz`
+Snapshot ID: `MCxhNmJhM2E1ZWE1NWI3Y2VkYTRmMDBmYzhjMDdkOGMyNjhhOTMzY2Rk`

@@ -1,5 +1,5 @@
 {
-  "2024-02-17": 581854,
+  "2024-02-18": 581907,
   "date_first_scraped": "2021-12-21",
   "description": "Cold beer. Hot wings. Great rock. ",
   "name": "Beer & Wings",
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-17",
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
@@ -2253,7 +2253,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"

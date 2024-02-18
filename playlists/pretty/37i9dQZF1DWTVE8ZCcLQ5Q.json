@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413863,
+  "num_followers": 413839,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2",
+  "snapshot_id": "MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "O outro lado do rio",
+        "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Mathias",
+          "url": "https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28"
+        }
+      ],
+      "duration_ms": 194351,
+      "name": "Me chama pra dan\u00e7ar",
+      "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 175922,
       "name": "Levado - Spotify Singles",
       "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "O outro lado do rio",
-        "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Mathias",
-          "url": "https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Me chama pra dan\u00e7ar",
-      "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
     },
     {
       "added_at": "2023-10-05 08:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  Strongman
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,001 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,014 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 34 | [GLORY IN PAIN](https://open.spotify.com/track/08sfOSEJMKEQ8HwGzqg8yT) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 2:38 |
 | 35 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 | 36 | [Celebrate \(feat\. Black Sherif\)](https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 3:47 |
-| 37 | [Giwa](https://open.spotify.com/track/7b8W63ncQ0qnlGWJSsQvlG) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [SlickzMadeThat](https://open.spotify.com/artist/6CR459ICiPc6teRID8u4u3) | [Giwa](https://open.spotify.com/album/4LW20V5XK2LHZPiSOxnzLT) | 1:50 |
+| 37 | [Giwa](https://open.spotify.com/track/7b8W63ncQ0qnlGWJSsQvlG) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [SlickzMadeThat](https://open.spotify.com/artist/5ZPyB3gOxAUDfZpt2WfylJ) | [Giwa](https://open.spotify.com/album/4LW20V5XK2LHZPiSOxnzLT) | 1:50 |
 | 38 | [Streets Ayeshi](https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV), [QV](https://open.spotify.com/artist/50CBRvn7AKdKTErB76P7dv), [Abdoulaye Diope](https://open.spotify.com/artist/5B7uXAP6dAICj1MahqaPSy) | [Trenches Babies](https://open.spotify.com/album/3IP9LuMkbM7Ka57uxuyiWd) | 4:16 |
 | 39 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 |
 | 40 | [No More](https://open.spotify.com/track/49ki3oqWJdFEJaEbMCC9SC) | [Kojo Trap](https://open.spotify.com/artist/3LKI86pr57MINaTNab74qI), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [No More](https://open.spotify.com/album/1Ox2kUReJXvoBgK2xJYFiu) | 3:17 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 78 | [YaaCross Won Part II](https://open.spotify.com/track/1jikb4yHocmQWCxwbE905J) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT), [Teephlow](https://open.spotify.com/artist/765WbdRs651BXTSFu0gYKi) | [YaaCross Won Part II](https://open.spotify.com/album/7ql3KAdzGVQZkxLLpi5eOX) | 2:12 |
 | 79 | [Gimme Grace](https://open.spotify.com/track/6ffqvYWjuFKYreV7DK6xfQ) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We), [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1) | [Gimme Grace](https://open.spotify.com/album/1Y5UvC1xVYr7ejO8AUws02) | 2:55 |
 
-Snapshot ID: `MCwwMDBjZWUwNGYwOTEyYTIzMzI1NThmYzNhMjNiYmM0MTI1ZTNkZmNi`
+Snapshot ID: `MCw2ZThhYjNmNmM1NjljZGJlN2Q3MTE5NTYzMWQyNDgyYWUxNmI3M2U1`

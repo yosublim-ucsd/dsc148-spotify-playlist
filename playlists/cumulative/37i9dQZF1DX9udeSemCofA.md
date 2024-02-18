@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-111 songs - 7 hr 14 min
+112 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,8 +114,9 @@
 | [White Rice Dub](https://open.spotify.com/track/2cqbNNonGbQE0zfF9HRLan) | [Jah Thomas](https://open.spotify.com/artist/6HlApAOH4X51mkur3KeMGr) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 2:59 | 2020-06-16 |  |
 | [Zion Gate \- Dub](https://open.spotify.com/track/47FAgQPir7zP5ki006SaCo) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7), [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [This Is Trojan Dub](https://open.spotify.com/album/5tA2nuPhQz0AVIzQtayJKi) | 3:13 | 2023-03-03 | 2023-08-20 |
 | [Zion Gate Dub](https://open.spotify.com/track/0XDFYnvZANTULQxWofURlH) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [From The Palace Of Dub](https://open.spotify.com/album/0Tx1mUzIAdN43N7lMW2LUW) | 3:10 | 2020-06-16 | 2023-03-25 |
-| [Zion Gate Dub](https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Ska Jam: The Rude Boy Mixtape](https://open.spotify.com/album/2Mr8jBQeCqWMTBDMJfoXBk) | 3:12 | 2023-06-22 |  |
+| [Zion Gate Dub](https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Ska Jam: The Rude Boy Mixtape](https://open.spotify.com/album/2Mr8jBQeCqWMTBDMJfoXBk) | 3:12 | 2023-06-22 | 2024-02-18 |
 | [Zion Gate Dub](https://open.spotify.com/track/1ipNNP3bwILX6W2nMa29S7) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [30 Years of Dub Music on the Go](https://open.spotify.com/album/0kznl5dkzF6bOQU30BAe3F) | 3:14 | 2023-06-22 | 2023-11-05 |
+| [Zion Gate Dub](https://open.spotify.com/track/6ylMmlXNm2aCRt1nLhtONX) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7), [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [This Is Trojan Dub](https://open.spotify.com/album/5Aa94Y8ws6HvzFlfwMzRsl) | 3:13 | 2023-06-22 |  |
 | [Zionyouth](https://open.spotify.com/track/2FrZoMAivb7RSId6R8z7ZW) | [Vin Gordon](https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj) | [Keep The Pressure Down \- Essential Roots Reggae Rarities](https://open.spotify.com/album/2QDnGgCbcB48ZMCprCvoaf) | 3:08 | 2020-06-16 | 2022-07-29 |
 | [Zionyouth](https://open.spotify.com/track/3wy8aJfGwaTO8D6ZkV9bwJ) | [Vin Gordon](https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj) | [Kings of Kingston, Jamaica](https://open.spotify.com/album/379KfVQQh06TbtgHUfflJH) | 3:08 | 2020-06-16 |  |
 | [Zionyouth](https://open.spotify.com/track/6W8qaYPPWL5CxGbvLKpvT4) | [Vin Gordon](https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj) | [Keep the Pressure Down](https://open.spotify.com/album/5WuRzPhWIEMwdpHu3FR2yg) | 3:08 | 2022-11-10 | 2022-11-13 |

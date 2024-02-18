@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: AR Paisley",
-  "num_followers": 7087,
+  "num_followers": 7092,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmVkZTRlOTBjMjUwODE2YzNjMzMwYTU1Nzc5OTFiYTMyNmQwMThm",
+  "snapshot_id": "MCwzOWU5MTk5MTY3NDk2YWIxNGE4YTZkOTRjYTA4MDA4ZDVlNDkyMGQx",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -470,6 +470,10 @@
         {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
         }
       ],
       "duration_ms": 157173,

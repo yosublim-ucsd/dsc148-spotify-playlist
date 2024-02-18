@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,913 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,626 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 27 | [Boulevard des problèmes](https://open.spotify.com/track/6SmG46rqD5xF7sboBTf3Xp) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:05 |
 | 28 | [Oublie\-le](https://open.spotify.com/track/1XPGoMhSvUIrv7zKG5Vi3y) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:22 |
 | 29 | [All eyes on me](https://open.spotify.com/track/0ySG6lQwoDCdtDCuQuRDrT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [All eyes on me](https://open.spotify.com/album/5otdGXKxJdrYSU98OubLpT) | 2:53 |
-| 30 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 |
+| 30 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 |
 | 31 | [Babylone](https://open.spotify.com/track/2j494b1ZhXswDVorEIV5va) | [Népal](https://open.spotify.com/artist/1E8w172gkuT5htpwaIEsEl) | [2016 \- 2018](https://open.spotify.com/album/3QycsedIXFMAuoE3QEIOlf) | 3:27 |
 | 32 | [1 2 3 4](https://open.spotify.com/track/5JVR0F2Gya13oWlAG3dc62) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [SÛR ET CERTAIN](https://open.spotify.com/album/2XOWQl3JrnpzrUcD3QgMFl) | 3:00 |
 | 33 | [Guantanamera \(She's Hot\)](https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [I Am Armando \- Armando Reloaded](https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB) | 3:25 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 39 | [On ira](https://open.spotify.com/track/0O7j6n6xv3XtsqAqZw0nYM) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Recto verso \(Deluxe\)](https://open.spotify.com/album/0rFKJTkteZamC0YcH3ZWf4) | 2:58 |
 | 40 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 |
 | 41 | [Pop Smoke](https://open.spotify.com/track/0a8EGtC7rANxO6sHx088Kr) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg) | [En attendant Gambinerie](https://open.spotify.com/album/2l3zGViIn5pwXA3Xivj5Cq) | 1:04 |
-| 42 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 |
+| 42 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
 | 43 | [LA QUOI ? \(feat\. La Mano 1.9\)](https://open.spotify.com/track/5m9qUmxQDp9yuSysJT7nYu) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LA QUOI ? \(feat\. La Mano 1.9\)](https://open.spotify.com/album/3gp9KXiXp9fK9QcYpsURII) | 3:12 |
 | 44 | [Ailleurs](https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:45 |
 | 45 | [Coffre plein](https://open.spotify.com/track/7rjb8ymTxQJjAZHDny04Bn) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [Coffre plein](https://open.spotify.com/album/5tOYj6AOxgk72xSNURFuOu) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 100 | [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 |
 
-Snapshot ID: `MCw5ODlmYmI1ODcwNjlmZTdkYTE1YjkxMmE2MTJjYjNmOWJmOGRkODk1`
+Snapshot ID: `MCxiNzNkN2I4YjY4N2M3YmRlNDA5ZWEzZTY3NjM4ZGRjODAxMjZjYmVj`
